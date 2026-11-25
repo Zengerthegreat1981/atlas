@@ -26,7 +26,7 @@ Sufis distinguished between the **station** (*maqam*), which is what the servant
 
 ## Al-Sarraj and al-Kalabadhi
 
-The earliest major systematisation is found in Abu Nasr al-Sarraj (d. 378 AH / 988 CE), in *al-Luma'*. His stations are seven: repentance, scrupulousness, asceticism, poverty, patience, reliance on God and contentment. His states are ten: watchfulness, nearness, love, fear, hope, longing, intimacy, tranquillity, contemplation and certainty. Al-Kalabadhi (d. c. 380 AH / 990 CE), in *al-Ta'arruf li-Madhhab Ahl al-Tasawwuf*, also treated stations and states, with a somewhat different arrangement. Arberry edited his book (Cairo, 1934).
+The earliest major systematisation is found in Abu Nasr al-Sarraj (d. 378 AH / 988 CE), in *al-Luma'*. His stations are seven: repentance, scrupulousness, asceticism, poverty, patience, reliance on God and contentment. His states are ten: watchfulness, nearness, love, fear, hope, longing, intimacy, tranquillity, contemplation and certainty. Al-Kalabadhi (d. c. 380 AH / 990 CE), in *al-Ta'arruf li-Madhhab Ahl al-Tasawwuf*, also treated stations and states, in a different order. A. J. Arberry edited the Arabic text (Cairo: Maktabat al-Khanji, 1352 AH / 1933–34 CE).
 
 ## The Stages of the Travellers
 
@@ -34,7 +34,7 @@ Abdullah al-Ansari al-Harawi (d. 481 AH / 1089 CE) wrote *Manazil al-Sa'irin* (*
 
 ## Al-Ghazali: Linking Stations to Knowledge and Action
 
-In *Ihya' 'Ulum al-Din*, al-Ghazali rearranged the stages in the final quarter, "the Quarter of Saving Things" (*al-Munjiyat*): repentance, patience, gratitude, fear, hope, poverty, asceticism, unity (*tawhid*), reliance on God, love, longing and contentment. He linked each station to the triad of "knowledge, state and action", so that the stations became an educational method rather than a description of experiences.
+In *Ihya' 'Ulum al-Din*, al-Ghazali rearranged the stages in the final quarter, "the Quarter of the Things That Save" (*rub' al-munjiyat*): repentance; patience and gratitude; fear and hope; poverty and asceticism; unity (*tawhid*) and reliance on God; love, longing, intimacy, and contentment; then intention, self-examination, meditation, and the remembrance of death. Within the books on the virtues he repeatedly distinguished knowledge (*'ilm*), the inward state (*hal*), and action (*'amal*), so that the map became a programme of instruction as well as a description of experience.
 
 ## Disagreement over the Order
 
@@ -47,6 +47,7 @@ The Sufi maps are not successive stages that the traveller leaves behind upon co
 ## Sources
 
 - Abu Nasr al-Sarraj, *al-Luma' fi al-Tasawwuf* (*The Glimmers on Sufism*), ed. R. A. Nicholson. Leiden: Brill, 1914.
-- Al-Kalabadhi, *al-Ta'arruf li-Madhhab Ahl al-Tasawwuf*, ed. A. J. Arberry. Cairo: Maktabat al-Khanji, 1934.
+- Al-Kalabadhi, Abu Bakr. *al-Ta'arruf li-Madhhab Ahl al-Tasawwuf*. Edited by A. J. Arberry. Cairo: Maktabat al-Khanji, 1352 AH / 1933–34.
+- Al-Qushayri, Abu al-Qasim. *Al-Qushayri's Epistle on Sufism* [*al-Risala al-Qushayriyya*]. Translated by Alexander D. Knysh. Reading: Garnet Publishing, 2007.
 - Abdullah al-Ansari al-Harawi, *Manazil al-Sa'irin*, ed. S. de Laugier de Beaurecueil. Cairo: Institut français d'archéologie orientale, 1962.
 - Annemarie Schimmel, *Mystical Dimensions of Islam*. Chapel Hill: University of North Carolina Press, 1975.

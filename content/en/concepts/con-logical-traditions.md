@@ -22,30 +22,31 @@ gaps: []
 
 ## Definition
 
-**Arab-Islamic logic** is the philosophical tradition that arose from the translation of **Aristotle's Organon** (the collection of his logical works) into Arabic in Baghdad between the eighth and tenth centuries CE. It developed through later commentaries and innovations until it became an original philosophical system, rather than a mere transmission of Greek logic.
+The **Arabic logical tradition** (*'ilm al-mantiq*) is the philosophical and formal discipline that originated from the translation, commentary, and creative development of **Aristotle's *Organon*** in the Islamic world between the eighth and fourteenth centuries CE. Far from functioning as passive transmission, Arabic logicians reconstructed the discipline into an autonomous formal science that exerted profound influence on medieval European scholasticism, Islamic legal theory (*usul al-fiqh*), and dialectical theology (*kalam*).
 
-## Origins and context
+## Translation Movement and the Baghdad School
 
-The great translation movement began at the House of Wisdom in Abbasid Baghdad, where translators of the Hunayn circle such as **Ishaq ibn Hunayn**, and later Abu Bishr Matta ibn Yunus, rendered Aristotle's logical works into Arabic (often through Syriac). Around this activity a **Baghdad logical circle** formed in the tenth century, whose members saw themselves as continuing the tradition of the late Alexandrian commentators on Aristotle.
+The movement began in Abbasid Baghdad, where scholars associated with the circle of Hunayn ibn Ishaq and later the Christian translator Abu Bishr Matta ibn Yunus (d. 328 AH / 940 CE) translated the entire Aristotelian logical corpus into Arabic (often via Syriac). In the Arabic tradition, the *Organon* was expanded to include nine books: Porphyry's *Isagoge*, the *Categories*, *De Interpretatione*, *Prior Analytics*, *Posterior Analytics*, *Topics*, *Sophistical Refutations*, alongside the *Rhetoric* and *Poetics*.
 
-## Main features
+A celebrated dispute in 937 CE (326 AH) between the logician Abu Bishr Matta and the grammarian Abu Sa'id al-Sirafi crystallized the debate over logic's cultural legitimacy. While al-Sirafi argued that Greek logic was merely the syntax of the Greek language masquerading as universal thought, logicians maintained that logic was an overarching canon of reason (*alat al-fikr*) that transcends natural languages.
 
-- **al-Farabi** (d. 950 CE), "the Second Teacher" after Aristotle, wrote extensive commentaries on the Aristotelian logical books and introduced them into an intellectual environment that regarded "Greek sciences" with suspicion. He generally followed Aristotle, sometimes introducing modifications, influenced either by Alexander of Aphrodisias or by his own reasoning.
-- **Ibn Sina** (d. 1037 CE), the most original of the three, did not limit himself to explaining Aristotle but rebuilt logic in a new systematic form in his encyclopedias (*al-Shifa'*, *al-Isharat wa-l-tanbihat*), especially in the theory of **conditional propositions** and inference. The later Avicennan tradition went so far as to bypass the texts of Aristotle himself, treating Ibn Sina's logic as an independent source.
-- **Ibn Rushd** (d. 1198 CE) returned to the original Aristotelian project in his short and middle commentaries on the logical works of the *Organon* (and a long commentary on the *Posterior Analytics*), attempting to purify it of later additions. Some of these commentaries were later translated into Hebrew and Latin.
-- **Ibn Taymiyya's critique** (d. 1328 CE): in *Refutation of the Logicians* (*al-Radd 'ala al-mantiqiyyin*), Ibn Taymiyya attacked Aristotelian logic (especially in its Avicennan form) as a sterile cognitive tool based on fixed metaphysical categories, unable to produce new certain knowledge. He argued in its place for reasoning closer to induction and juristic analogy.
+## Foundational Figures and Innovations
 
-## Impact
+- **Al-Farabi** (d. 339 AH / 950 CE): Known as the "Second Teacher" (*al-Mu'allim al-Thani*), al-Farabi harmonized logic with Arabic intellectual culture, classifying it as an instrumental art that governs intelligible concepts just as grammar governs spoken words. He wrote commentaries on the *Organon* and defended the primacy of demonstrative proof (*burhan*).
+- **Ibn Sina (Avicenna)** (d. 428 AH / 1037 CE): Ibn Sina transformed Arabic logic from an Aristotelian exegetical enterprise into an independent, systematic science in encyclopedias like *al-Shifa'* (The Cure) and *al-Isharat wa-al-Tanbihat*. He systematized the division of logic into **conceptualization (*tasawwur*)** and **assent (*tasdiq*)**, developed a sophisticated logic of conditional (*shartiyya*) and temporal propositions, and formulated an original modal syllogistic system. His formulations largely superseded Aristotle's original texts in the eastern Islamic world.
+- **Ibn Rushd (Averroes)** (d. 595 AH / 1198 CE): In al-Andalus, Ibn Rushd resisted Avicennian innovations, writing short, middle, and long commentaries on the *Organon* to restore what he regarded as pure Aristotelian demonstration. His commentaries formed the foundation of Latin and Hebrew Averroism in medieval Europe.
+- **Post-Avicennian Codification**: Later Eastern scholars, such as Athir al-Din al-Abhari (d. 663 AH / 1265 CE; author of *Kitab al-Isaghuji*) and Najm al-Din al-Katibi (d. 675 AH / 1276 CE; author of *al-Risala al-Shamsiyya*), standardized logical manuals that served as the core curriculum of Islamic madrasas into the modern era.
 
-Arab logic formed a decisive bridge between Greek logic and medieval Latin logic, through translations in the twelfth and thirteenth centuries. It also entered into deep interaction with the **science of the principles of jurisprudence** (*usul al-fiqh*) and with theology (*kalam*). Al-Ghazali adopted Aristotelian logic as a tool acceptable under the Sharia in his book *The Criterion of Knowledge* (*Mi'yar al-'ilm*), despite opposition from other jurists.
+## Integration into Religious Sciences and Ibn Taymiyyah's Critique
 
-## Caveats
+The place of logic in the religious sciences changed with **Abu Hamid al-Ghazali** (d. 505 AH / 1111 CE). In *Mi'yar al-'Ilm* and in the prologue to *al-Mustasfa*, he treated formal logic as a religiously neutral instrument of legal and theological reasoning, and he wrote that a person who has not mastered it has no reliable claim to the sciences.
 
-Arab logic is sometimes reduced in Western literature to a mere "stage of transmission" between Greece and Latin Europe. Contemporary researchers, such as Tony Street, reject this reduction and document original contributions, especially by Ibn Sina, that were not present in Aristotle himself.
+The Hanbali polymath **Ibn Taymiyyah** (d. 728 AH / 1328 CE) answered that claim in *al-Radd 'ala al-Mantiqiyyin* (Refutation of the Logicians). He argued that Aristotelian definitions (*hadd*) are either verbal conventions or circular, and that they do not produce new knowledge of things in the world, and that the categorical syllogism does not establish particular existing facts. He defended induction and analogy (*qiyas al-tamthil*) as the forms of reasoning actually used in law and in ordinary knowledge.
 
 ## Sources
 
-- Street, Tony. "Arabic and Islamic Philosophy of Language and Logic." *Stanford Encyclopedia of Philosophy* (revised 2015).
-- Rescher, Nicholas. *The Development of Arabic Logic*. Pittsburgh: University of Pittsburgh Press, 1964.
-- Hallaq, Wael B., trans. *Ibn Taymiyya Against the Greek Logicians*. Oxford: Clarendon Press, 1993.
 - El-Rouayheb, Khaled. *Relational Syllogisms and the History of Arabic Logic, 900–1900*. Leiden: Brill, 2010.
+- Hallaq, Wael B., trans. *Ibn Taymiyya Against the Greek Logicians*. Oxford: Clarendon Press, 1993.
+- Rescher, Nicholas. *The Development of Arabic Logic*. Pittsburgh: University of Pittsburgh Press, 1964.
+- Street, Tony. "Arabic Logic." In *Handbook of the History of Logic*, vol. 1, edited by Dov M. Gabbay and John Woods, 523–596. Amsterdam: Elsevier, 2004.
+- Al-Farabi, Abu Nasr. *Al-Farabi's Short Commentary on Aristotle's Prior Analytics*. Translated by Nicholas Rescher. Pittsburgh: University of Pittsburgh Press, 1963.

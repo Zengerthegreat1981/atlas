@@ -8,7 +8,7 @@ title: "Metaphysics in Islamic Thought"
 en: "Metaphysics in Islamic Thought"
 crumb: "Arab Thought ← Concepts ← Metaphysics in Islamic Thought"
 active_start: 850
-active_end: 1640
+active_end: 1636
 language: "Arabic"
 edges:
 - rel: "belongs_to", target: "Medieval Islamic Philosophy", target_type: "مدرسة"
@@ -24,7 +24,7 @@ gaps: []
 
 # Metaphysics in Islamic Thought
 
-Muslim philosophers called the science that studies being as being "first philosophy," "divine science," and "metaphysics" (*ma ba'd al-tabi'a*). Al-Kindi (d. after 870 CE) began his treatise *On First Philosophy* by saying that the noblest and highest rank of philosophy is the science of the First Truth, which is the cause of every truth, and he established a proof for the createdness of the world and the oneness of the Creator.
+Muslim philosophers called the science that studies being as being "first philosophy," "divine science," and "metaphysics" (*ma ba'd al-tabi'a*). Al-Kindi (d. after 870 CE) began his treatise *On First Philosophy* by saying that the noblest and highest rank of philosophy is the science of the First Truth, which is the cause of every truth, and he offered an argument for the createdness of the world and the oneness of the Creator.
 
 ## Al-Farabi: the First Cause and the ten intellects
 
@@ -32,7 +32,7 @@ Abu Nasr al-Farabi (d. 339 AH / 950 CE), in *The Opinions of the People of the V
 
 ## Being and essence in Ibn Sina
 
-Ibn Sina (d. 428 AH / 1037 CE), in the "Divine Science" (*Ilahiyyat*) of *al-Shifa'*, introduced the distinction between the Necessary Existent, which needs no cause, and the possible existent, which needs one. He made existence a concept prior in conception and separated essence from its existence. Some scholars called his proof the "proof of the veracious" (*burhan al-siddiqin*), because God is known in it through His essence rather than through creatures. Davidson analyzes this proof, and the earlier proofs of creation and eternity, in detail.
+Ibn Sina (d. 428 AH / 1037 CE), in the "Divine Science" (*Ilahiyyat*) of *al-Shifa'*, distinguished the Necessary Existent, which has no cause, from the possible existent, which requires one, and he treated existence as added to quiddity in caused things. In *al-Isharat wa-al-Tanbihat* he presented a proof he called the proof of the veracious (*burhan al-siddiqin*), reaching the Necessary Existent from the consideration of existence rather than from the world as an effect. Herbert A. Davidson examines these arguments, together with the earlier proofs of creation and of eternity.
 
 ## Kalam and the indivisible atom
 
@@ -40,19 +40,22 @@ The theologians built different metaphysics. The Ash'aris held that the atom is 
 
 ## Al-Ghazali and Ibn Rushd
 
-In *The Incoherence of the Philosophers* (1095 CE), al-Ghazali attacked the doctrines of the eternity of the world and causality. Ibn Rushd replied in *The Incoherence of the Incoherence*, defending Aristotle and the necessity of the connection between cause and effect, and laying the blame for departing from Aristotle on Ibn Sina. The standard Arabic edition is that of Sulayman Dunya, and Michael Marmura translated the work into English.
+In *Tahafut al-falasifa* (The Incoherence of the Philosophers), written near the end of his Baghdad years, around 488 AH / 1095 CE, al-Ghazali charged the philosophers with unbelief on three doctrines: the eternity of the world, the denial that God knows particulars, and the denial of bodily resurrection. In a further discussion he rejected the claim that a cause is bound to its effect by logical necessity. Ibn Rushd replied in *Tahafut al-tahafut* (The Incoherence of the Incoherence), defending Aristotelian demonstration and a real connection between cause and effect, and arguing that Ibn Sina had departed from Aristotle on important points. Sulayman Dunya edited the Arabic text of al-Ghazali's *Tahafut*. Michael E. Marmura translated that book into English. Simon van den Bergh translated Ibn Rushd's reply.
 
 ## Suhrawardi and Mulla Sadra
 
-Suhrawardi (d. 587 AH / 1191 CE) made light the principle of being. Mulla Sadra al-Shirazi (d. 1045 AH / 1636 CE), in *The Transcendent Philosophy in the Four Intellectual Journeys* (*al-Hikma al-muta'aliya fi al-asfar al-'aqliyya al-arba'a*), argued for the primacy of existence (*asalat al-wujud*) and its substantial motion, and revisited the duality of essence and existence in Ibn Sina.
+Suhrawardi (d. 587 AH / 1191 CE) made light the principle of being, graded from the Light of Lights down to the dimmest bodies. Mulla Sadra al-Shirazi (d. 1045 AH / 1635–36 CE; a traditional date of 1050 AH / 1640–41 CE is also transmitted), in *al-Hikma al-muta'aliya fi al-asfar al-'aqliyya al-arba'a* (The Transcendent Philosophy in the Four Intellectual Journeys), argued for the primacy of existence (*asalat al-wujud*) over essence, for gradation within existence (*tashkik al-wujud*), and for substantial motion (*al-haraka al-jawhariyya*). He thereby reworked Ibn Sina's distinction of essence and existence rather than simply repeating it.
 
 ## Limits of the classification
 
-Metaphysics in the Islamic tradition remained a contested science. Al-Ghazali rejected it when it took on a philosophical character in three questions, and declared its proponents unbelievers, and Ibn Taymiyya denied it. The term "Islamic philosophy" is a modern designation that suggests a unity that did not exist; it is a mixture of currents.
+Metaphysics remained a contested science. Al-Ghazali's charge of unbelief was limited to the three doctrines named above. It was not a rejection of every inquiry into being. Ibn Taymiyya rejected central claims of both the philosophers and the mutakallimun, including their accounts of essence, existence, and causality. The label "Islamic philosophy" is a modern scholarly frame placed over several competing traditions: Peripatetic *falsafa*, kalam, illuminationism, and later transcendent philosophy.
 
 ## Sources
 
 - al-Kindi. *Rasa'il al-Kindi al-falsafiyya*. Edited by Muhammad Abd al-Hadi Abu Rida. Cairo: Dar al-Fikr al-Arabi, 1950.
 - al-Ghazali, Abu Hamid. *Tahafut al-falasifa*. Edited by Sulayman Dunya. Cairo: Dar al-Ma'arif.
+- al-Ghazali, Abu Hamid. *The Incoherence of the Philosophers*. Translated by Michael E. Marmura. Provo, UT: Brigham Young University Press, 1997.
+- Ibn Rushd, Abu al-Walid. *Tahafut al-Tahafut (The Incoherence of the Incoherence)*. Translated by Simon van den Bergh. 2 vols. London: Luzac, 1954.
 - Davidson, Herbert A. *Proofs of Eternity, Creation, and the Existence of God in Medieval Islamic and Jewish Philosophy*. Oxford: Oxford University Press, 1987.
+- Rahman, Fazlur. *The Philosophy of Mulla Sadra*. Albany: State University of New York Press, 1975.
 - Adamson, Peter. *Al-Kindi*. Oxford: Oxford University Press, 2007.

@@ -19,28 +19,30 @@ gaps: []
 
 # Pre-Islamic Ethics
 
-The value system that prevailed in tribal Arab society on the Arabian Peninsula before the mission of the Prophet Muhammad. Islamic usage knows this era as *al-Jahiliyya* ("the age of ignorance"). Its central axis was the concept of **muruwwa** (manliness, honour and virtue), rather than a written religious legislation.
+Pre-Islamic ethics designates the normative value system, customary morality, and behavioral code that governed tribal Arab society in the Arabian Peninsula during the century preceding the advent of Islam (c. 500–632 CE), an era designated in Islamic historiography as the *Jahiliyya* (the age of pre-revelatory ignorance). Lacking a centralized state apparatus, codification of written statutory laws, or a universalizing institutional religion, pre-Islamic ethical life was rooted in nomadic tribal custom (*'urf*) and ancestral precedent (*sunna*), oriented toward ensuring group survival, honour, and equilibrium in a physically demanding desert ecology.
 
-## Muruwwa as Ethical Core
+## The Ideal of Muruwwa: The Virtues of Manliness and Honour
 
-Muruwwa was the central ethical standard of tribal society. It combined the qualities of courage in battle, fidelity to covenants, generosity and hospitality, endurance in adversity, avenging wrongs to preserve the honour of the tribe, and protection (*dhimma*) of anyone who sought refuge with the tribe. These values were not derived from a revealed religious text, but from inherited tribal custom (*'urf*). That custom secured the survival and cohesion of the group in a harsh desert environment marked by scarce resources and recurrent tribal conflict.
+The conceptual center of pre-Islamic morality, as later Arabic writing remembered it, was **muruwwa** (manliness, virtue, or tribal honor). In *Muhammedanische Studien* (1889), Ignaz Goldziher described *muruwwa* as the characteristic worldly virtue of the pre-Islamic Arab and set it against the God-fearing piety (*din*) of Islam. That contrast has been qualified. M. M. Bravmann and others have argued for more continuity between pre-Islamic virtues and early Islamic piety than Goldziher's opposition allows. *Muruwwa* gathered several praised qualities:
+- **Generosity and Hospitality (*Karam*, *Diyafa*)**: Poetry and legend treat open-handed hospitality as a mark of honor. The celebrated case is the slaughter of a prized camel for a guest even in a hard season. Hatim al-Ta'i, a sixth-century poet of Tayyi' remembered as a Christian, became the proverbial exemplar. The poems state an ideal. They are not a record that every household met it.
+- **Martial Valor and Fortitude (*Shaja'a*, *Hamasa*)**: Courage in battle and readiness to defend the clan's pastures and flocks were celebrated across pre-Islamic poetry, exemplified in the *Mu'allaqat* of warrior-poets like 'Antara ibn Shaddad and 'Amr ibn Kulthum.
+- **Steadfastness and Endurance (*Sabr*)**: Endurance in the face of inevitable misfortunes, physical deprivation, and tragic destiny (*dahr* or *maniyya*) represented the stoic core of the nomadic existential worldview.
+- **Fidelity to Covenants (*Wafa'*)**: Honoring alliances, oaths, and the sacred pledge of protection (*dhimma* or *jiwar*) granted to fugitives or client tribes (*mawali*). The Jewish chieftain al-Samaw'al ibn 'Adiya' of Tayma' became immortalized in Arab proverbial lore ("more faithful than al-Samaw'al") for refusing to betray weapons entrusted to him, even when an attacking prince executed his captive son before his fortress walls.
 
-## Tribal Solidarity as the Supreme Value
+## Tribal Solidarity and the Ethics of Vengeance
 
-*'Asabiyya* (unconditional loyalty to the tribe and its defence, regardless of the source of right) was the governing social value, more than any abstract universal moral standard. Each tribe had its own custom, which might differ from that of another tribe, and there was no central authority imposing one ethical standard on all. Pre-Islamic poetry, such as the *Mu'allaqat*, documented these values directly, since poetry was the instrument for boasting of muruwwa and 'asabiyya and for satirizing those who failed them.
+The operational mechanism of pre-Islamic ethics was **'asabiyya**—unconditional kinship loyalty and solidarity with one's clan (*qawm*):
+- **Collective Liability and Lex Talionis (*Tha'r*)**: In the absence of a police force, the deterrence of violence depended upon the certainty of blood revenge. Murder incurred a collective debt upon the perpetrator's entire clan. Failure to avenge a slain kinsman was considered the ultimate public dishonor; folk beliefs held that an unavenged victim's spirit hovered over the grave as an owl-like wraith (*hama*), shrieking for blood. Prolonged intertribal vendettas—such as the War of Basus between Bakr and Taghlib and the War of Dahis and Ghabra' between 'Abs and Dhubyan—could decimate generations.
+- **Civic Alliances and Moral Restraint (*Hilm*)**: Despite pervasive clannishness, mechanisms existed to curb injustice. Commercial hubs like Mecca fostered collective pacts, most famously **Hilf al-Fudul** (the Pact of the Virtuous), traditionally dated to about 590 CE, in which clans of Quraysh are said to have sworn to defend anyone wronged in the city, regardless of tribe. Muhammad is reported to have attended as a young man and to have recalled the pact with approval. Tribal praise also cultivated *hilm* (forbearance, restraint, and self-command) as the counter to *jahl* (impetuous, arrogant anger).
 
-## The Later Relationship between Jahiliyya and Islam
+## Semantic Transformation under Islam
 
-The Quran and hadith later used the term *jahiliyya*, not necessarily in the sense of absolute cognitive ignorance, but in the sense of the absence of organized divine guidance. Islam retained some muruwwa values, such as generosity, courage and fidelity. It transferred their reference point from tribal 'asabiyya to religious commitment and the fraternity of faith. It also abolished other elements, such as unrestricted blood vengeance, the infanticide of girls and some marriage customs.
-
-## Caveats
-
-- Our knowledge of the ethics of this period relies almost entirely on sources later than Islam (poetry written down later, books of reports and genealogies). This raises methodological questions about how accurately these sources depict actual practice, as opposed to later literary and ideological stereotyping.
-- Some contemporary researchers warn against the projective use of the term *jahiliyya* as a value judgment rather than a neutral historical description.
+In *Ethico-Religious Concepts in the Qur'an* (1966), Toshihiko Izutsu analyzed how the Qur'an reworks this ethical vocabulary. Generosity, patience, and courage remain, and they are tied to God-wariness (*taqwa*) and to a community not defined only by tribe. The Qur'an condemns female infanticide (*wa'd al-banat*), the boast of ancestry (*fakhr*), and vengeance pursued without limit. Condemnation in the text is not the same as an immediate end of the practices.
 
 ## Sources
 
-- Izutsu, Toshihiko. *Ethico-Religious Concepts in the Qur'an*. Montreal: McGill University Press, 1966.
 - Bravmann, M. M. *The Spiritual Background of Early Islam: Studies in Ancient Arab Concepts*. Leiden: Brill, 1972.
+- Goldziher, Ignaz. *Muslim Studies* [*Muhammedanische Studien*]. Edited by S. M. Stern. Vol. 1. London: George Allen & Unwin, 1967.
 - Hoyland, Robert G. *Arabia and the Arabs: From the Bronze Age to the Coming of Islam*. London: Routledge, 2001.
-- Goldziher, Ignaz. *Muhammedanische Studien*, vol. 1. Halle: Niemeyer, 1889 (chapter on *muruwwa* and *din*).
+- Izutsu, Toshihiko. *Ethico-Religious Concepts in the Qur'an*. Montreal: McGill University Press, 1966. Reprint, Montreal: McGill-Queen's University Press, 2002.
+- Montgomery, James E. *The Vagaries of the Qasīdah: The Tradition and Practice of Early Arabic Poetry*. Cambridge: E.J.W. Gibb Memorial Trust, 1997.

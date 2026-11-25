@@ -23,7 +23,7 @@ In the Arabic rhetorical heritage, **majaz** (figurative usage) is the use of a 
 
 ## Theoretical Foundation: Abd al-Qahir al-Jurjani
 
-**Abd al-Qahir al-Jurjani** (d. 471 AH / 1078 CE) is the foundational theorist of a precise rhetorical account of majaz and metaphor, in his two reference works *Asrar al-Balagha* (*The Secrets of Rhetoric*) and *Dala'il al-I'jaz* (*The Proofs of Inimitability*). Al-Jurjani turned a scattered heritage of grammatical, philosophical and critical observations into a coherent theory built around the concept of **nazm** (the arrangement of words according to the requirements of grammatical meaning). He held that the rhetorical power of a metaphor lies not in the single word but in the **syntactic relation** between words within the sentence. Among his key concepts is **tamthil** (representation), an elaborate form of figurative comparison in which the point of resemblance is drawn from a composite situation or image rather than from a single, direct attribute.
+**Abd al-Qahir al-Jurjani** (d. 471 AH / 1078 CE) is the foundational theorist of a precise rhetorical account of majaz and metaphor, in his two reference works *Asrar al-Balagha* (*The Secrets of Rhetoric*) and *Dala'il al-I'jaz* (*The Proofs of Inimitability*). Al-Jurjani turned a scattered heritage of grammatical, philosophical and critical observations into a coherent theory built around the concept of **nazm** (the arrangement of words according to the requirements of grammatical meaning). In *Dala'il al-I'jaz* he held that eloquence lies not in single words taken in isolation but in the **syntactic relations** among words within the sentence. Among his key concepts is **tamthil** (representation), an elaborate form of figurative comparison in which the point of resemblance is drawn from a composite situation or image rather than from a single, direct attribute.
 
 ## Distinguishing Literal and Figurative Meaning
 
@@ -39,7 +39,7 @@ Al-Jurjani's theory of majaz and metaphor influenced the development of the whol
 
 ## Limitations
 
-The dispute over the limits of majaz in language and in the religious text remains a live debate between the schools of jurisprudence. Modern readings (such as the work of Ahmad al-Mutawakkil in functional linguistics) re-evaluate how far the classical literal/figurative dichotomy fits actual linguistic usage.
+The dispute over the limits of majaz in language and in the religious text remains a live debate between the schools of jurisprudence. Modern functional linguists, among them Ahmad al-Mutawakkil, have reread parts of the classical rhetorical and grammatical heritage as a theory of communicative function. That rereading does not, by itself, decide the older legal dispute over majaz in the Qur'an.
 
 ## Sources
 

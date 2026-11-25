@@ -7,7 +7,7 @@ level: "متقدم"
 title: "Rhetoric & Poetics"
 en: "Rhetoric & Poetics"
 crumb: "Arab Thought ← Concepts ← Rhetoric & Poetics"
-active_start: 850
+active_start: 800
 active_end: "مستمر"
 language: "Arabic"
 edges:
@@ -23,15 +23,15 @@ The classical Arabic science that studies the methods of eloquent and persuasive
 
 ## Foundation in the Work of Abd al-Qahir al-Jurjani
 
-**Abd al-Qahir al-Jurjani** (d. 471 AH / 1078 CE) is the true founder of Arabic rhetoric as a coherent theory, in his two books *Dala'il al-I'jaz* and *Asrar al-Balagha*. Al-Jurjani formulated the **theory of nazm** (composition), which holds that the beauty and eloquence of a style lie not in individual words taken alone, but in the grammatical and semantic relations that link words to one another within the full structure of the sentence. He applied this theory especially to the question of the **rhetorical inimitability of the Qur'an** (*i'jaz al-Qur'an*), arguing that the inimitability of the Qur'an springs from a complete coherence between meanings and their verbal formulation, not from the strangeness of its vocabulary alone.
+**Abd al-Qahir al-Jurjani** (d. 471 AH / 1078 CE) gave Arabic rhetoric a coherent theoretical form in his two books *Dala'il al-I'jaz* and *Asrar al-Balagha*. Al-Jurjani formulated the **theory of nazm** (composition), which holds that the beauty and eloquence of a style lie not in individual words taken alone, but in the grammatical and semantic relations that link words to one another within the full structure of the sentence. He applied this theory especially to the question of the **rhetorical inimitability of the Qur'an** (*i'jaz al-Qur'an*), arguing that the inimitability of the Qur'an springs from a complete coherence between meanings and their verbal formulation, not from the strangeness of its vocabulary alone.
 
 ## Later Codification by al-Sakkaki
 
-**Yusuf ibn Abi Bakr al-Sakkaki** (d. 626 AH / 1229 CE), in the rhetorical section of his book *Miftah al-Ulum* (*The Key to the Sciences*), systematized earlier rhetorical thought, including al-Jurjani's, in a methodical treatment of *ma'ani* and *bayan*, with *badi'* treated as a closing appendix. The tripartite division of the three branches became the standard framework, through later summaries of traditional Arabic rhetoric to this day. His work was later explained by Jalal al-Din al-Khatib al-Qazwini (d. 739 AH / 1338 CE) in *Talkhis al-Miftah* (*Summary of the Key*), which became the most famous study text in traditional schools.
+**Yusuf ibn Abi Bakr al-Sakkaki** (d. 626 AH / 1229 CE), in the rhetorical section of his book *Miftah al-'Ulum* (*The Key to the Sciences*), systematized earlier rhetorical thought, including al-Jurjani's, in a methodical treatment of *ma'ani* and *bayan*, with *badi'* treated as a closing appendix. **Jalal al-Din Muhammad ibn Abd al-Rahman al-Qazwini**, known as al-Khatib al-Qazwini (d. 739 AH / 1338 CE), summarized that section in *Talkhis al-Miftah* (*Summary of the Key*). The *Talkhis* became the standard teaching text in traditional schools. Al-Qazwini then wrote *al-Idah fi sharh Talkhis al-Miftah*, a commentary on his own summary, and in that line of teaching the three branches became the usual framework of Arabic rhetoric.
 
 ## Majaz and Metaphor
 
-One of the central issues of this science is the concept of **majaz** (the use of a word in a sense other than its original meaning, on the basis of a relation and an indicator), which developed gradually through authors who preceded al-Jurjani, such as Abu 'Ubayda in *Majaz al-Qur'an* and Ibn al-Mu'tazz in *Kitab al-Badi'*, until it reached its theoretical peak in al-Jurjani's analysis of simile and representation in *Asrar al-Balagha*.
+One of the central issues of this science is **majaz** in the later technical sense: the use of a word in other than its assigned meaning, on the basis of a relation and a contextual indicator. That sense should not be read back onto every earlier use of the word. In Abu 'Ubayda's *Majaz al-Qur'an*, *majaz* means the idiomatic way an expression is to be explained. Ibn al-Mu'tazz, in *Kitab al-Badi'*, catalogued figures such as metaphor. The fuller rhetorical analysis of simile, metaphor and representation is al-Jurjani's, in *Asrar al-Balagha*.
 
 ## Impact
 

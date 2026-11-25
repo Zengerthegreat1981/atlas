@@ -8,7 +8,7 @@ title: "Mystical Philosophy & Sufism"
 en: "Mystical Philosophy & Sufism"
 crumb: "Arab Thought ← Concepts ← Mystical Philosophy & Sufism"
 active_start: 1000
-active_end: 1640
+active_end: 1636
 language: "Arabic"
 edges:
 - rel: "belongs_to", target: "Medieval Islamic Philosophy (Falsafa)", target_type: "مدرسة"
@@ -29,15 +29,15 @@ Two paths that were not always distant meet in this field: the path of philosoph
 
 ## Ibn Sina: al-Isharat wa-l-Tanbihat
 
-Ibn Sina (d. 428 AH/1037 CE) concluded his book *al-Isharat wa-l-Tanbihat* with two chapters, one on "the stations of the knowers" (*maqamat al-'arifin*) and one on "the secrets of the verses" (*asrar al-ayat*). In them he describes the knower who abstains from worldliness, worships and reflects, and whose soul then connects with the Real. He thereby did not make philosophy and Sufism into opponents. He followed this with symbolic stories such as *Hayy ibn Yaqzan* and *Risalat al-Tayr* (The Treatise of the Birds). Ahmad Amin collected these, together with the narratives of Ibn Tufayl and al-Suhrawardi, in a volume titled *Hayy ibn Yaqzan* (1952).
+Ibn Sina (d. 428 AH / 1037 CE) closed *al-Isharat wa-l-Tanbihat* with sections on the stations of the knowers (*maqamat al-'arifin*) and on the secrets of the signs (*asrar al-ayat*). There he describes the knower who turns from worldliness, worships, and reflects, until the soul reaches the Real. He also wrote symbolic recitals, among them *Hayy ibn Yaqzan* and *Risalat al-Tayr* (The Treatise of the Birds). Ahmad Amin's *Hayy ibn Yaqzan* (Cairo: Dar al-Ma'arif, 1952) gathers the Hayy narratives of Ibn Sina, Ibn Tufayl, and al-Suhrawardi.
 
 ## Ibn Tufayl and Hayy ibn Yaqzan
 
-In al-Andalus, Ibn Tufayl (d. 581 AH/1185 CE) wrote the story *Hayy ibn Yaqzan*. In it, a child raised alone on an island reaches, through contemplation of nature, knowledge of God and then the taste of union. He discovers that what he has reached agrees with the religion brought by Absal (Asal), who comes from a neighbouring island. It is an attempt to demonstrate the harmony between reason, mystical experience and revelation.
+In al-Andalus, Ibn Tufayl (d. 581 AH / 1185 CE) wrote the tale *Hayy ibn Yaqzan*. A child raised alone on an island reaches, through contemplation of nature, knowledge of God and then a taste of union. Asal (also spelled Absal), who comes from a neighbouring island governed by a public religious law, explains that law to him. Hayy finds that what he has reached agrees with it. The tale stages an agreement among unaided reason, mystical experience, and revelation. It does not report a historical meeting.
 
 ## Suhrawardi and Illumination
 
-Shihab al-Din al-Suhrawardi (d. 587 AH/1191 CE) founded in *Hikmat al-Ishraq* (The Philosophy of Illumination) a school combining taste and inquiry. He made light the principle of existence, and he said that the true sage is the one who combines theosophy (*ta'alluh*) with investigation. John Walbridge and Hossein Ziai translated *Hikmat al-Ishraq* into English (1999), and Ziai studied the knowledge of illumination in *Knowledge and Illumination* (1990).
+Shihab al-Din al-Suhrawardi (d. 587 AH / 1191 CE), in *Hikmat al-Ishraq* (The Philosophy of Illumination), set out a philosophy that joins taste (*dhawq*) and inquiry (*bahth*). He made light the principle of existence, and he held that the complete sage combines theosophy (*ta'alluh*) with investigation. John Walbridge and Hossein Ziai translated *Hikmat al-Ishraq* into English (1999). Ziai studied that theory of knowledge in *Knowledge and Illumination* (1990).
 
 ## Ibn 'Arabi and Philosophy
 
@@ -45,16 +45,21 @@ Muhyi al-Din ibn 'Arabi (d. 638 AH/1240 CE), in *al-Futuhat al-Makkiyya* and *Fu
 
 ## Al-Ghazali's Position
 
-Al-Ghazali (d. 505 AH/1111 CE) did not accept demonstration alone as sufficient. In *al-Munqidh min al-Dalal* (Deliverance from Error) he regarded taste as the path to salvation. In *Mishkat al-Anwar* (The Niche of Lights) he borrowed from the philosophers the language of light and degrees to describe the knowledge of the knowers, while remaining a critic of them in *Tahafut al-Falasifa*.
+Al-Ghazali (d. 505 AH / 1111 CE) held that demonstration by itself does not yield the saving knowledge he sought. In *al-Munqidh min al-Dalal* (Deliverance from Error) he describes taste (*dhawq*) as the Sufi path. In *Mishkat al-Anwar* (The Niche of Lights) he uses a vocabulary of light and degrees for the knowledge of the knowers, while *Tahafut al-Falasifa* remains his critique of the philosophers on eternity, divine knowledge, and resurrection.
+
+## Mulla Sadra
+
+Sadr al-Din al-Shirazi, known as Mulla Sadra (d. 1045 AH / 1635–36 CE), drew the philosophical and Sufi lines together in *al-Hikma al-muta'aliya fi al-asfar al-'aqliyya al-arba'a*. He argued for the primacy of existence (*asalat al-wujud*) over essence, for gradation in existence (*tashkik al-wujud*), and for substantial motion (*al-haraka al-jawhariyya*). The title organizes the argument as four journeys, a Sufi image, and the book reworks themes from Ibn Sina, Suhrawardi, and Ibn 'Arabi. A traditional death date of 1050 AH / 1640–41 CE is also transmitted.
 
 ## Limits of the Combination
 
-Not everyone accepted this combination. Ibn Taymiyya regarded the *Ittihadiyya* as a deviation, and Ibn Rushd restricted the path to truth for the elite to demonstration alone. Some scholars, such as Henry Corbin, see in this wisdom a Persian illuminationist extension, while others study it within its Islamic context. It is not valid to group under this name everyone who mentioned light.
+Ibn Taymiyya classed the *Ittihadiyya* as a doctrinal error. Ibn Rushd reserved demonstration to the philosophical elite and assigned dialectic and rhetoric to other audiences. Henry Corbin read this current as continuous with an Iranian illuminationist tradition. Other historians keep it inside its Arabic and Islamic settings. An author who mentions light is not, for that reason alone, part of this current.
 
 ## Sources
 
 - Ahmad Amin (ed.). *Hayy ibn Yaqzan li-Ibn Sina wa-Ibn Tufayl wa-l-Suhrawardi*. Cairo: Dar al-Ma'arif, 1952.
 - Shihab al-Din Yahya Suhrawardi, The Philosophy of Illumination, trans. John Walbridge and Hossein Ziai, Brigham Young University Press, Provo 1999.
 - Hossein Ziai, Knowledge and Illumination: A Study of Suhrawardi's Hikmat al-Ishraq, Brown Judaic Studies, Atlanta 1990.
-- Henry Corbin, Histoire de la philosophie islamique, Gallimard, Paris 1964.
-- Seyyed Hossein Nasr, Three Muslim Sages: Avicenna, Suhrawardi, Ibn 'Arabi, Harvard University Press, Cambridge MA 1964.
+- Henry Corbin. *Histoire de la philosophie islamique*. Paris: Gallimard, 1964.
+- Seyyed Hossein Nasr. *Three Muslim Sages: Avicenna, Suhrawardi, Ibn 'Arabi*. Cambridge, MA: Harvard University Press, 1964.
+- Fazlur Rahman. *The Philosophy of Mulla Sadra*. Albany: State University of New York Press, 1975.

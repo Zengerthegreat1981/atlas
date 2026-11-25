@@ -26,15 +26,15 @@ Islamic culture addressed the question of knowledge: what its sources are, what 
 
 ## Among the Theologians: The Causes of Knowledge
 
-The Ash'aris and the Maturidis identified three causes of knowledge: sound senses, true report (*khabar*) and reason, and some added inspiration. Al-Baqillani (d. 403 AH/1013 CE) defined knowledge as "knowing the known as it is". The Mu'tazila distinguished between necessary knowledge (*al-'ilm al-daruri*) and acquired knowledge gained through reflection (*nazar*), and they made reflection obligatory for the responsible person.
+Ash'ari and Maturidi textbooks name three causes of knowledge: sound senses, a true report (*khabar sadiq*), and reason. Inspiration (*ilham*) was discussed, but it was not generally accepted as a proof that binds anyone other than the person who receives it. Al-Baqillani (d. 403 AH/1013 CE) is credited with the definition of knowledge as "cognizing the object known as it really is" (*ma'rifat al-ma'lum 'ala ma huwa bihi*). The Mu'tazila distinguished necessary knowledge (*al-'ilm al-daruri*) from knowledge acquired by reflection (*nazar*), and for many of them the first duty of a responsible person is that reflection.
 
 ## Among the Philosophers: Reason and Demonstration
 
-Al-Farabi and then Ibn Sina tied knowledge to the theory of the Active Intellect. The soul is united with a separate intellect from which it receives intelligible forms, and this takes place through intuition (*hads*) in prophets and the intelligent. In *al-Isharat*, Ibn Sina treated intuition as a faculty that yields the middle term all at once. As for Ibn Rushd, he reaffirmed demonstration in *Fasl al-maqal* and held that the Sharia calls people by rhetoric, dialectic and demonstration according to their natures.
+Al-Farabi and then Ibn Sina tied the reception of intelligible forms to the Active Intellect. Ibn Sina does not describe this as a union (*ittihad*) of the soul with that intellect, a union he criticizes. The Active Intellect emanates the forms, and the prepared soul receives them. Intuition (*hads*), discussed in *al-Isharat*, is the capacity to hit upon the middle term of a syllogism at once. He assigns the highest degree of that capacity to the prophetic intellect. Ibn Rushd, in *Fasl al-maqal*, holds that the Sharia addresses people by rhetoric, dialectic, or demonstration, according to their capacities.
 
 ## Al-Ghazali: The Crisis of Certainty
 
-In *al-Munqidh min al-dalal* (Deliverance from Error), al-Ghazali (d. 505 AH/1111 CE) recounts that he doubted both the senses and reason, until God restored his confidence through "a light cast into the breast". He counted four paths to knowledge: the theologians, the Batiniyya, the philosophers and the Sufis, and he favoured the path of taste (*dhawq*). W. Montgomery Watt studied his life in *The Faith and Practice of al-Ghazali* (1953).
+In *al-Munqidh min al-dalal* (Deliverance from Error), al-Ghazali (d. 505 AH/1111 CE) recounts a crisis in which neither the senses nor reason seemed able to secure certainty, until, as he puts it, God cast a light into his breast. He sorts the seekers of his time into four groups: the theologians, the Batiniyya, the philosophers, and the Sufis, and he gives the last word to direct tasting (*dhawq*). W. Montgomery Watt published an English translation of the *Munqidh*, with an introduction, as *The Faith and Practice of al-Ghazali* (1953).
 
 ## Ibn Taymiyya and al-Jabiri
 

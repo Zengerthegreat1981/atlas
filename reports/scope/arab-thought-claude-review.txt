@@ -1,0 +1,48 @@
+con-anti-colonial-intellectualism: al-Kawakibi date c.1902->1900; softened Ibn Badis 'declaration'; removed unverified Bennabi publisher/revision
+con-arabic-grammar-philosophy: Matta-Sirafi debate date 320/932 -> 326/937; Kitab al-Huruf ed. year 1970->1969
+con-averroism-philosophy: van den Bergh Tahafut translation publisher fixed (London: Luzac, 1954)
+con-confrontation-western: removed unverifiable 1867 date for al-Shidyaq al-Wasita (now cites 1881 edition); removed unverified publisher for Salama Musa
+con-cultural-authenticity: removed unverified years (1972, 2nd ed. 1979) for Zaki Naguib Mahmud works
+con-divine-knowledge-future: van den Bergh Tahafut al-Tahafut publisher fixed (London: Luzac, 1954)
+con-educational-reform: al-Khitat al-Tawfiqiyya "20 vols" -> "20 parts"
+con-european-engagement: softened unsupported claim that Abduh "did not read Persian" (Refutation of the Materialists); fixed Taha Husayn dissertation defence/print date contradiction (printed Paris 1917)
+con-fiqh-schools: Baybars four chief judges 665 AH -> 663 AH (1265 CE)
+con-globalization-identity: removed unverifiable page range from al-Jabiri article citation
+con-human-rights-islam: softened wording on 2020 OIC revised declaration
+con-ibn-arabi-unity-being: al-Qunawi was Ibn Arabi's stepson, not son-in-law
+con-islamic-modernism: removed unsupported claim that Abduh did not read Persian
+con-kalam-theology: Frank publisher Routledge->Ashgate (Aldershot); van Ess Theology and Society translation volumes/years corrected (6 vols, 2017-2020)
+con-logical-traditions: Matta-Sirafi debate 932 -> 937 CE; removed 'pioneering' and 'established' overclaims (tasawwur/tasdiq division predates Avicenna)
+con-maqasid-sharia: softened 'established'/'completed' overclaims for al-Juwayni and al-Ghazali
+con-mathematics-astronomy: softened transmission claim to Copernicus; algebra-origins wording
+con-medicine-advancement: replaced unsupported 'no evidence Europeans had read' Ibn al-Nafis with 'debated'
+con-metaphor-language: nazm claim narrowed to what Dala'il actually argues (not a claim about metaphor in Asrar)
+con-metaphysics-islam: 'established a proof' -> 'offered an argument' (al-Kindi)
+con-nasserism-nationalism: 'the dominant' -> 'a dominant' overclaim
+con-mystical-philosophy: removed unsupported claim about basis of Mulla Sadra's death date
+con-nationalism-identity: al-Husri birth year given as 1879/80 (sources differ)
+con-oral-tradition-arabian: Ibn Sallam 'established systematic criteria' -> 'proposed criteria'; removed unsupported claim that Husayn and Margoliouth works were independent
+con-political-authority-islam: removed doubtful edition number/year (1987) for Ibn Jama'a edition
+con-postcolonial-theory: 'demonstrating' -> 'arguing' (Said)
+con-pre-islamic-metaphysics: corrected doubtful gloss 'roving claws' for manaya and 'al-himam' -> hamam
+con-quranic-ethics-virtue: removed doubtful publication years for Draz (1951) and al-Raghib al-Dhari'a edition (2010)
+con-rationalism-early-islam: Abu al-Hudhayl five-principles claim softened to 'traditionally credited'; removed doubtful publisher for al-Jabri's Takwin al-'aql al-'arabi
+con-universals-particulars: removed vague, unverifiable SEP citation from Sources
+con-wahdat-shuhud: 'showed' -> 'argued' (Friedmann); softened unsupported claim about purpose of the distinction
+con-women-liberation: removed doubtful publisher for Tal'at Harb; Durr al-Manthur year 1894 (single publication) instead of 1894-1896
+con-women-poets-preislamic: removed vague Britannica source
+con-women-scholars-islamic: removed doubtful Ibn Hazm attribution of Aisha 2,210 count
+con-womens-epistemology: removed doubtful Ibn Hazm attribution of Aisha 2,210 count
+fld-critique-of-arab-reason: removed doubtful publisher for al-Jabri's Takwin al-'aql al-'arabi (text and Sources)
+sch-arabic-linguistic-literary: noted 474 AH/1081 CE variant for al-Jurjani's death; removed doubtful publisher for Sibawayh edition (al-Khanji) and doubtful 1321 AH/1903 Matba'at al-Sa'ada Abduh/Rida edition of Dala'il (replaced by Shakir edition, no publisher)
+sch-contemporary-arab-movements: removed doubtful publisher for al-Jabri's Takwin (text and Sources); removed doubtful place of publication for Woman and Sex
+sch-medieval-islamic-philosophy: Mulla Sadra death date given as 1045 AH/1635-36 CE with 1050 AH/1640 variant noted
+thk-nawal-el-saadawi: removed doubtful place of publication for Woman and Sex; removed vague Britannica source
+thk-rabia-adawiyyah: corrected claim that her standard full name (Rabi'a bint Isma'il al-'Adawiyya al-Qaysiyya) belongs to a 'confused tradition'
+thk-sibawayhi: removed doubtful publisher for Harun edition; removed unverified attribution of death account to Ibn Qutayba
+thk-thabit-qurra: birth-date attribution to Fihrist/Ibn al-Qifti softened to 'later biographical sources'
+wrk-diwan-rumi: removed doubtful date (768-770 AH) of the Konya manuscript used by Furuzanfar
+wrk-ihya-ulum-al-din: 'asserted' -> 'argued' (Griffel)
+wrk-womens-liberation-saadawi: removed doubtful place of publication (Cairo) for Woman and Sex
+wrk-metaphysics-ibn-sina: Mulla Sadra death date given as 1045 AH/1635-36 CE with 1050 AH/1640 variant noted
+wrk-incoherence-incoherence: simplified muddled/doubtful Hebrew and Latin translator attributions and dates (Hebrew 1328 Kalonymos ben Kalonymos; Latin printed Venice 1497 with Nifo)

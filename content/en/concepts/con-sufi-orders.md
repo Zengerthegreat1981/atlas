@@ -9,7 +9,7 @@ en: "Sufi Orders & Practices"
 crumb: "Arab Thought ← Concepts ← Sufi Orders & Practices"
 active_start: 1100
 active_end: "مستمر"
-language: "English"
+language: "Arabic"
 edges:
 - rel: "belongs_to", target: "Classical Islamic Sufism (Tasawwuf)", target_type: "مدرسة"
 related:
@@ -22,11 +22,11 @@ gaps: []
 
 # Sufi Orders & Practices
 
-The *tariqa* (path) in Sufism is a method of spiritual conduct whose chain of transmission (*sanad*) goes back to a founding shaykh and then through a line of masters to the Prophet, may God bless him and grant him peace. Each path has its own litanies (*awrad*), its own etiquette (*adab*), its disciples (*murids*) and its institutions. The paths did not exist in this form in the first centuries. The early Sufis were circles gathered around individual shaykhs, and in the sixth and seventh AH centuries these circles were transformed into organized paths. Trimingham, in *The Sufi Orders in Islam* (1971), traced the stages of this transformation from the *khanqah* to the *tariqa* to the *taifa* (the brotherhood).
+The *tariqa* (path) in Sufism is a method of spiritual conduct whose chain of transmission (*sanad*) is presented as running back through a founding shaykh and a line of masters to the Prophet. Each path has its own litanies (*awrad*), its own etiquette (*adab*), its disciples (*murids*) and its institutions. The paths did not exist in this form in the first centuries. Al-Qushayri's *Risala*, written before the orders were institutions, already records the etiquette that bound a disciple to a master. The early Sufis were circles gathered around individual shaykhs, and in the sixth and seventh centuries AH many of these circles became organized paths. Trimingham, in *The Sufi Orders in Islam* (1971), traced a sequence from the *khanqah* to the *tariqa* to the *ta'ifa* (the brotherhood). Later research has treated that sequence as less uniform than his outline suggests.
 
 ## The Major Orders
 
-The Qadiriyya arose in Baghdad around 'Abd al-Qadir al-Jilani (d. 561 AH/1166 CE), and spread to India, the Maghreb and West Africa. The Rifa'iyya was founded by Ahmad al-Rifa'i (d. 578 AH/1182 CE) in southern Iraq. The Suhrawardiyya is linked to Abu al-Najib and 'Umar al-Suhrawardi. The Shadhiliyya is named after Abu al-Hasan al-Shadhili (d. 656 AH/1258 CE), and spread in Egypt and the Maghreb through his disciple Abu al-'Abbas al-Mursi and through Ibn 'Ata' Allah al-Iskandari. The Mawlawiyya (Mevlevi) appeared in Konya after Jalal al-Din Rumi (d. 672 AH/1273 CE). The Naqshbandiyya arose in Bukhara and then spread to India and Turkey. The Tijaniyya in the Maghreb was established by Ahmad al-Tijani (d. 1230 AH/1815 CE).
+The Qadiriyya arose in Baghdad around 'Abd al-Qadir al-Jilani (d. 561 AH/1166 CE), and spread to India, the Maghreb and West Africa. The Rifa'iyya is traced to Ahmad al-Rifa'i (d. 578 AH/1182 CE), who gathered a following at Umm Ubayda in southern Iraq. The order as an institution took shape around that centre. The Suhrawardiyya is linked to Abu al-Najib and 'Umar al-Suhrawardi. The Shadhiliyya takes its name from Abu al-Hasan al-Shadhili (d. 656 AH/1258 CE). It spread in Egypt through his disciple Abu al-Abbas al-Mursi and through Ibn Ata Allah al-Iskandari, and it also took root in the Maghreb. The Mawlawiyya (Mevlevi) took shape in Konya after Jalal al-Din Rumi (d. 672 AH/1273 CE), and his successors gave it a firmer organization. The Naqshbandiyya is named after Baha al-Din Naqshband (d. 791 AH/1389 CE) of Bukhara and later spread to India and Turkey. The Tijaniyya was established by Ahmad al-Tijani (d. 1230 AH/1815 CE), who was born in Algeria and whose order had its centre at Fez.
 
 ## Practice and Institutions
 
@@ -34,11 +34,11 @@ Each order adopted a daily litany (*wird*), a collective remembrance (*dhikr*), 
 
 ## Historical Role
 
-The orders played a part in spreading Islam in Africa, Southeast Asia and Central Asia. Some led resistance movements against colonialism: the Sanusiyya in Libya, the Qadiriyya under Amir 'Abd al-Qadir in Algeria, and the Tijaniyya in West Africa. Jamil Abun-Nasr studied the Tijaniyya in *The Tijaniyya: A Sufi Order in the Modern World* (1965).
+The orders played a part in spreading Islam in Africa, Southeast Asia and Central Asia. Some became political forces under colonial rule. The Sanusiyya fought the Italian occupation in Libya. In Algeria, the amir Abd al-Qadir (d. 1883), whose family was linked to the Qadiriyya, led resistance to the French. In West Africa, Tijani leaders such as al-Hajj Umar Tal (d. 1864) led campaigns that later met French expansion. Jamil Abun-Nasr studied the Tijaniyya in *The Tijaniyya: A Sufi Order in the Modern World* (1965). The political record of an order is not the same in every region.
 
 ## Criticism and Reform
 
-Ibn al-Jawzi criticized some practices of the Sufis in *Talbis Iblis* (The Devil's Deception), and Ibn Taymiyya criticized the innovations (*bida'*) of some orders. In the twelfth and thirteenth AH centuries, calls for "reformist Sufism" or "new paths" appeared, which adhered to the Sunna. In the modern period, reformers such as Rashid Rida attacked the orders for neglecting learning. Atatürk's Turkey abolished the orders and lodges by law in 1925. The orders continued to exist in many regions after that.
+Ibn al-Jawzi criticized some practices of the Sufis in *Talbis Iblis* (The Devil's Deception), and Ibn Taymiyya criticized practices he regarded as innovations (*bida'*) in some orders, while accepting a Sharia-bound Sufism. In the twelfth and thirteenth centuries AH (the eighteenth and nineteenth centuries CE), new orders, among them the Tijaniyya and the Sanusiyya, stressed adherence to the Prophet's practice and a more activist discipline. Scholars disagree about whether this amounted to a distinct "neo-Sufism." Rashid Rida attacked the orders for practices he regarded as innovations and for neglecting sound learning. The Turkish republic closed the orders and the lodges by law in 1925. Orders continued in many other regions, and unofficially in Turkey as well.
 
 ## Limits of the Description
 

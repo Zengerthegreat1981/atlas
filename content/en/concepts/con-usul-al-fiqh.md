@@ -23,20 +23,20 @@ gaps: []
 
 The theoretical methodology that determines how practical legal rulings (*ahkam shar'iyya*) are derived from the sources of revelation. It is distinct from *fiqh* itself, which is the body of derived rulings already formulated. If *fiqh* answers the question "what is the ruling?", *usul al-fiqh* answers the question "how do we arrive at the ruling, with which tool, and in what order of priority among the sources?"
 
-## The Four Agreed-Upon Sources
+## The Four Sources Accepted by the Majority
 
-- **The Qur'an**: the first and highest source, the revealed text itself.
-- **The Sunna**: the sayings, actions and tacit approvals of the Prophet Muhammad. It is the second source, which explains and elaborates the Qur'an and sometimes establishes new rulings on its own.
-- **Consensus (ijma')**: the agreement of the community's jurists (or of the Companions in a particular age) on the ruling of a given question. It is regarded as binding by the majority of jurists.
-- **Analogy (qiyas)**: attaching a case that has no explicit text to a case that does, on the basis of a shared effective cause ('illa) for the ruling.
+- **The Qur'an**: the highest source, the revealed text itself.
+- **The Sunna**: the sayings, actions and tacit approvals of the Prophet Muhammad. It explains and elaborates the Qur'an and, for the majority, can also establish rulings.
+- **Consensus (ijma')**: the agreement of the qualified jurists of an age on a ruling. Some authorities limited binding consensus to the Companions. The majority of jurists treat a valid consensus as binding.
+- **Analogy (qiyas)**: attaching a case that has no explicit text to a case that does, on the basis of a shared effective cause ('illa). The Zahiri school rejected analogy. The other Sunni schools accepted it under stated conditions.
 
-## The Systematic Foundation by al-Shafi'i
+## Al-Shafi'i and the Later Genre
 
-The credit for establishing usul al-fiqh as an independent systematic discipline is attributed to Imam Muhammad ibn Idris al-Shafi'i (767–820 CE), in his foundational book *al-Risala*. There he set out a systematic and ordered hierarchy of these four sources, established the rules for dealing with texts (the specific and the general, the abrogating and the abrogated), and fixed the conditions of consensus and analogy. Before him, these tools had been used in a scattered and unsystematized way by earlier jurists such as Abu Hanifa and Malik. For this reason al-Shafi'i is described as the "founder of the science of usul al-fiqh" in the precise sense of the term.
+The classical tradition attributes the first extended treatment of these questions to Muhammad ibn Idris al-Shafi'i (150–204 AH / 767–820 CE), in *al-Risala*. There he ordered the four sources, set rules for reading texts (the specific and the general, the abrogating and the abrogated), and stated conditions for consensus and analogy. Abu Hanifa had already used opinion and analogy, and Malik the practice of Medina together with analogy, without a treatise that arranged the sources in this way. Later Shafi'i writers called him the founder of the science. Wael Hallaq has argued that this title reads a later discipline back into the early third/ninth century: *al-Risala* is a major early synthesis, while usul al-fiqh as a full genre, with its settled technical vocabulary, took shape in the fourth/tenth century.
 
 ## Additional Methodological Tools (Contested)
 
-Later legal schools developed further tools of derivation that not all accepted: **istihsan** (juristic preference, in the Hanafi school), **istislah / al-maslaha al-mursala** (reliance on general public interest not stated in the text, in the Maliki school), and **istishab** (the continuation of the original ruling until its change is established). These tools are the subject of a doctrinal dispute over whether they are legitimate as independent sources of rulings, or are merely elaborations of the four original sources.
+Later writers also discussed tools that were not accepted on the same terms by every school. **Istihsan** (juristic preference) is associated especially with the Hanafis; al-Shafi'i rejected it as unregulated opinion. **Istislah**, or **al-maslaha al-mursala** (an interest not tied to a specific text), is associated especially with the Malikis. **Istishab** (presuming an established state of affairs to continue until there is evidence of change) was widely used, above all by Shafi'is and Hanbalis, with disagreement over its scope. The dispute is whether these are independent sources or restricted ways of applying the four sources above.
 
 ## Impact
 

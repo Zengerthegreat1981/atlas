@@ -22,22 +22,22 @@ gaps: []
 
 # Qasim Amin
 
-An Egyptian thinker and jurist, one of the most prominent pioneers of social reform in the Arab Nahda movement. He is sometimes called the "father of Arab feminism" for his early writings on the liberation of women.
+An Egyptian jurist and essayist of the Arab Nahda. He is sometimes called the "father of Arab feminism" for *Tahrir al-Mar'a* (1899) and *al-Mar'a al-Jadida* (1900). Historians of Egyptian women's writing have qualified that label.
 
 ## Life
 
-Qasim Amin was born in 1863 into an aristocratic Egyptian family and studied law, then travelled to France to complete his studies at the Faculty of Montpellier. After returning to Egypt in 1885, he entered the legal service and later became a judge. He died in Cairo in 1908, aged forty-four.
+Qasim Amin was born in Alexandria on 1 December 1863. His father, Muhammad Bey Amin, was an Ottoman official who had served in Diyarbekir before Egypt; the Arabic biographical tradition calls him Kurdish, while some later accounts call him Turkish. Amin's mother was Egyptian, of a family linked to the household of Muhammad Ali. He studied at the School of Law and Administration in Cairo and, from 1881 to 1885, at Montpellier. After his return in 1885 he entered the legal service and later sat as a judge of the Court of Appeal. He died in Cairo in April 1908, aged forty-four. The day of his death is given differently in the notices.
 
 ## What He Gave
 
-- **The Liberation of Women (1899)**: his best-known book, in which he criticized social practices prevalent in Egypt in his time, such as strict veiling, the seclusion of women, early marriage and the deprivation of women from education. He called for their reform from a perspective that combined a reformist religious reading with rational social argument.
-- **The New Woman (1900)**: published the very next year, it expanded on his earlier theses and defended them against the sharp criticism provoked by his first book.
-- **The idea of transcending class**: one of his most innovative contributions for his time was his recognition that the oppression of women transcends class and financial boundaries, and is not confined to the poor classes, as was common in social discourse at the time.
-- **Relation to Muhammad Abduh**: Amin was a student and translator of the ideas of Shaykh Muhammad Abduh, the leader of Islamic religious reform. Some studies point to the possibility of Abduh's undeclared intellectual contribution to shaping the theses of *The Liberation of Women*, although this historical claim has not been settled by full academic consensus.
+- ***Tahrir al-Mar'a* (1899)**: his best-known book. It criticizes face veiling, the seclusion of women, early marriage and the withholding of education, and it argues from a reformist reading of religious texts together with a social claim about the nation's weakness.
+- ***al-Mar'a al-Jadida* (1900)**: published the next year, it answers the attacks on the first book and leans more on social argument and on European writing about education.
+- **A national, not a class, argument**: he treats the ignorance and seclusion of women as a cause of the weakness of the *umma*, because mothers raise the children. The case is utilitarian. It is not a theory of class, and it is aimed chiefly at urban Muslim households.
+- **Muhammad Abduh**: Amin moved in Abduh's circle. Some scholars have suggested that Abduh had a hand in *Tahrir al-Mar'a*. The suggestion has not been settled. Amin was not Abduh's translator.
 
 ## Origins and Colonial Context
 
-Qasim Amin was born to a father of Ottoman Kurdish origin who was among the senior officials of the state. He was educated in Alexandria and then at the School of Law and Administration in Cairo. The Khedivial government sent him to Montpellier, where he resided between 1881 and 1885 and became acquainted with French social thought. After returning, he worked in advocacy and as a public prosecutor, then as a judge in the Native Court of Appeal. Before *The Liberation of Women*, he published in French the book *Les Égyptiens* in 1894, in response to the Duke d'Harcourt, who had disparaged the Egyptians and their customs. In it he defended the veil and the condition of Egyptian women. He then changed this position in his next book, a shift that many researchers have noted.
+Before *Tahrir al-Mar'a* he published, in French, *Les Égyptiens* (Cairo, 1894), a reply to the Duc d'Harcourt's *L'Égypte et les Égyptiens* (1893), which had disparaged Egyptians and their customs. In that book Amin defended the veil and the condition of Egyptian women. He reversed the defence in *Tahrir al-Mar'a*. Historians treat the reversal as a fact of his career. They do not agree on how far Lord Cromer's colonial critique of the veil, rather than Abduh's reformism, explains it.
 
 ## His Argument in *The Liberation of Women*
 
@@ -49,7 +49,7 @@ The book received several replies. Talat Harb wrote *Tarbiyat al-Mar'a wa-l-Hija
 
 ## Legacy
 
-The two books ignited a broad public debate in Egypt at the start of the twentieth century about the position of women in society. They established a reformist discourse on which an entire generation of social reformers and early Arab women's movements later drew, although Amin himself did not call for a complete radical liberation in the sense later developed by Arab feminist movements in the twentieth century.
+The two Arabic books opened a wide public argument in Egypt about women's education, veiling and the household. Later reformers and women's writers drew on that argument. Amin himself asked for schooling, a change in divorce and polygamy, and an uncovered face. He did not argue for the programmes of later Arab feminisms, and the women's press of the 1890s was already under way when he wrote.
 
 ## Caveats
 

@@ -23,7 +23,7 @@ gaps: []
 
 # Abu Hanifa al-Nu'man
 
-Iraqi jurist and traditionist, founder of the Hanafi school, one of the four major Sunni legal schools and today the one with the widest geographic spread (the Indian subcontinent, Turkey, Central Asia and parts of the Arab world).
+Iraqi jurist and traditionist, the eponym of the Hanafi school. Later Sunni tradition counted that school as one of four. It has long been widely followed in the Indian subcontinent, Turkey, Central Asia and parts of the Arab world. The school as a constituted tradition took shape after him, through his students and later compilers.
 
 ## Life
 
@@ -37,11 +37,11 @@ Al-Nu'man ibn Thabit, known as Abu Hanifa, was born in Kufa in Iraq in 699 CE, i
 
 ## Method and Sources
 
-Biographical and hagiographical works report that Abu Hanifa attended the circle of Hammad ibn Abi Sulayman (d. 120 AH/738 CE) for some eighteen years. Hammad was a student of Ibrahim al-Nakha'i in Kufa, which links his school to the Kufan school of Abdullah ibn Mas'ud. Among the texts attributed to him on the ordering of sources of law is that he follows the Book of God; if he does not find a ruling there, he follows the authentic Sunna; then he follows the opinions of the Companions, choosing among them without going outside them; and he is not bound by the opinions of the Successors (tabi'un). A saying transmitted from him conveys the sense that "they were men and I am a man." The treatises most commonly attributed to him include *al-Fiqh al-Akbar* on creed, *al-'Alim wa-al-Muta'allim*, and his letter to Uthman al-Batti, although some scholars have questioned whether some of these are preserved in their exact wording. As for the transmission of hadith, collections of musnads compiled by his students are attributed to him, among them the *Kitab al-Athar*, transmitted by Abu Yusuf and Muhammad al-Shaybani, which sets out the hadiths and reports on which he relied.
+Biographical and hagiographical works report that Abu Hanifa attended the circle of Hammad ibn Abi Sulayman (d. 120 AH/738 CE) for some eighteen years. Hammad was a student of Ibrahim al-Nakha'i in Kufa, which links his school to the Kufan school of Abdullah ibn Mas'ud. Among the texts attributed to him on the ordering of sources of law is that he follows the Book of God; if he does not find a ruling there, he follows the authentic Sunna; then he follows the opinions of the Companions, choosing among them without going outside them; and he is not bound by the opinions of the Successors (tabi'un). A saying transmitted from him conveys the sense that "they were men and I am a man." The treatises most commonly attributed to him include *al-Fiqh al-Akbar* on creed, *al-'Alim wa-al-Muta'allim*, and his letter to Uthman al-Batti, although some scholars have questioned whether some of these are preserved in their exact wording. As for hadith, his students compiled musnad collections of the reports he used. Two of them are known as *Kitab al-Athar*, one transmitted by Abu Yusuf and one by Muhammad al-Shaybani. They are not a single book passed on by both men.
 
 ## Students and the Codification of the School
 
-The Kufan Hanafi school was founded by Abu Yusuf Ya'qub ibn Ibrahim (d. 182 AH/798 CE), who held the office of judge in Baghdad under al-Mahdi, al-Hadi and Harun al-Rashid. He was the author of *Kitab al-Kharaj* on land and taxation, and he was the first to be titled "judge of judges" (qadi al-qudat). Muhammad ibn al-Hasan al-Shaybani (d. 189 AH/805 CE) established the principles of the school in six books known as *Zahir al-Riwaya*, including *al-Asl*, *al-Jami' al-Saghir* and *al-Siyar al-Kabir*. Zufar ibn al-Hudhayl (d. 158 AH) made analogy more rigorous. Later, al-Sarakhsi (d. c. 483 AH/1090 CE) explained the school's doctrine in *al-Mabsut*. al-Kasani (d. 587 AH/1191 CE) compiled its rulings in *Bada'i' al-Sana'i'*, and al-Marghinani (d. 593 AH/1197 CE) systematized them in *al-Hidaya*. Through these generations, the school became a coherent system of principles and rulings.
+Abu Yusuf Ya'qub ibn Ibrahim (d. 182 AH / 798 CE) served as judge in Baghdad under al-Mahdi, al-Hadi and Harun al-Rashid. He wrote *Kitab al-Kharaj* on land and taxation, and the tradition regards him as the first person to bear the title "judge of judges" (*qadi al-qudat*). Muhammad ibn al-Hasan al-Shaybani (d. 189 AH / 805 CE) set down the school's transmitted doctrine in the six books known as *Zahir al-Riwaya*, among them *al-Asl* (also called *al-Mabsut*), *al-Jami' al-Saghir* and *al-Siyar al-Kabir*. The other three are *al-Jami' al-Kabir*, *al-Siyar al-Saghir* and *al-Ziyadat*. Zufar ibn al-Hudhayl (d. 158 AH / 775 CE) is remembered for a strict use of analogy. Later, al-Sarakhsi (d. c. 483 AH / 1090 CE) explained the doctrine in his *al-Mabsut*, a commentary on the epitome of the *Zahir al-Riwaya*. al-Kasani (d. 587 AH / 1191 CE) arranged rulings in *Bada'i' al-Sana'i'*, and al-Marghinani (d. 593 AH / 1197 CE) systematized them in *al-Hidaya*. Over these generations the school became a coherent body of principles and rulings. It was not founded, as an institution, in Abu Hanifa's lifetime.
 
 ## The Ordeal and the Stance Toward Power
 
@@ -49,11 +49,11 @@ Accounts vary about his attitude toward political authority. It is reported that
 
 ## The Hanafi School After the Imam
 
-The Ottoman state adopted the school as its official judicial law, as did the Mughals in India. The *Fatawa 'Alamgiri* was compiled under Aurangzeb in the seventeenth century. The *Majalla al-Ahkam al-'Adliyya*, issued in 1876 and derived from Hanafi jurisprudence, was an early and influential codification of Islamic civil law. It shows how his jurisprudence moved from individual reasoning into state law.
+The Ottoman state adopted the school as its official judicial law, as did the Mughals in India. The *Fatawa al-Hindiyya* (also called *Fatawa Alamgiri*) was compiled for Aurangzeb in the later seventeenth century. The Ottoman *Majalla al-Ahkam al-Adliyya*, drawn from Hanafi jurisprudence and issued in stages from 1869 to 1876, was an influential codification of civil law. It shows how opinions that began as a teacher's reasoning became state law.
 
 ## Legacy
 
-His direct students, most notably Abu Yusuf Ya'qub ibn Ibrahim and Muhammad ibn al-Hasan al-Shaybani, transmitted his legal opinions and recorded them in independent works. In this way they preserved the continuity of the Hanafi school and spread it later throughout the Islamic world. The school became the official legal school of the Ottoman state and is today the largest of the four Sunni schools in terms of the number of its adherents.
+His direct students, most notably Abu Yusuf and Muhammad ibn al-Hasan al-Shaybani, transmitted his legal opinions and recorded them in independent works. Through them the Hanafi tradition spread well beyond Kufa. It became the official legal school of the Ottoman state and remains widely followed.
 
 ## Caveats
 

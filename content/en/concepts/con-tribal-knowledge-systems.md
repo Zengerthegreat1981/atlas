@@ -8,7 +8,7 @@ title: "Tribal Knowledge Systems"
 en: "Tribal Knowledge Systems"
 crumb: "Arab Thought ← Concepts ← Tribal Knowledge Systems"
 active_start: 400
-active_end: 700
+active_end: 850
 language: "Arabic"
 edges:
 - rel: "belongs_to", target: "Pre-Islamic Arabian Thought", target_type: "مدرسة"
@@ -24,11 +24,11 @@ The set of knowledge patterns that the tribal society of the Arabian Peninsula d
 
 ## Ayyam al-Arab: The Oral History of Tribal Wars
 
-The genre of **Ayyam al-'Arab** (the Days of the Arabs) represents the most prominent form of this oral knowledge. These are prose narratives interwoven with poetry that document the days of wars and battles between tribes, such as the War of Dahis and al-Ghabra between 'Abs and Dhubyan, and the War of al-Basus between Bakr and Taghlib. In their written form, the narratives typically combine two components: an **isnad** (the chain of trustworthy transmitters who conveyed the report) and a **matn** (the text of the event itself). This narrative form had a double social function: preserving the collective memory of the tribe, and affirming its standing, its grievances and its rightfulness in its continuing disputes with other tribes.
+The genre of **Ayyam al-'Arab** (the Days of the Arabs) is the best-known form of this oral knowledge. These are prose narratives interwoven with poetry about wars between tribes, such as the War of Dahis and al-Ghabra' between 'Abs and Dhubyan, and the War of al-Basus between Bakr and Taghlib. The early collector most often named is Abu 'Ubayda Ma'mar ibn al-Muthanna (d. 209 AH/824–825 CE). His book does not survive intact; the narratives are known from quotations in later adab. Written versions often name the person who related a report. They are not, as a class, cast in the hadith form of a formal isnad plus a matn. The stories preserved a tribe's memory of a conflict and stated its standing and its grievances. They are partisan accounts, not neutral minutes.
 
 ## Genealogy: The Backbone of Tribal Identity
 
-Genealogy (*'ilm al-ansab*) was a fundamental pillar of tribal knowledge. Lineage determined social standing, honor, loyalties, and the obligations of blood vengeance and mutual protection among members of the same tribe. Preserving genealogical chains was a specialized task performed by the **nassabun** (genealogists), individuals dedicated to keeping these chains and transmitting them from generation to generation. This knowledge later formed the basis of the written science of Arabic genealogy in the Islamic period, as in the works of Ibn al-Kalbi.
+Genealogy (*'ilm al-ansab*) was a fundamental pillar of tribal knowledge. Lineage determined social standing, honor, loyalties, and the obligations of blood vengeance and mutual protection among members of the same tribe. Preserving genealogical chains was a specialized task performed by the **nassabun** (genealogists), individuals dedicated to keeping these chains and transmitting them from generation to generation. This knowledge later formed the basis of the written science of Arabic genealogy in the Islamic period. The main early book is the *Jamharat al-nasab* of Hisham ibn Muhammad ibn al-Kalbi (d. c. 204 AH/819 CE), known from later copies. Werner Caskel reconstructed the genealogical work (1966); Naji Hasan published an Arabic edition (1986).
 
 ## The Nature of Oral Transmission and Its Transformations
 
@@ -44,10 +44,11 @@ After the rise of Islam and the expansion of the state, scholars of the Abbasid 
 
 ## Caveats
 
-Because there are no contemporary written documents from this period (apart from scattered inscriptions), our knowledge of tribal knowledge systems rests mainly on written sources compiled two centuries or more after the events themselves. This requires methodological caution in treating them as a literal historical source.
+Because there are no contemporary written documents from this period (apart from scattered inscriptions), knowledge of tribal knowledge systems rests mainly on written sources compiled two centuries or more after the events themselves. This requires methodological caution in treating them as a literal historical source. Peter Webb has argued that a unified Arab identity took shape in the early Islamic centuries, so the later books should not be read as the record of one pre-Islamic nation.
 
 ## Sources
 
-- Ibn al-Kalbi. *Jamharat al-Nasab*. Edited by Najy Hasan. Beirut: Alam al-Kutub.
+- Ibn al-Kalbi, Hisham ibn Muhammad. *Jamharat al-nasab*. Edited by Naji Hasan. Beirut: 'Alam al-Kutub, 1986.
+- Caskel, Werner. *Ğamharat an-nasab: Das genealogische Werk des Hišām ibn Muḥammad al-Kalbī*. 2 vols. Leiden: Brill, 1966.
 - Kister, M. J. "The Sīrah Literature." In *Arabic Literature to the End of the Umayyad Period*. Cambridge University Press, 1983.
 - Webb, Peter. *Imagining the Arabs: Arab Identity and the Rise of Islam*. Edinburgh University Press, 2016.

@@ -21,30 +21,31 @@ gaps: []
 
 # The Four Sunni Schools of Fiqh (Madhhab)
 
-The four systematic legal schools that took shape within Sunni Islam between the 8th and 10th centuries CE. They remain mutually recognized as authoritative references among Sunni Muslims today, despite differing in the details of legal derivation.
+## Definition
 
-## The Four Schools
+The four Sunni schools of jurisprudence (*madhahib*, sing. *madhhab*) represent the institutionalized legal traditions that coalesced in Sunni Islam between the eighth and tenth centuries CE: the Hanafi, Maliki, Shafi'i, and Hanbali schools. Rather than competing sects, these schools function as mutually recognized, orthodox interpretive traditions (*ijtihad*) sharing fundamental scriptural foundations while employing distinct methodologies for deriving normative rulings (*ahkam*) from the Quran and Sunna.
 
-- **Hanafi**: founded by Abu Hanifa al-Nu'man (699–767 CE) in Kufa, it is known for its extensive use of opinion (*ra'y*), analogy (*qiyas*) and juristic preference (*istihsan*). Today it is the most geographically widespread of the four: the Indian subcontinent and Pakistan, Turkey, Central Asia, and substantial parts of the Arab world.
-- **Maliki**: founded by Malik ibn Anas (711–795 CE) in Medina. It relied in particular on the practice of the people of Medina (the inherited practical tradition of the people of the Prophet's city) as an additional legal source. Its best-known work is the *Muwatta'*, one of the earliest surviving works combining hadith with legal rulings and the practice of Medina.
-- **Shafi'i**: founded by Muhammad ibn Idris al-Shafi'i (767–820 CE), who studied with Malik among others. He is also the founder of systematic, independent usul al-fiqh in his book *al-Risala*, which established the first organized ordering of the four sources of legislation: the Quran, the Sunna, consensus and analogy.
-- **Hanbali**: founded by Ahmad ibn Hanbal (780–855 CE) in Baghdad. It is the most attached to the transmitted text (the Quran, hadith and the opinions of the Companions) and the most cautious about the expansion of opinion and analogy.
+## The Four Classical Schools
 
-## Historical Development
+- **The Hanafi School**: Associated with Abu Hanifa al-Nu'man ibn Thabit (80–150 AH / 699–767 CE) and systematized by his senior disciples Abu Yusuf (d. 182 AH / 798 CE) and Muhammad ibn al-Hasan al-Shaybani (d. 189 AH / 805 CE) in Kufa and Baghdad. Developing from the early Iraqi legal tradition (*ahl al-ra'y*), it is distinguished by extensive use of legal reasoning, juristic preference (*istihsan*), and systematic analogy (*qiyas*). It became the dominant school of the later Abbasid judiciary and the official school of the Ottoman Empire, and it remains the most widespread by population, above all in Turkey, the Balkans, Central Asia, and South Asia. In the Levant it was the Ottoman state school alongside substantial Shafi'i followings.
+- **The Maliki School**: Originating with Malik ibn Anas (93–179 AH / 711–795 CE) in Medina. He gave the practice of Medina (*'amal ahl al-Madina*) great weight beside hadith, and he set down early Medinese jurisprudence in *al-Muwatta'*. Expanded by Sahnun (d. 240 AH / 854 CE) in *al-Mudawwana*, the school relies on public interest (*al-maslaha al-mursala*) and blocking the means to harm (*sadd al-dhara'i'*). It is the predominant school across North and West Africa and, historically, in al-Andalus, and it has a long following in parts of eastern Arabia and the Gulf.
+- **The Shafi'i School**: Formulated by Muhammad ibn Idris al-Shafi'i (150–204 AH / 767–820 CE), who studied under Malik in Medina and the disciples of Abu Hanifa in Iraq before settling in Egypt. In his seminal *al-Risala*, Shafi'i synthesized traditionist (*ahl al-hadith*) and rationalist (*ahl al-ra'y*) methodologies, establishing the classical hierarchy of legal sources: Quran, authoritative Sunna, scholarly consensus (*ijma'*), and formal analogy (*qiyas*). The Shafi'i school is predominant in lower Yemen, East Africa, and Southeast Asia, and it is widespread in Egypt and the Levant.
+- **The Hanbali School**: Formed around the legal teachings and hadith compilations of Ahmad ibn Hanbal (164–241 AH / 780–855 CE) in Baghdad, famed for his theological steadfastness during the *Mihna* (Inquisition). Ibn Hanbal compiled *al-Musnad* and gave priority to the Quran and hadith. Accounts of his method say that he would use an incompletely transmitted (*mursal*) or weak report in preference to analogy, and that he admitted analogy when textual evidence ran out. Systematized by Abu Bakr al-Khallal (d. 311 AH / 923 CE), the school found lasting influence in the Arabian Peninsula.
 
-These schools arose in the 8th and 9th centuries CE, but their full crystallization as distinct "schools" in the precise sense (with an independent methodology of usul that later adherents followed) occurred gradually in the 9th and 10th centuries CE. By the twelfth century most Sunni jurists had affiliated with one of these four schools. The schools recognize one another's validity and interacted over the centuries in a fruitful, non-exclusionary legal debate.
+## Historical Evolution and Discontinued Traditions
 
-## The Basis of Difference
+The transition from early personal circles and regional schools (the school of Kufa, Medina, or Syria) to formal doctrinal schools occurred during the ninth and tenth centuries CE. Other prominent classical schools emerged but did not survive as enduring corporate institutions, notably:
+- The **Awza'i school** of 'Abd al-Rahman al-Awza'i (88–157 AH / 707–774 CE), in Syria and early al-Andalus;
+- The **Thawri school** of Sufyan al-Thawri (97–161 AH / 716–778 CE), in Kufa;
+- The **Jariri school** of the historian and jurist Muhammad ibn Jarir al-Tabari (224–310 AH / 839–923 CE);
+- The **Zahiri school** of Dawud al-Zahiri (200–270 AH / 815–884 CE), developed in al-Andalus by Ibn Hazm (384–456 AH / 994–1064 CE), which rejected analogy and non-literal interpretation in favor of the apparent sense (*al-zahir*).
 
-The disagreement among these schools does not lie in the root sources of legislation, on which they largely agree (the Quran and the Sunna). It lies in fine methodological questions: the degree of reliance on analogy and opinion versus literal adherence to the text; the authority of certain additional tools, such as *istihsan* (for the Hanafis) or *al-maslaha al-mursala* and the practice of the people of Medina (for the Malikis); and the methods for handling hadiths that appear to conflict.
-
-## Caveats
-
-- Other Sunni legal schools existed but did not endure as institutional schools: the Zahiri school, associated with Dawud al-Zahiri (d. 270 AH / 884 CE) and, in al-Andalus, Ibn Hazm (d. 456 AH / 1064 CE; *al-Muhalla*), which rejected analogy and relied on the apparent sense of the texts; and the school of al-Tabari (d. 310 AH / 923 CE), known as the Jariri school. Shi'i and Ibadi schools are outside the scope of this entry.
-- The limits of "ijtihad within the school" versus "absolute independent ijtihad" have remained a continuing internal juristic debate across the centuries, and they have not been fully settled by consensus.
+Madrasa endowments and judicial appointments gradually narrowed the range of living schools. A decisive step was the Mamluk sultan Baybars's appointment, in Cairo in 663 AH / 1265 CE, of four chief judges, one for each of the four schools that remained. Their scholars recognized one another's legitimacy while debating the boundary between following school precedent (*taqlid*) and qualified independent interpretation (*ijtihad*).
 
 ## Sources
 
 - Melchert, Christopher. *The Formation of the Sunni Schools of Law, 9th–10th Centuries C.E.* Leiden: Brill, 1997.
 - Hallaq, Wael B. *A History of Islamic Legal Theories: An Introduction to Sunni Usul al-Fiqh*. Cambridge: Cambridge University Press, 1997.
+- Hallaq, Wael B. *The Origins and Evolution of Islamic Law*. Cambridge: Cambridge University Press, 2005.
 - Schacht, Joseph. *An Introduction to Islamic Law*. Oxford: Clarendon Press, 1964.
+- Kamali, Mohammad Hashim. *Principles of Islamic Jurisprudence*. 3rd ed. Cambridge: Islamic Texts Society, 2003.

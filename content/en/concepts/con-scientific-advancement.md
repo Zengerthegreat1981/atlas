@@ -19,31 +19,33 @@ gaps: []
 
 # Scientific Advancement via Translation
 
-Science in Arabic moved from translation to innovation in method, not in material alone. Sabra described this path as "appropriation and then naturalization" (*tamalluk thumma tatbi'*): Greek sciences entered Arab civilization through translation, and were then integrated into its institutions until they became part of its own heritage.
+Science in Arabic moved from translation to work on method, not only to the reception of foreign books. A. I. Sabra described this path as appropriation followed by naturalization: Greek sciences entered through translation and were then taken into institutions until they formed part of the local scholarly heritage.
 
 ## Optics and the Method of Ibn al-Haytham
 
-Al-Hasan ibn al-Haytham (d. c. 430 AH/1040 CE) wrote the *Kitab al-Manazir* (Book of Optics) in seven treatises. In it he refuted the theory of visual rays emanating from the eye, which had been held by Euclid and Ptolemy, and established the theory of vision on the entry of light into the eye. He built his argument on experiments in a darkened room, measuring instruments and the control of conditions. Sabra published a translation of the first books with commentary (1989). In *al-Shukuk 'ala Batlamyus* (Doubts about Ptolemy) he set the rule for criticizing a theory by comparing it with reality.
+Al-Hasan ibn al-Haytham (d. c. 430 AH/1040 CE) wrote the *Kitab al-Manazir* (Book of Optics) in seven treatises. In it he rejected the theory of visual rays emanating from the eye, which Euclid and Ptolemy had held, and argued that vision depends on light entering the eye, together with an account of how the mind interprets what the eye receives. His arguments use observation, including the darkened chamber, measuring instruments and the control of conditions. They are not a single experiment. Sabra published a translation of the first three books with commentary (1989). In *al-Shukuk 'ala Batlamyus* (Doubts concerning Ptolemy) Ibn al-Haytham argued that Ptolemy's hypotheses should answer to physical consistency, not only to successful calculation.
 
 ## Physics: From Philoponus to Inclination
 
-Yahya al-Nahwi (John Philoponus) criticized Aristotle's theory of projectile motion. Ibn Sina became acquainted with his idea and formulated it under the name "forced inclination" (*al-mayl al-qasri*). Then Abu al-Barakat al-Baghdadi (d. c. 560 AH/1165 CE), in *al-Mu'tabar fi-l-hikma* (The Considered Book on Philosophy), formulated a clearer theory. Shlomo Pines noted that it was among the origins of the impetus theory in Europe, though this connection is disputed.
+Yahya al-Nahwi (John Philoponus) criticized Aristotle's account of projectile motion. Ibn Sina set out a related idea under the name "forced inclination" (*al-mayl al-qasri*), beside natural inclination (*al-mayl al-tabi'i*). Historians connect the idea with Philoponus; the path of transmission is not a single documented borrowing. Abu al-Barakat al-Baghdadi (d. c. 560 AH/1165 CE), in *al-Mu'tabar fi-l-hikma* (The Considered Book on Philosophy), gave a fuller account of imparted inclination. Shlomo Pines studied that account and compared it with the later European impetus theory. A direct line from Baghdad to Latin Europe remains disputed.
 
 ## Chemistry and Geography
 
-A large number of chemical treatises were attributed to Jabir ibn Hayyan. According to modern criticism, they were composed in the third and fourth AH centuries. Al-Razi, in *Sirr al-asrar* (The Secret of Secrets), gave a classification of substances and laboratory apparatus. In geography, al-Idrisi (d. 560 AH/1165 CE) drew for Roger II, King of Sicily, the work *Nuzhat al-mushtaq* (The Pleasure of One Who Longs to Traverse the World). In *Tahdid nihayat al-amakin* (Determination of the Coordinates of Places), al-Biruni measured the radius of the earth by a new method.
+A large number of chemical treatises were attributed to Jabir ibn Hayyan. Paul Kraus argued that much of this corpus belongs to the third and fourth centuries AH rather than to a single second-century author. Many historians still follow that dating; it is not unanimous. Abu Bakr al-Razi, in *Kitab al-Asrar* (The Book of Secrets), classified mineral substances and described laboratory apparatus. The book is distinct from the pseudo-Aristotelian *Sirr al-asrar*. In geography, al-Idrisi (d. 560 AH/1165 CE) composed for Roger II of Sicily *Nuzhat al-mushtaq fi ikhtiraq al-afaq* (The Pleasure of Him Who Longs to Cross the Horizons), completed in 1154, together with the maps that accompanied it. In *Tahdid nihayat al-amakin* (The Determination of the Coordinates of Places), al-Biruni calculated the radius of the earth from the dip of the horizon observed on a mountain.
 
 ## The State, Religion and Science
 
-Abbasid patronage, followed by the Fatimid, Ayyubid and Ottoman, played its part, and endowments (*awqaf*) played their part in financing schools and observatories. The relation to religion varied. Some sciences, such as astronomy, were necessary for determining the qibla and the times of prayer, and became attached to the mosque in the role of the *muwaqqit* (timekeeper).
+Abbasid patronage, and later Fatimid and Ayyubid patronage, supported scholars, and endowments (*awqaf*) financed schools and observatories. The relation to religion varied. Astronomy was used to determine the qibla and the times of prayer, and in the later medieval period the mosque *muwaqqit* (timekeeper) made that work a regular office.
 
 ## The Debate over Decline
 
-Researchers ask why Arab science declined after the seventh century AH. Toby Huff, in *The Rise of Early Modern Science* (1993), argued that the absence of independent institutions of learning such as the university prevented accumulation. George Saliba replied that astronomy and mathematics continued to flourish until the eighth century AH and after, and that "decline" is a late narrative. The question remains open.
+Researchers ask why the sciences in Arabic are often said to have declined after the seventh/thirteenth century. Toby Huff, in *The Rise of Early Modern Science* (1993), argued that institutions of learning in Islam did not acquire the corporate autonomy he attributes to the European university, and that this limited sustained inquiry. George Saliba replied that astronomy and mathematics continued to develop into the fifteenth and sixteenth centuries CE, and that the language of decline is a late narrative. The question remains open.
 
 ## Sources
 
-- A. I. Sabra, "The Appropriation and Subsequent Naturalization of Greek Science in Medieval Islam: A Preliminary Statement," *History of Science*, vol. 25, 1987.
+- A. I. Sabra, "The Appropriation and Subsequent Naturalization of the Greek Sciences in Medieval Islam: A Preliminary Statement," *History of Science* 25 (1987).
+- Paul Kraus, *Jabir ibn Hayyan: Contribution à l'histoire des idées scientifiques dans l'Islam*. Cairo: Institut français d'archéologie orientale, 1942–1943.
 - A. I. Sabra (ed. and trans.), *The Optics of Ibn al-Haytham, Books I–III: On Direct Vision*. London: The Warburg Institute, 1989.
 - George Saliba, *Islamic Science and the Making of the European Renaissance*. Cambridge, MA: MIT Press, 2007.
 - Toby E. Huff, *The Rise of Early Modern Science: Islam, China, and the West*. Cambridge: Cambridge University Press, 1993.
+- Shlomo Pines, *Studies in Abu'l-Barakat al-Baghdadi: Physics and Metaphysics*. The Collected Works of Shlomo Pines, vol. 1. Jerusalem: Magnes Press, 1979.

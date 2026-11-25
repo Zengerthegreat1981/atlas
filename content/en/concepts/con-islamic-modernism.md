@@ -17,29 +17,29 @@ related:
 gaps: []
 ---
 
-# Islamic Modernism & Reformism
+# Islamic Modernism and Reformism
 
-An Islamic intellectual current that emerged in the late nineteenth century as a response to European colonial domination and to the decline of the political and scientific strength of the Islamic world. It argues that Islam, understood correctly, is compatible with reason and modern science, and that the revival of the Muslim world requires renewing *ijtihad* (independent legal reasoning), rather than following the old legal schools literally or fully identifying with the Western model.
+Islamic modernism, often called *islah* by its writers, took shape in the late nineteenth century under European colonial pressure and after Ottoman and Egyptian military and fiscal crises. Its claim was that Islam, read through the Quran and the early community, agrees with reason and with empirical science, and that political weakness came from unreflective imitation (*taqlid*), not from the religion. The name covers several projects.
 
-## The Founders
+## Before the Paris Journal
 
-**Jamal al-Din al-Afghani** (1838/1839–1897) and his Egyptian disciple **Muhammad Abduh** (1849–1905) are regarded as the pioneering founders of this current. Together they published in Paris the journal *al-'Urwa al-Wuthqa* (*The Indissoluble Bond*, 1884), which called for resistance to European colonialism and for the political and intellectual unification of Muslims. Al-Afghani is known for his call for what was later named "Islamic unity" (pan-Islamism), as a means of political and civilisational resistance to European influence. Muhammad Abduh, who later became Mufti of Egypt, turned this direction toward a deeper institutional reform project focused on renewing religious education (especially at al-Azhar) and on interpreting the Qur'an by a rational method that balances the text and reason. His best-known expression of this is his partial commentary known as *Tafsir al-Manar*, which was continued, though left unfinished, by his student Rashid Rida.
+Selective borrowing from Europe is older than the journal often taken as the start. Rifa'a Rafi' al-Tahtawi's *Takhlis al-Ibriz* (1834) and Khayr al-Din al-Tunisi's *Aqwam al-Masalik fi Ma'rifat Ahwal al-Mamalik* (1867) already argued that Muslim states could adopt European administration and schooling without leaving the Sharia. Jamal al-Din al-Afghani (1838/39–1897) and Muhammad Abduh (1849–1905) gave that argument a pan-Islamic and a theological form. They are the central pair of the late nineteenth century, not the earliest writers to make the case. Afghani's birthplace is disputed: he presented himself as an Afghan sayyid, while Nikki Keddie argued from Persian evidence that he was born in Asadabad in Iran.
 
-## Central Ideas
+## Afghani, Abduh, and the Books
 
-- **Compatibility of Islam, reason and science**: rejection of the idea that modern scientific progress contradicts the essence of religion, and an explanation of civilisational decline by the distance of Muslims from the original spirit of Islam, not by religion itself.
-- **Revival of ijtihad**: a call to reopen the door of legal independent reasoning, instead of strictly adhering to the rulings of the historical legal schools (*taqlid*), so as to suit the new questions of the age.
-- **Educational and institutional reform**: modernising the curricula of religious education and integrating modern sciences into it.
-- **A dual political position**: resisting European colonialism while seeking to absorb its scientific and institutional achievements, rather than rejecting them wholesale.
+In 1884 they published *al-'Urwa al-Wuthqa* in Paris, eighteen issues calling for resistance to European occupation and for Muslim political solidarity. Afghani's best-known tract, written in Persian in India in 1881 against the "Naturists" around Sayyid Ahmad Khan, reached Arabic as *al-Radd 'ala al-Dahriyyin*, an Arabic version prepared by Abduh with Persian-reading help. It treats materialism as a threat both to social virtue and to resistance against foreign rule.
 
-## Extension and Branches
+After the British occupation of 1882 Abduh spent years outside Egypt, then returned, and from 1899 until his death in 1905 was Grand Mufti. *Risalat al-Tawhid* (1897) argues that reason can establish God's existence and unity, that prophecy completes the moral guidance reason does not finish, and that human accountability is compatible with divine power. His proposals for the curriculum of al-Azhar were only partly adopted.
 
-This current later developed through Rashid Rida (1865–1935) toward a more conservative direction that prepared the ground for some features of reformist Salafism. Other, more secular or liberal trends branched from it in Egypt, the Levant and South Asia. "Islamic modernism" is therefore a broad umbrella rather than a fully homogeneous school.
+*Tafsir al-Manar* is not Abduh's finished book. From 1899 he lectured on the Quran. Rashid Rida recorded the lectures, from the Fatiha through Qur'an 4:125, and printed them, with additions, in *al-Manar* (founded 1898). After Abduh's death Rida carried the commentary into Surat Yusuf. The standard twelve-volume edition stops at Qur'an 12:52 and is unfinished. Most of the printed text is Rida's.
 
-## Limitations
+## Program and Later Branches
 
-- Researchers disagree on how intellectually unified this current was, since it encompasses distant later trends that emerged from the same source (from Rashid Rida to Muhammad Iqbal to later liberal currents).
-- Some contemporary scholars (such as Wael Hallaq) criticise the reformist project for implicitly adopting modern Western epistemic assumptions about the state and law, more than representing an internal continuation of the classical legal heritage.
+The shared program held Islam and the new sciences to be compatible, blamed decline on distance from the sources, and called for ijtihad against bare *taqlid*. Talk of "reopening the door of ijtihad" should be read against Wael Hallaq's argument that independent reasoning had not in fact stopped. The current opposed colonial rule while wanting European techniques of administration, print, and schooling.
+
+Rashid Rida (1865–1935) began as Abduh's exponent and moved toward a more scriptural politics. *Al-Khilafa aw al-Imama al-'Uzma* (1922) defended a revived caliphate, and his later writing grew more sympathetic to the Wahhabi movement of Najd. His circle's *salafiyya* meant a return to the early Muslims and a rejection of school-bound *taqlid*. That is not the same as later transnational Salafism. Muhammad Iqbal's *The Reconstruction of Religious Thought in Islam* (1934) reworked prophecy and ijtihad in a different philosophical idiom. Sayyid Ahmad Khan remained, for Afghani, an opponent rather than a disciple.
+
+The label joins writers who later diverged. Hallaq's *The Impossible State* (2013) argues that reformist projects took the modern sovereign state as the frame of Islamic law and so changed the law's older relation to society.
 
 ## Sources
 
@@ -47,3 +47,4 @@ This current later developed through Rashid Rida (1865–1935) toward a more con
 - Keddie, Nikki R. *An Islamic Response to Imperialism: Political and Religious Writings of Sayyid Jamal ad-Din "al-Afghani"*. Berkeley: University of California Press, 1968.
 - Kerr, Malcolm H. *Islamic Reform: The Political and Legal Theories of Muhammad ʿAbduh and Rashīd Riḍā*. Berkeley: University of California Press, 1966.
 - Hallaq, Wael B. *A History of Islamic Legal Theories*. Cambridge: Cambridge University Press, 1997.
+- Hallaq, Wael B. *The Impossible State: Islam, Politics, and Modernity's Moral Predicament*. New York: Columbia University Press, 2013.

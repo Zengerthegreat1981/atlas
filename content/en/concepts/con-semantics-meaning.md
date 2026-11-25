@@ -21,7 +21,7 @@ gaps: []
 
 ## Definition
 
-This concept deals with the semantic theory developed by the rhetorician **Abd al-Qahir al-Jurjani** (d. 471 AH / 1078 CE; some sources give 474 AH / 1081 CE), a scholar of Persian origin who wrote in Arabic, in his two books **Dala'il al-I'jaz** (*The Proofs of Inimitability*) and **Asrar al-Balagha** (*The Secrets of Rhetoric*). It is among the most profound contributions of Arabic linguistic thought to the theory of meaning, and it established Arabic rhetoric as a discipline independent of grammar and literary criticism.
+This concept deals with the semantic theory developed by the rhetorician **Abd al-Qahir al-Jurjani** (d. 471 AH / 1078 CE; some sources give 474 AH / 1081 CE), a scholar from Jurjan who wrote in Arabic, in his two books **Dala'il al-I'jaz** (*The Proofs of Inimitability*) and **Asrar al-Balagha** (*The Secrets of Rhetoric*). The theory is a major contribution of Arabic linguistic thought to the study of meaning. It makes eloquence a matter of composition according to the meanings of grammar, distinct both from criticism that stops at single words and from a rhetoric of added ornament.
 
 ## Main Features: The Theory of Nazm
 
@@ -33,11 +33,11 @@ The core of al-Jurjani's theory is the concept of **"nazm"** (composition, the o
 
 ## Context
 
-Al-Jurjani's theory was a response to earlier conceptions in Arabic literary criticism (such as al-Jahiz and Qudama ibn Ja'far), which sought the standards of eloquence in separate categories (wording versus meaning, craft versus natural disposition). Al-Jurjani offered a more coherent theoretical synthesis that unified these dichotomies.
+Al-Jurjani wrote against earlier critical habits. Al-Jahiz had discussed wording and meaning as paired concerns, and Qudama ibn Ja'far, in *Naqd al-shi'r*, had separated the elements of the poem into wording, meaning, meter and rhyme. Al-Jurjani argued that eloquence lies in the composition that joins them.
 
 ## Impact
 
-Al-Jurjani's work laid the foundations for **'ilm al-ma'ani** (the science of meaning) and **'ilm al-bayan** (the science of eloquent expression) as two independent branches of the Arabic science of rhetoric. It became a basic reference for everyone who came after him in this field. Al-Sakkaki, in *Miftah al-Ulum*, organised al-Jurjani's ideas into a teaching system, and *Dala'il al-I'jaz* is still studied in Arabic rhetoric curricula today. Recent studies have also drawn attention to a striking convergence between the theory of nazm and some approaches in modern linguistics on the relation between syntax and semantics (the semantics-syntax interface).
+*Dala'il al-I'jaz* supplied much of what later teaching called **'ilm al-ma'ani** (the science of meaning), and *Asrar al-Balagha* supplied much of **'ilm al-bayan** (the science of eloquent expression). Al-Jurjani did not himself divide the discipline under those school names. Al-Sakkaki, in *Miftah al-'Ulum*, arranged the material into a teaching system, and *Dala'il al-I'jaz* is still read in Arabic rhetoric curricula. Some modern linguists have compared nazm with discussions of the relation between syntax and semantics. The comparison is suggestive; it is not an identity of theories.
 
 ## Limitations
 
@@ -45,7 +45,7 @@ Al-Jurjani's dense and far-ranging writing, and the absence of a clear systemati
 
 ## Sources
 
-- Abd al-Qahir al-Jurjani, *Dala'il al-I'jaz*, ed. Mahmud Muhammad Shakir. Cairo: Maktabat al-Khanji, 1992.
-- Abd al-Qahir al-Jurjani, *Asrar al-Balagha*, ed. Mahmud Muhammad Shakir. Cairo: Dar al-Madani, 1991.
+- Abd al-Qahir al-Jurjani, *Dala'il al-I'jaz*, ed. Mahmud Muhammad Shakir. Cairo: Maktabat al-Khanji, 1984.
+- Abd al-Qahir al-Jurjani, *Asrar al-Balagha*, ed. Mahmud Muhammad Shakir. Jeddah: Dar al-Madani, 1991.
 - Kamal Abu Deeb, *Al-Jurjani's Theory of Poetic Imagery* (Aris & Phillips, 1979).
 - Margaret Larkin, *The Theology of Meaning: 'Abd al-Qahir al-Jurjani's Theory of Discourse* (American Oriental Society, 1995).

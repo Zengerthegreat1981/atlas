@@ -24,7 +24,7 @@ gaps: []
 
 ## The First Centres: Egypt and Syria
 
-In Egypt, Muhammad Ali (r. 1805–1848) built a modern state that needed engineers, doctors and officers. He founded schools, sent missions abroad, established the Bulaq Press around 1820 and the official gazette *al-Waqa'i' al-Misriyya* in 1828. Rifa'a al-Tahtawi (1801–1873) was imam of the Paris mission in 1826 and wrote *Takhlis al-Ibriz fi Talkhis Bariz*. He later led the School of Languages (1835) and the Translation Bureau. In Syria, Butrus al-Bustani (1819–1883) founded the National School (1863) and produced the *Da'irat al-Ma'arif* (Encyclopaedia). Nasif al-Yaziji and Ahmad Faris al-Shidyaq combined the revival of the language with the renewal of literature.
+In Egypt, Muhammad Ali (r. 1805–1848) built a modern state that needed engineers, doctors and officers. He founded schools, sent missions abroad, established the Bulaq Press around 1820 and the official gazette *al-Waqa'i' al-Misriyya* in 1828. Rifa'a al-Tahtawi (1801–1873) was imam of the student mission sent to Paris in 1826 and wrote *Takhlis al-Ibriz fi Talkhis Bariz*, printed in 1834 at Bulaq. He later directed the School of Languages (*Madrasat al-Alsun*), opened in 1835, which organized much of the state's translation into Arabic. In Syria, Butrus al-Bustani (1819–1883) founded the National School (1863) and produced the *Da'irat al-Ma'arif* (Encyclopaedia). Nasif al-Yaziji and Ahmad Faris al-Shidyaq combined the revival of the language with the renewal of literature.
 
 ## The Press and Periodicals
 

@@ -24,15 +24,15 @@ gaps: []
 
 ## Principal Positions
 
-In *Tajdid al-Fikr al-'Arabi* (*Renewing Arab Thought*, 1971), Zaki Naguib Mahmud called for taking rationality and science from the West while retaining the valid values in the heritage. He later reviewed his position and combined the two in *Thaqafatuna fi Muwajahat al-'Asr* (*Our Culture Confronting the Age*). In *Nahnu wa-l-Turath* (*We and the Heritage*, 1980), Muhammad 'Abid al-Jabiri called for reading the heritage objectively, separating the text read from the reader and placing it in its history, so that one is liberated from it rather than rejecting or sanctifying it. As for Hasan Hanafi, he made his project "Heritage and Renewal", and later "Islamic Left", aiming to rebuild the heritage to serve the present and the poor. He followed this with a call for "the science of Occidentalism" (*'ilm al-istighrab*), which reverses the object of study and makes the West the subject rather than the criterion.
+In *Tajdid al-fikr al-'arabi* (Renewing Arab Thought, 1971), Zaki Naguib Mahmud argued for taking scientific rationality from modern Europe while keeping those parts of the heritage that could pass rational scrutiny. He qualified the sharpness of that split in *al-Ma'qul wa-l-la-ma'qul fi turathina al-fikri* (The Rational and the Irrational in Our Intellectual Heritage) and in *Thaqafatuna fi muwajahat al-'asr* (Our Culture Confronting the Age). In *Nahnu wa-l-turath* (We and the Heritage, 1980), Muhammad 'Abid al-Jabiri called for a reading that separates the text from the present reader and places it in its own history, so that one is freed from its authority without either rejecting or sanctifying it. Hasan Hanafi's project "Heritage and Renewal" (*al-Turath wa-l-tajdid*), begun in 1980, proposed to reread the heritage for present social needs. The "Islamic Left" was a short-lived appeal he issued inside that project in 1981, not a later name for the whole enterprise. In *Muqaddima fi 'ilm al-istighrab* (1991) he called for an "occidentalism" (*'ilm al-istighrab*) that would study the West as an object of knowledge, rather than leave European thought as the unquestioned measure of Arab culture.
 
 ## Laroui and Historical Criticism
 
-In *al-Idiyulujiyya al-'Arabiyya al-Mu'asira* (*The Contemporary Arab Ideology*, 1967), Abdallah Laroui questioned the very idea of authenticity. He argued that Arabs look at their heritage sometimes through a Western eye and sometimes through the eye of the past, and that the solution lies in a historicist approach: that is, in absorbing the logic of modernity rather than borrowing its outward forms. He called for what he named "objective Marxism", and in this he early separated himself from those who regarded the heritage as a treasure to be recovered.
+In *L'idéologie arabe contemporaine* (1967; Arabic *al-Idiyulujiyya al-'arabiyya al-mu'asira*), Abdallah Laroui questioned the idea of authenticity. He argued that Arab writers look at their heritage sometimes through a European lens and sometimes through the lens of the past, and that the alternative is historicism: absorbing the logic of modernity rather than its outward forms. He gave the name "objective Marxism" to the historicist Marxism he thought that logic required, and he separated that claim from the hope of recovering the heritage as a buried treasure.
 
 ## The Maghreb: Plural Identity
 
-Abdelkebir Khatibi, in *Maghreb pluriel* (*The Plural Maghreb*, 1983), proposed thinking of identity as plurality: Arab, Amazigh, Islamic and French at once, instead of an image of a single authenticity. In contrast, Taha Abd al-Rahman, in *Tajdid al-Manhaj fi Taqwim al-Turath* (*Renewing the Method for Evaluating the Heritage*, 1994), proposed relying on the heritage's own tools in its critique rather than on Western methods. Mohammed Arkoun showed that the heritage itself is a historical construction and not a fixed essence, so it should not be treated as a ready-made origin to be set against the present.
+Abdelkebir Khatibi, in *Maghreb pluriel* (Plural Maghreb, 1983), proposed thinking of Maghrebi identity as plural: Arab, Amazigh, Islamic, and French at once, rather than as one authenticity. Taha Abd al-Rahman, in *Tajdid al-manhaj fi taqwim al-turath* (Renewing the Method for Evaluating the Heritage, 1994), argued for criticizing the heritage with tools drawn from its own intellectual disciplines rather than with imported methods alone. Mohammed Arkoun, in *Pour une critique de la raison islamique* (1984), treated the heritage as a historical construction, not a fixed essence to be set against the present.
 
 ## Limits
 
@@ -42,6 +42,11 @@ The dichotomy is criticised for assuming a ready-made identity and a unified pas
 
 - Muhammad 'Abid al-Jabiri, *Nahnu wa-l-Turath: Qira'at Mu'asira fi Turathina al-Falsafi* (*We and the Heritage: Contemporary Readings of Our Philosophical Heritage*). Beirut: Dar al-Tali'a, 1980.
 - Taha Abd al-Rahman, *Tajdid al-Manhaj fi Taqwim al-Turath* (*Renewing the Method for Evaluating the Heritage*). Casablanca: al-Markaz al-Thaqafi al-'Arabi, 1994.
-- Hasan Hanafi, *Muqaddima fi 'Ilm al-Istighrab* (*Introduction to the Science of Occidentalism*). Cairo: al-Dar al-Fanniyya, 1991.
-- Abdallah Laroui, *L'idéologie arabe contemporaine*. Paris: François Maspero, 1967.
-- Abdelkebir Khatibi, *Maghreb pluriel*. Paris: Denoël, 1983.
+- Arkoun, Mohammed. *Pour une critique de la raison islamique*. Paris: Maisonneuve et Larose, 1984.
+- Hanafi, Hasan. *Muqaddima fi 'ilm al-istighrab*. Cairo: al-Dar al-Fanniyya, 1991.
+- Laroui, Abdallah. *L'idéologie arabe contemporaine*. Paris: François Maspero, 1967.
+- Mahmud, Zaki Naguib. *Thaqafatuna fi muwajahat al-'asr*. 2nd ed. Cairo: Dar al-Shuruq, 1979.
+- Adonis. *al-Thabit wa-l-mutahawwil: Bahth fi al-ibda' wa-l-ittiba' 'inda al-'Arab*. 3 vols. Beirut: Dar al-'Awda, 1974–1978.
+- Khatibi, Abdelkebir. *Maghreb pluriel*. Paris: Denoël, 1983.
+- Mahmud, Zaki Naguib. *al-Ma'qul wa-l-la-ma'qul fi turathina al-fikri*. Beirut: Dar al-Shuruq.
+- Mahmud, Zaki Naguib. *Tajdid al-fikr al-'arabi*. Beirut: Dar al-Shuruq, 1971.

@@ -22,19 +22,19 @@ gaps:
 
 # Mawlana Jalal al-Din Rumi
 
-Jalal al-Din Muhammad ibn Baha' al-Din Balkhi, known as **Rumi** or **Mawlana**, a Persian poet, jurist and Sufi (1207–1273). He was born in **Balkh** (or its environs, Wakhsh, in Greater Khorasan, today Afghanistan and Tajikistan). His family migrated to escape the Mongol invasion, passing through Baghdad, Mecca and Damascus, and finally settled in **Konya** in Anatolia (the Seljuk Sultanate of Rum), where his father **Baha' al-Din Walad** taught religious subjects and where Rumi succeeded him in that teaching. The title "al-Rumi," referring to the land of Rum, derives from this.
+Jalal al-Din Muhammad ibn Baha' al-Din, known as **Rumi** or **Mawlana**, was a Persian poet, Hanafi jurist and Sufi (1207–1273). He was born in the district of **Wakhsh**, in a family from **Balkh**, in Greater Khorasan (today's Tajikistan and Afghanistan). The family left during the Mongol advance. Balkh itself was taken in 1220. The route is only partly documented. Traditional accounts bring them through Nishapur, Baghdad, the Hijaz and Damascus, then through Anatolian towns, before they settled in **Konya**, in the Seljuk sultanate of Rum. The nisba al-Rumi comes from that land. His father, **Baha' al-Din Walad**, taught in Konya and died there in 1231. Rumi did not become a mystic poet at once. He studied in Aleppo and Damascus, and for about nine years he was guided by Burhan al-Din Muhakkik al-Tirmidhi, who died around 1240–1241. He continued to teach the law.
 
 ## His creative output
 
-The decisive turning point in his life was his encounter in 1244 with the wandering dervish **Shams al-Din al-Tabrizi**, who transformed him from an academic jurist into a mystic poet expressing annihilation in divine love. Shams's sudden disappearance (c. 1247) left Rumi with profound grief, which turned into the poetic energy that produced the **Divan-e Shams-e Tabrizi** (*Dīvān-e Shams-e Tabrīzī*), a vast Persian lyric collection of tens of thousands of verses. Rumi attributed it to Shams rather than to himself, expressing the dissolution of the self in the Beloved.
+The decisive turn was his meeting in 642 AH / 1244 CE with the wandering dervish **Shams al-Din Tabrizi**. Shams left Konya, returned, and then disappeared about 1247. The grief of that loss is the traditional setting of the **Divan-e Shams-e Tabrizi**, a large Persian lyric collection, on the order of tens of thousands of lines. In many ghazals the pen-name is Shams rather than Rumi. After Shams, Salah al-Din Zarkub and then Husam al-Din Chelebi were his close companions.
 
-His greatest work is the **Masnavi-ye Ma'navi** (*Mathnawī-ye Maʿnawī*), a didactic Sufi epic of six books and some 25,000 couplets. It mixes popular tales and symbolic stories with Qur'anic exegesis and philosophical reflection, and treats themes of annihilation, divine love and the relationship between the human being and the Creator. The Masnavi has been described, in a saying commonly credited to the poet Jami (d. 1492), as "the Qur'an in Persian", an expression of its standing in Sufi literature rather than a claim of equivalence to scripture.
+His major didactic poem is the **Masnavi-ye Ma'navi**, six books and about 25,000 couplets. At Husam al-Din's urging he began dictating it in the early 1260s and continued nearly until his death. The sixth book is shorter and has no formal close. The poem sets popular tales beside Qur'anic comment and reflection on annihilation, love and the return to God. A line commonly credited to Jami (d. 1492) calls it "the Qur'an in Persian." The phrase expresses Sufi esteem. It is not a claim that the poem equals scripture, and the attribution to Jami should be kept as an attribution.
 
-After his death his followers, notably his son Sultan Walad, organised the **Mevlevi Order**, known for the ritual of **sama'** (circular whirling accompanied by music), as a bodily expression of remembrance (*dhikr*) and annihilation in God.
+After his death his circle, and especially his son Sultan Walad, gave the **Mevlevi** path an institutional form. The *sema*, with its turning, grew out of the audition (*sama'*) already practiced around Rumi. It is a later ceremony, not a rite he wrote down. The Turkish Republic closed the Sufi lodges in 1925. Mevlevi turning was later allowed again as a cultural performance, above all at the December commemoration in Konya.
 
 ## Influence
 
-Rumi is one of the great poets of Islamic Sufism and among the most widely spread worldwide; his poetry has been translated into most of the world's languages. Through translations including Coleman Barks's free English versions in the late twentieth century, he became one of the best-selling poets in the United States. These translations have been the subject of academic debate, however, because they sometimes strip his poetry of its explicit Islamic and Qur'anic framework. He influenced the development of later Sufi thought in Anatolia and Persia. The Mevlevi Order remained alive in Turkey to this day, despite its official ban after the founding of the Republic in 1925 and the later permission to revive it as cultural heritage.
+Rumi is a major poet of Islamic Sufism, and his work has been translated many times. Coleman Barks's late twentieth-century English versions, which are free adaptations rather than translations from the Persian, made him one of the best-selling poets in the United States. Scholars have objected that those versions often drop the Qur'anic and legal setting in which Rumi wrote. The Masnavi and the Divan remained central to Sufi reading in Anatolia and the Persianate world. The Mevlevi path has continued, under the limits set in 1925 and under the later permission to perform the *sema* in public.
 
 ## Caveats
 
@@ -44,7 +44,8 @@ There is academic debate over how accurate popular Western readings of his poetr
 
 - *Masnavi-ye Ma'navi* (*Mathnawī-ye Maʿnawī*)
 - *Divan-e Shams-e Tabrizi* (*Dīvān-e Shams-e Tabrīzī*)
-- *Fihi ma Fihi* (*Fīhi mā Fīhi*): a collection of recorded discourses in prose, compiled by his disciples
+- *Fihi ma Fihi*: prose discourses recorded by disciples and compiled after his death
+- *Maktubat*: his letters, a source for his life as a teacher and for his relations with the Seljuk elite
 
 ## Sources
 
@@ -52,3 +53,4 @@ There is academic debate over how accurate popular Western readings of his poetr
 - Chittick, William C. *The Sufi Path of Love: The Spiritual Teachings of Rumi*. Albany: State University of New York Press, 1983.
 - Schimmel, Annemarie. *The Triumphal Sun: A Study of the Works of Jalaloddin Rumi*. Albany: State University of New York Press, 1993.
 - Rumi, Jalal al-Din. *The Mathnawi of Jalalu'ddin Rumi*. Edited and translated by Reynold A. Nicholson. London: Luzac, 1925–1940.
+- Arberry, A. J. *Discourses of Rumi*. London: John Murray, 1961.

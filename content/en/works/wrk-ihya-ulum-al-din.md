@@ -27,7 +27,7 @@ gaps: []
 
 # Ihya' 'Ulum al-Din
 
-The most famous moral-spiritual encyclopaedia in the Islamic heritage, written by **Abu Hamid al-Ghazali** (1058–1111 CE) after the spiritual and intellectual crisis that led him to withdraw from teaching in Baghdad around 1095 CE. It is an attempt to reconnect the outward religious sciences (jurisprudence and worship) with the inward spiritual dimension (purification of the soul), in response to what he saw as a dry jurisprudence and theology emptied of spiritual life.
+A central moral and spiritual encyclopaedia in the Islamic heritage, written by **Abu Hamid al-Ghazali** (1058–1111 CE) after the crisis that led him to withdraw from teaching at the Baghdad Nizamiyya in Dhu al-Qa'da 488 / November 1095. It is an attempt to reconnect the outward religious sciences (jurisprudence and worship) with the inward spiritual dimension (purification of the soul), in response to what he saw as a dry jurisprudence and theology emptied of spiritual life.
 
 ## Structure
 
@@ -48,15 +48,15 @@ The book opens with the Book of Knowledge, distinguishing between the science of
 
 ## Controversial Sections
 
-Some sections of the book provoked disagreement. In the Book of Listening and Ecstasy, al-Ghazali permitted singing under conditions. In the Book of the Etiquette of Marriage he set out rules that some modern scholars regard as reflecting a paternalistic view of women, while others see them as a moral model of the rights of spouses. In the Quarter of Saving Things he defended love, longing and contentment as spiritual stations, which made the book a bridge between Sufism and the scholars of the Sharia. Among the parts his opponents attacked was what appeared to them as an inclination toward unveiling and esoteric knowledge. Ibn al-Jawzi wrote *I'lam al-ahya' bi-aghlat al-Ihya'* (Informing the Living of the Errors of the *Ihya'*) as a critique, and also produced an abridgement of the book, *Minhaj al-qasidin* (The Path of Seekers), omitting material he judged weak.
+Some sections of the book provoked disagreement. In the Book of Listening and Ecstasy, al-Ghazali permitted singing under conditions. In the Book of the Etiquette of Marriage he set out rules that some modern scholars regard as reflecting a paternalistic view of women, while others see them as a moral model of the rights of spouses. In the Quarter of Saving Things he defended love, longing and contentment as spiritual stations, which made the book a bridge between Sufism and the scholars of the Sharia. Opponents also attacked passages that seemed to them to lean toward unveiling and esoteric knowledge. A short critique entitled *I'lam al-ahya' bi-aghlat al-Ihya'* is ascribed to Ibn al-Jawzi, but no copy is known. His extant response is *Minhaj al-qasidin wa-Mufid al-Sadiqin*, a reworking of the *Ihya'* that leaves out reports he judged weak or baseless.
 
 ## Criticism of Hadith and Commentaries
 
-Zayn al-Din al-'Iraqi (d. 806 AH/1404 CE), in *al-Mughni 'an haml al-asfar* (The Sufficient Book on Carrying the Books of Travel), traced the hadiths of the *Ihya'* and showed that many were weak or had no basis. Then al-Zabidi (d. 1205 AH/1791 CE) commented on the book in *Ithaf al-sada al-muttaqin bi-sharh Ihya' 'ulum al-din* (The Gift of the Pious Lords: A Commentary on the Revival of the Religious Sciences) in ten volumes, the broadest commentary on it. These works indicate that the book's standing does not rest on the perfection of its chains of transmission, but on its ability to formulate a complete moral system.
+Zayn al-Din al-'Iraqi (d. 806 AH / 1404 CE), in *al-Mughni 'an haml al-asfar*, a *takhrij* of the reports cited in the *Ihya'*, found that many were weak or had no basis. Murtada al-Zabidi (d. 1205 AH / 1791 CE) commented on the book in *Ithaf al-sada al-muttaqin bi-sharh Ihya' 'ulum al-din*, in ten volumes in the Cairo edition of 1311 AH / 1893–94. The book's later standing rests on the moral and spiritual system it organizes, alongside this long argument over its reports.
 
 ## Recent Scholarly Readings
 
-Watt regarded al-Ghazali as a thinker who defended Sunni Islam against philosophical and Batini challenges. Frank Griffel asserted that al-Ghazali did not abandon philosophy but introduced its logic into kalam and Sufism. Kenneth Garden, in *The First Islamic Reviver* (2014), offered a reading that links the composition of the *Ihya'* to the political and social context of Baghdad and Khurasan and to the Nizamiyya madrasas, seeing it as a project to reform religious life connected to the author's own experience in those madrasas. These studies agree that the book is closely bound to its author's biography and spiritual life.
+Watt regarded al-Ghazali as a thinker who defended Sunni Islam against philosophical and Batini challenges. Frank Griffel argued that al-Ghazali did not abandon philosophy but introduced its logic into kalam and Sufism. Kenneth Garden, in *The First Islamic Reviver* (2014), offered a reading that links the composition of the *Ihya'* to the political and social context of Baghdad and Khurasan and to the Nizamiyya madrasas, seeing it as a project to reform religious life connected to the author's own experience in those madrasas. These studies agree that the book is closely bound to its author's biography and spiritual life.
 
 ## Limitations
 
@@ -64,7 +64,7 @@ The reasons behind al-Ghazali's withdrawal from teaching cannot be settled by th
 
 ## Impact and Reception
 
-*Ihya' 'Ulum al-Din* is among the most influential books in the history of Islamic thought. It helped bring moderate Sunni Sufism closer to the mainstream juristic and theological currents, after many jurists had viewed it with suspicion. The book faced criticism from some Maliki jurists in al-Andalus and the Maghreb, where some copies were burned under the Almoravids for political and sectarian reasons, while others praised it so highly that a saying circulated that the *Ihya'* came close to being a Qur'an. Al-Ghazali himself later summarized it in Persian in *Kimiya-yi sa'adat* (The Alchemy of Happiness).
+*Ihya' 'Ulum al-Din* has had a long influence on Islamic thought. It helped bring a moderate form of Sunni Sufism closer to the mainstream juristic and theological schools, in a period when many jurists viewed Sufism with suspicion. Some Maliki jurists in al-Andalus and the Maghreb condemned it, and copies were burned under the Almoravid amir Ali ibn Yusuf in 503 AH / 1109–10 CE, during a dispute that was at once doctrinal and political. Other readers praised the book highly. Al-Ghazali also set out much of the same moral and spiritual teaching in Persian in *Kimiya-yi sa'adat* (The Alchemy of Happiness), for readers who did not use the Arabic *Ihya'*.
 
 ## Sources
 

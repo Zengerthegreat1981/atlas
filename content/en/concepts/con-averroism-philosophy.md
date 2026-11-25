@@ -7,7 +7,7 @@ level: "متقدم"
 title: "Averroism & Ibn Rushd's Philosophy"
 en: "Averroism & Ibn Rushd's Philosophy"
 crumb: "Arab Thought ← Concepts ← Averroism & Ibn Rushd's Philosophy"
-active_start: 1230
+active_start: 1126
 active_end: "مستمر"
 language: "Arabic, Latin"
 edges:
@@ -19,24 +19,29 @@ gaps: []
 
 # Averroism & Ibn Rushd's Philosophy
 
-## Definition
+Averroism denotes both the philosophical system of the Andalusian jurist, physician, and philosopher **Abu al-Walid Muhammad ibn Ahmad ibn Rushd** (Averroes, 520–595 AH / 1126–1198 CE) and the influential scholastic movement that developed around his Latin translations in late medieval European universities. Writing in Cordoba and Marrakesh under the Almohad caliphate, Ibn Rushd composed short epitomes (*jami'*), intermediate paraphrases (*talkhis*), and comprehensive Long Commentaries (*tafsir* or *sharh*) on Aristotle, aiming to restore pure Aristotelian philosophy from later Neoplatonic accretions.
 
-**Averroism** is a scholastic philosophical current that arose in Latin Europe in the thirteenth century. It was based on the interpretations of Aristotle by the Andalusian philosopher **Ibn Rushd** (Averroes, 520–595 AH / 1126–1198 CE). Specifically, it drew on his major commentaries (the Long Commentaries), which were translated into Latin and became the main gateway to understanding Aristotle in the emerging European universities, especially in the faculty of arts at the University of Paris.
+## Harmony of Philosophy and Revealed Law
 
-## Historical Context
+In response to Abu Hamid al-Ghazali's polemic in *Tahafut al-falasifa* (The Incoherence of the Philosophers), Ibn Rushd composed *Tahafut al-tahafut* (The Incoherence of the Incoherence, c. 1180). There he defended natural causality and the legitimacy of demonstrative inquiry. In the legal treatise *Fasl al-maqal fi ma bayn al-hikma wa-l-shari'a min al-ittisal* (The Decisive Treatise, c. 1179), he argued that revelation obliges those able to do so to study by demonstration. On his account, truth does not contradict truth. Where the literal sense of scripture conflicts with a demonstrated conclusion, allegorical interpretation (*ta'wil*) is required of the qualified, while the outward sense remains the address to the wider public.
 
-Ibn Rushd worked as a judge, physician and philosopher in Cordoba and Marrakesh. He wrote extensive commentaries on the works of Aristotle in defence of the **harmony between philosophy and religion**, in reply to al-Ghazali's attack on the philosophers in *Tahafut al-falasifa* (The Incoherence of the Philosophers). Ibn Rushd wrote the counter-work **Tahafut al-tahafut** (The Incoherence of the Incoherence) to defend the legitimacy of rational philosophical inquiry. Among his other major works is *Fasl al-maqal fi ma bayn al-hikma wa-l-shari'a min al-ittisal* (The Decisive Treatise on the Harmony of Philosophy and Religion), in which he argued that the Sharia itself requires demonstrative rational inquiry from those capable of it, and that interpretation becomes necessary when the apparent meaning of a text conflicts with a conclusive rational demonstration. His works were translated into Latin and Hebrew from around 1230 CE, and deeply influenced the masters of Paris. There a group known as the "Latin Averroists" took shape (the most prominent of whom was **Siger of Brabant**, c. 1240–c. 1284, a master of arts at Paris who was summoned before the inquisitor in 1276 and is thought to have died at the papal court at Orvieto). Their ideas led the Bishop of Paris, **Étienne Tempier**, to condemn thirteen propositions in 1270 and, in 1277, a list of 219 propositions associated with the arts faculty.
+## The Latin Averroist Movement and Church Condemnations
 
-## Main Dimensions
+Translated into Latin and Hebrew beginning around 1230 CE through translators such as Michael Scot, Ibn Rushd's commentaries became the primary gateway to Aristotle in the emerging European universities, especially within the Faculty of Arts at the University of Paris. A prominent school of "Latin Averroists" coalesced around **Siger of Brabant** (c. 1240–c. 1284) and Boethius of Dacia. 
 
-- **The "double truth" theory: a misleading attribution**: The theory of "double truth" (the existence of separate and contradictory religious and philosophical truths, both held to be valid) is commonly attributed to Ibn Rushd. Modern academic research makes clear that Ibn Rushd himself never held this view. His position was that truth is **one**, reached by two different paths (philosophical demonstration and religious or symbolic discourse), not by two contradictory truths. The "double truth" is a later invention attributed to some Latin Averroists. It is not historically established that any of the Paris masters adopted it literally in the form in which it was stated in the ecclesiastical condemnations against them.
-- **The condemned propositions**: Among the most prominent views attributed to the Latin Averroists and condemned in 1277 were the eternity of the world (the denial of creation from nothing at a specific time), and the unity of the active intellect among all human beings (a particular interpretation of Aristotle's theory of the intellect). Both are associated with Ibn Rushd's reading of Aristotle (notably in his Long Commentary on *On the Soul*) rather than with any religious opinion of his own.
-- **Influence on European thought**: Ibn Rushd's commentaries paved the way for the entry of complete Aristotelian philosophy into European universities. They influenced Thomas Aquinas himself (despite his opposition to many of the Averroists' conclusions), and they are among the most important channels through which Greek thought, reconstructed in Arabic, passed into Latin Europe. Averroist currents persisted into the Renaissance, notably at Padua.
-- **Ibn Rushd's fate in the Islamic world**: In contrast to his profound influence in Europe, his philosophical works had comparatively little continuing influence in the Islamic world after his death, although he remained known as a jurist (*Bidayat al-mujtahid*) and physician.
+The radical conclusions drawn by these masters alarmed ecclesiastical authorities, leading Bishop of Paris **Étienne Tempier** to condemn thirteen propositions in 1270 and an expansive list of 219 propositions in 1277. Among the condemned doctrines were:
+- **The eternity of the world**: The thesis that prime matter and the cosmos are eternal, precluding creation out of nothing at a temporal beginning point.
+- **The unicity of the material intellect (monopsychism)**: Based on Ibn Rushd's Long Commentary on *De Anima*, the controversial thesis that there is only one universal material (potential) intellect shared by all individual human beings, which appeared to subvert individual moral accountability and personal immortality. This doctrine provoked Thomas Aquinas's famous polemic *De unitate intellectus contra Averroistas* (On the Unity of the Intellect Against the Averroists, 1270).
+
+The charge that Ibn Rushd, or the Parisian masters, taught a "double truth" (one and the same proposition true in theology and false in philosophy) was a polemical label. For Ibn Rushd, truth is one. It is conveyed by different means: demonstration, dialectic, and rhetoric. Historians of the 1277 condemnation now generally treat "double truth" as a hostile description of that distinction, not as a doctrine the masters themselves professed.
+
+## Legacy and Modern Arab Neo-Averroism
+
+Philosophical study of Ibn Rushd thinned in the post-Almohad Islamic West, while his comparative legal manual *Bidayat al-mujtahid wa-nihayat al-muqtasid* remained a Maliki reference. In Latin Europe, Averroist Aristotelianism was still taught in Italian faculties, above all at Padua, into the early seventeenth century. In modern Arab thought the uses diverge. Farah Antun defended Ibn Rushd in his 1902–1903 exchange with Muhammad Abduh. Muhammad 'Abid al-Jabri later called for an Averroist rationalism as a resource inside the heritage. Mohammed Arkoun drew on philosophical criticism of dogma, but his critique of Islamic reason is not al-Jabri's neo-Averroist program.
 
 ## Sources
 
-- Ibn Rushd, *Fasl al-Maqal* (The Decisive Treatise), multiple editions; English translation: Charles Butterworth, *The Book of the Decisive Treatise* (Provo: Brigham Young University Press, 2001).
-- Ibn Rushd, *Tahafut al-Tahafut* (The Incoherence of the Incoherence), trans. Simon Van Den Bergh (Oxford: Oxford University Press, 1954).
 - Fakhry, Majid. *Averroes (Ibn Rushd): His Life, Work and Influence*. Oxford: Oneworld, 2001.
 - Hasse, Dag Nikolaus. *Success and Suppression: Arabic Sciences and Philosophy in the Renaissance*. Cambridge, MA: Harvard University Press, 2016.
+- Ibn Rushd. *The Book of the Decisive Treatise Determining the Connection between the Law and Wisdom*. Translated by Charles E. Butterworth. Provo, UT: Brigham Young University Press, 2001.
+- Ibn Rushd. *Tahafut al-Tahafut (The Incoherence of the Incoherence)*. Translated by Simon van den Bergh. 2 vols. London: Luzac, 1954.

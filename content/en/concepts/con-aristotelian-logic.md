@@ -23,32 +23,30 @@ gaps: []
 
 # Aristotelian Logic in Arabic
 
-Aristotle's logic entered Arabic in three waves: early translations traditionally attributed to Ibn al-Muqaffa' and his son Muhammad in the second century AH; then the translations of the school of Hunayn ibn Ishaq and his son Ishaq in the third century; and then the commentaries of the Baghdad school in the fourth century. Arab logicians gathered the six books of the *Organon* together with Porphyry's *Isagoge*, the *Rhetoric* and the *Poetics* into a single collection known as "Aristotle's logic," which Abd al-Rahman Badawi published in three volumes.
+Aristotelian logic entered the Arabic tradition through three principal historical phases: early eighth-century translations associated with Ibn al-Muqaffa' and his circle; the precise ninth-century renderings by Hunayn ibn Ishaq (d. 260 AH / 873 CE) and his son Ishaq ibn Hunayn (d. 298 AH / 910–911 CE); and the detailed fourth-century AH commentaries produced by the Christian and Muslim scholars of the Baghdad school. Arabic logicians arranged Aristotle's logical corpus (*Organon*) alongside Porphyry's *Isagoge*, the *Rhetoric*, and the *Poetics* into a comprehensive nine-part curriculum.
 
-## From translation to school
+## From Baghdad Commentaries to Avicennian Systematization
 
-In the fourth century, Abu Bishr Matta ibn Yunus (d. 328 AH / 940 CE) emerged as the teacher of the Baghdad logical school, and his student Yahya ibn Adi (d. 364 AH / 974 CE) combined teaching, translation and authorship. Logic reached its peak of attention with al-Farabi (d. 339 AH / 950 CE), who commented on the *Organon* and wrote the *Enumeration of the Sciences* (*Ihsa' al-'ulum*) to make logic an introduction to all the sciences. It then reached a further peak with Ibn Sina (d. 428 AH / 1037 CE), who reformulated logic in *al-Shifa'* and *al-Isharat wa-l-tanbihat*, including a theory of temporal modalities, the categorical-conditional syllogism, and an independent treatment of the question of existence in propositions.
+In tenth-century Baghdad, Abu Bishr Matta ibn Yunus (d. 328 AH / 940 CE) and his pupil Yahya ibn 'Adi (d. 363 AH / 974 CE; also given as 364/975) made formal logic a regular part of philosophical teaching. Abu Nasr al-Farabi (d. 339 AH / 950 CE) composed epitomes and commentaries on the *Organon*, and in *Ihsa' al-'ulum* (The Enumeration of the Sciences) he described logic as the instrument of the rational sciences.
 
-## Logic and language: the Sirafi–Matta debate
+Ibn Sina (Avicenna, d. 428 AH / 1037 CE) then reworked the discipline. In *al-Shifa'* (The Cure) and *al-Isharat wa-l-tanbihat* (Pointers and Reminders) he did not confine himself to lemmatic commentary on Aristotle. He built a modal syllogistic that tracks temporal conditions (*al-shurut al-waqtiyya*), gave hypothetical and conditional syllogisms (*al-qiyasat al-shartiyya*) a formal place, and treated logic as a study of secondary intelligibles (*al-ma'qulat al-thaniya*).
 
-In Baghdad, in the majlis of the vizier Ibn al-Furat, a debate took place between the grammarian Abu Sa'id al-Sirafi and Matta ibn Yunus, which Abu Hayyan al-Tawhidi related in *al-Imta' wa-l-mu'anasa*. Matta argued that logic is an instrument for distinguishing the sound from the corrupt in meanings, and that it is universal to all peoples. Al-Sirafi replied that logic is built on the language of the Greeks and so cannot rule authoritatively over Arabic, and that grammar is the measure of meaning for those who speak Arabic. Muhsin Mahdi analyzed this debate as a moment of awareness of the relationship between language and logic.
+## Integration into Kalam and Islamic Jurisprudence
 
-## Incorporating logic into the religious sciences
+Abu Hamid al-Ghazali (d. 505 AH / 1111 CE) marked a turning point by domesticating formal logic within mainstream Sunni thought. In *Mi'yar al-'ilm* (The Standard of Knowledge), *Mihakk al-nazar* (The Touchstone of Reflection), and *al-Qistas al-mustaqim* (The Just Balance), al-Ghazali defended logic as a neutral epistemological tool belonging to no religion. He made logical training a prerequisite for legal theory in the introduction to his legal manual *al-Mustasfa*. Following al-Ghazali, later theologians (*mutakallimun*) integrated logic into theological primers, exemplified by Fakhr al-Din al-Razi, Afdal al-Din al-Khunaji, Athir al-Din al-Abhari (*al-Isaghuji*), and Najm al-Din al-Katibi al-Qazwini (d. 675 AH / 1276 CE), whose *al-Risala al-Shamsiyya* became the standard logical textbook across Islamic madrasas for centuries.
 
-Al-Ghazali (d. 505 AH / 1111 CE) took a decisive position. He regarded logic as a neutral instrument that belongs to no religion, and wrote *The Criterion of Knowledge* (*Mi'yar al-'ilm*), *The Touchstone of Reflection* (*Mihakk al-nazar*) and *The Just Balance* (*al-Qistas al-mustaqim*). He also made his logical introduction an entry to *al-Mustasfa* in the principles of jurisprudence. After him, logic became part of the teaching of the later theologians, as seen in Fakhr al-Din al-Razi, al-Khunaji and al-Abhari, reaching al-Qazwini's *al-Shamsiyya*.
+## The Traditionalist Critique
 
-## The religious objection
+The incorporation of logic met persistent opposition from traditionalist jurists. The Shafi'i hadith scholar Ibn al-Salah (d. 643 AH / 1245 CE) issued a famous legal ruling (*fatwa*) prohibiting the study of logic and Hellenistic philosophy. The Hanbali theologian Taqi al-Din Ahmad ibn Taymiyya (d. 728 AH / 1328 CE) formulated an incisive epistemological critique in *al-Radd 'ala al-mantiqiyyin* (Refutation of the Logicians). Ibn Taymiyya argued that Aristotelian definitions cannot produce genuine knowledge of real essences, that the formal categorical syllogism is either circular or trivial, and that inductive reasoning and reasoning by analogy (*qiyas al-tamthil*) provide more robust empirical grounds for human inquiry.
 
-This was not accepted without objection. The Shafi'i jurist Ibn al-Salah (d. 643 AH / 1245 CE) issued a legal ruling prohibiting the study of logic. Later, the Hanbali scholar Ibn Taymiyya (d. 728 AH / 1328 CE) wrote *Refutation of the Logicians* (*al-Radd 'ala al-mantiqiyyin*), arguing that Aristotelian definitions yield no new knowledge, that the demonstrative syllogism in its Aristotelian form is unnecessary, and that the Arabs knew valid inference before logic. He called for analogy by resemblance (*qiyas al-tamthil*) as the basis of reflection. Wael Hallaq translated this book with a substantial introduction.
+## Later Development and Legacy
 
-## What is said and what history goes beyond
-
-It is sometimes said that Arab logic was merely a transmission of Aristotle. The more accurate view is that Ibn Sina and his students made fundamental modifications, and that logical study continued for centuries after Ibn Rushd, as Khaled El-Rouayheb showed in his study of Arabic logic between 1200 and 1800.
+The older claim that Arabic logic stopped developing after the twelfth century does not survive the later record. Khaled El-Rouayheb has shown that logical writing from 1200 to 1800 includes work on relational syllogisms, propositional forms, and the semantics of signification (*dalala*), across Ottoman, Safavid, and Mughal scholarly networks. Teaching of the *Shamsiyya* continued in some madrasas after 1800, but the creative treatise tradition he surveys is framed by that date.
 
 ## Sources
 
-- Badawi, Abd al-Rahman (ed.). *Mantiq Aristu* (*The Logic of Aristotle*). 3 vols. Cairo: Dar al-Kutub al-Misriyya, 1948–1952.
-- Rescher, Nicholas. *The Development of Arabic Logic*. Pittsburgh: University of Pittsburgh Press, 1964.
-- Hallaq, Wael B. *Ibn Taymiyya Against the Greek Logicians*. Oxford: Clarendon Press, 1993.
+- Badawi, Abd al-Rahman, ed. *Mantiq Aristu*. 3 vols. Cairo: Dar al-Kutub al-Misriyya, 1948–1952.
 - El-Rouayheb, Khaled. *The Development of Arabic Logic (1200–1800)*. Basel: Schwabe Verlag, 2019.
-- Mahdi, Muhsin. "Language and Logic in Classical Islam." In G. E. von Grunebaum (ed.), *Logic in Classical Islamic Culture*. Wiesbaden: Otto Harrassowitz, 1970.
+- Hallaq, Wael B. *Ibn Taymiyya Against the Greek Logicians*. Oxford: Clarendon Press, 1993.
+- Mahdi, Muhsin. "Language and Logic in Classical Islam." In *Logic in Classical Islamic Culture*, edited by G. E. von Grunebaum, 51–83. Wiesbaden: Otto Harrassowitz, 1970.
+- Rescher, Nicholas. *The Development of Arabic Logic*. Pittsburgh: University of Pittsburgh Press, 1964.

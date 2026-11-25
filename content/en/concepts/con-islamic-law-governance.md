@@ -26,13 +26,15 @@ A concept that studies the relationship between the **Sharia**, understood as a 
 
 In Sunni jurisprudence, *siyasa shar'iyya* means managing the state in a way that agrees with the spirit of the Sharia, leaving a wide space for the ruler and the jurist to regulate matters the text did not detail, such as taxation, the organisation of markets and public security, in a way that serves the public good without contradicting the explicit text. In this sense, *siyasa shar'iyya* is a **complementary** instrument that gives government practical flexibility alongside the fixed legislative framework of the Sharia.
 
-## Founders: al-Mawardi, Ibn Taymiyya and Ibn Qayyim al-Jawziyya
+## Classical Authors: al-Mawardi, Ibn Taymiyya, and Ibn al-Qayyim
 
-The Shafi'i jurist **Abu al-Hasan al-Mawardi** (974–1058 CE), in his book *al-Ahkam al-Sultaniyya* (*The Ordinances of Government*), produced an early and highly influential systematic account of the structure and functions of the Islamic state, including the caliphate, the vizierate, the judiciary, *hisba* (market and public-morals supervision) and the appointments (*wilayat*), specifying the ruler's duties in upholding justice and protecting religion. Later, **Ibn Taymiyya** (1263–1328 CE), in his book *al-Siyasa al-Shar'iyya fi Islah al-Ra'i wa-l-Ra'iyya* (*Shar'i Governance in the Reform of the Ruler and the Ruled*), developed a more flexible theory that ties the legitimacy of any government measure to the extent to which it achieves the public good, rather than to the necessity of a direct text on it. His student **Ibn Qayyim al-Jawziyya** (1292–1350 CE) followed his approach in his book *al-Turuq al-Hukmiyya fi al-Siyasa al-Shar'iyya* (*The Judicial Methods in Shar'i Governance*).
+The Shafi'i jurist **Abu al-Hasan al-Mawardi** (974–1058 CE), in *al-Ahkam al-Sultaniyya* (*The Ordinances of Government*), gave a systematic account of offices he took to constitute legitimate government: the caliphate, the vizierate, the judiciary, *hisba* (market and public-morals supervision), and other appointments (*wilayat*). He specifies the ruler's duties in upholding justice and protecting religion. He did not invent these offices. He ordered an existing practice.
+
+**Ibn Taymiyya** (661–728 AH / 1263–1328 CE), in *al-Siyasa al-Shar'iyya fi Islah al-Ra'i wa-l-Ra'iyya*, argues that a governing measure is legitimate when it serves the aims of the Sharia, above all justice and the welfare of the ruled, and does not contradict revelation. Administrative detail need not be spelled out in a particular text. This is not an open appeal to utility against the law. His student **Ibn Qayyim al-Jawziyya** (691–751 AH / 1292–1350 CE) developed the procedural side of the same idea in *al-Turuq al-Hukmiyya fi al-Siyasa al-Shar'iyya*, on the methods of proof a judge may use, including circumstantial evidence, where the classical rules of testimony do not settle the case.
 
 ## Judicial Institutions of Siyasa Shar'iyya
 
-Alongside the traditional Sharia judiciary, parallel judicial institutions developed under *siyasa shar'iyya*. The most prominent were: the **police** (*shurta*, for maintaining security); **hisba** (supervision of markets and public morals); and **mazalim** (special courts in which the ruler or his deputy heard complaints of subjects against senior officials and powerful figures). These courts allowed a procedural flexibility that the purely Sharia judiciary, bound by the traditional rules of proof, did not provide.
+Several institutions operated beside the qadi's court and were later discussed inside the theory of *siyasa shar'iyya*. The most prominent were the **police** (*shurta*), charged with security; **hisba**, the supervision of markets and public morals; and **mazalim**, hearings in which the ruler or his deputy took complaints against officials and powerful persons. These arrangements are older than Ibn Taymiyya's treatise. Mawardi already describes *hisba* and *mazalim* as regular offices. They allowed procedures, especially against officials, that the qadi's rules of testimony did not provide.
 
 ## Value and Structural Tension
 
@@ -40,7 +42,7 @@ The core of the historical jurisprudential debate on *siyasa shar'iyya* lies in 
 
 ## Contemporary Extension
 
-The concept of *siyasa shar'iyya* is invoked in contemporary debate on the relationship between the Sharia and the modern state. Some contemporary Islamic thinkers (such as Muhammad Salim al-'Awa and Yusuf al-Qaradawi) draw on it to justify the Sharia's incorporation of modern instruments of government (the constitution, parliament, and supplementary positive law) as an extension of the historical flexibility of *siyasa shar'iyya*, not a departure from it.
+The concept of *siyasa shar'iyya* is invoked in contemporary debate on the relationship between the Sharia and the modern state. Writers such as Muhammad Salim al-'Awa and Yusuf al-Qaradawi (1926–2022) have drawn on it to treat constitutions, parliaments, and supplementary statute law as uses of that historical flexibility.
 
 ## Limitations
 
@@ -50,6 +52,7 @@ The debate remains open on the limits of **"public interest" (*maslaha*)** as a 
 
 - Abu al-Hasan al-Mawardi, *al-Ahkam al-Sultaniyya wa-l-Wilayat al-Diniyya* (*The Ordinances of Government and Religious Authorities*), ed. Ahmad Mubarak al-Baghdadi. Kuwait, 1989.
 - Ibn Taymiyya, *al-Siyasa al-Shar'iyya fi Islah al-Ra'i wa-l-Ra'iyya* (*Shar'i Governance in the Reform of the Ruler and the Ruled*). Beirut: Dar al-Afaq al-Jadida.
-- Ibn Qayyim al-Jawziyya, *al-Turuq al-Hukmiyya fi al-Siyasa al-Shar'iyya* (*The Judicial Methods in Shar'i Governance*).
-- Wael B. Hallaq, *Sharia: Theory, Practice, Transformations* (Cambridge University Press, 2009).
+- Ibn Qayyim al-Jawziyya. *al-Turuq al-Hukmiyya fi al-Siyasa al-Shar'iyya*. Edited by Muhammad Hamid al-Fiqi. Cairo, 1953.
+- Anjum, Ovamir. *Politics, Law, and Community in Islamic Thought: The Taymiyyan Moment*. Cambridge: Cambridge University Press, 2012.
+- Hallaq, Wael B. *Shari'a: Theory, Practice, Transformations*. Cambridge: Cambridge University Press, 2009.
 - Wael B. Hallaq, *The Origins and Evolution of Islamic Law* (Cambridge University Press, 2005).

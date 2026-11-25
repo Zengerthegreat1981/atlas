@@ -35,7 +35,7 @@ The book is arranged in five books forming a hierarchical structure from the gen
 
 ## Method
 
-Ibn Sina follows the humoral theory of Galen, but reorders it with the definitions and logical divisions in which he was trained in Aristotelian logic, beginning with definitions and causes before treatment. In treatment he relies on diet first, then drugs, then surgery, and he describes diagnosis by the pulse, urine and the signs of the face. In his discussion of diseases he records clinical details: the distinction between continuous and intermittent fevers, the description of meningitis and pleurisy, and the suggestion that some diseases, such as tuberculosis, can be transmitted from person to person. The book is also counted among the earliest works to link the psychological state with the body, in its description of lovesickness and depression.
+Ibn Sina follows the humoral theory of Galen, but reorders it with the definitions and logical divisions in which he was trained in Aristotelian logic, beginning with definitions and causes before treatment. In treatment he relies on diet first, then drugs, then surgery, and he describes diagnosis by the pulse, urine and the signs of the face. In his discussion of diseases he records clinical details: the distinction between continuous and intermittent fevers, descriptions of pleurisy and of acute inflammation affecting the brain, and a treatment of pulmonary consumption as a communicable illness, kept distinct from other diseases of the chest. The book also describes lovesickness and melancholy as conditions in which psyche and body affect one another, developing a theme already present in Galenic medicine.
 
 ## Commentaries and Abridgements
 
@@ -43,7 +43,7 @@ The *Canon* did not remain as it was written; it became a text that commentators
 
 ## Transmission to Europe
 
-Gerard of Cremona (d. 1187 CE) translated the book into Latin in Toledo in the twelfth century, and it became the *Canon medicinae*. It was printed in Latin in dozens of editions from the late fifteenth century. The first Arabic edition was issued in Rome in 1593 by the Medici Press, followed by the Bulaq edition of 1877. It was taught in the universities of Montpellier, Padua, Paris and Louvain until the seventeenth century. Nancy Siraisi, in *Avicenna in Renaissance Italy* (1987), showed that its teaching continued in Italian universities after 1500, alongside the criticism of humanist physicians of its translation. This position is inseparable from Ibn Sina's connection to the heritage of Galen, which was also the foundation of European medicine.
+Gerard of Cremona (d. 1187 CE) translated the book into Latin in Toledo in the twelfth century, and it became the *Canon medicinae*. It was printed many times in Latin from the late fifteenth century. The first Arabic edition was issued in Rome in 1593 by the Medici Press, followed by the Bulaq edition of 1877. It was taught in the universities of Montpellier, Padua, Paris and Louvain until the seventeenth century. Nancy Siraisi, in *Avicenna in Renaissance Italy* (1987), documented the continuation of its teaching in Italian universities after 1500, alongside the criticism that humanist physicians directed at the translation. This position is inseparable from Ibn Sina's connection to the heritage of Galen, which was also the foundation of European medicine.
 
 ## Afterlife in Later Centuries
 

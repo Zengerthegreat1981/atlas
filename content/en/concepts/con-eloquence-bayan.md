@@ -14,8 +14,7 @@ edges:
 - rel: "belongs_to", target: "Arabic Linguistic and Literary Thought", target_type: "مدرسة"
 related:
 - id: "sch-arabic-linguistic-literary", title: "Arabic Linguistic and Literary Thought", type: "مدرسة"
-gaps:
-  - "Direct quotations from the Dala'il al-i'jaz and the Asrar al-balagha: not yet covered."
+gaps: []
 ---
 
 # Eloquence and Bayan
@@ -24,19 +23,23 @@ Two central terms of **classical Arabic rhetoric** which, together with the scie
 
 ## Abd al-Qahir al-Jurjani's theory of nazm
 
-This field reached its theoretical peak through **Abd al-Qahir al-Jurjani** (d. 471 AH / c. 1078 CE). In *The Proofs of Inimitability* (*Dala'il al-i'jaz*) he presented the theory of **nazm** (syntactic arrangement), while *The Secrets of Eloquence* (*Asrar al-balagha*) is devoted chiefly to figurative language such as simile, analogy and metaphor. Its central thesis is that the **eloquence of speech does not lie in the individual words themselves** (the words are available to all speakers of the language), but in **the manner of their arrangement and their grammatical and semantic linking** according to the "meanings of grammar." These are the syntactic relations among words (such as fronting and postponement, separation and conjunction, definiteness and indefiniteness, and ellipsis and mention), which create additional meanings beyond the sum of the meanings of the individual words. In this way Jurjani transformed rhetoric from a science that classifies partial verbal "embellishments" into a **complete linguistic theory of meaning and structure**, a view that has been compared to notions in modern linguistics concerning the priority of relations over isolated elements.
+The classic statement of this field is the work of **Abd al-Qahir al-Jurjani** (d. 471 AH / 1078 CE). In *Dala'il al-i'jaz* (The Proofs of Inimitability) he set out the theory of **nazm** (syntactic arrangement). *Asrar al-balagha* (The Secrets of Eloquence) is devoted chiefly to figurative language: simile, analogy, and metaphor. The central thesis of *Dala'il* is that eloquence does not lie in the individual words, which are available to every speaker, but in the manner of their arrangement and of their grammatical and semantic linking, the "meanings of grammar." Those relations include fronting and postponement, separation and conjunction, definiteness and indefiniteness, and ellipsis and mention. They produce meanings beyond the sum of the words. Jurjani thus moved rhetoric from a catalogue of verbal ornaments to an account of how syntax makes meaning. Later readers have compared that priority of relations with themes in modern linguistics.
 
 ## The theological aim: the inimitability of the Qur'an
 
-Jurjani's project was not purely rhetorical; in essence it was a **theological-doctrinal** project: to establish the **rhetorical inimitability of the Qur'an**, that is, to explain the inability of the Arabs, despite their eloquence, to produce the like of the Qur'an. He did this not by focusing on the strangeness of its individual words (its words are known Arabic), but by arguing that its **nazm**, the manner of arranging its words and linking its meanings with the meanings of its grammar, reached a degree of precision, consistency and harmony that humans cannot imitate. In this way Jurjani tied the entire science of rhetoric to a central doctrinal question in Islamic thought.
+Jurjani's project was not purely rhetorical; in essence it was a **theological-doctrinal** project: to establish the **rhetorical inimitability of the Qur'an**, that is, to explain the inability of the Arabs, despite their eloquence, to produce the like of the Qur'an. He did this not by focusing on the strangeness of its individual words (its words are known Arabic), but by arguing that its **nazm**, the manner of arranging its words and linking its meanings with the meanings of its grammar, reached a degree of precision, consistency and harmony that humans cannot imitate. In this way Jurjani tied rhetoric to a central doctrinal question in Islamic thought: wherein the Qur'an's inimitability (*i'jaz*) consists.
+
+## Two formulations
+
+The two books state the point in his own terms. In *Dala'il al-i'jaz* he writes, in a direct rendering, that nazm is nothing other than putting one's speech into the arrangement that the science of grammar requires, working by its rules and principles, and not departing from the methods it has laid down. In *Asrar al-balagha* he defines metaphor (*isti'ara*) as intending a comparison, then refraining from stating the comparison openly, and lending the name of the thing compared-to to the thing compared. Both passages locate eloquence in a relation among meanings, not in a catalogue of verbal ornaments.
 
 ## Impact
 
-Nazm theory became the theoretical foundation on which later Arabic rhetoric was built, especially in the work of **al-Sakkaki** (d. 626 AH / 1229 CE), whose *Miftah al-'ulum* systematized the sciences of meanings and bayan; the three-part division (meanings, bayan and embellishment) became standard through later summaries such as al-Qazwini's *Talkhis al-Miftah*, which dominated traditional teaching of rhetoric. Jurjani's thesis also influenced modern linguistic studies of the Qur'an and of the Arabic literary text in general, and was revisited in the twentieth century by scholars who saw in it a precedent for ideas close to **linguistic structuralism**.
+**Al-Sakkaki** (d. 626 AH / 1229 CE), in *Miftah al-'ulum*, organized the sciences of meanings and bayan into a curriculum that takes Jurjani's questions as given. The three-part division (meanings, bayan, and embellishment) became the usual teaching order through later summaries, above all al-Qazwini's *Talkhis al-Miftah* (al-Khatib al-Qazwini, d. 739 AH / 1338 CE). Twentieth-century readers of the Qur'an and of Arabic literary texts returned to nazm, and some of them saw in it a precedent for ideas close to linguistic structuralism.
 
 ## Sources
 
-- al-Jurjani, Abd al-Qahir. *Dala'il al-i'jaz*. Edited by Mahmud Muhammad Shakir. Cairo.
-- al-Jurjani, Abd al-Qahir. *Asrar al-balagha*. Edited by Mahmud Muhammad Shakir. Cairo.
 - Abu Deeb, Kamal. *Al-Jurjani's Theory of Poetic Imagery*. Warminster: Aris & Phillips, 1979.
+- al-Jurjani, Abd al-Qahir. *Asrar al-balagha*. Edited by Hellmut Ritter. Istanbul: Matba'at Wizarat al-Ma'arif, 1954.
+- al-Jurjani, Abd al-Qahir. *Dala'il al-i'jaz*. Edited by Mahmud Muhammad Shakir. Cairo: Maktabat al-Khanji, 1984.
 - Larkin, Margaret. *The Theology of Meaning: 'Abd al-Qahir al-Jurjani's Theory of Discourse*. New Haven: American Oriental Society, 1995.

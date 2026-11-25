@@ -8,7 +8,7 @@ title: "Hadith and the Science of Prophetic Tradition"
 en: "Hadith and the Science of Prophetic Tradition"
 crumb: "Arab Thought ← Concepts ← Hadith and the Science of Prophetic Tradition"
 active_start: 622
-active_end: 900
+active_end: "مستمر"
 language: "Arabic"
 edges:
 - rel: "belongs_to", target: "Early Islamic and Classical Thought", target_type: "مدرسة"
@@ -22,7 +22,7 @@ gaps: []
 
 ## Definition
 
-A **hadith** is what is transmitted from the Prophet Muhammad in the form of a saying, an action or a tacit approval. Each hadith consists of two elements: the **matn** (the transmitted text itself) and the **sanad** or **isnad** (the chain of transmitters who conveyed this text from generation to generation until it reached its original source). Alongside the Quran, hadith is the second legislative and doctrinal source in Islam. Around it developed an independent and complex science for evaluating authenticity, known as **'ulum al-hadith** or **mustalah al-hadith** (the terminology of hadith).
+A **hadith** is a report of what the Prophet Muhammad said, did, or tacitly approved. Each report has two elements: the **matn** (the text) and the **sanad** or **isnad** (the chain of transmitters). In Sunni jurisprudence the Sunna carried by hadith is the principal source after the Qur'an. Around these reports there developed a discipline for judging authenticity, **'ulum al-hadith** or **mustalah al-hadith**. Twelver Shi'i scholarship built a parallel literature, centered on reports from the Prophet and the Imams of the Prophet's household.
 
 ## Origins and Development
 
@@ -31,14 +31,14 @@ In the first Islamic centuries hadith was transmitted primarily orally, with som
 ## Main Features
 
 - **Classification of hadiths**: *sahih* (sound), *hasan* (good), *da'if* (weak) and *mawdu'* (fabricated), according to the degree of connection of the chain and the reliability of its transmitters.
-- **Imam al-Bukhari** (d. 870 CE): compiled the *al-Jami' al-Sahih* (Sahih al-Bukhari), the best-known and most authoritative hadith collection among Sunnis. He selected its hadiths from hundreds of thousands by strict criteria, and he is reported to have undertaken long journeys to verify each narrator personally.
-- **Imam Muslim** (d. 875 CE): author of *Sahih Muslim*, the second most famous hadith collection among Sunnis. The two collections together are known as the *Sahihayn* ("the two sahihs").
-- **The Six Books**: alongside the two *Sahihs*, they include the *Sunan* of Abu Dawud, al-Tirmidhi, al-Nasa'i and Ibn Majah. Together they form the classical Sunni hadith canon.
-- **Hadith among the Shi'a**: Shi'i jurisprudence developed an independent hadith tradition focused on reports from the Ahl al-Bayt (the Prophet's household). Its most prominent collection is *al-Kafi* by al-Kulayni.
+- **Muhammad ibn Isma'il al-Bukhari** (d. 256 AH / 870 CE) compiled *al-Jami' al-sahih*, later ranked by Sunni scholars as the most authoritative of the collections. Later biographies say that he knew several hundred thousand reports and traveled widely to hear them. Those figures and the claim that he tested every narrator in person are biographical tradition, not a count that can be checked against his working notes.
+- **Muslim ibn al-Hajjaj** (d. 261 AH / 875 CE) compiled *Sahih Muslim*, ranked second in the same Sunni consensus. The two books together are the *Sahihayn*.
+- **The Six Books**: beside the two *Sahihs*, the familiar Sunni list adds the *Sunan* of Abu Dawud (d. 275 AH / 889 CE), al-Tirmidhi (d. 279 AH / 892 CE), al-Nasa'i (d. 303 AH / 915 CE), and Ibn Majah (d. 273 AH / 887 CE). Ibn Majah's place in that six was not universal in the earlier centuries. Some scholars preferred Malik's *al-Muwatta'* or another *Sunan*.
+- **Twelver collections**: *Al-Kafi* of Muhammad ibn Ya'qub al-Kulayni (d. 329 AH / 941 CE) is one of the four books that became the Twelver canon, with Ibn Babawayh's *Man la yahduruhu al-faqih* and al-Tusi's *Tahdhib al-ahkam* and *al-Istibsar*. It is not the only Shi'i collection, and Shi'i criticism of reports has its own grades.
 
 ## Impact
 
-The science of hadith and its methodology of isnad criticism are among the most original contributions of Islamic civilization to methods of documentation and historical critique. They influenced the development of usul al-fiqh (the distinction between definitive and speculative texts) and Islamic historiography in general, which borrowed many of the tools of isnad criticism.
+Isnad criticism is a distinctive Islamic contribution to the documentation of reports. It shaped *usul al-fiqh*, where jurists distinguish reports of different force, and it supplied historians with a vocabulary of transmitters and chains. The method judges reported chains by the standards the tradition itself developed. It does not, by itself, answer the modern question of when a given saying was first put into circulation.
 
 ## Caveats
 
@@ -46,7 +46,8 @@ Some Orientalists, such as Ignaz Goldziher and Joseph Schacht in the twentieth c
 
 ## Sources
 
-- Muhammad ibn Isma'il al-Bukhari. *al-Jami' al-Sahih*.
+- al-Bukhari, Muhammad ibn Isma'il. *al-Jami' al-sahih*. Compiled in the third/ninth century. Many printed editions.
+- al-Kulayni, Muhammad ibn Ya'qub. *al-Kafi*. Compiled in the early fourth/tenth century. Many printed editions.
 - Jonathan A. C. Brown, *Hadith: Muhammad's Legacy in the Medieval and Modern World* (Oneworld, 2009).
 - Ignaz Goldziher, *Muslim Studies (Muhammedanische Studien)*, 2 vols., trans. C. R. Barber and S. M. Stern (London: Allen & Unwin, 1967–1971; German original 1889–1890).
 - Muhammad Mustafa Azami, *Studies in Early Hadith Literature* (Beirut: al-Maktab al-Islami, 1968).

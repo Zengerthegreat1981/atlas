@@ -27,7 +27,7 @@ gaps: []
 
 # Metaphysics (al-Ilahiyyat)
 
-The metaphysical section (*al-Ilahiyyat*, "the Divine Matters") of Ibn Sina's great philosophical encyclopedia *al-Shifa'* (written in the second and third decades of the eleventh century CE) is one of the most important metaphysical texts in the history of Islamic philosophy. Through its translations, it was also among the most influential in medieval Latin philosophy.
+The metaphysical section (*al-Ilahiyyat*, "the Divine Matters") of Ibn Sina's philosophical encyclopedia *al-Shifa'* (written in the second and third decades of the eleventh century CE) is a central metaphysical text in Islamic philosophy. Through its Latin translations it also became a major source for medieval Latin philosophy.
 
 ## Subject and Structure
 
@@ -39,11 +39,11 @@ In this text, and in a more compact form in *al-Isharat wa-l-Tanbihat*, Ibn Sina
 
 ## Other Central Questions
 
-The book also treats the theory of the **universal nature** (the relation between universals and particulars), the theory of **emanation** (*fayd*, how multiplicity issues from the One through a chain of ten intellects), and the question of God's knowledge of particulars. These questions provoked later wide controversy, notably in al-Ghazali (in *Tahafut al-Falasifa*), who attacked them, and in Ibn Rushd, who defended philosophy while criticising Ibn Sina's formulations.
+The book also treats the theory of the **universal nature** (the relation between universals and particulars), the theory of **emanation** (*fayd*, how multiplicity issues from the One through a series of intellects, commonly counted as ten, corresponding to the celestial spheres), and the question of God's knowledge of particulars. These questions provoked later wide controversy, notably in al-Ghazali (in *Tahafut al-Falasifa*), who attacked them, and in Ibn Rushd, who defended philosophy while criticising Ibn Sina's formulations.
 
 ## Ibn Sina's Reading of Aristotle
 
-In his autobiography, which was transmitted by his student al-Juzjani, Ibn Sina reports that he read Aristotle's *Metaphysics* forty times until he had memorized it without grasping its purpose. Then he came across a book by al-Farabi on the objectives of the *Metaphysics* in the booksellers' market of Bukhara. Its problems were resolved for him, and he gave alms in gratitude. This account, although composed in literary form, shows that al-Farabi defined for Ibn Sina the subject of the divine science as the science of being qua being, not as the science of God alone. Amos Bertolacci, in *The Reception of Aristotle's Metaphysics in Avicenna's Kitab al-Shifa'* (2006), studied how Ibn Sina reordered Aristotle's treatises and introduced topics concerning theology, prophecy and the afterlife that Aristotle had not written.
+In his autobiography, which was transmitted by his student al-Juzjani, Ibn Sina reports that he read Aristotle's *Metaphysics* forty times until he had memorized it without grasping its purpose. Then he came across a book by al-Farabi on the objectives of the *Metaphysics* in the booksellers' market of Bukhara. Its problems were resolved for him, and he gave alms in gratitude. This account, although composed in literary form, shows that al-Farabi defined for Ibn Sina the subject of the divine science as the science of being qua being, not as the science of God alone. Amos Bertolacci, in *The Reception of Aristotle's Metaphysics in Avicenna's Kitab al-Shifa'* (2006), studies how Ibn Sina reordered Aristotle's treatises and introduced topics concerning theology, prophecy and the afterlife that Aristotle had not written. Dimitri Gutas, in *Avicenna and the Aristotelian Tradition* (1988; 2nd ed. 2014), sets that reworking inside Ibn Sina's larger project.
 
 ## The Ten Treatises
 
@@ -51,15 +51,11 @@ The *Ilahiyyat* consists of ten treatises (*maqalat*). The first defines the sub
 
 ## After Ibn Sina
 
-The thesis of necessary existence and quiddity provoked varied responses. Al-Ghazali criticized three of its issues as unbelief (*kufr*). Fakhr al-Din al-Razi (d. 606 AH/1210 CE), in *al-Mabahith al-Mashriqiyya*, re-examined the distinction between existence and quiddity and rejected some of its conclusions. Suhrawardi (d. 587 AH/1191 CE) rejected the view that existence is an additional attribute, and made light (*nur*) the origin of realities. Sadr al-Din al-Shirazi (d. 1050 AH/1640 CE) inverted Ibn Sina's order, making existence fundamental and quiddity a mental construct (*i'tibari*). In the Latin West the text entered in the twelfth century under the title *First Philosophy*. Thomas Aquinas was influenced by it in his treatise *On Being and Essence*, and Duns Scotus in his idea of the common nature. Robert Wisnovsky, in *Avicenna's Metaphysics in Context* (2003), traced the course of this question in the theological and philosophical tradition after him.
+The thesis of necessary existence and quiddity provoked varied responses. In *Tahafut al-Falasifa* al-Ghazali classed three doctrines as unbelief (*kufr*): the eternity of the world, the claim that God does not know particulars in their particularity, and the denial of bodily resurrection. Fakhr al-Din al-Razi (d. 606 AH/1210 CE), in *al-Mabahith al-Mashriqiyya*, re-examined the distinction between existence and quiddity and rejected some of its conclusions. Suhrawardi (d. 587 AH/1191 CE) rejected the view that existence is an additional attribute, and made light (*nur*) the origin of realities. Sadr al-Din al-Shirazi (d. 1045 AH/1635–36 CE; some sources give 1050 AH/1640 CE) inverted Ibn Sina's order, making existence fundamental and quiddity a mental construct (*i'tibari*). In the Latin West the text was translated at Toledo in the twelfth century, under the title *Liber de Philosophia Prima sive Scientia Divina*. Thomas Aquinas drew on its distinction between essence and existence in *De ente et essentia*, and Duns Scotus drew on the doctrine that a nature is of itself neither universal nor particular. Robert Wisnovsky, in *Avicenna's Metaphysics in Context* (2003), follows this cluster of questions through the later theological and philosophical tradition.
 
 ## Caveats
 
 Reading the *Ilahiyyat* separately from the logic and physics of the *Shifa'* remains incomplete, because its concepts are built on what precedes them. Scholars differ on whether it is correct to describe Ibn Sina's argument as the "Proof of the Truthful." The name appears in the *Isharat wa-al-Tanbihat* and was expanded by later scholars. They also differ on whether, for Ibn Sina, existence is an accident in the Aristotelian sense.
-
-## Influence and Reception
-
-The book was translated into Latin in the twelfth century as *Liber de Philosophia Prima sive Scientia Divina*, and it deeply influenced Latin scholastic philosophers such as Thomas Aquinas and Duns Scotus, especially on the question of universals and the proof of God's existence. In the Islamic world, the book faced sharp theological criticism from al-Ghazali, who declared Ibn Sina an unbeliever on three metaphysical issues that he regarded as explicit violations of doctrine: the eternity of the world, God's lack of detailed knowledge of particulars, and the denial of bodily resurrection.
 
 ## Sources
 
@@ -67,4 +63,4 @@ The book was translated into Latin in the twelfth century as *Liber de Philosoph
 - Marmura, Michael E., trans. *The Metaphysics of The Healing*. Provo: Brigham Young University Press, 2005.
 - Bertolacci, Amos. *The Reception of Aristotle's Metaphysics in Avicenna's Kitab al-Shifa'*. Leiden: Brill, 2006.
 - Wisnovsky, Robert. *Avicenna's Metaphysics in Context*. Ithaca: Cornell University Press, 2003.
-- Morewedge, Parviz, trans. *The Metaphysica of Avicenna (ibn Sina): A Critical Translation-Commentary and Analysis of the Fundamental Arguments in Avicenna's Metaphysica in the Dānish Nāma-i ʿAlāʾī*. New York: Columbia University Press, 1973.
+- Gutas, Dimitri. *Avicenna and the Aristotelian Tradition*. Leiden: Brill, 1988. 2nd ed., 2014.

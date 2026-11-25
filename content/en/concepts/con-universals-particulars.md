@@ -9,7 +9,7 @@ en: "Universals & Particulars"
 crumb: "Arab Thought ← Concepts ← Universals & Particulars"
 active_start: 1000
 active_end: "مستمر"
-language: "English"
+language: "Arabic"
 edges:
 - rel: "belongs_to", target: "Medieval Islamic Philosophy (Falsafa)", target_type: "مدرسة"
 related:
@@ -23,24 +23,28 @@ A logical-metaphysical problem that medieval Islamic philosophy inherited from A
 
 ## Ibn Sina's Central Treatment
 
-Ibn Sina (980–1037 CE) offered the most famous Islamic philosophical treatment of this question. His central distinction is between the **quiddity in itself** (the abstract universal nature, such as "horseness" or "humanness" in itself, considered in terms of what it is rather than its existence here or there) and **universality and particularity** as later accidents attaching to this quiddity. Quiddity "as such" is neither universal nor particular in itself. If it exists in the mind, it acquires the property of universality (applicability to many). If it exists outside the mind, combined with specific material accidents (time, place and individuating attributes), it becomes particular. This is known as the theory of the **"natural universal"** (*al-kulli al-tabi'i*), which exists in external particulars without being actually universal except in the mind.
+Ibn Sina (980–1037 CE) gave the question its fullest classical treatment in Arabic. His central distinction is between the **quiddity in itself** (the nature, such as horseness or humanness, considered as what it is, rather than as existing here or there) and **universality and particularity** as concomitants that attach to this quiddity. Quiddity "as such" is neither universal nor particular. If it exists in the mind, it takes on universality, in the sense that it can be said of many. If it exists outside the mind, with material accidents of time, place and other individuating traits, it is particular. His own example is horseness: horseness as such is only horseness.
 
-## The Aristotelian Background and Later Debates
+Later teaching gave the name **natural universal** (*al-kulli al-tabi'i*) to the nature as it exists in external particulars. That nature is common to many individuals, but it is universal in act only when it is conceived in the mind. The name should not be transferred to the quiddity considered in itself. Ibn Sina discusses that consideration without assigning the quiddity, as such, either to the mind or to the outside world.
 
-Ibn Sina developed this distinction out of Aristotelian discussions and Porphyry's *Isagoge*, which he treats in the logic of *al-Shifa'*, reformulating them with the concept of a quiddity indifferent to existence and to number. This formulation is generally regarded as more explicit than anything in Aristotle or his Greek commentators. It provoked extended discussion among later philosophers and logicians. The debate over its precise interpretation continues among contemporary scholars of Islamic philosophy: is the indifferent quiddity actually existent as a third ontological class between mind and external reality?
+## Before and after Ibn Sina
 
-## Legacy
+Ibn Sina developed the distinction from Aristotelian discussions and from Porphyry's *Isagoge*. He treats it in the logic of *al-Shifa'*, in the *Madkhal*, and again in the *Ilahiyyat* (Metaphysics, Book V). The formulation is more explicit than the corresponding passages in Aristotle. It is still a reading of those passages, not a break with them.
 
-Ibn Sina's theory of universals had a profound influence on medieval Latin philosophy through the translations of his works. It formed one of the most important sources of the "problem of universals" debate among Latin scholastic philosophers, such as Thomas Aquinas and Duns Scotus, whose treatments of the common nature (*natura communis*) are commonly linked to Ibn Sina's formulation of the indifferent quiddity.
+Al-Farabi (d. 339 AH/950 CE), in his logical writings, had already treated the universal as an intention in the intellect that is predicated of many, and not as a separate Platonic form. Ibn Rushd (d. 595 AH/1198 CE) later objected that Ibn Sina multiplied entities. For Ibn Rushd, the universal as universal exists in the intellect, abstracted from particulars. He resisted readings that seemed to give the quiddity a status of its own between mind and world. Whether Ibn Sina himself held that stronger thesis is still debated. One question is whether the indifferent quiddity is a third ontological class, or only a way of considering a nature.
+
+## Latin reception
+
+The twelfth-century Latin translation of the Metaphysics of the *Shifa'*, associated with Dominicus Gundisalvi (Gundissalinus) at Toledo, carried the indifferent quiddity into scholastic debate. Discussions of the common nature (*natura communis*), notably in Duns Scotus, and related arguments in Thomas Aquinas, draw on this formulation. The link is one of reception. It is not an identity between the Arabic text and the Latin positions.
 
 ## Caveats
 
-- Contemporary scholars disagree about how to classify Ibn Sina's position among the three classical philosophical schools (Platonic realism, nominalism and conceptualism). Some see his position as an original middle ground that cannot easily be reduced to any of them.
-- Ibn Sina's own text (especially in *al-Shifa'*) admits multiple readings of the precise ontological status of quiddity "as such."
+- Ibn Sina's position is not easily filed under Platonic realism, nominalism or conceptualism. Readers differ on which of those labels, if any, fits.
+- The *Madkhal* and *Ilahiyyat* V admit more than one reading of the ontological status of quiddity "as such."
 
 ## Sources
 
-- Ibn Sina. *al-Shifa': al-Mantiq, al-Madkhal* and *al-Ilahiyyat*. Cairo: various editions.
+- Ibn Sina. *al-Shifa': al-Mantiq, al-Madkhal*. Edited by al-Ab Qanawati, Mahmud al-Khudayri and Fu'ad al-Ahwani. Cairo: al-Matba'a al-Amiriyya, 1952.
+- Ibn Sina. *al-Shifa': al-Ilahiyyat*. Vol. 1 edited by al-Ab Qanawati and Sa'id Zayid; vol. 2 edited by Muhammad Yusuf Musa, Sulayman Dunya and Sa'id Zayid. Cairo, 1960.
 - Marmura, Michael E. "Avicenna's Chapter on Universals in the Isagoge of His *Shifa'*." In *Islam: Past Influence and Present Challenge*, ed. Alford T. Welch and Pierre Cachia. Edinburgh: Edinburgh University Press, 1979.
-- Stanford Encyclopedia of Philosophy, "Ibn Sina [Avicenna]," section on universals.
 - Bertolacci, Amos. *The Reception of Aristotle's Metaphysics in Avicenna's Kitab al-Shifa'*. Leiden: Brill, 2006.

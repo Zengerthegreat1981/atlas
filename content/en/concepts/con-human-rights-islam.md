@@ -14,35 +14,33 @@ edges:
 - rel: "belongs_to", target: "Islamic Ethics and Political Thought", target_type: "مدرسة"
 related:
 - id: "sch-islamic-ethics-political", title: "Islamic Ethics and Political Thought", type: "مدرسة"
-gaps:
-  - "Direct quotations from the Cairo Declaration and An-Na'im's writings: not yet covered"
+gaps: []
 ---
 
 # Human Rights in Islam
 
-A contemporary field of intellectual and legal debate on the relationship between the concept of **human rights** as formulated in **international instruments** (especially the Universal Declaration of Human Rights, 1948) and the **Islamic legal sources** (the Quran, the Sunna and jurisprudence). The debate has continued since the middle of the twentieth century over the compatibility and the conflict between the two frameworks.
+## Definition
 
-## Main Positions
+The discourse on human rights in Islam constitutes a major theological, legal, and political debate examining the relationship between international human rights standards—anchored by the United Nations Universal Declaration of Human Rights (UDHR, 1948)—and Islamic jurisprudence (*fiqh*) and ethical sources (the Quran and Sunna). The debate addresses foundational questions regarding the universality of human rights, cultural relativism, divine versus human sovereignty, and the normative authority of the Sharia in the modern nation-state.
 
-The intellectual positions in this debate can be arranged along a broad range. At one end are thinkers and bodies who hold that human rights in their secular international form are **fundamentally compatible** with the objectives of the Sharia (*maqasid al-shari'a*), and that any gap can be closed by reinterpreting the texts. At the other end are positions holding that the Sharia offers an **alternative and independent** framework of human rights with a divine rather than human source. This was formally expressed in the **Cairo Declaration on Human Rights in Islam** issued by the Organisation of Islamic Cooperation in 1990, which makes the rights it sets out subject to the Islamic Sharia. This limitation has provoked wide debate over whether it offers effective protection of rights or opens the door to restricting them in the name of religion, especially in matters of freedom of belief, equality of women and the rights of religious minorities.
+## Key Theoretical Paradigms
 
-Between these two positions, thinkers such as **Abdullahi Ahmed An-Na'im** put forward a reformist approach in his book *Islam and the Secular State*. He calls for **separating the state from the coercive imposition of Sharia**, which in his view is closer to the objectives of Islam than a coercive religious state, while Sharia remains a source of individual and social ethics rather than of binding positive law. An-Na'im drew on a historical-critical reading of classical Islamic jurisprudence, regarding much of its rulings as products of a historical context open to reconsideration. In earlier work, notably *Toward an Islamic Reformation* (1990), he drew on the distinction between Meccan and Medinan verses, following the method of his teacher Mahmoud Mohamed Taha.
+1. **Sharia-primacy particularism**: On this view, rights are granted by God rather than held as inherent natural entitlements, and they cannot override sacred law. The view was written into the **Cairo Declaration on Human Rights in Islam**, adopted by the Organisation of the Islamic Conference (now the Organisation of Islamic Cooperation, OIC) on 5 August 1990. The declaration affirms human dignity and then subordinates the rights it lists to religious law. Article 24 states: "All the rights and freedoms stipulated in this Declaration are subject to the Islamic Shari'ah." Article 25 states: "The Islamic Shari'ah is the only source of reference for the explanation or clarification to any of the articles of this Declaration." Ann Elizabeth Mayer argues that clauses of this kind allow governments to restrict the rights just enumerated by appeal to their own reading of religious law. The OIC later adopted a revised version of the declaration (2020).
+2. **The Reformist and Hermeneutical Paradigm**: Reformist scholars argue that authentic human rights are entirely compatible with the core objectives of the Sharia (*maqasid al-shari'a*), specifically the preservation of religion (*din*), life (*nafs*), intellect (*'aql*), lineage/honor (*nasl*), and property (*mal*). Thinkers such as Khaled Abou El Fadl (*Islam and the Challenge of Democracy*, 2004) maintain that classical authoritarian interpretations conflate human juristic extrapolation with the divine will, arguing that the Quran upholds moral agency, human dignity (*karama*, Q. 17:70), and mutual justice.
+3. **The secular-state argument**: The Sudanese legal scholar Abdullahi Ahmed An-Na'im developed the project of his mentor Mahmoud Mohamed Taha. Taha's *The Second Message of Islam* (English translation 1987) distinguishes an early Meccan ethic from later Medinan legislation. In *Toward an Islamic Reformation* (1990), An-Na'im's own book, he argues that public rules on apostasy, women, and religious minorities should be rebuilt from that Meccan ethic and aligned with international human rights. In *Islam and the Secular State* (2008) he argues that norms of Sharia addressed to conscience cannot be coerced by the state, and that sincere Islamic conviction presupposes the freedom to believe or not. On this account a religiously neutral state is a condition of observance, and state policy should be justified in reasons that citizens who do not share the speaker's doctrine can examine.
 
-## The Most Contested Issues
+## Major Areas of Contestation
 
-The sharpest points of disagreement center on: **freedom to change one's religion** (apostasy, *ridda*) and its relation to freedom of belief in the International Covenant; **equality between men and women** in inheritance, testimony and guardianship (*wilaya*), against the principle of full equality in international law; **the limits of corporal punishments** (such as the *hudud* penalties) in light of the international prohibition of torture and cruel treatment; and the rights of **non-Muslims** within a state with a Muslim majority.
-
-## Impact
-
-This debate has been a central theme in the writings of contemporary Muslim jurists and scholars, such as Muhammad Salim al-Awa, Fatima Mernissi in her feminist reading of the texts, and Khaled Abou El Fadl. Each of them, in his or her own way, has sought to reread the texts in order to establish a reconciliation between Sharia and human rights. The debate has also influenced the drafting of the constitutions of a number of Muslim-majority states, which oscillate between affirming Islamic reference and affirming international instruments at the same time.
-
-## Caveats
-
-The debate remains open and branches across multiple jurisprudential and political currents within the Islamic world itself. There is no single, unified "official Islamic" position to which the subject can be reduced.
+- **Freedom of conscience and religion**: Article 18 of the UDHR protects the right to change one's religion. The classical manuals of the four Sunni schools treat public apostasy (*ridda*) as a capital offense, with differences over the offender's sex, the demand for repentance, and whether the act was joined to rebellion. Reformist writers argue that the historical offense was political sedition rather than private unbelief, and they cite "There is no compulsion in religion" (Q. 2:256). Jurists who hold the classical penalty to be binding reject that reading.
+- **Gender Equality**: Debates center on family law (*ahwal shakhsiyya*), including unequal inheritance shares, polygamy, male guardianship (*qiwama*), and unequal rights in divorce (*talaq*), which contrast with international conventions such as CEDAW (1979).
+- **Penal Codes (*hudud*)**: Corporal penalties (such as amputations and stoning) are contested under international prohibitions against torture and cruel, inhuman, or degrading punishment.
+- **Minority Rights and Citizenship**: Moving from the classical status of protected subjects (*dhimma*) to equal constitutional citizenship (*muwatana*) regardless of creed.
 
 ## Sources
 
-- An-Na'im, Abdullahi Ahmed. *Islam and the Secular State: Negotiating the Future of Shari'a*. Harvard University Press, 2008.
-- Organisation of Islamic Cooperation. *Cairo Declaration on Human Rights in Islam*. Cairo, 1990.
-- Mayer, Ann Elizabeth. *Islam and Human Rights: Tradition and Politics*. 5th ed. Westview Press, 2013.
-- Abou El Fadl, Khaled. *Islam and the Challenge of Democracy*. Princeton University Press, 2004.
+- Taha, Mahmoud Mohamed. *The Second Message of Islam*. Translated by Abdullahi Ahmed An-Na'im. Syracuse: Syracuse University Press, 1987.
+- An-Na'im, Abdullahi Ahmed. *Toward an Islamic Reformation: Civil Liberties, Human Rights, and International Law*. Syracuse: Syracuse University Press, 1990.
+- An-Na'im, Abdullahi Ahmed. *Islam and the Secular State: Negotiating the Future of Shari'a*. Cambridge, MA: Harvard University Press, 2008.
+- Organisation of Islamic Cooperation. *The Cairo Declaration on Human Rights in Islam*. Cairo: OIC, 1990.
+- Mayer, Ann Elizabeth. *Islam and Human Rights: Tradition and Politics*. 5th ed. Boulder: Westview Press, 2013.
+- Abou El Fadl, Khaled. *Islam and the Challenge of Democracy*. Edited by Joshua Cohen and Deborah Chasman. Princeton: Princeton University Press, 2004.

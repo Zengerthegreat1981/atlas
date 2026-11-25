@@ -19,29 +19,32 @@ gaps: []
 
 # Jihad & Striving
 
-A central Islamic concept derived from the Arabic root *j-h-d*, meaning to exert effort and strive. In legal usage it signifies "effort expended in the way of God" in its general sense. It encompasses several spiritual, moral and political-military dimensions, and is not limited to fighting alone, as is common in contemporary media usage.
+**Jihad** is a multifaceted concept in Islamic thought derived from the Arabic verbal root *j-h-d*, meaning to exert effort, to struggle, or to endure toil. In religious and legal discourse, it denotes the expenditure of maximum capacity "in the path of God" (*fi sabil Allah*). Far from being restricted exclusively to warfare, the term historically encompassed an extensive continuum of ethical, spiritual, intellectual, and sociopolitical activities, ranging from inward moral discipline to state-directed military engagement.
 
-## The Classical Division: The Greater and Lesser Jihad
+## Classical Typology: Greater and Lesser Jihad
 
-Jurists and Sufis distinguished two levels of jihad on the basis of a widely known prophetic report (whose authenticity is disputed): the **greater jihad** (*jihad al-akbar*), the struggle against the self, which means disciplining the soul, purifying it and resisting its desires and appetites. Ibn Qayyim al-Jawziyya, for example, in *Zad al-Ma'ad* distinguished several levels of jihad, beginning with struggle against the self and against Satan and extending to struggle against unbelievers and hypocrites with the heart, tongue and hand. And the **lesser jihad** (*jihad al-asghar*), the jihad of the sword, that is, armed struggle in the way of God as regulated by the jurists. Many Sufi scholars regarded the greater jihad as the foundation and the more important, while the jurists of governance (*fuqaha' al-siyasa al-shar'iyya*) concentrated on regulating the rules of the lesser jihad (the conditions for declaring it, its leadership and the rules of fighting within it).
+Classical scholars distinguished multiple modalities of jihad. Ascetics and Sufis emphasized **jihad al-nafs** (the struggle against the ego and the passions) and often called it the greater jihad (*al-jihad al-akbar*), on the basis of a report in which the Prophet, returning from a campaign, speaks of moving from the lesser jihad to the greater. Hadith critics did not accept that report as prophetic. Al-'Iraqi judged a chain transmitted by al-Bayhaqi to be weak. Ibn Hajar al-'Asqalani said that the saying was known as the words of Ibrahim ibn Abi 'Abla, not as a hadith of the Prophet. Ibn Taymiyya said that it had no basis.
 
-## The Jurisprudential and Political Dimension
+In *Zad al-Ma'ad*, Ibn Qayyim al-Jawziyya (d. 751 AH / 1350 CE) set out thirteen ranks (*maratib*). Four concern the lower soul: learning guidance, acting on it, calling others to it, and bearing the hardship of that call. Two concern Satan: repelling doubts and repelling illicit desires. Four concern unbelievers and hypocrites, carried on by the heart, the tongue, wealth, and the person. Three concern injustice and religious innovation, by the hand, then the tongue, then the heart.
 
-Jurists of governance, such as al-Mawardi in *al-Ahkam al-Sultaniyya*, treated jihad as a collective obligation (*fard kifaya*) that falls upon the imam to organize, subject to strict conditions: it is not permissible to fight non-combatants, treachery and mutilation are forbidden, and the call to Islam must precede fighting. The legal schools differed over whether jihad is fundamentally defensive or also includes the spread of the call, and over whether it may be declared without a recognized legitimate authority.
+## Jurisprudential Framework and Rules of Engagement
 
-## Contemporary Uses and Controversy
+Within jurisprudence (*fiqh*), military jihad (*qital*) was a ruled practice of the polity. The tradition represented by Muhammad ibn al-Hasan al-Shaybani (d. 189 AH / 805 CE) in *Kitab al-Siyar al-Kabir*, and by Abu al-Hasan al-Mawardi (d. 450 AH / 1058 CE) in *al-Ahkam al-Sultaniyya*, includes the following points, with differences of detail among the schools:
+- **Authority**: Offensive jihad was generally reserved to the ruler (*al-imam*). Defence when territory was overrun was treated separately.
+- **Obligation**: Service in an expedition was a collective duty (*fard kifaya*). When enemy forces entered Muslim territory, the duty could become individual (*fard 'ayn*) for those able to fight.
+- **Conduct**: Prophetic instructions forbade treachery (*ghadr*) and mutilation (*muthla*), and the killing of women, children, and elderly people who were not fighting. The charge attributed to Abu Bakr for the Syrian campaign repeats that protection and also restricts the cutting of fruit trees and the killing of livestock, except for food. Those restrictions were not applied in every campaign: the cutting of palms at Banu al-Nadir was cited as a precedent the other way. Jurists also disputed night raids and the case of non-combatants used as shields.
+- **Territory**: Many jurists spoke of an abode of Islam (*dar al-islam*), an abode of war (*dar al-harb*), and an abode of treaty (*dar al-'ahd* or *dar al-sulh*), and they recognized truces.
 
-Since the late twentieth century the term "jihad" has been used in the discourse of many political and violent movements to justify acts of warfare outside the classical juristic frameworks of legitimate fighting. This has provoked wide debate among contemporary Muslim scholars about the legitimacy of these uses and their consistency with the juristic heritage, and among Western researchers about the definition of the term and its historical boundaries.
+## Modern Reform and Ideological Divergence
 
-## Limitations
-
-Researchers (Muslim and others) differ widely about the precise historical relationship between the greater and lesser jihad, and about the soundness of the hadith on which this distinction is built.
-
-The contemporary political use of the term by many groups makes its definition a matter of sharp ideological dispute, not merely of neutral juristic debate.
+During the nineteenth and twentieth centuries, the concept underwent significant contestation:
+- **Modernist and Reformist Reading**: Thinkers such as Muhammad Abduh, Rashid Rida, and later Mahmud Shaltut (d. 1963; Grand Imam of al-Azhar) in *al-Qur'an wa-al-Qital* (1948) argued that warfare in the Qur'an is sanctioned solely for defensive deterrence, repelling aggression, and safeguarding religious liberty, maintaining that peaceful coexistence is the default international relation in Islam.
+- **Ideological Radicalization**: In contrast, ideologues such as Sayyid Qutb (d. 1966) in *Ma'alim fi al-Tariq* (1964) reconceived jihad as a continuous, vanguard revolutionary campaign to dismantle human political hegemony (*hakimiyyat al-bashar*) and eradicate modern *jahiliyya*, providing theoretical justification for militant movements operating outside classical juristic constraints and sovereign oversight.
 
 ## Sources
 
-- al-Mawardi, Abu al-Hasan. *al-Ahkam al-Sultaniyyah* (The Ordinances of Government). Translated as *The Ordinances of Government*. Reading: Garnet Publishing, 1996.
-- Cook, David. *Understanding Jihad*. 2nd ed. Berkeley: University of California Press, 2015.
-- Peters, Rudolph. *Jihad in Classical and Modern Islam*. Princeton: Markus Wiener Publishers, 1996.
+- Al-Mawardi, Abu al-Hasan. *The Ordinances of Government* [*al-Ahkam al-Sultaniyya*]. Translated by Wafaa H. Wahba. Reading: Garnet Publishing, 1996.
+- Shaltut, Mahmud. *al-Qur'an wa-al-Qital* [The Qur'an and Fighting]. Cairo, 1948.
 - Bonner, Michael. *Jihad in Islamic History: Doctrines and Practice*. Princeton: Princeton University Press, 2006.
+- Cook, David. *Understanding Jihad*. 2nd ed. Berkeley: University of California Press, 2015.
+- Peters, Rudolph. *Jihad in Classical and Modern Islam: A Reader*. Princeton: Markus Wiener Publishers, 1996.

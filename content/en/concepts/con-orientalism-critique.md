@@ -7,7 +7,7 @@ level: "متقدم"
 title: "Critique of Orientalism"
 en: "Critique of Orientalism"
 crumb: "Arab Thought ← Concepts ← Critique of Orientalism"
-active_start: 1978
+active_start: 1963
 active_end: "مستمر"
 language: "Arabic"
 edges:
@@ -20,31 +20,32 @@ gaps: []
 
 # Critique of Orientalism
 
-An intellectual critical current that started primarily from the book *Orientalism* (1978) by the Palestinian-American thinker **Edward Said**. It re-reads the tradition of Western Orientalist studies of the Middle East and the Islamic world as a **structure of knowledge and power**, rather than a neutral academic field, historically tied to the project of European colonial domination.
+The critique of Orientalism is a foundational intellectual current in modern Arab and postcolonial thought that interrogates Western representations, academic scholarship, and cultural productions concerning the Middle East, North Africa, and the Islamic world. Critical inquiries into Western scholarship on the Middle East and Islam predate the 1970s. Anouar Abdel-Malek's article "Orientalism in Crisis" (1963) is an early Arab critique of the field. The Palestinian-American literary scholar Edward W. Said (1935–2003) gave the argument its widest influence in *Orientalism* (1978). Said examined how academic institutions, imperial administrations, and literary imaginations constituted "the Orient" less as a neutral object of study than as a discursive construct tied to European imperial power.
 
-## Said's Central Thesis
+## Theoretical Foundations: Power, Knowledge, and Hegemony
 
-Said argued that "the Orient" as portrayed by Western Orientalists since the eighteenth century is not an objective reality described neutrally, but a **discursive construction** produced by the West to define itself against an imagined "other": mysterious, static, irrational, and incapable of modernity. This construction implicitly justified Western domination and direction of the East. Said analysed a vast and organized body of knowledge about the Middle East, beginning with Napoleon's campaign in Egypt in 1798, and showed how the neutral scientific cover claimed by Orientalist projects concealed colonial and racist biases. In his analysis he drew on theoretical tools borrowed from Michel Foucault, especially the concept of the intertwining of **knowledge and power** (power/knowledge).
+Said mobilized twentieth-century European critical theory to deconstruct Western representations:
+- **Discourse and Power/Knowledge**: Drawing on Michel Foucault's account of discourse and of power/knowledge (*pouvoir/savoir*), Said argued that Orientalism was not a loose collection of errors, but an institutionalized way of speaking through which European culture managed and authorized power over the Orient.
+- **Cultural Hegemony**: Utilizing Antonio Gramsci's concept of hegemony, Said analyzed how cultural representations in travelogues, novels, philological dictionaries, and colonial archives naturalized imperial domination, creating an imaginative geography that positioned the West as rational, mature, dynamic, and progressive, while depicting the Orient as mysterious, sensual, static, despotic, and fundamentally incapable of self-governance.
+- **Historical Trajectory**: Said traced this discourse from ancient Greek tragedy (such as Aeschylus's *The Persians*) through the nineteenth-century imperial encounters of Britain and France—crystallized by Napoleon Bonaparte's 1798 expedition to Egypt and the monumental *Description de l'Égypte*—culminating in mid-twentieth-century American foreign policy and area studies apparatuses during the Cold War.
 
-## Reception and Debate
+## Reception, Academic Debates, and Internal Critiques
 
-The book caused a wide academic upheaval and became one of the founding texts of the field of **postcolonial studies**. It also provoked sharp critical debate. Said was accused by Orientalists and historians (such as Bernard Lewis) of loose generalization that conflates very different Orientalist traditions (German, French and British), and of ignoring genuine scholarly contributions made by Orientalists who had no direct connection to the colonial project. Arab and Muslim scholars (such as Sadiq Jalal al-Azm in his essay "Orientalism and Orientalism in Reverse") observed that Said's critique could sometimes be invoked to justify a **reverse Orientalism**, which rejects any external criticism of Arab and Islamic culture on the grounds that such criticism is a renewed Orientalism.
+Said's *Orientalism* reshaped debates in comparative literature, anthropology, history, and Middle Eastern studies, and it became a principal reference for postcolonial theory. It also drew sharp scholarly criticism:
+- **Traditionalist and Philological Responses**: Classical historians of Islam, most prominently Bernard Lewis in "The Question of Orientalism" (1982), charged Said with ideological polemicism, asserting that he ignored genuine philological discoveries, conflated diverse national traditions (such as German Orientalism, which developed without direct imperial rule in the Arab world), and obscured centuries of rigorous scholarly translation. Robert Irwin later echoed these arguments in *Dangerous Knowledge* (2006).
+- **Marxist and Materialist Critiques**: Marxist scholars raised theoretical reservations. In *In Theory: Classes, Nations, Literatures* (1992), Aijaz Ahmad argued that Said's reliance on both Foucauldian post-structuralism and high humanist literary ideals produced methodological inconsistency, obscuring material class relations and anti-colonial resistance within colonized societies.
+- **Arab Thought and "Orientalism in Reverse"**: Arab intellectuals read Said critically as well as appreciatively. Sadik Jalal al-Azm, in "Orientalism and Orientalism in Reverse" (1981), accepted the exposure of colonial discourse and warned that an uncritical reading could produce a mirror essentialism. He argued that some Islamist and nationalist writers inverted the same divide, setting a static "authentic East" against a corrupt West. Aziz Al-Azmeh, in *Islams and Modernities* (1993), examined how modern intellectuals reused Orientalist typologies in essentialist accounts of Islam and Arab society.
 
-## Impact on Arab Thought
+## Enduring Methodological Influence
 
-Arab thinkers engaged Said's thesis in varied ways. Some used it to critique the image of the East in contemporary Western media and politics toward Palestine and the Islamic world. Some developed it critically to examine how certain Arab elites themselves adopted an Orientalist view of their own societies ("internal Orientalism"). Others criticized its literal application to the contemporary Arab situation without sufficient distinction between different colonial periods.
-
-## Broader Influence
-
-The impact of *Orientalism* went beyond the field of Middle Eastern studies. It established a general methodology for critiquing colonial discourse, which later scholars applied to other regions (South Asia, Africa, Latin America). The book has become one of the most cited works in the humanities in recent decades.
-
-## Caveats
-
-The debate remains open over the limits of generalizing Said's thesis. Is academic Orientalism as a whole necessarily a project of power, or do some of its traditions (such as German Orientalism, which was not directly tied to a colonial empire in the region) escape the generalization? This question has not been settled between Said's supporters and his critics to this day.
+The critique also traveled. Subaltern Studies in South Asia and later decolonial writing in Latin America engaged questions of colonial knowledge that Said had helped to pose, each with its own sources and disputes. In contemporary Arab thought, the argument remains a reference for work on media representation, international relations, and the relation between scholarship and imperial power.
 
 ## Sources
 
-- Edward W. Said, *Orientalism* (Pantheon Books, 1978).
-- Sadiq Jalal al-Azm, "Orientalism and Orientalism in Reverse," *Khamsin* 8 (1981).
-- Robert Irwin, *Dangerous Knowledge: Orientalism and Its Discontents* (Overlook Press, 2006).
-- Bernard Lewis, "The Question of Orientalism," *The New York Review of Books*, 24 June 1982.
+- Abdel-Malek, Anouar. "Orientalism in Crisis." *Diogenes* 11, no. 44 (1963): 103–140.
+- Ahmad, Aijaz. *In Theory: Classes, Nations, Literatures*. London: Verso, 1992.
+- Al-Azm, Sadik Jalal. "Orientalism and Orientalism in Reverse." *Khamsin* 8 (1981): 5–26.
+- Al-Azmeh, Aziz. *Islams and Modernities*. London: Verso, 1993.
+- Irwin, Robert. *Dangerous Knowledge: Orientalism and Its Discontents*. Woodstock: Overlook Press, 2006.
+- Lewis, Bernard. "The Question of Orientalism." *The New York Review of Books* 29, no. 11 (June 24, 1982).
+- Said, Edward W. *Orientalism*. New York: Pantheon Books, 1978.

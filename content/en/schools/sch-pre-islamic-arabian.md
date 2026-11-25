@@ -33,7 +33,7 @@ An umbrella covering the traditions of wisdom, poetry and moral values in the Ar
 
 ## Intellectual Foundations
 
-- **Jahiliyyah poetry as a source of knowledge**: poetry (roughly c. 540–620 CE) was the primary means of preserving and transmitting values, history and tribal pride, through specialised reciters (*ruwat*) who memorised the odes and transmitted them orally at gatherings such as the market of 'Ukaz, where the tribes competed in poetry. The most prominent examples of this heritage are the *Mu'allaqat*, and the most famous of their poets is Imru' al-Qays, among the most celebrated, author of the well-known ode beginning "Stop, let us weep".
+- **Jahiliyyah poetry as a source of knowledge**: poetry of the sixth and early seventh centuries CE is the main surviving expression of values, genealogy and tribal memory. Specialised reciters (*ruwat*) memorised odes and passed them on orally. Tradition places poetic contests at seasonal markets such as 'Ukaz. The best-known collection is the *Mu'allaqat*. Imru' al-Qays is the poet most often put first among them. The opening of the ode attributed to him, *qifa nabki*, is conventionally translated "Halt, and let us weep."
 - **The ethics of muruwwah (manliness)**: an uncodified value system based on courage, generosity, keeping one's word and defending the tribal sanctuary (*hima*). It represented the standard of moral "maturity" in tribal society, set against reckless and irresponsible conduct. These ethics were not founded on a revealed religious text, but on inherited tribal custom, reinforced by the ode and the proverb.
 - **Oral tradition**: knowledge (genealogies, reports, wisdom and poetry) was transmitted primarily orally, through stories, proverbs and wisdom literature, before the recording of this inheritance began in the Islamic period.
 - **Cosmology and polytheism**: a range of polytheistic religious conceptions prevailed before Islam, alongside monotheist *hanifiyya* groups and Jewish and Christian communities on the peripheries of the peninsula. This makes the religious picture of the period more varied than the simplified image commonly held.
@@ -48,19 +48,19 @@ Muruwwah appears in the verses of Zuhayr on the reconciliation between 'Abs and 
 
 ## The Debate over Authenticity
 
-In his book *On Pre-Islamic Poetry* (1926), Taha Husayn caused a stir when he questioned the authenticity of a large part of the poetry attributed to the Jahiliyyah, influenced by an article by David Samuel Margoliouth (1925), who considered the poetry to be forged after Islam. He reissued the work in 1927 under the title *Fi al-Adab al-Jahili* (*On Jahiliyyah Literature*) after revision. Later studies, such as those of Zwettler and Montgomery, showed that the theory of oral performance preserves the stylistic structure of the ode, though it does not guarantee the attribution of every line.
+In *Fi al-Shi'r al-Jahili* (*On Pre-Islamic Poetry*, Cairo: Dar al-Kutub al-Misriyya, 1926), Taha Husayn questioned the authenticity of much poetry attributed to the Jahiliyya. He drew on Cartesian doubt and on D. S. Margoliouth's article "The Origins of Arabic Poetry" (1925), which argued that the corpus was largely post-Islamic. After the book was withdrawn, Husayn reissued a revised version as *Fi al-Adab al-Jahili* (Cairo: Matba'at al-I'timad, 1927). The revision is not a translation of Margoliouth. Later work, including Zwettler's oral-formulaic study and Montgomery's history of the qasida, argues that both wholesale forgery and a claim of verbatim transmission are too simple. Neither study decides the authorship of particular lines.
 
 ## Battle Days and Genealogy
 
-Reciters preserved the *ayyam al-'Arab* (battle days), the accounts of wars and raids between tribes such as the Day of Dhi Qar and the Day of al-Fijar, and they preserved genealogies (*ansab*) as a social science that defined alliances, rights and blood-money. In the Islamic period, Ibn al-Kalbi (d. c. 204 AH / 819 CE) recorded genealogy in *Jamharat al-Nasab*, and Abu 'Ubayda Ma'mar ibn al-Muthanna (d. c. 209 AH / 824 CE) recorded it in *al-Naqa'id* and *Ayyam al-'Arab*.
+Reciters preserved the *ayyam al-'Arab* (battle days), accounts of wars and raids such as the Day of Dhi Qar and the Sacrilegious Wars (*ayyam al-Fijar*), and they preserved genealogies (*ansab*) as a form of social knowledge defining alliances, claims and blood-money. In the Abbasid period, Hisham ibn al-Kalbi (d. c. 204 AH / 819 CE) compiled genealogy in *Jamharat al-Nasab*. Abu Ubayda Ma'mar ibn al-Muthanna (d. 209 AH / 824–825 CE) is a principal early authority for the battle days and for the poetic flytings gathered as *al-Naqa'id*. *Ayyam al-'Arab* circulated under his name; it should not be treated as a genealogy.
 
 ## The Transition to Islam
 
-This period is the immediate background against which the Qur'an was revealed and the Prophet Muhammad was sent. Many Jahiliyyah values (such as generosity and keeping one's word) were retained and reframed ethically and doctrinally in Islam, while others (infanticide, unrestrained tribal vengeance) were explicitly rejected.
+This period is the immediate background against which the Qur'an was revealed and the Prophet Muhammad was sent. Some Jahili values, such as generosity and the keeping of covenants, were retained and given a new religious frame. Others were rejected or limited: the Qur'an condemns the burial of infant girls, and it restricts blood vengeance by rules of retaliation and compensation.
 
 ## Limitations
 
-- The principal sources for this period (Jahiliyyah poetry and the battle-day reports) were written down two or more centuries after the events, in the Abbasid period. This has given rise to a well-known orientalist debate (Taha Husayn, D. S. Margoliouth) on whether this poetry truly belongs to its age or whether some of it was forged later.
+- The principal sources for this period, Jahili poetry and the battle-day reports, were written down in the Abbasid period, two centuries and more after the events. D. S. Margoliouth and Taha Husayn both doubted that the poetry, as we have it, is a straightforward record of pre-Islamic life. Husayn was an Egyptian critic, not an orientalist. The argument remains open.
 - This is an umbrella entry that brings together varied subfields (poetry, ethics, cosmology, tribal knowledge systems).
 
 ## Sources
@@ -70,3 +70,6 @@ This period is the immediate background against which the Qur'an was revealed an
 - Arberry, A. J. *The Seven Odes: The First Chapter in Arabic Literature*. London: George Allen & Unwin, 1957.
 - Hoyland, Robert G. *Arabia and the Arabs: From the Bronze Age to the Coming of Islam*. London: Routledge, 2001.
 - Zwettler, Michael. *The Oral Tradition of Classical Arabic Poetry: Its Character and Implications*. Columbus: Ohio State University Press, 1978.
+- Husayn, Taha. *Fi al-Shi'r al-Jahili*. Cairo: Dar al-Kutub al-Misriyya, 1926.
+- Husayn, Taha. *Fi al-Adab al-Jahili*. Cairo: Matba'at al-I'timad, 1927.
+- Margoliouth, D. S. "The Origins of Arabic Poetry." *Journal of the Royal Asiatic Society*, 1925.

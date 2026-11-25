@@ -31,9 +31,9 @@ The tradition is also not a translation of modern psychology into older language
 
 ## Three Principal Voices
 
-Abu Hamid al-Ghazali (1058–1111) is the tradition's great anatomist of the emotions. In the *Ihya Ulum al-Din* (*The Revival of the Religious Sciences*, composed in the late eleventh and early twelfth centuries), he devotes whole books to anger, fear, and hope, classifying emotional states with a precision that mixes legal, theological, and psychological vocabulary. For al-Ghazali, an emotion is a state of the heart (*qalb*) with a moral direction, to be examined and disciplined.
+Abu Hamid al-Ghazali (1058–1111) writes at length on the emotions. In the *Ihya Ulum al-Din* (*The Revival of the Religious Sciences*, composed in the late eleventh and early twelfth centuries), he devotes whole books to anger, fear, and hope, classifying emotional states in a vocabulary that mixes law, theology, and the discipline of the heart. For al-Ghazali, an emotion is a state of the heart (*qalb*) with a moral direction, to be examined and disciplined.
 
-Ibn Sina (980–1037), known in Latin as Avicenna, approaches the self from philosophy and medicine. His *Kitab al-Nafs* (*Book of the Soul*), part of the *Kitab al-Shifa* (*Book of Healing*, early eleventh century), gives a systematic theory of the soul's faculties: the senses, imagination, estimation, memory, and the rational soul. Where al-Ghazali writes as a spiritual guide, Ibn Sina writes as a theorist, asking what the soul is and how it relates to the body. His "flying man" argument claims self-awareness does not depend on the body.
+Ibn Sina (980–1037), known in Latin as Avicenna, approaches the self from philosophy and medicine. His *Kitab al-Nafs* (*Book of the Soul*), part of the *Kitab al-Shifa* (*Book of Healing*, early eleventh century), gives a systematic theory of the soul's faculties: the senses, imagination, estimation, memory, and the rational soul. Where al-Ghazali writes as a spiritual guide, Ibn Sina writes as a theorist, asking what the soul is and how it relates to the body. His "flying man" argument holds that a person aware of no body would still affirm his own existence.
 
 Ahmad ibn Muhammad Miskawayh (died 1030) takes the ethical angle. His *Tahdhib al-Akhlaq* (*The Refinement of Character*, eleventh century) treats the emotions as matters of character formation: anger, envy, fear, and desire are trained, through habit and reflection, toward a balanced disposition. Drawing on Greek ethics, he describes the good life as a mean between excess and deficiency in each passion.
 
@@ -45,7 +45,7 @@ The tradition resists summary partly because its key terms do not map one-to-one
 
 ## The Projection Risk
 
-The largest methodological danger here is projection: taking a modern psychological concept — existential anxiety in Kierkegaard's sense, or shame as described by Richard Lazarus — and reading it back into a heritage text as if the author had meant the same thing. The words may look similar, but the concepts were built inside different systems, for different purposes, centuries apart. Al-Ghazali's fear, for example, is fear of God and of the final reckoning inside a theology of salvation, not the same object as fear in a modern emotion taxonomy. The rule is therefore strict: read each text in its own terms first, and only then ask what it shares with a modern concept.
+The largest methodological danger here is projection: taking a modern psychological concept — existential anxiety in Kierkegaard's sense, or shame as an object of appraisal in a modern theory such as Richard Lazarus's — and reading it back into a heritage text as if the author had meant the same thing. The words may look similar, but the concepts were built inside different systems, for different purposes, centuries apart. Al-Ghazali's fear, for example, is fear of God and of the final reckoning inside a theology of salvation, not the same object as fear in a modern emotion taxonomy. The rule is therefore strict: read each text in its own terms first, and only then ask what it shares with a modern concept.
 
 ## First Cautious Bridges to the Emotion Entries
 
@@ -59,8 +59,8 @@ It does not claim that this heritage anticipates existential psychology, or that
 
 - al-Ghazali, Abu Hamid. *Ihya Ulum al-Din* (*The Revival of the Religious Sciences*). Composed in the late eleventh and early twelfth centuries. Books on the Condemnation of Anger and on Fear and Hope.
 - Ibn Sina. *Kitab al-Nafs* (*Book of the Soul*), in *Kitab al-Shifa* (*Book of Healing*). Early eleventh century.
-- Miskawayh, Ahmad ibn Muhammad. *Tahdhib al-Akhlaq wa-Tathir al-Araq* (*The Refinement of Character*). Eleventh century; edited by Constantine K. Zurayk. American University of Beirut, 1966.
-- Badawi, Abd al-Rahman, ed. *Mawsuat al-Falsafa* (*Encyclopedia of Philosophy*). Arab Institute for Studies and Publishing, 1984.
+- Miskawayh, Ahmad ibn Muhammad. *Tahdhib al-Akhlaq wa-Tathir al-A'raq* (*The Refinement of Character*). Eleventh century. Translated by Constantine K. Zurayk. Beirut: American University of Beirut, 1968.
+- Badawi, Abd al-Rahman. *Mawsu'at al-Falsafa* (*Encyclopedia of Philosophy*). Beirut: al-Mu'assasa al-Arabiyya lil-Dirasat wa-l-Nashr, 1984.
 - Adamson, Peter, and Richard C. Taylor, eds. *The Cambridge Companion to Arabic Philosophy*. Cambridge University Press, 2005.
 - Lazarus, Richard S. *Emotion and Adaptation*. Oxford University Press, 1991.
 - Goodman, Lenn E. *Islamic Humanism*. Oxford University Press, 2003.

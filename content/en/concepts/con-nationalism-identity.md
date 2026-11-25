@@ -15,36 +15,34 @@ edges:
 related:
 - id: "sch-nahda-modernization", title: "Arab Nahda: Intellectual Modernization", type: "مدرسة"
 - id: "thk-hisham-sharabi", title: "Hisham Sharabi", type: "مفكر"
+gaps: []
 ---
 
 # Nationalism & Identity
 
-Arab nationalism emerged under the Ottoman state, when shared language and history became a basis for political belonging. Classical historical writing, including George Antonius's *The Arab Awakening* (1938), holds that it came out of the elites of Beirut and Damascus and the culture of literary societies, and then became politicized after the Turkification policy pursued by the Committee of Union and Progress from 1908. Later studies, including *The Origins of Arab Nationalism* (1991), cast doubt on much of this account.
+Arab nationalism (*al-qawmiyya al-'Arabiyya*) emerged in the late Ottoman period as a secular political and cultural doctrine positing that the Arabic-speaking peoples form a single, sovereign nation united by language, history, culture, and shared destiny. Early historiography, exemplified by George Antonius's influential study *The Arab Awakening* (1938), situated the genesis of Arab national consciousness within nineteenth-century literary societies and educational missions in Beirut and Damascus, followed by political mobilization against the centralization and Turkification policies of the Committee of Union and Progress after the 1908 Young Turk Revolution. Subsequent scholarship, including the revisionist volume *The Origins of Arab Nationalism* (1991) edited by Rashid Khalidi and colleagues, nuanced this teleological reading by showing that Ottomanist loyalties persisted widely among provincial Arab elites until the final dissolution of the empire in World War I.
 
-## From Ottomanism to Arabism
+## Ideological Articulation: From Ottoman Reform to Pan-Arabism
 
-Najib Azoury, in his French book *Le Réveil de la nation arabe* (Paris, 1905), called for Arab independence in Asia. Abd al-Rahman al-Kawakibi criticized despotism in *The Nature of Despotism* (*Taba'i' al-istibdad*) and *Umm al-Qura*. The first Arab Congress was held in Paris in 1913, and the Great Arab Revolt broke out in 1916 under the leadership of Sharif Husayn ibn Ali. The Faisalite rule in Damascus (1918–1920) was the first political experiment of the idea.
+The transition from cultural revival to programmatic political nationalism unfolded through several foundational stages:
+- **Late Ottoman Reformers**: Thinkers like 'Abd al-Rahman al-Kawakibi (1855–1902) attacked autocratic misrule in *Taba'i' al-istibdad* (*The Nature of Despotism*) and proposed the revitalization of the Islamic caliphate in the Arabian Peninsula in *Umm al-Qura*. In Paris, Negib Azoury published *Le Réveil de la nation arabe dans l'Asie turque* (1905), calling for an independent Arab state in Ottoman Asia.
+- **The First Arab Congress and the Hashemite Revolt**: Convened in Paris in June 1913, the First Arab Congress demanded decentralized governance and official recognition of Arabic within the Ottoman state. World War I precipitated armed revolt in 1916 under Sharif Hussein ibn Ali of Mecca. The short-lived Arab Kingdom of Syria under King Faisal I (1918–1920) was an early post-Ottoman attempt at an independent Arab state in Syria. French forces ended it at the Battle of Maysalun in July 1920, after the San Remo conference had assigned the Syrian mandate to France.
+- **Linguistic and Cultural Theorization**: Sati' al-Husri (1879/80–1968) formulated a systematic theory of Arab nationalism. Drawing on German romantic nationalism, including Johann Gottfried von Herder and Johann Gottlieb Fichte, al-Husri argued that language and history are the objective criteria of nationhood, and that regional divisions are artificial. William L. Cleveland's *The Making of an Arab Nationalist* (1971) studies how al-Husri carried this secular, state-directed program into education in Iraq and into the cultural work of the Arab League.
+- **Civilizational and Political Programs**: Constantine Zurayk (1909–2000) conceptualized nationalism in *Al-Wa'y al-qawmi* (*National Consciousness*, 1939) as a moral and civilizational renewal, later authoring *Ma'na al-nakba* (*The Meaning of the Disaster*, 1948) to call for rigorous self-criticism in the wake of the 1948 Palestine war. In 1947, Michel Aflaq and Salah al-Din al-Bitar founded the Ba'th Party, institutionalizing the triadic slogan of "Unity, Liberty, Socialism" (*Wahda, Hurriyya, Ishtirakiyya*).
 
-## Sati' al-Husri: language and history
+## Competing Visions and Critical Re-evaluations
 
-Sati' al-Husri (1879–1968) was the most prominent theorist of the idea. He said that the nation is constituted by language and history, influenced by the German nationalist ideas of Herder and Fichte, as William Cleveland showed in *The Making of an Arab Nationalist* (1971). Constantine Zurayk, by contrast, saw nationalism in *National Consciousness* (1939) as a civilizational consciousness. He then wrote *The Meaning of the Catastrophe* (1948), calling for self-criticism after the Palestine war.
-
-## The Ba'th and Nasserism
-
-Michel Aflaq and Salah al-Din al-Bitar founded the Ba'th Party (1947) under the slogan of unity, freedom and socialism. Nasserism turned into a mass movement in the 1950s, and the Egyptian-Syrian union (1958–1961) took place. Then came the defeat of 1967, which set off a harsh self-reexamination: Sadiq Jalal al-Azm wrote *Self-Criticism After the Defeat* (1968).
-
-## Competing currents
-
-Arab nationalism did not have the field to itself. Regional nationalisms arose: Egyptian nationalism in the thought of Lutfi al-Sayyid and Taha Hussein, Syrian nationalism in that of Antun Sa'ada, and Lebanese Phoenicianism. Islamists rejected nationalism as a foreign import that divides the community, as in the writings of Abu al-A'la al-Mawdudi. Bassam Tibi's study *Arab Nationalism: A Critical Enquiry* (1981) examined these conflicts.
-
-## Limits of the concept
-
-Tibi holds that Arab nationalism is closer to an ideology of mobilization than to a democratic project, and that the territorial state entrenched special identities. Adeed Dawisha, in *Arab Nationalism in the Twentieth Century* (2003), traces the course of the idea from triumph to disillusionment, and holds that the competition of territorial states for its leadership weakened it more than its opponents did. Hisham Sharabi, in *Neopatriarchy* (1988), argues that the social structure stood as an obstacle before the project. Arab identity requires distinguishing cultural Arabism, which is widely accepted, from unifying political Arabism, which is contested.
+Pan-Arab nationalism contended continuously against alternative territorial, ideological, and religious identities:
+- **Territorial Nationalisms (*Wataniyya*)**: Thinkers such as Ahmad Lutfi al-Sayyid and Taha Husayn emphasized Egyptian territorial identity grounded in Mediterranean and Pharaonic roots; Antun Sa'adeh founded the Syrian Social Nationalist Party (SSNP) around a distinct Greater Syrian geopolitical entity; and Michel Chiha championed a maritime, mercantile Lebanese identity.
+- **Islamist Critiques**: Abu al-A'la al-Mawdudi and, developing his language, Sayyid Qutb treated secular nationalism as incompatible with the Islamic community (*umma*). Qutb, especially in *Ma'alim fi al-tariq* (1964), described much of contemporary society, including nationalist regimes, as a new *jahiliyya*.
+- **Post-1967 Self-Criticism and Sociological Analysis**: The military collapse of June 1967 shattered ideological confidence in ruling nationalist regimes. Sadiq Jalal al-Azm published *Al-Naqd al-dhati ba'da al-hazima* (1968), a self-criticism of political culture after the defeat. In *Neopatriarchy: A Theory of Distorted Change in Arab Society* (1988), Hisham Sharabi analyzed how modern Arab nation-states reproduced patriarchal authoritarian structures behind modernizing forms. Bassam Tibi's *Arab Nationalism: Between Islam and the Nation-State* (English translation 1981; 3rd ed. 1997) examined pan-Arabism's uneasy relation to Islamic political thought and to territorial states, and the gap between cultural Arab identity and projects of political unification.
 
 ## Sources
 
-- Antonius, George. *The Arab Awakening*. London: Hamish Hamilton, 1938.
+- Antonius, George. *The Arab Awakening: The Story of the Arab National Movement*. London: Hamish Hamilton, 1938.
 - Cleveland, William L. *The Making of an Arab Nationalist: Ottomanism and Arabism in the Life and Thought of Sati' al-Husri*. Princeton: Princeton University Press, 1971.
-- Khalidi, Rashid, et al. (eds.). *The Origins of Arab Nationalism*. New York: Columbia University Press, 1991.
 - Dawisha, Adeed. *Arab Nationalism in the Twentieth Century: From Triumph to Despair*. Princeton: Princeton University Press, 2003.
-- Tibi, Bassam. *Arab Nationalism: A Critical Enquiry*. London: Macmillan, 1981.
+- Khalidi, Rashid, Lisa Anderson, Muhammad Muslih, and Reeva S. Simon, eds. *The Origins of Arab Nationalism*. New York: Columbia University Press, 1991.
+- Sharabi, Hisham. *Neopatriarchy: A Theory of Distorted Change in Arab Society*. New York: Oxford University Press, 1988.
+- Qutb, Sayyid. *Ma'alim fi al-tariq* [Milestones]. Cairo, 1964.
+- Tibi, Bassam. *Arab Nationalism: Between Islam and the Nation-State*. 3rd ed. New York: St. Martin's Press, 1997. English translation of the earlier text, 1981.

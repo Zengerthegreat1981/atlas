@@ -7,7 +7,7 @@ level: "متقدم"
 title: "Sharia as Ethical System"
 en: "Sharia as Ethical System"
 crumb: "Arab Thought ← Concepts ← Sharia as Ethical System"
-active_start: 1200
+active_start: 1080
 active_end: "مستمر"
 language: "Arabic"
 edges:
@@ -24,15 +24,15 @@ A jurisprudential-philosophical framework that reads the Islamic **Sharia** not 
 
 ## The Five Essentials
 
-Jurists of legal theory (*usul al-fiqh*), foremost among them **Abu Hamid al-Ghazali** (d. 1111 CE) and then **Abu Ishaq al-Shatibi** (d. 1388 CE) in his foundational book *al-Muwafaqat fi Usul al-Shari'a*, developed the theory of **the objectives of the Sharia** around five comprehensive necessities that any legal ruling must protect: **preservation of religion**, **preservation of life**, **preservation of intellect**, **preservation of lineage**, and **preservation of property**. These essentials were classified into three ranks of descending importance: the **necessities** (*daruriyyat*, what religious and worldly life cannot exist without), the **needs** (*hajiyyat*, what removes hardship and difficulty), and the **embellishments** (*tahsiniyyat*, what achieves noble character and refinement).
+Jurists of legal theory (*usul al-fiqh*) built the theory in stages. **Abu al-Ma'ali al-Juwayni** (d. 478 AH/1085 CE), in *al-Burhan*, ranked interests as necessities, needs and refinements. **Abu Hamid al-Ghazali** (d. 505 AH/1111 CE), in *al-Mustasfa*, named five necessities that the law protects: **religion**, **life**, **intellect**, **lineage** and **property**. **Abu Ishaq al-Shatibi** (d. 790 AH/1388 CE), in *al-Muwafaqat fi usul al-shari'a*, gave the scheme its fullest classical statement. The same three ranks run through it: the **necessities** (*daruriyyat*, what religious and worldly life cannot do without), the **needs** (*hajiyyat*, what removes hardship), and the **embellishments** (*tahsiniyyat*, what belongs to noble character and refinement).
 
 ## The Legislative Function of the Objectives
 
-The theory of objectives gives the jurist a method of reasoning that goes beyond the literal wording of a particular text to the comprehensive purpose of the legislation. It allows rulings to be balanced against one another when they apparently conflict, and it allows the use of jurisprudential tools such as **public interest** (*al-maslaha al-mursala*), **blocking the means** (*sadd al-dhara'i'*) and **the removal of hardship** (*raf' al-haraj*) to address questions on which there is no direct detailed text. In this sense, the Sharia is transformed from a collection of separate commands and prohibitions into a **teleological ethical system**, against which any new ruling can be measured by how well it achieves the greater objectives.
+The theory of objectives gives the jurist a method of reasoning that goes beyond the literal wording of a particular text to the comprehensive purpose of the legislation. It allows rulings to be balanced against one another when they apparently conflict, and it allows the use of jurisprudential tools such as **public interest** (*al-maslaha al-mursala*), **blocking the means** (*sadd al-dhara'i'*) and **the removal of hardship** (*raf' al-haraj*) to address questions on which there is no direct detailed text. On this reading, the Sharia is a **teleological ethical system**: a new ruling is weighed by how it serves the greater objectives.
 
 ## Contemporary Development
 
-Contemporary jurists and thinkers have revived and expanded the theory of objectives beyond the five classical essentials. Some have added new comprehensive objectives such as **justice**, **freedom** and **human dignity**. Among the most prominent is the Tunisian thinker **Muhammad al-Tahir ibn Ashur**, in his book *Maqasid al-Shari'a al-Islamiyya* (1946). Another is the Egyptian-British scholar **Jasser Auda**, who developed a systematic contemporary objectives-based approach that reads the Sharia as an integrated system (a systems approach) oriented toward achieving justice and comprehensive human welfare, not merely as an aggregate of separate and isolated individual rulings.
+Contemporary jurists and thinkers have extended the theory of objectives beyond the five classical essentials. Some argue for further comprehensive ends, among them **justice**, **freedom** and **human dignity**. The Tunisian scholar **Muhammad al-Tahir ibn Ashur** set this line of work out in *Maqasid al-Shari'a al-Islamiyya*, first published in Tunis in 1366 AH (1946–1947). He widened the discussion beyond the five essentials, including under the law's aims such matters as freedom and equality in social dealings. **Jasser Auda**, in *Maqasid al-Shariah as Philosophy of Islamic Law* (2008), reads the Sharia through what he calls a systems approach, directed toward justice and comprehensive human welfare.
 
 ## Contemporary Uses
 
@@ -45,6 +45,7 @@ The expanded use of the theory of objectives faces criticism from more literalis
 ## Sources
 
 - al-Shatibi, Abu Ishaq. *al-Muwafaqat fi Usul al-Shari'a*. Edited by Mashhur Al Salman. Dar Ibn Affan, 1997.
-- Ibn Ashur, Muhammad al-Tahir. *Maqasid al-Shari'a al-Islamiyya*. Tunis, 1946 (later editions Tunis and Amman).
+- Ibn Ashur, Muhammad al-Tahir. *Maqasid al-Shari'a al-Islamiyya*. Tunis: Maktabat al-Istiqama, 1366 AH (1946–1947).
+- al-Ghazali, Abu Hamid. *al-Mustasfa min 'ilm al-usul*. Edited by Muhammad Abd al-Salam Abd al-Shafi. Beirut: Dar al-Kutub al-'Ilmiyya, 1993.
 - Auda, Jasser. *Maqasid al-Shariah as Philosophy of Islamic Law: A Systems Approach*. International Institute of Islamic Thought, 2008.
 - Hallaq, Wael B. *A History of Islamic Legal Theories*. Cambridge University Press, 1997.

@@ -6,7 +6,7 @@
     "edge-target-by-name": 2430,
     "pending": 63,
     "short": 54,
-    "declared-gaps": 398,
+    "declared-gaps": 390,
     "placeholder": 32,
     "no-title": 32,
     "part-not-explicit": 44,
@@ -80,11 +80,11 @@
       "con-animal-rights-ethics",
       "con-anti-cult-movement-response",
       "con-aphasiology-classification",
-      "con-arab-feminism",
       "con-arab-subsidy-state-and-social-contract",
       "con-assimilation",
       "con-asymmetric-alliance",
-      "con-autonomy-informed-consent"
+      "con-autonomy-informed-consent",
+      "con-axis-mundi-sacred-space-eliade"
     ],
     "placeholder": [
       "con-bilateral",

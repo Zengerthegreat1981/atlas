@@ -21,7 +21,7 @@ gaps: []
 
 # Medical Advancement
 
-Arab medicine was built on the translation of Galen, Hippocrates and Dioscorides. **Hunayn ibn Ishaq** (d. 260 AH/873 CE) played the largest role. In his letter to 'Ali ibn Yahya he states that he translated dozens of Galen's books, and to him goes the glossary of Arabic medicine. Yet medicine did not remain mere transmission. Between the third and seventh centuries AH it turned into a science with its own encyclopaedias, experiments and hospitals.
+Arab medicine was built on the translation of Galen, Hippocrates, and Dioscorides. **Hunayn ibn Ishaq** (d. 260 AH / 873 CE) was the principal translator of Galen into Arabic and Syriac. In his letter to 'Ali ibn Yahya ibn al-Munajjim he lists the Galenic books he knew and those he had translated. That labour did much to fix the Arabic medical vocabulary. Medicine did not remain mere transmission. Between the third and seventh centuries AH it produced its own encyclopaedias, clinical observations, and hospitals.
 
 ## Al-Razi: Experience and Criticism
 
@@ -41,11 +41,11 @@ Hospitals were established in Baghdad from the time of Harun al-Rashid. The Buyi
 
 ## Limits of Achievement
 
-The theoretical framework remained the four humours of Galen. Anatomy rarely departed from reliance on texts, owing to the scarcity of human dissection. Ibn al-Nafis's distinction does not mean that he changed the school: his text remained little known until it was discovered in the twentieth century, and there is no evidence that Europeans had read it. Surgical intervention also remained limited, as many physicians considered it of lower rank than internal medicine.
+The theoretical framework remained the four humours of Galen. Anatomy rarely departed from reliance on texts, owing to the scarcity of human dissection. Ibn al-Nafis's distinction does not mean that he changed the school: his text remained little known until it was discovered in the twentieth century, and whether Europeans knew of it before the modern rediscovery is debated. Surgical intervention also remained limited, as many physicians considered it of lower rank than internal medicine.
 
 ## Sources
 
 - Ibn Abi Usaybi'a, *'Uyun al-anba' fi tabaqat al-atibba'*, ed. Nizar Rida. Beirut: Dar Maktabat al-Hayat, 1965.
 - Manfred Ullmann, *Islamic Medicine*. Edinburgh: Edinburgh University Press, 1978.
 - Peter E. Pormann and Emilie Savage-Smith, *Medieval Islamic Medicine*. Edinburgh: Edinburgh University Press, 2007.
-- Max Meyerhof, "Ibn an-Nafis and His Theory of the Lesser Circulation," *Isis*, vol. 23, 1935.
+- Max Meyerhof. "Ibn an-Nafis (XIIIth Cent.) and His Theory of the Lesser Circulation." *Isis* 23 (1935).

@@ -178,3 +178,12 @@ Scope: `reports/scope/psychology-scope.md`, `reports/scope/philosophy-scope.md` 
 - Registry: 227 historiography pages, all `review-candidate`, no flags (0 declared gaps, 0 pending). Release gate: 167 blockers remain, none in historiography.
 - Open: reviews were done from model memory without web lookups; **needs specialist review** (flagged: Pierre Nora's death date, 2 June 2025, entered from memory).
 - Side effect avoided: `fix_en_labels.py` / `fix_en_related.py` also rewrite other modules' files; those changes were reverted and not committed.
+
+
+---
+# Pass 15 — Arab thought: second-pass fact-check COMPLETE (2026-11-25): Grok + Claude (Sonnet)
+- Pass 1 (fast models): Grok `grok-4.7-build-fast` fact-checked all 114 pages in 8 batches (an earlier Gemini run was cut off by quota after partial edits; every file was re-read afterwards). Log: `reports/scope/arab-thought-ai-pass1-corrections.txt`.
+- Pass 2: Claude Sonnet re-read all 114 pages in full (three batches, one agent at a time); 49 pages corrected, 48 log lines in `reports/scope/arab-thought-claude-review.txt` (dates such as the Matta–al-Sirafi debate 326 AH/937 CE, publishers/translators/volumes, doubtful publisher/year details removed, al-Qunawi as Ibn Arabi's stepson, unsupported claims softened, overclaims).
+- Reading path (`scripts/scope/arab-thought_paths.json`, 43 pages linked from `fld-arab-thought`), scope doc and registry regenerated.
+- Registry: 114 arab-thought pages, all `review-candidate`; 4 disclosed "not yet covered" gaps, 0 pending. Release gate: 167 blockers remain, none in this module.
+- Open: checked from model memory without web lookups; **needs specialist review**. Unsettled: death dates of Mulla Sadra (1045 AH/1635-36 CE, variant 1050 AH/1640 CE), al-Jurjani (471 AH/1078 CE, variant 474 AH/1081 CE), Hind bint Utba, al-Kindi; Latin/Hebrew translation history of *Tahafut al-Tahafut* (rewritten from memory).

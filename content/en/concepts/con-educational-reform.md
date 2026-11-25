@@ -19,15 +19,15 @@ gaps: []
 
 # Educational Reform and Modernization
 
-Education was the first field of the Nahda, because the modern state needed officials, engineers and doctors whom the *kuttab* (elementary Quranic schools) and al-Azhar did not produce. In Egypt this began under Muhammad Ali with military and technical schools, among them the school of medicine founded at Abu Za'bal in 1827 under Clot Bey and moved to Qasr al-Ayni in 1837, the school of engineering (1834) and the School of Languages (1835). The new schools stood alongside al-Azhar and the *kuttab* rather than replacing them, and a dual system of education emerged that lasted for a century.
+Education was among the earliest practical fields of the Nahda, because the new state needed officials, engineers, and doctors whom the *kuttab* (elementary Qur'anic schools) and al-Azhar were not organized to train. In Egypt this began under Muhammad Ali with military and technical schools. Antoine Clot (Clot Bey) opened a school of medicine at Abu Za'bal in 1827; it moved to Qasr al-Ayni in 1837. A polytechnic at Bulaq was organized in 1834, after an earlier engineering school at the Citadel had lapsed, and the School of Languages (*Madrasat al-alsun*) opened under Rifa'a al-Tahtawi in 1835. The new schools stood beside al-Azhar and the *kuttab* rather than replacing them, and a dual system lasted for generations.
 
 ## Tahtawi and Ali Mubarak
 
-Rifa'a al-Tahtawi, in *al-Murshid al-Amin li-al-Banat wa-al-Banin* (1872), argued that education must extend to both boys and girls, and that the homeland is built through useful knowledge. Ali Mubarak (1823–1893) took charge of the Ministry of Education (*nazarat al-ma'arif*). In 1872 he founded the **Dar al-Ulum** to train teachers of Arabic, with a curriculum combining the al-Azhar approach and the modern one. In *al-Khitat al-Tawfiqiyya al-Jadida* (1888–1889) he also compiled the history of Egypt's schools and institutions. J. Heyworth-Dunne, in *An Introduction to the History of Education in Modern Egypt* (1939), showed how these initiatives became a system.
+Rifa'a al-Tahtawi, in *al-Murshid al-amin li-l-banat wa-l-banin* (1872), argued that schooling should include girls as well as boys, and that the homeland is built by useful knowledge. Ali Mubarak (1823–1893) served more than once as head of the Department of Education (*nazarat al-ma'arif*). In 1872 he founded **Dar al-'Ulum** to train teachers of Arabic on a curriculum that joined Azharite subjects to newer ones. In *al-Khitat al-Tawfiqiyya al-jadida* (Bulaq, 1304–1306 AH / 1886–1889) he also compiled a topography of Egypt's schools and institutions. J. Heyworth-Dunne's *An Introduction to the History of Education in Modern Egypt* (1939) remains a standard narrative of how these initiatives became a system.
 
 ## The Reform of al-Azhar
 
-Muhammad Abduh made educational reform his central project. In 1895 he took part in the administration of al-Azhar, and he sought to introduce arithmetic, geography and history, and to organize scholars' salaries and student examinations. He faced opposition from traditional shaykhs, who saw this as a change to religion. As a result, the goals were not fully achieved in his lifetime, but the laws of 1911, 1930 and 1961 completed part of them. Malcolm Kerr studied this project in *Islamic Reform* (1966).
+Muhammad Abduh treated the reform of teaching as part of his larger project. From 1895 he sat on the administrative council of al-Azhar. He sought to add arithmetic, geography, and history, and to regularize scholars' stipends and student examinations. Shaykhs who saw this as a change in religion opposed him, and the program was not carried through in his lifetime. Later Azhar laws, notably those of 1911, 1930, and 1961, reorganized the institution and, in 1961, attached modern faculties to it. Malcolm Kerr's *Islamic Reform* (1966) is a study of the political and legal thought of Abduh and Rashid Rida, not a history of the Azhar council, but it sets those institutional efforts in that thought.
 
 ## The Ottoman State and Beirut
 
@@ -35,7 +35,7 @@ The Ottoman state issued the General Education Regulation (*Nizam al-Ma'arif al-
 
 ## The University and Education for All
 
-The Egyptian National University (*al-Jami'a al-Misriyya al-Ahliyya*) opened in 1908 and became a state university in 1925. In *The Future of Culture in Egypt* (1938), Taha Hussein called for basic education to be a right of every citizen, like water and air, and held that the Nahda could not be realized without it. Free education was then adopted in Egypt after 1950 and became a political pillar.
+The private Egyptian University (*al-Jami'a al-misriyya al-ahliyya*) opened in 1908 and became a state university in 1925. In *Mustaqbal al-thaqafa fi Misr* (The Future of Culture in Egypt, 1938), Taha Husayn argued that education should be as available to every citizen as water and air, and that no Nahda was possible without it. As minister of education from 1950 to 1952 he extended free tuition to the secondary level. Free schooling then became a standing claim in Egyptian politics.
 
 ## Limits of Reform
 
@@ -43,7 +43,7 @@ Scholars have argued that modern education remained in the service of the state.
 
 ## Sources
 
-- Mubarak, Ali. *al-Khitat al-Tawfiqiyya al-Jadida li-Misr al-Qahira wa-Mudunuha wa-Biladuha al-Qadima wa-al-Shahira*. Cairo: al-Matba'a al-Kubra al-Amiriyya, Bulaq, 1888–1889.
+- Mubarak, Ali. *al-Khitat al-Tawfiqiyya al-jadida li-Misr al-Qahira wa-muduniha wa-biladiha al-qadima wa-l-shahira*. 20 parts. Bulaq: al-Matba'a al-Kubra al-Amiriyya, 1304–1306 AH (1886–1889).
 - Hourani, Albert. *Arabic Thought in the Liberal Age 1798–1939*. Oxford University Press, London, 1962.
 - Taha Hussein. *Mustaqbal al-Thaqafa fi Misr*. Cairo: Matba'at al-Ma'arif, 1938.
 - Heyworth-Dunne, J. *An Introduction to the History of Education in Modern Egypt*. London: Luzac, 1939.

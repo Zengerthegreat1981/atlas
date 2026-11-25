@@ -19,28 +19,31 @@ gaps: []
 
 # Qur'anic Ethics and Virtue
 
-The value system presented by the Quranic text. It is built on central concepts such as *khuluq* (disposition, innate character; a root shared with *khaliq*, the Creator, and *makhluq*, the created) more than on abstract legal rules. Many contemporary scholars classify it as **virtue ethics**, because it rests on virtues and dispositions rather than on abstract rules of right and wrong alone.
+Qur'anic ethics is the moral vocabulary and pattern of character set out in the Qur'an. The plural *akhlaq* does not occur there. The singular *khuluq* does: "And you are surely upon a great moral character" (68:4). The same root, kh-l-q, yields words for the Creator and for creatures, a connection later moralists noticed. The text returns to dispositions and to accountability, not only to lists of permitted and forbidden acts. Whether that pattern should be called "virtue ethics" in the Aristotelian sense is a modern question, not a name the Qur'an or the classical jurists used.
 
-## Central Ethical Vocabulary
+## Central ethical vocabulary
 
-The word *akhlaq* (ethics) itself does not occur in the Quran, but its root (kh-l-q) is common. The Quran directly uses a set of central ethical terms: **taqwa** (continuous moral awareness of responsibility before God), **'adl** and **qist** (fairness and balance), **birr** (comprehensive goodness), **ma'ruf** (what is recognized as good by custom and by the Sharia), **rahma** (mercy), **ikhlas** (sincerity), and **ithar** (preferring others over oneself). These terms form an integrated ethical lexicon around which the Quran's ethical verses revolve, rather than a rigid codified system like jurisprudence.
+A cluster of terms carries much of the moral teaching. **Taqwa** is wary consciousness of God and of one's own responsibility. **'Adl** and **qist** name justice and equity. **Birr** is comprehensive righteousness; 2:177 spells out a range of beliefs and acts that the word covers. **Ma'ruf** is what is recognized as right, and **munkar** what is rejected. **Rahma** is mercy, **ikhlas** sincerity, **sabr** steadfastness, and **ithar** the act of preferring another to oneself (59:9). These words are not a code in the later sense of *fiqh*. They bind character, command, worship, and social conduct. A report in Malik's *al-Muwatta'*, and in other collections with fuller chains, says that the Prophet was sent to perfect good character. Later moralists used that report as a proof-text for the moral aim of prophecy. It is a hadith, not a verse.
 
-## Later Crystallization: Islamic Ethics as a Discipline
+## From vocabulary to a discipline
 
-Between the seventh and eleventh centuries CE, these Quranic concepts gradually turned into an independent field of knowledge known as *'ilm al-akhlaq* (the science of ethics). It was influenced by Greek philosophy, especially Aristotle, through philosophers such as **Miskawayh** (d. 1030 CE), whose *Tahdhib al-Akhlaq* combined Quranic virtues with the Aristotelian theory of virtue as a mean between two vices. **al-Raghib al-Isfahani** (d. 5th/11th century), in *al-Mufradat fi Gharib al-Quran* and *al-Dhari'a ila Makarim al-Shari'a*, elaborated the Quranic ethical lexicon through precise linguistic analysis. This tradition reached its encyclopedic peak with **Abu Hamid al-Ghazali** (d. 1111 CE) in *Ihya' 'Ulum al-Din*, where he linked the moral virtues to the purification of the soul (*tazkiya*) and to spiritual conduct.
+From the third/ninth century through the fifth/eleventh, scholars organized this material as *'ilm al-akhlaq* and, separately, as legal and theological discussion of obligation. One strand read Arabic Aristotle. Ahmad ibn Muhammad Miskawayh (d. 421 AH / 1030 CE), in *Tahdhib al-akhlaq*, presents virtue as a mean between excess and deficiency and discusses the training of character. He writes as a Muslim philosopher. The book is not a commentary on the Qur'an, though it is compatible with Islamic duties.
 
-## The Virtue Dimension
+Al-Raghib al-Isfahani worked in the fifth/eleventh century. His death date is disputed: later catalogues sometimes give 502 AH / 1108 CE, while the persons and events he mentions fit an earlier death, in the first quarter of that century. *Al-Mufradat fi gharib al-Qur'an* is a lexicon of Qur'anic words. *Al-Dhari'a ila makarim al-shari'a* arranges the virtues in a scheme that joins that vocabulary to a philosophical psychology of the soul.
 
-Many contemporary scholars, such as Toshihiko Izutsu in his linguistic analysis of the Quran, tend to describe Quranic ethics as closer to **virtue ethics** than to deontological ethics (defining only what is lawful and unlawful) or to utilitarian ethics. The text dwells at length on building the inner moral character, such as truthfulness, patience and humility, and not merely on regulating outward action.
+Abu Hamid al-Ghazali (d. 505 AH / 1111 CE) gave the most widely read synthesis in the *Ihya' 'ulum al-din*. He used the fourfold scheme of wisdom, courage, temperance, and justice, criticized a philosophical ethics detached from revelation and worship, and tied the virtues to purification of the soul (*tazkiyat al-nafs*) and to social duties. The *Ihya'* is religious ethics that uses philosophical tools. It is not Miskawayh's book with Qur'anic quotations added, and it is not identical with the Qur'an's own lexicon.
 
-## Caveats
+## Comparison, and its limits
 
-- Debate continues over whether it is appropriate to classify Quranic ethics within modern Western philosophical categories (virtue, duty, utility) at all. Some researchers hold that this classification is a later imposition that does not arise from the structure of the text itself.
-- The distinction between Quranic ethics as a primary source and later ethical jurisprudence (a theoretical codification influenced by Greek philosophy) is not always sharp in common scholarly literature.
+Toshihiko Izutsu, in *Ethico-Religious Concepts in the Qur'an* (1966), mapped how terms such as belief, unbelief, and *taqwa* shift between pre-Islamic usage and the Qur'an. He did not classify the book as Aristotelian virtue ethics. Some modern readers still find the analogy useful, because the text dwells on stable traits—truthfulness, patience, humility, gratitude—rather than on utility alone or on a closed list of duties. Others argue that virtue, duty, and utility are later taxonomies, and that the Qur'an binds character, divine command, and consequence in a way none of the three captures cleanly.
+
+Muhammad 'Abd Allah Draz attempted a description of the Qur'an's own moral architecture in *La morale du Koran* (Paris: Presses Universitaires de France), a Sorbonne thesis later translated as *The Moral World of the Qur'an* (2008). He organized the material around obligation, responsibility, sanction, intention, and effort. Majid Fakhry's *Ethical Theories in Islam* (2nd ed., 1994) remains a guide to the several later Islamic theories—scriptural, theological, philosophical, and religious—and keeps them distinct from the Qur'anic text they interpret.
 
 ## Sources
 
-- Izutsu, Toshihiko. *Ethico-Religious Concepts in the Qur'an*. Montreal: McGill University Press, 1966.
-- Miskawayh, Ahmad ibn Muhammad. *Tahdhib al-Akhlaq*. Translated by Constantine K. Zurayk as *The Refinement of Character*. Beirut: American University of Beirut, 1968.
-- al-Ghazali, Abu Hamid. *Ihya' 'Ulum al-Din*. Cairo: various editions.
+- Draz, Muhammad Abdullah. *La morale du Koran*. Paris: Presses Universitaires de France. English: *The Moral World of the Qur'an*. Translated by Danielle Robinson and Rebecca Masterton. London: I.B. Tauris, 2008.
 - Fakhry, Majid. *Ethical Theories in Islam*. 2nd ed. Leiden: Brill, 1994.
+- al-Ghazali, Abu Hamid. *Ihya' 'ulum al-din*. Cairo: Mustafa al-Babi al-Halabi. Standard multi-volume printings.
+- Izutsu, Toshihiko. *Ethico-Religious Concepts in the Qur'an*. Montreal: McGill University Press, 1966.
+- al-Isfahani, al-Raghib. *al-Dhari'a ila makarim al-shari'a*. Edited by Abu al-Yazid al-'Ajami. Cairo: Dar al-Salam.
+- Miskawayh, Ahmad ibn Muhammad. *The Refinement of Character* (*Tahdhib al-akhlaq*). Translated by Constantine K. Zurayk. Beirut: American University of Beirut, 1968.

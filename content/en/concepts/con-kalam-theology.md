@@ -21,31 +21,37 @@ gaps: []
 
 ## Definition
 
-**'Ilm al-kalam** (literally "the science of discussion or debate") is the Islamic discipline that investigates the establishment of religious doctrines through rational proofs and their defense against doubts and opponents, whether from within the community (the sects, *al-firaq*) or from outside it (philosophers and adherents of other religions). The term arose from the character of disputation and debate, which was the principal means of addressing the major doctrinal questions of the first Islamic centuries, such as the createdness of the Quran, the attributes of God, divine decree (*qadar*) and the status of the grave sinner.
+**'Ilm al-Kalam** (literally "the science of discourse or dialectic") is the discipline within Islamic thought dedicated to articulating, demonstrating, and defending religious doctrines through systematic rational proof and dialectical argumentation. It emerged to defend the faith against internal sectarian fragmentation (*al-firaq*) and external intellectual challenges from philosophers (*falasifa*), dualists, and adherents of other religious traditions. Distinct from jurisprudence (*fiqh*) and scriptural exegesis (*tafsir*), kalam functioned as a dialectical theology that combined textual interpretation with rigorous metaphysical investigation.
 
-## Origins and Context
+## Origins and Historical Evolution
 
-Kalam arose from the political and doctrinal upheavals that followed the Great Discord (*al-fitna al-kubra*) in the first century AH, when Muslims needed to take doctrinal positions on questions such as faith, works, divine decree and the imamate. Its early development is associated with the **Mu'tazila**, who emerged in the early second century AH (eighth century CE) in Basra and Baghdad. They adopted **reason** as an independent instrument for reaching religious truths alongside the text, and they defended five principles: divine unity (*tawhid*), divine justice (*adl*), the promise and the threat (*al-wa'd wa-al-wa'id*), the intermediate position between two positions (*al-manzila bayn al-manzilatayn*), and enjoining good and forbidding evil. They upheld human free will and the createdness of the Quran.
+The origins of kalam lie in the intense sociopolitical and theological conflicts that followed the First Civil War (*al-fitna al-kubra*, 35–40 AH / 656–661 CE). Early debates revolved around urgent questions of communal legitimacy: the status of the grave sinner (*murtakib al-kabira*), the relationship between faith (*iman*) and works (*'amal*), and the conflict between human moral responsibility (*qadar*) and divine predestination (*jabr*). 
 
-## Main Features
+By the early second century AH (eighth century CE), these debates were formalized by the **Mu'tazila** in Basra and Baghdad, led by figures such as Wasil ibn 'Ata' (d. 131 AH / 748 CE) and Abu al-Hudhayl al-'Allaf (d. c. 227 AH / 841 CE). The Mu'tazilites structured their theology around five fundamental principles (*al-usul al-khamsa*):
+1. **Divine Unity (*Tawhid*)**: A radical transcendence that denied distinct, eternal anthropomorphic attributes and affirmed the createdness of the Qur'an (*khalq al-Qur'an*).
+2. **Divine Justice (*'Adl*)**: The affirmation of human libertarian free will and objective rational ethics (*al-tahsin wa-al-taqbih al-'aqliyyan*).
+3. **The Promise and the Threat (*al-Wa'd wa-al-Wa'id*)**: God's necessary fulfillment of reward and punishment.
+4. **The Intermediate Position (*al-Manzila bayn al-Manzilatayn*)**: Defining the grave sinner as neither a full believer nor an absolute apostate, but a corrupt transgressor (*fasiq*).
+5. **Enjoining Good and Forbidding Evil (*al-Amr bi-al-Ma'ruf wa-al-Nahy 'an al-Munkar*)**.
 
-- **Mu'tazilism**: emphasized divine justice and human free will, and held that reason is able to perceive good and evil independently of revealed law (*shar'*).
-- **Ash'arism**: founded by **Abu al-Hasan al-Ash'ari** (d. 936 CE) after his break with Mu'tazilism. It offered a reconciliation between transmitted text and reason. It affirmed the eternity of God's attributes (contrary to the Mu'tazila) and that the Quran is the uncreated speech of God, while adopting dialectical rules whose approach to rational argument was close to that of the Mu'tazila themselves.
-- **Maturidism**: founded by **Abu Mansur al-Maturidi** in Samarqand, with an approach close to Ash'arism but with greater emphasis on the role of reason.
-- **Major points of dispute**: the createdness of the Quran (the *mihna* under al-Ma'mun), the attributes of God (affirmation or transcendence), divine decree and predestination, the vision of God in the afterlife, and the judgment on the grave sinner.
+The political apex of Mu'tazilism occurred during the *Mihna* (Inquisition, 218–234 AH / 833–848 CE), initiated by Caliph al-Ma'mun to enforce the doctrine of the created Qur'an, an effort famously resisted by Ahmad ibn Hanbal (d. 241 AH / 855 CE) before the policy was officially repealed by al-Mutawakkil.
 
-## Impact
+## The Major Theological Schools
 
-After it was consolidated by al-Ghazali, al-Baqillani and al-Juwayni, Ash'arite kalam became the dominant doctrinal school across most of the Sunni Islamic world, and it entered the official curricula of religious education (such as al-Azhar and the Nizamiyya madrasas). Kalam also entered a long critical dialogue with transmitted Greek philosophy (al-Farabi, Ibn Sina). This dialogue reached its peak in al-Ghazali's critique of the philosophers in *Tahafut al-Falasifa* and Ibn Rushd's reply in *Tahafut al-Tahafut*.
+In the fourth century AH (tenth century CE), Sunni orthodoxy consolidated around two primary rationalist schools:
+- **Ash'arism**: Founded by **Abu al-Hasan al-Ash'ari** (d. 324 AH / 935–936 CE), who departed from Mu'tazilism to construct a dialectical defense of traditional Sunni creed. Ash'arites affirmed eternal divine attributes distinct from God's essence without anthropomorphism (*bila kayf*), maintained the uncreated status of God's primordial speech (*kalam nafsi*), and formulated the doctrine of human acquisition (*kasb*), reconciling divine omnipotence with moral accountability.
+- **Maturidism**: Formulated by **Abu Mansur al-Maturidi** (d. 333 AH / 944 CE) in Samarkand, and later dominant in many Hanafi circles. It shares much with Ash'arism on the divine attributes and on human acquisition of acts. Al-Maturidi allowed reason a wider role: the existence of God, and a broad distinction between beneficial and harmful acts, can be known by the intellect, while the details of worship and legal obligation depend on revelation. Ash'arites were more reluctant to treat moral obligation as binding before the arrival of revelation.
 
-## Caveats
+## Metaphysics and the Philosophical Turn
 
-Kalam is sometimes summarized as merely doctrinal "apologetics" rather than as an independent philosophy. This description ignores the richness of its theories of the atom, substance, accident and causality (such as the Ash'arite theory of "habit" ('*ada*)), which some scholars have compared with later European occasionalism and with David Hume's analysis of causation; no direct historical connection has been firmly established.
+Kalam developed an original natural philosophy characterized by **atomism**: reality consists of indivisible atoms (*al-jawhar al-fard*) and fleeting accidents (*a'rad*) constantly sustained and recreated by God. In Ash'arite occasionalism, secondary causality is denied; God acts as the immediate and exclusive cause of all phenomena, with natural regularities operating merely as customary patterns (*'ada*).
+
+With **Abu Hamid al-Ghazali** (d. 505 AH / 1111 CE), in *Tahafut al-Falasifa* (The Incoherence of the Philosophers), *al-Iqtisad fi al-I'tiqad*, and the logical prefaces to his legal works, Aristotelian formal logic became a standard instrument inside Sunni kalam. Logicians had used it earlier; al-Ghazali argued that it was religiously neutral. In the later period (*kalam al-muta'akhkhirin*), thinkers such as **Fakhr al-Din al-Razi** (d. 606 AH / 1210 CE) and 'Adud al-Din al-Iji (d. 756 AH / 1355 CE; author of *al-Mawaqif*) transformed kalam into an encyclopedic philosophical theology that thoroughly synthesized Avicennian metaphysics with Islamic dogmatics.
 
 ## Sources
 
-- Frank, Richard M. *Beings and Their Attributes: The Teaching of the Basrian Mu'tazila in the Classical Period*. State University of New York Press, 1978.
-- Van Ess, Josef. *Theology and Society in the Second and Third Centuries of the Hijra*. Translated. Brill, 2017–2020.
-- Wolfson, Harry Austryn. *The Philosophy of the Kalam*. Harvard University Press, 1976.
-- Al-Ash'ari, Abu al-Hasan. *Maqalat al-Islamiyyin wa-Ikhtilaf al-Musallin*. Edited by Helmut Ritter. Istanbul, 1929–1933.
-- Winter, Tim, ed. *The Cambridge Companion to Classical Islamic Theology*. Cambridge University Press, 2008.
+- Al-Ash'ari, Abu al-Hasan. *Maqalat al-Islamiyyin wa-Ikhtilaf al-Musallin*. Edited by Helmut Ritter. Istanbul: Staatsdruckerei, 1929–1933.
+- Frank, Richard M. *Philosophy, Theology and Mysticism in Medieval Islam: Texts and Studies on the Development and History of Kalam*. Aldershot: Ashgate, 2005.
+- Van Ess, Josef. *Theology and Society in the Second and Third Centuries of the Hijra*. Vols. 1–6. Translated by John O'Kane. Leiden: Brill, 2017–2020.
+- Winter, Tim, ed. *The Cambridge Companion to Classical Islamic Theology*. Cambridge: Cambridge University Press, 2008.
+- Wolfson, Harry Austryn. *The Philosophy of the Kalam*. Cambridge, MA: Harvard University Press, 1976.

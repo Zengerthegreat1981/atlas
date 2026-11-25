@@ -36,7 +36,7 @@ The work, in five volumes in the standard modern edition, offers a comprehensive
 
 ## Context: the Basran school and the dispute with Kufa
 
-Sibawayh was a pupil of the great grammarian **Khalil ibn Ahmad al-Farahidi**, the founder of the science of prosody and traditionally credited with the lexicon *Kitab al-'Ayn*, who deeply influenced his analytical method. The work represents the peak of the **Basran school** of grammar, which was marked by a strict analogical method, in contrast to the **Kufan school**, which was more lenient in accepting rare poetic evidence and exceptions. This methodological disagreement continued for centuries after Sibawayh and formed one of the most important axes of the history of Arabic grammar.
+Sibawayh was a pupil of **al-Khalil ibn Ahmad al-Farahidi**, whom the tradition credits with putting Arabic prosody (*'arud*) into a system and with the lexicon *Kitab al-'Ayn*. The attribution of the lexicon is traditional, and Sibawayh cites al-Khalil throughout the *Kitab*. Later grammarians treated the book as the chief statement of a Basran method, strict in analogy (*qiyas*), and set it against a Kufan willingness to admit rare poetic usage. That contrast between two schools was drawn more sharply after Sibawayh's death. It is too neat as a picture of his own generation, but it became the frame in which the tradition read the book for centuries.
 
 ## Reception and influence
 
@@ -44,7 +44,7 @@ Upon its appearance, the work became the reference on which almost the entire su
 
 ## Caveats
 
-The year of Sibawayh's death, and therefore of the book's completion, is disputed in the sources (roughly 177 to 180 AH / 793 to 796 CE). His writing is very dense and technical, so much so that his readers themselves needed extensive commentaries to understand his precise intentions (such as al-Sirafi's commentary in the tenth century CE). This made it a specialized text that is difficult to access directly without progressing through its commentaries, unlike later grammatical works written primarily for simpler teaching purposes.
+The year of Sibawayh's death, and therefore of the book's completion, is disputed. Classical reports range from about 177 to 194 AH (793 to 810 CE). Many modern scholars prefer a date around 180/796. His writing is very dense and technical, so much so that his readers themselves needed extensive commentaries to understand his precise intentions (such as al-Sirafi's commentary in the tenth century CE). This made it a specialized text that is difficult to access directly without progressing through its commentaries, unlike later grammatical works written primarily for simpler teaching purposes.
 
 ## Sources
 

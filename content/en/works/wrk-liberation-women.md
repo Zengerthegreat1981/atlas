@@ -31,7 +31,7 @@ gaps: []
 
 ## Background: From Tahtawi to Abduh
 
-The discussion of women did not begin with Qasim Amin. Rifa'a al-Tahtawi (d. 1873) called in *al-Murshid al-Amin li-al-Banat wa-al-Banin* (1872) for teaching girls reading, writing and arithmetic, arguing that knowledge does not compromise chastity. The first government school for girls in Egypt was established in 1873. Muhammad Abduh, the leading figure of Islamic reform, addressed polygamy and divorce in his fatwas and articles, and said that the condition of justice between wives makes polygamy in practice forbidden or restricted. Amin belonged to Abduh's circle, and some of his contemporaries attributed to Abduh a share of credit for the book. The studies do not settle the extent of this role. The book remains attributed to Amin's pen, while acknowledging Abduh's influence on his intellectual environment.
+The discussion of women did not begin with Qasim Amin. Rifa'a al-Tahtawi (d. 1873) called in *al-Murshid al-Amin li-al-Banat wa-al-Banin* (1872) for teaching girls reading, writing and arithmetic, arguing that knowledge does not compromise chastity. The first government school for girls in Egypt was established in 1873. A view reported of Muhammad Abduh, and developed in the circle of *Tafsir al-Manar*, holds that the Qur'anic condition of justice between wives restricts polygamy in practice. How far the strongest wording is Abduh's own remains debated, because much of the *Manar* commentary was written up by Rashid Rida. Amin belonged to Abduh's circle, and some contemporaries gave Abduh a share in *The Liberation of Women*. Studies have not settled the extent of that share. The book is Amin's, and Abduh's circle is part of its setting.
 
 ## The Book's Argument
 
@@ -39,7 +39,7 @@ Amin builds his argument on the claim that the progress of the nation depends on
 
 ## Controversy and Responses
 
-The book met a torrent of responses. Talat Harb published *Tarbiyat al-Mar'a wa-al-Hijab* (1899) and *Fasl al-Khitab fi al-Mar'a wa-al-Hijab* (1901). Muhammad Farid Wajdi wrote *al-Mar'a al-Muslima* (1901). The leader Mustafa Kamil replied in the newspaper *al-Liwa'*, and other newspapers criticized his discourse. Amin issued *al-Mar'a al-Jadida* (The New Woman, 1900), defending his thesis and expanding his citation of European social scientists. Women's responses came later with Malak Hifni Nasif (*Bahithat al-Badiya*), who called for women's education and rights but expressed reservations about imitating the West. This controversy revealed that the disagreement was not only about education, but about who had the authority to speak about women.
+The book met a torrent of responses. Talat Harb published *Tarbiyat al-Mar'a wa-al-Hijab* (1899) and *Fasl al-Khitab fi al-Mar'a wa-al-Hijab* (1901). Muhammad Farid Wajdi wrote *al-Mar'a al-Muslima* (1901). The nationalist paper *al-Liwa'*, associated with Mustafa Kamil, criticized the book, as did other newspapers. Amin issued *al-Mar'a al-Jadida* (The New Woman, 1900), defending his thesis and expanding his citation of European social scientists. Women's responses came later with Malak Hifni Nasif (*Bahithat al-Badiya*), who called for women's education and rights but expressed reservations about imitating the West. This controversy revealed that the disagreement was not only about education, but about who had the authority to speak about women.
 
 ## Critical Readings
 
@@ -47,7 +47,7 @@ Leila Ahmed, in *Women and Gender in Islam* (1992), argued that Amin's discourse
 
 ## Caveats
 
-Amin's book is a reformist rather than a revolutionary work. It makes the woman a qualified mother and wife before making her an independent individual, keeps her primary mission in the home and in upbringing, and calls for a legal veil in place of complete unveiling. Later feminists criticized these limits. It is also uncertain how much he drew on European sources, a question the text alone does not settle. The book's practical effect on the education of girls and on personal status laws came slowly, and became visible only after decades, with the founding of the Egyptian University in 1908 and the Egyptian Feminist Union in 1923.
+Amin's book is a reformist rather than a revolutionary work. It makes the woman a qualified mother and wife before making her an independent individual, keeps her primary mission in the home and in upbringing, and calls for a legal veil in place of complete unveiling. Later feminists criticized these limits. It is also uncertain how much he drew on European sources, a question the text alone does not settle. Its practical effect on girls' schooling and on personal-status law was slow. The private Egyptian University was founded in 1908 and did not admit women at the start. The Egyptian Feminist Union was founded in 1923. Neither event was a direct result of this book alone.
 
 ## Sources
 
@@ -57,3 +57,4 @@ Amin's book is a reformist rather than a revolutionary work. It makes the woman 
 - Ahmed, Leila. *Women and Gender in Islam: Historical Roots of a Modern Debate*. New Haven: Yale University Press, 1992.
 - Baron, Beth. *The Women's Awakening in Egypt: Culture, Society, and the Press*. New Haven: Yale University Press, 1994.
 - Cole, Juan R. I. "Feminism, Class, and Islam in Turn-of-the-Century Egypt." *International Journal of Middle East Studies* 13, no. 4 (1981).
+- Badran, Margot. *Feminists, Islam, and Nation: Gender and the Making of Modern Egypt*. Princeton: Princeton University Press, 1995.

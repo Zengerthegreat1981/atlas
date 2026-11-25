@@ -19,32 +19,32 @@ gaps: []
 
 # Literary Criticism Traditions
 
-The classical Arab-Islamic intellectual tradition that developed methodological tools for evaluating poetry and prose in terms of quality and defect. It began in the third century AH (the ninth century CE), blending with the sciences of rhetoric (*balagha*), grammar, kalam and translated Greek philosophy.
+Classical Arabic literary criticism (*naqd al-adab*) is the intellectual tradition that developed systematic criteria and methodological tools for analyzing, classifying, and evaluating poetry and artistic prose. Emerging in the third century AH (ninth century CE) during the Abbasid golden age, it evolved from intuitive connoisseurship into a sophisticated analytical discipline that intersected with lexicography, Arabic grammar, dialectical theology (*kalam*), and translated Hellenistic logic and rhetoric.
 
-## Beginnings: al-Jahiz and Ibn al-Mu'tazz
+## Foundations: Al-Jahiz, Ibn Qutayba, and Ibn al-Mu'tazz
 
-**al-Jahiz** (d. 255 AH/868 CE) is among the first to lay the foundations of analytical criticism in his books *al-Bayan wa-l-tabyin* (Eloquence and Exposition) and *al-Hayawan* (The Book of Animals). In them he discusses questions of word and meaning, eloquence and the psychology of discourse, using an analytical method that goes beyond unreasoned personal taste. Then **'Abd Allah ibn al-Mu'tazz** (d. 296 AH/908 CE), in *Kitab al-Badi'* (The Book of Innovation in Rhetoric), classified the rhetorical embellishments (such as metaphor, antithesis and paronomasia) and argued that their principles are present in pre-Islamic poetry and in the Qur'an, rather than being a recent invention, as the opponents of the "modern" (*muhdathun*) poets of his time claimed.
+Early critical theory crystallized around the relationship between expression (*lafz*) and meaning (*ma'na*):
+- **Al-Jahiz** (d. 255 AH / 868–869 CE): In *al-Bayan wa-al-Tabyin* and *Kitab al-Hayawan*, al-Jahiz set out an analytical account of eloquence (*balagha*), clarity (*bayan*), and the circumstances of address. He argued that meanings lie open to Arab and non-Arab alike, and that literary excellence lies in the choice and arrangement of wording rather than in the raw idea.
+- **Ibn Qutayba** (d. 276 AH / 889 CE): In the introduction to *al-Shi'r wa-al-Shu'ara'*, he classed poems by the quality of their wording and of their meaning, in four combinations. He refused to prefer an ancient poet merely for being ancient, or a later poet merely for being later, and he held that God had not confined poetry and eloquence to one age.
+- **'Abd Allah ibn al-Mu'tazz** (d. 296 AH / 908 CE): In *Kitab al-Badi'* (The Book of the New Style), the earliest extant monograph that catalogues the figures later called *badi'* (among them metaphor, antithesis, and paronomasia), he argued that devices prized by Abbasid "modern" poets (*al-muhdathun*, such as Bashshar ibn Burd and Abu Tammam) were already present in pre-Islamic verse and in the Qur'an, and were not a foreign corruption of Arabic.
 
-## Qudama ibn Ja'far and the Term "Criticism"
+## Philosophical Method and Comparative Debate
 
-**Qudama ibn Ja'far** (d. c. 337 AH/948 CE), in his book *Naqd al-shi'r* (The Criticism of Poetry), was among the first to use the word *naqd* in its technical sense in the title of an Arabic book. Influenced by logic and philosophical method, he offered a systematic definition of poetry as "measured, rhymed speech that signifies a meaning", and set analytical criteria for evaluating wording, meaning and composition, instead of relying on taste alone.
+In the fourth century AH (tenth century CE), Arabic criticism incorporated formal philosophical rigor:
+- **Qudama ibn Ja'far** (d. c. 337 AH / 948 CE): In *Naqd al-Shi'r* (Critique of Poetry), Qudama applied Aristotelian definitions to Arabic poetics, defining poetry as "metered, rhymed discourse signifying a meaning." He categorized the elements of poetic craft (meter, rhyme, wording, and meaning) and systematically distinguished compositional virtues from technical defects.
+- **Al-Amidi** (d. 370 AH / 980 CE): In *al-Muwazana bayn Abi Tammam wa-al-Buhturi*, al-Amidi conducted a rigorous comparative critique, balancing the spontaneous Bedouin aesthetic (*al-matbu'*) of al-Buhturi against the intricate, intellectualized metaphorical craft (*al-masnu'*) of Abu Tammam.
+- **Al-Qadi al-Jurjani** (d. 392 AH / 1001 CE): In *al-Wasata bayn al-Mutanabbi wa-Khusumih*, he established principles of judicial critical impartiality, arguing that religious orthodoxy or personal morality must be decoupled from the aesthetic evaluation of poetic merit.
 
-## Later Developments
+## Synthesizing Theory: 'Abd al-Qahir al-Jurjani and Later Codification
 
-Arab literary criticism later expanded with **'Abd al-Qahir al-Jurjani** (d. c. 471 AH/1078 CE), who developed the "theory of composition" (*nazm*) in his books *Dala'il al-i'jaz* (The Proofs of Inimitability) and *Asrar al-balagha* (The Secrets of Eloquence). He linked the beauty of style to the grammatical-semantic relations between words, rather than to individual words in themselves. This paved the way for the classical Arabic science of rhetoric (*ma'ani*, *bayan*, *badi'*) in its complete form.
+The most influential classical statement of the tradition is that of **'Abd al-Qahir al-Jurjani** (d. 471 AH / 1078 CE) in *Dala'il al-I'jaz* (Proofs of Inimitability) and *Asrar al-Balagha* (Secrets of Eloquence). Al-Jurjani's **theory of construction (*nazm*)** locates literary force neither in the isolated word nor in a bare idea, but in syntactic and semantic relations governed by grammar.
 
-## Impact
-
-This critical tradition provided the theoretical foundation for the traditional Arabic sciences of rhetoric, which were taught for centuries in religious and literary institutions. It influenced the rhetorical approaches to the inimitability of the Qur'an (as in al-Baqillani's *I'jaz al-Qur'an*), and remained the standard reference until the emergence of modern literary-critical methods influenced by the West in the twentieth century.
-
-## Limitations
-
-Much of this critical heritage arose within momentary literary disputes (such as the debate between "the ancients and the moderns" in Abbasid poetry), which makes some of its judgments more tied to their historical context than to abstract theoretical standards. The distinction between "criticism" as systematic analysis and "rhetoric" as a normative science of eloquence remained not fully sharp for many of these authors.
+Fakhr al-Din al-Razi (d. 606 AH / 1210 CE) recast al-Jurjani's arguments in a more scholastic form in *Nihayat al-Ijaz fi Dirayat al-I'jaz*. **Al-Sakkaki** (d. 626 AH / 1229 CE), in *Miftah al-'Ulum*, then divided the discipline into the three sciences that the later curriculum taught as rhetoric: *'ilm al-ma'ani* (syntax in the service of the speech-situation), *'ilm al-bayan* (figurative expression), and *'ilm al-badi'* (ornament). Jalal al-Din al-Qazwini (d. 739 AH / 1338 CE) fixed that division for madrasa teaching in his abridgement of the *Miftah*, *Talkhis al-Miftah*.
 
 ## Sources
 
-- al-Jahiz, 'Amr ibn Bahr. *al-Bayan wa-l-tabyin*. Cairo: various editions.
-- Ibn al-Mu'tazz, 'Abd Allah. *Kitab al-Badi'*, ed. I. Kratchkovsky. London: Gibb Memorial Series, 1935.
-- Qudama ibn Ja'far. *Naqd al-shi'r*, ed. S. A. Bonebakker. Leiden: Brill, 1956.
-- al-Jurjani, 'Abd al-Qahir. *Dala'il al-i'jaz*. Cairo: Maktabat al-Khanji, various editions.
+- Al-Jahiz, Abu 'Uthman 'Amr ibn Bahr. *al-Bayan wa-al-Tabyin*. Edited by 'Abd al-Salam Muhammad Harun. 4 vols. Cairo: Maktabat al-Khanji, 1968.
+- Al-Jurjani, 'Abd al-Qahir. *Dala'il al-I'jaz*. Edited by Mahmud Muhammad Shakir. Cairo: Maktabat al-Khanji, 1992.
+- Ibn al-Mu'tazz, 'Abd Allah. *Kitab al-Badi'*. Edited by Ignatius Kratchkovsky. London: Luzac & Co., 1935.
+- Qudama ibn Ja'far. *Naqd al-Shi'r*. Edited by S. A. Bonebakker. Leiden: E. J. Brill, 1956.
 - Van Gelder, Geert Jan. *Beyond the Line: Classical Arabic Literary Critics on the Coherence and Unity of the Poem*. Leiden: Brill, 1982.

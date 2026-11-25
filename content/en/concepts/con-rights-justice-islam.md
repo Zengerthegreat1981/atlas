@@ -7,7 +7,7 @@ level: "متقدم"
 title: "Rights & Justice in Islamic Thought"
 en: "Rights & Justice in Islamic Thought"
 crumb: "Arab Thought ← Concepts ← Rights & Justice in Islamic Thought"
-active_start: 650
+active_start: 610
 active_end: "مستمر"
 language: "Arabic"
 edges:
@@ -16,6 +16,7 @@ related:
 - id: "sch-islamic-ethics-political", title: "Islamic Ethics and Political Thought", type: "مدرسة"
 - id: "ctx-miskawayh-character", title: "Ibn Miskawayh and the Refinement of Character", type: "سياق/تقليد"
 - id: "thk-al-mawardi", title: "Abu al-Hasan Ali ibn Muhammad al-Mawardi", type: "مفكر"
+gaps: []
 ---
 
 # Rights & Justice in Islamic Thought
@@ -24,11 +25,11 @@ Justice in Islamic thought is a Quranic value: "God commands justice and benevol
 
 ## Rights in Jurisprudence
 
-Jurists divided rights into the rights of God (*huquq Allah*) and the rights of human beings (*huquq al-'ibad*), and derived rulings on penalties and transactions from this division. The rights of human beings in property, life and honour lapse by the waiver of their holder, whereas what is a right of God does not lapse by the waiver of individuals. The objectives of the Sharia (*maqasid al-shari'a*) placed the preservation of life, property and honour among the essentials, as al-Shatibi elaborated. Ibn al-Qayyim (d. 751 AH/1350 CE) stated in *I'lam al-Muwaqqi'in* that the Sharia is "all justice, all mercy," and that any ruling that departs from justice into tyranny is not part of the Sharia.
+Jurists divided rights into the rights of God (*huquq Allah*) and the rights of human beings (*huquq al-'ibad*), and derived rulings on penalties and transactions from this division. A right of a human being, such as a claim to property or to retaliation for a wound or a killing, may lapse if the person who holds it waives it. A pure right of God does not lapse by an individual's waiver. The two classes are often mixed in a single case, and the schools differ on which element prevails. In *al-Muwafaqat*, al-Shatibi sets out five necessities: religion, life, intellect, lineage and property. Some later jurists discussed honour as attached to lineage or as a further essential. Ibn al-Qayyim (d. 751 AH/1350 CE), in *I'lam al-Muwaqqi'in*, wrote that the Sharia is "all justice, all mercy," and that a ruling which leaves justice for tyranny is not part of the Sharia, even if someone inserts it by forced interpretation.
 
 ## The State and Justice
 
-Al-Mawardi (d. 450 AH/1058 CE) wrote in *al-Ahkam al-Sultaniyya* about the duties of the imam and the office of *mazalim*, a supreme court that considered complaints of injustice by governors. In the *Muqaddima*, Ibn Khaldun (d. 808 AH/1406 CE) established a social rule: "injustice heralds the ruin of civilization" (*al-zulm mu'dhin bi-kharab al-'umran*). He also treated a chapter whose title states that when taxation exceeds its proper limit, it corrupts the state. Rosenthal translated the *Muqaddima* (1958). Miskawayh (d. 421 AH/1030 CE), in *Tahdhib al-Akhlaq*, presents justice as a comprehensive virtue that balances the faculties of the soul. Constantine Zurayk edited the book (1966).
+Al-Mawardi (d. 450 AH/1058 CE), in *al-Ahkam al-Sultaniyya*, sets out the duties of the imam and the office of *mazalim*, which heard complaints of injustice by officials. In the *Muqaddima*, Ibn Khaldun (d. 808 AH/1406 CE) titled a chapter "injustice heralds the ruin of civilization" (*al-zulm mu'dhin bi-kharab al-'umran*). He also argued that when fiscal demands pass what the subjects can bear, both the yield and the polity decline. Franz Rosenthal translated the *Muqaddima* (1958). Miskawayh (d. 421 AH/1030 CE), in *Tahdhib al-Akhlaq*, presents justice as the virtue that keeps the faculties of the soul in proportion. Constantine Zurayk edited the Arabic text (Beirut, 1966).
 
 ## The Modern Trend
 

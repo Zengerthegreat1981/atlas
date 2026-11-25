@@ -19,7 +19,7 @@ gaps: []
 
 # Intellectual Interchange
 
-The Abbasid civilisation was not a vessel for a single transfer from Greek into Arabic. It was a meeting point of several currents: Persian, Indian, Syriac, Greek and Chinese, which then flowed back out into Latin and Hebrew. Ibn al-Nadim, in *al-Fihrist* (*The Catalogue*), assigned to each language its translators and books, and counted among the translated works those that came from Persian, Indian, Nabataean and Greek sources.
+The Abbasid world was a meeting point of several textual traditions, Persian, Indian, Syriac, and Greek, which later passed in part into Latin and Hebrew. Chinese contact mattered for a technology, paper, more than for a body of translated books. Ibn al-Nadim, in *al-Fihrist* (*The Catalogue*), lists translators and titles and includes works drawn from Persian, Indian, Nabataean, and Greek sources.
 
 ## The Persian and Indian Routes
 
@@ -27,19 +27,19 @@ From Middle Persian, 'Abdullah ibn al-Muqaffa' (d. c. 142 AH / 759 CE) translate
 
 ## The Syriac Intermediary
 
-Syriac-speaking Christians were among the most important intermediaries: they preserved philosophical and medical teaching in centres such as Edessa, Nisibis, Qinnasrin and Jundishapur, and among the translators were Hunayn ibn Ishaq and his son Ishaq (both Nestorian) and Qusta ibn Luqa (a Melkite of Baalbek). The Bakhtishu' family, Nestorians of Jundishapur, served as physicians to the caliphs. The Harranian Sabians, among them Thabit ibn Qurra, brought Hermetic and astronomical heritage. For this reason it is not accurate to say that the Arabs took directly from the Greeks.
+Syriac-speaking Christians were central intermediaries. Philosophical and medical teaching had been preserved in centres such as Edessa, Nisibis, Qinnasrin, and Jundishapur. Among the translators were Hunayn ibn Ishaq and his son Ishaq, both of the East Syrian church, and Qusta ibn Luqa, a Melkite from Baalbek. The Bakhtishu' family, East Syrian physicians associated with Jundishapur, served the caliphs. The Harranian Sabians, among them Thabit ibn Qurra, transmitted astronomical and Hermetic texts. Much of the Greek corpus therefore reached Arabic through Syriac-speaking scholars. Hunayn's own account of his workshop describes both a Syriac intermediate version and translation directly from Greek into Arabic. It is misleading to say either that every book was taken straight from a Greek manuscript or that none was.
 
 ## Paper and the Book
 
-The exchange was not only of texts but of tools. Paper, which Muslims learned about from Chinese prisoners after the Battle of Talas (134 AH / 751 CE), according to the common story, or through trade from Samarkand, spread in Baghdad through a mill established in the time of Harun al-Rashid around 794 CE. It reduced the cost of the book and created the market of the copyists (*warraqun*). Jonathan Bloom, in his study of paper, argues that its spread was more complex than the common story suggests.
+The exchange included tools as well as texts. Muslims learned papermaking from Chinese practice in Central Asia. A common story ties the craft to prisoners taken at the Battle of Talas (134 AH / 751 CE) and dates a Baghdad mill to the reign of Harun al-Rashid, around 794 CE. Jonathan Bloom argues that the routes were several and that this tale is too simple. What is secure is that paper became cheap enough, in Baghdad and beyond, to sustain the market of the copyists (*warraqun*).
 
 ## The Reverse Direction
 
-Then the direction reversed. In the sixth century AH / twelfth century CE, the translators of Toledo, among them Gerard of Cremona (d. 1187 CE), rendered dozens of Arabic books into Latin, including works by al-Khwarizmi, al-Razi, Ibn Sina and Ibn al-Haytham. In the following centuries, books passed into Hebrew through the Ibn Tibbon family. Translation thus became a bridge between three cultures.
+The direction then reversed. In the twelfth century the translators of Toledo, among them Gerard of Cremona (d. 1187), turned a large library of Arabic science into Latin. Gerard's attested translations include Ptolemy's *Almagest*, al-Khwarizmi's algebra, medical works of al-Razi, and Ibn Sina's *Canon*. Ibn al-Haytham's optics also circulated in Latin from the Spanish translation milieu; the translator is not identified with certainty. In the twelfth and thirteenth centuries the Ibn Tibbon family rendered many of the same Arabic philosophical and scientific works into Hebrew.
 
 ## Limits of the Exchange
 
-The transfer was not symmetrical. Astronomy, medicine, philosophy and logic were translated, while Greek tragic poetry, history and epic were not. Scholars explain this by the Abbasid society's interest in practical benefits, and by the close connection of certain texts to religious debate. The influence of Indian philosophy on Arabic philosophy remained limited compared with the influence of Indian astronomy and arithmetic.
+The transfer was not symmetrical. Astronomy, medicine, philosophy, and logic were translated in quantity. Greek tragedy, epic, and most of Greek historiography were not. Dimitri Gutas argues that the selection followed the curriculum and the patronage of Abbasid elites, not a general rule of immediate practical utility and not a religious ban on literature. Indian philosophy left a much smaller mark on Arabic philosophy than Indian astronomy and arithmetic left on the exact sciences.
 
 ## Sources
 

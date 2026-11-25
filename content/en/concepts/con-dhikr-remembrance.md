@@ -25,7 +25,7 @@ In Sufi terminology, *dhikr* is the remembrance of God with the heart and the to
 
 ## Dhikr Among the Early Authorities
 
-Abu al-Qasim al-Qushayri (d. 465 AH/1072 CE), in *al-Risala*, regarded *dhikr* as the "banner of sainthood" (*manshur al-wilaya*): whoever is granted it has been given the banner, and whoever is deprived of it has been dismissed. He distinguished between the dhikr of the tongue and the dhikr of the heart, and explained that the true remembrancer is the one who forgets everything else. Abu Nasr al-Sarraj al-Tusi (d. 378 AH/988 CE), in *al-Luma' fi-l-tasawwuf* (The Flashes on Sufism), described the spiritual states that accompany this practice. As for al-Ghazali (d. 505 AH/1111 CE), he devoted the book "Invocations and Supplications" in *Ihya' 'ulum al-din* to the etiquette of dhikr and of litanies. Kojiro Nakamura translated it into English under the title *Invocations and Supplications* (1990).
+Abu al-Qasim al-Qushayri (d. 465 AH/1072 CE), in the chapter on dhikr in *al-Risala al-Qushayriyya* (completed 437–438 AH / 1045–1046 CE), distinguishes remembrance by the tongue from remembrance by the heart. On his account the real remembrancer is the one in whose heart nothing remains alongside God. The later saying that dhikr is the patent of sainthood (*manshur al-wilaya*) — whoever is given it is joined, and whoever is refused it is dismissed — is Ibn al-Qayyim's (d. 751 AH/1350 CE), in *al-Wabil al-sayyib*, not al-Qushayri's. Abu Nasr al-Sarraj (d. 378 AH/988 CE), in *Kitab al-Luma' fi al-tasawwuf*, records the states that early authorities attached to the practice. Al-Ghazali (d. 505 AH/1111 CE) devoted Book 9 of the first quarter of *Ihya' 'ulum al-din*, "Invocations and Supplications" (*Kitab al-adhkar wa-l-da'awat*), to the etiquette of dhikr and of litanies. Kojiro Nakamura translated that book as *Invocations and Supplications* (1990).
 
 ## Muraqaba (Watchfulness)
 
@@ -33,11 +33,11 @@ Abu al-Qasim al-Qushayri (d. 465 AH/1072 CE), in *al-Risala*, regarded *dhikr* a
 
 ## Dhikr in the Orders
 
-The Sufi orders made dhikr a system. The Qadiriyya and the Shadhiliyya recite formulas including "There is no god but God" and the single divine Name "Allah". In the Shadhiliyya, Ibn 'Ata' Allah al-Iskandari (d. 709 AH/1309 CE) wrote *Miftah al-falah wa-misbah al-arwah fi dhikr Allah al-Karim al-Fattah* (The Key to Salvation and the Lamp of Spirits in the Remembrance of the Generous, the Opener), which Mary Ann Koury Danner translated as *The Key to Salvation* (1996). In it he holds that dhikr is a safeguard against heedlessness. Some orders practise collective dhikr in the *hadra*, accompanied by chanting and movement, and the Mawlawiyya developed the *sama'* ceremony, while other orders are limited to silent dhikr.
+The Sufi orders made dhikr a taught discipline. The Qadiriyya and the Shadhiliyya recite formulas including "There is no god but God" and the single Name "Allah". In the Shadhili line, Ibn 'Ata' Allah al-Iskandari (d. 709 AH/1309 CE) wrote *Miftah al-falah wa-misbah al-arwah* (The Key to Salvation and the Lamp of Spirits), which Mary Ann Koury Danner translated as *The Key to Salvation* (1996). He presents dhikr as a safeguard against heedlessness. Some orders practise collective dhikr in the *hadra*, with chanting and movement. The Mawlawiyya developed the *sama'* ceremony. The Naqshbandiyya are known for silent dhikr (*dhikr khafi*).
 
 ## The Jurisprudential Debate
 
-Scholars regarded dhikr as a foundational practice and disagreed about its formulas and its form. Ibn Taymiyya, in *Majmu' al-fatawa*, criticized gatherings for dhikr held in particular forms and accompanied by dancing and listening (*sama'*). Al-Suyuti, by contrast, defended them in *Nata'ij al-fikr fi-l-jahr bi-l-dhikr* (The Results of Thought on Reciting Dhikr Aloud). The entry "dhikr" in the *Encyclopaedia of Islam* (second edition), by Louis Gardet, catalogues the types of this practice.
+Jurists treated dhikr as a basic act of worship and disagreed about its formulas and its public form. Ibn Taymiyya (d. 728 AH/1328 CE), in materials gathered in *Majmu' al-fatawa*, criticized gatherings that combined a prescribed formula with dancing and *sama'*. Jalal al-Din al-Suyuti (d. 911 AH/1505 CE) defended audible group dhikr in *Natijat al-fikr fi al-jahr bi-l-dhikr* (The Result of Reflection on Reciting Dhikr Aloud). Louis Gardet's article "Dhikr" in the second edition of the *Encyclopaedia of Islam* sorts the main types of the practice.
 
 ## Limits of Use
 
@@ -47,6 +47,8 @@ Dhikr cannot be confined to the Sufis, since it is a general act of worship in t
 
 - Abu al-Qasim al-Qushayri, *al-Risala al-Qushayriyya*, trans. Alexander Knysh as *Al-Qushayri's Epistle on Sufism*. Reading: Garnet Publishing, 2007.
 - Abu Nasr al-Sarraj al-Tusi, *al-Luma' fi-l-tasawwuf* (Kitab al-Luma'), ed. R. A. Nicholson. Leiden: Brill, 1914.
-- Al-Ghazali, *Invocations and Supplications* (Book IX of *Ihya' ulum al-din*), trans. K. Nakamura. Cambridge: Islamic Texts Society, 1990.
-- Ibn 'Ata' Allah, *The Key to Salvation*, trans. Mary Ann Koury Danner. Cambridge: Islamic Texts Society, 1996.
-- L. Gardet, "Dhikr," in *Encyclopaedia of Islam*, 2nd ed., vol. 2. Leiden: Brill, 1965.
+- al-Ghazali. *Invocations and Supplications* (Book IX of *Ihya' 'ulum al-din*). Translated by Kojiro Nakamura. Cambridge: Islamic Texts Society, 1990.
+- al-Suyuti, Jalal al-Din. *The Remembrance of God: The Outcome of Contemplation over Loud Dhikr*. Translated by Sajeda Maryam Poswal. Revised by Gibril Fouad Haddad. Bristol: Amal Press, 2008.
+- Gardet, Louis. "Dhikr." In *Encyclopaedia of Islam*, 2nd ed., vol. 2. Leiden: Brill, 1965.
+- Ibn 'Ata' Allah. *The Key to Salvation: A Sufi Manual of Invocation*. Translated by Mary Ann Koury Danner. Cambridge: Islamic Texts Society, 1996.
+- Ibn Qayyim al-Jawziyya. *The Invocation of God (Al-Wabil al-Sayyib)*. Translated by Michael Abdurrahman Fitzgerald and Moulay Youssef Slitine. Cambridge: Islamic Texts Society, 2000.

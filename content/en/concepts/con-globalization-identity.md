@@ -21,32 +21,33 @@ gaps: []
 
 # Globalization & Identity
 
-The term "globalization" (*'awlama*) spread in Arabic writing from the early 1990s. This coincided with the Gulf War, the end of the Cold War, and the rise of satellite television and the internet. Arab thinkers posed an old question in a new form: does globalization erase cultural identity, or reshape it?
+## Definition
 
-## Three Readings
+The debate over globalization (*al-'awlama*) and cultural identity (*al-hawiyya al-thaqafiyya*) became a central axis of Arab intellectual production during the 1990s. Triggered by the end of the Cold War, the 1991 Gulf War, the expansion of transnational satellite broadcasting, and the emergence of the internet, Arab thinkers examined whether global economic integration and cultural flows constituted a threat to indigenous identity or an opportunity for critical modernization.
 
-Muhammad Abid al-Jabiri, in *al-'Awlama wa-l-Hawiya al-Thaqafiyya: 'Ashr Utruhat* (Globalization and Cultural Identity: Ten Theses), argued that globalization is a system that seeks to entrench American hegemony by economic and cultural means, penetrating identity through marketing and consumption. He countered that globalization is a system, whereas universality (*al-kawniyya*) is a legitimate human aspiration, and that resistance lies in building the self rather than in closing off. This was published in *Qadaya fi al-Fikr al-Mu'asir* (1997). Samir Amin, in *Eurocentrism* (French edition 1988), argued that global capitalism generates a culture that claims universality while in reality being centred on Europe. He called for "delinking" from the central system rather than dependence on it. As for Hassan Hanafi, he continued his critique of the West within the framework of the "science of Occidentalism" (*'ilm al-istighrab*).
+## Major Theoretical Approaches
 
-## The Clash of Civilizations
+- **Muhammad 'Abid al-Jabiri**: In "Globalization and Cultural Identity: Ten Theses," presented in the 1997 Centre for Arab Unity Studies symposium and printed in *al-Mustaqbal al-'Arabi* (February 1998), the Moroccan philosopher distinguished **globalization** (*al-'awlama*) from **universalism** (*al-kawniyya*). Universalism, he argued, is an open human ideal based on plural dialogue. Globalization, by contrast, was for him an ideological project that generalizes American neoliberal capitalism and consumer culture and weakens national sovereignty and cultural specificity. A related chapter, "Globalization: A System and an Ideology," appears in *Qadaya fi al-Fikr al-Mu'asir* (1997). He held that a serious response was neither closure nor imitation, but a critical renewal of the Arab-Islamic intellectual tradition (*al-turath*).
+- **Samir Amin and Delinking**: The Egyptian Marxist political economist Samir Amin analyzed globalization through dependency theory and unequal exchange. In *Eurocentrism* (French 1988; English 1989) he argued that global capitalism presents a European provincialism as universal reason and structurally polarizes center and periphery. The proposal he called *déconnexion* (delinking) is set out in *Delinking: Towards a Polycentric World* (1990; French *La déconnexion*): peripheral societies should subordinate external economic relations to priorities chosen at home. He distinguished that subordination from autarky.
+- **Hassan Hanafi and Occidentalism**: Egyptian philosopher Hassan Hanafi proposed inverted cultural inquiry in *Muqaddima fi 'Ilm al-Istighrab* (Introduction to the Science of Occidentalism, 1991). Hanafi argued that just as European Orientalism transformed the East into an object of knowledge, Arab-Islamic thought must transform Western civilization into an object of critical study, transforming the Arab intellectual from a passive consumer of Western theories into an autonomous philosophical subject.
 
-Samuel Huntington's article "The Clash of Civilizations?" in *Foreign Affairs* (1993), and then his book (1996), provoked wide debate among Arabs. Many saw it as a justification for a new hostility after the Cold War. Among them was Edward Said, who replied in *The Clash of Ignorance* (2001). Many Arab thinkers countered with calls for a "dialogue of civilizations" instead of confrontation.
+## The "Clash of Civilizations" and Arab Responses
 
-## Contemporary Identity between Market and Politics
+Samuel P. Huntington's "The Clash of Civilizations?" (*Foreign Affairs*, 1993), and the 1996 book that followed, argued that post–Cold War conflict would run chiefly along civilizational lines, and that Islamic and Western political values diverge in basic ways. Arab intellectuals widely criticized the thesis as a warrant for Western intervention. Edward Said's "The Clash of Ignorance" (*The Nation*, 22 October 2001) argued that civilizations are internally contested and historically mixed, not sealed blocs. In response, Arab academics and multilateral institutions advanced the counter-framework of the "Dialogue of Civilizations."
 
-Benjamin Barber, in *Jihad vs. McWorld* (1995), linked fundamentalism and consumerist globalization as two faces of one phenomenon. The idea found resonance among some Arab scholars in explaining the rise of Islamist movements. Arjun Appadurai, in *Modernity at Large* (1996), showed that flows of images, people and money produce mixed identities that do not accept regional definition. The Arab Human Development Report (2002) offered a diagnosis of the region's "deficit of knowledge," freedom and the status of women. It was issued by the United Nations Development Programme with Arab authors.
+## Media, Transnationalism, and Cultural Pluralism
 
-## Digital Communication
-
-Satellite channels and networks provided a space for a transnational Arab identity, but they also strengthened local and sectarian identities. Globalization did not produce a single pattern. The Gulf states took up investment in culture and global consumption, while others maintained restrictions, and opposition and resistance movements used it too.
-
-## Limits
-
-The Arab discourse on globalization is criticized for tending to centre on the idea of conspiracy and for minimizing the role of local actors. Moreover, the concepts of "authentic" (*asil*) and "foreign" (*dakhil*) carry an assumption that identity is fixed, while anthropological studies show that identities are constantly changing. This makes the answer to "protecting identity" closer to organizing a relationship with the world than to building a barrier.
+Pan-Arab satellite networks, notably Al Jazeera (launched in 1996), and digital media complicated simple models of cultural invasion. Arjun Appadurai's *Modernity at Large* (1996) described global cultural flows as disjunctive rather than as a single invasion. Arab discussions of hybridity (*tahjin*) used that kind of account for a transnational public sphere in which regional politics, religious argument, and language were negotiated alongside consumer habits. The UNDP *Arab Human Development Report 2002* named three deficits: freedom, women's empowerment, and knowledge. The 2003 report, *Building a Knowledge Society*, developed the third of these.
 
 ## Sources
 
-- Muhammad Abid al-Jabiri. *Qadaya fi al-Fikr al-Mu'asir: al-'Awlama, Sira' al-Hadarat, al-'Awda ila al-Akhlaq, al-Tasamuh, al-Dimuqratiyya wa-Nizam al-Qiyam, al-Fikr al-Falsafi fi al-Gharb* (Issues in Contemporary Thought: Globalization, Clash of Civilizations, Return to Ethics, Tolerance, Democracy and the System of Values, Philosophical Thought in the West). Beirut: Markaz Dirasat al-Wahda al-Arabiyya, 1997.
-- Samir Amin, *Eurocentrism*. New York: Monthly Review Press, 1989.
-- Samuel P. Huntington, "The Clash of Civilizations?" *Foreign Affairs* 72, no. 3 (1993).
-- Arjun Appadurai, *Modernity at Large: Cultural Dimensions of Globalization*. Minneapolis: University of Minnesota Press, 1996.
-- United Nations Development Programme, *Arab Human Development Report 2002: Creating Opportunities for Future Generations*. New York: UNDP Regional Bureau for Arab States, 2002.
+- Jabiri, Muhammad 'Abid al-. "Al-'Awlama wa-l-Hawiyya al-Thaqafiyya: 'Ashr Utruhat." *al-Mustaqbal al-'Arabi* 20, no. 228 (February 1998).
+- Jabiri, Muhammad 'Abid al-. *Qadaya fi al-Fikr al-Mu'asir*. Beirut: Markaz Dirasat al-Wahda al-'Arabiyya, 1997.
+- Amin, Samir. *Eurocentrism*. Translated by Russell Moore. New York: Monthly Review Press, 1989.
+- Amin, Samir. *Delinking: Towards a Polycentric World*. Translated by Michael Wolfers. London: Zed Books, 1990.
+- Hanafi, Hassan. *Muqaddima fi 'Ilm al-Istighrab*. Cairo: al-Dar al-Fanniyya, 1991.
+- Said, Edward W. "The Clash of Ignorance." *The Nation*, October 22, 2001.
+- Appadurai, Arjun. *Modernity at Large: Cultural Dimensions of Globalization*. Minneapolis: University of Minnesota Press, 1996.
+- Huntington, Samuel P. "The Clash of Civilizations?" *Foreign Affairs* 72, no. 3 (1993): 22–49.
+- United Nations Development Programme. *Arab Human Development Report 2002: Creating Opportunities for Future Generations*. New York: UNDP, 2002.
+- United Nations Development Programme. *Arab Human Development Report 2003: Building a Knowledge Society*. New York: UNDP, 2003.

@@ -20,33 +20,36 @@ gaps: []
 
 # Postcolonial Arab Feminism
 
-## Definition
+Postcolonial Arab feminism is a critical intellectual and political current that crystallized during the 1970s and 1980s, articulating an indigenous emancipatory discourse that operates on two interrelated fronts: dismantling internal patriarchal structures within Arab-Islamic societies, and deconstructing Western imperialist and orientalist representations of Arab and Muslim women. Differentiating itself from Western liberal feminism, postcolonial Arab feminism rejects the universalization of Eurocentric gender models. It contends that patriarchy, colonialism, capitalism, and state authoritarianism constitute interlocking matrices of domination that must be interrogated simultaneously rather than sequentially.
 
-A current of Arab feminism that emerged in the late 1960s and took theoretical shape in the 1970s and 1980s. It combines a critique of **local patriarchal structures** with a critique of **the colonial and orientalist legacy**, which used the question of "liberating the Eastern woman" to justify Western domination of the Arab and Islamic world. This current differs from Western liberal feminism in refusing to import a single liberatory model, and in insisting that **colonialism and patriarchy are interlocking systems** that must be confronted together rather than one after the other.
+## The Dual Front: Decentering Imperialism and Patriarchal Hegemony
 
-## Origins and Context
+The intellectual architecture of postcolonial Arab feminism was profoundly influenced by the anti-colonial critique of discourse pioneered by Edward W. Said and Frantz Fanon, adapting their insights to gender analysis:
+- **Critique of "Colonial Feminism"**: In *Women and Gender in Islam* (1992), the Egyptian-American historian Leila Ahmed analyzed what she called "colonial feminism." She argued that British administrators in occupied Egypt, Lord Cromer among them, used the veil (*hijab*) and the status of women to justify colonial rule, while Cromer opposed women's suffrage in Britain. Ahmed's point is that this rhetoric pressed Egyptian debate toward a choice between defensive apology for custom and imitation of a colonial model of emancipation.
+- **Dismantling the Orientalist Gaze**: Anthropologist Lila Abu-Lughod advanced this critique in her influential article "Do Muslim Women Really Need Saving?" (2002) and her subsequent 2013 book, arguing that Western humanitarian interventions frequently deploy the trope of "saving brown women" to legitimize geopolitical and military excursions, substituting moral paternalism for genuine engagement with local women's political agency.
 
-The theoretical framework of Edward Said in *Orientalism* (1978) is an important background to this current. Said showed how colonial discourse used the image of the "oppressed Eastern woman" to justify intervention. This critique called for a double position from Arab feminists: rejecting local patriarchy on one side, and rejecting the use of the women's question as a colonial instrument on the other.
+## Major Thinkers and Theoretical Contributions
 
-## Principal Figures
+- **Nawal El Saadawi (1931–2021)**: An Egyptian physician, novelist, and activist, El Saadawi combined clinical analysis with radical structural critique. In foundational texts such as *Al-Mar'a wa-l-jins* (*Women and Sex*, 1972) and *Al-Wajh al-'ari li-l-mar'a al-'Arabiyya* (*The Hidden Face of Eve*, 1977), she attacked female genital mutilation (FGM), virginity cults, and sexual violence. She linked local gender oppression to class exploitation, authoritarian rule, imperialism, and what she regarded as religious patriarchy, and she treated women's emancipation as inseparable from that wider social critique.
+- **Fatima Mernissi (1940–2015)**: A Moroccan sociologist, Mernissi wrote both sociological studies of gender and critical readings of Islamic sources. *Beyond the Veil* (1975) analyzes male-female dynamics in a Moroccan setting. In *Le harem politique* (1987; English *The Veil and the Male Elite*), she reexamined hadith reports used to restrict women's public authority, including the report that a people who appoint a woman as their ruler will not prosper, and argued that some such reports were put to work in political conflict. Her hadith criticism is contested. In *Sultanes oubliées* (1990; *The Forgotten Queens of Islam*), she assembled evidence for Muslim women who held sovereign or near-sovereign power.
+- **Islamic Feminist Hermeneutics**: A related, and not specifically Arab, current rereads the Qur'an against patriarchal jurisprudence. The Pakistani-American scholar Asma Barlas, in *"Believing Women" in Islam* (2002), distinguishes the Qur'anic text from the male juristic tradition (*fiqh*) that, in her argument, turned social patriarchy into law. Her work is widely read beside Arab and Maghrebi feminist writing. It is not itself an Arab source.
 
-- **Nawal El Saadawi** (Egypt, 1931–2021): a physician and writer who combined a medical-social critique (in her book *al-Mar'a wa-l-Jins* (*Women and Sex*), and her analysis of female genital mutilation) with a comprehensive political critique linking patriarchy with capitalism, neocolonialism and religious fundamentalism together. She held that real liberation requires confronting all these systems at once, rather than being satisfied with individual legal rights.
-- **Fatima Mernissi** (Morocco, 1940–2015): in her books *The Veil and the Male Elite* (French *Le harem politique*, 1987), *The Forgotten Queens of Islam* (1990) and her memoir *Dreams of Trespass* (1994), she worked to dismantle stereotyped orientalist images of the "harem" from within, recovering a hidden history of Muslim women who ruled and exercised political influence.
-- **Leila Ahmed** (Egypt/United States): in her book *Women and Gender in Islam* (1992), she traced how "colonial feminism" made the veil and the status of Muslim women a pretext for colonial domination, and distinguished between an ethical strand and an institutional, authoritative strand within Islamic tradition.
-- **Shared rejection of "Western rescue"**: despite its internal diversity, this current agrees in criticising the discourse of "rescuing the Muslim woman" (a theme later developed by the anthropologist Lila Abu-Lughod) as a political instrument rather than a genuine liberatory solution.
+## Tensions, Debates, and Enduring Influence
 
-## Impact
+Postcolonial Arab feminism encompasses significant internal debates:
+- **Secular critique and religious rereading**: El Saadawi treated religious institutions, with class and imperial power, as part of the structure of women's oppression. Mernissi and Barlas, in different ways, argued that texts and histories inside the tradition could be read against patriarchal monopoly. The contrast is real, and it is not a clean partition of "secular" against "Islamic": Mernissi worked as a sociologist and as a critic of hadith.
+- **Language and class**: Critics have asked whether academic feminism written mainly in English and French loses touch with women whose immediate struggles are wages, literacy, and health under authoritarian rule.
 
-This school influenced contemporary Arab feminist movements, and academic studies of both Islamic and secular feminism. It helped establish a two-directional critical approach that has become a standard in gender studies in the Arab world: criticism of local authority and criticism of orientalism together, without sacrificing one for the other.
-
-## Limitations
-
-This current has faced criticism from within over its **elitism**: educated women from the middle and upper classes who often write in foreign languages for an academic Western audience. There is also a continuing tension between its secular and Islamic branches over the very source of liberatory legitimacy.
+These disagreements have not produced a single doctrine. The body of work is a major reference for gender studies in the Middle East and North Africa, used both against local patriarchal control and against external claims to speak for Muslim women.
 
 ## Sources
 
-- Nawal El Saadawi, *The Hidden Face of Eve: Women in the Arab World* (London: Zed Books, 1980; Arabic original *al-Wajh al-'Ari li-l-Mar'a al-'Arabiyya*, 1977).
-- Fatima Mernissi, *Dreams of Trespass: Tales of a Harem Girlhood* (Addison-Wesley, 1994).
-- Leila Ahmed, *Women and Gender in Islam: Historical Roots of a Modern Debate* (Yale University Press, 1992).
-- Lila Abu-Lughod, *Do Muslim Women Need Saving?* Cambridge, MA: Harvard University Press, 2013.
-- Amal Amireh, "Framing Nawal El Saadawi: Arab Feminism in a Transnational World," *Signs* 26, no. 1 (2000).
+- Abu-Lughod, Lila. "Do Muslim Women Really Need Saving? Anthropological Reflections on Cultural Relativism and Its Others." *American Anthropologist* 104, no. 3 (2002): 783–790.
+- Abu-Lughod, Lila. *Do Muslim Women Need Saving?* Cambridge, MA: Harvard University Press, 2013.
+- Ahmed, Leila. *Women and Gender in Islam: Historical Roots of a Modern Debate*. New Haven: Yale University Press, 1992.
+- Barlas, Asma. *"Believing Women" in Islam: Unreading Patriarchal Interpretations of the Qur'an*. Austin: University of Texas Press, 2002.
+- El Saadawi, Nawal. *Al-Mar'a wa-l-jins* [Woman and Sex]. Cairo, 1972.
+- El Saadawi, Nawal. *The Hidden Face of Eve: Women in the Arab World*. Translated by Sherif Hetata. London: Zed Books, 1980. Arabic: *Al-Wajh al-'ari li-l-mar'a al-'Arabiyya*, 1977.
+- Mernissi, Fatima. *Beyond the Veil: Male-Female Dynamics in a Modern Muslim Society*. Cambridge, MA: Schenkman, 1975.
+- Mernissi, Fatima. *Le harem politique: Le Prophète et les femmes*. Paris: Albin Michel, 1987. English: *The Veil and the Male Elite*. Translated by Mary Jo Lakeland. Reading, MA: Addison-Wesley, 1991.
+- Mernissi, Fatima. *Sultanes oubliées: Femmes chefs d'État en Islam*. Paris: Albin Michel, 1990.

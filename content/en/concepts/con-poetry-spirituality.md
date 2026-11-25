@@ -22,32 +22,29 @@ gaps: []
 
 # Poetry & Sufi Spirituality
 
-Sufis took poetry as their language for what is difficult for prose and for scientific expression, and because it is suited to chanting in the assemblies of listening (*sama'*). In Arabic this tradition begins with verses attributed to Rabi'a al-'Adawiyya (traditionally d. 185 AH / 801 CE) on divine love, such as her line "I love You with two loves: a love of longing, and a love because You are worthy of it", and it extends to al-Hallaj, Ibn al-Farid, Ibn 'Arabi, al-Shushtari and al-Busiri.
+Poetry and Sufi spirituality represent an intimate convergence in Arabic literary and religious history, wherein verse became the principal medium for expressing ineffable mystical states (*ahwal*), spiritual stations (*maqamat*), and the paradoxes of divine love (*'ishq ilahi*). Where didactic and discursive prose encountered epistemological boundaries, Sufi masters deployed lyricism, metaphor, and allegorical symbols—such as wine, the beloved, intoxication, and dissolution—to articulate experiential knowledge (*ma'rifa*) and to facilitate spiritual audition (*sama'*) within mystical gatherings.
 
-## Al-Hallaj and al-Niffari
+## Historical Evolution of Mystical Verse
 
-Al-Husayn ibn Mansur al-Hallaj (d. 309 AH / 922 CE) composed verses on union and indwelling attributed to him, which Massignon collected in *Diwan al-Hallaj* (1931). As for Muhammad ibn 'Abd al-Jabbar al-Niffari (d. c. 354 AH / 965 CE), he wrote *al-Mawaqif wa-l-Mukhatabat* (*The Stations and the Addresses*) in fragmented poetic prose, in the form "He made me stand and said to me", which Arberry edited (1935). It is a text that goes beyond the classification between prose and poetry, and Adonis read it as a model of Sufi writing that breaks the logic of ordinary language.
+The development of Arabic mystical poetry spans several distinct aesthetic and doctrinal phases:
+- **Early Asceticism and Disinterested Love**: In eighth-century Basra, renunciant piety (*zuhd*) was not only fear of punishment and hope of reward. Verses later attributed to Rabi'a al-'Adawiyya (d. 185 AH / 801 CE) distinguish a love that seeks one's own good from a love of God because God is worthy of love. The lines are not a contemporary record. They became a classical statement of disinterested divine love in Sufi memory.
+- **Ecstatic Paradox and Visionary Prose**: In ninth- and tenth-century Baghdad, al-Husayn ibn Mansur al-Hallaj (executed 309 AH / 922 CE) is credited with lyric verse on the annihilation of the self (*fana'*) and unitive intimacy. Louis Massignon reconstructed a *Diwan* from the scattered quotations. Muhammad ibn 'Abd al-Jabbar al-Niffari (fl. fourth/tenth century; a death date of 354 AH / 965 CE is reported but uncertain) is the author to whom *Kitab al-Mawaqif* and *Kitab al-Mukhatabat* are ascribed. A. J. Arberry edited and translated them in 1935. The books are short inspired addresses, and the medieval commentator 'Afif al-Din al-Tilimsani reports that a son or grandson gathered the scattered papers. They are not an authored treatise in ordinary prose.
+- **The Golden Age of Mystical Allegory**: The thirteenth century witnessed the theoretical and aesthetic summit of Sufi poetry:
+  - **Ibn al-Farid (576–632 AH / 1181–1235 CE)**: Revered as *Sultan al-'Ashiqin* ("Sultan of Lovers"), the Cairo-born poet composed the celebrated *Khamriyya* ("Wine Ode"), in which pre-existential wine serves as the archetype of primordial divine remembrance, and *Nazm al-suluk* (the "Poem of the Sufi Way", known as the Great *Ta'iyya*). As Th. Emil Homerin examined in *From Arab Poet to Muslim Saint* (1994), commentators interpreted his complex polysemic imagery through the lens of unitive mysticism.
+  - **Ibn 'Arabi (560–638 AH / 1165–1240 CE)**: During his years in Mecca, around 611 AH / 1214–1215 CE, the Andalusian master composed *Tarjuman al-ashwaq* (*The Interpreter of Desires*, edited and translated by R. A. Nicholson in 1911), inspired by Nizam, the learned daughter of an Isfahani scholar resident in Mecca. After critics in Aleppo read the poems as sensual verse, Ibn 'Arabi wrote a commentary, *Dhakha'ir al-a'laq*, in which he glossed the motifs—encampments, tresses, gazelles, tears—as stations of divine manifestation (*tajalli*). The commentary is his own reading of the poems, not an independent proof of a single hidden sense.
+- **Vernacular Devotion and Panegyric**: In Andalusia and the Maghreb, Abu al-Hasan al-Shushtari (d. 668 AH / 1269 CE) adapted strophic forms (*muwashshahat* and colloquial *azjal*) to bring mystical chanting into communal *dhikr* circles. Contemporaneously, Sharaf al-Din al-Busiri (d. c. 695 AH / 1296 CE) composed the monumental prophetic panegyric *Qasidat al-Burda* (*The Mantle Ode*), which became one of the most widely recited devotional texts across the Muslim world.
 
-## Ibn al-Farid: The Ta'iyya and the Khamriyya
+## Critical Debates and Modern Receptions
 
-'Umar ibn al-Farid (d. 632 AH / 1235 CE) is the author of *Nazm al-Suluk* (the Great *Ta'iyya*) and the wine ode "We drank, in remembrance of the Beloved, a wine", in which wine symbolises divine manifestation. Th. Emil Homerin studied his poetry, his shrine and his transformation into a saint in *From Arab Poet to Muslim Saint* (1994), showing how commentators read his poetry through the interpretation of the unity of being, and how critics such as Ibn Taymiyya rejected it.
-
-## Ibn 'Arabi: Tarjuman al-Ashwaq
-
-Ibn 'Arabi (d. 638 AH / 1240 CE) wrote his divan *Tarjuman al-Ashwaq* (*The Interpreter of Desires*) in Mecca around 611 AH / 1214 CE, influenced by the poetry of Nizam, the daughter of a shaykh from Isfahan. He later explained it himself with a Sufi commentary to defend himself against the charge of sensual love poetry. Nicholson published an edition with translation (1911). From then on, sensual love in the Sufi tradition became a complex symbol read on two levels.
-
-## Popular Religious Poetry
-
-The examples also include panegyrics of the Prophet such as the *Burda* of al-Busiri (d. c. 695 AH / 1296 CE), which entered the litanies of the Sufi orders, and the *azjal* (vernacular strophic poems) of Abu al-Hasan al-Shushtari (d. 668 AH / 1269 CE), the Andalusian, which were chanted in circles of remembrance (*dhikr*). In the modern period, Adonis examined this inheritance in *Sufism and Surrealism* (1992), comparing the liberation of Sufi language from logic with surrealist writing, and seeing in the former an ancient modernity.
-
-## Critical Reading
-
-Researchers disagree on how to interpret this poetry. Is the love in it undoubtedly divine, or does the symbol open both readings at once? Jurists criticised it for its vocabulary of wine and passion, and some rejected the practice of *sama'*. On another side, Michael Sells, in *Early Islamic Mysticism* (1996), provides translations that show the gradual development of this language, although translation loses the rhythm and the paronomasia.
+Erotic and bacchic imagery drew repeated censure. Ibn al-Jawzi, in *Talbis Iblis*, attacked Sufi audition (*sama'*) and what he took to be confusion of divine love with sensual passion. Ibn Taymiyya criticized some Sufi practice, including forms of *sama'*, and rejected the monistic reading of Ibn 'Arabi associated with *wahdat al-wujud*. He did not treat every Sufi poem as illicit. Modern Arab critics have also reread the classical corpus as an aesthetic resource. In *al-Sufiyya wa-l-suryaliyya* (Beirut: Dar al-Saqi, 1995; English *Sufism and Surrealism*, 2005), the poet Adonis argued that Sufi visionary writing broke ordinary linguistic habit and shared features with later surrealism. That is his critical thesis, not a historical claim that classical Sufis were modernists.
 
 ## Sources
 
-- Ibn 'Arabi, *Tarjuman al-Ashwaq*, ed. and trans. R. A. Nicholson. London: Royal Asiatic Society, 1911.
-- Abu 'Abd Allah al-Niffari, *al-Mawaqif wa-l-Mukhatabat*, ed. A. J. Arberry. London: Luzac, 1935.
-- Adonis, *al-Sufiyya wa-l-Surrealiyya* (*Sufism and Surrealism*). Beirut: Dar al-Saqi, 1992.
-- Th. Emil Homerin, *From Arab Poet to Muslim Saint: Ibn al-Fāriḍ, His Verse, and His Shrine*. Columbia: University of South Carolina Press, 1994.
-- Michael Sells, *Early Islamic Mysticism*. New York: Paulist Press, 1996.
+- Adonis. *Sufism and Surrealism*. Translated by Judith Cumberbatch. London: Saqi Books, 2005. Arabic original: *al-Sufiyya wa-l-suryaliyya*. Beirut: Dar al-Saqi, 1995.
+- Ibn al-Jawzi. *Talbis Iblis*. Cairo: Idarat al-Tiba'a al-Muniriyya.
+- Massignon, Louis, ed. "Le Dîwân d'al-Hallâj." *Journal Asiatique* 218 (1931).
+- Homerin, Th. Emil. *From Arab Poet to Muslim Saint: Ibn al-Fāriḍ, His Verse, and His Shrine*. Columbia: University of South Carolina Press, 1994.
+- Ibn 'Arabi. *The Tarjumán al-Ashwáq: A Collection of Mystical Odes*. Edited and translated by Reynold A. Nicholson. London: Royal Asiatic Society, 1911.
+- al-Niffari, Muhammad ibn 'Abd al-Jabbar. *The Mawaqif and Mukhatabat of Muhammad ibn 'Abdi 'l-Jabbar al-Niffari*. Edited and translated by A. J. Arberry. London: Luzac, 1935.
+- Schimmel, Annemarie. *Mystical Dimensions of Islam*. Chapel Hill: University of North Carolina Press, 1975.
+- Sells, Michael A. *Early Islamic Mysticism: Sufi, Qur'an, Mi'raj, Poetic and Theological Texts*. New York: Paulist Press, 1996.

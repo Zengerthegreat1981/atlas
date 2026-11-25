@@ -21,32 +21,36 @@ gaps: []
 
 # Fana' & Annihilation
 
-In Sufism, *fana'* is the falling away of blameworthy attributes, followed by the servant's absence from awareness of himself and his immersion in witnessing the Real. Its counterpart is *baqa'*, the servant's subsistence in God after *fana'*. The basis for this is the Quranic verse: "All who are upon it will perish, but there will remain the Face of your Lord, Owner of Majesty and Honor" (Q. 55:26–27).
+## Definition
 
-## The Early Figures: al-Junayd and Abu Yazid
+In classical Sufism (*tasawwuf*), ***fana'*** denotes the passing away or mystical annihilation of the individual self, its blameworthy qualities, and its creaturely consciousness in the contemplation of the Divine (*al-Haqq*). It is intrinsically paired with ***baqa'*** (abiding or spiritual subsistence in God), which represents the reintegration of the mystic into the world following the unitive experience. Sufi exegetes ground the concept in the Quranic verse: "All that is upon the earth will pass away, and there will remain the Face of your Lord, Possessor of Glory and Honor" (Q. 55:26–27).
 
-Abu Yazid al-Bistami (d. c. 261 AH/875 CE) is credited with ecstatic sayings that express the state of *fana'*, such as "Glory be to me, how great is my majesty!" 'Abd al-Rahman Badawi collected these sayings in *Shaṭaḥāt al-Ṣūfiyya* (1949). R. C. Zaehner studied Abu Yazid in *Hindu and Muslim Mysticism* (1960), analyzing the relation of his *fana'* to *tawhid*. As for al-Junayd al-Baghdadi (d. 298 AH/910 CE), he formulated the state in his epistles in a "sober" (*sahiya*) manner. He did not remain in *fana'* but returned to sobriety (*sahw*), and he held that *fana'* ends with a return to the Sharia and with *baqa'* in God. Ali Hassan Abdel-Kader edited and studied them (1962).
+## The Early Formulations: Intoxication and Sobriety
 
-## Degrees according to al-Qushayri and al-Hujwiri
+During the formative third century AH (ninth century CE), two major currents emerged regarding ecstatic experience:
+- **Intoxication (*sukr*) and Theopathic Locutions (*shatahat*)**: Abu Yazid al-Bistami (d. c. 261 AH / 874–875 CE) articulated states of complete self-obliteration through bold paradoxes, such as "Glory be to me, how great is my majesty!" The locution is preserved in classical Sufi reports; modern collections include 'Abd al-Rahman Badawi's *Shatahat al-Sufiyya*. In Bistami's thought, *fana'* represents an intense stripping away of egoic individuality (*al-tajrid*), wherein the divine subject speaks through the empty vessel of the mystic.
+- **Sobriety (*sahw*) and Normative Integration**: Abu al-Qasim al-Junayd al-Baghdadi (d. 298 AH / 910 CE) refined the doctrine into a "sober" systematic framework. For Junayd, *fana'* is not the ultimate end of the spiritual path but a transitional phase that must culminate in *baqa'*, where the mystic returns to outward compliance with the divine law (*shari'a*) while maintaining inward immersion in the divine reality (*haqiqa*).
 
-In *al-Risala*, al-Qushayri explains *fana'* and *baqa'* by saying that *fana'* from blameworthy attributes is met by *baqa'* with praiseworthy attributes, and that the servant's *fana'* from himself and from creation occurs through what is revealed to him of the witnessing of the Real. Al-Hujwiri (d. c. 465 AH/1072 CE) did likewise in *Kashf al-Mahjub*, which Nicholson translated (1911), warning against the assumption that *fana'* means the union of the self with God.
+## Degrees and Typologies in Sufi Manuals
 
-## What Perishes and What Remains
+Later Sufi handbooks, going beyond the early manuals, distinguish several degrees of *fana'*:
+1. **Ethical Annihilation (*fana' 'an al-awsaaf al-dhamima*)**: The shedding of sinful desires and ego-driven motives, replaced by praiseworthy divine virtues (*baqa' bi-l-akhlaq al-hamida*).
+2. **Annihilation of Action (*fana' fi al-af'al*)**: Experiencing all actions in creation as manifestations of divine omnipotence, stripping oneself of claims to independent agency.
+3. **Annihilation of Consciousness (*fana' 'an al-shuhud*)**: The loss of awareness of the created world and of one's own awareness, termed *fana' al-fana'* (the annihilation of annihilation).
 
-Sufis distinguish between *fana'* from acts, from attributes and from the essence. The first is seeing all acts as belonging to God. The second is *takhalluq*, the ethical conformity to God's attributes. The third is absence from awareness of the self. Al-Ghazali, in *Ihya' 'Ulum al-Din*, made *fana'* in *tawhid* the highest of the degrees of *tawhid*, but warned against the doctrine of indwelling (*hulul*). In *Mishkat al-Anwar* he explained statements such as "I am the Truth" as uttered in the dominance of a state, not as a claim of union.
+Abu al-Qasim al-Qushayri (376–465 AH / 986–1072 CE) in *al-Risala* and Ali ibn 'Uthman al-Hujwiri (d. c. 465 AH / 1072–1077 CE) in *Kashf al-Mahjub* insisted that *fana'* involves neither physical destruction of the human substance nor pantheistic fusion (*ittihad*) or divine incarnation (*hulul*). Abu Hamid al-Ghazali (450–505 AH / 1058–1111 CE) in *Ihya' 'Ulum al-Din* and *Mishkat al-Anwar* explained the locutions of ecstatic mystics—such as al-Hallaj's "I am the Truth" (*ana al-Haqq*)—as optical and perceptual metaphors of absorption in light rather than literal ontological union.
 
-## The Disagreement over Fana'
+## Theological Critiques and Boundaries
 
-Ibn Taymiyya noted that legitimate *fana'* is *fana'* from the will for anything other than God, whereas *fana'* from witnessing anything other than God is an incidental occurrence that befalls some wayfarers and is not an aim. He held that the claim of the annihilation of existence itself is the doctrine of the *Ittihadiyya* (the unionists). This was in the context of his critique of Ibn 'Arabi and his followers. Louis Massignon, in *La Passion d'al-Hallaj* (1922), treated the case of al-Hallaj and his execution in 309 AH/922 CE as a test of the limits of this experience.
-
-## Limits of the Concept
-
-One should not fully compare Sufi *fana'* with the Buddhist concept of nirvana, as some orientalists have done. For al-Junayd, *fana'* is temporary and is followed by subsistence (*baqa'*) and obligation, and it does not cancel the duality of servant and Lord. The doctrine of the unity of being (*wahdat al-wujud*) is a different matter from the *fana'* of witnessing.
+The theological status of *fana'* generated intense debate. The trial and execution of al-Husayn ibn Mansur al-Hallaj in 309 AH / 922 CE (analyzed by Louis Massignon in *La Passion d'al-Hallaj*) marked a critical juncture in the public articulation of mystical experience. In later centuries, Taqi al-Din Ibn Taymiyya (661–728 AH / 1263–1328 CE) formulated a stringent theological critique, categorizing *fana'* into:
+- The permissible, normative *fana'*: the complete surrender of one's will to God's commands (*fana' 'an iradat ma siwa Allah*);
+- The ecstatic, deficient *fana'*: losing sensory awareness of external creation (*fana' 'an shuhud ma siwa Allah*), which he deemed an involuntary spiritual impairment;
+- The heretical *fana'*: the assertion that the existence of creatures is identical with the existence of the Creator (*fana' 'an wujud ma siwa Allah*), a position he condemned as monistic heresy.
 
 ## Sources
 
-- Abu al-Qasim al-Qushayri. *al-Risala al-Qushayriyya*. Translated by Alexander Knysh. Reading: Garnet Publishing, 2007.
-- 'Abd al-Rahman Badawi. *Shaṭaḥāt al-Ṣūfiyya*. Cairo: Maktabat al-Nahda al-Misriyya, 1949.
-- Ali Hassan Abdel-Kader, *The Life, Personality and Writings of al-Junayd*. London: Luzac, 1962.
-- R. C. Zaehner, *Hindu and Muslim Mysticism*. London: Athlone Press, 1960.
-- Louis Massignon, *La Passion d'al-Hallaj, martyr mystique de l'Islam*. Paris: Paul Geuthner, 1922.
+- Qushayri, Abu al-Qasim al-. *Al-Qushayri's Epistle on Sufism: al-Risala al-Qushayriyya fi 'Ilm al-Tasawwuf*. Translated by Alexander Knysh. Reading: Garnet Publishing, 2007.
+- Hujwiri, 'Ali ibn 'Uthman al-. *The Kashf al-Mahjub: The Oldest Persian Treatise on Sufism*. Translated by Reynold A. Nicholson. Leiden: E. J. Brill, 1911.
+- Abdel-Kader, Ali Hassan. *The Life, Personality and Writings of al-Junayd*. London: Luzac, 1962.
+- Badawi, 'Abd al-Rahman. *Shatahat al-Sufiyya*. Cairo: Maktabat al-Nahda al-Misriyya, 1949.
+- Massignon, Louis. *The Passion of al-Hallaj: Mystic and Martyr of Islam*. Translated by Herbert Mason. 4 vols. Princeton: Princeton University Press, 1982.

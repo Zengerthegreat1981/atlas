@@ -15,39 +15,43 @@ edges:
 related:
 - id: "sch-pre-islamic-arabian", title: "Pre-Islamic Arabian Thought", type: "مدرسة"
 - id: "con-oral-tradition-arabian", title: "Arabian Oral Tradition", type: "مفهوم"
-gaps:
-  - "Epigraphic evidence (South Arabian and Safaitic inscriptions): not yet covered"
+gaps: []
 ---
 
 # Pre-Islamic (Jahiliyyah) Cosmology
 
 ## Definition
 
-**Pre-Islamic (Jahiliyyah) cosmology** is the cosmic and religious outlook that prevailed in the Arabian Peninsula before Islam (the period later known to Muslims as the *Jahiliyya*, or "age of ignorance"). It rests on a mixture of **tribal polytheism** (the worship of local gods and idols), belief in intermediary beings such as the **jinn**, and a fatalistic conception of **time/fate (al-dahr)** as the hidden power that governs human destinies.
+**Pre-Islamic (Jahiliyyah) cosmology** denotes the cosmic, religious, and existential outlook that prevailed in the Arabian Peninsula before the emergence of Islam (the era known in Arabic historiography as the *Jahiliyya*). It rested on a mosaic of tribal polytheism (the veneration of local deities, stones, and sacred enclosures), belief in invisible spirit beings such as the **jinn**, and a fatalistic conception of **time and fate (*al-dahr*)** as the ultimate, impersonal force governing human mortality and fortune.
 
 ## Main Features
 
-- **Tribal gods and idols**: The Arabs of the Jahiliyya worshipped many gods, often associated with heavenly bodies and with functions of protection and fertility. The most prominent were the triad **al-Lat, al-'Uzza and Manat**, who were regarded as the "daughters of God" by some tribes, along with **Hubal** in the Kaaba at Mecca, which was a central religious site housing the idols of many tribes.
-- **The jinn**: Hidden beings believed to dwell in desolate places (deserts, abandoned wells), able to "possess" a person or an animal, causing madness or poetic inspiration. Poets and soothsayers were believed to draw their speech from "the devils of poetry" or from their jinn companions.
-- **The soothsayer and the diviner**: The *kahin* mediated between the human world and the world of spirits and ancestors, using rhymed prose and visions to foretell events and to settle tribal disputes. This was a central social and religious role, before it was later contested in the Islamic context, where the Qur'an distinguishes the Prophet from the soothsayer (e.g. Surat al-Tur and Surat al-Haqqa).
-- **Time and destiny**: A deep sense of "the vicissitudes of time" (*sarf al-dahr*) dominated Jahiliyya poetry. These are the turns of time that strike a person with death and loss without any clear moral justification. This fatalistic conception (fatalism) later collided with the Islamic notion of divine decree (*qadar*), which tied destiny to the will of one just and wise God.
+- **Tribal gods and sanctuaries**: Arabian tribes venerated diverse local and astral deities associated with protection, fertility, and warfare. Among the most widely attested was the female triad **al-Lat, al-'Uzza, and Manat**—revered across western and northern Arabia and mentioned in the Qur'an (Surat al-Najm 53:19–20)—alongside **Hubal**, whose statue stood inside or near the Ka'ba in Mecca, an ancient pilgrimage center housing tribal idols.
+- **The jinn**: Unseen spirits believed to inhabit desolate regions, abandoned ruins, and desert wilderness (*al-qafr*). They were thought capable of inspiring madness (*junun*), causing illness, or bestowing poetic and oracular eloquence. Pre-Islamic poets and soothsayers spoke of a familiar jinni (*ra'iyy* or *shaytan*) who prompted verse or oracles.
+- **Divination and the soothsayer**: The *kahin* (soothsayer) served as an intermediary between the human realm and spirit powers, uttering rhymed cadence (*saj'*) to decipher portents, foretell outcomes, and arbitrate inter-tribal disputes. The Qur'an systematically distinguishes the prophetic office from that of the *kahin* (e.g., Surat al-Tur 52:29 and Surat al-Haqqa 69:42).
+- **Time, destiny, and mortality**: Jahili poetry expresses a fatalistic consciousness of "the vicissitudes of time" (*sarf al-dahr* or *rayb al-manun*). Time was envisioned not as purposeful or redemptive, but as an inexorable cycle that wears away all mortal achievements and terminates in death without bodily resurrection (a perspective contested in Surat al-Jathiya 45:24). This existential outlook stood in contrast to the later Islamic concept of divine destiny (*qadar*) determined by a transcendent, just creator.
+
+## Epigraphic Evidence
+
+Epigraphic research has significantly refined the literary picture handed down by Abbasid-era Muslim compilations. In South Arabia, thousands of monumental inscriptions in Sabaic, Minaic, Qatabanic, and Hadramitic record an organized polytheistic pantheon centered on astral and communal patrons (such as Almaqah, 'Athtar, Sayin, and Wadd). By the late fourth century CE, the royal inscriptions of the Himyarite kingdom abandon polytheism in favor of *Rahmanan* ("the Merciful", Lord of Heaven and Earth), reflecting widespread Jewish and later Christian monotheistic presence. In northern and central Arabia, tens of thousands of Safaitic, Hismaic, and Nabataean-Arabic graffiti invoke deities such as Allat, Ruda, and Dushara for rainfall, protection of flocks, and vengeance. These North Arabian texts substantiate the literary reports of fatalism and danger, yet demonstrate local religious variation rather than a single monolithic pagan dogma.
 
 ## Context
 
-This cosmology arose from the harsh desert environment and from a tribal social structure that never produced a unified central state. Religious authority was distributed among many local temples and tribal idols, alongside a commercial and religious presence of Judaism and Christianity at the edges of the peninsula (Yemen, al-Hira, the Ghassanids). This made the Jahiliyya religious landscape a mosaic rather than a unified system.
+This cosmology developed within an arid environment where pastoral nomadism coexisted with agrarian oases (such as Yathrib and Khaybar) and mercantile hubs (such as Mecca and al-Ta'if). Lacking a centralized imperial state, sociopolitical order was grounded in kinship solidarity (*'asabiyya*) and sacred spaces (*haram* or *hima*), where tribal truces permitted trade and pilgrimage. Concurrently, Jewish communities throughout western and southern Arabia and Christian Arab polities on the imperial frontiers (the Ghassanids allied with Byzantium and the Lakhmids of al-Hira allied with the Sasanians) introduced biblical concepts and monotheistic idioms across the peninsula.
 
 ## Impact
 
-This cosmology formed the background against which Islam shaped its vocabulary and its arguments. The Qur'an directly addresses the worship of al-Lat, al-'Uzza and Manat (Surat al-Najm) and the concept of "time" (*al-dahr*, Surat al-Jathiya), and it re-employs the concept of the jinn within a new monotheistic framework. That traces of the Jahiliyya conceptions of the jinn and of destiny persisted in later popular Islamic culture reflects a partial continuity beneath the surface of the official religious rupture.
+Pre-Islamic cosmology supplied the direct historical, linguistic, and polemical backdrop against which Islamic monotheism articulated its worldview. The Qur'anic discourse systematically addressed, repudiated, or reframed Jahili beliefs: pagan idols were declared powerless; the jinn were redefined as created, morally accountable beings; and ultimate destiny was transferred from blind time (*al-dahr*) to the omnipotent will of God. Nevertheless, remnants of pre-Islamic folklore concerning the jinn, spirits, and evil omens persisted in popular regional cultures.
 
 ## Limitations
 
-Most of what we know of the Jahiliyya religion comes from later Islamic works, such as *Kitab al-Asnam* by Ibn al-Kalbi (d. c. 204 AH / 819 CE). These were written from a critical standpoint after Islam's victory. This calls for methodological caution against projecting later categories (such as "polytheism" understood as a single unified system) onto a religious reality that was probably more diverse and locally fragmented.
+Primary literary documentation for pre-Islamic Arabian religion derives largely from retrospective Islamic works compiled in the second and third centuries AH (eighth and ninth centuries CE), such as *Kitab al-Asnam* by Ibn al-Kalbi (d. c. 204 AH / 819 CE). Because these sources were composed from a monotheistic theological standpoint, modern scholars emphasize cross-referencing literary reports with contemporary Arabian epigraphy and material archaeology.
 
 ## Sources
 
-- Ibn al-Kalbi, *Kitab al-Asnam* (The Book of Idols), ed. Ahmad Zaki Pasha (Cairo: Dar al-Kutub al-Misriyya, 1914).
-- Jaroslav Stetkevych, *Muhammad and the Golden Bough: Reconstructing Arabian Myth* (Indiana University Press, 1996).
-- F. E. Peters, *Muhammad and the Origins of Islam* (State University of New York Press, 1994).
-- G. R. Hawting, *The Idea of Idolatry and the Emergence of Islam* (Cambridge University Press, 1999).
-- Robert G. Hoyland, *Arabia and the Arabs: From the Bronze Age to the Coming of Islam* (Routledge, 2001).
+- Ibn al-Kalbi, Hisham. *Kitab al-Asnam* [The Book of Idols]. Edited by Ahmad Zaki Pasha. Cairo: al-Matba'a al-Amiriyya, 1914.
+- Al-Jallad, Ahmad. *The Religion and Rituals of the Nomads of Pre-Islamic Arabia: A Reconstruction Based on the Safaitic Inscriptions*. Leiden: Brill, 2022.
+- Hawting, G. R. *The Idea of Idolatry and the Emergence of Islam: From Polemic to History*. Cambridge: Cambridge University Press, 1999.
+- Hoyland, Robert G. *Arabia and the Arabs: From the Bronze Age to the Coming of Islam*. London: Routledge, 2001.
+- Peters, F. E. *Muhammad and the Origins of Islam*. Albany: State University of New York Press, 1994.
+- Stetkevych, Jaroslav. *Muhammad and the Golden Bough: Reconstructing Arabian Myth*. Bloomington: Indiana University Press, 1996.

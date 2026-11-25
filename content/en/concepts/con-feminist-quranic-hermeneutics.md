@@ -7,9 +7,9 @@ level: "متقدم"
 title: "Feminist Qur'anic Hermeneutics"
 en: "Feminist Qur'anic Hermeneutics"
 crumb: "Arab Thought ← Concepts ← Feminist Qur'anic Hermeneutics"
-active_start: 1900
+active_start: 1980
 active_end: "مستمر"
-language: "English"
+language: "Arabic, English"
 edges:
 - rel: "belongs_to", target: "Women's Intellectual Traditions", target_type: "مدرسة"
 related:
@@ -19,28 +19,36 @@ gaps: []
 
 # Feminist Qur'anic Hermeneutics
 
-A contemporary interpretive current that re-reads the Quranic text with critical methodological tools. It seeks to show that the discrimination against women common in the classical exegetical heritage is the product of historical male-centred readings, not a requirement of the Quranic text itself. Its aim is an understanding of Quranic gender equality (*musawah*).
+## Definition
 
-## Theoretical Framework
+Feminist Qur'anic hermeneutics is a contemporary interpretive methodology that critically rereads Islamic scriptural texts—specifically the Quran—using feminist, egalitarian, and literary-critical frameworks. Its central premise is that the patriarchal hierarchies and legal subordination of women found throughout historical Islamic jurisprudence (*fiqh*) and classical exegesis (*tafsir*) reflect the male-dominated historical and cultural contexts of their authors rather than divine revelation itself. Proponents of this approach seek to uncover what they argue is the intrinsically egalitarian ethos (*musawah*) of the Quran.
 
-The current emerged in the late twentieth century through Muslim women scholars who combined religious training with modern hermeneutic tools. Among the most prominent is **Amina Wadud**, who in *Qur'an and Woman* (first edition 1992) proposed an interpretive method she called the "tawhidic paradigm." This method sets aside reliance on the classical exegetical tradition, which it treats as a reflection of male exegetes' historical choices rather than necessarily the intended Quranic meaning. It reads verses in light of the text's overall purpose and general ethical aims. Also prominent is **Asma Barlas**, who argued in *Believing Women in Islam: Unreading Patriarchal Interpretations of the Qur'an* (2002) that the Quran is egalitarian in its essence, and that patriarchal readings are what projected onto it a gender hierarchy alien to it.
+## Theoretical Foundations
 
-## Methodological Tools
+The field coalesced in the late twentieth century through the work of Muslim scholars, theologians, and social scientists who engaged sacred texts from within Islamic tradition while employing modern critical methods:
+- **The Tawhidic Paradigm**: In *Qur'an and Woman: Rereading the Sacred Text from a Woman's Perspective* (first published 1992), Amina Wadud posited that divine unicity (*tawhid*) establishes an ontological equality among human beings. Because God alone transcends gender and creaturely limitation, any human claim to inherent superiority or patriarchal domination constitutes an infringement on divine sovereignty. Wadud argued that the Quran depicts male and female creation from a single soul (*nafs wahida*, Q. 4:1) with mutual moral agency and accountability.
+- **Unreading Patriarchal Assumptions**: Asma Barlas, in *“Believing Women” in Islam: Unreading Patriarchal Interpretations of the Qur'an* (2002), argued that classical exegesis often projected patriarchal social norms onto the text. She argued that the Quranic representation of God refuses patriarchal fatherhood and gendered hierarchy, and that interpretation should be governed by the text's commitments to justice (*'adl*) and benevolence (*ihsan*).
 
-This current relies on: (1) the distinction between the Quranic text and the male-dominated history of its interpretation; (2) a contextual-historical reading of the occasions of revelation (*asbab al-nuzul*), to understand a verse's intent in its context rather than generalizing it literally; (3) the principle of "internal coherence," that is, interpreting particular verses in light of the text's overarching principles, such as justice and human equality; and (4) a critique of the assumption that God Himself is male, with a rereading of the divine attributes free from gender projection.
+## Methodological Approaches
 
-## Applied Examples
+Feminist hermeneuts deploy several interconnected interpretive tools:
+1. **Intra-textual Hermeneutics**: Reading individual verses in light of the text as an integrated whole, allowing core ethical principles to govern specific, context-bound ordinances.
+2. **Historical Contextualization (*asbab al-nuzul*)**: Differentiating between universal divine principles and contingent seventh-century Arabian social practices. Verses addressing polygamy (Q. 4:3), domestic dispute resolution (Q. 4:34), or legal testimony (Q. 2:282) are analyzed as contextual responses to historical crises (such as caring for orphans after the Battle of Uhud) rather than timeless mandates for male supremacy.
+3. **Linguistic Re-examination**: Interrogating traditional lexical glosses of key terms, such as *qawwamun* (guardians/providers), *fadala* (favored or given preference in specific functional contexts), and *daraba* (traditionally glossed as strike, but possessing multiple meanings in Arabic lexicography).
 
-These tools have been applied to issues such as *qiwama* (male guardianship, Quran 4:34), polygamy, testimony and inheritance. These scholars have sought to show that traditional readings of these verses narrowed their meaning or removed it from its historical and general ethical context.
+## Antecedents and Critical Debates
 
-## Caveats
+The academic current expanded in the 1980s and 1990s and had earlier Arabic precedents of different kinds. Nazira Zayn al-Din's *al-Sufur wa-l-Hijab* (1928) used scriptural argument against obligatory face-veiling and against the seclusion of women. 'A'isha 'Abd al-Rahman (Bint al-Shati', 1913–1998), in *al-Tafsir al-Bayani li-l-Qur'an al-Karim* (volume 1, 1962), read the Quran as a literary whole. She did not present that work as a feminist project. Later egalitarian readers nevertheless drew on its refusal of atomistic, verse-by-verse glossing.
 
-- The current faces criticism from within the traditional religious field, which argues that it imposes modernist Western assumptions on the text. It also faces criticism from some secular feminist trends, which argue that it still works within a religious framework that constrains its critique.
-- Scholars within the current differ among themselves about the limits of reinterpretation and about how far to retain classical juristic categories.
+The movement faces scrutiny from multiple fronts:
+- **Traditional Religious Establishments**: Critics argue that feminist hermeneutics imposes contemporary Western liberal values on sacred scripture, bypassing established juristic consensus (*ijma'*) and the classical sciences of hadith.
+- **Secular Feminists**: Some secular theorists contend that remaining tethered to theological hermeneutics limits the scope of legal reform, as sacred texts inevitably retain patriarchal linguistic residues.
+- **Internal Critiques**: In *Feminist Edges of the Qur'an* (2014), Aysha Hidayatullah examined internal methodological tensions within feminist tafsir, questioning whether egalitarian readings can fully resolve passages that resist gender-egalitarian interpretation without conceding textual ambiguities.
 
 ## Sources
 
 - Wadud, Amina. *Qur'an and Woman: Rereading the Sacred Text from a Woman's Perspective*. 2nd ed. New York: Oxford University Press, 1999.
-- Barlas, Asma. *Believing Women in Islam: Unreading Patriarchal Interpretations of the Qur'an*. Austin: University of Texas Press, 2002.
-- Mir-Hosseini, Ziba, et al. (eds.). *Men in Charge? Rethinking Authority in Muslim Legal Tradition*. London: Oneworld, 2015.
+- Barlas, Asma. *“Believing Women” in Islam: Unreading Patriarchal Interpretations of the Qur'an*. Austin: University of Texas Press, 2002.
 - Hidayatullah, Aysha A. *Feminist Edges of the Qur'an*. New York: Oxford University Press, 2014.
+- Mir-Hosseini, Ziba, Kari Vogt, Lena Larsen, and Christian Moe, eds. *Gender and Equality in Muslim Family Law: Justice and Ethics in the Islamic Legal Tradition*. London: I.B. Tauris, 2013.
+- Abou-Bakr, Omaima, ed. *Feminist and Islamic Perspectives: New Horizons of Knowledge and Reform*. Cairo: Women and Memory Forum, 2013.

@@ -8,44 +8,41 @@ title: "Gender in Classical Islamic Philosophy"
 en: "Gender in Classical Islamic Philosophy"
 crumb: "Arab Thought ← Concepts ← Gender in Classical Islamic Philosophy"
 active_start: 850
-active_end: 1200
+active_end: 1274
 language: "Arabic"
 edges:
 - rel: "belongs_to", target: "Women's Intellectual Traditions School", target_type: "مدرسة"
 related:
 - id: "sch-womens-intellectual-traditions", title: "Women's Intellectual Traditions School", type: "مدرسة"
 - id: "con-rabia-mystic-thinker", title: "Rabi'a al-'Adawiyya: Pure Divine Love", type: "مفهوم"
-gaps:
-  - "Women in the philosophers' own works beyond Ibn Rushd's Commentary on Plato's Republic: not yet covered."
+gaps: []
 ---
 
 # Gender in Classical Islamic Philosophy
 
 ## Definition
 
-This concept deals with how the classical Islamic philosophers, especially al-Farabi, Ibn Sina and Ibn Rushd, treated the question of **women and their intellectual and political capacity**, within their broader discussion of virtue, the virtuous city and human perfection. At times this differed sharply from the positions of the jurists of their time.
+In classical Arabic-Islamic philosophy (*falsafa*), discussions of gender, women's intellectual capacities, and domestic roles were situated within the broader frameworks of philosophical anthropology, psychological faculty theory, ethics (*akhlaq*), and practical politics (*al-hikma al-'amaliyya*). While classical Islamic jurists formulated legal doctrines regarding women largely through hermeneutical exegesis of scripture, the philosophers evaluated gender through Greek categories inherited from Plato, Aristotle, and Galen, producing distinctive tensions between philosophical idealism and societal norms.
 
-## Principal Features
+## Principal Positions: Al-Farabi and Ibn Rushd
 
-- **Al-Farabi**: in *Ara' Ahl al-Madina al-Fadila* (*The Opinions of the People of the Virtuous City*), al-Farabi did not explicitly exclude women from the possibility of attaining **intellectual happiness**, which is the goal of philosophy for him. He built his social hierarchy on the degree of intellectual perfection rather than on sex as such, although he did not devote an extended direct discussion to the political position of women.
-- **Ibn Rushd**: he is the boldest of the three. In his *Commentary on Plato's Republic*, which survives in a Hebrew translation since the original Arabic of this section has been lost, Ibn Rushd followed Plato's position in the *Republic* that women are in principle capable of holding the highest functions in the virtuous city, including ruling and guarding, while granting that women are on the whole less capable than men, a difference of degree rather than kind. He observed that in the cities of his time women were employed almost only for childbearing and child-rearing, and that this left much of the society's capacity unused and contributed to the poverty of those cities.
-- **Ibn Sina**: he dealt with questions related to women within medical and psychological contexts more than directly political-philosophical ones (for example, his discussion of matters of reproduction and temperament in *al-Qanun fi al-Tibb*, *The Canon of Medicine*). He did not develop an explicit political position comparable to that of Ibn Rushd.
-- **Tension with jurisprudence**: researchers note that these limited and elite philosophical positions were not reflected in the prevailing Islamic jurisprudence or in the actual social structure. This reveals a separation between "philosophy" as an elite activity of limited circulation and the "Sharia" as the general social reference.
+- **Abu Nasr al-Farabi (c. 257–339 AH / 870–950 CE)**: In *Ara' Ahl al-Madina al-Fadila* (Opinions of the People of the Virtuous City) and *al-Siyasa al-Madaniyya* (The Political Regime), al-Farabi organized the polity around hierarchical degrees of intellectual perfection rather than gender per se. He did not write a separate doctrine of women's legal status. Human happiness (*sa'ada*), in his account, is the intellect's conjunction with the Active Intellect, and persons are ranked by intellectual attainment. He does not draw from that ranking an explicit argument for women's civic equality.
+- **Abu al-Walid Muhammad ibn Rushd (520–595 AH / 1126–1198 CE)**: Averroes developed the most explicit philosophical defense of female civic capability. In his *Commentary on Plato's Republic* (preserved in Samuel ben Judah's Hebrew translation), Ibn Rushd endorsed Plato's egalitarian thesis that women share the same essential human capacities as men, differing only in degree of physical strength. He observed that women possess aptitude for the arts, warfare, and state leadership, including guardianship and rulership. He criticized the cities of his own time for confining women to procreation, seclusion, and child-rearing, arguing that this idleness of half the population impoverished civic life.
 
-## Context
+## Women in Practical Philosophy and Natural Science
 
-These positions were shaped primarily by their Greek source (Plato specifically, in the case of Ibn Rushd), more than by an independent re-examination of the Islamic jurisprudential or social inheritance. This partly explains their exceptional character within the broader Islamic intellectual environment, which generally did not adopt this view.
+Beyond Ibn Rushd's *Republic* commentary, classical philosophers addressed women across other genres:
+- **Ibn Sina (Avicenna, 370–428 AH / 980–1037 CE)**: In the practical philosophy section of *Kitab al-Shifa'* (The Book of Healing, Metaphysics, Book X), Ibn Sina examined marriage, family structure, and municipal order. He defended marriage as a civic arrangement necessary for the preservation of the species and of urban life (*al-tamaddun*), assigning the husband administrative leadership of the household (*tadbir al-manzil*) and treating the regulation of marriage as part of the prophet-legislator's law. In *al-Qanun fi al-Tibb* (The Canon of Medicine) he followed a Galenic account of generation in which the woman contributes seed, and he classified temperaments by heat and moisture. Those medical pages do not themselves set out a theory of civic equality.
+- **The Practical Ethics Tradition**: Thinkers like Abu 'Ali Miskawayh (320–421 AH / 932–1030 CE) in *Tahdhib al-Akhlaq* (Refinement of Character) and later Nasir al-Din al-Tusi (597–672 AH / 1201–1274 CE) in *Akhlaq-i Nasiri* (Nasirean Ethics) articulated models of domestic management (*hikmat-i manzil*). Tusi treats the household as a microcosm of the city and discusses the wife's moral qualities inside a hierarchical domestic order.
 
-## Impact
+## Modern Reception and Methodological Cautions
 
-Contemporary feminist and orientalist studies (since the late twentieth century) have rediscovered these positions, especially that of Ibn Rushd, and employed them in contemporary debates about whether a "progressive" Islamic philosophical heritage can be drawn upon in gender questions. This stands against the prevailing image that reduces all of classical Islamic thought to a single exclusionary position.
-
-## Limitations
-
-Researchers warn against presenting Ibn Rushd as a "feminist" in the modern sense: his position stems from a Platonic theory of the maximal social utility of the city, not from a theory of individual rights or of inherent equality in the contemporary sense.
+Twentieth-century scholars of Arab and Islamic thought have frequently revisited Ibn Rushd's political remarks as an indigenous philosophical resource for contemporary gender reform. However, intellectual historians caution against retrofitting modern concepts of egalitarian feminism or individual rights onto classical texts. Ibn Rushd's defense of female civic participation was grounded in civic utility, state productivity, and Platonic teleology rather than natural individual rights, while practical philosophy across the tradition largely retained patriarchal assumptions regarding domestic hierarchy.
 
 ## Sources
 
-- Ralph Lerner, trans., *Averroes on Plato's Republic* (Cornell University Press, 1974).
-- Walzer, Richard, ed. and trans. *Al-Farabi on the Perfect State*. Oxford: Clarendon Press, 1985.
-- al-Farabi, *Ara' Ahl al-Madina al-Fadila* (*The Opinions of the People of the Virtuous City*), ed. Albir Nasri Nadir. Beirut: multiple editions.
+- Averroes. *Averroes on Plato's "Republic"*. Translated with an introduction and notes by Ralph Lerner. Ithaca: Cornell University Press, 1974.
+- Farabi, Abu Nasr al-. *Al-Farabi on the Perfect State: Abu Nasr al-Farabi's Mabadi' Ara' Ahl al-Madina al-Fadila*. Translated by Richard Walzer. Oxford: Clarendon Press, 1985.
+- Ibn Sina. *The Metaphysics of The Healing*. Translated by Michael E. Marmura. Provo: Brigham Young University Press, 2005.
+- Tusi, Nasir al-Din al-. *The Nasirean Ethics*. Translated by G. M. Wickens. London: George Allen & Unwin, 1964.
+- Adamson, Peter. *Philosophy in the Islamic World: A History of Philosophy Without Any Gaps*. Oxford: Oxford University Press, 2016.

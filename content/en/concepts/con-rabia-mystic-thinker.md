@@ -20,31 +20,23 @@ gaps: []
 
 # Rabi'a al-'Adawiyya: Pure Divine Love
 
-## Definition
+**Rabi'a al-'Adawiyya** of Basra (d. 185 AH / 801 CE) is the woman around whom later Sufi memory gathered the teaching of disinterested love of God (*mahabba*). A birth about 95–99 AH / 717 CE is a modern estimate from the traditional death date, not a fact recorded at the time. The nisba al-Qaysiyya appears in some later biographies and is not part of the earliest notices. She left no book. Almost everything said about her life was written long after she died.
 
-**Rabi'a al-'Adawiyya al-Qaysiyya al-Basriyya** (c. 717–801 CE) is one of the earliest Sufis in Islam and among the most influential in the history of Sufism. She is known for introducing the concept of "pure divine love" (*al-mahabba*) as the axis of spiritual life, a radical shift from early ascetic Sufism founded on fear of punishment and hope for reward.
+## What the sources actually give
 
-## Life and Context
+Basra was a center of early renunciation (*zuhd*), with figures such as al-Hasan al-Basri (d. 110 AH / 728 CE) and Malik ibn Dinar (d. c. 130 AH / 748 CE). Later narratives place Rabi'a in that city. They say that she was born poor, orphaned, sold, and then freed, that she refused marriage, and that pupils gathered around her. Those episodes belong to the developed legend. They are not a contemporary biography. Stories that make her a disciple or critic of al-Hasan al-Basri are chronologically implausible if she was born near 717: she would have been a child when he died.
 
-Rabi'a was born in Basra into a poor family and was orphaned at a young age. Later accounts report that she was sold as a bondmaid and then freed, after which she devoted herself to worship and asceticism in Basra. Basra was one of the most important centres of early Islamic piety and asceticism, alongside Kufa and Baghdad. She gathered around her a circle of followers and disciples, and later accounts link her with ascetics such as al-Hasan al-Basri (d. 728 CE), although such meetings are historically doubtful and chronologically difficult.
+The early Arabic notices are short. Abu 'Abd al-Rahman al-Sulami (d. 412 AH / 1021 CE) includes her in *Dhikr al-niswa al-muta'abbidat al-sufiyyat*, which Rkia E. Cornell translated as *Early Sufi Women*. Abu Nu'aym al-Isfahani (d. 430 AH / 1038 CE) records material in *Hilyat al-awliya'*. The long dramatic life is Farid al-Din 'Attar's, in the Persian *Tadhkirat al-awliya'*, from the early thirteenth century, about four centuries after the date given for her death. Margaret Smith's *Rabi'a the Mystic and Her Fellow-Saints in Islam* (1928) assembled the legend and already warned that much of it is late. Cornell's work separates al-Sulami's brief entry from the stories added afterward.
 
-## Central Contribution
+## Disinterested love
 
-Before Rabi'a, early Islamic asceticism was marked mainly by **fear of the fire** and **hope for paradise** as motives for worship. Rabi'a moved the goal of worship to **love of God for His own sake**, neither out of fear of His punishment nor out of desire for His reward. Later Sufi sources, above all Farid al-Din al-Attar in *Tadhkirat al-Awliya'* (the twelfth century), attribute to her well-known prayers, such as her request that God burn her in the fire if she worshipped Him out of fear of it, and that He deny her paradise if she worshipped Him out of hope for it, so that nothing would remain of her worship but His pure love. This concept of **disinterested divine passion** later became one of the central pillars of Islamic Sufism as a whole.
+Renunciant piety often moved between fear of the Fire and hope of the Garden. Sayings attributed to Rabi'a shift the motive of worship to love of God for God's sake. 'Attar reports a prayer in which she asks to be burned if she worshipped from fear and to be excluded from paradise if she worshipped from hope, so that only love would remain. A poem attributed to her distinguishes a love of passion from a love of God because God is worthy of love. Both texts are late attributions. They became classical statements of disinterested love because Sufi authors repeated them as hers, not because an eighth-century autograph survives.
 
-## Main Features
-
-- **Transcending the duality of fear and hope**: the purpose of worship moved from an exchange in the hereafter to a direct emotional relationship.
-- **Abstention from marriage**: the sources report her refusal of marriage proposals, some attributed to princes and scholars of her time, in full devotion to divine love.
-- **Absence of self-authored writings**: like most early ascetics, Rabi'a left no written works. Her sayings and poems came down through later recorders, such as al-Sulami (d. 1021 CE) and Abu Nu'aym al-Isfahani (d. 1038 CE), and most elaborately al-Attar, some four centuries after her death. This calls for critical caution in treating sayings attributed to her as verbatim.
-
-## Legacy
-
-Rabi'a became a founding symbol of the school of *'ishq* (divine love) in Islamic Sufism, which later found expression in the poetry of Jalal al-Din Rumi, Ibn al-Farid and Farid al-Din al-Attar himself. She remains the most prominent female figure in the history of early Islamic Sufism. Feminist studies of Sufism still invoke her as a model of independent female spiritual authority in a patriarchal society.
+By the fifth/eleventh century she was already a named authority in Arabic Sufi biography for worship free of self-interest. The fuller poetry of divine passionate love (*'ishq*), in Ibn al-Farid, 'Attar, and Jalal al-Din Rumi, belongs to that later literature. Those poets were not pupils of a Basran school she founded. She functions in the tradition as an emblem: a woman remembered as a teacher of love, whose authority does not rest on a legal post or a written book. Modern studies of women in Sufism use her case to ask how female ascetics were remembered and how legend enlarged a sparse trace. The devotional image remains important in Sufi teaching. It is not a verified corpus of eighth-century poems.
 
 ## Sources
 
-- Farid al-Din al-Attar. *Tadhkirat al-Awliya'* (Memorial of the Saints). Edited by Muhammad Isti'lami. Tehran, various reprints.
-- Margaret Smith, *Rabi'a the Mystic and Her Fellow-Saints in Islam* (Cambridge: Cambridge University Press, 1928).
-- Rkia Elaroui Cornell (trans.), *Early Sufi Women: Dhikr an-niswa al-muta'abbidat as-sufiyyat* (Fons Vitae, 1999).
-- Annemarie Schimmel, *Mystical Dimensions of Islam* (University of North Carolina Press, 1975).
+- 'Attar, Farid al-Din. *Tadhkirat al-awliya'*. Edited by Muhammad Isti'lami. Tehran: Zavvar, 1346 SH/1967.
+- Cornell, Rkia Elaroui, trans. *Early Sufi Women: Dhikr an-niswa al-muta'abbidat as-sufiyyat*, by Abu 'Abd al-Rahman al-Sulami. Louisville, KY: Fons Vitae, 1999.
+- Schimmel, Annemarie. *Mystical Dimensions of Islam*. Chapel Hill: University of North Carolina Press, 1975.
+- Smith, Margaret. *Rabi'a the Mystic and Her Fellow-Saints in Islam*. Cambridge: Cambridge University Press, 1928.

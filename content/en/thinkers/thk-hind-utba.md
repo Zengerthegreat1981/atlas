@@ -22,7 +22,7 @@ gaps: []
 
 # Hind bint 'Utba
 
-**Hind bint 'Utba ibn Rabi'a** (c. 570–636 CE) was a leading figure and poet among the women of Quraysh in Mecca. She was the wife of **Abu Sufyan ibn Harb** and mother of the Umayyad caliph **Mu'awiya ibn Abi Sufyan**, and she is one of the most prominent women in Arab history during the transition from the Jahiliyyah to Islam. She is known for leading the Quraysh opposition to the Prophet Muhammad ﷺ in his early battles, and then for her conversion to Islam after the Conquest of Mecca in 630 CE.
+**Hind bint Utba ibn Rabi'a** (birth and death only approximate; often placed c. 570–636 CE) was a woman of the Quraysh aristocracy in Mecca, a poet in the reports, the wife of **Abu Sufyan ibn Harb** and the mother of the Umayyad caliph **Mu'awiya ibn Abi Sufyan**. The sira presents her as a voice of Quraysh opposition to the Prophet Muhammad in the early battles, and then as a convert after the conquest of Mecca in 8 AH / 630 CE.
 
 ## Historical Context
 
@@ -30,7 +30,7 @@ Hind was among the women of the Quraysh aristocracy, who enjoyed a public presen
 
 ## Role and Contribution
 
-Hind led the Quraysh women at the **Battle of Uhud** (625 CE), with songs and incitement to fight in revenge for the dead of Badr. Historical sources such as Ibn Hisham and al-Tabari attribute to her martial verses said in this context, although some of them are questioned as to their historical attribution, as is the case with much Jahiliyyah poetry transmitted orally. After the **Conquest of Mecca** in 630 CE, Hind declared her conversion to Islam as part of the delegation of Quraysh women who pledged allegiance to the Prophet Muhammad ﷺ. This was a major political and symbolic turn for the family of Abu Sufyan, which later became the ruling family of the Umayyad caliphate through her son Mu'awiya.
+Hind is reported at the **Battle of Uhud** (Shawwal 3 AH / 625 CE) with the women of Quraysh, singing and urging the fighters on in revenge for the dead of Badr. Ibn Hisham and al-Tabari attribute martial verses to her. As with much poetry transmitted orally, the attribution of particular lines is not secure. After the **conquest of Mecca** (Ramadan 8 AH / 630 CE), the sira includes her in the women's pledge of allegiance to the Prophet Muhammad. The pledge was a political turn for Abu Sufyan's house, which later ruled through her son Mu'awiya.
 
 ## Family and Standing in Quraysh
 
@@ -38,28 +38,30 @@ Hind was the daughter of 'Utba ibn Rabi'a, of the Banu 'Abd Shams. Her uncle Sha
 
 ## Uhud and Poetic Incitement
 
-Hind took part in Uhud with the women of Quraysh. Ibn Ishaq, in the *Sira*, transmits rajaz verses attributed to her in incitement, among them her line "We are the daughters of Tariq, we walk on cushions" (*Nahnu banat Tariq, namshi 'ala al-namariq*). This participation belongs to an ancient Arab custom of taking women to battle to rouse resolve and to defend free women. These rajaz verses were transmitted and recited by narrators long after the event, so they represent the tribe's memory of the event more than a text written at the time.
+Ibn Ishaq, as transmitted by Ibn Hisham, gives rajaz verses of incitement in her name. One famous line is *nahnu banatu Tariq, namshi ala l-namariq*, "We are the daughters of Tariq; we walk on cushions." Commentators usually take Tariq as the morning star, a boast of high birth, not as a literal ancestor. Women at a battle, to steady the fighters, are a reported Arabian custom. The verses were carried by narrators long after Uhud. They are the tribe's memory of the day, not a text written on the field.
 
 ## Allegiance and Islam
 
-Al-Tabari and Ibn Ishaq report that Hind came with the women of Mecca on the day of the Conquest and pledged allegiance not to associate others with God, not to steal, and not to commit adultery. The biography records a bold exchange between her and the Prophet. In the Sahihayn, she complained that Abu Sufyan was a stingy man, and the Prophet told her to take what suffices her and her son in accordance with custom; jurists have cited this hadith in matters of a wife's maintenance and of taking one's right from the property of someone who withholds it. Hind thus became a source of a legal ruling and not only a figure of the biography.
+Al-Tabari and Ibn Ishaq report that Hind came with the women of Mecca on the day of the conquest and gave the women's pledge: not to associate others with God, not to steal and not to commit unlawful sexual intercourse. The sira records a sharp exchange between her and the Prophet. A hadith in the two Sahihs has her complain that Abu Sufyan was stingy. The Prophet tells her to take, according to custom, what suffices her and her child. Jurists have cited that hadith on a wife's maintenance and on taking a right from property that is being withheld. In that report she is a party to a legal precedent, not only a figure in the battle narrative.
 
 ## Later Life and Changing Image
 
-Some books of conquests report that she went out with Abu Sufyan and her son Yazid to Syria and took part in rousing the fighters at the Battle of Yarmuk, and that she died in the caliphate of 'Umar. Her image varies according to the position of the narrator: Umayyad reports raised her as mother of caliphs, while later polemical traditions, notably Shi'i and Abbasid-era ones, emphasised the story that she chewed the liver of Hamza, so that her name became a negative symbol in sectarian discourse. This suggests that her image was shaped by the political conflict between the two houses, not by events alone.
+Some books of the conquests report that she went to Syria with Abu Sufyan and her son Yazid, that she urged the fighters on at Yarmuk (15 AH / 636 CE), and that she died in the caliphate of Umar. Those reports are late and uncertain. The story that she mutilated Hamza ibn Abd al-Muttalib after Uhud and chewed his liver is already in Ibn Ishaq, as transmitted by Ibn Hisham, and in al-Tabari. It was written generations after the battle. Later retellings enlarged it. It is part of the sira's narrative, not a detail that can be checked independently, and it is not a specifically Shi'i invention.
 
 ## Key Features
 
-- **Public political action**: she represents women of the Arab elite who could directly influence decisions of war and tribal peace.
-- **Martial poetry (lamentation and incitement)**: verses are attributed to her in the context of vengeance and tribal martial spirit, within a broader women's poetic tradition that included al-Khansa' and others.
-- **Symbolic transition from the Jahiliyyah to Islam**: her biography clearly illustrates the historical shift from the tribal value system of the Jahiliyyah to the new religious order.
+- **Public speech**: the sira gives her a voice at Uhud and at the women's pledge. It does not show that she directed the military decisions of Quraysh.
+- **Verse of incitement**: lines are attributed to her in the setting of vengeance. They belong to a wider tradition of women's poetry and lament, of which al-Khansa' is another famous name.
+- **A household across the break**: her reported life runs from the tribal opposition at Badr and Uhud to allegiance at the conquest, and then to a son who became caliph. The shape of that story owes a great deal to later narrators.
 
 ## Limitations
 
-The sources do not agree on the date of her death; c. 636 CE, in the caliphate of 'Umar, is the commonly cited estimate. Much of what is reported about Hind, such as the story of the mutilation of Hamza ibn 'Abd al-Muttalib after Uhud, which later sources attribute to her, appears in sources written much later and carries a literary and polemical character. It is difficult to verify fully, and it calls for critical treatment of the details of her biography rather than of the question of her existence and her historical role.
+The sources do not agree on the date of her death. A death in the caliphate of Umar, sometimes put at about 14–15 AH / 636 CE, is only a common estimate. The mutilation of Hamza is in the main sira, which is itself much later than Uhud, and it has a literary character. Her kinship, and her presence in the narratives of Badr, Uhud and the conquest, are more securely reported than any particular verse or atrocity.
 
 ## Sources
 
 - al-Tabari, *Tarikh al-Rusul wa-l-Muluk* (*History of Prophets and Kings*), ed. Muhammad Abu al-Fadl Ibrahim. Cairo: Dar al-Ma'arif, 1960–1969.
 - Ibn Hisham, *al-Sira al-Nabawiyya* (*The Life of the Prophet*), ed. Mustafa al-Saqqa, Ibrahim al-Abyari and 'Abd al-Hafiz Shalabi. Cairo: Mustafa al-Babi al-Halabi, 1955.
-- W. Montgomery Watt, *Muhammad at Medina* (Oxford University Press, 1956).
+- W. Montgomery Watt, *Muhammad at Medina*. Oxford: Oxford University Press, 1956.
+- al-Bukhari, Muhammad ibn Isma'il. *al-Jami' al-Sahih*. Edited by Muhammad Zuhayr al-Nasir. Beirut: Dar Tawq al-Najat, 1422 AH.
+- Muslim ibn al-Hajjaj. *al-Sahih*. Edited by Muhammad Fu'ad Abd al-Baqi. Cairo: Dar Ihya' al-Kutub al-Arabiyya, 1955–1956.

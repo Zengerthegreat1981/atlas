@@ -23,22 +23,22 @@ gaps: []
 
 ## Definition
 
-This concept refers to the presence of women as **poets** in Arab society before Islam. This presence was public and socially recognised, within a specific function: **elegy** (*ritha'*) first and foremost, meaning the lamentation of those killed in tribal wars, alongside poetry of incitement and boasting. This took place in a society in which poetry was the tribe's first medium of communication and politics.
+This concept refers to the presence of women as **poets** in Arab society before Islam. In the surviving record that presence is public, and it clusters in a specific function: **elegy** (*ritha'*) first and foremost, meaning the lamentation of those killed in tribal wars, alongside poetry of incitement and boasting. Poetry was a principal medium of a tribe's public speech and of its politics.
 
 ## Principal Features
 
-- **Al-Khansa'** (Tumadir bint 'Amr ibn al-Harith al-Sulamiyya, c. 575–645 CE): the most famous Arab woman poet of all, renowned for lamenting her two brothers, **Sakhr** and **Mu'awiya**, who were killed in tribal wars, and she is widely regarded as among the finest composers of elegy in Arabic poetry. She embraced Islam after its emergence and remained a distinguished poet in the early Islamic period as well. She is also reported to have lost four sons at the Battle of al-Qadisiyya.
-- **Hind bint 'Utba** (d. c. 636 CE): combined martial poetry with leading the women in incitement to fight (at the Battle of Uhud), before she embraced Islam after the Conquest of Mecca.
-- **Other women poets**: the sources mention less famous poets who nonetheless appear repeatedly in works of literature, such as **al-Khirniq bint Badr** (sister of the poet Tarafa), and women poets of unknown lineage whose verses appear in the reports of the "Battle Days of the Arabs" (*ayyam al-'Arab*). There are also semi-legendary figures such as **Hind bint al-Khuss**, known more for her sayings of wisdom than for her versified poetry.
-- **Social function**: **elegy** was specifically the field of poetry most socially accessible to women, as an extension of women's role in tribal mourning and funeral rites. By contrast, other fields (such as panegyric and political satire) were dominated by male poets.
+- **Al-Khansa'** (Tumadir bint 'Amr ibn al-Harith ibn al-Sharid, of Sulaym, c. 575–c. 645 CE): the best-known woman poet of early Arabic, renowned for elegies on her brothers **Sakhr** and **Mu'awiya**, killed in tribal wars. Classical critics ranked her among the foremost elegists. She accepted Islam and continued to compose. She is also reported to have lost four sons at the Battle of al-Qadisiyya (c. 636); the report is late, and the number and the battle should be treated as tradition rather than as a secured fact.
+- **Hind bint 'Utba**: verses of incitement are attributed to her from the Battle of Uhud (3 AH/625 CE), where she is said to have led women of Quraysh in urging the fighters on. She accepted Islam after the conquest of Mecca (8 AH/630 CE). Reports of her death disagree: some place it in 14 AH/635–636 CE, others in the caliphate of Uthman.
+- **Other women poets**: **al-Khirniq bint Badr ibn Hiffan** is remembered for elegies. The sources link her to Tarafa ibn al-'Abd as a half-sister or an aunt; the kinship is not the same in every report. Verses by women of less secure attribution appear in reports of the Battle Days of the Arabs (*ayyam al-'Arab*). **Hind bint al-Khuss**, of Iyad, is a semi-legendary figure of proverbial wisdom, cited more for sayings than for a preserved diwan.
+- **Social function**: In the surviving record, elegy (*ritha'*) is the genre most fully associated with women, extending their role in tribal mourning. Incitement (*tahrid*) is also attested. Panegyric and satire survive mainly under men's names. Marlé Hammond, in *Beyond Elegy* (2010), argues that this distribution should not be read as the whole of women's poetic range.
 
 ## Context
 
-These women poets lived in a tribal society that gave women of the upper classes a margin of public presence (singing, poetry, and even symbolic participation in war) that was relatively broader than that allowed by later social frameworks. This presence, however, remained restricted to specific roles (elegy and incitement) and did not extend to every genre of poetry.
+Women of notable families appear in this record as singers, poets, and, in some reports, participants in war. What survives of their poetry is concentrated in elegy and incitement, and it does not extend evenly across every genre.
 
 ## Impact
 
-The poetry of al-Khansa' in particular became a reference text in **the Arabic art of elegy**, still studied today. Pre-Islamic women poets have become a point of reference that modern feminist studies of Arabic literature invoke to demonstrate the existence of an independent female literary voice before its space narrowed in later periods. This debate intersects with the arguments of Nawal El Saadawi and Fatima Mernissi on the history of the erasure of the Arab female voice.
+The poetry of al-Khansa' became a reference text for the Arabic elegy and is still read as such. Modern studies of Arabic literature cite these poets when tracing a public female voice in the earliest recorded period. What survives is a narrow and orally transmitted corpus, concentrated in mourning and war, and it does not by itself describe the whole of women's speech in pre-Islamic Arabia.
 
 ## Limitations
 
@@ -46,7 +46,6 @@ As with Jahiliyyah poetry in general, it is difficult to verify fully the attrib
 
 ## Sources
 
-- "Al-Khansa," *Encyclopaedia Britannica* (rev. ed.).
 - "Khansāʾ," *Encyclopaedia of Islam*, 2nd ed. Leiden: Brill.
 - Marlé Hammond, *Beyond Elegy: Classical Arabic Women's Poetry in Context* (Oxford University Press / British Academy, 2010).
 - Ibn Qutayba, *al-Shi'r wa-l-Shu'ara'* (*Poetry and Poets*), ed. Ahmad Shakir. Dar al-Ma'arif, multiple editions.

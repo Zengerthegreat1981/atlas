@@ -20,35 +20,36 @@ gaps: []
 
 # Jahiliyyah Poetry and Wisdom
 
-The poetry produced in the Arabian Peninsula in the sixth and early seventh centuries CE, in the generations before the rise of Islam. It is the **primary record** for knowing the social life, moral values and intellectual outlook of the Arabs of that era, since the peninsula at the time left no written prose documents parallel to it.
+Pre-Islamic (*Jahiliyyah*) poetry denotes the body of oral verse composed in the Arabian Peninsula during the sixth and early seventh centuries CE, prior to the rise of Islam. Regarded in Arabic tradition as the "register of the Arabs" (*diwan al-'Arab*), this poetry constitutes the primary literary and intellectual record of pre-Islamic Arabian social structure, heroic ethics, and philosophical reflections on fate, honour, and mortality.
 
-## The Mu'allaqat
+## The Mu'allaqat and the Classical Qasida
 
-The most prominent part of this heritage that has reached us is the **Seven Odes** (*al-Mu'allaqat al-sab'*, or ten in some accounts): long poems said to have been hung on the curtains of the Ka'ba as an honor, by the most famous poets of the Jahiliyyah: Imru' al-Qais, Tarafa ibn al-Abd, Zuhayr ibn Abi Sulma, Labid ibn Rabi'a, Amr ibn Kulthum, al-Harith ibn Hilliza and Antara ibn Shaddad. These poems share a stereotyped structure (an opening lament over the abandoned encampment, then a description of the journey or the she-camel, then the main theme of boasting, panegyric or satire). They remain to this day the **reference model** against which the eloquence of the Arabic language, prosody and grammar have been measured.
+The pinnacle of this tradition is represented by the **Mu'allaqat** (The Suspended Odes), traditionally counted as seven (or ten in extended recensions). These long polythematic odes (*qasidas*) were ascribed to celebrated master poets: Imru' al-Qais, Tarafa ibn al-'Abd, Zuhayr ibn Abi Sulma, Labid ibn Rabi'a, 'Amr ibn Kulthum, 'Antara ibn Shaddad, and al-Harith ibn Hilliza (with al-Nabigha al-Dhubyani, al-A'sha, and 'Abid ibn al-Abras added in the ten-poem canon). Later popular tradition claimed these masterpieces were inscribed in gold and hung (*'ulliqat*) on the walls of the Ka'ba in Mecca. Abu Ja'far al-Nahhas (d. 338 AH / 950 CE), in his commentary, said that this report was unknown to the transmitters of the ancient poems. Ibn Khaldun repeated a form of the hanging story; he did not dismiss it as a metaphor. The episode is absent from early accounts of Mecca. The name is also explained from *'ilq*, a precious thing, rather than from physical suspension.
 
-## Wisdom in Jahiliyyah poetry
+Structurally, the classical *qasida* developed a recognized tripartite progression:
+1. **The Nasib**: An elegiac prelude in which the poet pauses at the deserted campsite (*al-atlal*), weeping over vanished lovers and the transience of human habitation.
+2. **The Rahil**: The arduous desert journey, showcasing the resilience of the poet and his steed (mare or she-camel) through dangerous terrain and hostile wildlife.
+3. **The Gharad**: The main thematic objective, which typically comprised tribal boast (*fakhr*), panegyric (*madih*), invective (*hija'*), funeral elegy (*ritha'*), or gnomic reflection (*hikma*).
 
-Alongside boasting, love and description, Jahiliyyah poetry carried a layer of **gnomic reflection** (*hikma*) on death, time, fate and tribal relations. Zuhayr ibn Abi Sulma was particularly known for this character: he preferred peace to war, and in his ode called for reconciliation between the tribes of 'Abs and Dhubyan after the long War of Dahis and al-Ghabra', unlike poets of pure martial boasting. Other poems, such as Tarafa's ode, carry an existential meditation on the brevity of life and the pleasure of the present moment.
+## Wisdom (Hikma) and Existential Outlook
 
-## The social function of poetry
+Beyond heroic martial themes, Jahili verse articulated a profound layer of gnomic wisdom (*hikma*). Zuhayr ibn Abi Sulma stands out for his moral gravity: his ode celebrates the peacemakers Harim ibn Sinan and al-Harith ibn 'Awf for reconciling the tribes of 'Abs and Dhubyan after the destructive War of Dahis and al-Ghabra', while meditating on old age, human vulnerability, and the inevitability of death. By contrast, Tarafa ibn al-'Abd voiced an existential *carpe diem*, urging the pursuit of present pleasures in wine, generosity, and defense of kin before the grave erases all distinctions between the miser and the profligate.
 
-In Jahiliyyah society poetry was not purely an aesthetic art. It was a **documentary record** of genealogies and battle events (*ayyam al-Arab*), a tool of political and tribal propaganda (the poet was the "tongue of the tribe" in praising it and satirizing its enemies), and a lexical and grammatical source later relied upon by linguists such as Sibawayh and by Qur'anic exegetes to understand rare words of the Qur'an by citing Jahiliyyah poetry.
+## Transmission, Codification, and the Authenticity Debate
 
-## Transmission and codification
+Jahili poetry circulated orally for nearly two centuries through a system of reciter-apprentices (*ruwah*, sing. *rawi*) before being systematically recorded during the early Abbasid era by philologists such as Hammad al-Rawiya (d. c. 155 AH / c. 772 CE), al-Mufaddal al-Dabbi (d. c. 168 AH / c. 784 CE; compiler of *al-Mufaddaliyyat*), and al-Asma'i (d. 216 AH / 831 CE). 
 
-This poetry was transmitted primarily through **oral narration** before being written down in the Abbasid period by major compilers such as Hammad al-Rawiya and al-Mufaddal al-Dabbi (in his collection *al-Mufaddaliyyat*). Since the nineteenth century this has raised extensive scholarly debate (notably D. S. Margoliouth in 1925 and Taha Hussein in 1926) about the **authenticity** of this poetry, and the possibility that a large part of it was fabricated in the later Islamic period for religious, grammatical or political purposes. This debate has not been resolved conclusively to this day.
+This reliance on oral transmission and retroactive codification sparked major scholarly debates regarding authenticity. In the 1920s, David Samuel Margoliouth (1925) and Egyptian scholar Taha Husayn in *Fi al-Shi'r al-Jahili* (1926) argued that a substantial portion of pre-Islamic poetry was fabricated during the Islamic period to bolster tribal prestige, support theological arguments, or supply prooftexts (*shawahid*) for grammatical rules. Later scholarship separated those doubts from the charge of wholesale Abbasid forgery. Michael Zwettler argued that formulaic oral composition accounts for much of the linguistic variance in the corpus. Suzanne Pinckney Stetkevych read the qasida through ritual pattern and poetic structure rather than as a plain chronicle. Critical philology still treats the transmitted texts as layered by oral transmission.
 
 ## Impact
 
-This heritage established the aesthetic and normative foundation for all later Arabic poetry, remained a standard of eloquence against which it was measured into the modern era, and formed a basic reference for the exegesis of the Qur'an and the codification of Arabic grammar.
-
-## Caveats
-
-Because it relied almost entirely on late-recorded oral transmission, a significant share of this poetry remains subject to scholarly doubt about the authenticity of its attribution to its historical authors. This must be borne in mind when treating it as a historical rather than solely literary source.
+Pre-Islamic poetry established the normative aesthetic, metric, and lexical standards of Arabic literature for more than a millennium. Classical grammarians (such as Sibawayh) and Qur'anic exegetes (such as al-Tabari) cited Jahili verses as primary linguistic authorities to interpret rare vocabulary in the Qur'an and codify classical Arabic syntax.
 
 ## Sources
 
-- Al-Mufaddal al-Dabbi, *al-Mufaddaliyyat*, edited by Ahmad Shakir and Abd al-Salam Harun (Dar al-Ma'arif, Cairo).
-- Taha Hussein, *Fi al-Shi'r al-Jahili* (*On Pre-Islamic Poetry*, 1926).
-- Jones, Alan. *Early Arabic Poetry*, 2 vols. Ithaca Press, 1992–1996.
-- Stetkevych, Suzanne Pinckney. *The Mute Immortals Speak: Pre-Islamic Poetry and the Poetics of Ritual*. Cornell University Press, 1993.
+- Al-Mufaddal al-Dabbi. *The Mufaddaliyat: An Anthology of Ancient Arabian Odes*. Edited and translated by Charles James Lyall. Oxford: Clarendon Press, 1918–1921.
+- Husayn, Taha. *Fi al-Shi'r al-Jahili* [On Pre-Islamic Poetry]. Cairo: Dar al-Kutub al-Misriyya, 1926.
+- Jones, Alan. *Early Arabic Poetry*. 2 vols. Reading: Ithaca Press, 1992–1996.
+- Margoliouth, D. S. "The Origins of Arabic Poetry." *Journal of the Royal Asiatic Society* (1925).
+- Stetkevych, Suzanne Pinckney. *The Mute Immortals Speak: Pre-Islamic Poetry and the Poetics of Ritual*. Ithaca, NY: Cornell University Press, 1993.
+- Zwettler, Michael. *The Oral Tradition of Classical Arabic Poetry: Its Character and Implications*. Columbus: Ohio State University Press, 1978.
