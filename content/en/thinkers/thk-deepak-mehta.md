@@ -4,6 +4,7 @@ id: "ANT-13254"
 type: "مفكر"
 part: anthropology
 level: "متوسط"
+quality: "unverified"
 title: "Deepak Mehta"
 en: "Deepak Mehta"
 crumb: "Anthropology ← Anthropology of Violence ← Deepak Mehta"

@@ -11,7 +11,7 @@ active_start: 1978
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "Environmental Sociology and Sustainability", target_type: "مدرسة"
-related:
+related: []
 gaps: []
 ---
 

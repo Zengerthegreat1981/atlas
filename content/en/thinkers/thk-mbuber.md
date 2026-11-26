@@ -69,6 +69,10 @@ Emmanuel Levinas criticized him for making the relation reciprocal and symmetric
 
 Buber influenced the philosophy of dialogue in Emmanuel Levinas, and humanistic psychology through his famous dialogue with Carl Rogers at the University of Michigan in 1957 on the nature of the therapeutic relationship.
 
+## Relation to existentialism
+
+Buber stands beside philosophical existentialism more than inside it. He never fully joined that movement, and his closeness to Gabriel Marcel is greater than his closeness to Sartre or Camus. Readers still disagree about whether to count him among the existentialists. He was not a therapist, yet the account of meeting in *I and Thou* shaped how many existential therapists understood the therapeutic encounter.
+
 ## Sources
 
 - Buber, Martin. *Ich und Du*. Leipzig: Insel Verlag, 1923 (English translation by Ronald Gregor Smith: *I and Thou*, Edinburgh: T. & T. Clark, 1937).
@@ -76,3 +80,4 @@ Buber influenced the philosophy of dialogue in Emmanuel Levinas, and humanistic 
 - Friedman, Maurice. *Martin Buber: The Life of Dialogue*. Chicago: University of Chicago Press, 1955.
 - Mendes-Flohr, Paul. *Martin Buber: A Life of Faith and Dissent*. New Haven: Yale University Press, 2019.
 - Cissna, Kenneth N., and Rob Anderson. *Moments of Meeting: Buber, Rogers, and the Potential for Public Dialogue*. Albany: State University of New York Press, 2002.
+- Scott, Sarah. "Martin Buber." *The Stanford Encyclopedia of Philosophy*, edited by Edward N. Zalta, 2021.

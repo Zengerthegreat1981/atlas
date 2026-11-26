@@ -15,7 +15,7 @@ active_start: -375
 active_end: -375
 edges:
 - rel: "belongs_to", target: "Platonic Academy", target_type: "مدرسة"
-related:
+related: []
 gaps: []
 ---
 

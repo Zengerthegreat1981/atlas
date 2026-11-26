@@ -14,7 +14,7 @@ active_start: 2011
 active_end: 2011
 edges:
 - rel: "belongs_to", target: "Applied & Public Anthropology Traditions", target_type: "مدرسة"
-related:
+related: []
 gaps: []
 ---
 

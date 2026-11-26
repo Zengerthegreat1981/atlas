@@ -16,7 +16,6 @@ edges:
 related:
 - id: "thk-mircea-eliade", title: "Mircea Eliade", type: "مفكر"
 gaps:
-  - "Film examples discussed in the book: not yet covered"
 ---
 
 # Religion and Film: Cinema and the Re-Creation of the World
@@ -43,8 +42,15 @@ S. Brent Plate is an American scholar of religious studies and a prominent figur
 
 The book has been widely used in teaching and in later analyses of particular films. Some researchers question whether the broad analogy between cinema and religion explains how a given film works, or imposes a ready-made template on diverse material.
 
+## Film Examples
+
+Plate's examples cross the usual line between popular and experimental cinema. His discussion of how films open and establish a world includes George Lucas's *Star Wars* and Ron Fricke's non-narrative film *Baraka*. He also turns to Stan Brakhage's avant-garde film *The Act of Seeing with One's Own Eyes* (1971), which shows autopsies at close range, to argue that cinema can reawaken viewers' senses and confront them with death, which mainstream film and culture tend to push to the margins. The much expanded second edition (Columbia University Press, 2017) draws on a wider body of work, from early cinema to Hollywood, independent and international films. Accounts of that edition mention David Lynch's *Blue Velvet*, Giuseppe Tornatore's *Cinema Paradiso* and Dziga Vertov's *Man with a Movie Camera* in connection with the organisation of space, and the participatory screenings of *The Rocky Horror Picture Show* as an example of films generating rituals outside the cinema's story. Readers should check which edition they are using, since examples added in 2017 do not necessarily appear in the 2008 text.
+
 ## Sources
 
 - Plate, S. Brent. *Religion and Film: Cinema and the Re-Creation of the World*. Wallflower Press, 2008.
 - Lyden, John C. *Film as Religion: Myths, Morals, and Rituals*. NYU Press, 2003.
 - Eliade, Mircea. *The Sacred and the Profane: The Nature of Religion*. Harcourt, Brace & World, 1959.
+- PopTheology. "Religion and Film: A Review," 5 June 2009. https://poptheology.com/religion-and-film-a-review/
+- Knauss, Stefanie. Review of S. Brent Plate, *Religion and Film*, 2nd ed. *Journal for Religion, Film and Media* 6, no. 1 (2020): 155–158. https://doi.org/10.25364/05.06:2020.1.8
+- Plate, S. Brent. *Religion and Film: Cinema and the Re-Creation of the World*, 2nd ed. Columbia University Press, 2017.

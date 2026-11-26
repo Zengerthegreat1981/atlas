@@ -8,7 +8,7 @@ title: "Crime and Custom in Savage Society"
 en: "Crime and Custom in Savage Society"
 crumb: "Anthropology ← Works ← Crime and Custom in Savage Society"
 author: "Bronisław Malinowski"
-author_slug: "thk-bronislaw-malinowski"
+author_slug: "thk-malinowski"
 publication_year: 1926
 original_language: "English"
 active_start: 1926
@@ -16,7 +16,7 @@ active_end: 1926
 edges:
 - rel: "belongs_to", target: "Malinowskian Functionalism", target_type: "مدرسة"
 related:
-- id: "thk-bronislaw-malinowski", title: "Bronisław Malinowski", type: "مفكر"
+- id: "thk-malinowski", title: "Bronislaw Malinowski: Modern Ethnographic Fieldwork", type: "مفكر"
 gaps: []
 ---
 # Crime and Custom in Savage Society

@@ -4,6 +4,7 @@ id: "THK-20329"
 type: "مفكر"
 part: "legal-theory"
 level: "متقدم"
+quality: "unverified"
 title: "Friedrich Carl von Savigny"
 en: "Friedrich Carl von Savigny"
 crumb: "Legal Theory ← Thinkers ← Friedrich Carl von Savigny"
@@ -19,8 +20,7 @@ related:
 - id: "sch-civil-law-tradition", title: "Civil Law Tradition", type: "مدرسة"
 - id: "thk-georg-jellinek", title: "Georg Jellinek", type: "مفكر"
 - id: "thk-rudolf-von-jhering", title: "Rudolf von Jhering", type: "مفكر"
-gaps:
-  - "The debate between Savigny and his later students (including Puchta) on the limits of historicism versus systematic formulation: not yet covered."
+gaps: []
 ---
 # Friedrich Carl von Savigny
 
@@ -60,8 +60,14 @@ Savigny was appointed in 1842 as Minister for the Revision of Legislation in the
 
 It is important to note that Savigny's disagreement with Thibaut was not a disagreement about the impossibility of a German legislative unification in principle, but about its **timing**. Thibaut held that the political moment after the Napoleonic wars was favourable to an immediate legislative unification that would strengthen the emerging German national unity. Savigny held that haste would produce a fragile law lacking sufficient jurisprudential depth, and that the desired political unity would be achieved more securely through the accumulation of a shared legal science among the German states before any formal legislative unification. Subsequent developments (the unification of German private law only some eight decades after his pamphlet appeared) showed a certain historical coherence in this view.
 
+## Historicism and systematic formulation among his students
+
+The tension between historical caution and systematic construction was worked out as a revision inside the school more than as an open quarrel. Georg Friedrich Puchta set out in *Das Gewohnheitsrecht* (1828) to develop Savigny's account of how law arises "on its several sides." Where Savigny in 1814 had still called jurists' law "customary law," in contrast to legislation, Puchta held that the received common Roman law was *Juristenrecht*, not custom. From 1826 he used the term *Volksgeist* for the pre-state workshop in which law is formed, borrowing and recasting a Hegelian expression. For Puchta, what validated jurists' law was not external marks such as usage, court practice or a common opinion of doctors, but the jurist's share in practical national needs together with an inner test of scientific truth. Later study of their letters and of Puchta's doctrine of interpretation finds real departures, and a further shift from jurists' law toward a "law of science," still bounded by divine commands, good morals and the principles of existing law. Their correspondence in the 1830s stayed courteous, and recent work doubts that their accounts of how law arises stood as far apart as some readings claim. The sharper attack on a closed conceptual system came after Puchta's death, when Rudolf von Jhering blamed him for an overly tight hold on Roman concepts.
+
 ## Sources
 
 - Savigny, Friedrich Carl von. *Of the Vocation of Our Age for Legislation and Jurisprudence*. Translated by Abraham Hayward, Littlewood & Co., 1831 (German original 1814).
 - Stein, Peter. *Roman Law in European History*. Cambridge University Press, 1999.
 - Savigny, Friedrich Carl von. *System des heutigen römischen Rechts*. 8 vols. Berlin: Veit, 1840–1849.
+- Haferkamp, Hans-Peter. "Puchta, Georg Friedrich." In *Enzyklopädie zur Rechtsphilosophie*. 2011.
+- Haferkamp, Hans-Peter. *Georg Friedrich Puchta und die "Begriffsjurisprudenz"*. Frankfurt am Main: Vittorio Klostermann, 2004.

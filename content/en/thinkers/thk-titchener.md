@@ -23,11 +23,11 @@ gaps: []
 ---
 # Edward Bradford Titchener
 
-Edward Titchener was born on 11 January 1867 in Chichester, England, and died on 3 August 1927 in Ithaca, New York. He was an American philosopher and psychologist of English origin, regarded as the leading representative of **Structuralism** in psychology, and the founding figure of the Cornell school of experimental psychology.
+Edward Titchener was born on 11 January 1867 in Chichester, England, and died on 3 August 1927 in Ithaca, New York. He was an English psychologist who made his career in the United States, regarded as the leading representative of **Structuralism** in psychology, and the founding figure of the Cornell school of experimental psychology.
 
 ## The Philosophical Context: After Wundt
 
-Titchener studied the classics and philosophy at Oxford (Brasenose College), then moved to **Wilhelm Wundt** in Leipzig (1890–1892) and received his doctorate under him in 1892. In the same year he settled at **Cornell University**, where he ran an experimental laboratory until his death. He translated Oswald Külpe's *Outline of Psychology* (1895) and the first part of Wundt's *Principles of Physiological Psychology* (1904). Although he presented himself as a faithful transmitter of Wundt's doctrine, he **effectively transformed Structuralism** into his own version. Many historians, among them Kurt Danziger in *Constructing the Subject* (Cambridge University Press, 1990), hold that Titchener's "structuralism" differed substantially from Wundt's psychology, since Wundt emphasized apperception, will and the creative synthesis of experience, not only the listing of elements.
+Titchener studied the classics and philosophy at Oxford (Brasenose College), then moved to **Wilhelm Wundt** in Leipzig (1890–1892) and received his doctorate under him in 1892. In the same year he settled at **Cornell University**, where he ran an experimental laboratory until his death. He translated Oswald Külpe's *Outlines of Psychology* (1895) and the first part of Wundt's *Principles of Physiological Psychology* (1904). Although he presented himself as a faithful transmitter of Wundt's doctrine, he **effectively transformed Structuralism** into his own version. Many historians, among them Kurt Danziger in *Constructing the Subject* (Cambridge University Press, 1990), hold that Titchener's "structuralism" differed substantially from Wundt's psychology, since Wundt emphasized apperception, will and the creative synthesis of experience, not only the listing of elements.
 
 ## Core Works
 

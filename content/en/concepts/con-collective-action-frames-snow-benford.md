@@ -14,7 +14,7 @@ active_start: 1986
 active_end: مستمر
 edges:
 - rel: "belongs_to", target: "Sociology of Social Movements and Collective Action", target_type: "مدرسة"
-related:
+related: []
 gaps: []
 ---
 

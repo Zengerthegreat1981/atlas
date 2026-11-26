@@ -15,7 +15,7 @@ active_start: 1925
 active_end: 1950
 edges:
 - rel: "belongs_to", target: "Ordoliberalism and the Social Market Economy", target_type: "مدرسة"
-related:
+related: []
 gaps: []
 ---
 # Walter Eucken

@@ -16,7 +16,7 @@ active_end: 1944
 crumb: "Sociology ← Thinkers ← Robert Ezra Park"
 edges:
 - rel: "belongs_to", target: "Chicago Urban Ecology", target_type: "مدرسة"
-related:
+related: []
 gaps: []
 ---
 

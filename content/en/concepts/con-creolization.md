@@ -4,6 +4,7 @@ id: "ANT-13311"
 type: "مفهوم"
 part: anthropology
 level: "متوسط"
+quality: "unverified"
 title: "Creolization: Cultural Creation in Contact"
 en: "Creolization"
 crumb: "Anthropology ← Core Concepts ← Creolization"
@@ -12,8 +13,7 @@ edges:
   - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
 related:
   []
-gaps:
-  - "Creolization and digital culture: not yet covered"
+gaps: []
 ---
 
 # Creolization: Cultural Creation in Contact
@@ -50,6 +50,12 @@ Creole languages have often been spoken by most of a population while another la
 
 Formal recognition does not settle the matter. Policy must choose a spelling system, decide which variety counts as standard, train teachers, and produce textbooks, and parents may still prefer the language associated with examinations and employment. Linguists such as Michel DeGraff have argued that teaching children in a language they do not speak at home limits their access to education, and that old judgments of creoles as lesser languages continue to shape such choices.
 
+## Creolization and Digital Culture
+
+Scholars of media have asked whether creolization describes what people do with language and identity on the internet. Jillana Enteen's *Virtual English* (2010) studies English-language communication on the World Wide Web among communities in the United States that have been underserved by mainstream accounts of the internet, and among participants in several Asian diaspora communities. She finds that these users do not simply adopt a single global English or a single picture of cyberspace. They employ English strategically, widening and splitting it so that websites, conversations, and other online artifacts can carry concerns that a standardized web English would leave out. In the process they shape both the language and the technology: they transmit information, teach, decide, and imagine futures that differ from the ones built into dominant designs of computer-mediated communication.
+
+This digital use of the idea stays close to an older creolist claim. Contact does not leave the languages and identities of the parties unchanged, and the result is not a return to a pure origin. It also sits inside the warning, already current in anthropology, that the word loses force if it is applied to every mixture. Enteen's cases are not plantation histories. They are specific practices in which people with less institutional power over the network rewrite a colonial language online and contest common stories about nation, community, and who the internet is for.
+
 ## Sources
 
 - Brathwaite, Edward Kamau. *The Development of Creole Society in Jamaica, 1770–1820*. Clarendon Press, 1971.
@@ -57,3 +63,4 @@ Formal recognition does not settle the matter. Policy must choose a spelling sys
 - Glissant, Édouard. *Poetics of Relation*. Translated by Betsy Wing. University of Michigan Press, 1997. First published in French as *Poétique de la Relation*, Gallimard, 1990.
 - Hannerz, Ulf. *Cultural Complexity: Studies in the Social Organization of Meaning*. Columbia University Press, 1992.
 - DeGraff, Michel. "Linguists' Most Dangerous Myth: The Fallacy of Creole Exceptionalism." *Language in Society* 34, no. 4. 2005.
+- Enteen, Jillana B. *Virtual English: Queer Internets and Digital Creolization*. Routledge, 2010.

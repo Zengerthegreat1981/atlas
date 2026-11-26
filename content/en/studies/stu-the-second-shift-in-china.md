@@ -13,7 +13,6 @@ active_end: 2001
 edges: []
 related: []
 gaps:
-- "Quantitative time-use findings for contemporary China: not yet covered"
 ---
 
 # The Second Shift in China
@@ -32,8 +31,14 @@ Studies of urban couples in China, such as work by Jiping Zuo and Yanjie Bian (2
 
 The Chinese case shows that high female employment under a state committed to gender equality in the workplace does not by itself equalise domestic labour, and it highlights how the second shift can arise under very different political and economic systems.
 
+## Time-Use Findings
+
+China's National Bureau of Statistics has measured how residents divide their days. Its 2018 survey covered 48,580 people in eleven provincial-level regions. As reported by *Beijing Review*, women spent on average 3 hours 48 minutes a day on unpaid work and men 1 hour 32 minutes. Housework took women 2 hours 6 minutes and men 45 minutes; child care averaged 53 minutes for women and 17 minutes for men. About 84 percent of women took part in unpaid work, compared with about 55 percent of men. The bureau's communiqué on its third survey, conducted in 2024, reports that among those who took part in unpaid labour, men spent 1 hour 52 minutes a day on it and women 3 hours 29 minutes. The two sets of figures are not directly comparable: the 2024 values quoted here are averages for participants, while the 2018 durations are averages across respondents. National averages also include people who are not in paid work or have no young children, so they indicate a gendered gap in unpaid labour without measuring the second shift of employed parents specifically.
+
 ## Sources
 
 - Hochschild, Arlie, with Anne Machung. *The Second Shift: Working Parents and the Revolution at Home*. Viking, 1989.
 - Stacey, Judith. *Patriarchy and Socialist Revolution in China*. University of California Press, 1983.
 - Zuo, Jiping, and Yanjie Bian. "Gendered Resources, Division of Housework, and Perceived Fairness: A Case in Urban China." *Journal of Marriage and Family* 63, no. 4 (2001): 1122–1133.
+- Wang Hairong. "Where Has Time Gone?" *Beijing Review*, 2019. https://www.bjreview.com/Current_Issue/Editor_Choice/201902/t20190218_800156831.html
+- National Bureau of Statistics of China. Communiqué on China's Third National Time Use Survey (No. 3), 2024. https://www.stats.gov.cn/english/PressRelease/202411/t20241115_1957437.html

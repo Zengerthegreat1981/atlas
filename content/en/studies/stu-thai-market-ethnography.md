@@ -12,7 +12,7 @@ dates: 1995
 active_start: 1985
 active_end: 1994
 edges: []
-related:
+related: []
 gaps: []
 sources:
   - Skinner, G. W. (1957). Chinese Society in Thailand: An Analytical History. Cornell University Press.

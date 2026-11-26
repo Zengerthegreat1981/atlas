@@ -20,7 +20,7 @@ active_end: "مستمر"
 related:
 - id: "sch-founding-comparative-religion-science-of-religion", title: "Founding of the 'Science of Religion': Max Müller and the Origins of Comparative Religion", type: "مدرسة"
 - id: "wrk-jewish-dietary-laws-ancient-world-rosenblum", title: "The Jewish Dietary Laws in the Ancient World", type: "عمل / كتاب"
-- id: "thk-mary-douglas", title: "Mary Douglas", type: "مفكر"
+- id: "thk-douglas", title: "Mary Douglas: Purity, Danger, and Categorical Thought", type: "مفكر"
 - id: "wrk-question-of-the-animal-and-religion-gross", title: "The Question of the Animal and Religion: Theoretical Stakes, Practical Implications", type: "عمل / كتاب"
 gaps: []
 ---

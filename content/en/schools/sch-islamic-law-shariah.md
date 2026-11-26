@@ -15,7 +15,7 @@ active_end: "مستمر"
 active_source: "lifespan"
 cultural_origin: "arab-islamic"
 edges: []
-related:
+related: []
 gaps: []
 ---
 

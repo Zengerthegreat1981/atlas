@@ -13,7 +13,7 @@ edges:
 related:
   - id: "thk-sartre", title: "Jean-Paul Sartre", type: "مفكر"
   - id: "con-relation", title: "Relation and Encounter", type: "مفهوم"
-  - id: "thk-buber", title: "Martin Buber", type: "مفكر"
+  - id: "thk-mbuber", title: "Martin Buber", type: "مفكر"
   - id: "thk-berdyaev", title: "Nikolai Berdyaev", type: "مفكر"
 gaps: []
 ---

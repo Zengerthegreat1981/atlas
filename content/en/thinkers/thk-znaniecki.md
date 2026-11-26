@@ -22,7 +22,7 @@ Florian Znaniecki (1882-1958) was a Polish-American sociologist and philosopher.
 
 ## Life and Context
 
-Znaniecki was born in Poland, studied philosophy in Warsaw, Geneva, Zurich and Krakow, and received his doctorate at Krakow. He worked with William I. Thomas in the United States on a study of Polish peasants in Europe and America, and later held a chair in sociology at the University of Poznan in newly independent Poland, founding a sociological institute there. After the outbreak of World War II he settled in the United States, and taught at the University of Illinois until retirement. He was president of the American Sociological Association in 1954.
+Znaniecki was born in Poland, studied philosophy in Warsaw, Geneva, Zurich and Krakow, and received his doctorate at Krakow. He worked with William I. Thomas in the United States on a study of Polish peasants in Europe and America, and later held a chair in sociology at the University of Poznan in newly independent Poland, founding a sociological institute there. After the outbreak of World War II he settled in the United States, and taught at the University of Illinois until retirement. He was president of the American Sociological Society (renamed the American Sociological Association in 1959) in 1954.
 
 ## Main Ideas
 
@@ -52,9 +52,14 @@ The work shaped Chicago-school sociology, qualitative research and the study of 
 
 Analytic induction was applied in classic studies such as Alfred Lindesmith's work on opiate addiction (1947) and Donald Cressey's study of embezzlers (1953). Znaniecki's concerns link to the Chicago school, to symbolic interactionism and to W. I. Thomas's definition of the situation.
 
+## Further Biographical and Theoretical Detail
+
+Znaniecki was born in the Prussian-ruled part of Poland and also studied in Paris; he received his Kraków doctorate in 1910. His work for an organisation assisting emigrants brought him into contact with Thomas, and in 1914 he moved to Chicago to collaborate with him. He returned to Poland in 1920, later launched the journal *Przegląd Socjologiczny*, and spent 1931-1933 at Columbia University. *Cultural Reality* (1919) is among his philosophical works. With Thomas he argued that social change must be explained through the interplay of objective social values and subjective attitudes, and described social disorganisation, in which established rules lose their hold on a group's members, and reorganisation, in which new forms of cooperation are built. The long autobiography in *The Polish Peasant* was written by a migrant, Władek Wiszniewski. *The Social Role of the Man of Knowledge* examines the positions of people who specialise in knowledge, such as technologists, sages and scholars.
+
 ## Sources
 
 - Thomas, William I., and Florian Znaniecki. *The Polish Peasant in Europe and America* (1918-20).
 - Znaniecki, Florian. *The Method of Sociology* (1934).
 - Znaniecki, Florian. *Social Actions* (1936).
 - Blumer, Herbert. *An Appraisal of Thomas and Znaniecki's "The Polish Peasant in Europe and America"* (1939).
+- Znaniecki, Florian. *The Social Role of the Man of Knowledge* (1940).

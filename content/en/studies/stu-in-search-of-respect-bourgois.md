@@ -14,7 +14,7 @@ edges:
 - rel: "belongs_to", target: "Whyte's Participant Observation", target_type: "مدرسة"
 related:
 - id: "sch-whyte-participant-observation", title: "Sociology of Participant Observation and Marginal Communities", type: "مدرسة"
-- id: "stu-gang-leader-for-a-day-venkatesh", title: "Gang Leader for a Day: A Rogue Sociologist Takes to the Streets", type: "دراسة وبحث"
+- id: "stu-gang-leader-for-a-day", title: "Gang Leader for a Day", type: "دراسة"
 - id: "thk-philippe-bourgois", title: "Philippe Bourgois", type: "مفكر"
 gaps: []
 ---

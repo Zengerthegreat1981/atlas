@@ -54,6 +54,10 @@ Critics have engaged with the book from many directions. Margaret Simons and oth
 
 *The Second Sex* remains a living text. Its central question — what does it mean to be a woman? — is asked anew in debates about gender identity, reproductive rights, care work, and the persistence of the pay gap and of violence against women. Sociologists continue to use Beauvoir's framework to study how femininity is produced in childhood, in workplaces, and in intimate life, and how women negotiate the tension between immanence and transcendence in their own biographies. The book's insistence that biology is not destiny and that freedom must be claimed rather than granted remains the starting point for feminist sociology.
 
+## Further Points of Argument and Debate
+
+Beauvoir ties women's liberation to economic independence through work, while holding that work alone is not enough without wider social change. Critics have also questioned her comparisons between women, Black people and Jews, which can obscure those who belong to several subordinated groups at once. Other scholars defend the book's account of ambiguity and embodiment as more complex than hostile readings of its treatment of motherhood and the body allow.
+
 ## Sources
 
 - Beauvoir, Simone de. *The Second Sex*. Paris: Gallimard, 1949. English translation by Constance Borde and Sheila Malovany-Chevallier. New York: Alfred A. Knopf, 2010.

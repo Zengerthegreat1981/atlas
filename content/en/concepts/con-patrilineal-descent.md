@@ -4,6 +4,7 @@ id: "CON-21501"
 type: "مفهوم"
 part: "anthropology"
 level: "متقدم"
+quality: "unverified"
 title: "Patrilineal Descent"
 en: "Patrilineal Descent"
 crumb: "Anthropology ← Concepts ← Patrilineal Descent"
@@ -13,7 +14,7 @@ edges:
 - rel: "belongs_to", target: "Descent Theory", target_type: "مدرسة"
 related:
 - id: "thk-evans-pritchard", title: "E. E. Evans-Pritchard", type: "مفكر"
-- id: "con-descent-theory", title: "Descent Theory", type: "مفهوم"
+- id: "sch-descent-theory", title: "Descent Theory", type: "مدرسة"
 gaps: []
 ---
 

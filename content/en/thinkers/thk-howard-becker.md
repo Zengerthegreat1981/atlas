@@ -58,8 +58,14 @@ Becker's work connects with a family of interactionist concepts. Labelling theor
 
 Labelling theory had a lasting effect on criminology, the sociology of medicine and cultural sociology. Critics argued that the approach neglects the causes of initial rule-breaking and understates the harm of some deviance. Alvin Gouldner's "The Sociologist as Partisan" (1968) criticised the sympathy toward underdogs. Becker's accessible, craft-oriented style remains widely taught. He died in 2023.
 
+## Collective Activity, Credibility, and Later Career
+
+Becker often framed the question as how people do things together: institutions are ongoing coordinated activity, held together by shared conventions. In "Whose Side Are We On?" (1967) he named a hierarchy of credibility: people in superordinate positions are commonly granted the right to define what is going on, so a study that takes subordinates seriously is apt to be charged with bias. His work on dance musicians showed an occupational group marking itself off from the audiences it played for. *Boys in White* described medical students at the University of Kansas collectively deciding what to study and how to meet the demands of the faculty. He treated the argument of *Outsiders* as an account of how rules and labels are applied, and he did not present it as a complete explanation of why people break rules in the first place. *Evidence* (2017) examines how data become evidence and the characteristic errors of both quantitative and qualitative work. He taught at Northwestern University from 1965 to 1991 and at the University of Washington from 1991 until he retired in 1999. In later years he spent part of each year in Paris, where his books had a large readership, and he died in San Francisco on 16 August 2023.
+
 ## Sources
 
+- Becker, Howard S. "Whose Side Are We On?" *American Sociological Review* 32, no. 3 (1967): 239–247.
+- Becker, Howard S. *Evidence*. University of Chicago Press, 2017.
 - Becker, Howard S. *Outsiders* (1963).
 - Becker, Howard S. *Art Worlds* (1982).
 - Becker, Howard S. *Tricks of the Trade* (1998).

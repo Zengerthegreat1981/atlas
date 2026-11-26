@@ -42,6 +42,10 @@ Cultural relativism's influence is enormous and double-edged. It underwrote anth
 
 The discipline's response has generally been to hold relativism as a methodological starting point rather than a final moral doctrine: understand first, in the culture's own terms, and then — with that understanding in hand — decide what to say. That is the position Geertz defended, and it remains the working settlement in most of the field. The limits of relativism's anti-racist stance and its difficulties for cross-cultural comparison remain live questions, and they are part of the reason the principle, more than a century old, is still argued about.
 
+## Method, Moral Relativism and the Samoa Dispute
+
+The methodological rule does not by itself say that every practice is morally right; that stronger position, usually called moral relativism, is a further and contested step. A practice can be made intelligible without being approved, and because description depends on translation into the writer's language, the rule checks premature judgment without guaranteeing a neutral account. In *Patterns of Culture*, Benedict developed her argument through portraits of the Pueblo peoples (chiefly Zuni), the Dobu and the Kwakwaka'wakw. Mead's Samoan ethnography later became a public controversy after Derek Freeman's *Margaret Mead and Samoa* (1983). That dispute concerns the evidence about Samoa rather than refuting relativism as a whole, but it showed how much public argument had rested on a single case.
+
 ## Sources
 
 - Sumner, William Graham. *Folkways: A Study of the Sociological Importance of Usages, Manners, Customs, Mores, and Morals*. 1906.
@@ -51,3 +55,4 @@ The discipline's response has generally been to hold relativism as a methodologi
 - American Anthropological Association. "Statement on Human Rights." *American Anthropologist* 49, no. 4. 1947.
 - Herskovits, Melville J. *Man and His Works: The Science of Cultural Anthropology*. 1948.
 - Geertz, Clifford. "Anti Anti-Relativism." *American Anthropologist* 86, no. 2. 1984.
+- Freeman, Derek. *Margaret Mead and Samoa: The Making and Unmaking of an Anthropological Myth*. Cambridge, MA: Harvard University Press, 1983.

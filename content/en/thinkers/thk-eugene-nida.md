@@ -17,7 +17,7 @@ active_end: 2011
 active_source: "lifespan"
 edges:
 - rel: "belongs_to", target: "Translation Studies", target_type: "مدرسة"
-related:
+related: []
 gaps: []
 ---
 

@@ -42,6 +42,10 @@ The book's evidence is the hotel on Unst and the countless small encounters Goff
 
 The book's relevance has only grown, because the world it describes has expanded. Goffman wrote about hotel staff and dinner parties; his readers now apply his concepts to job interviews on video calls, to dating apps, to the curated self of Instagram, and to the performance of professionalism in remote work. At the same time, the book's limits have become clearer. Feminist critics have argued that Goffman's performers are curiously ungendered, and that the labour of impression management falls unevenly on women and on marginalised people, for whom a failed performance carries higher costs. The book also says little about power: who gets to define the situation, and who must accept someone else's definition, is a question Goffman leaves mostly unasked. 
 
+## Further Distinctions and Criticism
+
+Goffman separates the expression a person gives, mainly deliberate verbal communication, from the expression a person gives off, which others read from conduct. Performers may be sincere, believing in the part they play, or cynical about it, and performances tend to idealise by stressing officially valued standards and concealing what is inconsistent with them. Besides the Shetland fieldwork, the book draws on etiquette books, memoirs, novels and other researchers' studies of workplaces and institutions. Later chapters examine discrepant roles, such as informers and go-betweens, and communication out of character. Goffman presented the theatrical vocabulary as a limited analytical device. Alvin Gouldner read the approach as reflecting a middle-class world preoccupied with appearances.
+
 ## Sources
 
 - Goffman, Erving. *The Presentation of Self in Everyday Life*. University of Edinburgh, 1956. Revised edition, Doubleday, 1959.
@@ -51,3 +55,4 @@ The book's relevance has only grown, because the world it describes has expanded
 - Burns, Tom. *Erving Goffman*. Routledge, 1992.
 - Manning, Philip. *Erving Goffman and Modern Sociology*. Polity Press, 1992.
 - Scheff, Thomas J. *Goffman Unbound! A New Paradigm for Social Science*. Paradigm Publishers, 2006.
+- Gouldner, Alvin W. *The Coming Crisis of Western Sociology*. Basic Books, 1970.

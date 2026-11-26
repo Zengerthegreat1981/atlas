@@ -4,6 +4,7 @@ id: "ANT-13101"
 type: "مفهوم"
 part: anthropology
 level: "متوسط"
+quality: "unverified"
 title: "Symbol: Meaning, Condensation, and Representation"
 en: "Symbol"
 crumb: "Anthropology ← Core Concepts ← Symbol"

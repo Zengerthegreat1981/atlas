@@ -28,7 +28,7 @@ This entry sets out a methodological and political contrast between two generati
 
 ## First Generation: The Distant Colonial Site
 
-Bronisław Malinowski and E. E. Evans-Pritchard (see `thk-bronislaw-malinowski` and `thk-evans-pritchard`) applied the method of participant observation to societies classified from the position of the European researcher as "other" geographically, culturally and politically: the Trobriand Islands under Australian-administered colonial rule in Papua, and the Azande and Nuer in the Anglo-Egyptian Sudan. The researcher there was an outsider coming from the center of the empire to its periphery, and his relationship to the subject of study, however deep his fieldwork immersion, was conditioned by the colonial power structure that made his access possible in the first place.
+Bronisław Malinowski and E. E. Evans-Pritchard (see `thk-malinowski` and `thk-evans-pritchard`) applied the method of participant observation to societies classified from the position of the European researcher as "other" geographically, culturally and politically: the Trobriand Islands under Australian-administered colonial rule in Papua, and the Azande and Nuer in the Anglo-Egyptian Sudan. The researcher there was an outsider coming from the center of the empire to its periphery, and his relationship to the subject of study, however deep his fieldwork immersion, was conditioned by the colonial power structure that made his access possible in the first place.
 
 ## Second Generation: The Domestic "Lived Religion"
 

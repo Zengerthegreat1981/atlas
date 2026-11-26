@@ -4,6 +4,7 @@ id: SOC-14150
 type: مفكر
 part: sociology
 level: متوسط
+quality: "unverified"
 title: Anouar Abdel-Malek
 en: Anouar Abdel-Malek
 crumb: "Sociology ← Anouar Abdel-Malek"
@@ -12,8 +13,7 @@ active_start: 1924
 active_end: 2012
 edges: []
 related: []
-gaps:
-- Contemporary empirical examples: not yet covered
+gaps: []
 sociological_tradition: other
 sociological_paradigm: micro-macro
 ---
@@ -55,6 +55,10 @@ Abdel-Malek's work connects with Orientalism, Eurocentrism, hegemony, imperialis
 
 His critique of Orientalism helped open the way for postcolonial studies, although his name is less widely known than Said's. Critics have said that his notion of civilizational specificity risks essentialism of its own, and that his political commitments sometimes shape his analysis. His work remains most cited in debates on Orientalism, decolonizing knowledge and the sociology of the Arab world.
 
+## Contemporary Empirical Examples
+
+Later research has used Abdel-Malek's account of a military society to describe Egypt after the Nasser years. Yezid Sayigh, in a 2012 Carnegie paper written as elected civilians were contesting the Supreme Council of the Armed Forces, treats the "officers' republic" under Hosni Mubarak as a degenerated form of the military society Abdel-Malek described. He borrows Abdel-Malek's label of a senior-officer "caste" and notes that, after 1991, retirement into ministries, agencies, local government and state-owned companies expanded that caste far beyond the roughly 1,500 upper-rank appointments Abdel-Malek estimated for 1954–1962. Sayigh finds much of the 1960s pattern of officers in cabinets, public boards and security posts true again by the 2000s, with two clear exceptions: almost no diplomats, other than defence attachés, and only a few senior media officials now come from the armed forces. He also records a change of political form. Under Mubarak the presidency, not the army as a political force, held the totality of decision, while the armed forces remained one actor in a polyarchy that included security agencies, business groups and the ruling party, especially after Gamal Mubarak's circle rose around 2000. The same networks, Sayigh argues, outlasted Mubarak's removal in 2011 and continued to permeate administration and the state economy.
+
 ## Sources
 
 - Abdel-Malek, Anouar. "Orientalism in Crisis." *Diogenes* (1963).
@@ -62,3 +66,4 @@ His critique of Orientalism helped open the way for postcolonial studies, althou
 - Abdel-Malek, Anouar. *Social Dialectics* (1981).
 - Said, Edward W. *Orientalism* (1978).
 - Alatas, Syed Hussein. *The Myth of the Lazy Native* (1977).
+- Sayigh, Yezid. *Above the State: The Officers' Republic in Egypt*. Carnegie Endowment for International Peace (2012).

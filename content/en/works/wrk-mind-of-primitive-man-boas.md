@@ -11,7 +11,7 @@ dates: "1911 · Boas"
 edges:
   - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
   - rel: "written_by", target: "Boas", target_type: "مفكر"
-related:
+related: []
 gaps: []
 ---
 
@@ -43,6 +43,10 @@ Criticism came from several directions. Later anthropologists found Boas's histo
 
 Yet the book's central achievement stands. Before Boas, anthropology provided a scientific vocabulary for ranking peoples; after him, it provided a scientific vocabulary for refusing to. *The Mind of Primitive Man* is the book in which that reversal was argued, in detail and in public, and it remains a central text of anti-racist anthropology.
 
+## Independence of Race, Language and Culture
+
+Boas argued that variation within any population is large and that the ranges of different groups overlap. Physical type, language and culture do not change together: people can adopt a new language or customs without any corresponding biological change, and related populations can differ culturally. The immigrant study that informed the argument was conducted for the United States Immigration Commission. Historians also note that the book keeps some assumptions of its period, including comparisons of levels of civilisation and cautious remarks about possible average biological differences, so that it reads as a turning point containing tensions. The explicit formulation of cultural relativism owes much to Boas's students.
+
 ## Sources
 
 - Boas, Franz. *The Mind of Primitive Man*. Macmillan, 1911. Revised edition, Macmillan, 1938.
@@ -54,3 +58,4 @@ Yet the book's central achievement stands. Before Boas, anthropology provided a 
 - Boas, Franz. *Changes in Bodily Form of Descendants of Immigrants*. Columbia University Press, 1912.
 - Lewis, Herbert S. "The Misrepresentation of Anthropology and Its Consequences." *American Anthropologist*, 1998.
 - Baker, Lee D. *From Savage to Negro: Anthropology and the Construction of Race, 1896–1954*. University of California Press, 1998.
+- Williams, Vernon J., Jr. *Rethinking Race: Franz Boas and His Contemporaries*. University Press of Kentucky, 1996.

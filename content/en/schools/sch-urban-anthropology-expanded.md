@@ -10,7 +10,7 @@ crumb: "Anthropology ← Schools ← Urban Anthropology"
 dates: "USA/International · 1960s-present"
 edges:
   - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
-related:
+related: []
 gaps: []
 ---
 
@@ -42,6 +42,14 @@ Urban anthropology's influence is now hard to overstate, because the city has be
 
 On the first, AbdouMaliq Simone's *City Life from Jakarta to Dakar* (2010) examines how residents of fast-growing cities in the Global South improvise livelihoods and collective life amid infrastructural precarity. On the second, Sarah Pink and colleagues' *Digital Ethnography: Principles and Practice* (2016) and the wider digital anthropology literature ask how phones and platforms are woven into urban routines, so that digital and physical urban space are studied together rather than apart.
 
+## Further problems
+
+A useful distinction separates anthropology in the city, research that happens to be located there, from anthropology of the city, which treats urban organisation itself as the problem. Robert Redfield's folk–urban continuum, drawn from work in Mexico, treated rural and urban life as poles and drew criticism for that simplification. J. Clyde Mitchell's *The Kalela Dance* (1956) showed how ethnic categories took on new uses in the mining towns of central Africa.
+
+Janice Perlman's *The Myth of Marginality* (1976) argued that residents of Rio de Janeiro's favelas were tied into city life on unequal terms. Philippe Bourgois's ethnography of drug sellers in East Harlem connected street income to the labour market and to stigma. Teresa Caldeira's *City of Walls* (2000) examined talk of crime, fear, and fortified enclaves in São Paulo. AbdouMaliq Simone's essay "People as Infrastructure" (2004) proposed that residents of African cities sustain livelihoods by combining relationships and improvised arrangements, so that people themselves function as infrastructure.
+
+A neighbourhood study does not stand for a megacity. Researchers follow commuting, supply chains, water, electricity, waste, finance, and policy across districts and jurisdictions. Work on cities of the global South has criticised theory that treats European and North American cities as the normal case. Informal settlement and informal labour are relations to law and the state, which may tolerate, tax, demolish, or regularise them. Phones, mapping services, delivery platforms, ride hailing, and surveillance change who is visible on the street. Claims made for smart cities can be set beside maintenance, breakdown, and unequal access, and online neighbourhood groups affect reputation, safety, and mobilisation.
+
 ## Sources
 
 - Park, Robert E. "The City: Suggestions for the Investigation of Human Behavior in the City Environment." *American Journal of Sociology* 20, no. 5. 1915.
@@ -53,3 +61,9 @@ On the first, AbdouMaliq Simone's *City Life from Jakarta to Dakar* (2010) exami
 - Low, Setha M., ed. *Theorizing the City: The New Urban Anthropology Reader*. 1999.
 - Simone, AbdouMaliq. *City Life from Jakarta to Dakar: Movements at the Crossroads*. 2010.
 - Pink, Sarah, et al. *Digital Ethnography: Principles and Practice*. 2016.
+- Mitchell, J. Clyde. *The Kalela Dance: Aspects of Social Relationships among Urban Africans in Northern Rhodesia*. Manchester: Manchester University Press, 1956.
+- Redfield, Robert. *The Folk Culture of Yucatan*. Chicago: University of Chicago Press, 1941.
+- Perlman, Janice E. *The Myth of Marginality: Urban Poverty and Politics in Rio de Janeiro*. Berkeley: University of California Press, 1976.
+- Bourgois, Philippe. *In Search of Respect: Selling Crack in El Barrio*. Cambridge: Cambridge University Press, 1995.
+- Caldeira, Teresa P. R. *City of Walls: Crime, Segregation, and Citizenship in São Paulo*. Berkeley: University of California Press, 2000.
+- Simone, AbdouMaliq. "People as Infrastructure: Intersecting Fragments in Johannesburg." *Public Culture* 16, no. 3 (2004): 407–429.

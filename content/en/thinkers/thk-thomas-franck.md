@@ -4,6 +4,7 @@ id: "THK-20395"
 type: "مفكر"
 part: "legal-theory"
 level: "متقدم"
+quality: "unverified"
 title: "Thomas M. Franck"
 en: "Thomas M. Franck"
 crumb: "Legal Theory ← Thinkers ← Thomas M. Franck"
@@ -17,8 +18,7 @@ edges:
 - rel: "belongs_to", target: "International Law Theory", target_type: "مدرسة"
 related:
 - id: "sch-international-law-theory", title: "International Law Theory", type: "مدرسة"
-gaps:
-  - "His practical career as counsel in international litigation: not yet covered"
+gaps: []
 ---
 # Thomas M. Franck
 
@@ -56,8 +56,16 @@ Franck's theses on legitimacy have been widely used in analyzing later internati
 
 Franck's book contributed to the study of compliance with international law by moving beyond the realist and purely positivist reduction toward an analysis that combines law and social political science. Some scholars criticized it for the difficulty of measuring "legitimacy" empirically with sufficient precision, and because its four determinants may sometimes conflict with one another, with no clear criterion for weighting one over another when they clash. Others regarded it as a bridge between pure legal theory and the actual international political reality.
 
+## Practice as counsel and adviser
+
+Alongside scholarship, Franck advised governments and appeared in inter-state disputes. During decolonization he helped draft constitutions for African states emerging from British rule, including Sierra Leone, Rhodesia (later Zimbabwe), and the arrangements that joined Tanganyika and Zanzibar as Tanzania, and he served as legal adviser to the governments of Chad, Kenya, Mauritius, the Solomon Islands, and El Salvador. He took part in early negotiations that fed into the 1982 United Nations Convention on the Law of the Sea. Before the International Court of Justice he was counsel for Chad in its territorial dispute with Libya and, from 1994 until the 2007 judgment, for Bosnia and Herzegovina in the genocide case against Serbia and Montenegro. In 2001 Indonesia named him judge ad hoc in the Ligitan and Sipadan case with Malaysia, the first time a state other than the United States had appointed an American to that role. At his death he was leading Macedonia’s effort to challenge Greece’s objection to its NATO membership. He treated litigation as a way to settle political disputes in legal language.
+
 ## Sources
 
 - Franck, Thomas M. *The Power of Legitimacy Among Nations*. Oxford University Press, 1990.
 - Franck, Thomas M. *Fairness in International Law and Institutions*. Oxford University Press, 1995.
 - Franck, Thomas M. "The Emerging Right to Democratic Governance." *American Journal of International Law*, vol. 86, no. 1, 1992, pp. 46–91.
+- Buergenthal, Thomas. "Remembering Thomas Franck." *New York University Law Review*, vol. 84, 2009.
+- "Thomas Franck" (obituary). *The Guardian*, 23 August 2009.
+- American Society of International Law. "ASIL Presidents: Thomas Martin Franck."
+- "Thomas M. Franck." *Wikipedia*.

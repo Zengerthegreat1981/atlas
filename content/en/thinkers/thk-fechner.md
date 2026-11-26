@@ -19,8 +19,7 @@ related:
 - id: "thk-helmholtz", title: "Hermann von Helmholtz", type: "مفكر"
 - id: "con-psychophysics-fechner", title: "Psychophysics", type: "مفهوم"
 - id: "con-unconscious-inference", title: "Unconscious Inference in Helmholtz", type: "مفهوم"
-gaps:
-  - "Precise chronology of the crisis and recovery of 1839-1844: not yet covered."
+gaps: []
 ---
 
 # Gustav Fechner
@@ -84,6 +83,12 @@ Fechner stands in the bridge because he:
 - On the other hand, **establishes the experimental measurement of psychological phenomena**.
 - Links **metaphysics** (soul, cosmos) and **physics** (measurement, method) through psychology.
 
+## The Crisis and Recovery, 1839-1844
+
+A chronological table prepared with the University of Leipzig's Fechner and Wundt materials places the start of a long illness in December 1839. In 1840 Fechner stepped down as director of the physics institute. In May 1843 he was pensioned and Wilhelm Weber was appointed to the physics chair. The same table marks August 1843 as the worst stretch and the start of convalescence in October 1843. In July 1844 he travelled in the Harz, visiting Wilhelm von Kügelgen at Ballenstedt and Rudolf Hermann Lotze at Göttingen. He resumed lecturing in 1846.
+
+Britannica summarizes the medical setting: several years after his 1834 appointment as professor of physics, his health failed, and partial blindness with painful sensitivity to light most likely followed his gazing at the sun while studying visual afterimages around 1839-40. The university pensioned him modestly in 1844, after which he turned more fully to philosophy. Later recollections, reported in histories of the illness, have Fechner saying that by Christmas 1839 he could no longer use his eyes for lectures, that he gave up the post when he could not bear daylight, and that in the autumn of 1843 the improvement was fairly quick. The dates of resignation, pension and travel are better fixed than any single story of a sudden cure.
+
 ## Principal Works
 
 - *Das Büchlein vom Leben nach dem Tode* (1836).
@@ -102,3 +107,5 @@ Fechner stands in the bridge because he:
 - Heidelberger, Michael. *Nature from Within: Gustav Theodor Fechner and His Psychophysical Worldview*. University of Pittsburgh Press, 2004.
 - Michell, Joel. *Measurement in Psychology: A Critical History of a Methodological Concept*. Cambridge University Press, 1999.
 - Sabra, A. I. *The Optics of Ibn al-Haytham: Books I–III, On Direct Vision*. Warburg Institute, 1989.
+- University of Leipzig. Chronological table to the life of Gustav Theodor Fechner (Fechner and Wundt project).
+- Encyclopaedia Britannica. "Gustav Fechner."

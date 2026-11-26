@@ -4,6 +4,7 @@ id: "SCH-12334"
 type: "مدرسة"
 part: "religious-studies"
 level: "متقدم"
+quality: "incomplete"
 religious_tradition: "Multi-religious"
 study_approach: "Socio-technical study of religion and digital technology"
 title: "Comparative Study of Digital Religion and Virtual Worship"
@@ -17,9 +18,8 @@ active_end: "مستمر"
 crumb: "Religious Studies ← Schools ← Digital Religion Studies"
 edges:
 - rel: "belongs_to", target: "Founding of the Science of Religion", target_type: "مدرسة"
-related:
+related: []
 gaps:
-  - "Fast-moving field: literature on generative AI and religion is being published faster than it can be documented here."
   - "Not yet covered: there are still not enough longitudinal studies measuring the effect of virtual worship on social cohesion compared with in-person worship."
 ---
 
@@ -49,6 +49,10 @@ Islam has a particular presence in these studies. Gary Bunt documented, in *Virt
 
 The field relies largely on Western case studies and on Protestant Christianity, and its coverage of Islamic, Hindu and Buddhist traditions remains less mature. The speed of technology means that peer-reviewed literature lags behind practice, so many of its conclusions are preliminary. The field is also criticized for assuming that "religion" can be separated from "technology", whereas the role of media such as print and radio in shaping religion is long-standing, as Stig Hjarvard's concept of "mediatization" (*Northern Lights*, 2008) emphasizes. Finally, data on practice on private platforms is limited by privacy and by changes in algorithms.
 
+## Generative AI in religious work
+
+A fast-growing corner of the field concerns generative artificial intelligence used inside religious leadership. Cheong and Liu (2025), writing in *Human-Machine Communication*, report interviews with pastors in the United States. Those pastors described generative systems as an idea generator, a research assistant, a co-author, and a translator, and they described using them in religious education and in preparing sermons. The same study records a tension inside that practice: clergy weigh speed and help with wording against doubts about the authenticity and spiritual depth of machine-produced material, and against established rites, while still trying to meet congregational needs under limits of time and staff. The authors frame this as religious human-machine communication and point toward further work on governance and ethics. The pattern can be stated from that research. A full running bibliography of the specialty cannot, because new tools and studies continue to appear faster than a reference page can list them.
+
 ## Sources
 
 - Bunt, Gary R. *Virtually Islamic: Computer-Mediated Communication and Cyber Islamic Environments*. University of Wales Press, 2000.
@@ -59,3 +63,4 @@ The field relies largely on Western case studies and on Protestant Christianity,
 - Campbell, Heidi A. "Surveying Theoretical Approaches within Digital Religion Studies." *New Media & Society* 19, no. 1 (2017).
 - Hjarvard, Stig. "The Mediatization of Religion: A Theory of the Media as Agents of Religious Change." *Northern Lights* 6 (2008).
 - O'Leary, Stephen D. "Cyberspace as Sacred Space: Communicating Religion on Computer Networks." *Journal of the American Academy of Religion* 64, no. 4 (1996).
+- Cheong, Pauline Hope, and Liming Liu. "Generative Artificial Intelligence and Collaboration: Exploring Religious Human-Machine Communication and Tensions in Leadership Practices." *Human-Machine Communication* 11, no. 1 (2025): 171–190.

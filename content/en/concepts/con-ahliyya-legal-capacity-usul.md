@@ -17,8 +17,7 @@ related:
 - id: "thk-shams-al-aimma-al-sarakhsi", title: "Shams al-A'imma Muhammad ibn Ahmad al-Sarakhsi", type: "مفكر"
 - id: "con-hukm-taklifi-wadi-usul", title: "Hukm Taklifi and Hukm Wad'i (Usul)", type: "مفهوم"
 - id: "con-insanity-defense-mnaghten", title: "Insanity Defense and the M'Naghten Rule", type: "مفهوم"
-gaps:
-  - "Country-by-country comparison with modern civil capacity rules (such as ages of majority): not yet covered"
+gaps: []
 ---
 
 # Ahliyya (Legal Capacity)
@@ -49,9 +48,22 @@ Puberty is established by physical signs, and failing these by age. The majority
 
 Puberty alone does not release property: Qur'an 4:6 also requires sound judgment (*rushd*). Most jurists continue interdiction until it appears, whereas Abu Hanifa held that property must be handed over at twenty-five. The Shafi'is include religious probity as well as financial competence in *rushd*, while the majority stress the latter. Malikis add further conditions for a woman, traditionally including consummated marriage.
 
+## Ages of Majority in Selected Civil Codes
+
+Classical fiqh does not fix one birthday for full capacity of performance. Puberty, often presumed at fifteen lunar years by the majority, or at the later ages of eighteen for males and seventeen for females reported from Abu Hanifa, is joined to sound judgment before property is released. Modern codes replace that pair with a statutory age, and they do not agree with one another or with the fiqh figures.
+
+Article 44 of the Egyptian Civil Code sets full capacity at twenty-one complete Gregorian years, provided the person has mental faculties and is not under interdiction. A comparative note on the Saudi Civil Transactions Law records majority there at eighteen complete Hijri years. In England and Wales the Family Law Reform Act 1969 reduced the age of majority from twenty-one to eighteen. French law has likewise fixed majority at eighteen since the statute of 5 July 1974. In the United Arab Emirates the older Civil Transactions Law used twenty-one lunar years. A new civil transactions law, reported in January 2026, lowers majority to eighteen Gregorian years and keeps a lower age, fifteen Gregorian years, at which a minor may ask a court for leave to manage assets.
+
+These statutes share the fiqh idea that childhood limits performance while rights can still vest. They drop the physical signs of puberty, the separate test of *rushd*, and Abu Hanifa's outer age of twenty-five for handing over property. Voting age, marriage age and criminal responsibility often sit at different numbers again, so "majority" in a civil code is not the whole of legal adulthood.
+
 ## Sources
 
 - al-Sarakhsi, Muhammad ibn Ahmad. *Usul al-Sarakhsi*. Edited by Abu al-Wafa al-Afghani. Hyderabad: Lajnat Ihya al-Ma'arif al-Nu'maniyya.
 - Kamali, Mohammad Hashim. *Principles of Islamic Jurisprudence*. Cambridge: Islamic Texts Society, 1991.
 - Ibn Rushd (Averroes). *Bidayat al-Mujtahid wa-Nihayat al-Muqtasid* (chapter on interdiction).
 - Ibn Qudama. *al-Mughni* (chapter on interdiction).
+- Egyptian Civil Code, article 44 (age of majority).
+- Saudi Civil Transactions Law (age of majority stated as eighteen Hijri years).
+- Family Law Reform Act 1969 (England and Wales).
+- French Civil Code, majority fixed at eighteen by the law of 5 July 1974.
+- The National. "UAE lowers age of adulthood to 18 in modernisation drive." 1 January 2026.

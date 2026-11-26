@@ -14,7 +14,7 @@ edges:
 - rel: "belongs_to", target: "Alliance Theory", target_type: "مدرسة"
 related:
 - id: "con-kinship-theory", title: "Kinship Theory", type: "مفهوم"
-- id: "con-descent-theory", title: "Descent Theory", type: "مفهوم"
+- id: "sch-descent-theory", title: "Descent Theory", type: "مدرسة"
 gaps: []
 ---
 # Asymmetric Alliance

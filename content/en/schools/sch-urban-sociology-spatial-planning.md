@@ -15,7 +15,7 @@ language: "English"
 active_start: 1961
 active_end: 1961
 edges: []
-related:
+related: []
 gaps: []
 ---
 

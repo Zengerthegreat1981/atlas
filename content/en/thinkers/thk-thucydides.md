@@ -45,6 +45,10 @@ Thucydides exerted a lasting influence on Hellenistic and Roman historians, nota
 
 The text of Thucydides was not translated into Arabic during the classical translation movement in Baghdad, which favored Aristotelian logic, natural philosophy, and medicine over Greek narrative historiography. Classical Muslim historiography developed its own critical methods independently, and later writers such as Ibn Khaldun (732–808 AH / 1332–1406 CE) criticized unverified reports in the *Muqaddimah*, assessing them against the nature of social organization (*'umran*); any comparison with Thucydides is a modern analogy rather than a documented influence.
 
+## Chronology, Causes and Purpose
+
+Instead of relying on the differing civic calendars of the Greek states, Thucydides arranged his narrative by successive summers and winters, which gave it a uniform time frame. In Book I (1.23) he separated the openly stated grievances that led to hostilities, such as the disputes over Corcyra and Potidaea, from the underlying cause, the growth of Athenian power and the fear it aroused in Sparta. He presented the work as a possession for all time (*ktēma es aiei*) rather than a performance for immediate applause.
+
 ## Sources
 
 - Thucydides. *History of the Peloponnesian War*. 4 vols. Translated by C. F. Smith. Loeb Classical Library. Cambridge, MA: Harvard University Press, 1919–1923.
@@ -54,3 +58,4 @@ The text of Thucydides was not translated into Arabic during the classical trans
 - Allison, Graham. *Destined for War: Can America and China Escape Thucydides's Trap?*. Boston: Houghton Mifflin Harcourt, 2017.
 - de Ste. Croix, G. E. M. *The Origins of the Peloponnesian War*. London: Duckworth, 1972.
 - Rood, Tim. *Thucydides: Narrative and Explanation*. Oxford: Clarendon Press, 1998.
+- Hornblower, Simon. *A Commentary on Thucydides*. 3 vols. Oxford: Oxford University Press, 1991–2008.

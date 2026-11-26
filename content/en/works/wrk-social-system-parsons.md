@@ -52,6 +52,10 @@ For twenty years *The Social System* set the agenda of American sociology. Struc
 
 The criticisms are formidable and largely familiar. Parsons's theory is accused of conservatism: by treating order as the normal state and conflict as strain, it makes the existing arrangement look natural and dissent pathological. C. Wright Mills charged that it was grand theory detached from real problems, and Alvin Gouldner linked it to a conservative outlook and to the rise of the welfare state. Feminist critics noted its treatment of the family as functional ignored the power of men over women, and its universalism generalised from American middle-class life. The theory struggles with change, power, and history: it can describe a system in equilibrium but not explain how one system becomes another. Defenders reply that Parsons offered analytical tools, not a political programme, and that the tools can be used critically — but the charge that the book's questions already contain its answers has stuck. Parsons continued the project in *Economy and Society* (1956, with Neil Smelser) and *The System of Modern Societies* (1971), while Jeffrey Alexander's *Theoretical Logic in Sociology*, volume 4 (1983), reconstructs him sympathetically.
 
+## Action Systems and Pattern Variables
+
+*The Structure of Social Action* had also drawn on Alfred Marshall, and around 1951 Parsons collaborated with Edward Shils and others on *Toward a General Theory of Action*. *The Social System* distinguishes three analytically separate but interdependent systems of action: the social system, the personality system and the cultural system. Its basic structural unit is the status-role, the position an actor occupies together with the conduct expected of it. Because shared value standards are institutionalised in role expectations and internalised through socialisation, conforming can also satisfy the actor's own dispositions. The five pattern variables are affectivity and affective neutrality, self-orientation and collectivity-orientation, universalism and particularism, achievement and ascription, and specificity and diffuseness. Defenders also note that the book discusses sources of strain and change.
+
 ## Sources
 
 - Parsons, Talcott. *The Social System*. Free Press, 1951.
@@ -66,3 +70,4 @@ The criticisms are formidable and largely familiar. Parsons's theory is accused 
 - Smelser, Neil J. *Social Change in the Industrial Revolution*. University of Chicago Press, 1959.
 - Parsons, Talcott, and Neil J. Smelser. *Economy and Society*. Routledge and Kegan Paul, 1956.
 - Mitchell, William C. *Sociological Analysis and Politics: The Theories of Talcott Parsons*. Prentice-Hall, 1967.
+- Parsons, Talcott, and Edward A. Shils, eds. *Toward a General Theory of Action*. Harvard University Press, 1951.

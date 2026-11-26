@@ -4,6 +4,7 @@ id: "THK-12369"
 type: "مفكر"
 part: "religious-studies"
 level: "متقدم"
+quality: "unverified"
 nationality: "German-born American"
 field: "Theology, philosophy of religion, literary criticism of sacred texts"
 school: "sch-narrative-theology-frei-lindbeck"
@@ -19,8 +20,7 @@ edges:
 - rel: "belongs_to", target: "Narrative Theology", target_type: "مدرسة"
 related:
 - id: "con-narrative-identity-religious", title: "Religious Narrative Identity", type: "مفهوم"
-gaps:
-  - "Application of Frei's narrative approach to Qur'anic exegesis: not yet covered"
+gaps: []
 ---
 
 # Hans W. Frei
@@ -43,6 +43,10 @@ Frei did not call for a return to literalist reading of the Bible. Instead, he a
 
 Frei influenced George Lindbeck and other colleagues at Yale. Lindbeck's book *The Nature of Doctrine* (Westminster Press, 1984) developed the theory of "cultural-linguistic" doctrine. Frei's work opened a comparative question: if the narrative structure is the basis of Christian religious identity, what about other traditions? Islam offers a direct point of comparison: the Qur'an calls its stories "the best of stories" (Yusuf 12:3), and regards story as a means of guidance. A related question was raised by Muhammad Ahmad Khalafallah in his thesis "The Artistic Narrative in the Holy Qur'an" (Cairo University, 1947, later published), namely whether the Qur'anic story is bound by literal historical truth or is a narrative art serving a religious purpose. His thesis met with sharp rejection at the university. In modern times, Mustansir Mir studied Surat Yusuf as a coherent narrative unit combining plot, characters and purposes ("The Qur'anic Story of Joseph", *The Muslim World*, 1986). These cases confirm that the question of the relationship between history and narrative in sacred texts is not specific to Christianity, although they do not show any influence from Frei.
 
+## Frei's typology and Islamic interpretation
+
+A published comparison does take Frei's later typology into Islamic discussion of theology and scripture, which is a narrower move than rewriting Qur'anic narrative on the model of *The Identity of Jesus Christ*. Yasir S. Ibrahim's article "Hans Frei's Typology of Christian Theology: A Comparative Look at the Islamic Tradition" (*Journal of Ecumenical Studies* 44, no. 4, 2009) starts from *Types of Christian Theology*. Frei sorted modern Christian positions by how they relate a community's own description of its faith to external theories of meaning. Ibrahim asks whether similar variables appear among modern Muslim writers on theology and on interpretation of the Qur'an, once the Christian wording of the types is kept in view. He treats some of those disciplines as theories of explanation whose claims sit outside the community's own account, and he places writers often set at opposite poles, including Muhammad Abduh and Sayyid Qutb, nearer one another when both stay with a Qur'an-based description of Islamic ideas. The essay's conclusion is that the typology can sort positions in Islamic theology and textual interpretation. It does not offer a commentary that reads Qur'anic stories as "history-like" narratives in Frei's sense, and it does not claim that Khalafallah or Mir drew on Frei. The cases already noted on this page remain independent of his work.
+
 ## Methodological Position and Limits
 
 Frei stands at the intersection of the critique of theological discourse, the literary analysis of sacred texts, and the epistemology of religion. His work has been criticized from several directions. Some exegetes held that his contrast between the "realistic narrative" reading and "historical criticism" is sharper than necessary, and that some exegetes of the eighteenth and nineteenth centuries did not abandon narrative. Liberal theologians held that neglecting the historical reference of events exposes faith to the danger of closing in on the text. His work remained largely confined to a Protestant Christian context, so applying it to other traditions requires substantial adjustments.
@@ -55,3 +59,4 @@ Frei stands at the intersection of the critique of theological discourse, the li
 - Frei, Hans W. *Types of Christian Theology*, ed. George Hunsinger and William C. Placher. New Haven: Yale University Press, 1992.
 - Lindbeck, George A. *The Nature of Doctrine: Religion and Theology in a Postliberal Age*. Philadelphia: Westminster Press, 1984.
 - Mir, Mustansir. "The Qur'anic Story of Joseph: Plot, Themes, and Characters." *The Muslim World* 76 (1986): 1–15.
+- Ibrahim, Yasir S. (2009). "Hans Frei's Typology of Christian Theology: A Comparative Look at the Islamic Tradition." *Journal of Ecumenical Studies* 44 (4): 642–664.

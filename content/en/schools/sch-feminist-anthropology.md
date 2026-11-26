@@ -43,6 +43,10 @@ Feminist anthropology transformed the discipline: no ethnography today can ignor
 
 Two further developments widened the field. First, non-Western and postcolonial feminisms challenged the assumption that Western feminist categories travel unchanged: Oyèrónkẹ́ Oyěwùmí's *The Invention of Women* (1997) argued that gender was not an organizing principle of pre-colonial Yoruba society, while Abu-Lughod and Mahmood questioned how Western feminism represents Muslim women and their agency. Second, studies of gender diversity beyond a male–female binary, such as Serena Nanda's *Neither Man nor Woman: The Hijras of India* (1990) and Will Roscoe's *Changing Ones: Third and Fourth Genders in Native North America* (1998), showed that gender categories vary across societies and fed directly into queer anthropology.
 
+Earlier women anthropologists, including Margaret Mead and Phyllis Kaberry, had already written at length about women's lives. Eleanor Leacock argued that claims of universal female subordination overlooked egalitarian societies and the effects of colonialism and class. Carol MacCormack and Marilyn Strathern's *Nature, Culture and Gender* (1980) showed that a nature–culture opposition cannot simply be read into other societies. Rosaldo later reconsidered her own domestic–public model. Jane Collier and Sylvia Yanagisako urged that gender and kinship be analysed together, without treating biological reproduction as their given base.
+
+Chandra Talpade Mohanty's "Under Western Eyes" (1984) criticised writing that produced one image of an oppressed "Third World woman." The label "third gender" can hide differences among the positions it gathers. Writers drawing on Judith Butler examine how repeated conduct produces gendered subjects. The field has also debated reflexive writing, collaboration, harassment and safety in fieldwork, and the unequal standing of women's scholarship inside the discipline.
+
 ## Sources
 
 - Rosaldo, Michelle Zimbalist, and Louise Lamphere, eds. Woman, Culture, and Society. Stanford: Stanford University Press, 1974.
@@ -59,3 +63,9 @@ Two further developments widened the field. First, non-Western and postcolonial 
 - Behar, Ruth, and Deborah A. Gordon, eds. Women Writing Culture. Berkeley: University of California Press, 1995.
 - Mahmood, Saba. Politics of Piety: The Islamic Revival and the Feminist Subject. Princeton: Princeton University Press, 2005.
 - Lewin, Ellen, ed. Feminist Anthropology: A Reader. Malden, MA: Blackwell, 2006.
+- Leacock, Eleanor. "Women's Status in Egalitarian Society: Implications for Social Evolution." Current Anthropology 19, no. 2 (1978): 247–275.
+- MacCormack, Carol, and Marilyn Strathern, eds. Nature, Culture and Gender. Cambridge: Cambridge University Press, 1980.
+- Rosaldo, Michelle Z. "The Use and Abuse of Anthropology: Reflections on Feminism and Cross-Cultural Understanding." Signs 5, no. 3 (1980): 389–417.
+- Collier, Jane Fishburne, and Sylvia Junko Yanagisako, eds. Gender and Kinship: Essays Toward a Unified Analysis. Stanford: Stanford University Press, 1987.
+- Mohanty, Chandra Talpade. "Under Western Eyes: Feminist Scholarship and Colonial Discourses." Boundary 2 12, no. 3 (1984): 333–358.
+- Butler, Judith. Gender Trouble: Feminism and the Subversion of Identity. New York: Routledge, 1990.

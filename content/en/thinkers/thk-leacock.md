@@ -10,7 +10,7 @@ crumb: "Anthropology ← Feminist Anthropology ← Eleanor Leacock"
 dates: "USA · 1922-1987"
 edges:
   - rel: "belongs_to", target: "Feminist Anthropology", target_type: "مدرسة"
-related:
+related: []
 gaps: []
 ---
 

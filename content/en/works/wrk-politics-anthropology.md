@@ -15,7 +15,7 @@ edges:
 related:
   - id: "br-political-anthropology-subfield", title: "Political Anthropology", type: "مدرسة"
   - id: "sch-manchester-school", title: "Manchester School of Anthropology", type: "مدرسة"
-  - id: "wrk-african-systems", title: "African Political Systems", type: "عمل / كتاب"
+  - id: "wrk-african-political-systems-fortes-evans-pritchard", title: "African Political Systems", type: "عمل / كتاب"
 gaps: []
 ---
 

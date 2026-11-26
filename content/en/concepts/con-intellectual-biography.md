@@ -11,7 +11,7 @@ active_start: null
 active_end: null
 cultural_origin: null
 edges: []
-related:
+related: []
 gaps: []
 ---
 

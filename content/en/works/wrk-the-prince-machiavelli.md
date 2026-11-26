@@ -18,7 +18,7 @@ active_end: 1532
 edges:
 - rel: "belongs_to", target: "Civic Republicanism", target_type: "مدرسة"
 - rel: "authored_by", target: "Niccolò Machiavelli", target_type: "مفكر"
-related:
+related: []
 gaps: []
 ---
 

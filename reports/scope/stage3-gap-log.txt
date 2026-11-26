@@ -1,0 +1,196 @@
+## g3_chunk_01.txt
+con-creolization: closed 1 [https://www.routledge.com/Virtual-English-Queer-Internets-and-Digital-Creolization/Enteen/p/book/9780415994293]; kept 0
+dbt-nature-culture-anthropology: closed 0; kept 1 separate Descola and Viveiros de Castro pages are not this file and the debate text already summarizes both
+dbt-substantivism-formalism-economic-anthropology: closed 0; kept 1 a separate Schneider profile cannot be added inside this debate page
+gain-of-function-ethics: closed 1 [https://link.springer.com/article/10.1057/biosoc.2015.4]; kept 0
+sch-anthropological-political-economy: closed 0; kept 1 separate Godelier and Meillassoux profiles lie outside this school page
+stu-evans-pritchard-the-nuer: closed 1 [https://www.degruyterbrill.com/document/doi/10.1515/9780857450890/html, https://www.tandfonline.com/doi/full/10.1080/00020184.2026.2619716]; kept 0
+thk-paul-rabinow: closed 0; kept 1 no reliable source documents Rabinow's own engagement with indigenous ethical systems
+wrk-kinship-village: closed 1 [http://www.gbv.de/dms/mpib-toc/442729391.pdf]; kept 0
+
+## g3_chunk_02.txt
+wrk-kung-bushmen: closed 1 [https://utoronto.scholaris.ca/items/284d7f7a-263a-42bb-80ac-b3d32ebe48aa/full]; kept 0
+wrk-savage-mind: closed 1 [https://www.cambridge.org/universitypress/subjects/anthropology/social-and-cultural-anthropology/dingo-makes-us-human-life-and-land-australian-aboriginal-culture https://www.e-flux.com/journal/121/423018/participation]; kept 0
+wrk-tiwi-wives: closed 1 [https://researchportalplus.anu.edu.au/en/publications/tiwi-story-turning-history-downside-up/]; kept 0
+wrk-urban-culture: closed 0 []; kept 1 chapter-by-chapter outline not in sources (Wiesheu 1998 gives the five types only; typology paragraph added, gap kept) https://revistas.inah.gob.mx/index.php/cuicuilco/article/download/20300/21697/43085
+ctx-arabic-self: closed 1 [content/en/concepts/con-fear.md content/en/concepts/con-sadness.md content/en/concepts/con-shame-guilt.md content/en/concepts/con-jealousy-envy.md]; kept 1 no project source library holding verified Ghazali, Ibn Sina or Miskawayh editions; revised one sentence that denied any sadness/shame comparison after the comparison was added
+sch-nahda-modernization: closed 0 []; kept 1 no separate thinker entries for Khayr al-Din al-Tunisi or Butrus al-Bustani exist, and this task cannot add files outside the list
+thk-rumi: closed 0 []; kept 1 gap asks for direct quotations with critical-edition page numbers, which this task forbids
+thk-sibawayhi: closed 0 []; kept 1 gap asks for direct quotations from al-Kitab with edition and page references, which this task forbids
+
+## g3_chunk_03.txt
+con-debt-financial-stress-psychology-bridge: closed 0; kept 1 kin loans and mental well-being in Egypt, Jordan, Morocco and Tunisia are studied, but rotating savings associations and mental health in Arab societies lack a reliable study, so the bundled gap stays
+con-labour-process-braverman-bridge: closed 1 [https://brill.com/view/journals/jlso/29/1/article-p100_004.xml, https://journals.sagepub.com/doi/10.1177/21582440261500579]; kept 0
+con-market-morality-sandel-bridge: closed 0; kept 1 no reliable source applies Sandel's fairness or corruption arguments to Arab job-placement or marriage brokerage
+con-moral-economy-subsistence-bridge: closed 1 [https://journals.sagepub.com/doi/10.1177/00223433231168188]; kept 0
+que-what-is-forgiveness: closed 0; kept 3 dedicated pages con-forgiveness, con-grudge and thk-enright are separate entries and are not this file
+que-what-is-language: closed 0; kept 3 dedicated pages con-language, thk-chomsky and thk-humboldt are separate entries and are not this file
+rel-psychoanalysis-behaviorism: closed 1; kept 0
+rel-psychoanalysis-cbt: closed 1; kept 0
+
+## g3_chunk_04.txt
+rel-psychoanalysis-humanistic: closed 1 [https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/maslow-abraham, https://psycnet.apa.org/record/1988-97666-000, https://doi.org/10.4013/ctc.2016.92.12]; kept 0
+rel-stoicism-cbt: closed 1 [https://doi.org/10.1007/s10608-020-10183-4, https://doi.org/10.1007/s44202-022-00023-9, https://doi.org/10.1111/1460-6984.12832, https://modernstoicism.com/research/]; kept 0
+rel-szasz-existential-freedom-guilt: closed 1 [https://doi.org/10.1177/00221678211048115, https://doi.org/10.1177/00207640221087615, https://doi.org/10.1521/prev.91.3.331.38304]; kept 0
+thk-fechner: closed 1 [https://home.uni-leipzig.de/wundtbriefe/wwcd/fechlife/life.htm, https://www.britannica.com/biography/Gustav-Fechner]; kept 0
+con-justice-healthcare: closed 1 [https://www.saflii.org/za/cases/ZACC/1997/17.html]; kept 0
+con-ahliyya-legal-capacity-usul: closed 1 [https://qawam.law/en/natural-and-juridical-persons-distinguished-in-the-light-of/, https://www.thenationalnews.com/news/uae/2026/01/01/uae-lowers-age-of-adulthood-to-18-in-modernisation-drive/]; kept 0
+con-gharar-in-contracts: closed 1 [https://www.iefpedia.com/api/download?file=%2Fenglish%2Fwp-content%2Fuploads%2F2009%2F10%2FAl-Gharar-in-Contracts-and-Its-Effect-on-Contemporary-Transactions-by-Siddiq-Al-Dareer.pdf]; kept 0
+con-grundnorm-basic-norm-kelsen: closed 1 [https://books.openedition.org/enseditions/29435]; kept 0
+
+## g3_chunk_05.txt
+con-insanity-defense-mnaghten: closed 2 [https://www.findlaw.com/criminal/criminal-procedure/the-insanity-defense-among-the-states.html, https://www.oyez.org/cases/2019/18-6135, https://www.supremecourt.gov/opinions/preliminaryprint/589US2PP_final.pdf, https://openjurist.org/214/f2d/862/durham-v-united-states, https://scholar.law.colorado.edu/cgi/viewcontent.cgi?article=3221&context=lawreview]; kept 0
+con-istihsan-juristic-preference: closed 1 [https://www.iium.edu.my/deed/lawbase/maliki_fiqh/usul8.html]; kept 0
+con-legal-personality: closed 1 [https://openyls.law.yale.edu/entities/publication/c936e91e-5380-4e69-8f47-791f9b073d18/full, https://scholarlycommons.law.wlu.edu/cgi/viewcontent.cgi?article=1168&context=wlulr]; kept 0
+con-legal-transplants-watson: closed 1 [http://awf.ius.bg.ac.rs/legal_transplants.pdf]; kept 0
+con-madhhab-legal-school-institution: closed 1 [https://archive.org/download/20230801_20230801_1955/the-rise-of-colleges/The%20Rise%20of%20Colleges_hocr.html, https://link.springer.com/rwe/10.1007/978-3-319-64683-1_55]; kept 0
+con-qawaid-fiqhiyya-legal-maxims: closed 1 [https://www.abuaminaelias.com/dailyhadithonline/2012/12/19/al-suyuti-five-qawaid-fiqhiyyah/, https://brill.com/downloadpdf/book/edcoll/9789047400851/B9789047400851_s018.pdf]; kept 0
+thk-abd-al-qadir-awda: closed 0; kept 1 no reliable source showing courts applying the hudud cited his book as authority
+thk-abd-al-razzaq-al-sanhuri: closed 0; kept 1 sources describe his chairmanship or advice on the Iraqi, Syrian, Libyan and Kuwaiti codes but not his role in each provision
+
+## g3_chunk_06.txt
+thk-al-shatibi: closed 1 [https://islamansiklopedisi.org.tr/satibi-ibrahim-b-musa]; kept 0
+thk-franz-wieacker: closed 0; kept 1 no reliable source comparing his method with the French Annales school
+thk-friedrich-carl-von-savigny: closed 1 [https://www.enzyklopaedie-rechtsphilosophie.net/index.php/inhaltsverzeichnis/puchta, https://www.lhlt.mpg.de/1994297/volume171]; kept 0
+thk-herbert-packer: closed 1 [https://law.stanford.edu/stanford-lawyer/articles/herbert-l-packer-1925-1972/, https://web.archive.org/web/20160322164420/http://historicalsociety.stanford.edu/pdfmem/PackerH.pdf, https://www.repository.law.indiana.edu/facpub/1785]; kept 0
+thk-ibn-hazm: closed 2 [https://islamansiklopedisi.org.tr/ibn-hazm]; kept 0
+thk-ibn-taymiyya: closed 1 [https://plato.stanford.edu/entries/ibn-taymiyya, https://www.euppublishing.com/doi/10.3366/E1465359109000436]; kept 0
+thk-mustafa-al-zarqa: closed 1 [https://www.arabnews.com/node/231857, https://mustafazarqa.com/2023/12/10/mustafa-al-zarqa-%d8%a7%d9%84%d8%b2%d8%b1%d9%82%d8%a7-%d9%85%d8%b5%d8%b7%d9%81%d9%89/, https://practicalislamicfinance.com/wp-content/uploads/2017/01/dissent-of-mustapha-al-zarqa.pdf]; kept 1 sources give his insurance dissent but not his detailed positions on Islamic banking
+thk-rene-david: closed 2 [https://www.payot.ch/Detail/les_grands_systemes_de_droit_contemporains-rene_david-9782247090501, https://www.persee.fr/doc/ridc_0035-3337_1950_num_2_2_5643, https://www.nomos-elibrary.de/10.5771/9783845299167-183.pdf, https://acdct.es/wp-content/uploads/2022/09/10-monereo-perez-acdct-xiii-2021.pdf]; kept 0
+
+## g3_chunk_07.txt
+thk-thomas-franck: closed 1 [https://en.wikipedia.org/wiki/Thomas_M._Franck https://www.theguardian.com/theguardian/2009/aug/23/thomas-franck-obituary https://web.archive.org/web/20110108003536/http://www.asil.org/presidents/FranckTM.html https://www.nyulawreview.org/wp-content/uploads/2018/08/NYULawReview-84-6-Buergenthal.pdf]; kept 0
+wrk-al-ashbah-wa-al-nazair-ibn-nujaym: closed 1 [https://catalog.hathitrust.org/Record/006305621 https://www.qalamos.net/receive/DE1Book_manuscript_00028969 https://ecolehanafite.com/biographies/ibn-nujaym-zayn-al-din-d-970-1563/]; kept 1 no scholarly comparison of how the printed editions differ in text
+wrk-al-bahr-al-muhit-zarkashi: closed 1 [https://islamansiklopedisi.org.tr/zerkesi-bedreddin]; kept 0
+wrk-al-hidaya-marghinani: closed 0; kept 1 no source gives a complete list of commentaries and glosses, only selected ones already partly named in the page
+wrk-al-ihkam-al-amidi: closed 1 [https://kureansiklopedi.com/en/detay/el-ihkam-2 https://cdn2.islamansiklopedisi.org.tr/dosya/21/C21007209.pdf]; kept 0
+wrk-al-mustasfa-ghazali: closed 0; kept 1 edition lists exist but no collation of variant readings across editions was found
+wrk-al-muwafaqat-shatibi: closed 0; kept 1 no collation of the printed editions was found
+wrk-al-risala-shafii: closed 0; kept 2 the old Risala does not survive, so exact dates and a detailed old-versus-new comparison are not established in Khadduri or later studies
+
+## g3_chunk_08.txt
+wrk-al-tashri-al-jinai-al-islami-awda: closed 0; kept 2 catalogs and encyclopedias list later printings (1959, 1963, 1968, 1977, 1981) but no reliable source fixes an exact first-edition date or compares the wording of later editions
+wrk-causation-in-the-law-hart-honore: closed 0; kept 1 reviews describe the causal framework but no source supplies a chapter-by-chapter inventory of the cases analysed in the book
+wrk-kitab-al-kharaj-abu-yusuf: closed 0; kept 1 the book is placed in Harun al-Rashid's reign before Abu Yusuf's death in 182/798, and no source fixes a year of composition
+wrk-pure-theory-of-law-kelsen: closed 1 [https://kelsen.online/resources/Public/PDF/Studienausgaben/Kelsen_RRL1.pdf https://www.degruyter.com/document/doi/10.1525/9780520312296-001/pdf https://www.mohrsiebeck.com/en/book/reine-rechtslehre-9783161564642]; kept 0
+thk-al-mubarrad: closed 0; kept 1 the gap asks for a direct quotation, which this task forbids
+thk-al-sakkaki: closed 1 [https://islamansiklopedisi.org.tr/sekkaki-ebu-yakub https://journals.uio.no/JAIS/article/download/12437/10307 https://referenceworks.brill.com/display/entries/EIEO/SIM-6509.xml]; kept 0
+wrk-sound-pattern-of-english-chomsky-halle: closed 0; kept 1 published notices list French, German, Spanish and Chinese translations and do not document an Arabic translation, but that silence is not a reliable proof that none exists
+wrk-talkhis-al-miftah-qazwini: closed 0; kept 1 no reliable bibliography was found that records a complete or partial English translation of the Talkhis
+
+## g3_chunk_09.txt
+con-diagnostic-comorbidity: closed 1 [https://pubmed.ncbi.nlm.nih.gov/25720357/ https://pubmed.ncbi.nlm.nih.gov/29450462/ https://pubmed.ncbi.nlm.nih.gov/15939839/]; kept 0
+sch-personality-disorders: closed 1 [https://pubmed.ncbi.nlm.nih.gov/31298170/ https://web.archive.org/web/20240117101839/https://www.psychiatrist.com/jcp/prevalence-correlates-disability-personality-disorders/]; kept 0
+thk-edmund-bourne: closed 0; kept 1 birth date and doctoral training not in reliable sources (publisher notes only a Colgate philosophy major: https://www.newharbinger.com/author/edmund-j-bourne/)
+thk-henry-steadman: closed 0; kept 1 exact day unpublished; authority file gives year 1943 only (https://catalogue.bnf.fr/ark:/12148/cb12399350c)
+thk-jonas-rappeport: closed 1 [https://www.medchi.org/Portals/18/files/Events/2021SprHOD/21%20Rappeport%20Memorial%20Resolution.pdf]; kept 0
+thk-paul-salkovskis: closed 0; kept 1 no reliable day of birth in publisher, university, or library records (year 1956 only, unsourced beyond an authority heading)
+wrk-rosenhan-sane: closed 0; kept 1 eight individual histories are not documented; Cahalan identified Rosenhan and Bill Underwood and a dropped ninth, Harry Lando, and could not recover the rest
+thk-ainsworth: closed 0; kept 2 dedicated pages on Main, Hazan, and the attachment concepts are outside this file list; this page already sketches those people and the A/B/C/D patterns
+
+## g3_chunk_10.txt
+thk-bion: closed 1 []; kept 0 body already covers theory of thinking, alpha and beta elements, and containment
+thk-bowlby: closed 1 [https://pmc.ncbi.nlm.nih.gov/articles/PMC4321742/ https://www.bps.org.uk/psychologist/demystifying-attachment]; kept 0
+wrk-hayes-acceptance-commitment-therapy: closed 1 []; kept 0 body already covers Strosahl and Wilson as co-authors
+con-networked-religion-campbell: closed 1 [https://academic.oup.com/jaar/article-abstract/80/1/64/1007151 https://faithandleadership.com/heidi-campbell-the-internet-challenges-and-empowers-religious-institutions]; kept 0
+con-textual-theology-narratival: closed 0 []; kept 1 no reliable source for a systematic Frei or Lindbeck application to Islamic tafsir; literary narratology of the Qur'an is a different method
+dbt-ritual-competence-vs-modes-of-religiosity: closed 1 [https://www.cambridge.org/core/books/bringing-ritual-to-mind/ https://archive.org/details/mindreligionpsyc0000unse https://www.sciencedirect.com/science/article/abs/pii/S1090513810001029]; kept 0 corrected inverted special-agent and special-patient pageantry because it contradicted Malley and Barrett 2003 and McCauley and Lawson 2002
+sch-religion-digital-technology: closed 1 [https://doaj.org/article/580b6b4e7e754913a346c3a696e0cdcc]; kept 1 longitudinal virtual-versus-in-person cohesion studies remain too thin to close the gap
+stu-bursi-touch-black-stone-2022: closed 1 [https://www.researchgate.net/publication/358956742_You_were_not_commanded_to_stroke_it_but_to_pray_nearby_it_debating_touch_within_early_Islamic_pilgrimage]; kept 0
+
+## g3_chunk_11.txt
+stu-music-therapy-religious-contexts: closed 1 [https://pubmed.ncbi.nlm.nih.gov/35257992/ https://www.sciencedirect.com/science/article/pii/S0965229921000054]; kept 0
+thk-bruno-nettl: closed 1 [https://escholarship.org/uc/item/8qn3z2wp https://www.jstor.org/stable/850555 https://researchworks.oclc.org/archivegrid/collection/data/17013828]; kept 0
+thk-guy-beck: closed 1 [https://liberalarts.tulane.edu/philosophy/people/instructors/guy-beck-phd https://sopa.tulane.edu/about-sopa/advisors-faculty-staff/guy-beck https://ochsonline.org/team/prof-guy-beck/ https://news.tulane.edu/news/musicologist-receives-second-fulbright-nehru-award https://www.wlupress.wlu.ca/Contributors/B/Beck-Guy-L]; kept 0
+thk-hans-frei: closed 1 [https://www.thefreelibrary.com/Hans+Frei%27s+typology+of+Christian+Theology%3a+a+comparative+look+at+the...-a0214204641]; kept 0
+thk-moojan-momen: closed 1 [https://wilmetteinstitute.org/wp-content/uploads/2019/08/CV-Moojan-Momen.pdf]; kept 0
+wrk-ambivalence-of-the-sacred-appleby: closed 1 [https://archive.org/details/ambivalenceofsac0000appl https://www.beyondintractability.org/bksum/appleby-ambivalence]; kept 0
+wrk-communion-of-subjects-waldau-patton: closed 1 [https://catdir.loc.gov/catdir/toc/ecip0610/2006008168.html]; kept 0
+wrk-dreaming-in-the-worlds-religions-bulkeley: closed 1 [https://muse.jhu.edu/book/7516 https://bulkeley.org/author/kelly-bulkeley/page/53/]; kept 0
+
+## g3_chunk_13.txt
+thk-anouar-abdel-malek: closed 1 [https://carnegieendowment.org/research/2012/08/above-the-state-the-officers-republic-in-egypt]; kept 0
+thk-barney-glaser: closed 1 []; kept 0
+thk-bell-hooks: closed 1 [https://scholarworks.uvm.edu/mgreview/vol9/iss3/4/]; kept 0
+thk-boaventura-de-sousa-santos: closed 1 [https://www.cambridge.org/core/books/law-and-globalization-from-below/two-democracies-two-legalities-participatory-budgeting-in-porto-alegre-brazil/8FBFF453F0324324531E34675B3E3193 https://www.ces.uc.pt/bss/documentos/chapter13.pdf]; kept 0
+thk-halim-barakat: closed 2 [https://www.scribd.com/doc/224584902/The-Arab-World-Barakat http://www.idref.fr/028835204 https://www.rinaldifuneralservice.com/obituaries/halim-barakat]; kept 0
+wrk-fighting-back: closed 1 [https://carlson.utoledo.edu/search~S3?/tThe+More+Things+Change%2C+the+More+They+Stay+the+Same%3A+The+Evolution+and+Devolution+of+Youth+Employment+Programs/tmore+things+change+the+more+they+stay+the+same+the+evolution+and+devolution+of+youth+employment+programs/-3%2C-1%2C0%2CB/frameset&FF=tmore+things+change+the+more+they+stay+the+same+african+american+women+and+the+new+politics+of+containment&1%2C1%2C https://archive.org/details/fighting-words-patricia-hill-collins]; kept 0
+wrk-forms-of-capital-bourdieu: closed 0 []; kept 1 no source comparing German and English wording; German Wikipedia and the 1986 note only establish that Richard Nice translated the 1983 Kreckel volume, itself an authorized rendering of an unpublished French typescript
+wrk-on-suicide: closed 1 [https://collections.uakron.edu/utils/getfile/collection/p15960coll21/id/78124/filename/77836.pdf]; kept 0
+
+## g3_claude_fill.txt
+wrk-godwired-wagner: closed 1 [https://muse.jhu.edu/journals/journal_of_religion_and_popular_culture/v025/25.1.okey.pdf (content via search excerpt; direct fetch refused)]; kept 0
+wrk-playing-with-religion-in-digital-games-campbell-grieve: closed 1 [https://iupress.org/9780253012531/playing-with-religion-in-digital-games]; kept 0
+wrk-religion-and-film-plate: closed 1 [https://poptheology.com/religion-and-film-a-review/ https://doi.org/10.25364/05.06:2020.1.8]; kept 0 (Star Wars/Baraka openings and Blue Velvet group rest on search excerpts)
+stu-schoolyard-stories: closed 0; kept 1 no study of this exact title found
+stu-the-dignity-deficit: closed 1 [https://arthurbrooks.com/news/the-dignity-deficit-reclaiming-americans-sense-of-purpose (search excerpt)]; kept 0
+stu-the-second-shift-in-china: closed 1 [https://www.bjreview.com/Current_Issue/Editor_Choice/201902/t20190218_800156831.html https://www.stats.gov.cn/english/PressRelease/202411/t20241115_1957437.html]; kept 0
+thk-ali-al-wardi: closed 0; kept 1 no accessible empirical study clearly applying Al-Wardi found
+thk-ali-shariati: closed 1 [https://doi.org/10.15408/sdi.v25i2.7181]; kept 0
+wrk-strangers-in-their-own-land: closed 1 [https://doi.org/10.1057/s41290-017-0037-7 https://compositionforum.com/issue/40/deep-story.php https://doi.org/10.1007/s11077-025-09586-5 https://doi.org/10.5070/RW3.1491]; kept 0
+wrk-the-sociological-condition: closed 0; kept 1 no specific work of this title identified
+
+## g3_claude_review.txt
+con-ahliyya-legal-capacity-usul: fixed muddled puberty-age sentence; UAE and Saudi ages confirmed [https://thenationalnews.com/news/uae/2026/01/01/uae-lowers-age-of-adulthood-to-18-in-modernisation-drive/]
+con-creolization: OK
+con-diagnostic-comorbidity: OK (Kessler 2015, Hasin and NCS-R figures and sources confirmed)
+con-gharar-in-contracts: unconfirmed school-by-school positions and classical texts (not checked)
+con-grundnorm-basic-norm-kelsen: unconfirmed details of the 1964 essay (not checked)
+con-insanity-defense-mnaghten: OK
+con-istihsan-juristic-preference: unconfirmed Abu Zahra account (not checked)
+con-justice-healthcare: fixed restored original wording "health spending"; no content lost (removed gap line is covered by new section)
+con-labour-process-braverman-bridge: fixed Fawzy article year to 2025 with volume and DOI [https://doi.org/10.1163/24714607-bja10181]
+con-legal-personality: OK (Dewey summary not checked line by line)
+con-legal-transplants-watson: unconfirmed Watson EJCL 4.4 lecture details
+con-madhhab-legal-school-institution: unconfirmed Makdisi account; only Arjmand source verified
+con-moral-economy-subsistence-bridge: OK
+con-networked-religion-campbell: unconfirmed 2013 interview (not checked)
+con-qawaid-fiqhiyya-legal-maxims: unconfirmed details attributed to Heinrichs (book verified only)
+ctx-arabic-self: OK (replaced sentences are superseded by the new comparison; nothing else lost)
+dbt-ritual-competence-vs-modes-of-religiosity: fixed restored Eucharist example, placed with patient/instrument rituals (earlier text had the types inverted, so the correction stands)
+rel-psychoanalysis-humanistic: OK (Branco article confirmed) [https://revistas.unisinos.br/index.php/contextosclinicos/article/download/ctc.2016.92.12/5664/46227]
+rel-stoicism-cbt: unconfirmed Modern Stoicism project figures; journal sources verified
+rel-szasz-existential-freedom-guilt: unconfirmed Laing 1979 New Statesman review and Burston details beyond bibliography
+sch-personality-disorders: OK
+sch-religion-digital-technology: OK (only the now-covered gap line was removed)
+gain-of-function-ethics: OK
+stu-bursi-touch-black-stone-2022: unconfirmed article content (not checked)
+stu-evans-pritchard-the-nuer: OK (Feyissa argument checked only bibliographically)
+stu-music-therapy-religious-contexts: OK
+thk-al-sakkaki: OK [https://islamansiklopedisi.org.tr/sekkaki-ebu-yakub]
+thk-al-shatibi: OK [https://islamansiklopedisi.org.tr/satibi-ibrahim-b-musa]
+thk-anouar-abdel-malek: unconfirmed Sayigh details including the 1,500 appointments figure
+thk-bell-hooks: OK
+thk-boaventura-de-sousa-santos: unconfirmed 194 cities and fieldwork dates; chapter verified
+thk-bowlby: OK
+thk-bruno-nettl: unconfirmed Gray review and chapter contents
+thk-edmund-bourne: fixed doctoral training now sourced (University of Chicago) [https://www.editions-eyrolles.com/auteurs/edmund-j-bourne]; unconfirmed Colgate philosophy major; no earlier content lost
+thk-fechner: unconfirmed Leipzig chronology dates
+thk-friedrich-carl-von-savigny: unconfirmed Haferkamp 2011 encyclopedia entry; 2004 monograph verified
+thk-guy-beck: unconfirmed University of Denver B.A.; Syracuse degrees, Fulbright awards and Oxford fellowship confirmed
+thk-halim-barakat: unconfirmed IdRef record and funeral notice (Arab Center Washington gives 1936 as birth year)
+thk-hans-frei: unconfirmed content of Ibrahim article (bibliography confirmed)
+thk-henry-steadman: unconfirmed BnF birth year 1943; no earlier content lost
+thk-herbert-packer: OK [https://law.stanford.edu/stanford-lawyer/articles/herbert-l-packer-1925-1972/]
+thk-ibn-hazm: OK [https://islamansiklopedisi.org.tr/ibn-hazm]
+thk-ibn-taymiyya: unconfirmed Mayer review; Hoover SEP entry confirmed
+thk-jonas-rappeport: OK, birth date confirmed [https://www.medchi.org/Portals/18/files/Events/2021SprHOD/21%20Rappeport%20Memorial%20Resolution.pdf]; no earlier content lost
+thk-moojan-momen: unconfirmed CV biographical details; articles verified
+thk-mustafa-al-zarqa: unconfirmed Fiqh Council dissent wording and code committee details
+thk-rene-david: fixed removed untraceable Kronke citation, corrected Monereo citation [https://acdct.es/wp-content/uploads/2022/09/10-monereo-perez-acdct-xiii-2021.pdf]; unconfirmed UNIDROIT deputy secretary-general post, 1949 UNESCO role and the RIDC 1950 article at pp. 328-333
+thk-thomas-franck: unconfirmed "first American judge ad hoc for another state" and several advisory roles
+wrk-al-ashbah-wa-al-nazair-ibn-nujaym: unconfirmed Michigan and Qalamos manuscript records
+wrk-al-bahr-al-muhit-zarkashi: OK [https://islamansiklopedisi.org.tr/zerkesi-bedreddin]
+wrk-al-ihkam-al-amidi: OK [https://islamansiklopedisi.org.tr/el-ihkam--amidi]
+wrk-ambivalence-of-the-sacred-appleby: unconfirmed chapter list and summary (not checked)
+wrk-communion-of-subjects-waldau-patton: unconfirmed contents list (not checked)
+wrk-dreaming-in-the-worlds-religions-bulkeley: unconfirmed chapter sequence (not checked)
+wrk-fighting-back: unconfirmed chapter outline (not checked)
+wrk-kinship-village: unconfirmed contents-based account (no source listed in new text)
+wrk-kung-bushmen: unconfirmed chapter content (book verified)
+wrk-on-suicide: unconfirmed Shneidman 1980 review
+wrk-pure-theory-of-law-kelsen: unconfirmed Jestaedt comparison
+wrk-savage-mind: OK [https://www.e-flux.com/journal/121/423018/participation]
+wrk-tiwi-wives: unconfirmed book content (bibliography verified)
+wrk-urban-culture: OK [https://revistas.inah.gob.mx/index.php/cuicuilco/article/download/20300/21697/43085]
+

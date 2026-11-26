@@ -17,7 +17,7 @@ active_end: 1121
 edges:
 - rel: "belongs_to", target: "Classical Arabic Grammatical and Linguistic Tradition", target_type: "مدرسة"
 - rel: "authored_by", target: "Al-Zamakhshari", target_type: "مفكر"
-related:
+related: []
 gaps: []
 ---
 

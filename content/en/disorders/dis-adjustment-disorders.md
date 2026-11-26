@@ -12,7 +12,7 @@ active_start: 1980
 active_end: "مستمر"
 language: "Multilingual"
 part: psychology
-related:
+related: []
 gaps: []
 ---
 

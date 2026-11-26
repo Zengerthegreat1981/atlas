@@ -9,7 +9,7 @@ title: "Argonauts of the Western Pacific: The Kula Ring"
 en: "Argonauts of the Western Pacific: The Kula Ring"
 crumb: "Anthropology ← Studies ← Argonauts of the Western Pacific: The Kula Ring"
 author: "Bronisław Malinowski"
-author_slug: "thk-bronislaw-malinowski"
+author_slug: "thk-malinowski"
 publication_year: 1922
 study_year: 1915
 design: "Long-term participant observation among the Trobriand Islanders (Kiriwina), in two stays between 1915 and 1918 totalling about two years, with visits to neighbouring islands in the exchange network."
@@ -21,7 +21,7 @@ edges:
   - rel: "belongs_to", target: "Maussian Gift Theory", target_type: "مدرسة"
 related:
   - id: "con-gift-economy", title: "Gift Economy", type: "مفهوم"
-  - id: "thk-bronislaw-malinowski", title: "Bronisław Malinowski", type: "مفكر"
+  - id: "thk-malinowski", title: "Bronislaw Malinowski: Modern Ethnographic Fieldwork", type: "مفكر"
   - id: "sch-malinowskian-functionalism", title: "Malinowskian Functionalism and Participant Observation", type: "مدرسة"
   - id: "con-kula-exchange", title: "Kula Exchange", type: "مفهوم"
   - id: "wrk-argonauts-western-pacific-malinowski", title: "Argonauts of the Western Pacific", type: "عمل / كتاب"
@@ -35,14 +35,16 @@ A classic ethnographic study conducted by Bronisław Malinowski (1884–1942) am
 
 ## Method and Context
 
-Malinowski, a Polish-born anthropologist trained at the London School of Economics, reached the Trobriand Islands in 1915 and, partly because the First World War made return to Europe difficult, spent two periods there (1915–16 and 1917–18) totalling about two years. He practiced long-term **participant observation**, learned the local language (Kiriwinian), and made a number of visits to neighbouring islands, although he did not himself sail the whole Kula ring.
+Malinowski, a Polish-born anthropologist trained at the London School of Economics, travelled to Australia in 1914. As a subject of Austria-Hungary he was classed as an enemy alien when the First World War began; Australian authorities nevertheless allowed him to continue fieldwork in the Territory of Papua. After work among the Mailu in 1914–15, he reached the Trobriand Islands in 1915 and spent two periods there (1915–16 and 1917–18) totalling about two years. He practiced long-term **participant observation**, learned the local language (Kiriwinian), recorded genealogies, texts, and magical formulae, and made a number of visits to neighbouring islands, although he did not himself sail the whole Kula ring. The book appeared in 1922 with a preface by James Frazer. Its subtitle, *An Account of Native Enterprise and Adventure in the Archipelagoes of Melanesian New Guinea*, marks the focus on indigenous economic enterprise.
 
 ## What Is the Kula Ring?
+
+The Trobriand Islands lie in the Solomon Sea off the eastern end of New Guinea. Their people speak an Austronesian language and practice intensive yam horticulture and fishing. Chiefly rank is important, especially in the north of the main island of Kiriwina.
 
 The Kula is a system of ceremonial exchange that links communities on islands of the Massim region of south-eastern Papua New Guinea, including the Trobriands, in a ring of partnerships:
 
 - **White armshells** (*mwali*): travel around the ring in one direction (counter-clockwise in Malinowski's description)
-- **Red shell-disc necklaces** (*soulava*): travel in the other direction
+- **Red shell-disc necklaces** (*soulava*): travel in the other direction (clockwise in Malinowski's description)
 - Partners exchange a valuable for a valuable of equivalent standing, but not by bargaining; Malinowski contrasted Kula with ordinary barter (*gimwali*), which accompanied it
 - Exchange takes place according to **strict rules** of etiquette and social propriety, and partnerships are long-lasting
 
@@ -55,6 +57,8 @@ Malinowski showed that the Kula is **not merely an exchange of economic goods**.
 3. **A social system**: each exchange creates specific moral obligations, and weaves networks of friendship, honor, and loyalty
 4. **A symbolic system**: the armshells and necklaces represent **social identity**. Owning one or exchanging it raises a man's standing
 
+He also argued that the Kula opened a path for the exchange of useful goods, gave weight to canoe-building and navigation, and supplied a framework of peaceful relations among communities. The institution reached beyond economics into politics, religion, and rank, and it was tied to gardening, magic, myth, and kinship.
+
 ## Theoretical Impact
 
 The study was one of the principal ethnographic examples used by **Marcel Mauss** in his *Essay on the Gift* (1923–24) to argue that gift exchange creates obligations and social bonds and operates by logics different from market exchange. It fed later work on:
@@ -65,7 +69,7 @@ The study was one of the principal ethnographic examples used by **Marcel Mauss*
 
 ## Later Reassessments
 
-Malinowski's account has been revised. Annette Weiner, who worked in the Trobriands in the 1970s, showed that his picture centred on men's exchange and neglected women's wealth (banana-leaf bundles and skirts distributed at mortuary ceremonies), which she argued were essential to Trobriand matrilineal social reproduction. Nancy Munn (*The Fame of Gawa*, 1986) and the contributors to *The Kula: New Perspectives on Massim Exchange* (1983), edited by Jerry and Edmund Leach, examined Kula on other islands, emphasizing local meaning and value. Malinowski's posthumously published diary (1967) also prompted debate about the relationship between his fieldwork and his published ethnography.
+Malinowski's account has been revised. Annette Weiner, who worked in the Trobriands in the 1970s, showed that his picture centred on men's exchange and neglected women's wealth (banana-leaf bundles and skirts distributed at mortuary ceremonies), which she argued were essential to Trobriand matrilineal social reproduction. Nancy Munn (*The Fame of Gawa*, 1986) and the contributors to *The Kula: New Perspectives on Massim Exchange* (1983), edited by Jerry and Edmund Leach, examined Kula on other islands, emphasizing local meaning and value. Malinowski's posthumously published diary (1967) also prompted debate about the relationship between his fieldwork and his published ethnography. Critics have noted that the functionalist reading tends to understate conflict and change, and that the book gives little attention to the Australian colonial administration under which the fieldwork was done.
 
 ## From Ethnographic Description to General Economic Theory
 
@@ -74,6 +78,7 @@ The economic historian Karl Polanyi drew on Malinowski's material on the Kula in
 ## Sources
 
 - Malinowski, Bronislaw. *Argonauts of the Western Pacific*. London: George Routledge and Sons, 1922.
+- Young, Michael W. *Malinowski: Odyssey of an Anthropologist, 1884–1920*. New Haven: Yale University Press, 2004.
 - Mauss, Marcel. "Essai sur le don." *L'Année Sociologique*, n.s. 1 (1923–24).
 - Weiner, Annette B. *Women of Value, Men of Renown: New Perspectives in Trobriand Exchange*. University of Texas Press, 1976.
 - Leach, Jerry W. and Edmund Leach (eds). *The Kula: New Perspectives on Massim Exchange*. Cambridge University Press, 1983.

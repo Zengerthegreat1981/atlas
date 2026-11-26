@@ -20,8 +20,7 @@ related:
 - id: "con-guilt", title: "Guilt", type: "مفهوم"
 - id: "rel-kierkegaardianism-nietzscheanism-existential-therapy", title: "Early Existential Philosophy (Kierkegaard and Nietzsche) and Existential Psychotherapy: From Anxiety to Frankl and Yalom", type: "علاقة بين مدرستين"
 - id: "rel-phenomenology-existential-therapy", title: "Philosophical Phenomenology and Existential Psychotherapy: From Husserl to Binswanger and Boss", type: "علاقة بين مدرستين"
-gaps:
-  - "Documented exchanges between Szasz and existential psychotherapists: not yet covered."
+gaps: []
 ---
 
 # Szasz and Existentialism: Freedom and Moral Responsibility
@@ -52,6 +51,12 @@ The first difference lies in the source of commitment: Szasz builds on political
 
 Against Szasz's thesis stands the fact that severe disorders such as schizophrenia and bipolar disorder have substantial biological contributions documented by genetic and neurobiological research, so critics argue they cannot be reduced to "problems in living." Szasz himself accepted that conditions with demonstrable brain pathology are diseases, but classed them as neurological and not as mental. Sartre's absolute individual freedom is also open to criticism, notably by Beauvoir, for neglecting the social situation. The combination of Szasz and existentialism is therefore best understood as an intersection in protest against reductionism, not as an agreement in theory.
 
+## Documented exchanges with existential psychotherapists
+
+The best-documented exchange is with R. D. Laing, an existential psychiatrist, rather than a private correspondence with later existential therapists such as Yalom. Francisco Balbuena Rivera reports that in the mid-1970s Szasz published a sharp critique of Laing in a series of pieces in *The New Review*. Laing chose not to answer in that forum. Leon Redler replied for the Philadelphia Association, the therapeutic community associated with Laing. Balbuena's later paper concludes that colleagues around Laing would have preferred a meeting in person, that Szasz did not see Laing when he was in London, and that Laing still did not answer the criticisms in public or in print. The dispute was about how to understand breakdown and what role professionals and institutions should have, and each side, on Balbuena's reading, misstated the other.
+
+Laing did review three of Szasz's books together in the *New Statesman* on 20 July 1979, under the title "Round the bend." Szasz returned to Laing in a 2004 essay in *The Psychoanalytic Review*, "Knowing What Ain't So," and again in *Antipsychiatry: Quackery Squared* (2009), after Laing's death in 1989. Daniel Burston's essay "Szasz, Laing and Existential Psychotherapy" treats the pair as sharing criticisms of institutional psychiatry while differing as libertarian and existentialist. Szasz himself wrote that existential philosophers had influenced his views of psychotherapy. These are published attacks, a review, and later commentary. They are not a joint clinical programme.
+
 ## Sources
 
 - Szasz, Thomas S. *The Myth of Mental Illness: Foundations of a Theory of Personal Conduct*. Hoeber-Harper, 1961.
@@ -64,3 +69,8 @@ Against Szasz's thesis stands the fact that severe disorders such as schizophren
 - Laing, R. D. *The Divided Self*. Tavistock Publications, 1960.
 - Yalom, Irvin D. *Existential Psychotherapy*. Basic Books, 1980.
 - Dols, Michael W. *Majnun: The Madman in Medieval Islamic Society*. Clarendon Press, 1992.
+- Laing, R. D. (1979, July 20). Round the bend. *New Statesman*.
+- Szasz, T. (2004). "Knowing what ain't so": R. D. Laing and Thomas Szasz. *The Psychoanalytic Review*, 91(3), 331-346.
+- Balbuena Rivera, F. (2023). Laing versus Szasz: Antagonists, kindred spirits, or a misconstrued rivalry? *Journal of Humanistic Psychology*. First published online 2021.
+- Balbuena Rivera, F. (2022). The silence of Laing and its echo in Szasz's essay on antipsychiatry. *International Journal of Social Psychiatry*, 68(7), 1307-1314.
+- Burston, D. (2004). Szasz, Laing and existential psychotherapy.

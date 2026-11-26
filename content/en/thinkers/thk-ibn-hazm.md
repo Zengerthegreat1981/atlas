@@ -18,9 +18,7 @@ related:
 - id: "sch-usul-al-fiqh-legal-theory", title: "Islamic Legal Theory (Usul al-Fiqh)", type: "مدرسة"
 - id: "sch-islamic-law-shariah", title: "Islamic Law and Sharia", type: "مدرسة"
 - id: "con-qiyas-analogical-reasoning", title: "Qiyas (Analogical Reasoning in Islamic Legal Theory)", type: "مفهوم"
-gaps:
-  - "Complete list of his works: not yet covered (reports speak of some 400 volumes, but most are lost)."
-  - "The exact chronology of his ministerial posts under the successive Umayyad claimants: not yet covered; the early biographical sources differ."
+gaps: []
 ---
 
 # Ibn Hazm al-Andalusi
@@ -69,6 +67,14 @@ As for his book *al-Fasl*, despite its historical value, some contemporary schol
 - **Tawq al-Hamama fi al-Ulfa wa al-Ullaf** (*The Ring of the Dove*): on the analysis of love.
 - **Jamharat Ansab al-Arab**: on the genealogies of the Arabs.
 
+## Ministerial posts under the Umayyad claimants
+
+The order of his political offices is reconstructed from his own remarks and from later biographical notices, which do not all agree in detail. After exile from Almeria, he went to Valencia and supported Abd al-Rahman al-Murtada (Abd al-Rahman IV), who had been proclaimed caliph in 408/1018, and was rewarded with a vizierate. When al-Murtada was killed, Ibn Hazm was again pressed and imprisoned. He returned to Cordoba during the caliphate of al-Qasim ibn Hammud (409/1018) and remained until 412/1021. He then served as vizier to Abd al-Rahman V al-Mustazhir, proclaimed in Ramadan 414/November 1023. That caliphate lasted only weeks: al-Mustazhir was killed in 414/1024, and his successor, Muhammad III al-Mustakfi (1024–1025), had Ibn Hazm arrested. Ibn Hazm himself ties that arrest to his friendship with al-Mustazhir. One reading of the sources takes the detention as lasting until Hisham III al-Mu'tadd took the caliphate (1027–1031). Yaqut adds that Ibn Hazm also held the vizierate briefly under Hisham III. He wrote *Tawq al-Hamama* at Xativa in 417/1026, and from about that time he largely left politics.
+
+## The scale of his writings
+
+A note transmitted from his son Abu Rafi' al-Fadl, and recorded by Ibn Bashkuwal, says that what his father wrote, some 80,000 folios in about 400 volumes, passed to him. That figure is a report of bulk, not a catalogue. Notices preserve the titles of about 150 of those works. No surviving list accounts for all 400 volumes, and a large part of the corpus is lost. Modern bibliographies, including the inventory in the 2013 Brill volume on Ibn Hazm, collect the titles that the classical sources happen to name, across fiqh, theology, history, genealogy and literature.
+
 ## Sources
 
 - Ibn Hazm, Ali ibn Ahmad. *al-Fasl fi al-Milal wa al-Ahwa' wa al-Nihal*. Edited by Muhammad Ibrahim Nasr and Abd al-Rahman Umayra. Dar al-Jil, Beirut, 1996.
@@ -78,3 +84,4 @@ As for his book *al-Fasl*, despite its historical value, some contemporary schol
 - Adang, Camilla. *Muslim Writers on Judaism and the Hebrew Bible: From Ibn Rabban to Ibn Hazm*. Leiden: Brill, 1996.
 - Adang, Camilla, Maribel Fierro & Sabine Schmidtke (eds.). *Ibn Hazm of Cordoba: The Life and Works of a Controversial Thinker*. Leiden: Brill, 2013.
 - Arnaldez, Roger. *Grammaire et théologie chez Ibn Hazm de Cordoue*. Paris: J. Vrin, 1956.
+- Apaydin, H. Yunus. "Ibn Hazm." In *TDV Islam Ansiklopedisi*. Istanbul: TDV Islam Arastirmalari Merkezi, 1999.

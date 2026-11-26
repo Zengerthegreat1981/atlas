@@ -12,8 +12,7 @@ active_start: 1933
 active_end: 1977
 edges: []
 related: []
-gaps:
-- Contemporary empirical examples: not yet covered
+gaps: []
 sociological_tradition: other
 sociological_paradigm: micro-macro
 ---
@@ -58,6 +57,10 @@ Shariati's thought connects with the concepts of ideology, alienation, class, an
 
 His writings circulated widely among students and activists in Iran in the 1970s and are often cited as an ideological influence on the revolutionary movement, although he died before the revolution. Critics, both clerical and secular, questioned his theological credentials, his selective use of Marxist and Western concepts, and the rigor of his sociology. Scholars still debate how far his thought anticipated the political system that followed 1979.
 
+## Later Reception: An Indonesian Example
+
+One documented example of Shariati's afterlife outside Iran comes from Indonesia. Mujiburrahman's study, published in *Studia Islamika* in 2018, examines how Indonesian Muslim intellectuals discussed the works of Shariati and the Egyptian philosopher Hassan Hanafi during the New Order, the regime headed by Suharto from the mid-1960s to 1998. Its material consists mainly of articles by prominent intellectuals, many of them introductions to translated books by the two authors. The study finds that their ideas were received, interpreted, criticised and appropriated in order to make them relevant to Indonesian conditions. The idealisation of Shariati as an intellectual, a more open attitude towards Shi'ism and the discussion of his socialist leanings were bound up with the political circumstances of the period. The example shows that readers did not simply transfer an Iranian programme to another country; they selected and recast it. Because the evidence is published commentary, it describes debate among intellectuals and cannot show how widely ordinary readers shared those interpretations, nor what Shariati's work means to audiences today.
+
 ## Sources
 
 - Hamid Algar (trans.), Ali Shariati, On the Sociology of Islam (1979)
@@ -65,3 +68,4 @@ His writings circulated widely among students and activists in Iran in the 1970s
 - Ali Rahnema, An Islamic Utopian: A Political Biography of Ali Shari'ati (1998)
 - Ali Shariati, Hajj (English translations of the Persian lectures), 1970s
 - Jalal Al-e Ahmad, Gharbzadegi (1962)
+- Mujiburrahman. "Indonesian Translation and Appropriation of the Works of Shariati and Hanafi in the New Order's Islamic Discourses." *Studia Islamika* 25, no. 2 (2018): 279–308. https://doi.org/10.15408/sdi.v25i2.7181

@@ -4,6 +4,7 @@ id: "ANT-13020"
 type: "مفهوم"
 part: anthropology
 level: "متوسط"
+quality: "unverified"
 title: "Ritual: Structured Action and Social Meaning"
 en: "Ritual"
 crumb: "Anthropology ← Core Concepts ← Ritual"
@@ -60,7 +61,7 @@ Across culturally diverse rituals, certain patterns emerge:
 
 **Symbolic Condensation**: Rituals consistently employ *condensation*—complex meanings compressed into minimal symbolic forms (colors, objects, gestures). A color (white = purity, death, initiation across diverse African, Asian, and Oceanic contexts), a gesture (circumambulation across Hindu, Buddhist, and Islamic traditions), or an object (the fire altar in Hindu and Zoroastrian traditions) carries multiple, layered meanings. This symbolic density enables rituals to communicate meanings that might be contentious, dangerous, or impossible to express discursively.
 
-**Efficacy Through Proper Form**: Across religious and secular rituals, efficacy is often tied to *proper execution*, not only to the intentions of participants. In Catholic teaching the validity of the Mass depends on an ordained priest and correct form (alongside belief in divine grace); in Vedic *yajna* (sacrifice) correct mantra recitation and offering sequence are essential; a court's legitimacy derives from proper procedure. This suggests ritual efficacy is simultaneously real and socially constructed—proper form creates real social effects (legitimacy, transformation, solidarity), whatever participants also believe about divine or other agency.
+**Efficacy Through Proper Form**: Across religious and secular rituals, efficacy is often tied to *proper execution*, not only to the intentions of participants. In Catholic teaching the validity of the Mass depends on an ordained priest and the correct form of words (together with proper bread and wine and the priest's intention); in Vedic *yajna* (sacrifice) correct mantra recitation and offering sequence are essential; a court's legitimacy derives from proper procedure. This suggests ritual efficacy is simultaneously real and socially constructed—proper form creates real social effects (legitimacy, transformation, solidarity), whatever participants also believe about divine or other agency.
 
 **Community Construction**: Rituals consistently construct or reinforce community boundaries and identity. Participation in shared ritual practice creates *we-ness*. This is evident whether analyzing indigenous Australian corroboree, Jewish Passover seder, Islamic *hajj*, or Christian Easter observance. Rituals that fail to include all members (or that explicitly exclude certain groups) often become sites of social conflict—as seen in debates over women's ordination, LGBTQ+ inclusion, or caste participation in Indian ritual contexts.
 

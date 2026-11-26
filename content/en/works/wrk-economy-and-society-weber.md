@@ -16,7 +16,7 @@ active_start: 1922
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "Weberian Interpretive Sociology", target_type: "مدرسة"
-related:
+related: []
 gaps: []
 ---
 

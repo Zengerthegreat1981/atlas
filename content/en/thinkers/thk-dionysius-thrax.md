@@ -16,7 +16,7 @@ active_start: -120
 active_end: -90
 edges:
 - rel: "belongs_to", target: "Greco-Latin Grammatical Tradition", target_type: "مدرسة"
-related:
+related: []
 gaps: []
 ---
 

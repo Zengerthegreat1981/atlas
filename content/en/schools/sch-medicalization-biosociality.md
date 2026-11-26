@@ -15,7 +15,7 @@ language: "English"
 active_start: 1980
 active_end: 2007
 edges: []
-related:
+related: []
 gaps: []
 ---
 
@@ -37,7 +37,7 @@ Conrad distinguished between different levels of medicalization: the conceptual 
 
 ## Prominent Works and Figures
 
-Peter Conrad, an American sociologist at Brandeis University, was known for his study of the medicalization of hyperactivity in children (*Identifying Hyperactive Children*, 1976) and later *The Medicalization of Society* (2007). Nikolas Rose (born 1947), a British sociologist who has held professorships at the London School of Economics and King's College London, developed a sophisticated Foucauldian analysis of psychology, psychiatry and the genome within his broader project on "Governing the Soul" and contemporary "biopower."
+Peter Conrad (1945–2024), an American sociologist at Brandeis University, was known for his study of the medicalization of hyperactivity in children (*Identifying Hyperactive Children*, 1976) and later *The Medicalization of Society* (2007). Nikolas Rose (born 1947), a British sociologist who has held professorships at the London School of Economics and King's College London, developed a sophisticated Foucauldian analysis of psychology, psychiatry and the genome within his broader project on "Governing the Soul" and contemporary "biopower."
 
 ## Impact and Critique
 

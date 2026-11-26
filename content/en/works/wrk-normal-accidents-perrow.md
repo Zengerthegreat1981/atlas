@@ -18,7 +18,7 @@ active_start: 1984
 active_end: "مستمر"
 edges:
 - rel: "written_by", target: "Charles Perrow", target_type: "مفكر"
-related:
+related: []
 gaps: []
 ---
 

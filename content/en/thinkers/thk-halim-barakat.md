@@ -6,9 +6,10 @@ part: "sociology"
 sociological_tradition: "arab-islamic-sociology"
 sociological_paradigm: "macro"
 level: "متقدم"
+quality: "unverified"
 title: "Halim Barakat"
 en: "Halim Barakat"
-dates: "Syria/United States · 1933–"
+dates: "Syria/United States · 1933–2023"
 country: "Syria / United States"
 language: "Arabic / English"
 active_start: 1961
@@ -20,9 +21,7 @@ related:
 - id: "thk-edward-said", title: "Edward Said", type: "مفكر"
 - id: "ctx-arabic-self", title: "The Self in the Arab-Islamic Heritage", type: "سياق/تقليد"
 - id: "con-patriarchy", title: "Patriarchy", type: "مفهوم"
-gaps:
-  - "Textual relation between the Arabic Contemporary Arab Society (1984) and the English The Arab World (1993): not yet covered"
-  - "Exact birth year (commonly given as 1933): not yet covered"
+gaps: []
 ---
 
 # Halim Barakat
@@ -64,9 +63,21 @@ A Syrian sociologist and novelist (born in the village of Kafroun in the Syrian 
 - *Six Days* (novel, 1961; published in English as *Six Days*, 1990).
 - *The Return of the Bird to the Sea* (novel, 1969; published in English as *Days of Dust*, 1974).
 
+## The Arabic Book and the English Book
+
+Barakat himself describes the relation between the two surveys in the preface to *The Arab World* (1993). He writes that his Arabic book *Al-Mujtama' al-'arabi al-mu'asir* (Contemporary Arab Society), first published by the Center for Arab Unity Studies in Beirut in 1984, served as a prelude to the English volume. He does not present the later book as a translation. The preface instead ties the English project to a course on contemporary Arab society that he had taught since 1966, and to a wish to offer a portrait of Arab society that keeps its complexity and inner change in view, written as scholarship and social criticism from an Arab perspective. The English book is therefore best read as a later formulation that grows out of the Arabic study and out of that teaching, addressed to a different readership, rather than as the same text in another language. Readers who compare the two should not assume that every chapter, example or emphasis in one appears unchanged in the other; the author's own word for the link is prelude, not equivalence.
+
+## Birth Year
+
+Public records do not agree on the year. The authority file circulated through IdRef, drawing on the Bibliothèque nationale de France, gives 4 December 1933 and notes that an earlier catalogue entry had given 1936. A funeral notice issued after his death states that he was born in the Syrian village of Kafroun on 4 December 1931 and died on 22 June 2023. That notice is not internally tidy about age: it heads the record as 1931–2023 at the age of 91 and also says he died at the age of 92. Because library authority data and the family notice diverge, and because the notice itself is inconsistent about age, 1933 should be treated as the year often given in catalogues, not as a date these sources have settled. A memorial notice from the Arab Center Washington DC gives the years as 1936–2023.
+
 ## Sources
 
 - Barakat, Halim. *The Arab World: Society, Culture, and State*. University of California Press, 1993.
 - Barakat, Halim. *Al-Mujtama' al-'arabi al-mu'asir: bahth istitla'i ijtima'i* [Contemporary Arab Society: An Exploratory Social Study]. Center for Arab Unity Studies, Beirut, 1984.
 - Barakat, Halim. *Lebanon in Strife: Student Preludes to the Civil War*. University of Texas Press, 1977.
 - Sharabi, Hisham. *Neopatriarchy: A Theory of Distorted Change in Arab Society*. Oxford University Press, 1988.
+- Barakat, Halim. Preface to *The Arab World: Society, Culture, and State*. University of California Press, 1993.
+- IdRef / Bibliothèque nationale de France. Authority record for Barakāt, Ḥalīm (1933–2023).
+- Philip D. Rinaldi Funeral Service. Funeral notice for Halim Barakat, 2023.
+- Arab Center Washington DC. "In Memoriam, Halim Isber Barakat (1936-2023)." https://arabcenterdc.org/resource/in-memoriam-halim-barakat/

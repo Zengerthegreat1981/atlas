@@ -9,7 +9,7 @@ en: "Ritual Healing Efficacy"
 crumb: "Religious Studies ← Concepts ← Ritual Healing Efficacy"
 edges:
 - rel: "belongs_to", target: "Comparative Religious Healing Practices", target_type: "مدرسة"
-related:
+related: []
 gaps: []
 ---
 

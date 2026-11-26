@@ -51,9 +51,14 @@ Wallerstein worked through long-term, large-scale historical analysis over centu
 
 His approach generated a major research program in comparative and global sociology. Theda Skocpol and Robert Brenner criticized his account in the 1970s, arguing that it underestimates the role of class relations and state structures within countries and relies too heavily on circulation and trade. Others have criticized it as Eurocentric, economically reductionist and difficult to test empirically.
 
+## Career Dates, the First Volume, and a Disputed Time Scale
+
+Wallerstein received his Columbia doctorate in 1959. He taught at Columbia until the early 1970s, then at McGill University, and from 1976 at Binghamton, where the Fernand Braudel Center was established. He later held a senior research appointment at Yale, and he chaired the Gulbenkian Commission whose report appeared as *Open the Social Sciences*. He described the world-economy as driven by the endless accumulation of capital, moving through cycles and longer trends, and he held that the structural crisis of the system would issue in some other historical system whose shape was not fixed in advance. Volume I of *The Modern World-System* contrasts northwestern Europe, which became a core of relatively strong states with wage and tenant labor, with eastern Europe and Spanish America, where coerced labor produced goods for the wider market. The argument draws on Marx, on Braudel and the Annales school, and on dependency theory, and it rests chiefly on secondary historical scholarship. Critics have also faulted functional explanations, the limited place given to culture, and the account of Europe's rise. Andre Gunder Frank, once a close interlocutor, later argued for a much older world system centered less exclusively on Europe.
+
 ## Sources
 
 - Immanuel Wallerstein, *The Modern World-System I: Capitalist Agriculture and the Origins of the European World-Economy in the Sixteenth Century*, 1974.
+- Andre Gunder Frank, *ReORIENT: Global Economy in the Asian Age*. University of California Press, 1998.
 - Immanuel Wallerstein, *World-Systems Analysis: An Introduction*, 2004.
 - Theda Skocpol, "Wallerstein's World Capitalist System: A Theoretical and Historical Critique," *American Journal of Sociology*, 1977.
 - Robert Brenner, "The Origins of Capitalist Development: A Critique of Neo-Smithian Marxism," *New Left Review*, 1977.

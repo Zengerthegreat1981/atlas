@@ -4,6 +4,7 @@ id: "WRK-20301"
 type: "عمل / كتاب"
 part: "legal-theory"
 level: "متقدم"
+quality: "unverified incomplete"
 title: "Al-Ashbah wa al-Naza'ir"
 author: "Zayn al-Din ibn Ibrahim ibn Nujaym"
 author_slug: "thk-ibn-nujaym"
@@ -20,7 +21,6 @@ related:
 - id: "con-qawaid-fiqhiyya-legal-maxims", title: "Qawa'id Fiqhiyya (Legal Maxims)", type: "مفهوم"
 - id: "wrk-majallat-al-ahkam-al-adliyya", title: "Majallat al-Ahkam al-Adliyya", type: "عمل / كتاب"
 gaps:
-  - "Exact date of composition: not yet covered (1563 is the year of Ibn Nujaym's death, used only as an upper limit)"
   - "Comparison of the different editions: not yet covered"
 ---
 
@@ -52,8 +52,15 @@ This book is among the textual sources drawn upon by the drafters of the Ottoman
 
 The book also contains less well-known sections beyond the part on general maxims, including a section on juristic puzzles (*alghaz*: questions phrased in a way that seems counterintuitive in their ruling and explained by mentioning their hidden rationale). Such sections reflect a pedagogical and training dimension of the book. They can be used to train students of jurisprudence to distinguish precisely between similar cases, not merely to recite rulings. This dimension shows that the book was not addressed only to the practicing jurist needing a quick reference. It was also a pedagogical tool in forming the juristic faculty of students. Thus the book combines a practical reference function with a formative educational function at the same time. This combination generally distinguishes the classical genre of juristic texts and commentaries from modern legal codes, which mostly serve only the first function.
 
+## Date of composition
+
+Printed texts and manuscript notes place the finish of *al-Ashbah wa al-Naza'ir* on 27 Jumada II 969 AH (about 4 March 1562). The author's closing statement says the writing took six months, which puts the start in late 968 AH. A University of Michigan copy records that day as a marginal correction in a hand other than the main colophon, so the day is part of the transmitted close of the book rather than an autograph date on every copy. The year 1563 in the heading is the death year often given for Ibn Nujaym (8 Rajab 970 AH / 3 March 1563 in the report of Taqi al-Din al-Tamimi, taken from the author's brother). Some notices put the death in 969 AH. The composition date is therefore earlier than the death year used as an upper bound.
+
 ## Sources
 
 - Ibn Nujaym, Zayn al-Din ibn Ibrahim. *Al-Ashbah wa al-Naza'ir*. Dar al-Kutub al-Ilmiyya, Beirut, 1999.
 - al-Zarqa, Mustafa Ahmad. *Al-Madkhal al-fiqhi al-'amm* [*General Introduction to Jurisprudence*]. Dar al-Qalam, Damascus, 1998 (chapters on legal maxims).
 - Hallaq, Wael B. *Authority, Continuity and Change in Islamic Law*. Cambridge University Press, 2001.
+- University of Michigan Library. Catalog record for *Kitab al-Ashbah wa-al-naza'ir* (Isl. Ms. 84), noting completion on 27 Jumada II 969.
+- Qalamos. Manuscript record for Ibn Nujaym, *al-Ashbah wa-al-naza'ir* (completion 27 Jumada II 969 / 4 March 1562).
+- "Ibn Nujaym, Zayn al-Din (d. 970/1563)." École Hanafite (biographical notice citing al-Tamimi).

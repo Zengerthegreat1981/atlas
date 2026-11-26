@@ -9,7 +9,7 @@ en: "Sacred Time and Historical Periodization"
 crumb: "Bridges ← Concepts ← Sacred Time and Historical Periodization"
 active_start: 1900
 active_end: "مستمر"
-related:
+related: []
 gaps: []
 ---
 # Sacred Time and Historical Eras

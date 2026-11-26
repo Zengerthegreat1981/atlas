@@ -17,7 +17,7 @@ active_end: "مستمر"
 crumb: "Religious Studies ← Schools ← Comparative Religious Food and Dietary Rituals Studies"
 edges:
 - rel: "belongs_to", target: "The Founding of the 'Science of Religion': Max Müller and the Birth of Comparative Religion", target_type: "مدرسة"
-related:
+related: []
 gaps: []
 ---
 

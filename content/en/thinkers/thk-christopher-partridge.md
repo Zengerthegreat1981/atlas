@@ -16,7 +16,7 @@ active_start: 2004
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "New Age Movement in Academic Study", target_type: "مدرسة"
-related:
+related: []
 gaps: []
 ---
 

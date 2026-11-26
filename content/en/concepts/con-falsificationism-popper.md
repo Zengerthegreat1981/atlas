@@ -13,7 +13,7 @@ edges:
 - rel: "belongs_to", target: "Philosophy of Science", target_type: "مدرسة"
 related:
 - id: "thk-karl-popper", title: "Sir Karl Popper", type: "مفكر"
-- id: "sch-phil-science", title: "Philosophy of Science (as an umbrella)", type: "مدرسة"
+- id: "fld-philosophy-of-science", title: "Philosophy of Science", type: "مجال"
 gaps: []
 ---
 

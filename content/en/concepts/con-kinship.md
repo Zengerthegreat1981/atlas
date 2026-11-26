@@ -4,6 +4,7 @@ id: "ANT-13019"
 type: "مفهوم"
 part: anthropology
 level: "متوسط"
+quality: "unverified"
 title: "Kinship"
 en: "Kinship"
 crumb: "Anthropology ← Kinship"

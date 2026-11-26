@@ -12,7 +12,7 @@ dates: 2010
 active_start: 1990
 active_end: مستمر
 edges: []
-related:
+related: []
 gaps: []
 sources:
   - Smith, L. T. (1999). Decolonizing Methodologies: Research and Indigenous Peoples. Zed Books; University of Otago Press.

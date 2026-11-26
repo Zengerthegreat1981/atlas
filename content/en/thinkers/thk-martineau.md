@@ -57,10 +57,17 @@ Martineau's writing connects with concepts that sociology later named and refine
 
 For much of the twentieth century Martineau was left out of the sociological canon, partly because she wrote for a general public and was a woman. Historians such as Michael R. Hill and Susan Hoecker-Drysdale have argued for her recognition as an early sociologist. Critics note that she lacked a formal system of theory, and that some of her economic views and her interpretation of other societies reflected the limits of her time.
 
+## Illness, Journalism, and Further Writings
+
+After the family manufacturing business failed, Martineau supported herself by writing, and the success of the *Illustrations* brought her into London literary and political circles. She publicly sided with the abolitionists. A long illness kept her at Tynemouth in the early 1840s; she then settled at Ambleside, travelled in the Middle East, and from the 1850s wrote leading articles for the London *Daily News*. She treated domestic life as evidence of a society's moral condition: marriage, the treatment of women, work, and the care of the vulnerable. *Society in America* is organized around politics, the economy, and what she called civilization, and it draws on visits to institutions, households, and plantations. *How to Observe Morals and Manners* also stresses sympathy as a means of understanding other people, and it gives priority to institutions and recorded facts over the impressions of single informants. Other books include the novel *Deerbrook* (1839) and *Life in the Sick-Room* (1844). In the *Illustrations* she defended classical political economy, including restrictions on poor relief of the sort associated with the 1834 Poor Law. Her judgments of non-Western societies carry Victorian assumptions about progress. Her American inquiry can be read beside Alexis de Tocqueville's account of democracy in the United States, and her attention to everyday domestic arrangements has been compared with later feminist interest in the standpoint of ordinary life.
+
 ## Sources
 
 - Martineau, Harriet. *Society in America* (1837).
 - Martineau, Harriet. *How to Observe Morals and Manners* (1838).
+- Martineau, Harriet. *Deerbrook* (1839).
+- Martineau, Harriet. *Life in the Sick-Room* (1844).
+- Martineau, Harriet. *Autobiography* (1877).
 - Hoecker-Drysdale, Susan. *Harriet Martineau: First Woman Sociologist* (1992).
 - Hill, Michael R., and Susan Hoecker-Drysdale, eds. *Harriet Martineau: Theoretical and Methodological Perspectives* (2001).
 - Durkheim, Emile. *The Rules of Sociological Method* (1895).

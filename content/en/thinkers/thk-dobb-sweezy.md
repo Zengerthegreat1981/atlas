@@ -14,7 +14,7 @@ active_start: 1946
 active_end: 2004
 edges:
 - rel: "belongs_to", target: "Feudalism-to-Capitalism Transition Debate (Dobb-Sweezy and Brenner)", target_type: "مدرسة"
-related:
+related: []
 gaps: []
 ---
 

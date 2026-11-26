@@ -15,7 +15,7 @@ sample_size: ""
 main_finding: "Children able to delay gratification to obtain a larger reward showed, in the original follow-ups, an association with better academic and behavioral outcomes later in life, but a later conceptual replication (Watts et al., 2018) found a much smaller association that largely disappeared after controlling for family background and early cognitive ability"
 replication_status: "contested"
 edges: []
-related:
+related: []
 gaps: []
 ---
 

@@ -5,6 +5,7 @@ type: "مفهوم"
 part: "anthropology"
 anthropological_tradition: "political-economy"
 level: "متقدم"
+quality: "unverified"
 title: "Moka Exchange"
 en: "Moka Exchange"
 crumb: "Anthropology ← Concepts ← Moka Exchange"
@@ -72,7 +73,7 @@ The study of the moka, alongside the kula and the potlatch, has become one of th
 
 - Strathern, Marilyn. *The Gender of the Gift: Problems with Women and Problems with Society in Melanesia*. University of California Press, 1988.
 - Strathern, Andrew. *The Rope of Moka: Big-Men and Ceremonial Exchange in Mount Hagen, New Guinea*. Cambridge University Press, 1971.
-- Strathern, Marilyn. *Women in Between: Female Roles in a Male World, Mount Hagen, New Guinea*. Academic Press, 1972.
+- Strathern, Marilyn. *Women in Between: Female Roles in a Male World, Mount Hagen, New Guinea*. Seminar Press, 1972.
 - Strathern, Andrew, and Marilyn Strathern. *Self-Decoration in Mount Hagen*. Duckworth, 1971.
 - Malinowski, Bronislaw. *Argonauts of the Western Pacific*. Routledge, 1922.
 - Meggitt, Mervyn J. "'Pigs Are Our Hearts!' The Te Exchange Cycle among the Mae Enga of New Guinea." *Oceania* 44, no. 3. 1974.

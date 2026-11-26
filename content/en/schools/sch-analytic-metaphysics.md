@@ -14,7 +14,7 @@ active_start: 1970
 active_end: "مستمر"
 cultural_origin: "anglo-american"
 edges: []
-related:
+related: []
 gaps: []
 ---
 

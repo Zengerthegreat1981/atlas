@@ -17,7 +17,7 @@ active_start: -440
 active_end: 120
 edges:
 - rel: "belongs_to", target: "Ibn Khaldun's Method of Historical Report Criticism", target_type: "مدرسة"
-related:
+related: []
 gaps: []
 ---
 

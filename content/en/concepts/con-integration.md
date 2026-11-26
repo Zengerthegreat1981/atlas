@@ -4,6 +4,7 @@ id: "ANT-13316"
 type: "مفهوم"
 part: anthropology
 level: "متوسط"
+quality: "unverified"
 title: "Integration: Holding a Society Together"
 en: "Integration"
 crumb: "Anthropology ← Core Concepts ← Integration"

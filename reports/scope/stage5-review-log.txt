@@ -1,0 +1,88 @@
+## s5a_01.txt
+con-creolization: confirmed: sources/key facts looked up [https://en.wikipedia.org/wiki/Kamau_Brathwaite; https://en.wikipedia.org/wiki/Papiamento; https://doi.org/10.1017/s0047404505050207] | badged: not individually confirmed: book arguments (Brathwaite, Glissant, Hannerz, DeGraff), linguistic history, Seychelles schooling, Brazil/Mauritius examples
+con-hegemony: confirmed: sources/key facts looked up [https://en.wikipedia.org/wiki/Prison_Notebooks; https://doi.org/10.1086/448481; https://www.versobooks.com/blogs/news/3070-raymond-williams-base-and-superstructure-in-marxist-cultural-theory] | badged: not individually confirmed: content of Said 1989, Femia, Guha, Chatterjee, Mbembe and Williams distinctions
+con-integration: confirmed: sources/key facts looked up [https://doi.org/10.1111/glob.12040; https://en.wikipedia.org/wiki/AGIL_paradigm; Crossref reference data for Lockwood 1964 p.244] | badged: not individually confirmed: findings of Ellison, Dekker, Miller; Sunstein argument; Parsons detail beyond AGIL; Halls translation entry
+con-kinship: confirmed: sources/key facts looked up [https://research.gold.ac.uk/id/eprint/9232; https://en.wikipedia.org/wiki/The_Elementary_Structures_of_Kinship] | badged: not individually confirmed: arguments of Morgan, Radcliffe-Brown, Levi-Strauss, Schneider, Carsten, Nelson in detail
+con-kula-exchange: confirmed: sources/key facts looked up [https://en.wikipedia.org/wiki/Kula_ring; Open Library full text of The Enigma of the Gift (Damon, kitoum)] | badged: not individually confirmed: Weiner banana-leaf bundles, Munn argument, Malinowski 1922 and Mauss translation entries
+con-magic-religion-frazer: confirmed: sources/key facts looked up [https://en.wikipedia.org/wiki/The_Golden_Bough; https://theanarchistlibrary.org/library/david-graeber-the-divine-kingship-of-the-shilluk] | badged: not individually confirmed: magic typology detail, Ainu/Mannhardt/Spencer-Gillen use, Malinowski critique; Malinowski 1948 and Spencer-Gillen entries
+con-modernity: confirmed: sources/key facts looked up [https://en.wikipedia.org/wiki/Modernity_and_the_Holocaust; Open Library full text for Giddens 1990 dimensions; https://www.ucl.ac.uk/anthropology/people/academic-teaching-staff/daniel-miller/mil-27] | badged: not individually confirmed: arguments of Weber, Marx, Bauman Ambivalence, Appadurai, Castells, Zuboff, Miller-Slater
+con-moka-hagen-exchange: confirmed: sources/key facts looked up; fixed publisher of Women in Between (1972) to Seminar Press [https://openlibrary.org/search.json?title=Women+in+Between&author=Strathern] | badged: not individually confirmed: women's labour and agency, partner/bridewealth detail, Enga tee comparison; Gender of the Gift argument
+con-patrilineal-descent: confirmed: sources/key facts looked up [https://www.fidh.org/IMG/pdf/heritage_en_web_pages.pdf; https://en.wikipedia.org/wiki/Egyptian_nationality_law] | badged: not individually confirmed: arguments of Evans-Pritchard, Fortes, Gellner, Needham, Leach, Moors; Islamic succession rules; Nuer, Web of Kinship, Pul Eliya entries
+con-ritual: confirmed: sources/key facts looked up; fixed conditions for validity of the Mass [https://www.catholic.com/magazine/online-edition/invalid-masses] | badged: not individually confirmed: most book arguments (Turner, Geertz, Douglas, Leach, Asad, Bell, Dayan-Katz, Couldry, Moore-Myerhoff) and cross-cultural generalisations; Leach 1976 entry
+con-symbol: confirmed: sources/key facts looked up [Open Library full text, Forest of Symbols (Sapir condensation); https://en.wikipedia.org/wiki/Charles_Sanders_Peirce; https://doi.org/10.7551/mitpress/9429.001.0001] | badged: not individually confirmed: most book arguments (Durkheim, Geertz, Douglas, Shifman, Coleman, Boellstorff) and ethnographic examples (torii, Brazil, Maasai, Ganga)
+con-war: confirmed: sources/key facts looked up; fixed Tilly 1990 title to AD 990-1990 [https://doi.org/10.2307/2165292; https://en.wikipedia.org/wiki/Charles_Tilly] | badged: not individually confirmed: Mann internal-logic argument, Keeley critics, stateless-war and world-war generalisations, Rid and Clarke-Knake arguments
+fld-anthropology: confirmed: sources/key facts looked up [https://doi.org/10.2307/278380; https://doi.org/10.1111/j.2164-0947.1951.tb01033.x; https://en.wikipedia.org/wiki/Jane_Goodall] | badged: not individually confirmed: school summaries, Hrdy and Hodder arguments, Lewontin finding; internal coverage and reading-path lists
+fld-ethnography-fieldwork-ethics: confirmed: sources/key facts looked up; fixed Belmont Report/IRB wording (IRB requirement predates 1979) [https://en.wikipedia.org/wiki/Institutional_review_board] | badged: not individually confirmed: arguments of Clifford, Asad, Smith, MacDougall, Kohn, Tsing; Mead-Bateson/Rouch detail; internal coverage statement
+fld-kinship-exchange-economy: confirmed: sources/key facts looked up [https://doi.org/10.1215/9780822391371; https://doi.org/10.1525/9780520915442] | badged: not individually confirmed: book arguments (Zaloom, Miyazaki, Maurer, Zelizer, Callon, Ginsburg-Rapp, Sahlins, Graeber); internal coverage statement
+fld-power-politics-anthropology: confirmed: sources/key facts looked up [https://doi.org/10.2307/3052967; https://en.wikipedia.org/wiki/The_Art_of_Not_Being_Governed] | badged: not individually confirmed: arguments of Wolf, Comaroffs, Clastres, Scott, Graeber, Bohannan, Moore, Nader-Todd; Fortes/Nuer/Wolf/Comaroff entries; internal coverage statement
+thk-appadurai: confirmed: sources/key facts looked up (note: duplicates thk-arjun-appadurai) [https://en.wikipedia.org/wiki/Arjun_Appadurai; https://en.wikipedia.org/wiki/Public_Culture; https://doi.org/10.1215/08992363-2-2-1] | badged: not individually confirmed: critiques summary, Anderson link, Hine and Pink descriptions, Bernal findings; Anderson, Hine, Pink entries
+thk-arjun-appadurai: confirmed: sources/key facts looked up (note: duplicates thk-appadurai) [https://en.wikipedia.org/wiki/Arjun_Appadurai; https://doi.org/10.1215/9780822383215-001] | badged: not individually confirmed: critiques summary, Anderson link, Hine and Pink descriptions, Bernal findings; Anderson, Hine, Pink entries
+thk-bruno-latour: confirmed: sources/key facts looked up; fixed topic of Abidjan fieldwork [https://newleftreview.org/sidecar/posts/latours-metamorphosis; https://en.wikipedia.org/wiki/Bruno_Latour; https://doi.org/10.1111/johs.12124] | badged: not individually confirmed: summaries of Latour books, ANT criticisms, Mitchell, Verran, TallBear arguments; death place
+thk-fei-xiaotong: confirmed: sources/key facts looked up [https://en.wikipedia.org/wiki/Fei_Xiaotong; https://doi.org/10.1086/203685; https://doi.org/10.1163/9781684172320] | badged: not individually confirmed: Earthbound China analysis, From the Soil circles/bundles contrast, 1957 episode detail, representativeness criticism (partly seen)
+
+## s5a_02.txt
+thk-george-marcus: confirmed
+thk-haraway: confirmed
+thk-james-clifford: confirmed
+thk-latour: confirmed | fixed place/phrasing of first meeting with Woolgar (met 1976 at Berkeley meeting, not at Salk) [https://estsjournal.org/index.php/ests/article/download/237/146]
+thk-leacock: confirmed
+thk-lindatuhiwai: confirmed (sources, biography, quotation) | badged: specific claim that Smith advocated whānau/hapū/iwi take part in research design, interpretation, dissemination and return of findings
+thk-malinowski: confirmed (sources, biography, quotation) | fixed Malinowski 'called' participant observation -> 'what came to be called' (term traced to 1920s sociology/Lindeman) [https://en.wikipedia.org/wiki/Participant_observation] | badged: that women's bundle exchanges drew on husbands' resources and served men's political projects (Weiner)
+thk-paul-rabinow: confirmed (sources, biography, works) | badged: that his later science fieldwork included hospitals
+wrk-hawaiian-kinship: confirmed
+wrk-residence-kinship: confirmed (all sources, context, componential analysis, reception) | badged: content of 'Residence Rules' argument (rule vs practice, first vs later marriages, exceptions as informative) [article text not accessed]
+con-conscious-acts: confirmed
+con-ethics-of-interest-riba-bridge: confirmed (sources, Aristotle, Quran/hadith summary, illa positions, Ghazali, El-Gamal) | badged: Ibn Rushd's unfair-exchange/coin-as-measure account; 'no documented use' of Aristotle's argument by Islamic jurists
+con-facticity: confirmed
+con-fusion-horizons: confirmed
+con-money-happiness-easterlin-bridge: confirmed
+con-praxis: confirmed | fixed sentence calling Feuerbach an idealist philosopher criticised for contemplation (first and sixth theses) [https://www.marxists.org/archive/marx/works/1845/theses/theses.htm]
+con-psychophysics-fechner: confirmed | fixed brightness exponent condition (0.33 = 5-degree target, point source is 0.5) [https://en.wikipedia.org/wiki/Stevens%27s_power_law]
+con-qualia: confirmed
+con-unconscious-inference: confirmed (sources, theory, experiments) | badged: that Helmholtz was aware of the Ptolemy/Ibn al-Haytham lineage
+que-what-is-language: confirmed (existing 'incomplete' quality line left unchanged)
+
+## s5a_03.txt
+rel-integrative-humanistic-common-factors: confirmed
+thk-helmholtz: confirmed | fixed 1850 timing method (galvanometer, not graphic) [https://epub.uni-regensburg.de/27126/1/schmidgen.pdf]; Wundt assistantship 1858-1865 [https://plato.stanford.edu/entries/wilhelm-wundt/]; Association 1995 renaming of 1970 body [https://helmholtz.de/en/about-us/who-we-are/history]
+thk-titchener: confirmed | fixed "American philosopher" to English psychologist working in US; Külpe title Outlines [https://en.wikipedia.org/wiki/Edward_B._Titchener, https://openlibrary.org/search?title=Outlines+of+psychology&author=Kulpe]
+con-abortion-ethics: badged: what Ibn al-Humam, Ibn Abidin, al-Ghazali, al-Ramli and Ibn Qudama say (texts not checked); rest confirmed
+con-act-vs-rule-utilitarianism: confirmed
+con-agent-centered-consequentialism: confirmed
+con-ancient-ethics-greece: confirmed
+con-animal-rights-ethics: confirmed
+con-autonomy-informed-consent: confirmed
+con-beneficence-nonmaleficence: badged: al-Raghib al-Isfahani reading of beneficence above justice in al-Dhari'a; rest confirmed
+con-biocentrism: confirmed
+con-business-virtue: confirmed | fixed honesty-as-validity-condition (defect gives right to rescind) [https://irep.iium.edu.my/73482/]; Miskawayh on justice [https://www.muslimphilosophy.com/ip/rep/H042]
+con-caring-relationships: confirmed | fixed garbled sentence on rights vs care [https://openlibrary.org/search?title=The+ethics+of+care+and+empathy&author=Slote]
+con-character-ethics: confirmed
+con-conflicts-professional: confirmed
+con-conscience: badged: lawwama blaming even after repentance; Mutazila/Ashari reading of self-reproach; al-Ghazali claim that neglected self-accounting kills conscience; rest confirmed
+con-consequentialist-impartialism: confirmed
+con-deontological-constraints: confirmed
+con-dignity-bioethics: confirmed
+con-duty-based-ethics: confirmed
+
+## s5a_04.txt
+con-ecocentrism: confirmed [https://sunnah.com/bukhari:2370 https://sunnah.com/ibnmajah:425 https://sunnah.com/muslim:1363]
+con-enlightenment-ethics: confirmed (sources and key claims; background doctrine as standard textbook) [https://libcat.scu.edu/Record/b1272319/Details https://oll.libertyfund.org/quote/adam-smith-selfishness-sympathy]
+con-ethics-of-care: confirmed [https://iep.utm.edu/care-ethics/]
+con-euthanasia-physician-assisted-suicide: confirmed | fixed Kant did not directly address assisted suicide [https://philarchive.org/archive/CHODAA-4]
+con-hedonistic-vs-preference-utilitarianism: confirmed [https://en.wikipedia.org/wiki/Katarzyna_de_Lazari-Radek]
+con-humanity-as-end-in-itself: confirmed [https://api.philpapers.org/rec/WOOKOD-4]
+con-interdependence: confirmed [https://onwork.edu.au/bibitem/1999-MacIntyre,A+C-Dependent+rational+animals+Why+human+beings+need+the+virtues]
+con-justice-rawls: confirmed [https://people.brandeis.edu/~teuber/Pogge-An-Egalitarian-Law-of-Peoples.pdf]
+con-moral-emotion: confirmed [https://sdimakis.github.io/moral_psychology/readings/week_8/optional/Rozin_1999.pdf]
+con-moral-motivation: fixed Smith's problem needs the Humean premise [https://api.philpapers.org/rec/STUTMP-3] | badged: Ash'ari heart/limbs account; Miskawayh love of moral beauty motive; al-Ghazali learned-sinner explanation
+con-moral-responsibility: badged: Ibn Rushd responsibility argument attributed to Tahafut al-Tahafut (other claims and sources confirmed)
+con-moral-subjectivism: confirmed [https://plato.stanford.edu/entries/moore-moral/]
+con-moral-weakness: confirmed [https://plato.stanford.edu/entries/weakness-will/]
+con-organ-transplant-ethics: fixed IIFA Res. 26 conditions (living kidney donation not permitted by it; dead-donor terms; basis not named in resolution) [https://iifa-aifi.org/en/32287.html] | badged: "most contemporary councils" accept brain death; Beauchamp and Childress 2019 edition year
+con-prescriptivism: badged: al-Amidi edition (al-Jumayli editor, 1984)
+con-responsiveness-particularity: confirmed [https://sunnah.com/bukhari:127]
+con-right-action: confirmed [https://www.cambridge.org/core/journals/philosophy/article/modern-moral-philosophy1/9E56836F22C34BE2CE4A3E763691C2FB]
+con-social-contract: badged: al-Farabi Nader edition year 1968 (other claims and sources confirmed)
+con-stakeholder-theory: confirmed [https://www.accaglobal.com/gb/en/student/exam-support-resources/professional-exams-study-resources/strategic-business-leader/technical-articles/all-about-stakeholders-part-1.html]
+con-sustainability-ethics: confirmed [https://www.cbd.int/doc/ref/rio-declaration.shtml https://sunnah.com/ibnmajah:425]
+

@@ -13,7 +13,7 @@ original_language: "English"
 active_start: 1922
 active_end: 1922
 edges: []
-related:
+related: []
 gaps: []
 ---
 # Nanook of the North

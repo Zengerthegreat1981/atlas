@@ -14,7 +14,7 @@ active_start: 1969
 active_end: 2024
 edges:
 - rel: "belongs_to", target: "Analytic Philosophy of Mind", target_type: "مدرسة"
-related:
+related: []
 gaps: []
 ---
 

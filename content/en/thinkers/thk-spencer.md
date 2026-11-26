@@ -54,8 +54,14 @@ Spencer was enormously influential in his lifetime, including on Durkheim, who e
 
 His evolutionary framework influenced early anthropology and later neo-evolutionary theory. Compare Comte's stages, Durkheim's division of labor, and Marx's historical materialism.
 
+## The System, Equal Freedom, and the Limits of the Organic Analogy
+
+From 1848 to 1853 Spencer was sub-editor of *The Economist*. A modest inheritance, together with payments from readers who subscribed to the *System of Synthetic Philosophy*, let him work outside the universities. The System applied one evolutionary scheme to biology, psychology, sociology, and ethics. He pressed the organic analogy only so far: unlike an organism, a society has no single sensorium, and consciousness remains in the individual members. The political principle he defended, already in *Social Statics* (1851), was that each person may act freely so long as that action does not infringe the equal freedom of others. *The Principles of Sociology* compares domestic, ceremonial, political, ecclesiastical, professional, and industrial institutions across societies. The evidence was largely secondhand historical and ethnographic report, much of it arranged for comparison in the *Descriptive Sociology* volumes he sponsored. *The Study of Sociology* examines the biases that obstruct inquiry into one's own society. He was widely read in Britain, the United States, and parts of Asia. Durkheim, while using themes of differentiation, rejected the claim that contract and self-interest are enough to hold a complex society together. Parsons attributed the question "who now reads Spencer" to the historian Crane Brinton. Critics also attacked his resistance to public provision for welfare. Historians continue to dispute how far the label "social Darwinism" fits a writer who also held Lamarckian views of inheritance.
+
 ## Sources
 
+- Spencer, Herbert. *Social Statics*. London: John Chapman, 1851.
+- Spencer, Herbert. *The Study of Sociology*. London: Henry S. King, 1873.
 - Spencer, H. (1876-1896). *The Principles of Sociology*. Williams and Norgate.
 - Spencer, H. (1884). *The Man versus the State*.
 - Spencer, H. (1904). *An Autobiography*. Williams and Norgate.

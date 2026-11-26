@@ -4,6 +4,7 @@ id: "THK-13138"
 type: "مفكر"
 part: "psychiatry"
 level: "متقدم"
+quality: "incomplete"
 title: "Edmund Bourne"
 en: "Edmund Bourne"
 crumb: "Psychiatry ← Thinkers ← Edmund Bourne"
@@ -26,7 +27,7 @@ American psychologist and author specializing in the treatment of anxiety disord
 
 ## Professional Career
 
-At the Anxiety Treatment Center he worked with panic disorder, agoraphobia, generalized anxiety, obsessive-compulsive disorder, and post-traumatic stress disorder. Related books include *Healing Fear* (1998) and *Beyond Anxiety and Phobia* (2001), both from New Harbinger Publications, which also published the workbook. In *Global Shift: How a New Worldview Is Transforming Humanity* (2008) he turned to cultural change and consciousness. Later anxiety titles include *Natural Relief for Anxiety* (2004) and *Coping with Anxiety*. A public birth date and a documented account of his university training are not available here.
+At the Anxiety Treatment Center he worked with panic disorder, agoraphobia, generalized anxiety, obsessive-compulsive disorder, and post-traumatic stress disorder. Related books include *Healing Fear* (1998) and *Beyond Anxiety and Phobia* (2001), both from New Harbinger Publications, which also published the workbook. In *Global Shift: How a New Worldview Is Transforming Humanity* (2008) he turned to cultural change and consciousness. Later anxiety titles include *Natural Relief for Anxiety* (2004) and *Coping with Anxiety*. A publisher biography records a philosophy major at Colgate University in the late 1960s. A publisher biography also records a doctorate in psychology from the University of Chicago. A birth date is still not in the public materials used here.
 
 ## The Scientific Context: How the Book Came About
 
@@ -56,3 +57,5 @@ The book relies on self-help, so it does not suit severe cases, cases accompanie
 - Marks, Isaac M. *Fears, Phobias, and Rituals: Panic, Anxiety, and Their Disorders*. New York: Oxford University Press, 1987.
 - Gould, Robert A., and George A. Clum. "A Meta-Analysis of Self-Help Treatment Approaches." *Clinical Psychology Review* 13, no. 2 (1993): 169–186.
 - Lewis, Catrin, Jennifer Pearce, and Jonathan I. Bisson. "Efficacy, Cost-Effectiveness and Acceptability of Self-Help Interventions for Anxiety Disorders: Systematic Review." *British Journal of Psychiatry* 200, no. 1 (2012): 15–21.
+- New Harbinger Publications, author note for Edmund J. Bourne.
+- Éditions Eyrolles. Author page for Edmund J. Bourne. https://www.editions-eyrolles.com/auteurs/edmund-j-bourne

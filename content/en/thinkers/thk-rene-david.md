@@ -4,6 +4,7 @@ id: "THK-20364"
 type: "مفكر"
 part: "legal-theory"
 level: "متقدم"
+quality: "unverified"
 title: "René David"
 en: "René David"
 crumb: "Legal Theory ← Thinkers ← René David"
@@ -20,9 +21,7 @@ related:
 - id: "con-legal-families-comparative-law", title: "Legal Families", type: "مفهوم"
 - id: "thk-konrad-zweigert", title: "Konrad Zweigert", type: "مفكر"
 - id: "thk-abd-al-razzaq-al-sanhuri", title: "Abd al-Razzaq al-Sanhuri", type: "مفكر"
-gaps:
-  - "The evolution of his classification of legal families across the successive editions of his book (1964 onward, with later editions co-authored by Camille Jauffret-Spinosi): not yet covered."
-  - "His international institutional activity beyond the Ethiopian project: not yet covered."
+gaps: []
 ---
 
 # René David
@@ -53,8 +52,19 @@ David explains that classifying a legal system within a particular family requir
 
 David's classification of legal families, despite later criticism by jurists such as H. Patrick Glenn, who considered it at times excessively simplifying of the diversity of non-Western systems, remains a common starting point in the teaching of comparative law. The book was later revised in collaboration with Camille Jauffret-Spinosi, and appeared in English as *Major Legal Systems in the World Today*, co-authored with John E. C. Brierley.
 
+## Later editions of the family classification
+
+The 1964 book grouped contemporary laws as a Romano-Germanic family, a common-law family, a socialist family, and a residual set of other conceptions of law and social order. Later French editions, prepared with Camille Jauffret-Spinosi and, by the twelfth edition of 2016, also with Marie Goré, keep the Romano-Germanic and common-law parts and the section on other conceptions (Muslim law, the law of India, Far Eastern laws, and the laws of Africa and Madagascar). The material once presented as the law of the socialist world is recast as the Russian legal system: a historical account, a description of the socialist law of the former Soviet Union from 1917 to 1991, and then Russian law. The published tables of contents do not record a change at every intermediate printing. They do record the main shift once the Soviet bloc had gone.
+
+## Work outside the Ethiopian code
+
+David's institutional work was not limited to Ethiopia. In 1930 he became one of the two deputy secretaries-general of the International Institute for the Unification of Private Law (UNIDROIT) in Rome. In 1949 UNESCO brought comparative lawyers together to consider an international association. David acted as secretary-general of the international committee then formed and reported to its bureau at Cambridge in December 1949. He later sat on the UNIDROIT governing board (1962–1978) and, in the 1960s, headed the French delegation to the United Nations Commission on International Trade Law. He also joined the group of experts who drafted a civil code for Rwanda, and in 1973 he took charge of publishing the *International Encyclopedia of Comparative Law*, as chief editor of its volume on the legal systems of the world.
+
 ## Sources
 
 - David, René. *Les grands systèmes de droit contemporains*. Paris: Dalloz, 1964.
 - David, René, and John E. C. Brierley. *Major Legal Systems in the World Today: An Introduction to the Comparative Study of Law*. London: Stevens & Sons, 1968 (3rd ed. 1985).
 - Glenn, H. Patrick. *Legal Traditions of the World*. Oxford: Oxford University Press, 2000 (and later editions).
+- David, René, Camille Jauffret-Spinosi, and Marie Goré. *Les grands systèmes de droit contemporains*. 12th ed. Paris: Dalloz, 2016.
+- David, René. "L'UNESCO et le droit comparé." *Revue internationale de droit comparé* 2, no. 2 (1950): 328–333.
+- Monereo Pérez, José Luis. "René David: el enfoque clásico en la construcción del Derecho comparado y del método comparatista." *Anuario Coruñés de Derecho Comparado del Trabajo* 13 (2021): 185–244. https://acdct.es/wp-content/uploads/2022/09/10-monereo-perez-acdct-xiii-2021.pdf

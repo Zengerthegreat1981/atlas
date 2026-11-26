@@ -20,8 +20,7 @@ related:
 - id: "dbt-unconscious", title: "Is There an Unconscious?", type: "جدل"
 - id: "dbt-evidence", title: "Should We Demand Empirical Evidence?", type: "جدل"
 - id: "rel-kant-cognitive-schemas", title: "Kantian Philosophy and Cognitive Schemas", type: "علاقة بين مدرستين"
-gaps:
-  - "Precise dating of the shift from rivalry to selective integration: not yet covered."
+gaps: []
 ---
 
 # Psychoanalysis and Behaviorism: The Foundational Rivalry

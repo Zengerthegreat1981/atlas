@@ -8,7 +8,7 @@ title: "The Rashidun (Rightly-Guided) Caliphs"
 en: "The Rashidun (Rightly-Guided) Caliphs"
 crumb: "Historiography ← Concepts ← The Rashidun (Rightly-Guided) Caliphs"
 edges: []
-related:
+related: []
 gaps: []
 ---
 

@@ -19,7 +19,6 @@ related:
 - id: "thk-heidi-campbell", title: "Heidi A. Campbell", type: "مفكر"
 - id: "wrk-when-religion-meets-new-media-campbell", title: "When Religion Meets New Media", type: "عمل / كتاب"
 gaps:
-  - "Individual chapters and contributors: not yet covered"
 ---
 
 # Playing with Religion in Digital Games
@@ -46,8 +45,13 @@ Heidi Campbell and Gregory Price Grieve are leading figures in the study of reli
 
 The volume helped stimulate growth of a sub-field within both game studies and religious studies. As a multi-contributor volume, its chapters naturally vary in method and quality, as is common with inclusive edited collections; its main value lies in mapping the field and showing the range of questions it raises.
 
+## Chapters and Contributors
+
+After the editors' introduction, "What Playing with Religion Offers Digital Game Studies", the twelve chapters fall into three parts. The first, on religiously themed games, includes Jason Anthony on a typology of religious games; Isamar Carrillo Masso and Nathan Abrams on representing Judaism in *The Shivah*; Xenia Zeiler on the global mediatization of Hinduism through games; and Brenda S. Gardenour Walter on horror and transcendence in *Silent Hill* and *Fatal Frame*. The second, on religion in mainstream games, includes Vít Šisler on Islam in Arab and American games, from *Kuma\War* to *Quraish*; Rabia Gregory on religion as world-building infrastructure in fantasy online role-playing games; Shanny Luft on how religion shapes evangelical players; and Peter Likarish on censorship and localization in *Actraiser* and other titles. The third, on gaming as implicit religion, includes Rachel Wagner on playing in earnest; Oliver Steffen on what makes a game spiritually effective; Michael Waltemathe on religion, play and Alfred Schutz's theory of the life-world; and Kevin Schut on the mechanistic bias in game representations of religion and spirituality. A gameography follows.
+
 ## Sources
 
 - Campbell, Heidi A.; Grieve, Gregory P. (eds.). *Playing with Religion in Digital Games*. Indiana University Press, 2014.
 - Grieve, Gregory P. *Cyber Zen: Imagining Authentic Buddhist Identity, Community, and Practices in the Virtual World of Second Life*. Routledge, 2016.
 - Campbell, Heidi A. (ed.). *When Religion Meets New Media*. Routledge, 2010.
+- Indiana University Press. *Playing with Religion in Digital Games*, publisher's description and contents. https://iupress.org/9780253012531/playing-with-religion-in-digital-games

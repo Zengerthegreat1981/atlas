@@ -4,6 +4,7 @@ id: "QUE-0108"
 type: "سؤال توليدي"
 part: bridges
 level: "متوسط"
+quality: "incomplete"
 title: "What Is Forgiveness?"
 en: "What Is Forgiveness?"
 crumb: "Bridges ← Questions ← What Is Forgiveness?"

@@ -17,7 +17,7 @@ active_start: 1923
 active_end: 1982
 edges:
 - rel: "belongs_to", target: "Academic Critical Study of Kabbalah (Gershom Scholem)", target_type: "مدرسة"
-related:
+related: []
 gaps: []
 ---
 

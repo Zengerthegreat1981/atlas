@@ -17,7 +17,7 @@ active_start: 2016
 active_end: 2016
 edges:
 - rel: "belongs_to", target: "Digital Anthropology", target_type: "مدرسة"
-related:
+related: []
 gaps: []
 ---
 # Why We Post

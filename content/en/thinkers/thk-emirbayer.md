@@ -14,7 +14,7 @@ language: "English"
 part: "sociology"
 edges:
 - rel: "belongs_to", target: "Contemporary Relational Sociology", target_type: "مدرسة"
-related:
+related: []
 gaps: []
 ---
 

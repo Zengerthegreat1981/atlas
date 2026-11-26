@@ -67,8 +67,20 @@ These comparative case studies later provided essential material for training ge
 
 This school remains one of the purest examples of the capacity of British functionalist anthropology to dismantle the assumption that a stable political system necessarily requires a central state or a unified coercive authority. It offers an alternative model of social order that arises from the structure of kinship itself, rather than being imposed from above.
 
+## Antecedents and the Wider Critique
+
+A. R. Radcliffe-Brown had set out key elements of the framework in his article on patrilineal and matrilineal succession (1935) and later in his introduction to *African Systems of Kinship and Marriage* (1950), drawing on his concept of social structure as a relatively enduring network of relations that can be described apart from the individuals who occupy it. Meyer Fortes added the concept of complementary filiation: even within a strictly patrilineal system, ties to the mother and her relatives keep social and emotional significance, although they do not determine membership in the group.
+
+Beyond the Manchester School, alliance theory, put forward by Claude Lévi-Strauss and developed by Rodney Needham and Louis Dumont, held that marriage and exchange between groups, rather than descent within a single group, drive kinship systems. Edmund Leach's *Pul Eliya* (1961) and other empirical work argued that actual cases rarely match the model of a cohesive corporate descent group and that people use descent rules flexibly. David Schneider argued in *A Critique of the Study of Kinship* (1984) that the study of kinship assumes a universal tie of blood and procreation that many cultures do not share, so that it risks projecting Western ideas onto other societies. Adam Kuper's retrospect (1982) concluded that the lineage model had no value for anthropological analysis, although descent concepts remain in use in ethnographic description.
+
 ## Sources
 
 - Evans-Pritchard, E. E. *The Nuer*. Clarendon Press, 1940.
 - Fortes, Meyer. *The Web of Kinship among the Tallensi*. Oxford University Press, 1949.
 - Fortes, Meyer & Evans-Pritchard, E. E. (eds). *African Political Systems*. Oxford University Press, 1940.
+- Radcliffe-Brown, A. R. "Patrilineal and Matrilineal Succession." *Iowa Law Review* 20 (1935).
+- Leach, E. R. *Pul Eliya, a Village in Ceylon: A Study of Land Tenure and Kinship*. Cambridge: Cambridge University Press, 1961.
+- Needham, Rodney, ed. *Rethinking Kinship and Marriage*. London: Tavistock, 1971.
+- Schneider, David M. *A Critique of the Study of Kinship*. Ann Arbor: University of Michigan Press, 1984.
+- Lévi-Strauss, Claude. *Les structures élémentaires de la parenté*. Paris: Presses Universitaires de France, 1949.
+- Kuper, Adam. "Lineage Theory: A Critical Retrospect." *Annual Review of Anthropology* 11 (1982).

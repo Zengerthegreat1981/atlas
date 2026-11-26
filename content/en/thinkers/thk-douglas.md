@@ -12,13 +12,13 @@ edges:
   - rel: "belongs_to", target: "British Social Anthropology", target_type: "مدرسة"
   - rel: "developed_method", target: "Grid-Group Analysis", target_type: "تيار"
 related:
-  - id: "thk-turner", title: "Victor Turner", type: "مفكر"
-  - id: "thk-geertz", title: "Clifford Geertz", type: "مفكر"
+  - id: "thk-victor-turner", title: "Victor Turner: Ritual, Symbol, and Social Drama", type: "مفكر"
+  - id: "thk-clifford-geertz", title: "Clifford Geertz: Interpretive Anthropology and Thick Description", type: "مفكر"
   - id: "thk-edmund-leach", title: "Edmund Leach", type: "مفكر"
   - id: "thk-evans-pritchard", title: "E. E. Evans-Pritchard", type: "مفكر"
   - id: "con-matter-out-of-place-douglas", title: "Matter Out of Place", type: "مفهوم"
   - id: "con-classification", title: "Classification Systems", type: "مفهوم"
-  - id: "wrk-purity-danger", title: "Purity and Danger", type: "عمل / كتاب"
+  - id: "wrk-purity-and-danger-douglas", title: "Purity and Danger", type: "عمل / كتاب"
 gaps: []
 ---
 
@@ -28,9 +28,9 @@ Dame Mary Douglas (born Margaret Mary Tew, 1921–2007) was a British social ant
 
 ## Biographical and Intellectual Context
 
-Mary Tew was born in San Remo, Italy, on 25 March 1921, into an English Roman Catholic family, and was educated at the Sacred Heart convent school at Roehampton. At St Anne's College, Oxford, she read philosophy, politics, and economics (B.A. 1943) and then worked at the British Colonial Office. She returned to Oxford for anthropology, studying with E. E. Evans-Pritchard and M. N. Srinivas, and took a doctorate in the early 1950s. In 1951 she married the economist James A. T. Douglas. They had three children.
+Mary Tew was born in San Remo, Italy, on 25 March 1921, into an English Roman Catholic family, and was educated at the Sacred Heart convent school at Roehampton. At St Anne's College, Oxford, she read philosophy, politics, and economics (B.A. 1943) and then worked at the British Colonial Office. She returned to Oxford for anthropology, studying with E. E. Evans-Pritchard and M. N. Srinivas, and took a doctorate in 1951. In 1951 she married the economist James A. T. Douglas. They had three children.
 
-Her fieldwork was with the Lele of the Kasai, in what was then the Belgian Congo (now the Democratic Republic of the Congo), in 1949–50, with a return visit in 1953. The monograph from that research, *The Lele of the Kasai*, appeared in 1963. From 1951 she taught at University College London, receiving a personal chair around 1970 and leaving in 1977. She then spent 1977–81 at the Russell Sage Foundation in New York, was Avalon Professor of the Humanities at Northwestern University from 1981 to 1985, and afterwards held visiting appointments, including at Princeton. She was made DBE and died in London on 16 May 2007.
+Her fieldwork was with the Lele of the Kasai, in what was then the Belgian Congo (now the Democratic Republic of the Congo), in 1949–50, with a return visit in 1953. The monograph from that research, *The Lele of the Kasai*, appeared in 1963. From 1951 she taught at University College London, receiving a personal chair around 1970 and leaving in 1977. She then spent 1977–81 at the Russell Sage Foundation in New York, was Avalon Professor of the Humanities at Northwestern University from 1981 to 1985, and afterwards held visiting appointments, including at Princeton. She was appointed CBE in 1992 and DBE in the 2007 New Year Honours, and died in London on 16 May 2007.
 
 Her later writing moved from ethnography to consumption, institutions, risk, and the Hebrew Bible. She remained a practising Catholic, and comparison of ritual and cosmology stayed at the centre of her work. She engaged structuralism, including Claude Lévi-Strauss, while treating classification as socially situated rather than as a closed mental code.
 
@@ -42,7 +42,7 @@ Douglas argued that **purity and pollution are about order**. Dirt, in her formu
 
 Her best-known case is the dietary law of Leviticus. Against the idea that the rules were ancient hygiene, she read them as a classification of animals by their proper sphere of life. Land animals that chew the cud and have a parted hoof fit the class; animals that only partly fit, such as the pig, are treated as abominations. She later revised this reading. In *Leviticus as Literature* (1999) she interpreted the food rules through the literary structure of the book, and she accepted that the earlier account had been too neat.
 
-Among the Lele she analysed the cult of the pangolin. The pangolin is a scaled mammal that climbs trees and does not sit easily in ordinary animal classes. For Douglas it showed that anomaly is not only avoided. In some ritual settings it is singled out and honoured.
+Among the Lele she analysed the cult of the pangolin. The pangolin is a scaled mammal that climbs trees and does not sit easily in ordinary animal classes. For Douglas it showed that anomaly is not only avoided. In some ritual settings it is singled out and honoured by initiates.
 
 ### The body and the social group
 
@@ -64,7 +64,7 @@ With Baron Isherwood, *The World of Goods* (1979) treats consumption as a system
 - *Risk and Culture* (1982, with Aaron Wildavsky) — cultural selection of technological and environmental dangers.
 - *How Institutions Think* (1986).
 - *In the Wilderness* (1993) — defilement and the Book of Numbers.
-- *Thought Styles* (1996).
+- *Thought Styles: Critical Essays on Good Taste* (1996).
 - *Leviticus as Literature* (1999) — a revision of her earlier reading of Leviticus.
 
 ## The Lele

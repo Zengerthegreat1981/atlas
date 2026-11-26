@@ -54,7 +54,7 @@ The form recalls Daniel Bernoulli's earlier logarithmic treatment of utility, an
 
 **S = k · I^a**
 
-The exponent *a* depends on the continuum. Typical values reported by Stevens include roughly 0.3 for the brightness of a small light seen in the dark and about 0.6 for loudness (as a function of sound pressure), 1.0 for apparent length and about 3.5 for electric shock to the fingers. Exponents below 1 mean compression and above 1 mean expansion of sensation relative to the stimulus.
+The exponent *a* depends on the continuum. Typical values reported by Stevens include roughly 0.33 for the brightness of a 5° target seen in the dark and about 0.6 for loudness (as a function of sound pressure), 1.0 for apparent length and about 3.5 for electric shock to the fingers. Exponents below 1 mean compression and above 1 mean expansion of sensation relative to the stimulus.
 
 ## Experimental Method
 

@@ -4,6 +4,7 @@ id: "ANT-13343"
 type: "عمل / كتاب"
 part: anthropology
 level: "متوسط"
+quality: "unverified"
 title: "Residence Rules"
 en: "Residence Rules"
 crumb: "Anthropology ← Works ← Residence Rules"

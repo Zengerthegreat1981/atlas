@@ -4,6 +4,7 @@ id: "DBT-11823"
 type: "جدل"
 part: anthropology
 level: "متقدم"
+quality: "incomplete"
 title: "Nature vs. Culture"
 en: "Nature vs. Culture"
 crumb: "Anthropology ← Debates ← Nature vs. Culture"

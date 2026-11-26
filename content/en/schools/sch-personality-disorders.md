@@ -26,8 +26,7 @@ related:
 - id: "con-trait-vs-categorical", title: "Trait-Based Versus Categorical Models", type: "مفهوم"
 - id: "thk-marsha-linehan", title: "Marsha Linehan", type: "مفكر"
 - id: "thk-theodore-millon", title: "Theodore Millon", type: "مفكر"
-gaps:
-  - "Prevalence by personality disorder type: not yet covered"
+gaps: []
 ---
 
 # Personality Disorders
@@ -57,6 +56,10 @@ The categorical versus dimensional debate raises a fundamental question. Critics
 
 This entry is educational and descriptive; it is not clinical advice and cannot be used to diagnose anyone.
 
+## Prevalence by Type
+
+Community rates differ by interview and by whether each criterion must cause distress. Winsper and colleagues (2020) pooled 46 studies from 21 countries and estimated a worldwide prevalence of any personality disorder of 7.8 percent, higher in high-income countries (9.6 percent) than in low- and middle-income countries (4.3 percent). Pooled cluster rates were about 3.8 percent for cluster A, 2.8 percent for cluster B, and 5.0 percent for cluster C. The most common specific patterns in that review were obsessive-compulsive (3.2 percent), avoidant (2.7 percent), and paranoid (2.3 percent). Heterogeneity was high, so those figures are guides rather than fixed constants. In the United States, the first wave of the National Epidemiologic Survey on Alcohol and Related Conditions (Grant and colleagues, 2004) reported higher rates for the seven disorders it assessed: obsessive-compulsive 7.9 percent, paranoid 4.4 percent, antisocial 3.6 percent, schizoid 3.1 percent, avoidant 2.4 percent, histrionic 1.8 percent, and dependent 0.5 percent. About 14.8 percent of adults met criteria for at least one of those seven. Borderline, narcissistic, and schizotypal disorders were not in that wave.
+
 ## Sources
 
 - American Psychiatric Association, *Diagnostic and Statistical Manual of Mental Disorders*, 5th ed., Text Revision (DSM-5-TR) (Washington, DC: American Psychiatric Publishing, 2022).
@@ -66,3 +69,5 @@ This entry is educational and descriptive; it is not clinical advice and cannot 
 - Otto F. Kernberg, *Severe Personality Disorders: Psychotherapeutic Strategies* (New Haven: Yale University Press, 1984).
 - Marsha M. Linehan, *Cognitive-Behavioral Treatment of Borderline Personality Disorder* (New York: Guilford Press, 1993).
 - Andrew E. Skodol et al., "Personality Disorder Types Proposed for DSM-5," *Journal of Personality Disorders*, vol. 25, no. 2 (2011), pp. 136–169.
+- Catherine Winsper et al., "The Prevalence of Personality Disorders in the Community: A Global Systematic Review and Meta-Analysis," *British Journal of Psychiatry* 216, no. 2 (2020): 69–78.
+- Bridget F. Grant et al., "Prevalence, Correlates, and Disability of Personality Disorders in the United States," *Journal of Clinical Psychiatry* 65, no. 7 (2004): 948–958.

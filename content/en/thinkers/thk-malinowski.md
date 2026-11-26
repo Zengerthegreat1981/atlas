@@ -4,6 +4,7 @@ id: "ANT-13010"
 type: "مفكر"
 part: "anthropology"
 level: "متقدم"
+quality: "unverified"
 title: "Bronislaw Malinowski: Modern Ethnographic Fieldwork"
 en: "Bronislaw Malinowski"
 crumb: "Anthropology ← Methods & Epistemology ← Bronislaw Malinowski"
@@ -33,7 +34,7 @@ In 1914 he travelled to Australia and Papua; with the outbreak of World War I he
 
 ## Methodological Innovations: Participant Observation and Ethnographic Presence
 
-Malinowski's methodological contribution lay not in discovering a wholly new technique but in systematizing and legitimating what he called "participant observation"—the anthropologist's simultaneous engagement in community life and detailed documentation of it. Before Malinowski, fieldwork was often abbreviated and superficial; anthropologists relied heavily on interviews with colonial officers, missionaries, and limited native informants rather than systematic observation of actual social practice.
+Malinowski's methodological contribution lay not in discovering a wholly new technique but in systematizing and legitimating what came to be called "participant observation"—the anthropologist's simultaneous engagement in community life and detailed documentation of it. Before Malinowski, fieldwork was often abbreviated and superficial; anthropologists relied heavily on interviews with colonial officers, missionaries, and limited native informants rather than systematic observation of actual social practice.
 
 Malinowski insisted on several revolutionary principles: (1) **prolonged residence** among a community sufficient to learn the native language and participate in daily life; (2) **holistic observation** of the full social context rather than selective attention to exotic or sensational features; (3) **documentation of the mundane** alongside the ceremonial—the "imponderabilia of actual life," as he called them in *Argonauts*—to understand functioning social relationships, economic transactions, kinship practices, and emotional life in their lived context; (4) **systematic field notes** recording observations, conversations, and the anthropologist's own reflective engagement.
 
@@ -57,6 +58,8 @@ Malinowski's publications established the format and authority claims that conti
 
 Each work established new standards for data presentation, contextual detail, and theoretical argument grounded in exhaustive fieldwork observation.
 
+In *Argonauts*, the kula is a ceremonial exchange of shell necklaces and armbands linking communities across the archipelago. The valuables travel set routes and are passed on rather than retained, while ordinary trade accompanies the ceremonial circuit. Malinowski treated the exchange as a source of prestige and durable alliance among distant communities. Marcel Mauss later used this account as a principal ethnographic case in his essay on the gift.
+
 ## Fieldwork Practice: Intense Participant Observation Among the Trobriands
 
 Malinowski's actual fieldwork practice in the Trobriand Islands (1915–1918) exemplified his methodological principles. He learned the Kiriwinian language sufficiently to conduct interviews and understand daily conversation without interpretation. He participated in community activities—ceremonies, economic exchanges, meals, leisure activities—and maintained detailed daily notes on observations, conversations, and contextual details.
@@ -68,6 +71,8 @@ His approach generated both depth of knowledge and significant ethical complicat
 ## Theoretical Impact: Functionalism and Ethnographic Realism
 
 Malinowski's epistemological contribution extended beyond method to a distinctive theoretical vision: **functionalism**, the claim that social institutions and beliefs function to satisfy human needs and maintain social cohesion. From this perspective, even seemingly exotic or irrational practices (magic, myth, ceremony) made rational sense when understood in their full social and psychological context.
+
+He located the function of institutions such as magic, myth, kinship, and ritual in the biological and psychological needs of individuals—food, security, and reproduction—and in further needs that arise once culture organizes those requirements. That individual functionalism differed from A. R. Radcliffe-Brown's structural functionalism, which explained institutions by the needs of the social system rather than by the psychology of persons. In the essays later collected as *Magic, Science and Religion* (1948), he argued that Trobriand magic clustered where outcomes were risky, as in open-sea fishing, while safer and more predictable tasks, such as lagoon fishing, were handled by practical technique. The proposed link between magic and uncertainty became a recurring topic in comparative work. His teaching at the London School of Economics also reached American sociology through Talcott Parsons, who studied there in the mid-1920s.
 
 This functionalist epistemology shaped what anthropologists could "know" about societies. Rather than treating cultures as museums of static customs, Malinowski demonstrated that ethnographic knowledge must encompass how institutions actually functioned for living people—how kinship systems organized labor and inheritance, how exchange systems cemented political alliances, how magic addressed psychological anxieties while maintaining practical labor discipline.
 
@@ -115,6 +120,10 @@ Multi-sited ethnography, collaborative methodologies, and indigenous-led researc
 
 > "...to grasp the native's point of view, his relation to life, to realise his vision of his world." — *Argonauts of the Western Pacific* (1922), on the final goal of ethnography
 
+## Later Fieldwork in Muslim Societies
+
+Malinowski did no fieldwork in the Arab or Islamic world. Long residence and learning the local language nevertheless informed later anthropologists who worked in Muslim societies. E. E. Evans-Pritchard attended Malinowski's seminar and later distanced himself from that functionalism. *The Sanusi of Cyrenaica* (1949) is largely a historical study shaped by his wartime service in eastern Libya. Ernest Gellner's study of saintly lineages in the Moroccan Atlas carried intensive fieldwork into a Muslim society within the British social-anthropological tradition Malinowski helped to form.
+
 ## Sources
 
 - Malinowski, Bronislaw. *Argonauts of the Western Pacific: An Account of Native Enterprise and Adventure in the Archipelagoes of Melanesian New Guinea*. Routledge, 1922.
@@ -125,3 +134,8 @@ Multi-sited ethnography, collaborative methodologies, and indigenous-led researc
 - Young, Michael W. *Malinowski: Odyssey of an Anthropologist, 1884–1920*. Yale University Press, 2004.
 - Kuper, Adam. *The Reinvention of Primitive Society: Transformations of a Myth*. Routledge, 2nd edition 2005.
 - Weiner, Annette B. *Women of Value, Men of Renown: New Perspectives in Trobriand Exchange*. University of Texas Press, 1976.
+- Mauss, Marcel. "Essai sur le don." *L'Année sociologique*, seconde série, 1923–1924 (1925).
+- Malinowski, Bronislaw. *Magic, Science and Religion and Other Essays*. Beacon Press, 1948.
+- Kuper, Adam. *Anthropologists and Anthropology: The British School, 1922–1972*. Allen Lane, 1973.
+- Evans-Pritchard, E. E. *The Sanusi of Cyrenaica*. Oxford University Press, 1949.
+- Gellner, Ernest. *Saints of the Atlas*. Weidenfeld and Nicolson, 1969.

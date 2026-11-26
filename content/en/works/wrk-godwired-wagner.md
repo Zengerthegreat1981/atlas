@@ -18,7 +18,6 @@ edges:
 related:
 - id: "wrk-when-religion-meets-new-media-campbell", title: "When Religion Meets New Media", type: "عمل / كتاب"
 gaps:
-  - "Detailed treatment of particular games and virtual worlds: not yet covered"
 ---
 
 # Godwired: Religion, Ritual and Virtual Reality
@@ -45,8 +44,13 @@ The book broadened the field's focus from institutional negotiation of technolog
 
 The book does not treat Islam directly or at length. Its questions about sacred text, digital mediation and ritual have parallels in contemporary Muslim debates about Qur'an applications and electronic recitation, but these are not discussed in the book itself.
 
+## Games and Virtual Worlds
+
+Wagner treats virtual reality broadly, as digital technology that people engage through screen-based software, so her examples extend well beyond immersive environments. According to Stephen Okey's review, they range from online worlds such as Second Life to transmedia franchises such as *Avatar* and *Star Wars*, and to flash mobs and digital prayer walls. Second Life is a prominent case. Drawing on Victor Turner's account of liminality, Wagner reads logging in and rendering an avatar as a ritualised entry: newcomers cross a threshold as novices before taking part in the world. The review describes later chapters that take up the virtual sacred in relation to Mircea Eliade's distinction between sacred and profane (chapter four), identity (chapter five) and community (chapter six). The discussion of community considers how religious groups have experimented with online evangelism and religious gaming, and reaches into virtual worlds and games. The examples serve a comparative argument about structure, so they should not be read as a full ethnography of any single game or its players.
+
 ## Sources
 
 - Wagner, Rachel. *Godwired: Religion, Ritual and Virtual Reality*. Routledge, 2012.
 - Campbell, Heidi A. *When Religion Meets New Media*. Routledge, 2010.
 - Turner, Victor. *The Ritual Process: Structure and Anti-Structure*. Aldine Publishing, 1969.
+- Okey, Stephen. Review of *Godwired: Religion, Ritual and Virtual Reality*, by Rachel Wagner. *Journal of Religion and Popular Culture* 25, no. 1 (2013). https://muse.jhu.edu/journals/journal_of_religion_and_popular_culture/v025/25.1.okey.pdf

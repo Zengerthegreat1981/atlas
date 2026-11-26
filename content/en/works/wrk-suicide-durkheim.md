@@ -50,6 +50,10 @@ In his analysis Durkheim used the concept of "social solidarity" as the deepest 
 
 Durkheim devoted an important methodological chapter to distinguishing his sociological explanation from the psychological, biological and climatic explanations competing at the time, refuting each one in detail statistically. He showed, for example, that suicide rates are not consistently related to temperatures or seasons, as some earlier climatic theories had suggested, but to the rhythm of social activity across the year, thereby supporting the precedence of the social explanation over any alternative individual or natural one.
 
+## Definition, Argument by Elimination and Later Responses
+
+Durkheim defined suicide as any death resulting directly or indirectly from a positive or negative act of the victim, who knows it will produce this result. He observed that national rates were fairly stable from year to year while differing sharply between societies, and took this as evidence of a collective tendency characteristic of each society. Among the competing explanations he set aside were insanity, alcoholism, heredity, race, imitation and climate. Maurice Halbwachs, a younger member of the Durkheimian school, reworked the argument in *Les causes du suicide* (1930), stressing urbanisation and the complexity of modern life. Feminist critics have argued that the book's treatment of marriage and family reflects patriarchal assumptions, later research has challenged the claims about religion, and Jean Baechler's *Les suicides* (1975) is one later study defined in dialogue with Durkheim.
+
 ## Sources
 
 - Durkheim, Émile. *Le suicide: Étude de sociologie*. Félix Alcan, 1897.
@@ -57,3 +61,5 @@ Durkheim devoted an important methodological chapter to distinguishing his socio
 - Douglas, Jack D. *The Social Meanings of Suicide*. Princeton University Press, 1967.
 - Lukes, Steven. *Émile Durkheim: His Life and Work*. Allen Lane, 1973.
 - Pope, Whitney. *Durkheim's Suicide: A Classic Analyzed*. University of Chicago Press, 1976.
+- Halbwachs, Maurice. *Les causes du suicide*. Félix Alcan, 1930.
+- Baechler, Jean. *Les suicides*. Calmann-Lévy, 1975.

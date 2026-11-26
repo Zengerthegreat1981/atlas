@@ -16,7 +16,7 @@ active_end: 1989
 crumb: "Sociology ← Thinkers ← George C. Homans"
 edges:
 - rel: "belongs_to", target: "Homans's Behavioral Exchange Theory", target_type: "مدرسة"
-related:
+related: []
 gaps: []
 ---
 
@@ -49,6 +49,18 @@ Homans distinguished between "elementary behavior," which occurs in small-scale 
 
 Among his further influential contributions is the concept of "distributive justice": individuals expect their rewards to be proportionate to their investments and costs relative to their peers in a similar situation, and the violation of this expected proportion, whether through relative deprivation or even through an undeserved surplus of reward that the individual himself feels uncomfortable about, generates measurable tension and social discontent. This idea later influenced studies of organizational equity and the social psychology of justice.
 
+## The Human Group and the English Villagers
+
+In *The Human Group* Homans treated small groups through three mutually related classes of variables — activities, interactions, and sentiments — and distinguished an external system, through which the group meets demands from its surroundings, from an internal system that grows out of interaction among members. The book reworked several field studies, among them the Bank Wiring Observation Room of the Hawthorne research, William Foote Whyte's *Street Corner Society* (the Norton Street gang), and Raymond Firth's study of Tikopia. *English Villagers of the Thirteenth Century* (1941) applied a comparable analysis of related variables to a medieval English agrarian community, linking open and non-open field systems, nucleated or dispersed settlement, and partible or impartible inheritance.
+
+## Named Propositions and the 1964 Address
+
+Alongside the rationality and distributive-justice propositions, Homans set out elementary propositions drawn from behavioral psychology: the success proposition (an action that has been rewarded is more likely to be repeated), the stimulus proposition (a situation resembling one in which an action was rewarded is more likely to call out that action), the value proposition (the more valuable the result, the more likely the action), the deprivation-satiation proposition (the more often a person has recently received a reward, the less valuable a further unit of it becomes), and the aggression-approval proposition (when an expected reward is withheld the person is apt to be angry and to act aggressively; when the reward exceeds what was expected the person is apt to approve the source and to repeat the action). In the presidential address "Bringing Men Back In," delivered at the 1964 meeting of the American Sociological Association and published in the *American Sociological Review*, he argued that an explanation must show how a phenomenon follows from general propositions in a deductive system, and that functionalist statements about the conditions of social equilibrium do not yield such conclusions, whereas propositions that do explain turn out to be propositions about the behavior of persons.
+
+## Career Landmarks and Later Exchange Research
+
+Homans graduated from Harvard College in 1932 in English literature, without a later doctorate. Two years later he published *An Introduction to Pareto: His Sociology* with Charles P. Curtis, Jr. From 1934 to 1939 he was a junior fellow of Harvard's Society of Fellows. He joined the Harvard faculty in 1939, served as a naval officer during the Second World War, and in 1946 became an original member of the Department of Social Relations. He was president of the American Sociological Association in 1963–1964 and, from 1970 to 1975, the first chairman of Harvard's revived Department of Sociology. Other books include *Marriage, Authority, and Final Causes* (1955), with David M. Schneider, the essay collection *Sentiments and Activities* (1962), and *The Nature of Social Science* (1967), which restates his account of deductive explanation. Exchange theory was carried further by Richard Emerson's power-dependence analysis and by later research on exchange in networks. Critics held that a psychological reduction of this kind does not account for emergent features of norms and institutions, and that the propositions are too general to explain complex social phenomena.
+
 ## Sources
 
 - Homans, George C. *Social Behavior: Its Elementary Forms*. Harcourt, Brace & World, 1961.
@@ -56,3 +68,11 @@ Among his further influential contributions is the concept of "distributive just
 - Homans, George C. "Social Behavior as Exchange." *American Journal of Sociology* 63, no. 6 (1958): 597–606.
 - Homans, George C. *Coming to My Senses: The Autobiography of a Sociologist*. Transaction Books, 1984.
 - Blau, Peter M. *Exchange and Power in Social Life*. John Wiley & Sons, 1964.
+- Homans, George C. *English Villagers of the Thirteenth Century*. Harvard University Press, 1941.
+- Homans, George C., and Charles P. Curtis, Jr. *An Introduction to Pareto: His Sociology*. Alfred A. Knopf, 1934.
+- Homans, George C., and David M. Schneider. *Marriage, Authority, and Final Causes: A Study of Unilateral Cross-Cousin Marriage*. Free Press, 1955.
+- Homans, George C. *Sentiments and Activities: Essays in Social Science*. Free Press of Glencoe, 1962.
+- Homans, George C. *The Nature of Social Science*. Harcourt, Brace & World, 1967.
+- Homans, George C. "Bringing Men Back In." *American Sociological Review* 29 (1964): 809–818.
+- Emerson, Richard M. "Power-Dependence Relations." *American Sociological Review* 27, no. 1 (1962): 31–41.
+- Vogel, Ezra F. "George Caspar Homans." *Footnotes* (American Sociological Association), December 1990.

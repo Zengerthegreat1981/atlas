@@ -8,7 +8,7 @@ title: "Decolonial Data Sovereignty"
 en: "Decolonial Data Sovereignty"
 crumb: "Anthropology ← Concepts ← Decolonial Data Sovereignty"
 edges: []
-related:
+related: []
 gaps: []
 ---
 

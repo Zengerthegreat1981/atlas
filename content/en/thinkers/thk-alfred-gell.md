@@ -14,7 +14,7 @@ active_start: 1975
 active_end: 1997
 edges:
   - rel: "belongs_to", target: "Anthropology of Art and Agency", target_type: "مدرسة"
-related:
+related: []
 gaps: []
 ---
 # Alfred Gell

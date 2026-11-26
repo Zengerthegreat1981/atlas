@@ -15,7 +15,7 @@ active_start: 1956
 active_end: 1956
 edges:
 - rel: "belongs_to", target: "Linguistic Relativity", target_type: "مدرسة"
-related:
+related: []
 gaps: []
 ---
 # Language, Thought, and Reality

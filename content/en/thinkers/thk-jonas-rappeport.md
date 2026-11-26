@@ -16,13 +16,12 @@ edges:
 - rel: "belongs_to", target: "Forensic Psychiatry", target_type: "مدرسة"
 related:
 - id: "sch-forensic-psychiatry", title: "Forensic Psychiatry", type: "مدرسة"
-gaps:
-  - "Exact birth date: not yet covered"
+gaps: []
 ---
 
 # Jonas R. Rappeport
 
-An American psychiatrist (died 8 September 2020, aged 95) who organized forensic psychiatry as a professional field in the United States. He was born and raised in Baltimore and graduated from the University of Maryland School of Medicine in 1952. An exact birth date is not fixed in the sources used here. Early in his career he worked with **Manfred Guttmacher**, who directed the medical office of the Supreme Bench of Baltimore. Rappeport later became chief medical officer for the Circuit Court for Baltimore City. He retired from forensic practice in 1999 and continued to teach in the Maryland fellowship.
+An American psychiatrist (died 8 September 2020, aged 95) who organized forensic psychiatry as a professional field in the United States. He was born in Baltimore on 16 October 1924, raised there, and graduated from the University of Maryland School of Medicine in 1952. Early in his career he worked with **Manfred Guttmacher**, who directed the medical office of the Supreme Bench of Baltimore. Rappeport later became chief medical officer for the Circuit Court for Baltimore City. He retired from forensic practice in 1999 and continued to teach in the Maryland fellowship.
 
 ## Background: Criminal Responsibility in Islamic Tradition and Anglo-American Law
 
@@ -62,3 +61,4 @@ Unlike some of his contemporaries, Rappeport did not produce an independent theo
 - Peters, Rudolph. *Crime and Punishment in Islamic Law: Theory and Practice from the Sixteenth to the Twenty-First Century*. Cambridge: Cambridge University Press, 2005.
 - Appelbaum, Paul S. "A Theory of Ethics for Forensic Psychiatry." *Journal of the American Academy of Psychiatry and the Law* 25, no. 3 (1997): 233–247.
 - Stone, Alan A. *Law, Psychiatry, and Morality: Essays and Analysis*. Washington, DC: American Psychiatric Press, 1984.
+- MedChi, the Maryland State Medical Society, House of Delegates memorial resolution for Jonas R. Rappeport, M.D. (2021).

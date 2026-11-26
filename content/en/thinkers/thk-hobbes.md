@@ -14,7 +14,7 @@ active_start: 1618
 active_end: 1679
 edges:
 - rel: "belongs_to", target: "Social Contract Theory", target_type: "مدرسة"
-related:
+related: []
 gaps: []
 ---
 

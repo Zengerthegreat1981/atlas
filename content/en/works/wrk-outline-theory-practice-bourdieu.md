@@ -43,6 +43,10 @@ The *Outline*, especially in its English translation, did much to establish Bour
 
 Critics have charged that the theory of practice is deterministic: if habitus is formed by social position, and action is the expression of habitus, then change becomes difficult to explain. Bourdieu's reply — that habitus can be transformed when it encounters a field for which it was not formed, producing crisis and reflexivity — has satisfied some but not others. Feminist critics have argued that the book's account of the Kabyle is androcentric, treating the masculine domination it describes as a feature of the culture rather than as a relation to be criticised — a subject to which Bourdieu returned in *Masculine Domination* (1998). Others note that Bourdieu's central concepts, habitus and field in particular, are difficult to operationalise empirically.
 
+## Strategy, Timing and Doxa
+
+Besides structural anthropology and Saussurean linguistics on the objectivist side, the subjectivism Bourdieu rejects includes theories of rational choice. He also asks social scientists to examine their own position, since the detached observer relates to practice differently from people who must act in it under pressure of time. Timing is central to his account of gift exchange: the interval between gift and counter-gift lets the exchange be experienced as generosity while it creates obligation. He uses doxa for the taken-for-granted sense of the social world, in which the established order appears self-evident, and contrasts it with a field of opinion where orthodoxy and heterodoxy confront each other openly. The book is often discussed as a statement of practice theory alongside the work of Anthony Giddens, and Sherry Ortner surveyed this orientation in 1984.
+
 ## Sources
 
 - Pierre Bourdieu, *Outline of a Theory of Practice* (1977); French original, *Esquisse d'une théorie de la pratique* (1972).
@@ -53,3 +57,4 @@ Critics have charged that the theory of practice is deterministic: if habitus is
 - Richard Jenkins, *Pierre Bourdieu* (1992).
 - David Swartz, *Culture and Power: The Sociology of Pierre Bourdieu* (1997).
 - Craig Calhoun, Edward LiPuma and Moishe Postone, eds., *Bourdieu: Critical Perspectives* (1993).
+- Sherry B. Ortner, "Theory in Anthropology since the Sixties," *Comparative Studies in Society and History* 26 (1984).

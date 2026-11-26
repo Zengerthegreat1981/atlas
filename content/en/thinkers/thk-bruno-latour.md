@@ -1,9 +1,10 @@
 ---
 slug: thk-bruno-latour
-id: ANT-13044
+id: "ANT-13353"
 type: مفكر
 part: anthropology
 level: متقدم
+quality: "unverified"
 title: "Bruno Latour: Actor-Network Theory and the Anthropology of Science and Technology"
 en: Bruno Latour
 crumb: "Anthropology ← Methods & Epistemology ← Bruno Latour"
@@ -14,7 +15,7 @@ edges:
   - rel: "influenced", target: "Ethnography of Science", target_type: "مفهوم"
 related:
   - id: "thk-paul-rabinow", title: "Paul Rabinow", type: "مفكر"
-  - id: "thk-donna-haraway", title: "Donna Haraway", type: "مفكر"
+  - id: "thk-haraway", title: "Donna Haraway: Situated Knowledge, Cyborgs, and Response-Ability", type: "مفكر"
 gaps: []
 ---
 
@@ -24,7 +25,7 @@ Bruno Latour (1947–2022) was a French philosopher, sociologist, and anthropolo
 
 ## Biographical Context and Intellectual Formation
 
-Bruno Latour was born in Beaune, Burgundy, in 1947. He trained in philosophy, passing the agrégation and completing a doctorate at the University of Tours in 1975. While doing national service in Côte d'Ivoire in the early 1970s he took up social-scientific fieldwork on the training and replacement of expatriate managers. From 1975 to 1977 he carried out ethnographic research in Roger Guillemin's laboratory at the Salk Institute in California, which became the basis for *Laboratory Life*, co-written with Steve Woolgar. He taught at the Centre de Sociologie de l'Innovation of the École des Mines de Paris from 1982 to 2006 and then at Sciences Po. He died in Paris in October 2022.
+Bruno Latour was born in Beaune, Burgundy, in 1947. He trained in philosophy, passing the agrégation and completing a doctorate at the University of Tours in 1975. While doing national service in Côte d'Ivoire in the early 1970s he took up social-scientific fieldwork in Abidjan on why Ivorians were largely absent from managerial posts in industry. From 1975 to 1977 he carried out ethnographic research in Roger Guillemin's laboratory at the Salk Institute in California, which became the basis for *Laboratory Life*, co-written with Steve Woolgar. He taught at the Centre de Sociologie de l'Innovation of the École des Mines de Paris from 1982 to 2006 and then at Sciences Po. He died in Paris in October 2022.
 
 Latour's intellectual formation combined ethnographic fieldwork traditions with philosophy of science, semiotics, and pragmatism. He was influenced by Michel Serres, whose work on circulation and translation shaped his thinking. His positioning outside mainstream sociology and within science and technology studies enabled him to develop distinctive perspectives on knowledge production.
 

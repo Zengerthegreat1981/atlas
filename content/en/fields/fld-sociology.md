@@ -68,8 +68,8 @@ related:
   - id: "sch-subaltern-studies-guha-spivak", title: "Subaltern Studies: Guha & Spivak", type: "مدرسة"
   - id: "stu-street-corner-society-whyte", title: "Street Corner Society: The Social Structure of an Italian Slum", type: "دراسة وبحث"
   - id: "stu-polish-peasant-thomas-znaniecki", title: "The Polish Peasant in Europe and America", type: "دراسة وبحث"
-  - id: "stu-middletown-lynd", title: "Middletown: A Study in Modern American Culture", type: "دراسة وبحث"
-  - id: "stu-evicted-desmond", title: "Evicted", type: "دراسة وبحث"
+  - id: "stu-middletown", title: "Middletown", type: "دراسة"
+  - id: "stu-evicted", title: "Evicted", type: "دراسة"
 ---
 # Sociology
 

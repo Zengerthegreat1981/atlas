@@ -4,6 +4,7 @@ id: "CON-20003"
 type: "مفهوم"
 part: "legal-theory"
 level: "متوسط"
+quality: "unverified"
 title: "Qawa'id Fiqhiyya (Islamic Legal Maxims)"
 en: "Qawa'id Fiqhiyya (Islamic Legal Maxims)"
 crumb: "Legal Theory ← Concepts ← Qawa'id Fiqhiyya (Islamic Legal Maxims)"
@@ -16,8 +17,7 @@ related:
 - id: "sch-usul-al-fiqh-legal-theory", title: "Usul al-Fiqh as Legal Theory", type: "مدرسة"
 - id: "thk-shihab-al-din-al-qarafi", title: "Shihab al-Din Ahmad ibn Idris al-Qarafi", type: "مفكر"
 - id: "thk-mustafa-al-zarqa", title: "Mustafa Ahmad al-Zarqa", type: "مفكر"
-gaps:
-  - "The number of the 'five major maxims' generally agreed upon, and their detailed exceptions within each school, vary across the different books of maxims; a full comparative survey: not yet covered."
+gaps: []
 ---
 # Qawa'id Fiqhiyya (Islamic Legal Maxims)
 
@@ -30,6 +30,10 @@ The seeds of this field appeared early among Hanafi jurists (such as al-Karkhi i
 ## The Major Maxims
 
 Most writers in this field agree on a set of "major maxims" (al-qawa'id al-kubra) under which numerous subsidiary maxims fall. The best known include: "Actions are judged by their intentions" (the consideration of intention in qualifying transactions); "Certainty is not removed by doubt" (the basis of istishab, the presumption of continuity); "Hardship brings facilitation" (the basis of concessions in cases of necessity and need); "Harm must be removed" (the basis of removing harm and preventing its occurrence); and "Custom is authoritative" (the consideration of custom as governing the interpretation of words and transactions).
+
+## How many "major" maxims, and where the exceptions sit
+
+The familiar set of five is a later stabilization, not a count fixed in every book. Al-Suyuti reports that Qadi Husayn (d. 462/1069) reduced the Shafi'i school to four maxims: certainty is not removed by doubt, hardship brings ease, harm is to be removed, and custom governs. Other scholars added a fifth, that matters follow their purposes, and compared the five to the five pillars of Islam. Taj al-Din al-Subki's list of five includes that fifth maxim and phrases the custom rule as a return to customary practice. Ibn Nujaym, writing as a Hanafi, placed an extra maxim first: there is no reward except with intention. Wolfhart Heinrichs records the same five as the maxims said to be acknowledged across the schools, with small changes of wording, and notes Ibn Nujaym's extra maxim in front of them. The bare five are the shared core, not a complete comparative code. Each school's books attach branch maxims and lists of exceptions, and those lists are madhhab-specific. Ibn Nujaym himself compiled a separate Hanafi collection of controls and their exceptions. The exception in a given school has to be read in that school's *ashbah* or *fawa'id*, not from the five formulas alone.
 
 ## Maxims and Controls
 
@@ -55,3 +59,4 @@ Some scholars argue that the qawa'id fiqhiyya represent, alongside usul al-fiqh,
 - Kamali, Mohammad Hashim. *Principles of Islamic Jurisprudence*. Cambridge: Islamic Texts Society, 1991.
 - Ibn Nujaym, Zayn al-Din. *al-Ashbah wa al-Naza'ir*.
 - al-Subki, Taj al-Din. *al-Ashbah wa al-Naza'ir*.
+- Heinrichs, Wolfhart. "Qawa'id as a Genre of Legal Literature." In *Studies in Islamic Legal Theory*, edited by Bernard G. Weiss. Leiden: Brill, 2002.

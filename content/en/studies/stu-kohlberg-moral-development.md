@@ -15,7 +15,7 @@ sample_size: 72
 main_finding: "Participants' moral justifications progress in a fixed order across 3 levels and 6 stages, are related to age, and, in Kohlberg's account, rarely regress."
 replication_status: "contested"
 edges: []
-related:
+related: []
 gaps: []
 ---
 

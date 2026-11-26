@@ -16,8 +16,7 @@ related:
 - id: "sch-civil-law-tradition", title: "Civil Law Tradition", type: "مدرسة"
 - id: "thk-georg-jellinek", title: "Georg Jellinek", type: "مفكر"
 - id: "con-ahliyya-legal-capacity-usul", title: "Ahliyya (Legal Capacity in Usul al-Fiqh)", type: "مفهوم"
-gaps:
-  - "Full technical treatment of competing theories of juristic personality: not yet covered"
+gaps: []
 ---
 
 # Legal Personality
@@ -38,6 +37,10 @@ Western legal scholars have differed about the theoretical basis of juridical pe
 
 Other approaches include the **purpose-patrimony theory** associated with Alois Brinz, which treats the juridical person as property bound to a purpose, and Hans Kelsen's view of the juridical person as a personification of a set of legal norms. In English law, the House of Lords in *Salomon v. A. Salomon & Co. Ltd* ([1897] AC 22) confirmed that a duly incorporated company is a legal person distinct from its members.
 
+## Concession, aggregate, and the critique of the theories
+
+John Dewey's 1926 survey separates two ideas that later writing often runs together. The fiction theory, which he traces in outline to Pope Innocent IV's treatment of ecclesiastical colleges, is a claim about ontology: the corporate body is a name or a creature of the intellect, not a natural person who can be excommunicated or guilty of a delict as a human is. The concession theory is a claim about power. It grew with the centralizing state, which treated guilds, communes and religious congregations as rivals and insisted that a group's legal powers are derived from the sovereign. A concession theory can stay silent on whether the group is "real." Dewey's own conclusion is that, for legal purposes, "person" signifies what the law makes it signify, and that metaphysical theories have been used for incompatible political ends. A later comparative account, Ron Harris's, sorts the same debate into three camps: a grant or fiction theory, under which only the state incorporates and then attaches rights and duties; a contractual or association theory, which treats personality as a private-law device for a group of individuals; and the real-entity theory associated with Gierke. Harris notes, with Dewey, that none of these formulas fixes a single set of legal consequences.
+
 ## The State as a Legal Person: Jellinek's Contribution
 
 Georg Jellinek, in *Allgemeine Staatslehre* (General Theory of the State, 1900), developed an influential analysis of the state as a unified **general legal person** that bears rights and obligations independent of the individuals who successively govern it. This explains why international obligations and treaties continue to bind the state despite changes of government, and this analysis deeply influenced the theory of the state in public international law and in comparative constitutional law.
@@ -51,3 +54,4 @@ The concept of legal personality faces new questions today, with proposals to gr
 - Jellinek, Georg. *Allgemeine Staatslehre*. 3rd ed. Berlin, 1914 (1st ed. 1900).
 - Salomon v. A. Salomon & Co. Ltd [1897] AC 22 (House of Lords).
 - Dewey, John. "The Historic Background of Corporate Legal Personality." *Yale Law Journal*, vol. 35, no. 6, 1926, pp. 655–673.
+- Harris, Ron. "The Transplantation of the Legal Discourse on Corporate Personality Theories." *Washington and Lee Law Review*, vol. 63, 2006, pp. 1421–.

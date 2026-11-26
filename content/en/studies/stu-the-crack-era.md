@@ -4,6 +4,7 @@ id: SOC-14466
 type: دراسة
 part: sociology
 level: متوسط
+quality: "unverified"
 title: The Crack Era
 en: The Crack Era
 crumb: Sociology ← The Crack Era

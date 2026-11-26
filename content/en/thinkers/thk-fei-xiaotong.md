@@ -4,6 +4,7 @@ id: "THK-13542"
 type: "مفكر"
 part: "anthropology"
 level: "متقدم"
+quality: "unverified"
 title: "Fei Xiaotong"
 en: "Fei Xiaotong"
 crumb: "Anthropology ← Thinkers ← Fei Xiaotong"
@@ -16,7 +17,7 @@ edges:
 - rel: "belongs_to", target: "Malinowskian Functionalism & Participant Observation", target_type: "مدرسة"
 related:
 - id: "sch-malinowskian-functionalism", title: "Malinowskian Functionalism & Participant Observation", type: "مدرسة"
-- id: "thk-bronislaw-malinowski", title: "Bronisław Malinowski", type: "مفكر"
+- id: "thk-malinowski", title: "Bronislaw Malinowski: Modern Ethnographic Fieldwork", type: "مفكر"
 - id: "thk-radcliffe-brown", title: "A. R. Radcliffe-Brown", type: "مفكر"
 - id: "con-kinship-theory", title: "Kinship Theory", type: "مفهوم"
 gaps: []

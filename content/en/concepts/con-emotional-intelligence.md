@@ -11,7 +11,7 @@ active_start: 1990
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "Cognitive Behavioral Therapy (CBT)", target_type: "مدرسة"
-related:
+related: []
 gaps: []
 ---
 

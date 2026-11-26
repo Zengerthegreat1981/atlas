@@ -19,8 +19,7 @@ edges:
 - rel: "belongs_to", target: "Usul al-Fiqh as Legal Theory", target_type: "مدرسة"
 related:
 - id: "con-qiyas-analogical-reasoning", title: "Qiyas (Analogical Reasoning)", type: "مفهوم"
-gaps:
-  - "Exact date of composition: not yet covered"
+gaps: []
 ---
 # Al-Bahr al-Muhit fi Usul al-Fiqh
 
@@ -54,9 +53,14 @@ Among the notable features of Zarkashi's method is that he does not confine hims
 
 Later scholars have drawn on *Al-Bahr al-Muhit* as a reference source. It has also been widely cited in modern orientalist and academic studies of the history of usul al-fiqh because of the richness of its historical and documentary material. It nonetheless remains less known among general students than shorter and more widely circulated usuli works used in traditional teaching, such as *Jam al-Jawami* or al-Juwayni's *Al-Waraqat*.
 
+## Date of composition
+
+The order of al-Zarkashi's usul books is not fully settled. The biographical article in the TDV *Islam Ansiklopedisi* reports that he wrote *al-Bahr al-Muhit* in 777 AH (1376 CE), when he was thirty-two, and that in *Salasil al-Dhahab* he calls it his large book and treats it as earlier than his other usul works. The same article says the book draws on more than two hundred works from the four Sunni schools and from Zahiri, Mu'tazili, and Shi'i authors. The year 1390 sometimes attached to the title is later than this reported date of composition. He died in Cairo on 3 Rajab 794 AH (26 May 1392).
+
 ## Sources
 
 - Al-Zarkashi, Badr al-Din Muhammad ibn Bahadur. *Al-Bahr al-Muhit fi Usul al-Fiqh*. Edited by Abd al-Qadir Abd Allah al-Ani and others. Kuwait: Ministry of Awqaf and Islamic Affairs, multi-volume edition, late 1980s–early 1990s.
 - Al-Subki, Taj al-Din (d. 771 AH / 1370 CE). *Jam al-Jawami fi Usul al-Fiqh*, with the commentary of al-Mahalli.
 - Hallaq, Wael B. *A History of Islamic Legal Theories: An Introduction to Sunni Usul al-Fiqh*. Cambridge University Press, 1997.
 - Kamali, Mohammad Hashim. *Principles of Islamic Jurisprudence*. Islamic Texts Society, 1991.
+- "Zerkeşi, Bedreddin." *TDV İslâm Ansiklopedisi*. Türkiye Diyanet Vakfı.

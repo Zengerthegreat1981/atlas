@@ -14,7 +14,7 @@ active_start: 1961
 active_end: 2017
 edges:
 - rel: "belongs_to", target: "African History and Oral Sources (Vansina and the Ibadan and Dar es Salaam Schools)", target_type: "مدرسة"
-related:
+related: []
 gaps: []
 ---
 

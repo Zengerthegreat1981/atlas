@@ -12,7 +12,7 @@ active_start: 1973
 active_end: 2018
 cultural_origin: "United States"
 edges: []
-related:
+related: []
 gaps: []
 ---
 

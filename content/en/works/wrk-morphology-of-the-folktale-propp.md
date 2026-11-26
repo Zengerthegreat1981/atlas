@@ -16,7 +16,7 @@ active_start: 1928
 active_end: 1928
 edges:
 - rel: "belongs_to", target: "Greimassian Semiotics", target_type: "مدرسة"
-related:
+related: []
 gaps: []
 ---
 

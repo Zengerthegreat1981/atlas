@@ -9,7 +9,7 @@ en: "Revelation and Religious Epistemology"
 crumb: "Bridges (Religious Studies ↔ Philosophy) ← Concepts ← Revelation and Religious Epistemology"
 active_start: 1900
 active_end: "مستمر"
-related:
+related: []
 gaps: []
 ---
 # Revelation and Epistemology

@@ -17,7 +17,7 @@ active_end: "مستمر"
 crumb: "Religious Studies ← Schools ← Comparative Religious Gender, Feminist, and Queer Studies"
 edges:
 - rel: "belongs_to", target: "Founding of the 'Science of Religion': Max Müller and the Origins of Comparative Religion", target_type: "مدرسة"
-related:
+related: []
 gaps: []
 ---
 

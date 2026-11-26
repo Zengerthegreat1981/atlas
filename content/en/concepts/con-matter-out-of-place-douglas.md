@@ -12,7 +12,7 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "Purity, Danger and Classification (Douglas)", target_type: "مدرسة"
 related:
-- id: "thk-mary-douglas", title: "Mary Douglas", type: "مفكر"
+- id: "thk-douglas", title: "Mary Douglas: Purity, Danger, and Categorical Thought", type: "مفكر"
 gaps: []
 ---
 # Matter Out of Place

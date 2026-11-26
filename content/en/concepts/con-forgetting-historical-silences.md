@@ -8,7 +8,7 @@ title: "Silencing the Past"
 en: "Silencing the Past"
 crumb: "Historiography ← Concepts ← Silencing the Past"
 edges: []
-related:
+related: []
 gaps: []
 ---
 

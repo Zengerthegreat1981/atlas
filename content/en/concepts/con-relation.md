@@ -12,7 +12,7 @@ edges:
 related:
   - id: "con-isolation", title: "Isolation", type: "مفهوم"
   - id: "thk-bugental", title: "Bugental", type: "مفكر"
-  - id: "thk-buber", title: "Martin Buber", type: "مفكر"
+  - id: "thk-mbuber", title: "Martin Buber", type: "مفكر"
 gaps: []
 ---
 

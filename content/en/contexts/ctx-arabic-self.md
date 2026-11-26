@@ -4,6 +4,7 @@ id: "CTX-0001"
 type: "سياق/تقليد"
 part: arab-thought
 level: "مبتدئ"
+quality: "incomplete"
 title: "The Self in Arabic-Islamic Intellectual Heritage"
 en: "The self in Arabic-Islamic intellectual heritage"
 crumb: "Arab-Islamic Heritage ← Contexts ← The Self in Arabic-Islamic Intellectual Heritage"
@@ -15,7 +16,6 @@ related:
   - id: "con-shame-guilt", title: "Shame and Guilt", type: "مفهوم"
   - id: "con-jealousy-envy", title: "Jealousy and Envy", type: "مفهوم"
 gaps:
-  - "Textual comparison with the four emotion entries: not yet covered"
   - "Verified primary-text editions or translations of al-Ghazali, Ibn Sina and Miskawayh in the project source library: not yet covered"
 ---
 
@@ -49,7 +49,11 @@ The largest methodological danger here is projection: taking a modern psychologi
 
 ## First Cautious Bridges to the Emotion Entries
 
-With that caution in place, a first exploratory bridge can be drawn — labelled exploratory, not established. Al-Ghazali's classification of fear in the Books of Fear and Hope invites a careful preliminary comparison with the account of fear in con-fear, which draws on Lazarus's appraisal theory: both treat fear as an evaluative response to a perceived threat, but differ on what counts as the threat and on what a good response looks like. Miskawayh's treatment of anger and envy in the *Tahdhib al-Akhlaq* opens a similar preliminary comparison with con-jealousy-envy: both treat envy as a vice of character rather than a passing mood, though Miskawayh's remedy is habituation toward a mean, not a therapeutic technique. The links to con-sadness and con-shame-guilt are network links only, resting on topical kinship, not on any textual comparison yet carried out. Turning these bridges into documented comparisons requires specialist research with verified primary texts, which has not yet been done.
+With that caution in place, a first exploratory bridge can be drawn — labelled exploratory, not established. Al-Ghazali's classification of fear in the Books of Fear and Hope invites a careful preliminary comparison with the account of fear in con-fear, which draws on Lazarus's appraisal theory: both treat fear as an evaluative response to a perceived threat, but differ on what counts as the threat and on what a good response looks like. Miskawayh's treatment of anger and envy in the *Tahdhib al-Akhlaq* opens a similar preliminary comparison with con-jealousy-envy: both treat envy as a vice of character rather than a passing mood, though Miskawayh's remedy is habituation toward a mean, not a therapeutic technique. A comparison with all four emotion entries is set out below. It uses those entries' own summaries. It is not a collation against verified editions held in a project source library.
+
+## Comparison with the Four Emotion Entries
+
+The four emotion entries do not line up evenly with this context's three authors. The fear entry treats fear as an appraisal of a present threat when coping looks limited. It also places Ibn Sina's fear in the irascible faculty, with innate heat drawing toward the heart, and al-Ghazali's fear, in the book on fear and hope, as pain of the heart at expected harm, parsed as knowledge, inward state and action, with both too little and too much fear counted as failures. Miskawayh appears there on fear of death as confusion about the soul. The jealousy entry separates two-party envy from three-party jealousy, and its Arabic section uses al-Ghazali's contrast between *hasad*, willing the loss of another's blessing, and *ghibta*, emulation without ill will. It does not use Miskawayh's mean. The sadness entry discusses *huzn* through al-Balkhi, al-Kindi and the public elegy, not through these three authors. The shame entry uses Miskawayh's *haya'* as an early sign of moral capacity and separates restraint that blocks base acts from timidity that blocks just action, which is a virtue of modesty rather than a condemnation of the whole self. The bridges stay local. They are not a collation of passages from a critical edition.
 
 ## What This Entry Does Not Claim
 

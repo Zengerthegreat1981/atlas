@@ -16,7 +16,7 @@ active_start: 1948
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "Internal and External Source Criticism (General Method)", target_type: "مدرسة"
-related:
+related: []
 gaps: []
 ---
 # Modern Oral History and Its Method

@@ -27,12 +27,12 @@ Dahrendorf was born in Hamburg in 1929. His father was a Social Democratic polit
 
 ## Main Ideas
 
-- **Authority and conflict.** In *Class and Class Conflict in Industrial Society*, Dahrendorf argued that Marx tied class too closely to property. Conflict arises more generally from the unequal distribution of authority within organizations, which he called, borrowing from Weber, imperatively coordinated associations.
+- **Authority and conflict.** In *Class and Class Conflict in Industrial Society*, Dahrendorf argued that Marx tied class too closely to property. Conflict arises more generally from the unequal distribution of authority within organizations, which he called, borrowing from Weber, imperatively coordinated associations. He held that the separation of ownership and control in industrial society had weakened a class model based only on property, and he treated conflict over authority as a principal source of social change.
 - **Quasi-groups and interest groups.** People who share a position of domination or subordination have latent interests; under certain technical, political and social conditions they organize as groups pursuing manifest interests.
 - **Regulation of conflict.** Conflict cannot be abolished, but it can be institutionalized, as in collective bargaining, which affects its intensity and violence.
 - **Critique of consensus theory.** In "Out of Utopia" (1958) he criticized structural functionalism, especially Talcott Parsons, for portraying an unchanging, integrated society, and proposed that conflict and coercion also be treated as basic features of social life.
 - **Homo sociologicus.** His essay of 1958 examined the concept of social role and the tension between the sociological model of the person and individual freedom.
-- **Life chances.** In later work he assessed societies by the options and social ties they offer individuals.
+- **Life chances.** In later work he assessed societies by the options and social ties they offer individuals. He called the bonds and constraints that give those options meaning ligatures.
 
 ## Major Works
 
@@ -50,7 +50,11 @@ Dahrendorf was born in Hamburg in 1929. His father was a Social Democratic polit
 
 ## Influence and Criticism
 
-With Lewis Coser and others, Dahrendorf was central to the conflict-theory challenge to postwar functionalism, and he influenced political sociology and industrial relations. Critics argued that making authority the basis of class loses sight of property and economic exploitation, that the scheme struggles to explain which conflicts become salient, and that it shares with functionalism a highly formal, abstract character.
+With Lewis Coser and others, Dahrendorf was central to the conflict-theory challenge to postwar functionalism, and he influenced political sociology and industrial relations. Critics argued that making authority the basis of class loses sight of property and economic exploitation, that the scheme struggles to explain which conflicts become salient, and that it shares with functionalism a highly formal, abstract character. Others held that the model describes organizational hierarchies more readily than society-wide class structures, and that his picture of a post-capitalist industrial society overstated the decline of property as a basis of class.
+
+## Method
+
+Dahrendorf worked comparatively and historically, setting general models of conflict against questions about German and European society.
 
 ## Sources
 
@@ -58,3 +62,4 @@ With Lewis Coser and others, Dahrendorf was central to the conflict-theory chall
 - Dahrendorf, Ralf. "Out of Utopia: Toward a Reorientation of Sociological Analysis." *American Journal of Sociology* 64, no. 2 (1958): 115-127.
 - Dahrendorf, Ralf. *Society and Democracy in Germany*. Doubleday, 1967.
 - Dahrendorf, Ralf. *The Modern Social Conflict*. Weidenfeld and Nicolson, 1988.
+- Dahrendorf, Ralf. *Life Chances: Approaches to Social and Political Theory*. University of Chicago Press, 1979.

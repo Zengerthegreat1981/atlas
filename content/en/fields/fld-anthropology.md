@@ -4,6 +4,7 @@ id: "ANT-30001"
 type: "مجال"
 part: "anthropology"
 level: "متوسط"
+quality: "unverified"
 title: "Anthropology"
 en: "Anthropology"
 crumb: "Anthropology ← Fields ← Anthropology"
@@ -70,9 +71,8 @@ related:
   - id: "wrk-precariat-standing", title: "The Precariat: The New Dangerous Class", type: "عمل / كتاب"
   - id: "stu-evans-pritchard-the-nuer", title: "The Nuer: A Description of the Modes of Livelihood and Political Institutions of a Nilotic People", type: "عمل / كتاب"
   - id: "stu-leach-political-systems-highlands-burma", title: "Political Systems of Highland Burma: A Study of Kachin Social Structure", type: "عمل / كتاب"
-  - id: "stu-argonauts-western-pacific", title: "Argonauts of the Western Pacific", type: "دراسة"
-  - id: "stu-african-political-systems", title: "African Political Systems", type: "دراسة"
   - id: "stu-malinowski-kula-ring-exchange", title: "Argonauts of the Western Pacific: The Kula Ring", type: "دراسة وبحث"
+  - id: "stu-african-political-systems", title: "African Political Systems", type: "دراسة"
   - id: "stu-geertz-balinese-cockfight", title: "Deep Play: Notes on the Balinese Cockfight", type: "عمل / كتاب"
   - id: "stu-turner-schism-continuity", title: "Schism and Continuity in an African Society", type: "عمل / كتاب"
   - id: "stu-ochs-samoan-language-socialization", title: "Language Socialization in Samoa", type: "دراسة وبحث"
@@ -206,16 +206,15 @@ Begin with the entries on Boas, Malinowski and Radcliffe-Brown to see how the mo
 ### Studies and Evidence
 1. The Nuer: A Description of the Modes of Livelihood and Political Institutions of a Nilotic People
 2. Political Systems of Highland Burma: A Study of Kachin Social Structure
-3. Argonauts of the Western Pacific
+3. Argonauts of the Western Pacific: The Kula Ring
 4. African Political Systems
-5. Argonauts of the Western Pacific: The Kula Ring
-6. Deep Play: Notes on the Balinese Cockfight
-7. Schism and Continuity in an African Society
-8. Language Socialization in Samoa
-9. Potlatch Among Northwest Coast Peoples
-10. Yanomami Ethnography and Fieldwork
-11. African Initiation Rituals and Life Transitions
-12. The Nuer
+5. Deep Play: Notes on the Balinese Cockfight
+6. Schism and Continuity in an African Society
+7. Language Socialization in Samoa
+8. Potlatch Among Northwest Coast Peoples
+9. Yanomami Ethnography and Fieldwork
+10. African Initiation Rituals and Life Transitions
+11. The Nuer
 
 ### Major Debates
 1. Positionality and Reflexivity in Ethnographic Fieldwork

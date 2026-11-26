@@ -14,7 +14,7 @@ edges:
 - rel: "belongs_to", target: "Sociology of Family, Gender and Intimacy", target_type: "مدرسة"
 related:
 - id: "sch-sociology-of-family-gender-intimacy", title: "Sociology of Family, Gender and Intimacy", type: "مدرسة"
-- id: "stu-evicted-desmond", title: "Evicted", type: "دراسة وبحث"
+- id: "stu-evicted", title: "Evicted", type: "دراسة"
 gaps: []
 ---
 

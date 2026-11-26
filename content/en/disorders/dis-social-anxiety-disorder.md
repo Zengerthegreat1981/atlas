@@ -13,7 +13,7 @@ active_end: "مستمر"
 language: "Multilingual"
 part: "psychology"
 edges: []
-related:
+related: []
 gaps: []
 ---
 

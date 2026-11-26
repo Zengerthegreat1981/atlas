@@ -4,6 +4,7 @@ id: "ANT-13331"
 type: "مفهوم"
 part: anthropology
 level: "متوسط"
+quality: "unverified"
 title: "War: Organized Violence Between Political Communities"
 en: "War"
 crumb: "Anthropology ← War"
@@ -26,7 +27,7 @@ Anthropology long debated whether war is natural to humanity or an invention of 
 
 ## Key Contributions: War and State-Making
 
-Charles Tilly, in *Coercion, Capital, and European States, AD 990–1992* (1990), developed one of the most influential sociological arguments about war, summed up in his earlier formula of 1975 that "war made the state, and the state made war." European rulers who needed to fund armies built tax systems, bureaucracies, and eventually representative institutions to bargain with the people they taxed. War was therefore not only destructive; it was productive of the modern state itself. Tilly's argument explains why the map of Europe, with its competing states and its strong fiscal administrations, looks the way it does — and why regions where rulers could fund war without bargaining with their subjects developed different kinds of states.
+Charles Tilly, in *Coercion, Capital, and European States, AD 990–1990* (1990), developed one of the most influential sociological arguments about war, summed up in his earlier formula of 1975 that "war made the state, and the state made war." European rulers who needed to fund armies built tax systems, bureaucracies, and eventually representative institutions to bargain with the people they taxed. War was therefore not only destructive; it was productive of the modern state itself. Tilly's argument explains why the map of Europe, with its competing states and its strong fiscal administrations, looks the way it does — and why regions where rulers could fund war without bargaining with their subjects developed different kinds of states.
 
 Michael Mann, in the first volume of *The Sources of Social Power* (1986), placed military power alongside economic, political, and ideological power as one of the four sources through which human societies are organized. Military power is distinctive because it is organized around concentrated, lethal coercion. Mann showed that military organization has its own logic: it requires discipline, logistics, and hierarchy, and it tends to produce centralized command even in societies that are otherwise egalitarian. War therefore shapes not only relations between societies but the internal organization of the societies that wage it.
 
@@ -54,7 +55,7 @@ War remains a central sociological concern. Contemporary research studies drone 
 - Keeley, Lawrence H. *War Before Civilization: The Myth of the Peaceful Savage*. Oxford University Press, 1996.
 - Mann, Michael. *The Sources of Social Power, Volume 1: A History of Power from the Beginning to AD 1760*. Cambridge University Press, 1986.
 - Tilly, Charles, ed. *The Formation of National States in Western Europe*. Princeton University Press, 1975.
-- Tilly, Charles. *Coercion, Capital, and European States, AD 990–1992*. Blackwell, 1990.
+- Tilly, Charles. *Coercion, Capital, and European States, AD 990–1990*. Blackwell, 1990.
 - Clarke, Richard A., and Robert K. Knake. *Cyber War: The Next Threat to National Security and What to Do About It*. Ecco, 2010.
 - Rid, Thomas. *Cyber War Will Not Take Place*. Oxford University Press, 2013.
 - Schmitt, Michael N., ed. *Tallinn Manual on the International Law Applicable to Cyber Warfare*. Cambridge University Press, 2013.

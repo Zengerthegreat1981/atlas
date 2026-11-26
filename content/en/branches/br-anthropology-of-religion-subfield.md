@@ -9,7 +9,7 @@ en: "Anthropology of Religion as a Subfield"
 crumb: "Anthropology ← Branches ← Anthropology of Religion as a Subfield"
 edges:
 - rel: "belongs_to", target: "Symbolic & Interpretive Anthropology of Religion (Turner, Douglas, Geertz)", target_type: "مدرسة"
-related:
+related: []
 gaps: []
 ---
 

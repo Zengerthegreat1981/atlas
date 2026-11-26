@@ -4,6 +4,7 @@ id: SOC-14474
 type: دراسة
 part: sociology
 level: متوسط
+quality: "unverified"
 title: Pinned Down
 en: Pinned Down
 crumb: Sociology ← Pinned Down

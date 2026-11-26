@@ -19,8 +19,7 @@ related:
 - id: "wrk-talkhis-al-miftah-qazwini", title: "Talkhis al-Miftah (The Summary of the Key)", type: "عمل / كتاب"
 - id: "wrk-dalail-al-ijaz-jurjani", title: "Dala'il al-I'jaz (The Proofs of Inimitability)", type: "عمل / كتاب"
 - id: "thk-al-jurjani", title: "Abd al-Qahir al-Jurjani", type: "مفكر"
-gaps:
-  - "His early education and the names of his teachers: not yet covered"
+gaps: []
 ---
 
 # Abu Ya'qub al-Sakkaki
@@ -30,6 +29,10 @@ A rhetorician and grammarian from Khwarazm (Central Asia), who lived in the late
 ## Biography
 
 Al-Sakkaki was born in Khwarazm. Some later accounts state that he began his working life as a blacksmith or locksmith (hence the nisba "al-Sakkaki," which refers to metalwork such as making locks or metal fittings), and only turned to the pursuit of knowledge at a relatively late age. This story is usually transmitted as a biographical anecdote rather than as a report with a firmly established chain of transmission. He worked on grammar, rhetoric, logic and jurisprudence, and composed the *Miftah al-Ulum* as a comprehensive educational encyclopedia. He died in 626 AH (1229 CE) according to the commonly cited date, and the influence of his work subsequently centered on the Arab East (Syria and Egypt) through those who adopted and summarized his method, rather than through direct continuation in his homeland.
+
+## Early Education and Named Teachers
+
+Near-contemporary notices, including that of Yaqut al-Hamawi, praise al-Sakkaki as a jurist and theologian skilled in several sciences, but they say little about how he was trained. Wolfhart Heinrichs links this thin record to the Mongol disruption of Khwarazm. Later Eastern accounts say he worked as a smith and turned to study only around the age of thirty. Heinrichs treats that story as very likely transferred from the biography of the earlier Shafi'i jurist al-Kaffal al-Marwazi, who was also called a locksmith. Hanafi biographical notices name three Hanafi teachers: Sadid al-Din al-Khayyati, Mahmud ibn Ubayd Allah al-Harithi, and Muhammad ibn Abd al-Karim al-Turkistani. A recent study finds that scholarship agrees securely only on Shadid ibn Muhammad al-Khayyati. The same notices say he spoke with respect of a figure known only by the nisba al-Hatimi, whose identity is otherwise unknown. In the linguistic sciences, then, no teacher is securely identified.
 
 ## His Contributions
 
@@ -78,3 +81,5 @@ It should be noted that al-Sakkaki was not the first to attempt to organize the 
 - Heinrichs, Wolfhart. "al-Sakkaki." *Encyclopaedia of Islam*, 2nd ed.
 - Smyth, William. "The Canonical Formulation of ʿIlm al-Balāghah and al-Sakkākī's Miftāḥ al-ʿUlūm." *Der Islam* 72 (1995), pp. 7–24.
 - Suleiman, Yasir. *The Arabic Grammatical Tradition: A Study in Ta'lil*. Edinburgh: Edinburgh University Press, 1999.
+- *TDV İslâm Ansiklopedisi*, "Sekkâkî, Ebû Ya‘kūb".
+- Fontana, Chiara. "The Name of the Key: al-Sakkākī’s Literary Craftsmanship and Pragmatic Poetics in Miftāḥ al-ʿUlūm." *Journal of Arabic and Islamic Studies* 25.1 (2025): 57–87.

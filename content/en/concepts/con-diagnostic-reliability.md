@@ -12,7 +12,7 @@ active_end: "مستمر"
 language: "English"
 edges:
 - rel: "belongs_to", target: "Nosology and Psychiatric Diagnosis", target_type: "مدرسة"
-related:
+related: []
 gaps: []
 ---
 

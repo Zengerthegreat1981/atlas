@@ -4,6 +4,7 @@ id: "CON-20625"
 type: "مفهوم"
 part: bridges
 level: "متوسط"
+quality: "incomplete"
 title: "The Psychology of Debt and Financial Stress"
 en: "The Psychology of Debt and Financial Stress"
 crumb: "Bridges ← Concepts ← The Psychology of Debt and Financial Stress"

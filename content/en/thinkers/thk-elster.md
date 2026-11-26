@@ -16,7 +16,7 @@ active_end: "مستمر"
 crumb: "Sociology ← Thinkers ← Jon Elster"
 edges:
 - rel: "belongs_to", target: "Analytical Sociology", target_type: "مدرسة"
-related:
+related: []
 gaps: []
 ---
 

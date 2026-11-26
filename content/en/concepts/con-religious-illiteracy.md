@@ -13,7 +13,7 @@ active_start: 2007
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "The Field of 'Religious Literacy' Studies: Stephen Prothero and Robert Wuthnow", target_type: "مدرسة"
-related:
+related: []
 gaps: []
 ---
 

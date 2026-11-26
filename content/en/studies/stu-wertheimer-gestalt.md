@@ -16,7 +16,7 @@ main_finding: "The observer perceives illusory motion between two stationary lig
 replication_status: "replicated"
 edges:
 - rel: "relates_to", target: "Berlin Gestalt School", target_type: "تيار"
-related:
+related: []
 gaps: []
 ---
 # Wertheimer's Gestalt Perception Experiments: Phi Phenomenon (1912)

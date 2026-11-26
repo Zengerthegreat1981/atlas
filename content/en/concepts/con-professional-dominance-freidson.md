@@ -11,7 +11,7 @@ active_start: 1970
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "Medical, Health and Clinical Sociology", target_type: "مدرسة"
-related:
+related: []
 gaps: []
 ---
 

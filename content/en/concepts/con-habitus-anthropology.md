@@ -22,7 +22,7 @@ Habitus is a system of durable, internalised dispositions — ways of perceiving
 
 ## Origins and Development
 
-The term habitus has a long history. It was used by Aristotle, by medieval scholastics, and by Marcel Mauss, who in "Techniques of the Body" (1935) showed that even apparently natural bodily practices — walking, swimming, sitting, eating — are learned and vary by culture and class. Mauss's insight was that the body itself is a social product, trained by the society in which it grows up.
+The term habitus has a long history. It was used by Aristotle, by medieval scholastics, and by Marcel Mauss, who in "Techniques of the Body" (1935) showed that even apparently natural bodily practices — walking, swimming, sitting, eating — are learned and vary by culture and class. Mauss's insight was that the body itself is a social product, trained by the society in which it grows up. The Latin term translates the Greek *hexis*, Aristotle's name for an acquired disposition. The art historian Erwin Panofsky used a mental habit to relate Gothic architecture to scholastic thought, a study that Bourdieu later translated into French.
 
 Pierre Bourdieu took up the term and made it the centre of his sociology. In *Outline of a Theory of Practice* (1972; English translation 1977), he defined habitus as a system of durable, transposable dispositions, structured by past experience and structuring present practice. The habitus is the product of history — of the conditions in which a person was raised — and it generates practices that tend to reproduce those conditions. In *Distinction: A Social Critique of the Judgement of Taste* (1979; English translation 1984), Bourdieu showed empirically how habitus works: people's tastes in food, music, art, and clothing vary systematically by class, and these tastes function as markers of social distinction, sorting people into hierarchies that feel natural but are socially produced. In *The Logic of Practice* (1980; English translation 1990), he elaborated the theory, emphasising that habitus operates below the level of conscious calculation: it is a "feel for the game" that lets people act appropriately in social situations without thinking through the rules.
 
@@ -30,11 +30,15 @@ Pierre Bourdieu took up the term and made it the centre of his sociology. In *Ou
 
 Habitus works through the body and through practical knowledge. A person raised in a particular class learns not only what to like but how to stand, how to speak, how to hold a fork, how to enter a room — a whole bodily style that others read, often unconsciously, as a sign of who they are. This is why social mobility can feel so disorienting: the habitus formed in one milieu may not fit another, producing what Bourdieu called hysteresis, a mismatch between dispositions and the field in which a person finds themselves. The working-class student at an elite university, or the migrant navigating a new culture, experiences this mismatch directly.
 
-Habitus is also generative rather than merely repetitive. It is not a set of fixed rules but a capacity to improvise within limits — to respond to new situations in ways that are consistent with past experience. This is what allows Bourdieu's theory to avoid determinism: people are not robots programmed by their class, but agents whose creativity is shaped, not dictated, by the dispositions they carry.
+Habitus is also generative rather than merely repetitive. It is not a set of fixed rules but a capacity to improvise within limits — to respond to new situations in ways that are consistent with past experience. This is what allows Bourdieu's theory to avoid determinism: people are not robots programmed by their class, but agents whose creativity is shaped, not dictated, by the dispositions they carry. The aim was to avoid both an objectivism in which people merely carry out social structures and a subjectivism in which they choose freely from nowhere.
+
+Habitus works together with fields, relatively autonomous arenas such as education or art, and with the economic, cultural, and social capital people bring to them. In *Distinction* Bourdieu drew on survey and interview material from France. Where habitus matches a field, conduct seems natural.
 
 ## Key Debates
 
 One debate concerns the relationship between habitus and conscious choice. Critics argue that Bourdieu's theory leaves too little room for reflexivity — for people's ability to reflect on their dispositions and change them. Bourdieu himself acknowledged that crises and mismatches can bring the habitus to consciousness, and later theorists have developed accounts of reflexive habitus, in which people deliberately cultivate new dispositions. Loïc Wacquant, in his ethnography of boxing, *Body and Soul* (2004), showed that habitus can be deliberately acquired through disciplined training, as when a young boxer learns the craft of the gym — suggesting that habitus is not only inherited from childhood but can be remade through practice.
+
+Richard Jenkins, in *Pierre Bourdieu* (1992), argued that the concept leans toward determinism, explains change poorly, and is hard to observe apart from the practices it is meant to explain. Defenders reply that habitus is generative rather than mechanical and can be revised by new experience and reflection.
 
 Another debate concerns the scope of the concept. Bourdieu developed habitus to explain class reproduction, but it has since been applied to gender, race, ethnicity, profession, and nation. Some scholars worry that the concept has been stretched too far, becoming a vague synonym for culture or socialisation. Others argue that its flexibility is its strength: habitus names the general mechanism by which social structure becomes embodied, wherever that mechanism operates.
 
@@ -54,3 +58,5 @@ Habitus remains a central concept in sociology, anthropology, and cultural studi
 - Pierre Bourdieu, *The Logic of Practice* (1980; English translation 1990).
 - Norbert Elias, *The Civilizing Process* (1939).
 - Loïc Wacquant, *Body and Soul: Notebooks of an Apprentice Boxer* (2004).
+- Erwin Panofsky, *Gothic Architecture and Scholasticism* (1951).
+- Richard Jenkins, *Pierre Bourdieu* (1992).

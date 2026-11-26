@@ -16,7 +16,7 @@ active_end: 1910
 crumb: "Sociology ← Thinkers ← William Graham Sumner"
 edges:
 - rel: "belongs_to", target: "Sumnerian Evolutionary Sociology", target_type: "مدرسة"
-related:
+related: []
 gaps: []
 ---
 

@@ -4,6 +4,7 @@ id: "CON-2239"
 type: "مفهوم"
 part: "ethics"
 level: "متوسط"
+quality: "unverified"
 title: "Moral Motivation"
 en: "Moral Motivation"
 crumb: "Ethics ← Concepts ← Moral Motivation"
@@ -26,7 +27,7 @@ Muslim moral scholars addressed this question through the concepts of love, hope
 
 ## In Western Philosophy
 
-This question was the focus of the disagreement between David Hume and Immanuel Kant. Hume held that reason is subordinate to the passions and cannot move the will by itself. There must be a prior emotional inclination, such as sympathy, into which the moral judgment is translated to become an actual motive. This is the core of motivational Humeanism. Kant, by contrast, held that respect for the moral law itself, not emotional inclination, is the only moral motive of genuine moral worth. He held that an action driven by mere emotional inclination (such as pity) lacks full moral worth, even if its outward appearance matches duty. Michael Smith formulated what he called "the moral problem," explaining the difficulty of reconciling the view that moral judgments are objective beliefs (as realists hold) with the fact that they are at the same time intrinsically motivating to action (as internalism requires).
+This question was the focus of the disagreement between David Hume and Immanuel Kant. Hume held that reason is subordinate to the passions and cannot move the will by itself. There must be a prior emotional inclination, such as sympathy, into which the moral judgment is translated to become an actual motive. This is the core of motivational Humeanism. Kant, by contrast, held that respect for the moral law itself, not emotional inclination, is the only moral motive of genuine moral worth. He held that an action driven by mere emotional inclination (such as pity) lacks full moral worth, even if its outward appearance matches duty. Michael Smith formulated what he called "the moral problem," explaining the difficulty of reconciling the view that moral judgments are objective beliefs (as realists hold) with the fact that they are at the same time intrinsically motivating to action (as internalism requires), given the Humean view that beliefs alone cannot motivate.
 
 ## Illustrative Example
 

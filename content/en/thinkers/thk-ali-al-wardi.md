@@ -4,6 +4,7 @@ id: SOC-14153
 type: مفكر
 part: sociology
 level: متوسط
+quality: "incomplete"
 title: Ali Al-Wardi
 en: Ali Al-Wardi
 crumb: Sociology ← Ali Al-Wardi
@@ -27,10 +28,10 @@ Al-Wardi was born in Kadhimiya, now part of Baghdad. He studied at the American 
 
 ## Main Ideas
 
-- Bedouinism and urban civilisation: drawing on Ibn Khaldun's contrast between nomadic and settled life, Al-Wardi argued that Iraqi society was marked by a long struggle between tribal values, such as solidarity, honour and the prestige of force, and the values of settled life.
+- Bedouinism and urban civilisation: drawing on Ibn Khaldun's contrast between nomadic and settled life, Al-Wardi argued that Iraqi society was marked by a long struggle between tribal values, such as solidarity, honour and the prestige of force, and the values of settled life. He used Ibn Khaldun's terms badawa (bedouin life) and hadara (settled urban life) for the two sides of that contrast.
 - Duality of personality: he suggested that individuals exposed to conflicting value systems could profess one set of ideals while acting according to another.
 - Social dissonance: rapid and uneven change, in which new institutions and ideas coexist with older loyalties, produces strain and contradiction.
-- Critique of preaching: he argued that moral exhortation which ignores social conditions and human nature does little to change conduct, and he criticised preachers who served rulers.
+- Critique of preaching: he argued that moral exhortation which ignores social conditions and human nature does little to change conduct, and he criticised preachers who served rulers. Sectarian and tribal conflict, he held, has to be explained through history and social structure rather than through doctrine alone.
 
 ## Major Works
 
@@ -43,7 +44,7 @@ Al-Wardi was born in Kadhimiya, now part of Baghdad. He studied at the American 
 
 ## Method
 
-Al-Wardi worked mainly as an interpretive historical sociologist. He combined historical narratives, travel accounts, personal observation and concepts from sociology and social psychology, and he wrote in an accessible style. He treated Ibn Khaldun as a source of analytical tools for understanding modern society, not only as a historical figure.
+Al-Wardi worked mainly as an interpretive historical sociologist. The account is synthetic, and it does not rest on surveys or statistics. He combined historical narratives, travel accounts, personal observation and concepts from sociology and social psychology, and he wrote in an accessible style. He treated Ibn Khaldun as a source of analytical tools for understanding modern society, not only as a historical figure.
 
 ## Case Studies
 

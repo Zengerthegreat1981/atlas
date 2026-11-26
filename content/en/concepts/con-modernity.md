@@ -4,6 +4,7 @@ id: "ANT-13338"
 type: "مفهوم"
 part: anthropology
 level: "متوسط"
+quality: "unverified"
 title: "Modernity: The Condition of Being Modern"
 en: "Modernity"
 crumb: "Anthropology ← Core Concepts ← Modernity"

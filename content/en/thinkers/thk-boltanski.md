@@ -14,7 +14,7 @@ language: "French"
 part: "sociology"
 edges:
 - rel: "belongs_to", target: "Boltanski and Thévenot's Sociology of Worth", target_type: "مدرسة"
-related:
+related: []
 gaps: []
 ---
 

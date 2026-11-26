@@ -50,6 +50,10 @@ The book has also attracted sustained criticism. The historian Bernard Lewis arg
 
 More than four decades after publication, *Orientalism* remains a live resource. Its analysis of how expertise about other peoples serves political power speaks directly to contemporary debates about Islamophobia, the "war on terror," migration, and the representation of the Global South in news and popular culture. The book's enduring lesson is methodological as much as political: any claim to describe a society must be examined for the power relations that make that description possible, and for the voices it excludes.
 
+## Latent and Manifest Orientalism, and Replies
+
+Said distinguishes latent Orientalism, a relatively stable set of underlying assumptions and desires, from manifest Orientalism, the explicit and changing statements of particular writers and disciplines, so that authors could differ in style and sympathy while sharing a framework. The argument also informed criticism of modernisation theory and of accounts that explain Middle Eastern societies mainly by an essential culture or religion. Critics noted the limited treatment of German scholarship. Sadik Jalal al-Azm, in "Orientalism and Orientalism in Reverse" (1981), argued that the account was inconsistent and warned that Arab thinkers could reproduce essentialist images of East and West. Said replied to critics in "Orientalism Reconsidered" (1985) and in an afterword to the 1994 edition.
+
 ## Sources
 
 - Said, Edward W. *Orientalism*. New York: Pantheon Books, 1978.
@@ -61,3 +65,5 @@ More than four decades after publication, *Orientalism* remains a live resource.
 - MacKenzie, John M. *Orientalism: History, Theory and the Arts*. Manchester: Manchester University Press, 1995.
 - Lane, Edward William. *An Account of the Manners and Customs of the Modern Egyptians*. London, 1836.
 - Cromer, Earl of. *Modern Egypt*. London, 1908.
+- Said, Edward W. "Orientalism Reconsidered." *Cultural Critique* 1 (1985): 89-107.
+- al-Azm, Sadik Jalal. "Orientalism and Orientalism in Reverse." *Khamsin* 8 (1981): 5-26.

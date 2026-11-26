@@ -4,6 +4,7 @@ id: "WRK-12340"
 type: "عمل / كتاب"
 part: "religious-studies"
 level: "متقدم"
+quality: "unverified"
 title: "Dreaming in the World's Religions: A Comparative History"
 en: "Dreaming in the World's Religions: A Comparative History"
 dates: "2008"
@@ -17,8 +18,7 @@ edges:
 related:
 - id: "thk-kelly-bulkeley", title: "Kelly Bulkeley", type: "مفكر"
 - id: "con-dream-incubation-religious", title: "Dream Incubation in Comparative Religious Practice", type: "مفهوم"
-gaps:
-  - "Chapter-by-chapter account: not yet covered"
+gaps: []
 ---
 
 # Dreaming in the World's Religions: A Comparative History
@@ -37,6 +37,12 @@ The book surveys the major religious traditions, including Judaism, Christianity
 
 The book combines the reading of traditional religious sources with attention to recurring patterns across traditions. Later, more specialised studies deepen single traditions beyond what a comprehensive survey allows, such as Iain Edgar's work on dreaming in Islam; Serenity Young's *Dreaming in the Lotus* (1999) is an earlier study of Buddhist dream narrative and practice.
 
+## Chapter sequence
+
+The 2008 New York University Press edition, as listed by Project MUSE and by the publisher's contents, is a single-author survey in ten chapters after a short introduction. Bulkeley says he organised them along three historical lines. The first runs from Hinduism (chapter 1) through the religions of China, chiefly Confucianism and Daoism (chapter 2), to Buddhism (chapter 3). The second begins with the Fertile Crescent, including Mesopotamia, Egypt and Judaism (chapter 4), then Greece and Rome (chapter 5), Christianity (chapter 6) and Islam (chapter 7). Chapters 8 to 10 treat the religions of Africa, Oceania and the Americas. A conclusion follows, with notes, bibliography and index. The book runs to about 330 pages of main text.
+
+Section headings on the author's site show the grain inside those chapters. Hinduism moves from the Vedas and Upanishads to mythic literature and modern movements. Chinese religions include shamanic origins, Confucian teaching and dreaming in modern China. Buddhism includes Queen Maya's conception dream, the *Questions of King Milinda*, Japanese dream diaries and Tibetan tantric practice. The Fertile Crescent chapter includes Gilgamesh, Egyptian material and Jewish interpreters. Greece and Rome include Asclepius and the *Oneirocritica*. Islam includes the Qur'an, hadith, interpretation manuals, *istikhara*, Sufi visions and contemporary Islam. These headings are a map of topics, not a claim that each tradition receives equal depth.
+
 ## Impact and Critique
 
 The book helped consolidate the comparative study of dreaming within religious studies, a field in which psychoanalytic frameworks (Freud and Jung) had long been the main reference points. Some critics note that the breadth of the comparison, across many traditions and long periods, necessarily imposes generalisations that a close study of a single case might qualify.
@@ -51,3 +57,5 @@ Islamic dream beliefs (*ru'ya*), including Qur'anic references, prophetic hadith
 - Bulkeley, K., ed. (2001). *Dreams: A Reader on Religious, Cultural and Psychological Dimensions of Dreaming*. Palgrave.
 - Edgar, I. R. (2011). *The Dream in Islam: From Qur'anic Tradition to Jihadist Inspiration*. Berghahn Books.
 - Young, Serenity. *Dreaming in the Lotus: Buddhist Dream Narrative, Imagery, and Practice*. Wisdom Publications, 1999.
+- Bulkeley, Kelly (2008). *Dreaming in the World's Religions: A Comparative History*. New York University Press. Contents as listed by Project MUSE and the publisher.
+- Bulkeley, Kelly. Contents outline on the author's site (section headings within the ten chapters).

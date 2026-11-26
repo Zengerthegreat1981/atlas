@@ -53,9 +53,14 @@ Simmel wrote in an essayistic style, drawing on small observations to reveal gen
 
 Simmel strongly influenced the Chicago School, notably Robert Park, who had attended his lectures, as well as symbolic interactionism, network analysis and the sociology of culture. Critics have found his work unsystematic and fragmentary, and some have faulted the lack of a clear research method. His reputation has grown in the study of modernity and urban life.
 
+## Posts, the Tragedy of Culture, and Further Forms
+
+Simmel received his doctorate in philosophy at the University of Berlin in 1881, began teaching there as a Privatdozent in 1885, and was named an associate professor (Extraordinarius) in 1901. A regular chair continued to elude him in Berlin, a delay linked both to antisemitism and to the unconventional range of his writing. He died in Strasbourg in 1918. He treated society as sociation: a continuing process in which individuals affect one another, rather than a substance standing apart from interaction. In the analysis of the triad he also described divide and rule, in which the third party keeps the other two separated in order to dominate them. In "The Concept and Tragedy of Culture" (1911) he distinguished subjective culture, what a person can take up and make his own, from objective culture, the accumulated products of collective life, which grow faster than any individual can absorb. Essays in the 1908 *Soziologie* also take up the poor, defined by the relation of receiving assistance, and the sociology of the senses. He did not carry out systematic field research. Georg Lukács was among those shaped by his teaching. Durkheim doubted that isolating social forms gave sociology a coherent method, and later critics have found the work thin on institutions and organized power.
+
 ## Sources
 
 - Simmel, Georg. *The Philosophy of Money* (1900).
 - Simmel, Georg. *Soziologie* (1908).
+- Simmel, Georg. *Philosophische Kultur: Gesammelte Essais*. Leipzig: Werner Klinkhardt, 1911.
 - Wolff, Kurt H., ed. *The Sociology of Georg Simmel* (1950).
 - Frisby, David. *Georg Simmel* (1984).

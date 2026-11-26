@@ -1,0 +1,119 @@
+sch-descent-theory <- con-descent-theory: added Radcliffe-Brown 1935/1950, complementary filiation, alliance/Leach/Schneider/Kuper critiques, sources
+fld-philosophy-of-science <- sch-phil-science: added Vienna manifesto, Carnap/Reichenbach/Boyd/semantic view/Bloor/Keller, HPS history, Arabic-Islamic and modern Arabic section, sources
+thk-herodotus <- thk-herodotus-inquiry-method: added preface aim, travel details, ancient criticism and modern corroboration, Hartog, sources
+thk-thucydides <- thk-thucydides-empiricism: added summer/winter chronology, grievances vs underlying cause, possession for all time, source
+con-cultural-relativism-boas <- scl-cultural-relativism: added methodological vs moral relativism, translation limit, Benedict's cases, Freeman controversy, source
+thk-max-gluckman <- thk-gluckman: added radio/Frazer lecture origins, Zulu women's rite, Incwala evidence and critique, Barotse jurisprudence 1965, department, Barnes/van Velsen, sources; no factual conflicts
+thk-sherry-ortner <- thk-ortner: added birthplace, 1970 PhD, posts, MacArthur, key symbols, Sexual Meanings, nature/culture grounds, ritual tensions, 2016 essay; no conflicts
+wrk-mind-of-primitive-man-boas <- wrk-mind-primitive: added within-group variation, independence of race/language/culture, Immigration Commission, period assumptions, source
+thk-franz-boas <- thk-boas: added race research/Scientists as Spies section and source; fixed Hunt parentage; kept opposition-to-colonialism wording (supported by secondary scholarship, e.g. H. Lewis)
+thk-znaniecki <- thk-florian-znaniecki: added early life, 1914-1933 moves, journal, Cultural Reality, disorganisation, Wiszniewski, knowledge roles; fixed 1954 body to American Sociological Society (renamed 1959, verified)
+thk-robert-merton <- thk-robert-k-merton: added background, pre-Columbia posts, 1957 presidency, 1936 article, dysfunction, science norms, 1965 book, strain legacy, source
+wrk-forest-of-symbols-turner <- wrk-forest-symbols: added composition, 1957 monograph, title, Betwixt and Between, other essays, further critiques, source
+wrk-goffman-presentation-self <- wrk-the-presentation-of-self-in-everyday-life: added given/given off, sincere/cynical, idealisation, other materials, discrepant roles, Gouldner, source
+wrk-liquid-modernity-bauman <- wrk-liquid-modernity: added de jure/de facto, producer/consumer, Panopticon, capital-labour, cloakroom communities, earlier works, sources
+wrk-suicide-durkheim <- wrk-suicide: added definition, rate stability, rejected explanations, Halbwachs, feminist/religion critiques, Baechler, sources
+wrk-orientalism-said <- wrk-orientalism: added latent/manifest, modernisation critique, German scholarship, al-Azm, Said's replies, sources
+wrk-outline-theory-practice-bourdieu <- wrk-outline-of-a-theory-of-practice: added rational choice, observer position, gift timing, doxa, practice theory reception, source
+wrk-protestant-ethic-spirit-capitalism-weber <- wrk-the-protestant-ethic-and-the-spirit-of-capitalism: added other ascetic groups, limits of causal claim, early replies, Tawney, comparative studies, source
+wrk-second-sex <- wrk-the-second-sex: added work not sufficient for liberation, group-comparison critique, defence on embodiment
+wrk-social-system-parsons <- wrk-the-social-system: added three action systems, status-role, full pattern variables, Shils volume, source
+
+sch-applied-anthropology-expanded <- scl-applied-anthropology: added indirect rule and Office of Indian Affairs, Benedict and incarceration-camp work, Vicos, Camelot/Thailand/Human Terrain, Asad and Deloria, applied versus engaged, sources
+sch-applied-anthropology-development <- scl-development-anthropology: added Institute for Development Anthropology, Putting People First, Mosse, household and consent limits, cash transfers and South–South aid, sources
+sch-digital-anthropology <- scl-digital-anthropology: added Hine, Gershon, infrastructure, uneven access and ethics of visible data, sources
+sch-linguistic-anthropology-expanded <- scl-linguistic-anthropology: added signing, later Sapir–Whorf label, Lucy and Levinson, Chomsky contrast, Basso, language ideology, Hill on endangerment rhetoric, sources
+sch-queer-anthropology <- scl-queer-anthropology: added AIDS-era research, Association for Queer Anthropology, Weston, Kulick, Valentine, third-gender caution, sources
+con-disability-anthropology <- scl-disability-anthropology: added Murphy on liminality, personhood beyond independent function, Deaf linguistic minority, social-model limits, Livingston on debility, adapted methods, sources
+
+con-sensory-anthropology <- scl-sensory-anthropology: added acoustemology, Seremetakis on sensory memory, Lévi-Strauss on sensible qualities, skill and the distribution of perception, Ingold's critique of separate channels, and limits of sensation, recording, and disability
+sch-medical-anthropology <- scl-medical-anthropology: added Rivers and Evans-Pritchard as precursors, cautions on culture-as-belief and romanticised local care, the social life of medicines, and Biehl on antiretroviral access
+sch-economic-anthropology-expanded <- scl-economic-anthropology: added Herskovits's 1952 revision, Schneider, Cook, Dalton and Bohannan, the caveat on Sahlins's time-use evidence, household and mode-of-production research, and later work on gifts, money, and markets
+sch-urban-anthropology-expanded <- scl-urban-anthropology: added anthropology in versus of the city, Redfield, the Kalela dance, Perlman, Bourgois, Caldeira, people as infrastructure, and megacity, informality, and digital-street points
+br-political-anthropology-subfield <- scl-political-anthropology: added Bailey and Barth, the 1966 process volume, Balandier, Fried and Service, Wolf, governmentality, and limits of access, safety, and definition
+sch-feminist-anthropology <- scl-feminist-anthropology: added Mead and Kaberry, Leacock, MacCormack and Strathern, Rosaldo's revision, Collier and Yanagisako, Mohanty, Butler, and debates on safety and recognition
+
+sch-psychological-anthropology <- scl-psychological-anthropology: added Sapir on the individual, Linton, national-character studies, Briggs, Rosaldo, Lutz, Csordas, the limits of translated emotion words, and a debates section
+sch-british-functionalism <- scl-british-functionalism: added derived needs, ordinary-life fieldwork, segmentary lineages, African Political Systems, ritual rebellion, synchronic and tautological critiques, and later successor approaches
+thk-gbateson <- thk-gregory-bateson: added ethos and eidos, the Balinese photographic argument, Ruesch, play signals, the cannot-leave condition and family blame, and information as a difference that produces a further difference
+thk-zora-neale-hurston <- thk-zora-hurston: added Mason's patronage, the narrative form of Mules and Men, composition in Haiti, Barracoon and the copied 1927 article, and Wright's review
+thk-becker <- thk-ernest-becker: added the Paris foreign service, Mead and Goffman on self-esteem, The Revolution in Psychiatry, Norman O. Brown, inequality and self-generating evil, and the replication debate
+thk-barbara-myerhoff <- thk-myerhoff: added the Chicago master's and USC chair, Wirikuta and the deer-maize-peyote triad, the Israel Levin Center and reconstructed dialogue, Michael White, A Crack in the Mirror, and In Her Own Time
+
+thk-victor-turner <- thk-turner: added degree year, bomb-disposal service, 1950–54 fieldwork, milk-tree exegesis, Muchona, novice treatment, liminoid choice, communitas types, pilgrimage, theatre, Eade–Sallnow and Bynum
+thk-clifford-geertz <- thk-geertz: added Social Relations doctorate, Hildred and the Java team, IAS chair, Weber’s webs, Javanese religious types, Agricultural Involution, later books, Negara criticism, 1965–66 and Writing Culture
+thk-douglas <- thk-mary-douglas: added 1951 doctorate, CBE 1992 and 2007 New Year Honours, pangolin initiates, Thought Styles subtitle
+stu-geertz-balinese-cockfight <- wrk-balinese-cockfight: added final-chapter reprint, village avoidance and teasing, cock identification, unchanged rank, etiquette, Crapanzano, 1965–66 killings
+wrk-purity-and-danger-douglas <- wrk-purity-danger: added shoes example, germs and ordering, anomaly responses, revised preface, Milgrom, transitional and gendered pollution, Natural Symbols
+wrk-african-political-systems-fortes-evans-pritchard <- wrk-african-systems: added wealth and power, small kinship polities, Radcliffe-Brown on force, official use and Gluckman’s colonial chapter, Smith, age sets, Tribes Without Rulers, Kuper on lineage models
+
+wrk-argonauts-western-pacific-malinowski <- wrk-argonauts: added Massim setting, Frazer preface, fieldwork charter, gimwali and delayed return, whole-ring point, primitive economic man, 1983 restudies
+stu-malinowski-kula-ring-exchange <- stu-argonauts-western-pacific: added Mailu and enemy-alien status, Frazer and subtitle, yam setting, canoe and peaceful-relations functions, colonial and functionalist critique
+wrk-structure-function-primitive-society-radcliffe-brown <- wrk-structure-function-primitive: added foreword and essay list, structural form, function essay, ritual and anxiety, sanctions and law, Chicago teaching
+wrk-coming-of-age-samoa-mead <- wrk-coming-age: added NRC fellowship, Boas foreword, taupou distinction, tests, Freeman's geography and Shankman on hoaxing, subtitle usage
+stu-evans-pritchard-the-nuer <- wrk-nuer: added aerial pacification, cattle ecology and time-space, section ranks and dominant clan, ordered anarchy, Gough, Rosaldo, Johnson, Hutchinson
+stu-leach-political-systems-highlands-burma <- wrk-political-systems: added Hpalang, Firth foreword, languages and Shan rice, myth and equilibrium models, power-motive critique, Scott and Barth on ethnicity
+
+wrk-interpretation-of-cultures-geertz <- wrk-interpretation-cultures: added fifteen-chapter plan, opening essay, mind and culture, religion and ideology essays, funeral and primordial politics, Cerebral Savage, Roseberry
+wrk-patterns-of-culture-benedict <- wrk-patterns-culture, wrk-patterns-of-culture: added publisher and Boas introduction, 1923 doctorate, arc and weak integration, Li An-che, colonial pressure on exchange, Chrysanthemum and the Sword
+stu-turner-schism-continuity <- wrk-schism-continuity: added Rhodes-Livingstone Institute, hunting and residence strain, selective appeals, censuses, redress forms, cross-village cults, order-renewal critique
+con-rite-of-passage <- con-rites-passage: added installation, rites that produce status, margin, non-passage rituals, restored rank, exclusion and violence
+con-bilateral-kinship <- con-bilateral: added cousin asymmetry, marriage of kindreds, Morgan, bilateral versus cognatic and ambilineal, uneven care, state registration
+con-shamanism <- con-shaman: added Shirokogoroff, cosmic axis, fear and payment, colonial bans and Taussig, neo-shamanic drumming, efficacy caution
+
+con-econ-anthropology-6 <- con-social-capital: added kinship gift and patronage uses, Coleman closure, Bourdieu volume and upkeep, Lin 2001
+tec-phenomenological-exploration <- tec-phenomenological-method: added Spinelli horizontalization, Jaspers, clinical neighbours, emergency limit
+sch-conversation-analysis <- br-conversation-analysis: added self-correction, openings and closings, participant relevance, Talk at Work, news-interview neutrality
+con-agency-anthropology <- con-agency: added Archer morphogenesis and internal conversation, schema transposition, Willis, Elder, measurement caution
+ins-content-analysis-method <- con-content-analysis: added Weber 1910, Lasswell, Kracauer, codebook and kappa, audience-effects limit, dictionary and classifier caveat
+con-habitus-anthropology <- con-habitus: added hexis, Panofsky, field and capital, Jenkins critique
+
+sch-cognitive-anthropology <- scl-cognitive-anthropology: added Frake, consensus analysis, cultural models, distributed cognition, spatial frames, and color-term order
+sch-comtean-positivism <- sch-comtean-positivism-english: added Saint-Simon and the École Polytechnique, the six-volume Course, limited experiment, the foresight slogan, altruism, and the logical-positivism distinction
+sch-durkheimian-structural-functionalism <- sch-durkheimian-functionalism-english: added the retrospective label, Année collaborators, the cause/function split, Halbwachs, Radcliffe-Brown's definition, and Merton on indispensability
+sch-marxist-classical-sociology <- sch-marxist-classical-sociology-english: added the 1859 preface, commodity fetishism, Kautsky, Gramsci, Braverman, and Weber on status and party
+sch-parsonian-structural-functionalism-agil <- sch-parsonian-agil-english: added Parsons's training, the Department's composition, the convergence thesis, the evolutionary turn, professions, and the circular-explanation critique
+sch-simmelian-formal-sociology <- sch-simmelian-formal-english: added the German Sociological Association, Vergesellschaftung, "How Is Society Possible?", secret societies, and Small's translations
+
+stu-evicted <- stu-evicted-desmond: added fixed-address barrier to job applications, and Harvard Society of Fellows then Harvard teaching before Princeton
+stu-gang-leader-for-a-day <- stu-gang-leader-for-a-day-venkatesh: added Robert Taylor Homes demolition 1998–2007 and the CHA Plan for Transformation, Chicago/Whyte lineage, family-or-business article, protection with extortion, and the Humphreys-style ethics critique
+stu-middletown <- stu-middletown-lynd: added the wage-versus-business class definitions and the point that residents still thought of the town as classless
+stu-street-corner-society-whyte <- stu-street-corner-society: added bowling as a marker of rank, the Chicago doctorate, and the observation that the account concentrates on men
+stu-whyte-street-corner-society <- wrk-street-corner-society: added the Nortons/Chick contrast, links to police and the settlement house, the 1955 methodological appendix, and Gans's Urban Villagers
+thk-ali-al-wardi <- thk-alwardi: added badawa/hadara, explanation of sectarian and tribal conflict through history rather than doctrine, and the non-survey character of the method
+
+thk-anselm-strauss <- thk-anselm-l-strauss: added full name and verified biography (Virginia, Chicago PhD, Lawrence, Lindesmith, Michael Reese, UCSF department), identity, awareness types, Boys in White, Social Psychology, and the power critique of negotiated order
+thk-hochschild <- thk-arlie-russell-hochschild: added Boston birth, degrees and Santa Cruz, the 1979 article, stalled revolution, bill-collector contrast, Commercialization of Intimate Life, Stolen Pride, and further criticisms of emotional labor
+thk-comte <- thk-auguste-comte: added Polytechnique 1814, the 1824 break, Clotilde's death, the Positivist Society, altruism, stage definitions, the 1822 plan, the 1848 view, Martineau, the Brazilian motto, and method limits
+thk-bell-hooks <- thk-bhooks: added the interlocking-domination formula, Talking Back, All About Love in the works list, and the imprecise-patriarchy objection
+thk-blumer <- thk-herbert-blumer: added the 1928 doctorate, Berkeley chair, group-position theory of prejudice, 1939 appraisal, 1954 theory essay, Movies and Conduct method, and Stryker
+thk-bourdieu <- thk-pierre-bourdieu: added Algiers teaching, Actes (1975), Paris death, convertible and symbolic capital, Rules of Art, Masculine Domination, Weight of the World as interviews, and the economism critique
+
+thk-malinowski <- thk-bronislaw-malinowski: added kula goods and routes, Mauss on the gift, magic and uncertainty, individual versus structural functionalism, Parsons, later fieldwork in Muslim societies
+thk-mbuber <- thk-buber: added relation to existentialism and the non-therapist influence on the therapeutic encounter; retargeted five content links to thk-mbuber
+thk-judith-butler <- thk-butler: added Subjects of Desire topic, Berkeley departments, Beauvoir, Bodies That Matter as a reply to critics, Giving an Account of Oneself, The Force of Nonviolence, empirical uptake of performativity
+thk-claude-levi-strauss <- thk-levistrauss: added Rousseau and the Durkheimian line, myth as the restatement of contradictions, comparative use of published ethnographies, Rubin's feminist reading of the exchange of women
+thk-coleman <- thk-james-s-coleman: added Purdue and industry work, founding of the Hopkins department, ASA 1992, network closure, resource control, Medical Innovation, the Civil Rights Act survey, the white-flight dispute, the selection-bias critique, Homans, analytical sociology
+thk-crenshaw <- thk-kimberlé-crenshaw: added Wisconsin Law School, color-blind rules, feminist and antiracist agendas, Words That Wound and the 1995 co-editors, Du Bois, the theory/method/heuristic debate, use in gender studies and public health, US political controversy over critical race theory
+
+thk-ralf-dahrendorf <- thk-dahrendorf: added ownership-control split, conflict as change, ligatures, organizational and post-capitalist criticisms, comparative method, Life Chances source
+thk-haraway <- thk-donna-haraway: nothing unique
+thk-durkheim <- thk-émile-durkheim: added rabbinical background, 1913 chair, Hubert and Halbwachs, Dreyfus defence, law as solidarity indicators, individualism essay, Primitive Classification, method rules, Mueller-Abrutyn and Xygalatas studies
+thk-goffman <- thk-erving-goffman: added Chicago teachers, Berkeley date, teams and definition of the situation, deference and demeanor, civil inattention, monasteries, frame transformations, further fields, Mead and Garfinkel
+thk-fanon <- thk-frantz-fanon: added Fort-de-France and Schoelcher, Tosquelles, 1956 resignation, El Moudjahid, Ghana, sociogeny, family relations, Capécia, Spivak
+thk-foucault <- thk-michel-foucault: added psychology training, Tunisia, GIP purpose, local power and resistance, governmentality definition, subject categories, Collège lectures, 1757 contrast, Nietzsche, agency and gender-colonialism criticism, Butler
+
+thk-homans <- thk-georg-homans: added Human Group variables and field cases, English villagers, named behavioral propositions, 1964 address, career landmarks, Emerson and later exchange research
+thk-simmel <- thk-georg-simmel: added doctorate and Berlin posts, antisemitism and Strasbourg death, sociation, divide and rule, tragedy of culture, the poor and the senses, Lukács, Durkheim's objection
+thk-martineau <- thk-harriet-martineau: added business failure and Daily News, Tynemouth and Middle East, domestic evidence, Deerbrook and Sick-Room, Poor Law stance, Tocqueville and standpoint comparison
+thk-spencer <- thk-herbert-spencer: added Economist years and inheritance, equal freedom, consciousness limit of the organic analogy, institution classes, bias and secondhand evidence, Brinton attribution, Asia readership, welfare criticism
+thk-howard-becker <- thk-howard-s-becker: added doing things together, hierarchy of credibility, musician and medical-student findings, limits of Outsiders, Evidence, Northwestern and Washington dates, Paris and San Francisco
+thk-wallerstein <- thk-immanuel-wallerstein: added 1959 doctorate, McGill Binghamton and Yale dates, Gulbenkian chair, endless accumulation and open outcome of crisis, volume I labor contrast, Frank's older world system
+
+thk-marx <- thk-karl-marx: added Paris partnership, Rheinische Zeitung, 1848-49, poverty, accumulation, Eighteenth Brumaire and factory-inspector case, political-economy categories, Weber's limits, early/late continuity, Gramsci; sources Brumaire, McLellan
+thk-lindatuhiwai <- thk-linda-tuhiwai-smith: nothing unique
+thk-maimonides-rambam <- thk-maimonides: added Guide audience and dates, idolatry etiology, thirteen principles, Mishneh Torah form, Dux neutrorum and Albert, Hebrew vocabulary; sources Davidson, Halbertal, Twersky
+thk-weber <- thk-max-weber: added Berlin doctorate, chair years, Vienna and Munich teaching, Marianne Weber, Protestant ethic caveat, non-Western and nationalism criticism, Simmel; sources Kaesler, Turner
+thk-parsons <- thk-talcott-parsons: added Malinowski, Harvard posts, Social Relations 1946, death in Munich, personality and cultural systems, evolutionary processes, Dahrendorf, Homans, Luhmann; sources Dahrendorf, Homans, Luhmann
+thk-phcollins <- thk-patricia-hill-collins: added Philadelphia, Harvard teaching degree, school work, matriarch and resistance, epistemology criteria, standpoint reply, Fighting Words and hip hop themes; sources 1986 article, Fighting Words
+

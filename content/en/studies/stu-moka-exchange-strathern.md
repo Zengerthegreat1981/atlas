@@ -12,7 +12,7 @@ dates: 1971
 active_start: 1964
 active_end: 1971
 edges: []
-related:
+related: []
 gaps: []
 sources:
   - Strathern, A. J. (1971). The Rope of Moka: Big-Men and Ceremonial Exchange in Mount Hagen, New Guinea. Cambridge University Press.

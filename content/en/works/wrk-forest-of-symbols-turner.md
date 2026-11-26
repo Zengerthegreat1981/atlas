@@ -53,9 +53,14 @@ Within each symbol, Turner distinguishes between a "sensory" (or orectic) pole (
 
 Turner also analyzes the *Nkang'a* rite, a girls' puberty ritual among the Ndembu, showing how the novice girl is covered with a blanket and made to lie motionless at the foot of a *mudyi* tree, an episode interpreted as the symbolic death of the girl as a child before her emergence as a woman ready for marriage and childbearing. It is a clear example of the triadic liminal structure (separation, liminality and reintegration) that Turner borrowed from van Gennep and documented ethnographically in detail.
 
+## Composition and Further Essays
+
+Most of the essays were revised from earlier articles and rest on fieldwork of the early 1950s. Turner's first monograph, *Schism and Continuity in an African Society* (1957), had examined Ndembu village politics. The title recalls Baudelaire's image of forests of symbols. The volume includes "Betwixt and Between: The Liminal Period in Rites de Passage", which gives special attention to the middle phase of van Gennep's scheme, when neophytes stand between the positions fixed by law, custom and ceremony, are structurally invisible and are often stripped of status and subjected to ordeals and instruction. Other essays treat the white, red and black colour classification, witchcraft and sorcery, and the ritual specialist Muchona. Critics have also noted that exegesis may depend heavily on a few key informants, and have asked how far the account of liminality can be generalised and whether it underplays the way rituals reproduce hierarchy and gender inequality.
+
 ## Sources
 
 - Turner, Victor. *The Forest of Symbols: Aspects of Ndembu Ritual*. Cornell University Press, 1967.
 - Turner, Victor. *The Ritual Process: Structure and Anti-Structure*. Aldine Publishing, 1969.
 - Van Gennep, Arnold. *Les Rites de passage*. Émile Nourry, 1909.
 - Douglas, Mary. *Purity and Danger: An Analysis of Concepts of Pollution and Taboo*. Routledge & Kegan Paul, 1966.
+- Turner, Victor. *Schism and Continuity in an African Society: A Study of Ndembu Village Life*. Manchester University Press, 1957.

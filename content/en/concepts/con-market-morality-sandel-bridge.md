@@ -4,6 +4,7 @@ id: "CON-20633"
 type: "مفهوم"
 part: bridges
 level: "متقدم"
+quality: "incomplete"
 title: "Markets and Morality: What Money Can't Buy"
 en: "Markets and Morality: What Money Can't Buy"
 crumb: "Bridges ← Concepts ← Markets and Morality: What Money Can't Buy"

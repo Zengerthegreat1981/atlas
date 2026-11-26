@@ -15,7 +15,7 @@ active_start: 1955
 active_end: 1993
 crumb: "Sociology ← Thinkers ← E. P. Thompson"
 edges: []
-related:
+related: []
 gaps: []
 ---
 

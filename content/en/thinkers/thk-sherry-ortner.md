@@ -51,6 +51,10 @@ Ortner's feminist work, from the 1974 essay through *Making Gender*, is concerne
 
 Her essays on the practice approach and on resistance have been widely used in teaching anthropological theory, and her Sherpa books are standard references on Himalayan Buddhism. Critics of the 1974 essay argued that the nature/culture opposition is not universal and reflects Western categories; Ortner herself later acknowledged that criticism. Others have argued that practice theory risks privileging human intentionality and underplaying non-human or structural forces, and that "agency" can be a vague term. In "Resistance and the Problem of Ethnographic Refusal" (1995) she herself criticised romanticised portrayals of resistance in anthropology.
 
+## Further Work and Career
+
+Born in Newark, New Jersey, Ortner received her Chicago doctorate in 1970. Her other posts included Sarah Lawrence College and the University of California, Berkeley, and she was awarded a MacArthur Fellowship in 1990. "On Key Symbols" (1973) distinguished summarising symbols, which condense a set of attitudes, from elaborating symbols, which supply categories or scenarios for ordering action. With Harriet Whitehead she edited *Sexual Meanings* (1981), which linked ideas about gender to systems of prestige. In the essay on nature and culture, her grounds for the symbolic association of women with nature included bodily processes, social roles tied to child-rearing and ideas about psychic structure; the argument concerned cultural construction, not natural inferiority. *Sherpas through Their Rituals* used public rites to bring out tensions such as that between household self-interest and Buddhist ideals of detachment and compassion. In "Dark Anthropology and Its Others" (2016) she considered the discipline's turn to inequality and suffering alongside work on ethics, wellbeing and resistance.
+
 ## Sources
 
 - Ortner, Sherry B. "Is Female to Male as Nature Is to Culture?" In *Woman, Culture, and Society*, edited by Michelle Z. Rosaldo and Louise Lamphere, 67-87. Stanford University Press, 1974.
@@ -63,3 +67,6 @@ Her essays on the practice approach and on resistance have been widely used in t
 - Ortner, Sherry B. *New Jersey Dreaming: Capital, Culture, and the Class of '58*. Duke University Press, 2003.
 - Ortner, Sherry B. *Anthropology and Social Theory: Culture, Power, and the Acting Subject*. Duke University Press, 2006.
 - Ortner, Sherry B. *Not Hollywood: Independent Film at the Twilight of the American Dream*. Duke University Press, 2013.
+- Ortner, Sherry B. "On Key Symbols." *American Anthropologist* 75, 1973.
+- Ortner, Sherry B., and Harriet Whitehead, eds. *Sexual Meanings: The Cultural Construction of Gender and Sexuality*. Cambridge University Press, 1981.
+- Ortner, Sherry B. "Dark Anthropology and Its Others: Theory since the Eighties." *HAU: Journal of Ethnographic Theory* 6(1), 2016.

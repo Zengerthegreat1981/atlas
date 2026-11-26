@@ -16,7 +16,7 @@ active_start: 1922
 active_end: 1945
 edges: []
 related:
-- id: "thk-bronislaw-malinowski", title: "Bronisław Malinowski", type: "مفكر"
+- id: "thk-malinowski", title: "Bronislaw Malinowski: Modern Ethnographic Fieldwork", type: "مفكر"
 gaps: []
 ---
 # Malinowskian Functionalism & Participant Observation

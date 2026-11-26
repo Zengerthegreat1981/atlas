@@ -11,7 +11,7 @@ dates: "1941–present"
 birth_country: "United States"
 edges:
 - rel: "belongs_to", target: "Medical Anthropology and Global Health", target_type: "مدرسة"
-related:
+related: []
 gaps: []
 ---
 # Arthur Kleinman

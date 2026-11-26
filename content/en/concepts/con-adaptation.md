@@ -10,7 +10,7 @@ crumb: "Anthropology ← Concepts ← Adaptation"
 dates: ""
 edges:
   - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
-related:
+related: []
 gaps: []
 ---
 

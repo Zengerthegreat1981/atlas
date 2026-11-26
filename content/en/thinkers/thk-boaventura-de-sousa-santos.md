@@ -4,6 +4,7 @@ id: SOC-14144
 type: مفكر
 part: sociology
 level: متوسط
+quality: "unverified"
 title: Boaventura de Sousa Santos
 en: Boaventura de Sousa Santos
 crumb: "Sociology ← Boaventura de Sousa Santos"
@@ -12,8 +13,7 @@ active_start: 1940
 active_end: مستمر
 edges: []
 related: []
-gaps:
-- Contemporary empirical examples: not yet covered
+gaps: []
 sociological_tradition: other
 sociological_paradigm: micro-macro
 ---
@@ -56,6 +56,10 @@ Santos's work connects with legal pluralism, epistemicide, coloniality, hegemony
 
 His concepts are widely used in decolonial studies, legal sociology and discussions of social movements in Latin America, Africa and Europe. Critics argue that his categories risk romanticizing popular knowledge, that "the South" is defined loosely, and that his broad syntheses sit uneasily with detailed empirical evidence.
 
+## Contemporary Empirical Examples
+
+Santos returned to participatory budgeting after the 1998 article. In a 2005 chapter he summarises empirical research in Porto Alegre conducted between 1995 and 2002, with the most intensive fieldwork in 1995–1997 and continued observation of the budget's evolution until January 2002. He places the experiment inside a contrast between neoliberal globalisation and what he calls counter-hegemonic globalisation from below, and he treats the budget as subaltern cosmopolitan politics: a local struggle whose design has been taken up elsewhere. By the time of that chapter, he reports, the United Nations had treated Porto Alegre's arrangement as one of the more successful experiments in urban management, and the model had been adopted in 194 cities in Brazil as well as in other cities in Latin America and Europe. The fifteenth anniversary of the measure fell in 2004. The chapter therefore extends the earlier case in time and records a pattern of diffusion, while still centring on one Brazilian municipality rather than offering a comparative evaluation of those later cities.
+
 ## Sources
 
 - Boaventura de Sousa Santos, Toward a New Common Sense (1995)
@@ -65,3 +69,4 @@ His concepts are widely used in decolonial studies, legal sociology and discussi
 - Boaventura de Sousa Santos, The Law of the Oppressed: The Construction and Reproduction of Legality in Pasargada, Law & Society Review (1977)
 - Boaventura de Sousa Santos, Participatory Budgeting in Porto Alegre: Toward a Redistributive Democracy, Politics & Society (1998)
 - Raewyn Connell, Southern Theory (2007)
+- Boaventura de Sousa Santos, "Two Democracies, Two Legalities: Participatory Budgeting in Porto Alegre, Brazil," in *Law and Globalization from Below*, edited by Boaventura de Sousa Santos and César A. Rodríguez-Garavito (2005).

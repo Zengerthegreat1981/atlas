@@ -52,9 +52,15 @@ Herodotus was implicitly criticized by his younger contemporary Thucydides, who 
 
 However, twentieth-century scholarship, inaugurated by Arnaldo Momigliano and expanded by Donald Lateiner and Rosalind Thomas, fundamentally re-evaluated Herodotus. Scholars have argued that Herodotus was a sophisticated participant in the fifth-century BC intellectual revolution, anticipating modern ethnographic and oral history techniques. Herodotus was not translated during the classical Abbasid translation movement; later Muslim authors such as al-Mas'udi independently combined geography, ethnography, and history.
 
+## Aims, Travels and Corroboration
+
+The preface to the *Histories* states a double aim: to keep the memory of great human deeds from fading, and to explain why Greeks and non-Greeks came to fight one another. In Egypt Herodotus travelled up the Nile as far as Elephantine (Aswan) and consulted priests; his inquiries also took in Tyre, Babylon and the Black Sea region, and he is reported to have given public readings in Athens. His reliability was attacked in antiquity, notably in Plutarch's *On the Malice of Herodotus*, and remains debated. Modern evidence, including the decipherment of the Behistun Inscription and the excavation of Scythian burial mounds, has corroborated some of his reports while leaving others doubtful. François Hartog has examined how his representation of other peoples also reflects Greek self-understanding.
+
 ## Sources
 
 - Herodotus. *The Histories*. Translated by Aubrey de Sélincourt, revised with introduction and notes by John Marincola. Penguin Classics, 2003.
 - Momigliano, Arnaldo. "The Place of Herodotus in the History of Historiography." *History*, vol. 43, no. 147, 1958, pp. 1–13.
 - Lateiner, Donald. *The Historical Method of Herodotus*. University of Toronto Press, 1989.
 - Thomas, Rosalind. *Herodotus in Context: Ethnography, Science and the Art of Persuasion*. Cambridge University Press, 2000.
+- Hartog, François. *The Mirror of Herodotus: The Representation of the Other in the Writing of History*. Translated by Janet Lloyd. University of California Press, 1988.
+- Dewald, Carolyn, and John Marincola, eds. *The Cambridge Companion to Herodotus*. Cambridge University Press, 2006.

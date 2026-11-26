@@ -4,6 +4,7 @@ id: "THK-11801"
 type: "مفكر"
 part: "religious-studies"
 level: "متقدم"
+quality: "unverified"
 religious_tradition: "Bahá'í Faith"
 study_approach: "Academic critical-historical"
 title: "Moojan Momen"
@@ -18,8 +19,7 @@ edges:
 - rel: "belongs_to", target: "Academic Study of the Bahá'í Faith (Baha'i Studies)", target_type: "مدرسة"
 related:
 - id: "thk-the-bab", title: "The Báb (Ali Muhammad Shirazi)", type: "مفكر"
-gaps:
-  - "Details of his professional and academic career: not yet covered"
+gaps: []
 ---
 
 # Moojan Momen
@@ -46,6 +46,12 @@ Momen also contributed as an editor to the series published by Kalimát Press in
 
 Momen consistently distinguishes between what the official Bahá'í sources say about themselves and what the independent documents contemporary with the events reveal. This allows a critical historical examination that avoids both the trap of the internal promotional narrative and the trap of the hostile polemical rejection that dominated some earlier Shi'i and orientalist writings on the Bábí movement. This methodological distinction is what gives his work an academic credibility that goes beyond his personal denominational position.
 
+## Professional and academic career
+
+Momen's own curriculum vitae, hosted by the Wilmette Institute, sets the scholarly work inside a medical career. Born in Iran in 1950, he moved to England in 1955 after his mother was widowed, attended schools in Bournemouth and Taunton, studied natural and medical sciences at Cambridge, graduated in 1971, finished clinical training at Guy's Hospital, and qualified in 1974. After five years of hospital medicine he returned to Cambridge for the Arabic and Islamic course. From then on he combined medical practice with research on the Middle East, Islam, Iranian history, religion and the Bahá'í Faith, and he also published on genocide and on social and economic development.
+
+The same CV records postgraduate lectures at Cambridge, Oxford, the School of Oriental and African Studies and Hebrew University, a 1996 lecture tour in China, and regular papers for British associations in the study of religion and of the Middle East. He is a Fellow of the Royal Asiatic Society. Listed encyclopedia work includes *Encyclopaedia Iranica* and *The Oxford Encyclopedia of the Modern Islamic World*. Articles include "The Social Basis of the Babi Upheavals in Iran" (*International Journal of Middle East Studies*, 1983) and, with Juan R. Cole, "Mafia, Mob and Shi'ism" (*Past and Present*, 1986). The CV also notes voluntary research at the Bahá'í World Centre in Haifa.
+
 ## Other Scholars in the Field
 
 Momen's position as a believing scholar raises the question of how belonging and academic objectivity can be combined. His approach differs from that of scholars such as Denis MacEoin, who studied the Bábí movement from a more externally critical position.
@@ -61,3 +67,6 @@ In his general works Momen describes the development of the Bahá'í administrat
 - Momen, M. (1985). *An Introduction to Shi'i Islam*. Yale University Press.
 - Momen, M., ed. (1982). *Studies in Bábí and Bahá'í History*, Vol. 1. Kalimát Press.
 - Momen, M., ed. (1988). *Studies in Honor of the Late Hasan M. Balyuzi* (Studies in the Bábí and Bahá'í Religions, Vol. 5). Kalimát Press.
+- Momen, Moojan. Curriculum vitae (Wilmette Institute). Born 1950; Cambridge and Guy's Hospital training; combined medical practice and research.
+- Momen, Moojan (1983). "The Social Basis of the Babi Upheavals in Iran (1848–53): A Preliminary Analysis." *International Journal of Middle East Studies* 15.
+- Momen, Moojan, and Juan R. Cole (1986). "Mafia, Mob and Shi'ism: The Rebellion of Ottoman Karbala 1823–43." *Past and Present* 112.

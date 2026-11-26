@@ -8,7 +8,7 @@ title: "Historical Objectivity"
 en: "Historical Objectivity"
 crumb: "Historiography ← Concepts ← Historical Objectivity"
 edges: []
-related:
+related: []
 gaps: []
 ---
 

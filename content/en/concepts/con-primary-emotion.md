@@ -15,7 +15,7 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "Emotion-Focused Therapy", target_type: "مدرسة"
 - rel: "developed_by", target: "Leslie S. Greenberg", target_type: "مفكر"
-related:
+related: []
 gaps: []
 ---
 # Primary Adaptive Emotions

@@ -14,7 +14,7 @@ language: "English"
 part: "sociology"
 edges:
 - rel: "belongs_to", target: "Fraser's Social Reproduction and the Crisis of Care", target_type: "مدرسة"
-related:
+related: []
 gaps: []
 ---
 

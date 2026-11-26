@@ -19,8 +19,7 @@ sources:
   - Lévi-Strauss, Claude. Totemism. Translated by Rodney Needham, Beacon Press, 1963.
   - Leach, Edmund. Lévi-Strauss. Fontana, 1970.
   - Lévi-Strauss, Claude. The Raw and the Cooked. Harper and Row, 1969.
-gaps:
-  - "Alternative understandings of totemism and classification from non-Western perspectives: not yet covered"
+gaps: []
 ---
 
 # The Savage Mind
@@ -101,8 +100,14 @@ Postmodern critics argued that structuralism's emphasis on underlying systems ri
 
 However, contemporary readings are often more critical. Scholars recognize the work's anti-racist contribution and the insight that diverse peoples engage in logical thought, while being attentive to postcolonial critique, the limitations of structural analysis, and the importance of practice and agency. Contemporary work builds on structuralist insights while deploying more nuanced, collaborative, and reflexive approaches that center non-Western perspectives and knowledge systems as valuable in themselves rather than as illustrations of abstract principles.
 
+## Kinship with species, not a code of symbols
+
+Lévi-Strauss treats totemism as a way of classifying: natural species stand for social groups, and the differences among species map differences among groups. Aboriginal accounts recorded from another part of Australia do not use that picture. Deborah Bird Rose's ethnography of Yarralin, in the Victoria River valley, describes kinship that joins people with other living beings and with country marked by ancestral tracks. In a 2021 essay she warns that the anthropological word "totemism" misleads if it means that an animal merely symbolizes, or stands for, a human group. For the multispecies kindreds she discusses, the link is shared bodily substance through descent from common ancestors. A matrilineal kindred of this sort, locally *ngurlu* ("flesh" or "body"), includes both people and a particular species; she gives the flying-fox kindred of a Yarralin lawman as an example. Classification is still at work, but the relation is one of co-substantial kin and of care for those kin, not a logical code in which nature is only good to think.
+
 ## Sources
 
 - Lévi-Strauss, Claude. *The Savage Mind* (*La Pensée sauvage*). University of Chicago Press, 1966. Original French edition, Plon, 1962.
 - Lévi-Strauss, Claude. *Totemism*. Translated by Rodney Needham. Beacon Press, 1963.
 - Leach, Edmund. *Lévi-Strauss*. Fontana, 1970.
+- Rose, Deborah Bird. *Dingo Makes Us Human: Life and Land in an Australian Aboriginal Culture*. Cambridge University Press, 1992.
+- Rose, Deborah Bird. "Participation." *e-flux Journal*, no. 121 (October 2021).

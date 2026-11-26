@@ -13,7 +13,7 @@ edges:
   - rel: "founder_of", target: "Manchester School Anthropology", target_type: "تيار"
 related:
   - id: "thk-edmund-leach", title: "Edmund Leach", type: "مفكر"
-  - id: "thk-mary-douglas", title: "Mary Douglas", type: "مفكر"
+  - id: "thk-douglas", title: "Mary Douglas: Purity, Danger, and Categorical Thought", type: "مفكر"
 gaps: []
 ---
 
@@ -57,6 +57,10 @@ In *The Judicial Process among the Barotse of Northern Rhodesia* (1955), Gluckma
 
 Gluckman made case-based ethnography a method for theory, and he established political and legal anthropology as central fields. Critics have argued that his analysis of rituals of rebellion is itself functionalist, assuming that ritual serves integration, and that the "safety valve" interpretation is difficult to test. Others contend that it underestimates the possibility of real social transformation, that his framework gives little attention to gender, and that African politics and resistance require more explicit historical analysis than his approach provided. His work nevertheless shaped later research on ritual, conflict, law, and social change.
 
+## Further Detail on the Work
+
+*Custom and Conflict in Africa* grew out of radio lectures, and *Rituals of Rebellion* was first delivered as a Frazer Lecture. Among the cases in that lecture was a Zulu agricultural rite in which women took on men's dress and tasks and behaved with licence; his knowledge of the Swazi *Incwala* rested largely on Hilda Kuper's research, and later scholars questioned his reading of it as an expression of hostility to the king. Gluckman argued that such rites were possible where people disputed who should hold authority without questioning the system itself. In law, *The Ideas in Barotse Jurisprudence* (1965) went on to examine Lozi concepts of property, obligation and liability. He founded the Department of Social Anthropology and Sociology at Manchester. John Barnes and Jaap van Velsen also belonged to the Manchester circle, and van Velsen later described its approach as the extended-case method and situational analysis.
+
 ## Sources
 
 - Gluckman, Max. "Analysis of a Social Situation in Modern Zululand." *Bantu Studies* 14 (1940): 1–30, 147–174; reprinted by Manchester University Press for the Rhodes-Livingstone Institute, 1958.
@@ -66,3 +70,5 @@ Gluckman made case-based ethnography a method for theory, and he established pol
 - Gluckman, Max. *Order and Rebellion in Tribal Africa*. Cohen and West, 1963.
 - Gluckman, Max. *Politics, Law and Ritual in Tribal Society*. Blackwell, 1965.
 - Kuper, Adam. *Anthropology and Anthropologists: The Modern British School*. Routledge, 1996.
+- Gluckman, Max. *The Ideas in Barotse Jurisprudence*. Yale University Press, 1965.
+- Brown, Richard. "Passages in the Life of a White Anthropologist: Max Gluckman in Northern Rhodesia." *Journal of African History* 20 (1979).

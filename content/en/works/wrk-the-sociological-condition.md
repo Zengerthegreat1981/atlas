@@ -4,6 +4,7 @@ id: SOC-14320
 type: عمل
 part: sociology
 level: متوسط
+quality: "unverified incomplete"
 title: The Sociological Condition
 en: The Sociological Condition
 crumb: "Sociology ← The Sociological Condition"

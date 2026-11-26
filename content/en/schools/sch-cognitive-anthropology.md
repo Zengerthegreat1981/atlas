@@ -60,6 +60,14 @@ One of the earliest applications of this method was the analysis of kinship term
 
 The field's lasting contribution is a reminder that understanding another culture begins with learning its own internal categories and concepts, before any attempt at comparison or generalization across cultures.
 
+## Later Methods and the Broader Field
+
+Charles Frake developed ethnographic semantics by eliciting the categories people use for disease, kin, and the natural world. His study of disease classification among the Subanun of the Philippines treated a folk taxonomy with the formal care given to a grammar. Methods that grew from this program include sorting tasks, pile sorts, and triad tests, in which people group items or judge which two of three are most alike, and free listing, which asks people to name the members of a category and records which items come to mind first. Consensus analysis, developed by A. Kimball Romney with Susan Weller and William Batchelder, estimates whether a group shares one cultural model by measuring agreement among informants and, at the same time, how much each informant knows about the domain.
+
+In the 1970s and 1980s the field moved from classification alone toward reasoning, memory, and the models people use when they act. Roy D'Andrade's history of the field distinguished shared cultural models, the taken-for-granted understandings that guide everyday life, from the study of individual minds. Edwin Hutchins argued that thinking is often distributed across people and tools, as when a ship's crew navigates together. Stephen Levinson showed that the spatial frames a language uses, such as left and right, cardinal directions, or uphill and downhill, are linked to how speakers remember routes and find their way. Berlin and Kay's sequence of basic color terms, already treated above as a regular order, runs in their account from black and white through red toward green, yellow, and blue.
+
+The same formal methods later informed studies of expertise and of how people categorize illness, risk, and economic life, and a further line of research asks how cultural models of the self bear on mental health and how religious ideas and rituals are remembered.
+
 ## Sources
 
 - Goodenough, Ward H. "Cultural Anthropology and Linguistics." *Report of the Seventh Annual Round Table Meeting on Linguistics and Language Study*, Georgetown University Press, 1957, pp. 167–173.
@@ -67,3 +75,8 @@ The field's lasting contribution is a reminder that understanding another cultur
 - Pike, Kenneth L. *Language in Relation to a Unified Theory of the Structure of Human Behavior*, 1954 onwards.
 - Berlin, Brent, and Paul Kay. *Basic Color Terms: Their Universality and Evolution*. University of California Press, 1969.
 - Tyler, Stephen A. (ed). *Cognitive Anthropology*. Holt, Rinehart and Winston, 1969.
+- Frake, Charles O. "The Ethnographic Study of Cognitive Systems." In *Anthropology and Human Behavior*, edited by Thomas Gladwin and William C. Sturtevant, 1962.
+- Romney, A. Kimball, Susan C. Weller, and William H. Batchelder. "Culture as Consensus: A Theory of Culture and Informant Accuracy." *American Anthropologist* 88, no. 2 (1986): 313–338.
+- Hutchins, Edwin. *Cognition in the Wild*. MIT Press, 1995.
+- D'Andrade, Roy G. *The Development of Cognitive Anthropology*. Cambridge University Press, 1995.
+- Levinson, Stephen C. *Space in Language and Cognition: Explorations in Cognitive Diversity*. Cambridge University Press, 2003.

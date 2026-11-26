@@ -50,6 +50,10 @@ Critics have questioned the book on several fronts. Some argue that the metaphor
 
 *Liquid Modernity* has only gained relevance since its publication. The gig economy, zero-hours contracts, and platform work have made flexible, insecure labour the norm for millions. Relationships conducted through dating apps, the erosion of long-term employment, and the constant demand to adapt and reskill all confirm Bauman's diagnosis. The book also speaks to the politics of the present: the longing for community that Bauman analysed helps explain the appeal of nationalism and of movements that promise to restore solidity to a liquid world.
 
+## Further Arguments in the Chapters
+
+On emancipation, Bauman revisits the concerns of critical theory and contrasts being an individual by right with having the practical capacity to determine one's own life; the gap between the two has widened, and private troubles are less readily translated into public issues. On individuality, he contrasts a producer society oriented to norms and long-term goals with a consumer society organised around choice and desire that has no fixed end point. He links the mobility of power to the claim that it no longer depends chiefly on the close engagement of supervisors and supervised represented by the Panopticon. On work, he describes the weakening of the long-term mutual dependence of capital and labour. On community, he describes short-lived "cloakroom" or "carnival" communities that gather around a spectacle and disperse without creating lasting solidarity. The book followed *Modernity and Ambivalence* (1991) and *Globalization: The Human Consequences* (1998), and the vocabulary of liquidity, extended in works including *Liquid Fear* (2006), increasingly replaced that of postmodernity in his writing.
+
 ## Sources
 
 - Bauman, Zygmunt. *Liquid Modernity*. Cambridge: Polity Press, 2000.
@@ -62,3 +66,6 @@ Critics have questioned the book on several fronts. Some argue that the metaphor
 - Atkinson, Will. *Class, Individualization and Late Modernity: In Search of the Reflexive Worker*. Basingstoke: Palgrave Macmillan, 2010.
 - Silva, Jennifer M. *Coming Up Short: Working-Class Adulthood in an Age of Uncertainty*. New York: Oxford University Press, 2013.
 - Pugh, Allison J. *The Tumbleweed Society: Working and Caring in an Age of Insecurity*. New York: Oxford University Press, 2015.
+- Bauman, Zygmunt. *Modernity and Ambivalence*. Cambridge: Polity Press, 1991.
+- Bauman, Zygmunt. *Globalization: The Human Consequences*. Cambridge: Polity Press, 1998.
+- Bauman, Zygmunt. *Liquid Fear*. Cambridge: Polity Press, 2006.

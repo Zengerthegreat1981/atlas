@@ -4,6 +4,7 @@ id: "CON-20306"
 type: "مفهوم"
 part: "legal-theory"
 level: "متوسط"
+quality: "unverified"
 title: "Madhhab as a Legal-School Institution"
 en: "Madhhab as a Legal-School Institution"
 crumb: "Legal Theory ← Concepts ← Madhhab as a Legal-School Institution"
@@ -15,8 +16,7 @@ edges:
 related:
 - id: "sch-usul-al-fiqh-legal-theory", title: "Usul al-Fiqh as Legal Theory", type: "مدرسة"
 - id: "con-ikhtilaf-juristic-disagreement", title: "Juristic Disagreement (Ikhtilaf)", type: "مفهوم"
-gaps:
-  - "Comparison of the mechanisms of scholarly transmission and licensing (ijaza) across the schools: not yet covered"
+gaps: []
 ---
 
 # Madhhab as a Legal-School Institution
@@ -34,6 +34,10 @@ Early Islamic jurisprudential history saw a wider diversity of schools (such as 
 ## School Affiliation and Social Membership
 
 In medieval Islamic societies with multiple schools (such as Egypt and the Levant), school affiliation sometimes determined the judge hearing an individual's case (in 663/1265 the Mamluk sultan Baybars appointed chief judges from each of the four Sunni schools in Cairo), and endowments (*awqaf*) were sometimes designated for teaching a particular school in madrasas, so that the school became an actual social institution with practical effects that go beyond the mere theoretical difference of juristic opinion.
+
+## Licensing and transmission across the schools
+
+George Makdisi describes a licence (*ijaza*) that stayed a personal act of a master, not a diploma issued by the college. It began as permission to transmit a text, especially hadith, by audition or reading. Once colleges of law existed, two further licences became usual: permission to teach law (*ijaza li-l-tadris*) and permission to issue opinions (*ijaza li-l-ifta*). The path he reconstructs is shared by the Sunni schools that staffed the madrasas: study of the school's law and of disputed questions, practice in disputation, then the licence, then an inaugural lesson. What differed was the endowment and the books. A madrasa or a chair was often restricted to one school, and by the later thirteenth century, in Makdisi's account of Mamluk practice, a professor of law, a judge, a preacher or a prayer leader was appointed only from the four surviving Sunni schools. The student "read the law of his school and the law of disagreement." The licence therefore authorized a person formed inside one school's texts, even though the form of the licence itself was not a different invention in each school. The comparison the colleges support is that transmission ran through the same master-to-student licence, while membership, endowed posts and the corpus being licensed were school-specific.
 
 ## Criticism of Strict Adherence to a School
 
@@ -55,3 +59,4 @@ The Ibadi school, associated with the early authority Jabir ibn Zayd, survived c
 - Momen, Moojan. *An Introduction to Shi'i Islam*. Yale University Press, 1985.
 - Haykel, Bernard. *Revival and Reform in Islam: The Legacy of Muhammad al-Shawkani*. Cambridge University Press, 2003.
 - Wilkinson, John C. *Ibadism: Origins and Early Development in Oman*. Oxford University Press, 2010.
+- Arjmand, Reza. "Ijāzah: Methods of Authorization and Assessment in Islamic Education." In *Handbook of Islamic Education*, edited by Holger Daun and Reza Arjmand, 2018.

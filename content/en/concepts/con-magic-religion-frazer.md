@@ -4,6 +4,7 @@ id: "CON-19084"
 type: "مفهوم"
 part: "anthropology"
 level: "متوسط"
+quality: "unverified"
 title: "Magic and Religion in Frazer"
 en: "Magic and Religion in Frazer"
 crumb: "Anthropology ← Concepts ← Magic and Religion in Frazer"
@@ -12,7 +13,7 @@ active_end: 1922
 study_approach: "comparative evolutionary"
 edges:
 - rel: "belongs_to", target: "Comparative Religion and Frazer", target_type: "مدرسة"
-related:
+related: []
 gaps: []
 ---
 # Magic and Religion in Frazer

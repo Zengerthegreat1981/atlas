@@ -4,6 +4,7 @@ id: SOC-14482
 type: دراسة
 part: sociology
 level: متوسط
+quality: "unverified incomplete"
 title: "Schoolyard Stories"
 en: Schoolyard Stories
 crumb: "Sociology ← Schoolyard Stories"

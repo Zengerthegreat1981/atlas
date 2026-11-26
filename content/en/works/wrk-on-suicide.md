@@ -4,6 +4,7 @@ id: SOC-14313
 type: عمل
 part: sociology
 level: متوسط
+quality: "unverified"
 title: "Suicides (Les Suicides)"
 en: Suicides
 crumb: "Sociology ← Works ← Suicides"
@@ -12,8 +13,7 @@ active_start: 1975
 active_end: مستمر
 edges: []
 related: []
-gaps:
-- Detailed empirical case studies: not yet covered
+gaps: []
 ---
 
 # Suicides (Les Suicides)
@@ -27,6 +27,10 @@ Baechler's starting point is a definition. Suicide, for him, is not an act but a
 ## The Typology: Four Types, Eleven Meanings
 
 From his cases Baechler derives a typology of the typical meanings suicide can carry, grouped into four broad families. The *escapist* family covers suicide as flight from an unbearable situation, as grief following a loss, and as self-punishment. The *aggressive* family covers suicide as crime, as vengeance, as blackmail, and as appeal, the cry for help addressed to others. The *oblative* family covers suicide as sacrifice, offered for a cause or a person, and as transfiguration or passage to another state of existence. The *ludic* family covers suicide as ordeal, a test of fate or courage, and as game, a play with death. The boundaries are porous: the same death can carry several meanings at once, and the typology is a map of possibilities, not a set of boxes. What the typology establishes is that suicide is not one thing. Durkheim's four types described variations in rates; Baechler's describe variations in sense.
+
+## Empirical Cases
+
+Edwin Shneidman's 1980 review of the English edition describes the book as a case-by-case presentation of 127 suicides, not a study of rates or of high-risk groups. Most of the volume, he writes, discusses the typology through dozens of illustrations, typically a paragraph or two each, rather than through long biographies. He notes that oblative suicides, of sacrifice or of passage to another state, are treated as almost unknown in ordinary life, and that any such map has to make room for seppuku and for the self-immolation of Buddhist monks. For the ludic family he singles out Russian roulette as a clear instance of playing with death, beside the ordeal undertaken to prove oneself. Around these sketches Baechler also places the acts in wider settings: the body, psychiatry, the family, social position, age and sex, habits of mind, alcohol and drug use, and external pressures such as war and what the review calls the secularization of charity. The review does not reproduce the individual narratives, so the cases are known here by their number, length and the kinds of example Shneidman flags, not by named persons.
 
 ## The Critique of Durkheim
 
@@ -42,5 +46,6 @@ The book was received as a major contribution to suicidology and to the sociolog
 - Baechler, Jean. *Suicides*, translated by Barry Cooper. New York: Basic Books, 1979.
 - Durkheim, Émile. *Le Suicide: Étude de sociologie*. Paris: Félix Alcan, 1897.
 - Shneidman, Edwin S. *Definition of Suicide*. New York: John Wiley and Sons, 1985.
+- Shneidman, Edwin S. Review of *Suicides*, by Jean Baechler. *Contemporary Psychology* 25, no. 2 (1980): 108-109.
 - Douglas, Jack D. *The Social Meanings of Suicide*. Princeton: Princeton University Press, 1967.
 - Maris, Ronald W., Alan L. Berman, and Morton M. Silverman. *Comprehensive Textbook of Suicidology*. New York: Guilford Press, 2000.

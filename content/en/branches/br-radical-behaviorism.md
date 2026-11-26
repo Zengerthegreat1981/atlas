@@ -14,7 +14,7 @@ language: "English"
 part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-behaviorism", target_type: "مدرسة"
-related:
+related: []
 gaps: []
 ---
 

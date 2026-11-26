@@ -15,7 +15,7 @@ active_end: 1994
 edges:
 - rel: "belongs_to", target: "Philosophy of Science", target_type: "مدرسة"
 related:
-- id: "sch-phil-science", title: "Philosophy of Science (umbrella)", type: "مدرسة"
+- id: "fld-philosophy-of-science", title: "Philosophy of Science", type: "مجال"
 - id: "thk-thomas-kuhn", title: "Thomas Samuel Kuhn", type: "مفكر"
 gaps: []
 ---

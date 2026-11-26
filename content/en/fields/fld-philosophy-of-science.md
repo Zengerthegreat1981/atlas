@@ -51,6 +51,18 @@ The field draws on and informs epistemology (evidence, justification), logic and
 
 Falsificationism is not a complete account of how science works, even for Popper's critics who value it. Kuhn did not say science is irrational. Calling something "just a theory" misunderstands the term, since scientific theories are well-supported frameworks. Finally, the fact that science is fallible and revisable does not mean that all claims are equally uncertain.
 
+## Further developments
+
+The Vienna Circle set out its programme in the 1929 manifesto *The Scientific Conception of the World*. Rudolf Carnap's *Logical Foundations of Probability* (1950) attempted to build an inductive logic, and Hans Reichenbach's *Experience and Prediction* (1938) distinguished the context of discovery from the context of justification. Richard Boyd developed the argument from the success of science into an abductive defence of realism. The semantic view, associated with Patrick Suppes and Bas van Fraassen, treats a theory as a family of models rather than a set of sentences. Feyerabend's *Science in a Free Society* (1978) argued for separating science from the state. David Bloor's *Knowledge and Social Imagery* (1976) set out the Strong Programme, which asks that true and false beliefs be explained by the same kind of causes, and Evelyn Fox Keller's *Reflections on Gender and Science* (1985) criticised masculine imagery in the language of science.
+
+## Philosophy and history of science
+
+Logical positivists and early falsificationists tended to treat philosophy of science as an autonomous, normative study of justification and logical reconstruction, set apart from the contingencies of discovery. N. R. Hanson's *Patterns of Discovery* (1958) and especially Kuhn's work prompted a historical turn, which held that normative models should be tested against actual scientific practice. Lakatos, adapting a dictum of Kant, argued that philosophy and history of science each need the other. Joint departments of history and philosophy of science were created, but tensions persist: historians tend to stress local context, archives and social detail, while philosophers often seek general epistemic norms.
+
+## Questions in the Arabic-Islamic tradition and modern Arabic scholarship
+
+Ibn al-Haytham (c. 965-1040) combined observation, experiment and mathematical demonstration in his *Book of Optics* and criticised Ptolemy in *Doubts Concerning Ptolemy*. Al-Biruni (973-1048) is noted for his comparative method and his checking of reports and measurements. Al-Ghazali, in *The Incoherence of the Philosophers*, denied a necessary connection between cause and effect, and Ibn Rushd defended causality in *The Incoherence of the Incoherence*. Ibn Khaldun's *Muqaddima* (1377) discussed the conditions of a science of civilisation and the criticism of reports. In the modern period, Zaki Naguib Mahmoud's *Positivist Logic* (1951) transmitted positivist ideas, Mohammed Abed al-Jabri wrote an introduction to the philosophy of science, Yumna Tarif al-Khouli wrote a history of twentieth-century philosophy of science, and Shawqi Galal translated Kuhn's *Structure* into Arabic (1992).
+
 ## Sources
 
 - Karl Popper, *The Logic of Scientific Discovery* (1959 English edition)
@@ -59,3 +71,7 @@ Falsificationism is not a complete account of how science works, even for Popper
 - Carl G. Hempel, *Aspects of Scientific Explanation* (1965)
 - Imre Lakatos, "Falsification and the Methodology of Scientific Research Programmes" (1970)
 - James Ladyman, *Understanding Philosophy of Science* (2002)
+- A. I. Sabra, *The Optics of Ibn al-Haytham* (Warburg Institute, 1989)
+- Yumna Tarif al-Khouli, *Philosophy of Science in the Twentieth Century: Origins, Harvest, Future Prospects* (Alam al-Ma'rifa, 2000)
+- Paul Feyerabend, *Against Method* (1975)
+- Imre Lakatos and Alan Musgrave, eds., *Criticism and the Growth of Knowledge* (1970)

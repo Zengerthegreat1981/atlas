@@ -14,7 +14,7 @@ active_start: 1996
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "Analytic Philosophy of Mind", target_type: "مدرسة"
-related:
+related: []
 gaps: []
 ---
 # David Chalmers

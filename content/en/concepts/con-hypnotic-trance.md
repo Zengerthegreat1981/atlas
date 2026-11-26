@@ -11,7 +11,7 @@ active_end: "مستمر"
 part: "psychology"
 edges:
 - rel: "belongs_to", target: "Clinical Hypnotherapy", target_type: "تيار"
-related:
+related: []
 gaps: []
 ---
 

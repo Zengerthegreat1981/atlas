@@ -1154,6 +1154,14 @@ function sourceState(n){
  return 'ok';
 }
 
+/* quality badge: frontmatter `quality: unverified | incomplete` (space separated for both) */
+function qualityBadge(n){
+ if(!n.quality)return '';
+ const en=document.documentElement.lang==='en';
+ const L={unverified:en?['Unverified by a specialist','Some statements on this page could not be confirmed and no specialist has reviewed it.']:['غير مؤكد من متخصص','بعض ما في الصفحة لم يتأكد ولم يراجعه متخصص.'],
+  incomplete:en?['Incomplete entry','This entry is thin or has known omissions.']:['مدخل غير مكتمل','المدخل ضعيف أو فيه نواقص معروفة.']};
+ return String(n.quality).split(/\s+/).filter(q=>L[q]).map(q=>'<span class="tag qbadge" title="'+L[q][1]+'">⚠ '+L[q][0]+'</span>').join('');
+}
 function renderNode(key){
  const n=DATA.nodes[key];
  const tc=typeClass(n.type);
@@ -1176,7 +1184,7 @@ function renderNode(key){
    (n.dates?'<span class="tag">'+n.dates+'</span>':'')+
    (n.country?'<span class="tag link" onclick="goFacetIndex(\'country\',\''+n.country.replace(/'/g,"\\'")+'\')" title="تصفّح كل عناصر هذا البلد">🌍 '+n.country+'</span>':'')+
    (n.language?'<span class="tag link" onclick="goFacetIndex(\'language\',\''+n.language.replace(/'/g,"\\'")+'\')" title="تصفّح كل عناصر هذه اللغة">🗣 '+n.language+'</span>':'')+
-   '<span class="tag draft">الحالة: مسودة تحريرية</span></div>'+
+   '<span class="tag draft">الحالة: مسودة تحريرية</span>'+qualityBadge(n)+'</div>'+
  '<div class="lede">'+autoLink(md(n.lede),key,localAlias)+'</div>'+
  '<div class="herometa">'+
   '<span class="hm">⏱ وقت قراءة تقديري: <b>'+mins+'</b> د <span class="est">(تقدير آلي بمعدل ٢٠٠ كلمة/د)</span></span>'+

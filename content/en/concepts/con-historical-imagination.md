@@ -8,7 +8,7 @@ title: "Historical Imagination"
 en: "Historical Imagination"
 crumb: "Historiography ← Concepts ← Historical Imagination"
 edges: []
-related:
+related: []
 gaps: []
 ---
 

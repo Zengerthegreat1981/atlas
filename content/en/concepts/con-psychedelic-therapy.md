@@ -17,7 +17,7 @@ edges:
 - rel: "relates_to", target: "The Psychedelic Experience", target_type: "مفهوم"
 - rel: "relates_to", target: "Badr al-Din al-Zarkashi", target_type: "مفكر"
 - rel: "relates_to", target: "Annihilation and Subsistence in Sufism", target_type: "مصطلح"
-related:
+related: []
 gaps: []
 ---
 

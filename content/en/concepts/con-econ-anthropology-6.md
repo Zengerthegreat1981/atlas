@@ -45,6 +45,12 @@ Social capital is invoked in debates about inequality, health, and digital life.
 
 Digital platforms have transformed social capital, enabling people to maintain large networks of weak ties and to mobilise support quickly, but also raising questions about the quality of online ties. Some argue that online networks generate bridging capital by connecting strangers across distance, while others argue that they deepen bonding capital by sorting people into like-minded groups.
 
+## Anthropological settings
+
+Fieldworkers described the same facts through kinship, gift exchange, and patronage before the phrase became a policy term. Gift cycles create obligations. Marriage alliances join groups. Patron-client ties move jobs, protection, and votes. The concept lets those arrangements be set beside schooling, firms, and voluntary associations, and it asks when a tie is an asset for a person and when it is a constraint.
+
+Coleman named three aspects of structure that make action easier: obligations and expectations, information channels, and norms backed by sanctions. Closure, the condition in which people in a network know one another, is what lets them enforce those norms. Bourdieu tied the volume of social capital to the size of the network and to the economic and cultural capital each member can mobilise, and he treated the work of keeping ties up — visits, gifts, introductions — as real labour. Nan Lin's *Social Capital* (2001) kept the definition on resources embedded in networks that a person can access for a chosen action, so that social capital stays distinct from the trust or the income those ties sometimes produce.
+
 ## Sources
 
 - Granovetter, Mark S. "The Strength of Weak Ties." *American Journal of Sociology* 78, no. 6 (1973): 1360–1380.
@@ -53,3 +59,4 @@ Digital platforms have transformed social capital, enabling people to maintain l
 - Putnam, Robert D. *Making Democracy Work: Civic Traditions in Modern Italy*. Princeton: Princeton University Press, 1993.
 - Portes, Alejandro. "Social Capital: Its Origins and Applications in Modern Sociology." *Annual Review of Sociology* 24 (1998): 1–24.
 - Putnam, Robert D. *Bowling Alone: The Collapse and Revival of American Community*. New York: Simon and Schuster, 2000.
+- Lin, Nan. *Social Capital: A Theory of Social Structure and Action*. Cambridge: Cambridge University Press, 2001.

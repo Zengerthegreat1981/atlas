@@ -14,7 +14,7 @@ language: "English"
 part: "sociology"
 edges:
 - rel: "belongs_to", target: "Political Sociology of the State and Citizenship", target_type: "مدرسة"
-related:
+related: []
 gaps: []
 ---
 

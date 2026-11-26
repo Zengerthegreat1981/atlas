@@ -16,7 +16,7 @@ active_end: 1903
 crumb: "Sociology ← Thinkers ← Charles Booth"
 edges:
 - rel: "belongs_to", target: "The Booth-Rowntree Social Survey", target_type: "مدرسة"
-related:
+related: []
 gaps: []
 ---
 

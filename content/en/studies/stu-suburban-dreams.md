@@ -4,6 +4,7 @@ id: SOC-14487
 type: دراسة
 part: sociology
 level: متوسط
+quality: "unverified"
 title: "Suburban Dreams"
 en: Suburban Dreams
 crumb: "Sociology ← Suburban Dreams"

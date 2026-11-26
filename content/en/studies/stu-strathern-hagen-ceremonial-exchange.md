@@ -19,7 +19,7 @@ active_end: 1988
 edges:
 - rel: "belongs_to", target: "Feminist Anthropology", target_type: "مدرسة"
 - rel: "belongs_to", target: "Maussian Gift Theory", target_type: "مدرسة"
-- rel: "evolved_from", target: "Bronisław Malinowski", target_type: "مفكر"
+- rel: "evolved_from", target: "Bronislaw Malinowski: Modern Ethnographic Fieldwork", target_type: "مفكر"
 - rel: "evolved_from", target: "Marcel Mauss", target_type: "مفكر"
 related:
 - id: "thk-marilyn-strathern", title: "Marilyn Strathern", type: "مفكر"

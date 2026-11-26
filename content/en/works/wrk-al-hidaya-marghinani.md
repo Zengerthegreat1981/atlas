@@ -4,6 +4,7 @@ id: "WRK-20337"
 type: "عمل / كتاب"
 part: "legal-theory"
 level: "متقدم"
+quality: "incomplete"
 title: "Al-Hidaya Sharh Bidayat al-Mubtadi"
 author: "Burhan al-Din Ali ibn Abi Bakr al-Marghinani"
 author_slug: "thk-al-marghinani"
@@ -16,7 +17,7 @@ active_start: 1190
 active_end: "مستمر"
 edges:
 - rel: "authored_by", target: "Burhan al-Din al-Marghinani", target_type: "مفكر"
-related:
+related: []
 gaps:
   - "Complete listing of commentaries and glosses: not yet covered"
 ---

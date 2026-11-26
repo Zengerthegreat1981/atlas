@@ -4,6 +4,7 @@ id: "ANT-13267"
 type: "عمل / كتاب"
 part: anthropology
 level: "متوسط"
+quality: "unverified"
 title: "The !Kung San: Men, Women, and Work in a Foraging Society"
 en: "The Kung Bushmen"
 crumb: "Lee · Hunter-Gatherer Economics"
@@ -11,13 +12,12 @@ dates: "1979 · Lee"
 edges:
   - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
   - rel: "written_by", target: "Lee", target_type: "مفكر"
-related:
+related: []
 sources:
   - Lee, Richard B. The !Kung San: Men, Women, and Work in a Foraging Society. Cambridge University Press, 1979.
   - Lee, Richard B. "What Hunters Do for a Living." In Man the Hunter, edited by Richard Lee and Irven DeVore, Aldine, 1968.
   - Wilmsen, Edwin N., and James R. Denbow. "Paradigmatic History of San-Speaking Peoples and Current Attempts at Revision." Current Anthropology, vol. 31, no. 5, 1990.
-gaps:
-  - "San perspectives on Lee's representation: not yet covered"
+gaps: []
 ---
 
 # The !Kung San: Men, Women, and Work in a Foraging Society
@@ -102,6 +102,10 @@ However, contemporary readings are more critical about colonial context, contact
 
 The work's influence on environmental and social criticism remains significant—the concept of the "original affluent society" continues to be invoked in critiques of capitalism and modernity. However, contemporary scholars nuance this concept, recognizing that pre-contact societies had their own inequalities and that affluence is contextual.
 
+## Ju/'hoansi accounts and the forager portrait
+
+The historical picture in *The !Kung San* later became one side of the Kalahari debate: autonomous foragers, or people long dependent on cattle-keepers. In a 2002 chapter Lee reports oral histories he recorded from 1986 to 1997 with Ju/'hoansi elders in Botswana and Namibia, after noting that neither side of the debate had systematically asked Ju/'hoansi how they understood their own past. Speakers he names, including /Ti!kai at !Goshe and /Kunta at Cho/ana, rejected the claim that their ancestors had kept cattle or farmed. They described meat from hunting and food from the bush, and they described iron, pots and beads as goods obtained when Ju/'hoansi travelled to trade, including through hxaro, rather than as proof that outsiders ruled the interior. Lee also records that Ju/'hoansi is the name people of the Nyae Nyae area wished to be known by. He treats the interviews as selective memory, not as a transparent chronicle: some speakers denied that ancestors made stone tools at places where Later Stone Age stone is abundant. What the chapter supplies is a Ju/'hoansi account, taken down by Lee, of the past that his ethnography had been used to represent.
+
 ## Sources
 
 - Lee, Richard B. *The !Kung San: Men, Women, and Work in a Foraging Society*. Cambridge University Press, 1979.
@@ -109,3 +113,4 @@ The work's influence on environmental and social criticism remains significant�
 - Sahlins, Marshall. *Stone Age Economics*. Aldine-Atherton, 1972.
 - Wilmsen, Edwin N. *Land Filled with Flies: A Political Economy of the Kalahari*. University of Chicago Press, 1989.
 - Wilmsen, Edwin N., and James R. Denbow. "Paradigmatic History of San-Speaking Peoples and Current Attempts at Revision." *Current Anthropology* 31, no. 5 (1990).
+- Lee, Richard B. "Solitude or Servitude? Ju/'hoansi Images of the Colonial Encounter." In *Ethnicity, Hunter-Gatherers, and the "Other": Association or Assimilation in Africa*, edited by Susan Kent, 184–205. Washington, DC: Smithsonian Institution Press, 2002.

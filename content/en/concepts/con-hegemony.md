@@ -4,6 +4,7 @@ id: "ANT-13324"
 type: "مفهوم"
 part: anthropology
 level: "متوسط"
+quality: "unverified"
 title: "Hegemony: Rule by Consent as Well as Coercion"
 en: "Hegemony"
 crumb: "Anthropology ← Core Concepts ← Hegemony"

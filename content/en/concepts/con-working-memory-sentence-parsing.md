@@ -11,7 +11,7 @@ en: "Working Memory in Sentence Parsing"
 crumb: "Psychology ← Concepts ← Working Memory in Sentence Parsing"
 edges:
 - rel: "belongs_to", target: "Sentence Processing (Psycholinguistics)", target_type: "مدرسة"
-related:
+related: []
 gaps: []
 ---
 

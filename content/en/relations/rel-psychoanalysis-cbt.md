@@ -19,8 +19,7 @@ related:
 - id: "thk-ellis", title: "Albert Ellis", type: "مفكر"
 - id: "wrk-beck-cognitive-therapy-depression", title: "Cognitive Therapy and the Emotional Disorders", type: "عمل / كتاب"
 - id: "dbt-evidence", title: "Should We Demand Empirical Evidence?", type: "جدل"
-gaps:
-  - "Precise dating of the shift from antagonism to integration: not yet covered."
+gaps: []
 ---
 # Psychoanalysis and CBT: From Reaction to Hybrid
 

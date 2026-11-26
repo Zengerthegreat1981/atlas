@@ -12,7 +12,7 @@ active_end: null
 cultural_origin: null
 edges:
 - rel: "related_to", target: "Divine Origin of Kingship", target_type: "مفهوم"
-related:
+related: []
 gaps: []
 ---
 

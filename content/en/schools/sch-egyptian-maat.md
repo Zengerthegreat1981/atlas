@@ -15,7 +15,7 @@ active_end: -300
 active_source: "lifespan"
 cultural_origin: "african"
 edges: []
-related:
+related: []
 gaps: []
 ---
 

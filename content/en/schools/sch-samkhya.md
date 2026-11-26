@@ -13,7 +13,7 @@ language: "Sanskrit"
 active_start: -600
 active_end: 1800
 cultural_origin: "indian"
-related:
+related: []
 gaps: []
 ---
 

@@ -25,9 +25,11 @@ Pierre Bourdieu (1930-2002) was a French sociologist and one of the most influen
 
 Born in Denguin in southwestern France to a family of modest means, Bourdieu studied philosophy at the École Normale Supérieure in Paris. During military service in Algeria in the late 1950s he turned to ethnography, studying Kabyle society. He later directed the Centre de sociologie européenne and held a chair at the Collège de France from 1981. In his final years he became a public critic of neoliberalism.
 
+Military service fell during the Algerian war of independence. He then taught at the University of Algiers, and his fieldwork included Kabyle society and uprooted peasants. Back in France he became a director of studies at the École pratique des hautes études, founded the journal *Actes de la recherche en sciences sociales* in 1975, and died in Paris in 2002.
+
 ## Main Ideas
 
-Bourdieu sought to overcome the opposition between objectivism and subjectivism. Habitus refers to durable dispositions acquired through upbringing that shape perception and action. A field is a structured social arena, such as education, art or politics, in which agents compete for position. Capital takes several forms: economic, cultural, social and symbolic. Cultural capital, such as credentials and familiarity with legitimate culture, helps explain unequal school outcomes. Symbolic violence describes how domination is accepted as natural by the dominated, and doxa the taken-for-granted beliefs of a field.
+Bourdieu sought to overcome the opposition between objectivism and subjectivism. Habitus refers to durable dispositions acquired through upbringing that shape perception and action. A field is a structured social arena, such as education, art or politics, in which agents compete for position. Capital takes several forms: economic, cultural, social and symbolic. These forms can be converted into one another, and capital becomes symbolic when it is recognized as legitimate. A field is relatively autonomous, and agents compete over stakes specific to it. Habitus guides perception and action without requiring conscious rule-following. Cultural capital, such as credentials and familiarity with legitimate culture, helps explain unequal school outcomes. Symbolic violence describes how domination is accepted as natural by the dominated, and doxa the taken-for-granted beliefs of a field.
 
 ## Major Works
 
@@ -38,7 +40,9 @@ Bourdieu sought to overcome the opposition between objectivism and subjectivism.
 - *The Logic of Practice* (1980)
 - *Homo Academicus* (1984)
 - *The State Nobility* (1989)
-- *The Weight of the World* (1993)
+- *The Rules of Art* (1992)
+- *The Weight of the World* (1993), a collective work of interviews on social suffering
+- *Masculine Domination* (1998)
 - *Pascalian Meditations* (1997)
 
 ## Method
@@ -59,7 +63,7 @@ Related concepts include habitus, field, cultural capital, social capital, symbo
 
 ## Influence and Criticism
 
-His concepts are used across the sociology of education, culture, class and stratification. Critics argue that the theory is deterministic and leaves little room for change or agency, that habitus is vaguely defined, and that his account of French taste does not transfer easily to other societies.
+His concepts are used across the sociology of education, culture, class and stratification. Critics argue that the theory is deterministic and leaves little room for change or agency, that habitus is vaguely defined, and that his account of French taste does not transfer easily to other societies. A further objection is that treating many social relations as competition over capital extends an economic logic too far. *Homo Academicus* applies the same analysis to French universities, and *Masculine Domination* applies symbolic violence to gender.
 
 ## Sources
 
@@ -71,3 +75,7 @@ His concepts are used across the sociology of education, culture, class and stra
 - Annette Lareau, *Unequal Childhoods: Class, Race, and Family Life*, 2003.
 - Mike Savage et al., A New Model of Social Class? Findings from the BBC's Great British Class Survey Experiment, *Sociology*, 2013.
 - Loïc Wacquant, *Body and Soul: Notebooks of an Apprentice Boxer*, 2004.
+- Pierre Bourdieu, *The Rules of Art: Genesis and Structure of the Literary Field*, 1992.
+- Pierre Bourdieu, *Masculine Domination*, 1998.
+- Pierre Bourdieu et al., *The Weight of the World: Social Suffering in Contemporary Society*, 1993.
+- Jenkins, Richard. *Pierre Bourdieu*. Routledge, 1992.

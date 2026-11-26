@@ -16,8 +16,7 @@ edges:
 - rel: "belongs_to", target: "Comparative Study of Religious/Sacred Music", target_type: "مدرسة"
 related:
 - id: "sch-comparative-religious-music-studies", title: "Comparative Study of Religious/Sacred Music", type: "مدرسة"
-gaps:
-  - "Details of his career beyond the sonic theology project: not yet covered"
+gaps: []
 ---
 
 # Guy L. Beck
@@ -54,6 +53,12 @@ Beck has taught religious studies at Tulane University in New Orleans (in a visi
 
 Beck also edited *Alternative Krishnas* (2005), a collection on regional and vernacular variations in the worship of Krishna in India.
 
+## Career beyond *Sonic Theology*
+
+Beck's training and later posts sit beside the 1993 book. Tulane's Department of Philosophy lists a B.A. in social sciences from the University of Denver (1981), an M.A. in musicology from Syracuse University (1986), and a Ph.D. in religion, with a South Asian focus, from Syracuse (1989). He teaches Asian religions and world religions at Tulane, and the Oxford Centre for Hindu Studies describes him as a lecturer there in philosophy, religious studies and Asian studies and as an adjunct professor of religious studies at Loyola University New Orleans. That centre records him as a visiting fellow in 2001.
+
+Later books extend the same interest without repeating the 1993 thesis. *Sonic Liturgy: Ritual and Music in Hindu Tradition* (University of South Carolina Press, 2012) studies Indian music inside ritual. A chapter on Hinduism and music appeared in *The Oxford Handbook of Religion and the Arts* (2014). *Musicology of Religion: Theories, Methods, and Directions* (State University of New York Press, 2023) turns to method. Tulane News reported two Fulbright-Nehru awards for research on Hindustani vocal music, one in 2009–2010 on the Agra gharana and a second, announced in 2016, for work at Sangeet Ashram in Kolkata. Wilfrid Laurier University Press notes more than six years of research in India and recordings of Hindustani vocal music alongside the scholarship.
+
 ## Conclusion
 
 Beck is a frequently cited reference for the study of sacred sound in Hindu and comparative perspective, having given ritual sound a theoretical standing within religious studies.
@@ -63,3 +68,10 @@ Beck is a frequently cited reference for the study of sacred sound in Hindu and 
 - Beck, Guy L. (1993). *Sonic Theology: Hinduism and Sacred Sound*. Columbia, SC: University of South Carolina Press.
 - Beck, Guy L., ed. (2006). *Sacred Sound: Experiencing Music in World Religions*. Waterloo, ON: Wilfrid Laurier University Press.
 - Beck, Guy L., ed. (2005). *Alternative Krishnas: Regional and Vernacular Variations on a Hindu Deity*. Albany: State University of New York Press.
+- Beck, Guy L. (2012). *Sonic Liturgy: Ritual and Music in Hindu Tradition*. Columbia, SC: University of South Carolina Press.
+- Beck, Guy L. (2014). "Hinduism and Music." In *The Oxford Handbook of Religion and the Arts*, ed. Frank Burch Brown. Oxford University Press.
+- Beck, Guy L. (2023). *Musicology of Religion: Theories, Methods, and Directions*. Albany: State University of New York Press.
+- Tulane University, Department of Philosophy. Faculty note on Guy Beck (degrees and selected publications).
+- Tulane University News (2016). "Musicologist receives second Fulbright-Nehru award."
+- Oxford Centre for Hindu Studies. Profile of Guy L. Beck.
+- Wilfrid Laurier University Press. Contributor note on Guy L. Beck.

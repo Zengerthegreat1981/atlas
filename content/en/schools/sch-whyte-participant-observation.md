@@ -18,10 +18,10 @@ edges:
 - rel: "belongs_to", target: "Chicago School of Urban Ecology", target_type: "مدرسة"
 related:
 - id: "stu-street-corner-society-whyte", title: "Street Corner Society: The Social Structure of an Italian Slum", type: "دراسة وبحث"
-- id: "stu-middletown-lynd", title: "Middletown: A Study in Contemporary American Culture", type: "دراسة وبحث"
+- id: "stu-middletown", title: "Middletown", type: "دراسة"
 - id: "stu-tallys-corner-liebow", title: "Tally's Corner: A Study of Negro Streetcorner Men", type: "دراسة وبحث"
 - id: "stu-manufacturing-consent-burawoy", title: "Manufacturing Consent: Changes in the Labor Process under Monopoly Capitalism", type: "دراسة وبحث"
-- id: "stu-gang-leader-for-a-day-venkatesh", title: "Gang Leader for a Day: A Rogue Sociologist Takes to the Streets", type: "دراسة وبحث"
+- id: "stu-gang-leader-for-a-day", title: "Gang Leader for a Day", type: "دراسة"
 - id: "stu-sidewalk-duneier", title: "Sidewalk", type: "دراسة وبحث"
 - id: "stu-in-search-of-respect-bourgois", title: "In Search of Respect: Selling Crack in El Barrio", type: "دراسة وبحث"
 gaps: []

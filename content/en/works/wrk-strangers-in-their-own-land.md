@@ -13,7 +13,6 @@ active_end: مستمر
 edges: []
 related: []
 gaps:
-- Cross-disciplinary applications: not yet covered
 ---
 
 # Strangers in Their Own Land
@@ -44,6 +43,10 @@ The book was praised as a model of empathetic ethnography and became a key text 
 
 Critics have argued that the book is too sympathetic to its subjects, and that by bracketing judgement it understates the role of racism in the politics it describes. Others note that the deep story, while evocative, is difficult to test: it is a reconstruction of feelings rather than a falsifiable claim. Some scholars of the American right argue that Hochschild's focus on emotion neglects the role of organised interests — the fossil fuel industry, conservative media and political donors — in shaping the views of her informants. In defence of the approach, understanding how people feel can be treated as a precondition for political response, whether persuasion, opposition or reform.
 
+## Applications Across Disciplines
+
+The book's concepts have been taken up outside the sociology of emotion. In cultural sociology and media analysis, Francesca Polletta and Jessica Callahan (2017) use the deep story as a point of departure but ask where such stories come from: they argue that narratives produced by right-wing media and shared by users can come to feel like reflections of personal experience. In rhetoric and writing studies, Sharon Yam (2018) built a classroom sequence around the idea, in which students write personal narratives about public issues and discuss them with peers who hold different positions, aiming at understanding more than persuasion. In policy studies, a 2025 research note by Anna Durnová and colleagues on political emotions in climate policy draws on Hochschild's work on emotions and narrative. In research on the political right, Tyler Leeds (2024) sets Hochschild against Stuart Hall and argues that her commitment to reconciliation limits the analysis of political elites. These uses include extension and critique, and they do not show that the Louisiana findings hold in other settings.
+
 ## Sources
 
 - Arlie Russell Hochschild, *Strangers in Their Own Land: Anger and Mourning on the American Right* (2016).
@@ -53,3 +56,7 @@ Critics have argued that the book is too sympathetic to its subjects, and that b
 - Thomas Frank, *What's the Matter with Kansas? How Conservatives Won the Heart of America* (2004).
 - Robert Wuthnow, *The Left Behind: Decline and Rage in Rural America* (2018).
 - Jennifer Silva, *We're Still Here: Pain and Politics in the Heart of America* (2019).
+- Polletta, Francesca, and Jessica Callahan. "Deep Stories, Nostalgia Narratives, and Fake News: Storytelling in the Trump Era." *American Journal of Cultural Sociology* 5, no. 3 (2017): 392–408. https://doi.org/10.1057/s41290-017-0037-7
+- Yam, Sharon. "Interrogating the 'Deep Story': Storytelling and Narratives in the Rhetoric Classroom." *Composition Forum* 40 (2018). https://compositionforum.com/issue/40/deep-story.php
+- Durnová, Anna, et al. "Political Emotions: A New Policy Science for Tackling the Climate Crisis." *Policy Sciences* 58 (2025): 601–617. https://doi.org/10.1007/s11077-025-09586-5
+- Leeds, Tyler. "Stuart Hall's Relational Political Sociology: A Heuristic for Right-Wing Studies." *Journal of Right-Wing Studies* 2, no. 1 (2024). https://doi.org/10.5070/RW3.1491

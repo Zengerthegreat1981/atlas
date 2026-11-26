@@ -20,8 +20,7 @@ related:
 - id: "thk-al-ghazali", title: "Abu Hamid al-Ghazali", type: "مفكر"
 - id: "sch-usul-al-fiqh-legal-theory", title: "Islamic Legal Theory (Usul al-Fiqh)", type: "مدرسة"
 - id: "wrk-al-risala-shafii", title: "Al-Risala on Legal Theory (Usul al-Fiqh)", type: "عمل / كتاب"
-gaps:
-  - "Exact date of composition: not yet covered (about 1225 CE is an estimate)"
+gaps: []
 ---
 
 # Al-Ihkam fi Usul al-Ahkam
@@ -64,7 +63,12 @@ Al-Ihkam differs from al-Ghazali's *al-Mustasfa* by its broader presentation of 
 
 Al-Ihkam received special attention in modern Western studies of usul al-fiqh. Bernard Weiss made it the basis of his study of Islamic legal theory, regarding Amidi's method of classifying evidences and their ranks as a model showing the organized, inferential character of usul al-fiqh as a fully formed legal theory rather than a scattered set of interpretive controls.
 
+## Date of composition
+
+Salim Ogut's article on *al-Ihkam* in the TDV *Islam Ansiklopedisi* dates the book to 625 AH (1228 CE), written in the last years of al-Amidi's life. He died in Damascus in 631 AH (1233). The figure of about 1225 sometimes used for the work is earlier than that encyclopedia date. Ogut presents the book as the place where al-Amidi brought together his training in usul, kalam, philosophy, disputation, and logic, and as a synthesis of the usul tradition up to his time with the debates of his own generation. Bernard Weiss treats *al-Ihkam* as the fullest later statement of the theologians' method after al-Juwayni, while still giving al-Ghazali his place in that line.
+
 ## Sources
 
 - Weiss, Bernard G. *The Search for God's Law: Islamic Jurisprudence in the Writings of Sayf al-Din al-Amidi*. University of Utah Press, 1992.
 - Hallaq, Wael B. *A History of Islamic Legal Theories: An Introduction to Sunni Usul al-Fiqh*. Cambridge University Press, 1997.
+- Öğüt, Salim. "el-İhkâm." *TDV İslâm Ansiklopedisi*, vol. 21.

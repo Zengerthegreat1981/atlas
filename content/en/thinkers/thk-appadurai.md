@@ -4,6 +4,7 @@ id: THK-6388
 type: مفكر
 part: anthropology
 level: متقدم
+quality: "unverified"
 title: "Arjun Appadurai: Ethnography of Globalization and the Circulation of Culture"
 en: Arjun Appadurai
 crumb: "Anthropology ← Methods & Epistemology ← Arjun Appadurai"

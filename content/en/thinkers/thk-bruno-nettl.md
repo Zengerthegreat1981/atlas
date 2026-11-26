@@ -4,6 +4,7 @@ id: "THK-12475"
 type: "مفكر"
 part: "religious-studies"
 level: "متقدم"
+quality: "unverified"
 country: "United States"
 language: "English"
 cultural_origin: "american"
@@ -17,8 +18,7 @@ edges:
 - rel: "belongs_to", target: "Ethnomusicology of Religion", target_type: "مدرسة"
 related:
 - id: "con-sacred-sound-sonic-theology", title: "Sacred Sound / Sonic Theology", type: "مفهوم"
-gaps:
-  - "Nettl's specific writings on religious music and its relation to comparative religious studies: not yet covered. His work addressed music as a general cultural system rather than religion specifically."
+gaps: []
 ---
 
 # Bruno Nettl
@@ -45,6 +45,12 @@ Nettl's framework, which treats music as a cultural system and attends to the re
 
 Nettl paid particular attention to how musical traditions change over time and through cultural contact, for example the encounter between Western and Persian music in the twentieth century (see *The Western Impact on World Music*). Such studies are relevant to how religious music adapts to modernisation and globalisation.
 
+## Writings on religious and ritual music
+
+Nettl did not write a treatise in comparative religion. Several studies still treat religious music as one use of music inside a comparative cultural frame. *Music in Primitive Culture* (1956) places religion alongside law, dance and funerals among the settings in which music works. In *The Study of Ethnomusicology* the chapter on uses and functions, titled "Music Hath Charms" in the 2005 edition, follows Alan Merriam's distinction between use and function and counts contribution to religious ritual among those functions.
+
+The fullest case is Blackfoot music. Recordings Nettl made at Browning and Heart Butte in 1966 include medicine-bundle, medicine-pipe and Sun Dance songs. The series "Studies in Blackfoot Indian Musical Culture," part of it with Stephen Blum, analyses genres that include Medicine Pipe songs. *Blackfoot Musical Thought* (1989), in the chapter on human and supernatural societies, holds that certain activities count as Blackfoot only when accompanied by song, that songs can validate those actions, and that song is a medium through which supernaturals address people in visions and origin stories. Judith A. Gray's review adds that Nettl treats song as a way Blackfoot people mark difference from the dominant Anglo society. These writings stay inside ethnomusicology. They supply comparative cases and a method for later work on religion and music, without a theology of sacred sound.
+
 ## Assessment
 
 Nettl's legacy is regarded as largely positive: he helped consolidate ethnomusicology as a mature academic discipline and trained many students at Illinois. His main focus remained methodologically general rather than religious, and the study of religious music as such was developed by others.
@@ -56,3 +62,6 @@ Nettl's legacy is regarded as largely positive: he helped consolidate ethnomusic
 - Nettl, Bruno (1985). *The Western Impact on World Music: Change, Adaptation, and Survival*. Schirmer Books.
 - Seeger, Anthony (1987). *Why Suya Sing: A Musical Anthropology of an Amazonian People*. Cambridge University Press.
 - Beck, Guy L. (1993). *Sonic Theology: Hinduism and Sacred Sound*. University of South Carolina Press.
+- Nettl, Bruno (1989). *Blackfoot Musical Thought: Comparative Perspectives*. Kent State University Press.
+- Nettl, Bruno, and Stephen Blum (1968). "Studies in Blackfoot Indian Musical Culture, Part III: Three Genres of Song." *Ethnomusicology* 12 (1).
+- Gray, Judith A. (1990). Review of *Blackfoot Musical Thought*, by Bruno Nettl. *American Indian Culture and Research Journal*.

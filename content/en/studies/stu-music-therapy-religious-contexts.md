@@ -9,8 +9,7 @@ en: "Music Therapy and Healing in Religious Communities"
 crumb: "Religious Studies ← Studies ← Music Therapy and Healing in Religious Communities"
 related:
 - id: "sch-comparative-religious-music-studies", title: "Academic Study of Comparative Religious Music", type: "مدرسة"
-gaps:
-  - "Systematic review of the clinical evidence on religious music and health outcomes: not yet covered."
+gaps: []
 ---
 
 # Music Therapy and Healing in Religious Communities
@@ -37,9 +36,17 @@ Sufi *sama'* (collective *dhikr* and chanting, sometimes accompanied by the fram
 
 This line of research faces a methodological difficulty in isolating the religious variable from other accompanying variables (the social support of the praying congregation, the slow breathing rhythm during chanting), since it is hard to confirm experimentally that the calming effect is due to the religious belief itself rather than to these accompanying factors. The findings should therefore be read as descriptive and preliminary; they do not establish that religious music is a treatment for any condition.
 
+## Clinical evidence
+
+Systematic reviews have begun to pool clinical findings on religious and spiritual music, and they remain cautious. Malviya, Zupan and Meredith (2022) searched CINAHL, MEDLINE and PsycINFO and retained seven studies of religious or spiritual singing and movement. Three concerned singing and four concerned movement, mainly dynamic meditation plus one study of praise dance. Quality was moderate to poor. The authors reported a positive trend for mental-health outcomes, with singing looking more relevant for people who already had a religious background, and they stressed that few studies and weak methods block firm conclusions. The singing studies did not report diagnosed mental illness among participants.
+
+A separate review of Sufi music therapy that used Turkish makams (Gurbuz-Dogan, Ali, Candy and King, 2021) included twenty-one trials. A meta-analysis of eighteen randomised trials, covering 1,454 participants, found short-term reductions in anxiety among patients undergoing procedures such as surgery, chemotherapy or haemodialysis, compared with usual care or no music. The authors graded that anxiety evidence as very low because of heterogeneity and only moderate trial quality. Reports of effects on depression, stress and some symptoms of schizophrenia rested on fewer studies. Read together, these reviews describe promising but fragile clinical signals, in line with the caution already stated above that religious music has not been shown to be a treatment for any condition.
+
 ## Sources
 
 - Rouget, Gilbert (1985). *Music and Trance: A Theory of the Relations between Music and Possession*. University of Chicago Press. (French original 1980.)
 - Becker, Judith (2004). *Deep Listeners: Music, Emotion, and Trancing*. Indiana University Press.
 - Al-Ghazali. *Ihya' 'Ulum al-Din*, book on the etiquette of listening and ecstasy (*Kitab Adab al-Sama' wa-l-Wajd*).
 - Sacks, Oliver (2007). *Musicophilia: Tales of Music and the Brain*. Alfred A. Knopf.
+- Malviya, Shikha, Barbra Zupan and Pamela Meredith (2022). "Evidence of religious/spiritual singing and movement in mental health: A systematic review." *Complementary Therapies in Clinical Practice* 47.
+- Gurbuz-Dogan, R. N., A. Ali, B. Candy and M. King (2021). "The effectiveness of Sufi music for mental health outcomes: A systematic review and meta-analysis of 21 randomised trials." *Complementary Therapies in Medicine* 57.

@@ -13,7 +13,7 @@ active_end: "مستمر"
 part: "psychology"
 crumb: "Psychology ← Thinkers ← Judith L. Herman"
 edges: []
-related:
+related: []
 gaps: []
 ---
 

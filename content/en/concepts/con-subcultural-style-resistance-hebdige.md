@@ -11,7 +11,7 @@ active_start: 1979
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "Sociology of Youth and Subcultures", target_type: "مدرسة"
-related:
+related: []
 gaps: []
 ---
 

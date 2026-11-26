@@ -14,7 +14,7 @@ active_start: 1957
 active_end: 1957
 edges:
 - rel: "belongs_to", target: "Peter Worsley", target_type: "مفكر"
-related:
+related: []
 gaps: []
 ---
 

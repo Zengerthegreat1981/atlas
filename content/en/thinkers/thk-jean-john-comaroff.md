@@ -9,12 +9,12 @@ title: "Jean Comaroff & John Comaroff"
 en: "Jean Comaroff & John Comaroff"
 crumb: "Anthropology ← Thinkers ← Jean Comaroff & John Comaroff"
 dates: "Jean: 1946 – ; John: 1945 –"
-birth_country: "South Africa"
+birth_country: "South Africa / United Kingdom"
 active_start: 1981
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "African Postcolonial Anthropology", target_type: "مدرسة"
-related:
+related: []
 gaps: []
 ---
 # Jean & John Comaroff

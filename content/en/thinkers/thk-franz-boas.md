@@ -37,7 +37,7 @@ Boas's central methodological innovation was **historical particularism**—the 
 
 Boas developed several distinctive methodological commitments: (1) **intensive fieldwork** among specific peoples, learning local languages and recording oral traditions, myths, and detailed cultural practices; (2) **attention to internal cultural complexity** and variation, rejecting the notion of uniform "tribal cultures"; (3) **diffusionist methods** tracing how cultural elements moved between societies through contact and trade rather than independently evolving; (4) **collaborative methods** working with indigenous scholars and knowledge keepers, particularly in recording and translating oral literature.
 
-His fieldwork methodology emphasized recording languages with phonetic precision and collecting oral texts (myths, narratives, songs) in their original forms. He worked intensively with individual informants, sometimes for decades, building relationships that yielded extraordinarily rich linguistic and textual materials. Notably, he hired and collaborated with indigenous scholars—most famously George Hunt (of Kwakwaka'wakw and Tlingit descent) and Henry Tate (a Tsimshian)—who contributed substantially to ethnographic documentation, complicating the image of the anthropologist as sole knowledge producer.
+His fieldwork methodology emphasized recording languages with phonetic precision and collecting oral texts (myths, narratives, songs) in their original forms. He worked intensively with individual informants, sometimes for decades, building relationships that yielded extraordinarily rich linguistic and textual materials. Notably, he hired and collaborated with indigenous scholars—most famously George Hunt (of Tlingit and English parentage, raised among the Kwakwaka'wakw) and Henry Tate (a Tsimshian)—who contributed substantially to ethnographic documentation, complicating the image of the anthropologist as sole knowledge producer.
 
 ## Major Works and Ethnographic Authority
 
@@ -83,6 +83,12 @@ Unlike many of his contemporaries, Boas actively resisted racial hierarchies and
 
 Boas was vocal in opposing colonialism and racism publicly and in print, unusual for academics of his era. However, he did not develop systematic frameworks for indigenous sovereignty or control over ethnographic knowledge. Contemporary indigenous methodologies building on Boas's emphasis on intensive cultural engagement and respect for indigenous knowledge systems have called for moving beyond mere respect toward indigenous leadership and authority in research.
 
+## Race Research, Public Uses of Anthropology, and Colonial Settings
+
+Boas's position on race developed through empirical work in physical anthropology as well as through argument. His study of immigrants and their American-born children for the United States Immigration Commission, published around 1910–1912, reported that bodily measurements such as head form, then treated as stable racial markers, changed in a new environment. His later writing pressed further against the linking of race with language, culture, or mental ability, although he continued to work with some of the physical-anthropological categories of his time.
+
+He held that science should inform public debate but objected to its use as cover for state purposes. In "Scientists as Spies" (*The Nation*, 1919) he condemned researchers who had used scientific work as a front for espionage during the First World War, and the American Anthropological Association censured him for the letter. His fieldwork and museum collecting nonetheless took place within colonial conditions, including Canada's ban on the potlatch.
+
 ## Contemporary Relevance and Legacy
 
 Boas's legacy in contemporary anthropology is profound and contested. His commitment to understanding cultures on their own terms, learning languages deeply, and rejecting hierarchical frameworks remains central to professional anthropology. The principle of cultural relativism, despite critiques, continues to ground anthropological ethics and epistemology.
@@ -107,3 +113,4 @@ The practice of working with language, recording texts, and building deep cultur
 - Jacknis, Ira. *The Storage Box of Tradition: Kwakiutl Art, Anthropologists, and Museums, 1881-1981*. Smithsonian Institution Press, 2002.
 - Cole, Douglas, and Ira Chaikin. *An Iron Hand upon the People: The Law Against the Potlatch on the Northwest Coast*. University of Washington Press, 1990.
 - Stocking, George W. (ed.). *The Shaping of American Anthropology, 1883–1911: A Franz Boas Reader*. Basic Books, 1974.
+- Boas, Franz. "Scientists as Spies." *The Nation*, 1919.

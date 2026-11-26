@@ -17,8 +17,7 @@ edges:
 related:
 - id: "rel-psychoanalysis", title: "Psychoanalysis — Separation and Retention", type: "علاقة بين مدرستين"
 - id: "con-meaning", title: "Meaning and Meaninglessness", type: "مفهوم"
-gaps:
-  - "Dedicated conceptual entries on the theory of thinking, alpha and beta elements, and containment: not yet covered"
+gaps: []
 ---
 # Wilfred Bion
 

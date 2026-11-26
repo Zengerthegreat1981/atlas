@@ -4,6 +4,7 @@ id: "WRK-11946"
 type: "عمل / كتاب"
 part: "religious-studies"
 level: "متقدم"
+quality: "unverified"
 title: "The Ambivalence of the Sacred: Religion, Violence, and Reconciliation"
 en: "The Ambivalence of the Sacred: Religion, Violence, and Reconciliation"
 dates: "2000"
@@ -15,9 +16,8 @@ crumb: "Religious Studies ← Works ← The Ambivalence of the Sacred: Religion,
 edges:
 - rel: "belongs_to", target: "Comparative Religious Violence Studies", target_type: "مدرسة"
 - rel: "written_by", target: "R. Scott Appleby", target_type: "مفكر"
-related:
-gaps:
-  - "Detailed review of the regional case studies: not yet covered"
+related: []
+gaps: []
 ---
 
 # The Ambivalence of the Sacred: Religion, Violence, and Reconciliation (Appleby)
@@ -35,6 +35,12 @@ Appleby treats religion not as a single unified entity that is judged violent or
 ## Case Studies and the Comparative Method
 
 The book draws on case studies of conflicts in several regions of the world. It shows how religious actors played quite different roles in contexts that look similar on the surface. Some fueled sectarian conflict, while others led effective initiatives for interfaith dialogue and communal reconciliation, sometimes within the same religion and the same society.
+
+## Regional cases in the chapters
+
+The contents, as catalogued for the Rowman & Littlefield edition, move from a general argument into paired treatments of violence and peacebuilding rather than a single country study. After the introduction, "Powerful Medicine," part one is "Coming to Terms with Religion": "The Growing End of an Argument," "Religion's Violent Accomplices," "Violence as a Sacred Duty: Patterns of Religious Extremism," "Militants for Peace," and "Reconciliation and the Politics of Forgiveness." Part two, "The Logic of Religious Peacebuilding," has "Religion and Conflict Transformation," "The Promise of Internal Pluralism: Human Rights and Religious Mission," and "Ambivalence as Opportunity."
+
+A Beyond Intractability summary of the book attaches regions and organisations to those chapters. The discussion of religious violence uses examples from Bosnia, Northern Ireland and other settings. The chapter on nonviolent religious militance names Maha Ghosananda in Cambodia, the Community of Sant'Egidio, the Mennonite Central Committee and the Society of Engaged Buddhists, and notes strengths and limits of that work. The reconciliation chapter is described as informed by Christianity, with a focus on Northern Ireland. The human-rights chapter tests the argument on proselytism and on the tension between local practice and universal claims, using genital cutting in Africa as one hard case. These are illustrations inside a comparative argument, not a full political history of each conflict.
 
 ## Critique of the Two Reductive Explanations
 
@@ -57,3 +63,5 @@ Appleby is a historian of religion at the University of Notre Dame, where he is 
 - Appleby, R. Scott (2000). *The Ambivalence of the Sacred: Religion, Violence, and Reconciliation*. Rowman & Littlefield / Carnegie Commission on Preventing Deadly Conflict.
 - Lincoln, Bruce (2003). *Holy Terrors: Thinking about Religion after September 11*. University of Chicago Press.
 - Juergensmeyer, Mark (2000). *Terror in the Mind of God: The Global Rise of Religious Violence*. University of California Press.
+- Appleby, R. Scott (2000). Contents as recorded by the Internet Archive and library catalogues: chapters from "Powerful Medicine" through "Ambivalence as Opportunity."
+- Beyond Intractability. Summary of *The Ambivalence of the Sacred* (regional and organisational examples).

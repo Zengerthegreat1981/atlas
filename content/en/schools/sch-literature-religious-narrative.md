@@ -17,7 +17,7 @@ active_end: "مستمر"
 crumb: "Religious Studies ← Schools ← Comparative Religious Literature and Narrative Studies"
 edges:
 - rel: "belongs_to", target: "Founding of the Science of Religion", target_type: "مدرسة"
-related:
+related: []
 gaps: []
 ---
 

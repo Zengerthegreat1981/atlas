@@ -18,7 +18,7 @@ gaps: []
 
 ## Meaning and Definition
 
-Caring relationships are a central concept in care ethics. The term refers to the moral bonds that arise from genuine attention to the concrete needs of another, such as the relationship between a mother and her child or a nurse and his or her patient. These bonds are a source of moral value no less important than abstract rules and reciprocal contracts. In this conception, ethics is not built at the expense of rights and duties between independent, equal individuals, but on the response to the vulnerability and dependence of the other. Such a relationship is by its nature unequal, between one who cares and one who is cared for.
+Caring relationships are a central concept in care ethics. The term refers to the moral bonds that arise from genuine attention to the concrete needs of another, such as the relationship between a mother and her child or a nurse and his or her patient. These bonds are a source of moral value no less important than abstract rules and reciprocal contracts. In this conception, ethics is built not primarily on rights and duties between independent, equal individuals, but on the response to the vulnerability and dependence of the other. Such a relationship is by its nature unequal, between one who cares and one who is cared for.
 
 ## Roots in Islamic Ethics
 

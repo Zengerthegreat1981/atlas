@@ -11,7 +11,7 @@ active_start: 1990
 active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "Sensorimotor Psychotherapy", target_type: "مدرسة"
-related:
+related: []
 gaps: []
 ---
 

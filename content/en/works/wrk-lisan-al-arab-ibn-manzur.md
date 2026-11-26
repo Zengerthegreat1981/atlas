@@ -18,7 +18,7 @@ active_source: "estimate"
 edges:
 - rel: "belongs_to", target: "Classical Arabic Grammatical Tradition", target_type: "مدرسة"
 - rel: "authored_by", target: "Ibn Manzur", target_type: "مفكر"
-related:
+related: []
 gaps: []
 ---
 

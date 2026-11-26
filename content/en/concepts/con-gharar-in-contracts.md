@@ -4,6 +4,7 @@ id: "CON-20331"
 type: "مفهوم"
 part: "legal-theory"
 level: "متوسط"
+quality: "unverified"
 title: "Gharar (Uncertainty in Contracts)"
 en: "Gharar (Uncertainty in Contracts)"
 crumb: "Legal Theory ← Concepts ← Gharar (Uncertainty in Contracts)"
@@ -16,8 +17,7 @@ related:
 - id: "sch-islamic-law-shariah", title: "Islamic Law as a Legal System", type: "مدرسة"
 - id: "con-nazariyyat-al-aqd-fiqh", title: "Contract Theory in Islamic Jurisprudence", type: "مفهوم"
 - id: "con-riba-legal-doctrine", title: "Riba in Islamic Jurisprudence", type: "مفهوم"
-gaps:
-  - "School-by-school thresholds separating tolerable from excessive gharar: not yet covered"
+gaps: []
 ---
 
 # Gharar (Uncertainty in Contracts)
@@ -46,6 +46,14 @@ Derivatives are the main testing ground. The International Islamic Fiqh Academy,
 
 Older nominate contracts are used as controlled exceptions to the rule against selling what does not yet exist. *Salam* requires full advance payment for precisely described goods due at a known time; *istisna'* allows an order for manufacture or construction on agreed specifications. The earnest-money sale (*'urbun*), rejected by the majority but allowed by the Hanbalis, was accepted by the Academy in 1993 and has been used to build option-like products. Institutions also hedge currency and rate exposure through unilateral promises (*wa'd*), documented for example in the Tahawwut Master Agreement of 2010, though critics warn that combined promises can reproduce conventional derivatives. In *sukuk* and leasing, standards seek clearly identified assets, rents and dates.
 
+## Where the Schools Draw the Line
+
+Jurists did not publish a numerical cutoff. They sorted cases. Al-Qarafi, the Maliki, divided gharar into three grades: a large kind that is forbidden by agreement, such as selling birds in the air; a small kind that is allowed by agreement, such as the foundations of a house or the stuffing inside a garment; and a middle kind on which the schools split.
+
+The sale of an existing but unseen object is the usual test of that middle band. Siddiq al-Darir's survey of the contract of sale records that al-Shafi'i, in his later opinion, treated the sale of an absent object as invalid even when it was fully described, because description did not, for him, give knowledge enough. The Hanafis treat the sale as valid and give the buyer an option of inspection, so the contract can be undone when the goods are seen, even if they match the description. The Malikis allow a sale by description when conditions limit the risk that the goods will change, and they treat the sale as binding if what arrives matches what was described. Hanbali reports divide: one tracks the later Shafi'i ban, one tracks the Hanafi option of inspection without a description, and a well-known report requires a description, closer to Malik.
+
+Ibn Taymiyya, in *al-Qawa'id al-Nuraniyya*, says that Abu Hanifa and al-Shafi'i are the strictest on gharar, that al-Shafi'i folds in dealings other jurists do not, and that Malik is the most willing to allow a transaction where people need it or the uncertainty is slight, with Ahmad near him. The threshold is therefore a pattern of examples, not a shared percentage of risk.
+
 ## Sources
 
 - al-Zuhayli, Wahba. *al-Fiqh al-Islami wa Adillatuhu* [Islamic Jurisprudence and Its Proofs]. Damascus: Dar al-Fikr (first edition 1980s).
@@ -53,3 +61,6 @@ Older nominate contracts are used as controlled exceptions to the rule against s
 - Kamali, Mohammad Hashim. *Principles of Islamic Jurisprudence*. Cambridge: Islamic Texts Society, 1991.
 - Kamali, Mohammad Hashim. *Islamic Commercial Law: An Analysis of Futures and Options*. Islamic Texts Society, 2000.
 - International Swaps and Derivatives Association and International Islamic Financial Market. *ISDA/IIFM Tahawwut Master Agreement*, 2010.
+- al-Qarafi, Shihab al-Din. *al-Furuq* (distinction on gharar and ignorance).
+- Ibn Taymiyya. *al-Qawa'id al-Nuraniyya*.
+- al-Darir, Siddiq Muhammad al-Amin. *Al-Gharar in Contracts and Its Effect on Contemporary Transactions*. Islamic Research and Training Institute.

@@ -22,24 +22,25 @@ Kimberlé Williams Crenshaw (born 1959) is an American legal scholar and civil r
 
 ## Life and Context
 
-Crenshaw was born in Canton, Ohio. She studied at Cornell, Harvard Law School and the University of Wisconsin, and has taught at UCLA School of Law and Columbia Law School. She was a participant in the late-1980s workshops that gave rise to critical race theory, and she co-founded the African American Policy Forum in 1996. She is also known for work on Black women and police violence, including the "Say Her Name" campaign.
+Crenshaw was born in Canton, Ohio. She studied at Cornell, Harvard Law School and the University of Wisconsin Law School, and has taught at UCLA School of Law and Columbia Law School. She was a participant in the late-1980s workshops that gave rise to critical race theory, and she co-founded the African American Policy Forum in 1996. She is also known for work on Black women and police violence, including the "Say Her Name" campaign.
 
 ## Main Ideas
 
 - Intersectionality: discrimination can arise from the interaction of categories such as race, gender and class, so that experiences of Black women cannot be understood as the sum of racism and sexism taken separately.
 - Legal analysis: she argued that anti-discrimination law, by treating race and sex as separate single axes, failed Black women, as in the employment case DeGraffenreid v. General Motors.
-- Three forms: structural intersectionality (differences in social position), political intersectionality (how movements marginalize some groups) and representational intersectionality (cultural portrayals).
-- Critical race theory: law is not neutral and can reproduce racial hierarchy.
+- Three forms: structural intersectionality (differences in social position), political intersectionality (how movements marginalize some groups) and representational intersectionality (cultural portrayals). Political intersectionality includes the way feminist and antiracist agendas can each leave women of color at the margin. Representational intersectionality includes cultural images that join racial and gender stereotypes.
+- Critical race theory: law is not neutral and can reproduce racial hierarchy, including through rules presented as color-blind.
 
 ## Major Works
 
 - "Demarginalizing the Intersection of Race and Sex" (1989)
 - "Mapping the Margins: Intersectionality, Identity Politics, and Violence against Women of Color" (1991)
-- Critical Race Theory: The Key Writings That Formed the Movement (co-edited, 1995)
+- *Words That Wound* (1993, with Mari Matsuda, Charles R. Lawrence III and Richard Delgado)
+- *Critical Race Theory: The Key Writings That Formed the Movement* (1995, edited with Neil Gotanda, Gary Peller and Kendall Thomas)
 
 ## Method
 
-Her method combines close reading of case law, structural analysis and narrative. It is critical and interpretive rather than quantitative.
+Her method combines close reading of case law, structural analysis and narrative. It is critical and interpretive rather than quantitative. She also examines public policy, social movements and cultural representation.
 
 ## Case Studies
 
@@ -51,11 +52,11 @@ Joy Buolamwini and Timnit Gebru's *Gender Shades* (2018) evaluated commercial sy
 
 ## Related Concepts
 
-Related concepts include critical race theory, intersectionality, discrimination, standpoint, matrix of domination, identity politics, structural racism, and gender. Useful comparisons include Patricia Hill Collins's matrix of domination, bell hooks on race, sex, and class, and the Combahee River Collective's statement of 1977 on interlocking oppressions. Structural intersectionality connects with research on poverty, immigration, and violence; political intersectionality with coalition and social movement strategy; and representational intersectionality with media and cultural analysis. Anti-discrimination law links these themes to debates about formal equality, which treats like cases alike, and substantive equality, which attends to unequal conditions and effects.
+Related concepts include critical race theory, intersectionality, discrimination, standpoint, matrix of domination, identity politics, structural racism, and gender. Useful comparisons include Patricia Hill Collins's matrix of domination, W. E. B. Du Bois on race, bell hooks on race, sex, and class, and the Combahee River Collective's statement of 1977 on interlocking oppressions. Structural intersectionality connects with research on poverty, immigration, and violence; political intersectionality with coalition and social movement strategy; and representational intersectionality with media and cultural analysis. Anti-discrimination law links these themes to debates about formal equality, which treats like cases alike, and substantive equality, which attends to unequal conditions and effects.
 
 ## Influence and Criticism
 
-Intersectionality has been taken up in empirical sociology, policy analysis, activism and international human-rights discourse, building on earlier Black feminist work such as Patricia Hill Collins' Black Feminist Thought (1990). Critics question the concept's vagueness, its application beyond its original legal setting, and the difficulty of operationalizing it in research. Jennifer Nash and others have discussed unresolved questions about its scope and subject.
+Intersectionality has been taken up in empirical sociology, policy analysis, activism and international human-rights discourse, building on earlier Black feminist work such as Patricia Hill Collins' Black Feminist Thought (1990). Critics question the concept's vagueness, its application beyond its original legal setting, and the difficulty of operationalizing it in research. Jennifer Nash and others have discussed unresolved questions about its scope and subject. A further debate asks whether intersectionality is best treated as a theory, a method or a heuristic, and whether wide use has loosened its tie to power. The framework is also used in gender studies and public health. Critical race theory has become a focus of political controversy in the United States.
 
 ## Sources
 
@@ -66,3 +67,4 @@ Intersectionality has been taken up in empirical sociology, policy analysis, act
 - Joy Buolamwini and Timnit Gebru, Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification, Proceedings of Machine Learning Research (2018)
 - Leslie McCall, The Complexity of Intersectionality, Signs (2005)
 - Combahee River Collective, A Black Feminist Statement (1977)
+- Matsuda, Mari J., Charles R. Lawrence III, Richard Delgado, and Kimberlé Williams Crenshaw. *Words That Wound: Critical Race Theory, Assaultive Speech, and the First Amendment*. Westview Press, 1993.

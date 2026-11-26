@@ -14,9 +14,9 @@ edges:
   - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
 related:
   - id: "thk-arnold-van-gennep", title: "Arnold van Gennep: Rites of Passage and Liminality", type: "مفكر"
-  - id: "con-rites-passage", title: "Rites of Passage", type: "مفهوم"
+  - id: "con-rite-of-passage", title: "Rites of Passage", type: "مفهوم"
   - id: "con-liminality", title: "Liminality", type: "مفهوم"
-  - id: "thk-turner", title: "Victor Turner: Ritual, Symbol, and Social Drama", type: "مفكر"
+  - id: "thk-victor-turner", title: "Victor Turner: Ritual, Symbol, and Social Drama", type: "مفكر"
 gaps: []
 ---
 

@@ -12,8 +12,7 @@ active_start: 1930
 active_end: 2022
 edges: []
 related: []
-gaps:
-- Contemporary empirical examples: not yet covered
+gaps: []
 sociological_tradition: other
 sociological_paradigm: micro-macro
 ---

@@ -46,6 +46,10 @@ The thesis has been taken up well beyond sociology. Robert K. Merton's study of 
 
 The book remains relevant because its question has not been settled, and because its terms have outlived its thesis. The criticisms fall into three groups. First, the history: the thesis is challenged on the timing of capitalism, on the role of Catholic merchants in Italy and the Low Countries, and on the statistical evidence, which later scholars have found weaker than Weber claimed. Second, the theology: critics argue that Weber misunderstood Calvinism, and that the doctrine of predestination did not produce the anxiety he describes. Third, the method: by constructing ideal types, Weber is accused of selecting the evidence that fits and ignoring what does not. 
 
+## Wider Currents, Limits of the Claim and Early Debate
+
+Besides Calvinism, Weber discussed Pietism, Methodism and the Baptist sects as forms of ascetic Protestantism. He treated the link as one of affinity and historical contribution, and declined to replace a one-sided materialist explanation with an equally one-sided religious one. Criticism began in his lifetime, and he replied to early reviewers. R. H. Tawney's *Religion and the Rise of Capitalism* (1926) gave greater weight to economic change in shaping religious teaching. Defenders argue that many objections attribute to Weber a simple causal thesis he did not hold. Weber pursued the comparative question in studies of the religions of China and India and of ancient Judaism.
+
 ## Sources
 
 - Weber, Max. *The Protestant Ethic and the Spirit of Capitalism*. 1904–1905. Translated by Talcott Parsons, Allen & Unwin, 1930.
@@ -57,3 +61,4 @@ The book remains relevant because its question has not been settled, and because
 - Turner, Bryan S. *For Weber: Essays on the Sociology of Fate*. Routledge, 1981.
 - Becker, Sascha O., and Ludger Woessmann. "Was Weber Wrong? A Human Capital Theory of Protestant Economic History." *Quarterly Journal of Economics* 124, no. 2 (2009): 531–596.
 - Merton, Robert K. *Science, Technology and Society in Seventeenth Century England*. 1938.
+- Tawney, R. H. *Religion and the Rise of Capitalism*. John Murray, 1926.

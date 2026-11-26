@@ -14,7 +14,7 @@ active_start: 1982
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "Care Ethics", target_type: "مدرسة"
-related:
+related: []
 gaps: []
 ---
 

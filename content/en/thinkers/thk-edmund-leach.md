@@ -12,7 +12,7 @@ edges:
   - rel: "belongs_to", target: "Structural Anthropology", target_type: "مدرسة"
   - rel: "founder_of", target: "Ritual Semiotics", target_type: "تيار"
 related:
-  - id: "thk-mary-douglas", title: "Mary Douglas", type: "مفكر"
+  - id: "thk-douglas", title: "Mary Douglas: Purity, Danger, and Categorical Thought", type: "مفكر"
   - id: "thk-clifford-geertz", title: "Clifford Geertz", type: "مفكر"
 gaps: []
 ---

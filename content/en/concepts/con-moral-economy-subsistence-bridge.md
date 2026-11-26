@@ -14,8 +14,7 @@ edges:
 - rel: "relates_to", target: "Gift Economy", target_type: "مفهوم"
 related:
 - id: "con-arab-subsidy-state-and-social-contract", title: "The Subsidy State and the Arab Social Contract", type: "مفهوم"
-gaps:
-  - "The threshold at which increases in Arab bread or fuel prices turn protest into broad uprising: not yet covered."
+gaps: []
 ---
 
 # The Moral Economy and Subsistence Politics
@@ -38,8 +37,13 @@ This framework offers a useful lens for understanding the sensitivity of bread a
 
 This anthropological intersection suggests that the success of subsidy reforms depends partly on preserving the "sense of fairness" even when the technical mechanism changes (for example, replacing in-kind subsidies with targeted cash transfers), and not on financial efficiency alone. This is a lesson often overlooked when economic reform programs are designed in isolation from this normative dimension in the consciousness of the affected societies.
 
+## Price Rises and the Scale of Protest
+
+Research on Arab subsidy cuts does not identify a single percentage rise in bread or fuel prices at which protest becomes a broad uprising. Ketchley, Eibl and Gunning (*Journal of Peace Research*, 2023) study Egypt's January 1977 riots, often called the Bread Intifada, matching an event catalogue to local employment data. Rioting spread after the government announced cuts on a range of subsidized consumables. The authors report that the announced measures were not a rise in the price of subsidized bread itself, but increases on goods such as bottled gas, sugar, fine flour and rice. Even with that wide shock, unrest was concentrated where formally employed labour-market insiders were more numerous. The authors link those workers to stronger expectations of public welfare, drawing on moral-economy arguments alongside an insider-outsider account of segmented labour markets. The episode ties the scale of protest to whose customary entitlement was broken, and to the suddenness of the announcement, rather than to a price threshold later reforms could treat as a rule.
+
 ## Sources
 
 - Thompson, E. P. "The Moral Economy of the English Crowd in the Eighteenth Century." *Past & Present*, 1971.
 - Scott, James C. *The Moral Economy of the Peasant: Rebellion and Subsistence in Southeast Asia*. Yale University Press, 1976.
 - Popkin, Samuel L. *The Rational Peasant: The Political Economy of Rural Society in Vietnam*. University of California Press, 1979.
+- Ketchley, Neil, Eibl, Ferdinand, and Gunning, Jeroen. "Anti-Austerity Riots in Late Developing States: Evidence from the 1977 Egyptian Bread Intifada." *Journal of Peace Research*, 2023.

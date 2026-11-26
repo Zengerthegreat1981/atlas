@@ -4,6 +4,7 @@ id: "THK-13524"
 type: "مفكر"
 part: "legal-theory"
 level: "متقدم"
+quality: "unverified"
 title: "Ibn Taymiyya"
 en: "Ibn Taymiyya"
 crumb: "Legal Theory ← Thinkers ← Ibn Taymiyya"
@@ -20,8 +21,7 @@ related:
 - id: "con-siyasa-shariyya-ibn-taymiyya", title: "Siyasa Shar'iyya and the Distinction between Fiqh and Law", type: "مفهوم"
 - id: "thk-ibn-arabi", title: "Ibn Arabi", type: "مفكر"
 - id: "thk-ibn-hazm", title: "Ibn Hazm al-Andalusi", type: "مفكر"
-gaps:
-  - "Whether his creed forms a unified doctrine or is better described as a renewal independent of the traditional Hanbali school: not yet covered (a continuing specialist debate)."
+gaps: []
 ---
 # Ibn Taymiyya
 
@@ -70,6 +70,10 @@ Sufis of his age also objected to him and pursued him because of his attacks on 
 - **Minhaj al-Sunna al-Nabawiyya**: a refutation of Imami Shi'i thought (in response to al-Allama al-Hilli).
 - **Al-Aqida al-Wasitiyya**: a concise treatise on Salafi creed.
 
+## Creed and the Hanbali tradition
+
+Specialists do not treat his creed as a simple reprint of earlier Hanbali teaching, nor as a school standing wholly apart from it. A standard philosophical survey places him as a theological traditionalist inside the Hanbali line of Sunni Islam: God is to be described as the Qur'an and the Prophet describe Him, negatively and positively, in line with the verse that nothing is like Him and that He is hearing and seeing. At the same time, studies of his theodicy find a writer who is hard to file under one contemporary heading. Hanbali insistence on revelation is joined there to arguments and terms drawn from Ibn Sina and, on some points, from Mu'tazili discussion, with the borrowed terms reset inside a Hanbali frame. Readers of that reconstruction are left asking whether the result is one coherent doctrine or a highly skilled joining of positions that do not finally settle into a single system. Later Hanbali authors continued to argue over where, on the spectrum of the school, a theologian who relied on him should be placed.
+
 ## Sources
 
 - Ibn Taymiyya, Taqi al-Din Ahmad. *Majmu' al-Fatawa*, compiled by Abd al-Rahman ibn Qasim. King Fahd Complex for the Printing of the Holy Qur'an, Medina, 1995.
@@ -79,3 +83,5 @@ Sufis of his age also objected to him and pursued him because of his attacks on 
 - Rapoport, Yossef, and Shahab Ahmed (eds.). *Ibn Taymiyya and His Times*. Karachi: Oxford University Press, 2010.
 - Bori, Caterina. *Ibn Taymiyya, una vita esemplare: Analisi delle fonti classiche della sua biografia*. Pisa/Rome: Istituti Editoriali e Poligrafici Internazionali, 2003.
 - Laoust, Henri. *Essai sur les doctrines sociales et politiques de Taki-d-Din Ahmad b. Taimiya*. Cairo: Institut Français d'Archéologie Orientale, 1939.
+- Hoover, Jon. "Ibn Taymiyya." In *Stanford Encyclopedia of Philosophy*. 2024.
+- Mayer, Toby. Review of Jon Hoover, *Ibn Taymiyya's Theodicy of Perpetual Optimism*. *Journal of Qur'anic Studies* 10, no. 2 (2008).

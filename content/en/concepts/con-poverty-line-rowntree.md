@@ -13,7 +13,7 @@ active_start: 1901
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "The Booth and Rowntree Social Survey", target_type: "مدرسة"
-related:
+related: []
 gaps: []
 ---
 

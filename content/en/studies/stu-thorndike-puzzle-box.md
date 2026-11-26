@@ -15,7 +15,7 @@ sample_size: "13 cats (tested across 15 distinct puzzle boxes, lettered A throug
 main_finding: "The cats' escape time from puzzle boxes decreases gradually across successive trials without a sudden leap of understanding, supporting the formulation of the 'Law of Effect'"
 replication_status: "replicated"
 edges: []
-related:
+related: []
 gaps: []
 ---
 # Thorndike's Puzzle Box Experiments and the Law of Effect

@@ -1,0 +1,55 @@
+thk-hortense-powdermaker: confirmed (1896 supported; Britannica gives 1900) [https://www.encyclopedia.com/women/dictionaries-thesauruses-pictures-and-press-releases/powdermaker-hortense-1896-1970]
+thk-jomo-kenyatta: confirmed (birth year already marked approximate) [https://www.britannica.com/biography/Jomo-Kenyatta]
+thk-elinor-ochs: badge unverified: birth year 1944, influence on teaching children with disabilities [https://en.wikipedia.org/wiki/Elinor_Ochs]
+thk-stathis-gourgouris: confirmed [https://en.wikipedia.org/wiki/Stathis_Gourgouris]
+thk-jean-john-comaroff: fixed birth_country now covers both birthplaces [https://en.wikipedia.org/wiki/Jean_Comaroff https://www.alanmacfarlane.com/DO/filmshow/comarofftx.htm]
+thk-deepak-mehta: badge unverified: career and teaching details beyond Delhi University affiliation and books [https://www.routledge.com/Living-With-Violence-An-Anthropology-of-Events-and-Everyday-Life/Chatterji/p/book/9780367176051]
+con-postmarital-residence: confirmed Ember 1975 page range 199-227 [https://hraf.yale.edu/documents/81]
+stu-on-the-edge: badge unverified: no study of this title confirmed for Gans material (article citation verified) [https://econpapers.repec.org/RePEc:sae:envira:v:1:y:1969:i:1:p:33-46]
+stu-pinned-down: badge unverified: no study of this title confirmed for Kalleberg material (books verified) [https://www.russellsage.org/node/14455]
+stu-the-crack-era: badge unverified: no study of this title confirmed for Bourgois material
+stu-suburban-dreams: badge unverified: title not confirmed for Nicolaides material (a different 2015 book by Dickinson uses it)
+stu-schoolyard-stories: badge unverified incomplete: no study of this title found; thematic summary only
+stu-the-dignity-deficit: badge unverified: no empirical study of this title; only the Brooks essay confirmed, research-tradition framing is editorial [https://www.marketplace.org/2017/03/07/economy/unemployed-dont-just-need-jobs-dignity]
+stu-among-schoolchildren: badge unverified: school year, class and setting details; active_start 1987 not confirmed (reporting suggests 1986-87) [https://www.edweek.org/education/the-teacher-and-the-writer/1989/09]
+wrk-the-sociological-condition: badge unverified incomplete: no specific work of this title found
+wrk-fighting-back: confirmed chapter outline [https://www.umsl.edu/~keelr/3210/resources/collins.html]
+stu-everything-in-its-path-erikson: confirmed [https://en.wikipedia.org/wiki/Buffalo_Creek_flood]
+stu-challenger-launch-decision-vaughan: confirmed [https://magazine.columbia.edu/article/challenger-disaster-normalization-deviance]
+thk-rputnam: confirmed [https://www.simonandschuster.com/books/Better-Together/Robert-D-Putnam/9780743235471]
+thk-halim-barakat: badge unverified: fixed death year 2023 and added 1936 variant [https://ccas.georgetown.edu/2023/06/29/ccas-mourns-the-loss-of-professor-halim-barakat/ https://arabcenterdc.org/resource/in-memoriam-halim-barakat/]; unconfirmed birth year, IdRef record, funeral notice
+thk-saskia-sassen: confirmed birth year 1947 (a few sources give 1949) [https://www.newnetherlandinstitute.org/history-and-heritage/dutch_americans/saskia-sassen/]
+sch-medicalization-biosociality: fixed added Conrad dates 1945-2024 [https://sssp1.org/file/Conrad-Obituary%20.pdf]
+con-gharar-in-contracts: badge unverified: school-by-school positions and classical texts
+con-grundnorm-basic-norm-kelsen: badge unverified: detailed content of the 1964 essay
+con-istihsan-juristic-preference: confirmed Abu Zahra account [https://www.iium.edu.my/deed/lawbase/maliki_fiqh/usul8.html]
+con-legal-transplants-watson: badge unverified: EJCL 4.4 publication and lecture content
+con-madhhab-legal-school-institution: badge unverified: detailed Makdisi account of the ijaza
+con-networked-religion-campbell: badge unverified: wording of the 2013 interview (interview itself exists) [https://www.religiousstudiesproject.com/?p=2705]
+con-qawaid-fiqhiyya-legal-maxims: badge unverified: details attributed to Heinrichs
+rel-stoicism-cbt: confirmed Modern Stoicism figures [https://modernstoicism.com/report/stoic-week-2018-part-3/]
+rel-szasz-existential-freedom-guilt: confirmed Laing review and Burston essay [https://szasz.com/Laing.htm https://ehinstitute.org/szasz-laing-and-existential-psychotherapy/]
+stu-bursi-touch-black-stone-2022: badge unverified: article content
+thk-anouar-abdel-malek: badge unverified: Sayigh details including the 1,500 figure [https://carnegieendowment.org/research/2012/08/above-the-state-the-officers-republic-in-egypt]
+thk-boaventura-de-sousa-santos: badge unverified: 194 cities and fieldwork dates
+thk-bruno-nettl: badge unverified: content of Gray review (review exists) and chapter contents [https://repositories.cdlib.org/content/qt8qn3z2wp/qt8qn3z2wp.pdf]
+thk-edmund-bourne: badge incomplete: Colgate and Chicago training confirmed [https://en.wikipedia.org/wiki/Edmund_Bourne]; birth date not covered
+thk-fechner: confirmed Leipzig 1822 and 1834 dates [https://psychologie.lw.uni-leipzig.de/wundt/fechlife/life.htm]
+thk-friedrich-carl-von-savigny: badge unverified: Haferkamp 2011 encyclopedia entry
+thk-guy-beck: confirmed degrees [https://liberalarts.tulane.edu/philosophy/people/instructors/guy-beck-phd]
+thk-hans-frei: badge unverified: content of Ibrahim article (citation confirmed) [https://relbib.de/Record/1646325001]
+thk-henry-steadman: badge unverified incomplete: birth year 1943 and degrees; exact birth date not covered
+thk-ibn-taymiyya: badge unverified: Mayer review
+thk-moojan-momen: badge unverified: CV details beyond birth, move and colleges
+thk-mustafa-al-zarqa: badge unverified incomplete: Fiqh Council dissent wording and code committee details; banking positions not covered
+thk-rene-david: badge unverified: UNIDROIT post, 1949 UNESCO role, 1950 RIDC article
+thk-thomas-franck: badge unverified: first-American-judge-ad-hoc claim and advisory roles (Indonesia ad hoc seat confirmed) [https://www.icj-cij.org/en/all-judges-ad-hoc]
+wrk-al-ashbah-wa-al-nazair-ibn-nujaym: badge unverified incomplete: Michigan and Qalamos manuscript records; edition comparison not covered
+wrk-ambivalence-of-the-sacred-appleby: badge unverified: full chapter titles (regional examples confirmed) [https://www.beyondintractability.org/bksum/appleby-ambivalence]
+wrk-communion-of-subjects-waldau-patton: badge unverified: contents list
+wrk-dreaming-in-the-worlds-religions-bulkeley: badge unverified: chapters and headings confirmed [https://bulkeley.org/dreaming-in-the-worlds-religions-a-comparative-history/]; three-historical-lines account not confirmed
+wrk-kinship-village: badge unverified: contents-based account of kinship and residence
+wrk-kung-bushmen: badge unverified: content of the book chapters and of the 2002 oral-history chapter
+wrk-on-suicide: badge unverified: Shneidman 1980 review
+wrk-pure-theory-of-law-kelsen: badge unverified: Jestaedt length comparison only partly supported (about five times overall)
+wrk-tiwi-wives: badge unverified: book content and Kerinaiua-Rademaker argument

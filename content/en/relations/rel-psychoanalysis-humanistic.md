@@ -18,8 +18,7 @@ related:
 - id: "thk-freud", title: "Sigmund Freud", type: "مفكر"
 - id: "thk-rogers", title: "Carl Rogers", type: "مفكر"
 - id: "thk-maslow", title: "Abraham Maslow", type: "مفكر"
-gaps:
-  - "Documented influence of the Neo-Freudians (Horney, Fromm, Sullivan) on Rogers and Maslow: not yet covered."
+gaps: []
 ---
 
 # Psychoanalysis and Humanistic Psychology: From Schism to Motivational Convergence
@@ -96,6 +95,12 @@ Their work is often described as a bridge, but direct influence on Rogers and Ma
 - **Person-centered therapy:** commonly emphasizes the relational conditions for growth and is used in counseling and in training generally.
 - **Integrative practice:** many clinicians draw on both traditions, and meaning-centered approaches such as Frankl's logotherapy are sometimes linked with humanistic-existential thought, although Frankl's own lineage is separate.
 
+## Documented Lines from Horney, Fromm, and Sullivan
+
+Historical accounts of Maslow's years at Brooklyn College place him in a New York circle of European émigré scholars. Ian Nicholson, in the *Complete Dictionary of Scientific Biography*, reports that Maslow became acquainted with Alfred Adler, Ruth Benedict, Karen Horney, and Erich Fromm, and that under their influence he grew more attentive to culture as a shaper of personality. Edward Hoffman's biography treats Horney and Fromm among the figures Maslow sought out in that setting. Maslow later described his motivation theory as an attempt to hold together partial truths he found in Freud, Adler, Jung, David M. Levy, Fromm, Horney, and Kurt Goldstein, a statement he put in the preface to *Toward a Psychology of Being*. That is a stated intellectual debt. It does not make the hierarchy of needs a Neo-Freudian doctrine.
+
+For Rogers, the psychoanalytic line most often documented runs through Otto Rank and Rank's students in social work. A historical essay by Branco, Vieira, Cirino, and Moreira reports that Rogers also indicated Karen Horney among Neo-Freudian influences on the formation of client-centered therapy. Those accounts do not establish a comparable personal or textual debt of either Rogers or Maslow to Harry Stack Sullivan. Sullivan's interpersonal psychiatry belongs to the same broad revision of classical drive theory, but resemblance is not the same as documented influence.
+
 ## Sources
 
 - Freud, S. (1930). *Das Unbehagen in der Kultur* (Civilization and Its Discontents).
@@ -112,3 +117,7 @@ Their work is often described as a bridge, but direct influence on Rogers and Ma
 - Gendlin, E. T. (1978). *Focusing*. Everest House.
 - Deci, E. L., & Ryan, R. M. (1985). *Intrinsic Motivation and Self-Determination in Human Behavior*. Plenum.
 - Miller, W. R., & Rollnick, S. (1991). *Motivational Interviewing*. Guilford Press.
+- Hoffman, E. (1988). *The Right to Be Human: A Biography of Abraham Maslow*. Jeremy P. Tarcher.
+- Maslow, A. H. (1962). *Toward a Psychology of Being*. Van Nostrand.
+- Nicholson, I. A. M. Maslow, Abraham. *Complete Dictionary of Scientific Biography*.
+- Branco, P. C. C., Vieira, E. M., Cirino, S. D., & Moreira, J. O. (2016). Influences of neo-Freudian psychoanalysis in Carl Rogers' psychotherapy. *Contextos Clínicos*, 9(2), 279-289.

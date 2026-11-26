@@ -112,7 +112,7 @@ related:
   - id: "wrk-being-nothingness", title: "Being and Nothingness: Consciousness, Freedom, and Bad Faith", type: "عمل / كتاب"
   - id: "thk-camus", title: "Albert Camus: The Absurd and Revolt", type: "مفكر"
   - id: "thk-beauvoir", title: "Simone de Beauvoir", type: "مفكر"
-  - id: "thk-buber", title: "Martin Buber", type: "مفكر"
+  - id: "thk-mbuber", title: "Martin Buber", type: "مفكر"
   - id: "thk-frankl", title: "Viktor Frankl: Will to Meaning", type: "مفكر"
   - id: "con-freedom", title: "Freedom", type: "مفهوم"
   - id: "con-absurd", title: "The Absurd: Collision Without Resolution", type: "مفهوم"

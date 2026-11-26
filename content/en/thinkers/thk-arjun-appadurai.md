@@ -1,9 +1,10 @@
 ---
 slug: thk-arjun-appadurai
-id: ANT-13043
+id: "ANT-13352"
 type: مفكر
 part: anthropology
 level: متقدم
+quality: "unverified"
 title: "Arjun Appadurai: Ethnography of Globalization and the Circulation of Culture"
 en: Arjun Appadurai
 crumb: "Anthropology ← Methods & Epistemology ← Arjun Appadurai"

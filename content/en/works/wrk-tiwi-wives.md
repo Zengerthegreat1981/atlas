@@ -4,6 +4,7 @@ id: "ANT-13138"
 type: "عمل / كتاب"
 part: anthropology
 level: "متوسط"
+quality: "unverified"
 title: "Tiwi Wives: A Study of the Women of Melville Island, North Australia"
 en: "Tiwi Wives"
 crumb: "Goodale · Tiwi Women"
@@ -16,8 +17,7 @@ sources:
   - Goodale, Jane C. Tiwi Wives: A Study of the Women of Melville Island, North Australia. University of Washington Press, 1971.
   - Hart, C. W. M., and Arnold R. Pilling. The Tiwi of North Australia. Holt, Rinehart and Winston, 1960.
   - Hart, C. W. M. "The Tiwi of Melville and Bathurst Islands." Oceania 1 (1930).
-gaps:
-  - "Tiwi perspectives on how their women and marriage system have been represented: not yet covered"
+gaps: []
 ---
 
 # Tiwi Wives: A Study of the Women of Melville Island
@@ -36,8 +36,13 @@ Goodale describes the life course of Tiwi women: betrothal, marriage, widowhood 
 
 *Tiwi Wives* is read as a corrective to male-centred ethnography of Aboriginal Australia and is widely used in discussions of gender in Aboriginal societies. As with Hart and Pilling's study, critics point out that the "traditional" society reconstructed in the ethnography had already been shaped by colonial contact, mission influence and administration, so that descriptions combine remembered custom with changing practice.
 
+## Tiwi accounts of women and marriage
+
+Goodale wrote as an outside ethnographer. A later history written with Tiwi historian Mavis Kerinaiua turns the usual mission story around. Catholic priest Francis Xavier Gsell, from 1911, is often described as buying Tiwi girls out of promised polygamous marriages so that they could be raised as Catholics, a story remembered as the "bishop with many wives." Kerinaiua and Laura Rademaker, drawing on Tiwi oral history, argue that Tiwi women had more say in marriage negotiations than that rescue narrative allows. Women used the mission situation to remain Tiwi while also becoming Catholic, and the missionaries were the ones who shifted toward Tiwi practice. The book is not a commentary on Goodale's monograph. It is a Tiwi-centred account of how women's power inside the marriage system was missed when outsiders told the story as one of rescue from Tiwi custom.
+
 ## Sources
 
 - Goodale, Jane C. *Tiwi Wives: A Study of the Women of Melville Island, North Australia*. University of Washington Press, 1971.
 - Hart, C. W. M., and Arnold R. Pilling. *The Tiwi of North Australia*. Holt, Rinehart and Winston, 1960.
 - Hart, C. W. M. "The Tiwi of Melville and Bathurst Islands." *Oceania* 1 (1930).
+- Kerinaiua, Mavis, and Laura Rademaker. *Tiwi Story: Turning History Downside Up*. Sydney: NewSouth Publishing, 2023.

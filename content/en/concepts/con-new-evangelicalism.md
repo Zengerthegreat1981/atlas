@@ -13,7 +13,7 @@ active_end: مستمر
 crumb: "Religious Studies ← Concepts ← New Evangelicalism"
 edges:
 - rel: "belongs_to", target: "American Christian Fundamentalism Studies", target_type: "مدرسة"
-related:
+related: []
 gaps: []
 ---
 

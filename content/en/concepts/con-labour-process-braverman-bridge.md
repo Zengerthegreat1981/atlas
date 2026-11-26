@@ -12,9 +12,8 @@ active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "Division of Labour (Smith)", target_type: "مفهوم"
 - rel: "relates_to", target: "Deskilling and the Labour Process (Braverman)", target_type: "مفهوم"
-related:
-gaps:
-  - "Digital automation, algorithmic management and deskilling in the Arab labour market: not yet covered."
+related: []
+gaps: []
 ---
 
 # Labour Process Theory and Deskilling
@@ -37,6 +36,10 @@ Braverman's thesis later faced criticism from within the sociological field itse
 
 Braverman's thesis has regained renewed relevance with the rise of the digital platform economy, where algorithms managing work (such as delivery apps and ride-sharing drivers) break down the labour process into atomized tasks measured and monitored digitally with considerable precision. In such settings, the "knowledge" needed to organize work is shifted entirely into a central algorithm whose internal logic the individual worker has no access to. This renews debate about the power relations concealed behind what appears to be "flexibility" in platform-based freelance work.
 
+## Algorithmic Management in Arab Platform Work
+
+Studies of app-based work in Arab labour markets describe software that assigns, monitors and rates tasks. They do not measure a decline in occupational skill of the kind Braverman traced in factory craft. Rania Magdi Fawzy's reading of the Uber driver interface in Cairo (*Journal of Labor and Society*, 2025) treats the app as labour governance: reminders, status gauges, ratings and game-like rewards direct drivers while presenting compliance as chosen flexibility. She argues that this blurs autonomy and control where informal work and economic insecurity are already widespread. A survey of 378 couriers on delivery platforms in Saudi Arabia (Elsayed, Saleh and Mahgoub, *SAGE Open*, 2026) reports that monitoring, goal setting, scheduling, ratings and pay rules are associated with lower job autonomy, and that this loss of autonomy is linked with lower proactivity, adaptability and resilience. The design of the task sits in the software rather than in the courier's discretion. That is the setting in which Braverman's separation of conception from execution is now discussed for these markets, without a direct estimate of deskilling.
+
 ## Sources
 
 - Braverman, Harry. *Labor and Monopoly Capital: The Degradation of Work in the Twentieth Century*. Monthly Review Press, 1974.
@@ -45,3 +48,5 @@ Braverman's thesis has regained renewed relevance with the rise of the digital p
 - Edwards, Richard. *Contested Terrain: The Transformation of the Workplace in the Twentieth Century*. Basic Books, 1979.
 - Friedman, Andrew L. *Industry and Labour*. Macmillan, 1977.
 - Burawoy, Michael. *Manufacturing Consent: Changes in the Labor Process Under Monopoly Capitalism*. University of Chicago Press, 1979.
+- Fawzy, Rania Magdi. "The Invisible Hand of Uber in Cairo: Greimas' Semiotics and Neoliberal Nudging in Egypt's Platform Labour Economy." *Journal of Labor and Society* 29, no. 1 (2025): 100–124. https://doi.org/10.1163/24714607-bja10181
+- Elsayed, Ahmed M., Saleh, Saleh M., and Mahgoub, Ibrahim G. "How Algorithmic Management Shapes Agility in the Gig Economy: The Role of Job Autonomy." *SAGE Open*, 2026.

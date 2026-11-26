@@ -28,8 +28,7 @@ related:
 - id: "wrk-attachment-loss-volume1", title: "Attachment (Volume 1, 1969)", type: "عمل / كتاب"
 - id: "sch-ipt", title: "Interpersonal Therapy (IPT)", type: "مدرسة"
 - id: "dbt-nature-vs-nurture-intelligence-personality", title: "The Nature vs. Nurture Debate: Who Makes Behavior?", type: "جدل"
-gaps:
-  - "Dedicated entries on Mary Main, Harry Harlow and on Bowlby's key concepts (internal working model, secure base, protest and despair, monotropy): not yet covered"
+gaps: []
 ---
 # John Bowlby
 
@@ -87,6 +86,10 @@ The 1951 report and the book *Child Care and the Growth of Love* (1953) helped c
 - **"Loss: Sadness and Depression" (1980)**: the third volume.
 - **"A Secure Base" (1988)**: his late clinical research.
 
+## Mary Main and the next generation of attachment research
+
+Mary Main, a former doctoral student of Mary Ainsworth, took the observational programme that had tested Bowlby's ideas past the original infant patterns. Drawing on the history of that work, Duschinsky (2015) reports that Main (1979) treated avoidant and ambivalent or resistant behaviour as conditional strategies: an infant might reduce displays of attachment with a generally rebuffing caregiver, or heighten distress and anger with a caregiver experienced as unreliable, while the attachment system still pressed toward proximity. Infants who did not fit Ainsworth's three patterns had already appeared in Main's doctoral observations. With Judith Solomon, Main later proposed a disorganized/disoriented classification for the Strange Situation, published in 1986. Behaviours placed in that class, often clearest at reunion, suggested a conflict between approaching and moving away from the caregiver, or a brief disorientation, before the infant returned to one of the earlier patterns. Duschinsky (2021) also describes the Adult Attachment Interview that Main and colleagues developed: a semi-structured interview about childhood attachment relationships, coded for how the speaker attends to and communicates those experiences, rather than for stated opinions or a reconstructed life history. In that sense the interview carried Bowlby's interest in internal working models into the study of adult discourse.
+
 ## Sources
 
 - John Bowlby, *Maternal Care and Mental Health*, World Health Organization, 1951.
@@ -96,3 +99,5 @@ The 1951 report and the book *Child Care and the Growth of Love* (1953) helped c
 - John Bowlby, *Attachment and Loss, Vol. 3: Loss: Sadness and Depression*, Hogarth Press, 1980.
 - John Bowlby, *A Secure Base: Parent-Child Attachment and Healthy Human Development*, Routledge, 1988.
 - Michael Rutter, *Maternal Deprivation Reassessed*, Penguin, 1972.
+- Robbie Duschinsky, "The Emergence of the Disorganized/Disoriented (D) Attachment Classification, 1979–1982", *History of Psychology*, 18(1), 2015.
+- Robbie Duschinsky, "Demystifying Attachment", *The Psychologist*, British Psychological Society, 2021.

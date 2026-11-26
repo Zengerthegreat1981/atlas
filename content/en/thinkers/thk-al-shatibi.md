@@ -22,8 +22,7 @@ related:
 - id: "thk-al-ghazali", title: "Abu Hamid al-Ghazali", type: "مفكر"
 - id: "thk-ibn-hazm", title: "Ibn Hazm al-Andalusi", type: "مفكر"
 - id: "con-qiyas-analogical-reasoning", title: "Qiyas (analogical reasoning in Islamic law)", type: "مفهوم"
-gaps:
-  - "Early upbringing: not yet covered"
+gaps: []
 ---
 # Abu Ishaq Ibrahim ibn Musa al-Shatibi
 
@@ -74,6 +73,10 @@ He also discussed the relationship between the Lawgiver's purpose and the purpos
 - **al-Majalis**: a commentary on the book of sales (*Kitab al-Buyu'*) of Sahih al-Bukhari.
 - **al-Ifadat wa-l-Inshadat**: on language and literature.
 
+## Early upbringing
+
+Reports of al-Shatibi's childhood are thin. The nisba al-Shatibi marks a family of Arab origin linked to Xativa (Shatiba), yet notices say almost nothing about his parents or household. Xativa passed to the Crown of Aragon in 646/1248, after which most of its Muslims moved south, so birth in Xativa itself is treated as unlikely. He is placed in Granada around 720/1320, and he appears to have remained there, without the journey to the East for further study or the pilgrimage that many Andalusi scholars made. Under the Nasrids, Granada was the most populous Muslim city in al-Andalus and a meeting place of Andalusi and North African teachers. His schooling is described as beginning with the Qur'an, possibly under Ibn al-Zayyat al-Kala'i, then continuing with the grammarian Abu Abd Allah Muhammad ibn Ali al-Fakhkhar al-Ilbiri, with whom he also read the seven Qur'anic readings and whose classes he attended until that teacher's death. He next studied mainly under Abu Sa'id Faraj ibn Qasim Ibn Lubb, chief mufti and teacher at the Nasrid madrasa. Further lessons in Arabic, readings, hadith, tafsir, usul, kalam, logic, philosophy and Sufism are attributed to scholars then in the city, among them al-Sharif al-Gharnati, Abu Ja'far Ahmad al-Shaquri, Ibn Marzuq al-Khatib, Muhammad al-Maqqari and Abu Ali Mansur al-Zawawi.
+
 ## Sources
 
 - al-Shatibi, Abu Ishaq Ibrahim. *al-Muwafaqat fi Usul al-Shari'a*. Edited by Abu Ubayda Mashhur ibn Hasan Al Salman. Khobar: Dar Ibn Affan, 1997.
@@ -83,3 +86,4 @@ He also discussed the relationship between the Lawgiver's purpose and the purpos
 - Hallaq, Wael B. *A History of Islamic Legal Theories: An Introduction to Sunni Usul al-Fiqh*. Cambridge: Cambridge University Press, 1997.
 - Opwis, Felicitas. *Maslaha and the Purpose of the Law: Islamic Discourse on Legal Change from the 4th/10th to 8th/14th Century*. Leiden: Brill, 2010.
 - Masud, Muhammad Khalid. *Shatibi's Philosophy of Islamic Law*. Islamabad: Islamic Research Institute, 1995.
+- al-Raysuni, Ahmad, and Ali Hakan Cavusoglu. "Shatibi, Ibrahim b. Musa." In *TDV Islam Ansiklopedisi*. Istanbul: TDV Islam Arastirmalari Merkezi, 2010.

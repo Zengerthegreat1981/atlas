@@ -13,7 +13,7 @@ active_start: 1377
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "Khaldunian Science of Human Civilization (Ilm al-Umran)", target_type: "مدرسة"
-related:
+related: []
 gaps: []
 ---
 

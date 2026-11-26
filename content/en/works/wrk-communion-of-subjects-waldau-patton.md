@@ -4,6 +4,7 @@ id: "WRK-12013"
 type: "عمل / كتاب"
 part: "religious-studies"
 level: "متقدم"
+quality: "unverified"
 religious_tradition: "Multiple religions (Judaism, Christianity, Islam, Hinduism, Buddhism, Indigenous religions)"
 study_approach: "Interdisciplinary animal studies applied to religion"
 title: "A Communion of Subjects: Animals in Religion, Science, and Ethics"
@@ -19,8 +20,7 @@ edges:
 related:
 - id: "sch-animals-religion-studies-waldau-patton", title: "Academic Study of Religion and Animals (Animals and Religion Studies): Paul Waldau and Kimberley Patton", type: "مدرسة"
 - id: "thk-paul-waldau", title: "Paul Waldau", type: "مفكر"
-gaps:
-  - "Individual chapters: not yet covered"
+gaps: []
 ---
 
 # A Communion of Subjects: Animals in Religion, Science, and Ethics
@@ -38,6 +38,12 @@ This volume is widely cited as a reference starting point for later work in the 
 ## Detailed Coverage of Multiple Religions
 
 The volume includes chapters on individual religious traditions. Its treatment of Judaism touches on the concept of *tza'ar ba'alei chayim* (the prohibition of causing animals unnecessary suffering) in Jewish law. In Christian contexts, discussion of animals commonly contrasts views such as that of Thomas Aquinas, who held that humans owe no direct duties of charity to irrational creatures, with more sympathetic currents such as the Franciscan tradition. Islamic discussions of animals draw on prophetic traditions and juristic writings that discourage cruelty. Hindu and Buddhist treatments engage the principle of non-violence (*ahimsa*) and its application to animals. Indigenous traditions are often described as less hierarchical in their view of the relationship between humans and animals than some other traditions.
+
+## How the chapters are arranged
+
+The Library of Congress contents record, drawn from the publisher's pre-publication list, shows a volume of specialist essays rather than one authorial survey. Mary Evelyn Tucker writes "Heritage of the Volume." Thomas Berry's prologue is "Loneliness and Presence." The editors introduce the book. Part I pairs Patton on traditional views of animals in religion with Waldau on the contemporary field of religion and animals.
+
+Later parts follow traditions and then themes. Judaism includes Jonathan Klawans on sacrifice in ancient Israel, Dan Cohn-Sherbok on a Jewish vision of the animal kingdom, and Roberta Kalechofsky on hierarchy, kinship and responsibility. Christianity includes Beverly Kienzle on bestiaries and heresy, Gary Steiner on Descartes, Christianity and speciesism, and Jay McDaniel on a Christian approach to animals. An Islamic chapter takes the Qur'anic she-camel as a sign. Indian traditions cover Hinduism (Lance Nelson; Edwin Bryant on post-Vedic vegetarianism), Buddhism (Ian Harris; Ivette Vargas) and Jainism (Christopher Chapple; Kristi Wiley). Chinese sections treat early religion (Roel Sterckx), Daoism (E. N. Anderson and Lisa Raphals) and Confucianism (Rodney Taylor). Further parts turn to philosophy, myth, ritual, art, science, factory farming, law and the environment. Jane Goodall's epilogue is "The Dance of Awe," and Tucker closes on a communion of subjects. The list is machine-generated and may differ slightly from the printed book.
 
 ## The Significance of the Title: From Object to Subject
 
@@ -64,3 +70,4 @@ This volume paved the way for later works that are narrower in scope and more sp
 - Waldau, P., & Patton, K. (Eds.). (2006). *A Communion of Subjects: Animals in Religion, Science, and Ethics*. Columbia University Press.
 - Waldau, Paul. *The Specter of Speciesism: Buddhist and Christian Views of Animals*. Oxford University Press, 2002.
 - Ambros, Barbara. *Bones of Contention: Animals and Religion in Contemporary Japan*. University of Hawai'i Press, 2012.
+- Library of Congress. Table of contents for *A Communion of Subjects* (catalogue record 2006008168), from publisher-supplied data.

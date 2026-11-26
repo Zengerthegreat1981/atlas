@@ -36,6 +36,14 @@ Political anthropology's method is ethnography of power: long-term fieldwork in 
 
 Political anthropology transformed the study of politics by showing that stateless societies have politics, that resistance need not be revolutionary, and that the state is not a single thing but a set of practices and relationships. Its concepts — the social drama, everyday resistance, the anti-politics machine, seeing like a state — have entered the vocabulary of political science, history, and sociology. The field challenged the idea that the Western state is the endpoint of political evolution, documenting instead a diversity of political forms. A central debate concerns the nature of the state: is it a coherent actor or a fragmented collection of practices? Another concerns resistance: Scott's emphasis on hidden, everyday resistance has been criticized for romanticizing survival and underestimating the power of open rebellion. Feminist political anthropologists have shown how power operates through gender and the household, not only through public institutions. The field also debates its relationship to activism: many political anthropologists study movements they support, raising questions about objectivity and solidarity. As authoritarianism, populism, and state surveillance reshape politics worldwide, political anthropology's ethnographic attention to how power is actually lived remains a vital resource.
 
+## Further comparisons
+
+F. G. Bailey and Fredrik Barth analysed strategy, factions, and leadership. Barth's study of Swat Pathans (1959) examined how followers choose patrons. The volume *Political Anthropology* (1966), edited by Marc Swartz, Victor Turner, and Arthur Tuden, emphasised processes, goals, and public contests. Georges Balandier published an influential French synthesis in 1967.
+
+In the United States, Morton Fried and Elman Service proposed evolutionary types such as band, tribe, chiefdom, and state. Critics questioned fixed stages and showed that mobile or decentralised peoples often took shape in relation to states. Eric Wolf's *Europe and the People without History* (1982) placed local societies inside expanding systems of trade, production, and conquest.
+
+Drawing partly on Michel Foucault, ethnographers examined discipline, expertise, and governmentality. Research on nationalism, violence, democracy, humanitarianism, borders, and sovereignty treats the state as an uneven assemblage of people, documents, and practices. Access to powerful institutions is often limited. In situations of conflict, researchers have to weigh surveillance, partisanship, and the safety of people who speak. A very narrow definition of politics misses forms of authority carried by kinship or ritual, while a definition that includes every relation of influence loses precision.
+
 ## Sources
 
 - Fortes, Meyer, and E. E. Evans-Pritchard, eds. *African Political Systems*. 1940.
@@ -49,3 +57,9 @@ Political anthropology transformed the study of politics by showing that statele
 - Gledhill, John. *Power and Its Disguises: Anthropological Perspectives on Politics*. 1994.
 - Gupta, Akhil. "Blurred Boundaries: The Discourse of Corruption, the Culture of Politics, and the Imagined State." *American Ethnologist* 22, no. 2 (1995).
 - Graeber, David. *The Utopia of Rules: On Technology, Stupidity, and the Secret Joys of Bureaucracy*. 2015.
+- Barth, Fredrik. *Political Leadership among Swat Pathans*. London: Athlone Press, 1959.
+- Swartz, Marc J., Victor W. Turner, and Arthur Tuden, eds. *Political Anthropology*. Chicago: Aldine, 1966.
+- Balandier, Georges. *Anthropologie politique*. Paris: Presses Universitaires de France, 1967.
+- Service, Elman R. *Primitive Social Organization: An Evolutionary Perspective*. New York: Random House, 1962.
+- Fried, Morton H. *The Evolution of Political Society: An Essay in Political Anthropology*. New York: Random House, 1967.
+- Wolf, Eric R. *Europe and the People without History*. Berkeley: University of California Press, 1982.

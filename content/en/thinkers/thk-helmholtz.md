@@ -55,7 +55,7 @@ This theory became a central foundation for **contemporary visual perception** a
 
 ### 3. Measuring the Speed of Nerve Conduction
 
-In 1850, Helmholtz measured the conduction velocity in the **motor nerve of a frog** using a graphic-recording method for very short time intervals (fractions of a thousandth of a second), and found it to be about **27 metres per second**, a figure much lower than had been assumed (his teacher Johannes Müller had believed the speed to be nearly instantaneous and impossible to measure). This measurement refuted the idea that nerve conduction was "instantaneous" through the action of a "vital force," and became a landmark in experimental **neurophysiology**.
+In 1850, Helmholtz measured the conduction velocity in the **motor nerve of a frog** using an electromagnetic (galvanometer) method, adapted from Pouillet, for timing very short intervals (fractions of a thousandth of a second), and found it to be about **27 metres per second**, a figure much lower than had been assumed (his teacher Johannes Müller had believed the speed to be nearly instantaneous and impossible to measure). This measurement refuted the idea that nerve conduction was "instantaneous" through the action of a "vital force," and became a landmark in experimental **neurophysiology**.
 
 ### 4. The Philosophy of Geometry
 
@@ -72,7 +72,7 @@ Helmholtz defended an **empiricist** approach to geometry: geometric laws are de
 ## The Impact on Psychology
 
 - **The experimental method in perception**: Helmholtz laid the methodological foundation of perceptual psychology.
-- **Physiological psychology**: Wilhelm Wundt was his assistant at Heidelberg (1858-1864), and Helmholtz's work on sensory physiology shaped the program of experimental psychology that Wundt developed.
+- **Physiological psychology**: Wilhelm Wundt was his assistant at Heidelberg (1858-1865), and Helmholtz's work on sensory physiology shaped the program of experimental psychology that Wundt developed.
 - **The relationship between mind and body**: he offered a materialist (but non-reductionist) approach linking perception to the brain.
 - He also invented the ophthalmoscope (1851), which made the living retina visible, and his work on hearing (resonance theory of tone perception) became a classic of sensory physiology.
 
@@ -90,7 +90,7 @@ Critics, notably within the phenomenological tradition, have treated the Helmhol
 
 ## Legacy
 
-- The **Helmholtz Association** (Helmholtz-Gemeinschaft / Helmholtz Association), the largest grouping of scientific research centres in Germany today, is named after him. It was founded a century after his death, in 1995, as a tribute to his legacy, and not founded by him.
+- The **Helmholtz Association** (Helmholtz-Gemeinschaft / Helmholtz Association), the largest grouping of scientific research centres in Germany today, is named after him. It took this name in 1995, about a century after his death, succeeding an association of large research centres set up in 1970; he did not found it.
 - He became professor of physiology at Heidelberg in 1858, professor of physics at Berlin in 1871, and first president of the Physikalisch-Technische Reichsanstalt in 1888.
 - He is regarded as one of the founders of experimental neurophysiology and physiological psychology, alongside his central contributions to classical physics.
 

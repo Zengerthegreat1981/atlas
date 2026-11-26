@@ -4,6 +4,7 @@ id: "ANT-30002"
 type: "مجال"
 part: "anthropology"
 level: "متوسط"
+quality: "unverified"
 title: "Ethnography, Fieldwork and Ethics"
 en: "Ethnography, Fieldwork and Ethics"
 crumb: "Anthropology ← Fields ← Ethnography, Fieldwork and Ethics"
@@ -61,7 +62,7 @@ From the 1970s and 1980s, scholars asked who writes ethnography and with what au
 
 ## Ethics and colonial legacies
 
-Anthropology developed in part under colonial conditions, and critics such as Talal Asad argued that the discipline's access and its categories were bound up with imperial power. Ethical concerns include informed consent, protection of informants from harm, ownership of knowledge, and the use of research by states and militaries. The American Anthropological Association adopted a statement on ethics in 1971 and has revised its professional codes since, while in the United States research with human participants is also overseen by institutional review boards, whose framework grew out of the Belmont Report (1979); anthropologists have often argued that review models designed for biomedical research fit ethnography poorly. Controversy over the work of Napoleon Chagnon among the Yanomami, and the debate over anthropology and militarisation, show how disputed these issues can be. Linda Tuhiwai Smith's *Decolonizing Methodologies* and related work on Indigenous research and data sovereignty argue that communities should direct research about them, not merely be studied.
+Anthropology developed in part under colonial conditions, and critics such as Talal Asad argued that the discipline's access and its categories were bound up with imperial power. Ethical concerns include informed consent, protection of informants from harm, ownership of knowledge, and the use of research by states and militaries. The American Anthropological Association adopted a statement on ethics in 1971 and has revised its professional codes since, while in the United States research with human participants is also overseen by institutional review boards, whose guiding ethical principles are set out in the Belmont Report (1979); anthropologists have often argued that review models designed for biomedical research fit ethnography poorly. Controversy over the work of Napoleon Chagnon among the Yanomami, and the debate over anthropology and militarisation, show how disputed these issues can be. Linda Tuhiwai Smith's *Decolonizing Methodologies* and related work on Indigenous research and data sovereignty argue that communities should direct research about them, not merely be studied.
 
 ## Film and multispecies methods
 

@@ -16,7 +16,7 @@ active_start: 1950
 active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "Islamic Fiscal Thought (Kharaj and Hisba)", target_type: "مدرسة"
-related:
+related: []
 gaps: []
 ---
 # Modern Islamic Economics

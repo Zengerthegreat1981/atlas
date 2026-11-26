@@ -12,7 +12,7 @@ edges:
 related:
   - id: "con-relationships", title: "Relationships", type: "مفهوم"
   - id: "con-freedom", title: "Freedom", type: "مفهوم"
-  - id: "thk-buber", title: "Buber", type: "مفكر"
+  - id: "thk-mbuber", title: "Buber", type: "مفكر"
   - id: "thk-beauvoir", title: "de Beauvoir", type: "مفكرة"
 gaps: []
 ---

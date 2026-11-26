@@ -9,7 +9,7 @@ school: "sch-hermeneutics-sacred-architecture-jones"
 title: "Architectural Semiotics and the Sacred"
 en: "Architectural Semiotics and the Sacred"
 crumb: "Religious Studies ← Concepts ← Architectural Semiotics and the Sacred"
-related:
+related: []
 gaps: []
 ---
 

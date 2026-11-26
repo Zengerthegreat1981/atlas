@@ -15,7 +15,7 @@ sample_size: ""
 main_finding: "Participants given misleading post-event information about a detail chose the correct picture far less often than controls (roughly 41% versus 75% in the 1978 slide study), showing that later information can alter reported memory"
 replication_status: "replicated"
 edges: []
-related:
+related: []
 gaps: []
 ---
 

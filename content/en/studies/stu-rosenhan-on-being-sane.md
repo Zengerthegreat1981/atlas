@@ -15,7 +15,7 @@ sample_size: 8
 main_finding: "Psychiatrists failed to distinguish 8 sane pseudo-patients from real patients in 12 hospitals; all were admitted (seven with a diagnosis of schizophrenia, one with manic-depressive psychosis) for stays of 7 to 52 days, which Rosenhan took to show that psychiatric diagnosis in hospital settings is strongly shaped by context."
 replication_status: "contested"
 edges: []
-related:
+related: []
 gaps: []
 ---
 

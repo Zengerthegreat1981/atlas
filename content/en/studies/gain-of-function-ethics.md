@@ -11,8 +11,7 @@ study_focus: "Research Ethics"
 study_period: "2015-2026"
 edges: []
 related: []
-gaps:
-  - "Ethnography of gain-of-function research laboratories: not yet covered"
+gaps: []
 ---
 
 # Gain-of-Function Ethics Ethnography
@@ -33,9 +32,14 @@ Little or no published anthropological ethnography targets specific gain-of-func
 
 The debate over gain-of-function research remains open on several questions: who holds the authority to approve research with "dual use" potential that could be exploited for harmful purposes; how the probable scientific benefit is weighed against the risk of a real, if rare, leak; and what level of transparency and international oversight is needed in laboratories operating under multiple national sovereignties. In this context, anthropology offers a tool for understanding how "accepted risk" is produced socially and politically, rather than being merely a purely technical judgment.
 
+## Ethnography around the Laboratories
+
+A published ethnography of a named gain-of-function laboratory, written from inside its daily work, is still scarce. Closest is Natalie Porter's study of the controversy that followed the 2011 avian influenza experiments already noted above. In *BioSocieties* (2016) she combines published scientific papers, interviews with microbiologists and with people who regulate biosecurity, and ethnographic observation in a biosecure laboratory. Her argument is that new rules did not stay on paper. They changed how experimental systems were organized, including how experimental organisms were used and interpreted, and they encouraged a culture of security among scientists who work across national borders. She treats those changes as the joint product of local pressures to get research done and of wider worries about accident and misuse. The article is therefore an ethnography of the controversy and of laboratory practice under biosecurity rules, rather than a portrait of one gain-of-function project from start to finish.
+
 ## Sources
 
 - Caduff, Carlo. *The Pandemic Perhaps: Dramatic Events in a Public Culture of Danger*. University of California Press, 2015.
 - Lakoff, Andrew. *Unprepared: Global Health in a Time of Emergency*. University of California Press, 2017.
 - Selgelid, Michael J. "Gain-of-Function Research: Ethical Analysis." *Science and Engineering Ethics*, 22(4), 2016.
 - Lakoff, Andrew & Collier, Stephen J. (eds.). *Biosecurity Interventions: Global Health and Security in Question*. Columbia University Press, 2008.
+- Porter, Natalie. "Ferreting Things Out: Biosecurity, Pandemic Flu and the Transformation of Experimental Systems." *BioSocieties* 11, no. 1 (2016): 22–45.

@@ -15,7 +15,7 @@ policy_orientation: "State intervention to maximize the state's trade surplus an
 active_start: 1500
 active_end: 1776
 edges: []
-related:
+related: []
 gaps: []
 ---
 # Mercantilism and Cameralism

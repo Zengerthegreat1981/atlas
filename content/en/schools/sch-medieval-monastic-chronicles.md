@@ -16,7 +16,7 @@ active_start: 538
 active_end: 731
 edges:
 - rel: "belongs_to", target: "Byzantine Historiography (Procopius and Anna Komnene)", target_type: "مدرسة"
-related:
+related: []
 gaps: []
 ---
 

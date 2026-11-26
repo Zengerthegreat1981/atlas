@@ -12,7 +12,7 @@ active_start: 1966
 active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "Marx's Critique of Political Economy", target_type: "مدرسة"
-related:
+related: []
 gaps: []
 ---
 

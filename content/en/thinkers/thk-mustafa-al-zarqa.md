@@ -4,6 +4,7 @@ id: "THK-20011"
 type: "مفكر"
 part: "legal-theory"
 level: "متقدم"
+quality: "unverified incomplete"
 title: "Mustafa al-Zarqa"
 en: "Mustafa al-Zarqa"
 crumb: "Legal Theory ← Thinkers ← Mustafa al-Zarqa"
@@ -20,8 +21,7 @@ related:
 - id: "con-qawaid-fiqhiyya-legal-maxims", title: "Qawa'id Fiqhiyya (Legal Maxims)", type: "مفهوم"
 - id: "thk-abd-al-razzaq-al-sanhuri", title: "Abd al-Razzaq Ahmad al-Sanhuri", type: "مفكر"
 gaps:
-  - "His role in drafting or revising specific civil laws: not yet covered."
-  - "His detailed juristic positions on insurance and Islamic banking: not yet covered beyond general terms."
+  - "His detailed juristic positions on Islamic banking: not yet covered beyond general terms."
 ---
 # Mustafa Ahmad al-Zarqa
 
@@ -57,8 +57,17 @@ Al-Zarqa is regarded as a major bridge between classical Islamic jurisprudence a
 
 Al-Zarqa served on modern collective jurisprudential bodies, most notably the International Islamic Fiqh Academy of the Organisation of Islamic Cooperation. These institutions sought to replace individual traditional fatwa-giving with an institutional mechanism of collective ijtihad, in which jurists from different schools and countries discuss emerging issues before issuing a joint decision. This is a relatively recent institutional model that reflects the twentieth-century evolution of how fatwas are produced, moving away from isolated individual ijtihad.
 
+## Civil codes and the insurance contract
+
+After Syrian independence he argued for a civil code drawn from the several schools of fiqh, and he opposed the 1949 decision, under Husni al-Za'im, to replace the Ottoman Majalla with a code copied from the Egyptian civil code. Accounts credit him with a close part in Syria's family law and in keeping the civil law as near to fiqh as politics allowed. During the Syrian-Egyptian union he chaired a committee for a single family law for the United Arab Republic. In 1981 the Arab League placed him on a committee for a unified Arab civil law on a fiqh basis, and in Jordan he took part in work on the Jordanian civil code. These reports name the codes. They do not itemise articles.
+
+On insurance he dissented from the Islamic Fiqh Council. He refused to treat commercial insurance as forbidden. As an organised way of spreading loss, he held it lawful in three forms: cover of goods, liability cover, and the contract called life insurance. He denied that it is gambling or usury, and he denied a sound line between "cooperative" and "commercial" insurance, since every such contract pools loss among those who share a risk. The case is set out in his book on the insurance contract.
+
 ## Sources
 
 - al-Zarqa, Mustafa Ahmad. *Al-Madkhal al-Fiqhi al-'Amm*. Dar al-Qalam, Damascus, 1998 (revised new edition).
 - al-Zarqa, Ahmad ibn Muhammad. *Sharh al-Qawa'id al-Fiqhiyya*. Edited by Mustafa Ahmad al-Zarqa. Dar al-Qalam, Damascus, 1989.
 - Vogel, Frank E., and Samuel L. Hayes. *Islamic Law and Finance: Religion, Risk, and Return*. The Hague: Kluwer Law International, 1998.
+- al-Zarqa, Mustafa. Dissent on commercial insurance, Islamic Fiqh Council.
+- al-Zarqa, Muhammad Anas. Biographical note on Mustafa al-Zarqa. mustafazarqa.com.
+- Salahi, Adil. "Scholar of Renown: Professor Mustafa Al-Zarqa." *Arab News*, 19 May 2003.

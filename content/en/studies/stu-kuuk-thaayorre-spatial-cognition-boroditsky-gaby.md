@@ -16,7 +16,7 @@ active_start: 2010
 active_end: 2010
 edges:
 - rel: "belongs_to", target: "Cognitive Linguistics", target_type: "مدرسة"
-related:
+related: []
 gaps: []
 ---
 

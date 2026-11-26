@@ -12,7 +12,7 @@ active_start: 1997
 active_end: 2000
 edges:
 - rel: "belongs_to", target: "Development Economics", target_type: "مدرسة"
-related:
+related: []
 study_year: 1997
 design: "Village-level randomized controlled trial: 506 rural villages were randomly selected between a treatment group (320 villages) that received conditional cash transfers immediately and a control group (186 villages) enrolled in the programme after a delay of roughly 18 months"
 sample_size: "506 rural villages, roughly 24,000 households in the original evaluation"

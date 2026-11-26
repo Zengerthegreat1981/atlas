@@ -11,7 +11,7 @@ active_start: 1987
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "Sociology of Family, Gender and Intimacy", target_type: "مدرسة"
-related:
+related: []
 gaps: []
 ---
 

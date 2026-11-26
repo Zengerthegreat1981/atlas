@@ -15,7 +15,7 @@ sample_size: "698 children (the full 1955 birth cohort), of whom 201 were design
 main_finding: "Approximately one-third of the high-risk children (about 70 of 201) grew into competent, caring, and confident adults despite severe cumulative adversity, an outcome driven by individual, familial, and community protective factors"
 replication_status: "replicated"
 edges: []
-related:
+related: []
 gaps: []
 ---
 # Emmy Werner's Kauai Longitudinal Study of Resilience and Psychological Hardiness

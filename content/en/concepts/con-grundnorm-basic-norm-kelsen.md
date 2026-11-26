@@ -4,6 +4,7 @@ id: "CON-9851"
 type: "مفهوم"
 part: "legal-theory"
 level: "متقدم"
+quality: "unverified"
 title: "Grundnorm (Basic Norm)"
 en: "Grundnorm (Basic Norm)"
 crumb: "Legal Theory ← Concepts ← Grundnorm (Basic Norm)"
@@ -16,8 +17,7 @@ related:
 - id: "thk-hans-kelsen", title: "Hans Kelsen", type: "مفكر"
 - id: "wrk-pure-theory-of-law-kelsen", title: "Pure Theory of Law (Reine Rechtslehre)", type: "عمل / كتاب"
 - id: "sch-legal-positivism-modern", title: "Modern Legal Positivism", type: "مدرسة"
-gaps:
-  - "Full treatment of Kelsen's later view of the Grundnorm as a fiction and of the wider Kelsenian literature: not yet covered"
+gaps: []
 ---
 # Grundnorm (Basic Norm)
 
@@ -47,8 +47,20 @@ Usul al-fiqh offers a different solution to the problem of the source of obligat
 
 The concept of the Grundnorm has also been used to explain how a system arising from a revolution or coup can be considered a "valid" legal system once its effectiveness is firmly established. This corresponds to an old jurisprudential debate about the legitimacy of the "dominator" (*al-mutaghallib*) who seizes power by force: whereas the early jurists required a valid contract for the imamate, later jurists (such as al-Mawardi, in his treatment of governorship by seizure (*imarat al-istila'*), and Ibn Jama'a (d. 733/1333) more explicitly) permitted recognition of the legitimacy of the de facto situation in order to preserve the unity of the community. This approaches the logic of accepting the "new basic norm" in Kelsen without any moral justification for the seizure itself.
 
+## The Later View: A Fiction, Not a Hypothesis
+
+In the first *Pure Theory* of 1934 Kelsen still spoke of the basic norm as a hypothesis. He changed the label in the 1964 essay "The Function of the Constitution" (*Die Funktion der Verfassung*). Drawing on Hans Vaihinger's philosophy of "as if," he said that the Grundnorm is not a hypothesis, the word he had sometimes used, but a fiction, and that the fiction is, or ought to be, accompanied by the awareness that reality does not correspond to it. Parts of that essay return in chapter 59 of the posthumous *General Theory of Norms* (1979).
+
+The reason for the change sits in his later account of what a norm is. A norm is the meaning of an act of will directed at someone else's conduct. No real act of will lays down the basic norm, so legal science has to think of a merely imagined will whose meaning the basic norm would be. Kelsen called this a genuine fiction in Vaihinger's sense: it contradicts reality, because no such act occurred, and it is strained in itself, because it authorizes a highest legal authority as though some still higher authority had authorized it. He had written on Vaihinger's juridical fictions as early as 1919, but he did not then treat his own basic norm as one of them.
+
+The shift is a standard topic in the Kelsen literature. The essays collected by Stanley Paulson and Bonnie Litschewski Paulson in *Normativity and Norms* (1998) gather critical work on the basic norm, effectiveness and the pure theory. Later readers of the 1964 essay, including the editions that translate it beside the 1919 paper, stress that "fiction" is a revision of the earlier hypothesis, not a casual synonym. Textbook sketches that stop at the transcendental presupposition therefore leave out the view Kelsen held at the end of his life.
+
 ## Sources
 
 - Kelsen, Hans. *Pure Theory of Law*. Translated by Max Knight, University of California Press, 1967 (German original: *Reine Rechtslehre*, 2nd ed., 1960).
 - Paulson, Stanley L. & Litschewski Paulson, Bonnie (eds). *Normativity and Norms: Critical Perspectives on Kelsenian Themes*. Oxford: Clarendon Press, 1998.
 - Hart, H. L. A. *The Concept of Law*. Oxford: Clarendon Press, 1961.
+- Kelsen, Hans. "Die Funktion der Verfassung" (1964). In later discussions of the basic norm as a fiction.
+- Kelsen, Hans. *Allgemeine Theorie der Normen*. Vienna: Manz, 1979. English: *General Theory of Norms*, translated by Michael Hartney, Oxford University Press, 1991.
+- Kelsen, Hans. "Zur Theorie der juristischen Fiktionen" (1919). *Annalen der Philosophie*, 1.
+- Vaihinger, Hans. *Die Philosophie des Als Ob*. 1911.

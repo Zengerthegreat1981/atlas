@@ -6,6 +6,7 @@ part: "religious-studies"
 religious_tradition: "Multiple (Orthodox Judaism, Islam, evangelical Christianity: comparative case studies)"
 study_approach: "Comparative sociological-media"
 level: "متقدم"
+quality: "unverified"
 title: "Networked Religion (Heidi Campbell)"
 en: "Networked Religion (Heidi Campbell)"
 crumb: "Religious Studies ← Concepts ← Networked Religion"
@@ -16,8 +17,7 @@ edges:
 related:
 - id: "thk-heidi-campbell", title: "Heidi A. Campbell", type: "مفكر"
 - id: "wrk-when-religion-meets-new-media-campbell", title: "When Religion Meets New Media", type: "عمل / كتاب"
-gaps:
-  - "Chapter-level examination of each of the five features: not yet covered"
+gaps: []
 ---
 
 # Networked Religion (Heidi Campbell)
@@ -46,9 +46,14 @@ Campbell built her framework on comparative case studies rather than on abstract
 
 Online fatwas are often cited in this literature (for example by Gary Bunt) as an illustration of "shifting authority." While institutions such as al-Azhar and the Dar al-Ifta remain recognized sources, the internet allows preachers and self-styled muftis without institutional backing to compete with them for the attention of the same Muslim public. The result is a continuous negotiation rather than a decisive victory for either side.
 
+## What each feature describes
+
+In the 2012 *Journal of the American Academy of Religion* article, Campbell presents the five traits as research topics in the study of religion and the internet, and as signs of wider cultural change. In a 2013 interview she spelled out each trait for institutions. Networked community means that a congregation often functions as a loose social network rather than a tightly bounded hub: members may hold several affiliations and connect them through everyday media use. Storied identity treats religious identity as something people construct and perform, using blogs and social media to assemble a narrative and to find a group in which that self makes sense, rather than as a status fixed only by initiation. Convergent practice names the blending of practices and information drawn from more than one source as people move quickly across spaces. Multisite reality denies a sharp log-on and log-off divide: online and offline settings are carried together, and people try to live in both without treating them as conflicting selves. Shifting authority notes new interpreters online, and also the use of the same media by established leaders to rebuild or solidify their standing. The internet, on this account, challenges institutions and can empower them at the same time.
+
 ## Sources
 
 - Campbell, Heidi A. *When Religion Meets New Media*. Routledge, 2010.
 - Campbell, Heidi A. (2012). "Understanding the Relationship between Religion Online and Offline in a Networked Society." *Journal of the American Academy of Religion*, 80(1), 64-93.
 - Campbell, Heidi A. (ed.). *Digital Religion: Understanding Religious Practice in New Media Worlds*. Routledge, 2013.
 - Bunt, G. R. (2018). *Hashtag Islam: How Cyber-Islamic Environments Are Transforming Religious Authority*. University of North Carolina Press.
+- Campbell, Heidi A. Interview, "The Internet Challenges and Empowers Religious Institutions." *Faith & Leadership*, 18 November 2013.

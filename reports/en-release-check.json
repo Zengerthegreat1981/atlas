@@ -1,13 +1,12 @@
 {
-  "total_files": 2917,
+  "total_files": 2812,
   "parse_warnings": 0,
   "parse_warning_examples": [],
   "flag_counts": {
-    "edge-target-by-name": 2426,
-    "declared-gaps": 134,
+    "edge-target-by-name": 2352,
+    "declared-gaps": 39,
     "edge-target-slug-unresolved": 1,
-    "slug-mismatch": 2,
-    "duplicate-id-groups": 2
+    "duplicate-id-groups": 0
   },
   "flag_examples": {
     "edge-target-by-name": [
@@ -28,46 +27,33 @@
       "br-corpus-linguistics->Corpus Linguistics"
     ],
     "declared-gaps": [
-      "con-ahliyya-legal-capacity-usul",
-      "con-creolization",
       "con-debt-financial-stress-psychology-bridge",
-      "con-diagnostic-comorbidity",
-      "con-gharar-in-contracts",
-      "con-grundnorm-basic-norm-kelsen",
-      "con-insanity-defense-mnaghten",
-      "con-istihsan-juristic-preference",
-      "con-justice-healthcare",
-      "con-labour-process-braverman-bridge",
-      "con-legal-personality",
-      "con-legal-transplants-watson",
-      "con-madhhab-legal-school-institution",
       "con-market-morality-sandel-bridge",
-      "con-moral-economy-subsistence-bridge"
+      "con-textual-theology-narratival",
+      "ctx-arabic-self",
+      "dbt-nature-culture-anthropology",
+      "dbt-substantivism-formalism-economic-anthropology",
+      "que-what-is-forgiveness",
+      "que-what-is-language",
+      "sch-anthropological-political-economy",
+      "sch-religion-digital-technology",
+      "sch-nahda-modernization",
+      "stu-schoolyard-stories",
+      "thk-abd-al-qadir-awda",
+      "thk-abd-al-razzaq-al-sanhuri",
+      "thk-ainsworth"
     ],
     "edge-target-slug-unresolved": [
       "sch-annales-social-history-aggregate->historiography-section-18"
-    ],
-    "slug-mismatch": [
-      "thk-kimberlé-crenshaw",
-      "thk-émile-durkheim"
     ]
   },
-  "duplicate_ids": {
-    "ANT-13044": [
-      "scl-historical-anthropology",
-      "thk-bruno-latour"
-    ],
-    "ANT-13043": [
-      "scl-visual-anthropology",
-      "thk-arjun-appadurai"
-    ]
-  },
+  "duplicate_ids": {},
   "status_counts": {
-    "review-candidate": 2917
+    "review-candidate": 2812
   },
   "by_module": {
     "anthropology": {
-      "review-candidate": 498
+      "review-candidate": 449
     },
     "arab-thought": {
       "review-candidate": 114
@@ -79,7 +65,7 @@
       "review-candidate": 127
     },
     "historiography": {
-      "review-candidate": 227
+      "review-candidate": 224
     },
     "legal-theory": {
       "review-candidate": 126
@@ -88,7 +74,7 @@
       "review-candidate": 158
     },
     "philosophy": {
-      "review-candidate": 325
+      "review-candidate": 323
     },
     "political-economy": {
       "review-candidate": 161
@@ -97,18 +83,18 @@
       "review-candidate": 122
     },
     "psychology": {
-      "review-candidate": 310
+      "review-candidate": 309
     },
     "religious-studies": {
       "review-candidate": 149
     },
     "sociology": {
-      "review-candidate": 492
+      "review-candidate": 442
     }
   },
   "output_consistency": {
-    "data-en.json nodes": 2917,
-    "source nodes": 2917,
+    "data-en.json nodes": 2812,
+    "source nodes": 2812,
     "missing from output": 0,
     "stale in output (no source)": 0,
     "html lang/dir": "<html lang=\"en\" dir=\"ltr\">"

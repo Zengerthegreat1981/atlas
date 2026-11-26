@@ -9,7 +9,7 @@ school: "sch-comparative-death-ritual-studies"
 title: "Funeral Ritual and Purification"
 en: "Funeral Ritual and Purification"
 crumb: "Religious Studies ← Concepts ← Funeral Ritual and Purification"
-related:
+related: []
 gaps: []
 ---
 

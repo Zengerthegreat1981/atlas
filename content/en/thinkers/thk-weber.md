@@ -24,6 +24,8 @@ Max Weber (1864-1920) was a German sociologist, historian, and political economi
 
 Weber was born in Erfurt in 1864 and trained in law, economics, and history, becoming a professor at Freiburg and Heidelberg. A severe psychological crisis around 1897-1898 interrupted his work for several years. He returned to scholarship around 1903, edited the *Archiv für Sozialwissenschaft und Sozialpolitik*, and took part in German politics and the founding of the German Sociological Society. He died in Munich in 1920 of pneumonia, leaving *Economy and Society* unfinished.
 
+He grew up in Berlin, received his doctorate there in 1889, and held chairs in economics at Freiburg (1894) and Heidelberg (1896). After the breakdown he left regular teaching, then returned to it in Vienna and Munich. Marianne Weber, a scholar and his wife, edited much of the work published after his death.
+
 ## Main Ideas
 
 - **Verstehen and social action:** sociology should interpretively understand the subjective meaning that actors attach to their action. He distinguished instrumentally rational, value-rational, affectual, and traditional action.
@@ -42,17 +44,21 @@ Weber was born in Erfurt in 1864 and trained in law, economics, and history, bec
 - "Science as a Vocation" and "Politics as a Vocation" (lectures, 1917 and 1919)
 - *Economy and Society* (posthumous, 1921-1922)
 
+## Case Study
+
+*The Protestant Ethic* links ascetic Protestantism, including currents shaped by the doctrine of predestination, to a methodical conduct of life that had an affinity with the spirit of modern capitalism. Weber did not treat religion as the sole cause of capitalism.
+
 ## Method
 
 Weber combined comparative-historical research with interpretive understanding and causal explanation. He used ideal types to compare civilizations and was cautious about single-factor explanations.
 
 ## Influence and Criticism
 
-Weber shaped sociology of religion, organizations, politics, and stratification, as well as work by Talcott Parsons, C. Wright Mills, and others. Critics have challenged the empirical accuracy of the Protestant ethic thesis (for example, in the work of H. M. Robertson and Kurt Samuelsson), and the use of ideal types. Interpretations of his posthumous works are complicated by editorial issues.
+Weber shaped sociology of religion, organizations, politics, and stratification, as well as work by Talcott Parsons, C. Wright Mills, and others. Critics have challenged the empirical accuracy of the Protestant ethic thesis (for example, in the work of H. M. Robertson and Kurt Samuelsson), and the use of ideal types. Interpretations of his posthumous works are complicated by editorial issues. Scholars have also criticized his accounts of non-Western societies, including Islam, the abstraction of the typologies, and his German nationalism.
 
 ## Applications and Cross-References
 
-Weber's concepts guide studies of organizations, charisma in politics, and the economics of religion. Compare Marx on class, Durkheim on social facts, and Foucault on discipline.
+Weber's concepts guide studies of organizations, charisma in politics, and the economics of religion. Compare Marx on class, Durkheim on social facts, and Foucault on discipline. Compare also Simmel on money.
 
 ## Sources
 
@@ -61,3 +67,5 @@ Weber's concepts guide studies of organizations, charisma in politics, and the e
 - Gerth, H. and Mills, C. W. (eds.) (1946). *From Max Weber: Essays in Sociology*. Oxford University Press.
 - Bendix, R. (1960). *Max Weber: An Intellectual Portrait*. Doubleday.
 - Radkau, J. (2009). *Max Weber: A Biography*. Polity.
+- Kaesler, D. (1988). *Max Weber: An Introduction to His Life and Work*. Polity.
+- Turner, B. S. (1974). *Weber and Islam: A Critical Study*. Routledge and Kegan Paul.

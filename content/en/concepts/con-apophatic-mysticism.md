@@ -9,7 +9,7 @@ school: "sch-religion-and-silence-contemplative"
 title: "Apophatic Theology and the Negative Way"
 en: "Apophatic Theology and the Negative Way"
 crumb: "Religious Studies ← Concepts ← Apophatic Theology and the Negative Way"
-related:
+related: []
 gaps: []
 ---
 

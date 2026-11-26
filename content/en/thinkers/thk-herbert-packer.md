@@ -19,8 +19,7 @@ related:
 - id: "sch-criminal-law-theory", title: "Criminal Law Theory", type: "مدرسة"
 - id: "con-criminalization-theory", title: "Criminalization Theory", type: "مفهوم"
 - id: "thk-joel-feinberg", title: "Joel Feinberg", type: "مفكر"
-gaps:
-  - "His Stanford career (administrative posts, students): not yet covered."
+gaps: []
 ---
 # Herbert L. Packer
 
@@ -56,9 +55,16 @@ Packer applied his criteria skeptically to offenses sometimes called **victimles
 
 Packer's distinction became a core part of the teaching of criminal procedure in American universities, and was used as an analytical framework in comparative studies of criminal systems around the world. Critics have offered methodological observations. Some argue that the two-model dichotomy is simplified to the point of hiding a greater diversity of actual dynamics within the criminal system, such as plea bargaining, which fits neither model exactly. Others propose additional models, such as John Griffiths's "family model" (1970) and Kent Roach's victims'-rights models (1999).
 
+## Stanford career
+
+Packer joined the Stanford law faculty in 1956 as associate professor and was promoted to professor in 1959. Alongside scholarship, he took on university administration. From 1967 to 1969 he was vice provost for academic planning and programs, in years of student unrest. In that office he organized the Study of Education at Stanford, an inquiry whose ten published volumes of discussion and recommendations touched many parts of the university, and he was a principal architect of the Faculty Senate and of the University Fellows program. In 1969 he received the Lloyd W. Dinkelspiel Award for service to undergraduate education. A massive stroke that year left him badly disabled. He returned to the law school in the autumn of 1969 and in 1971 was named Jackson Eli Reynolds Professor of Law. Colleagues remembered him as a demanding classroom teacher who drew more from students than they expected of themselves, and as the driver of a curriculum revision in 1964 and 1965 that pressed the faculty to drop some required second-year courses rather than rearrange the existing list. He died on 6 December 1972.
+
 ## Sources
 
 - Packer, Herbert L. "Two Models of the Criminal Process." *University of Pennsylvania Law Review*, vol. 113, no. 1, 1964, pp. 1–68.
 - Packer, Herbert L. *The Limits of the Criminal Sanction*. Stanford University Press, 1968.
 - Griffiths, John. "Ideology in Criminal Procedure or a Third 'Model' of the Criminal Process." *Yale Law Journal* 79 (1970): 359-417.
 - Roach, Kent. "Four Models of the Criminal Process." *Journal of Criminal Law and Criminology* 89 (1999): 671-716.
+- Stanford Law School. "Herbert L. Packer 1925–1972." *Stanford Lawyer*, 1 March 1973.
+- Stanford University. "Memorial Resolution: Herbert L. Packer (1925–1972)."
+- Ehrlich, Thomas, and others. "Herbert L. Packer, 1925–1972." *Stanford Law Review* 26 (1974): 997 ff.

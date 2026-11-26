@@ -20,8 +20,7 @@ related:
 - id: "thk-lstevenhayes", title: "Steven C. Hayes", type: "مفكر"
 - id: "sch-act", title: "Acceptance and Commitment Therapy (ACT)", type: "مدرسة"
 - id: "sch-cognitive-behavioral", title: "Cognitive Behavioral Therapy (CBT)", type: "مدرسة"
-gaps:
-  - "Kirk D. Strosahl and Kelly G. Wilson as separate thinker entries: not yet covered"
+gaps: []
 ---
 
 # Steven Hayes's Acceptance and Commitment Therapy (1999)

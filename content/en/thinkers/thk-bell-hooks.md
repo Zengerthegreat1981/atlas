@@ -12,8 +12,7 @@ active_start: 1952
 active_end: 2021
 edges: []
 related: []
-gaps:
-- Contemporary empirical examples: not yet covered
+gaps: []
 sociological_tradition: other
 sociological_paradigm: micro-macro
 ---
@@ -27,7 +26,7 @@ hooks was born in Hopkinsville, Kentucky, and attended segregated and then integ
 
 ## Main Ideas
 
-- **Race, sex and class together.** *Ain't I a Woman* (1981) traced the position of Black women from slavery onward and criticized both a women's movement centred on white experience and Black politics centred on men.
+- **Race, sex and class together.** *Ain't I a Woman* (1981) traced the position of Black women from slavery onward and criticized both a women's movement centred on white experience and Black politics centred on men. She often named the joint system "imperialist white-supremacist capitalist patriarchy."
 - **Feminism as a movement against sexist oppression.** In *Feminist Theory: From Margin to Center* (1984) she rejected a definition of feminism as equality with men, since men differ greatly in status, and defined it as a struggle to end sexism, sexual exploitation and oppression.
 - **The margin.** Marginal positions can provide a critical view of both margin and centre and a space of resistance.
 - **Representation and the gaze.** *Black Looks* (1992) analyzed images of Blackness and proposed an "oppositional gaze" for critical spectatorship, particularly by Black women.
@@ -38,7 +37,9 @@ hooks was born in Hopkinsville, Kentucky, and attended segregated and then integ
 
 - *Ain't I a Woman: Black Women and Feminism* (1981)
 - *Feminist Theory: From Margin to Center* (1984)
+- *Talking Back: Thinking Feminist, Thinking Black* (1989)
 - *Yearning: Race, Gender, and Cultural Politics* (1990)
+- *All About Love: New Visions* (2000)
 - *Black Looks: Race and Representation* (1992)
 - *Teaching to Transgress* (1994)
 - *Feminism Is for Everybody* (2000)
@@ -54,11 +55,15 @@ Two examples show how hooks worked from concrete material. The essay on the oppo
 
 ## Influence and Criticism
 
-Her work is a reference point for Black feminist thought and critical pedagogy and is frequently discussed in relation to intersectional analysis. Critics have objected that her arguments rely heavily on personal observation, that documentation is thin and that some judgments on popular figures are polemical. Admirers regard the accessible style as part of her political method.
+Her work is a reference point for Black feminist thought and critical pedagogy and is frequently discussed in relation to intersectional analysis. Critics have objected that her arguments rely heavily on personal observation, that documentation is thin and that some judgments on popular figures are polemical. A related objection is that broad terms such as patriarchy are not always precise enough for systematic or empirical use. Admirers regard the accessible style as part of her political method.
 
 ## Related Concepts
 
 Intersectionality, standpoint, critical pedagogy; compare Patricia Hill Collins, Kimberlé Crenshaw and Paulo Freire.
+
+## Contemporary Empirical Examples
+
+Researchers have begun to treat engaged pedagogy as something that can be observed in classrooms, not only argued from memoir. Hilary E. Hughes, Rachel Ranschaert and Kelsey L. Benson report a qualitative case study in *Middle Grades Review* (2023) based on eight months of data from a Title I middle school in the southeastern United States during the COVID-19 period. They use hooks's 1994 account of engaged pedagogy to name what justice-oriented teachers were already doing. In their reading, that pedagogy means an interactive relationship in which teachers and students learn together; ongoing self-actualization, including work to identify and unlearn harmful dominant narratives about race and ethnicity, social class, disability and gender; and attention to the teacher's own well-being so that academic and social-emotional care for students remains possible. The authors present the study as illustrations of practice rather than a blueprint they claim will generalise. It is one school and one stretch of pandemic schooling, so it shows how the concept can organise field observation without settling how widely such teaching occurs.
 
 ## Sources
 
@@ -66,3 +71,6 @@ Intersectionality, standpoint, critical pedagogy; compare Patricia Hill Collins,
 - bell hooks, *Feminist Theory: From Margin to Center*, 1984.
 - bell hooks, *Black Looks: Race and Representation*, 1992.
 - bell hooks, *Teaching to Transgress: Education as the Practice of Freedom*, 1994.
+- bell hooks, *Talking Back: Thinking Feminist, Thinking Black*, 1989.
+- bell hooks, *All About Love: New Visions*, 2000.
+- Hughes, Hilary E., Rachel Ranschaert and Kelsey L. Benson. "Engaged Pedagogies in the Middle Grades: A Case Study of Justice-Oriented Teachers in COVID Times." *Middle Grades Review* (2023).

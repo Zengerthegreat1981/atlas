@@ -11,7 +11,7 @@ dates: "1929 · Malinowski"
 edges:
   - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
   - rel: "written_by", target: "Malinowski", target_type: "مفكر"
-related:
+related: []
 gaps: []
 ---
 

@@ -8,7 +8,7 @@ title: "Eyewitness Chronicle"
 en: "Eyewitness Chronicle"
 crumb: "Historiography ← Concepts ← Eyewitness Chronicle"
 edges: []
-related:
+related: []
 gaps: []
 ---
 

@@ -16,7 +16,7 @@ active_start: 880
 active_end: 923
 edges:
 - rel: "belongs_to", target: "Al-Masudi and Islamic Universal History", target_type: "مدرسة"
-related:
+related: []
 gaps: []
 ---
 

@@ -18,8 +18,7 @@ related:
 - id: "wrk-beck-cognitive-therapy-depression", title: "Cognitive Therapy and the Emotional Disorders", type: "عمل / كتاب"
 - id: "rel-cbt-thirdwave", title: "CBT and the Third Wave: From Evolution to Quiet Schism", type: "علاقة بين مدرستين"
 - id: "rel-cbt-nonwestern", title: "Cognitive-Behavioral Therapy and Non-Western Frameworks: Importing Buddhist Mindfulness", type: "علاقة بين مدرستين"
-gaps:
-  - "Effect of the modern Stoicism movement on clinical practice: not yet covered."
+gaps: []
 ---
 # Stoicism and CBT: From Epictetus to Beck
 
@@ -90,6 +89,12 @@ The Stoic background is the theory of emotions as judgments (associated especial
 
 The relation is best described as acknowledged inspiration with substantial transformation and loss, and it should not be read as showing that CBT simply re-states Stoicism.
 
+## The Modern Stoicism Movement and Clinical Practice
+
+The Modern Stoicism project, linked with public courses such as Stoic Week and with clinicians who also write on CBT, has taken Stoic exercises into short online programmes for general participants. Its own research summaries, covering roughly 1,500 people who finished questionnaires in the 2017 and 2018 Stoic Weeks, report average reductions in negative emotion and increases in life satisfaction after one week, and similar self-report shifts after a longer Stoic Mindfulness and Resilience Training course. Those figures are before-and-after reports from people who chose to join and who completed the forms. They are not controlled trials of patients in routine care.
+
+A peer-reviewed study by MacLellan and Derakshan (2021) randomly assigned 45 high worriers to Stoic training, Stoic training combined with working-memory training, or an active control, across eight sessions. Stoic training was associated with lower rumination and higher self-efficacy. The sample was selected for high worry in a research setting, so the result does not show that clinics have adopted Stoic protocols in place of CBT. Separate papers ask whether Stoic ideas can be folded into CBT for death anxiety (Menzies and Whittle, 2022) or can inform work with people who stutter (Connery, Cavanna, and Coleman, 2023). The movement has supplied training materials and early studies. It has not, on this evidence, replaced standard CBT in ordinary clinical services.
+
 ## Sources
 
 - Epictetus, *Enchiridion* and *Discourses* (arr. Arrian), e.g. in A. A. Long, *Epictetus: A Stoic and Socratic Guide to Life* (2002).
@@ -102,3 +107,7 @@ The relation is best described as acknowledged inspiration with substantial tran
 - Irvine, W. B. (2008). *A Guide to the Good Life: The Ancient Art of Stoic Joy*. Oxford University Press.
 - Pigliucci, M. (2017). *How to Be a Stoic*. Basic Books.
 - Robertson, D. (2010). *The Philosophy of Cognitive-Behavioural Therapy*. Karnac.
+- MacLellan, A., & Derakshan, N. (2021). The effects of Stoic training and adaptive working memory training on emotional vulnerability in high worriers. *Cognitive Therapy and Research*, 45, 730-744.
+- Menzies, R. E., & Whittle, L. F. (2022). Stoicism and death acceptance: Integrating Stoic philosophy in cognitive behaviour therapy for death anxiety. *Discover Psychology*, 2, 11.
+- Connery, A., Cavanna, A. E., & Coleman, R. (2023). Can Stoicism inspire stuttering intervention? The clinical usefulness of an ancient philosophy. *International Journal of Language and Communication Disorders*, 58, 977-987.
+- Modern Stoicism. Research (project summaries of Stoic Week and Stoic Mindfulness and Resilience Training).

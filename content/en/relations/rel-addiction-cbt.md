@@ -11,7 +11,7 @@ active_start: 1983
 active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "Cognitive Behavioral Therapy", target_type: "مدرسة"
-related:
+related: []
 gaps: []
 ---
 

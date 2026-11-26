@@ -16,7 +16,7 @@ active_start: 1994
 active_end: 1994
 edges:
 - rel: "belongs_to", target: "Lexical-Functional Grammar and HPSG", target_type: "مدرسة"
-related:
+related: []
 gaps: []
 ---
 

@@ -14,8 +14,7 @@ edges:
 - rel: "belongs_to", target: "Psychiatric Diagnostic Nosology", target_type: "مدرسة"
 related:
 - id: "sch-diagnostic-nosology", title: "Psychiatric Diagnostic Nosology", type: "مدرسة"
-gaps:
-  - "Recent comorbidity rate estimates for specific disorders: not yet covered"
+gaps: []
 ---
 
 # Diagnostic Comorbidity
@@ -39,6 +38,10 @@ Once hierarchical exclusions were relaxed, community surveys found that meeting 
 - **The transdiagnostic approach**: In response to the comorbidity problem, a "transdiagnostic" research and treatment approach has developed over the past two decades. It focuses on mechanisms and dimensions shared across disorders, such as emotion regulation or repetitive negative thinking, instead of treating each DSM diagnosis as a completely separate disease unit.
 - **Clinical impact**: In practice, comorbidity is associated with greater treatment complexity, more difficult diagnosis, and a worse prognosis. This makes it an important clinical criterion regardless of the theoretical debate about its nature.
 
+## Recent Pair Estimates
+
+Community surveys still produce different pair rates because interviews and time frames differ, but several large studies give usable anchors. In the WHO World Mental Health Surveys, Kessler, Sampson, and colleagues (2015) interviewed 74,045 adults across 24 countries. Among people with lifetime major depressive disorder, 45.7 percent also met criteria for a lifetime anxiety disorder; among those with twelve-month depression, 41.6 percent had a twelve-month anxiety disorder. Anxiety more often began first. In the U.S. National Epidemiologic Survey on Alcohol and Related Conditions III, Hasin and colleagues found that twelve-month major depression remained associated with other disorders after adjustment, with odds ratios from about 2.1 for specific phobia to about 5.7 for generalized anxiety disorder, and from about 1.8 for alcohol use disorder to about 3.0 for any drug use disorder. The National Comorbidity Survey Replication (Kessler et al., 2005) still supplies the standard U.S. picture of clustering: among people with any twelve-month disorder, 22 percent had two diagnoses and 23 percent had three or more.
+
 ## Sources
 
 - Alvan R. Feinstein, "The Pre-Therapeutic Classification of Co-Morbidity in Chronic Disease," *Journal of Chronic Diseases* 23, no. 7 (1970): 455-468.
@@ -46,6 +49,8 @@ Once hierarchical exclusions were relaxed, community surveys found that meeting 
 - Peter Tyrer, "Comorbidity or Consanguinity," *British Journal of Psychiatry* 168, no. 1 (1996): 1-3.
 - Boyd, Jeffrey H., et al. "Exclusion Criteria of DSM-III: A Study of Co-occurrence of Hierarchy-Free Syndromes." *Archives of General Psychiatry* 41, no. 10 (1984): 983-989.
 - Kessler, Ronald C., et al. "Prevalence, Severity, and Comorbidity of 12-Month DSM-IV Disorders in the National Comorbidity Survey Replication." *Archives of General Psychiatry* 62, no. 6 (2005): 617-627.
+- Ronald C. Kessler, Nancy A. Sampson, et al., "Anxious and Non-Anxious Major Depressive Disorder in the World Health Organization World Mental Health Surveys," *Epidemiology and Psychiatric Sciences* 24, no. 3 (2015): 210-226.
+- Deborah S. Hasin et al., "Epidemiology of Adult DSM-5 Major Depressive Disorder and Its Specifiers in the United States," *JAMA Psychiatry* 75, no. 4 (2018): 336-346.
 - Roman Kotov et al., "The Hierarchical Taxonomy of Psychopathology (HiTOP): A Dimensional Alternative to Traditional Nosologies," *Journal of Abnormal Psychology* 126, no. 4 (2017): 454-477.
 - American Psychiatric Association, *DSM-5-TR*, introduction to the section on classification and comorbidity.
 - World Health Organization, *Clinical Descriptions and Diagnostic Requirements for ICD-11 Mental, Behavioural and Neurodevelopmental Disorders* (2024).

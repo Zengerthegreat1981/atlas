@@ -16,7 +16,7 @@ active_start: 1972
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "Oakley's Sociology of Housework and Gendered Reproduction", target_type: "مدرسة"
-related:
+related: []
 gaps: []
 ---
 

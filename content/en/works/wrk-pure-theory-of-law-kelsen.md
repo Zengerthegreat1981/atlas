@@ -4,6 +4,7 @@ id: "WRK-9401"
 type: "عمل / كتاب"
 part: "legal-theory"
 level: "متقدم"
+quality: "unverified"
 title: "Pure Theory of Law (Reine Rechtslehre)"
 author: "Hans Kelsen"
 author_slug: "thk-hans-kelsen"
@@ -20,8 +21,7 @@ related:
 - id: "thk-hans-kelsen", title: "Hans Kelsen", type: "مفكر"
 - id: "con-grundnorm-basic-norm-kelsen", title: "Grundnorm (Basic Norm)", type: "مفهوم"
 - id: "sch-legal-positivism-modern", title: "Modern Legal Positivism", type: "مدرسة"
-gaps:
-  - "Detailed collation of the first edition (1934) and the second edition (1960): not yet covered"
+gaps: []
 ---
 
 # Pure Theory of Law (Reine Rechtslehre)
@@ -56,6 +56,10 @@ Kelsen had been the principal drafter of the constitution of the Republic of Aus
 
 Kelsen draws his philosophical inspiration from Kantian critical philosophy and from Neo-Kantianism (especially Hermann Cohen). Just as Kant distinguished between the world of facts (*Sein*) and the world of obligation (*Sollen*), refusing to derive one logically from the other, Kelsen insists that the validity of a legal norm (*Sollen*) cannot be derived from purely social facts (*Sein*), such as people's actual obedience to it. It always requires an independent normative presupposition (the basic norm), which makes it possible to read the facts as legal norms.
 
+## The 1934 and 1960 Editions
+
+Kelsen described the 1960 German edition, in its preface, as a complete reworking of the subjects treated in 1934 and a considerable widening of their range. Matthias Jestaedt's comparison of the two German texts finds that the main text of 1960 is about four times as long as the 1934 book, and about five times as long once the new appendix on the problem of justice is counted. That appendix is absent from the first edition. The sequence of argument stays largely the same, but the chapter count changes: two chapters of 1934 are joined, and the old third chapter is absorbed into other chapters, so that nine chapters become eight. Jestaedt judges most of the added material to be elaboration and greater precision rather than wholly new themes. Max Knight, translating the 1960 text, presents the second edition as an attempt to work through the problems of a general theory of law and to locate legal science among the sciences, while treating the underlying theory as continuous with the 1934 statement. His notes mark the main shifts. The English *Pure Theory of Law* (1967) follows this second edition, not the shorter 1934 book.
+
 ## Distinguishing the Basic Norm from the First Historical Constitution
 
 Kelsen clarifies that the "basic norm" is not the first historical constitution of the state, which is a historical fact. It is a **transcendental-logical presupposition** that makes it possible to interpret that historical constitution as legally binding at all. This precise distinction between the historical fact and the normative presupposition is what distinguishes his theory from any sociological attempt to explain the legitimacy of law merely by its social effectiveness.
@@ -64,4 +68,5 @@ Kelsen clarifies that the "basic norm" is not the first historical constitution 
 
 - Kelsen, Hans. *Pure Theory of Law*. Translated by Max Knight, University of California Press, 1967 (German original: *Reine Rechtslehre*, 2nd ed., 1960).
 - Paulson, Stanley L. & Litschewski Paulson, Bonnie (eds.). *Normativity and Norms: Critical Perspectives on Kelsenian Themes*. Oxford University Press, 1998.
+- Jestaedt, Matthias. Introduction to Hans Kelsen, *Reine Rechtslehre*, student edition of the first edition (1934). Tübingen: Mohr Siebeck, 2008.
 - Kelsen, Hans. *General Theory of Law and State*. Translated by Anders Wedberg, Harvard University Press, 1945.

@@ -16,7 +16,7 @@ active_start: 1976
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "Linguistic Typology & Language Universals", target_type: "مدرسة"
-related:
+related: []
 gaps: []
 ---
 

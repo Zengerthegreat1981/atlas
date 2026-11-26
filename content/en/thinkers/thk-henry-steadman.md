@@ -4,6 +4,7 @@ id: "THK-13153"
 type: "مفكر"
 part: "psychiatry"
 level: "متقدم"
+quality: "unverified incomplete"
 title: "Henry J. Steadman"
 en: "Henry J. Steadman"
 crumb: "Psychiatry ← Thinkers ← Henry J. Steadman"
@@ -26,7 +27,7 @@ An American sociologist specializing in mental health services and the criminal 
 
 ## Career
 
-Steadman earned a B.A. and an M.A. in sociology at Boston College and a Ph.D. in sociology at the University of North Carolina at Chapel Hill in 1971. His exact birth date is not established in the sources used here; a 2017 reflection described him as in his early seventies. He spent about seventeen years in research at the New York State Office of Mental Health, taught at the University of North Carolina, Union College, Rensselaer Polytechnic Institute, and the University at Albany, and in 1987 founded Policy Research Associates in Delmar, New York, which he led until his retirement at the end of 2017. The work concerns violence risk, jail mental health services, mental health courts, and programs that divert people with psychiatric disorders from incarceration into care. With John Monahan he edited *Mentally Disordered Offenders* (1983) and, with Joseph Morrissey and Dennis McCarty, *The Mentally Ill in Jail* (1989). *Before and After Hinckley: Evaluating Insanity Defense Reform* (1993, with Margaret McGreevy) examined how states changed the insanity defense after the Hinckley verdict.
+Steadman earned a B.A. and an M.A. in sociology at Boston College and a Ph.D. in sociology at the University of North Carolina at Chapel Hill in 1971. National library authority files record his birth year as 1943, which fits a 2017 description of him as in his early seventies, but they do not give the day. He spent about seventeen years in research at the New York State Office of Mental Health, taught at the University of North Carolina, Union College, Rensselaer Polytechnic Institute, and the University at Albany, and in 1987 founded Policy Research Associates in Delmar, New York, which he led until his retirement at the end of 2017. The work concerns violence risk, jail mental health services, mental health courts, and programs that divert people with psychiatric disorders from incarceration into care. With John Monahan he edited *Mentally Disordered Offenders* (1983) and, with Joseph Morrissey and Dennis McCarty, *The Mentally Ill in Jail* (1989). *Before and After Hinckley: Evaluating Insanity Defense Reform* (1993, with Margaret McGreevy) examined how states changed the insanity defense after the Hinckley verdict.
 
 ## The MacArthur Violence Risk Assessment Study
 
@@ -52,3 +53,4 @@ The study drew on samples discharged from specific hospitals in particular Ameri
 - Steadman, Henry J., Eric Silver, John Monahan, Paul S. Appelbaum, et al. "A Classification Tree Approach to the Development of Actuarial Violence Risk Assessment Tools." *Law and Human Behavior* 24, no. 1 (2000): 83–100.
 - Steadman, Henry J., Edward P. Mulvey, John Monahan, Pamela Clark Robbins, Paul S. Appelbaum, Thomas Grisso, Loren H. Roth, and Eric Silver. "Violence by People Discharged from Acute Psychiatric Inpatient Facilities and by Others in the Same Neighborhoods." *Archives of General Psychiatry* 55, no. 5 (1998): 393–401.
 - Steadman, Henry J., Dennis W. McCarty, and Joseph P. Morrissey. *The Mentally Ill in Jail: Planning for Essential Services*. New York: Guilford Press, 1989.
+- Bibliothèque nationale de France, authority record for Henry J. Steadman (birth year 1943).
