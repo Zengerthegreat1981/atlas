@@ -13,7 +13,6 @@ active_end: 2021
 edges: []
 related: []
 gaps:
-- Detailed case studies: not yet covered
 - Contemporary empirical examples: not yet covered
 sociological_tradition: other
 sociological_paradigm: micro-macro
@@ -48,6 +47,10 @@ hooks was born in Hopkinsville, Kentucky, and attended segregated and then integ
 ## Method
 
 She combined autobiography, close reading of films, books and popular culture, and social theory, deliberately using plain language and often omitting footnotes so as to reach readers beyond universities.
+
+## Case Studies
+
+Two examples show how hooks worked from concrete material. The essay on the oppositional gaze, in *Black Looks*, begins from histories of prohibited looking: under slavery and racial domination, Black people could be punished for how they looked at those in power. hooks then considered Black women as film spectators. Mainstream cinema either left them out or showed them through demeaning types, and she argued that many responded by looking critically, refusing to identify with the images offered. Drawing partly on conversations with Black women, she also questioned feminist film theory that analysed sexual difference while neglecting race, and she discussed independent films by Black women as places where other ways of seeing were being built. In *Teaching to Transgress*, her own schooling supplies a case. In segregated schools, Black teachers treated learning as part of resistance to racism and took an interest in pupils' whole lives; after desegregation, she encountered classrooms where obedience mattered more and Black children's eagerness could be read as a threat. The contrast informs her argument for engaged teaching. It rests on recollection, so it illustrates an experience rather than measuring the effects of desegregation.
 
 ## Influence and Criticism
 

@@ -14,8 +14,7 @@ edges:
 related:
 - id: "sch-sociology-of-scientific-knowledge", title: "Sociology of Knowledge and Science", type: "مدرسة"
 - id: "thk-david-bloor", title: "David Bloor", type: "مفكر"
-gaps:
-  - "The controversy over this programme in the \"science wars\" of the 1990s: not yet covered"
+gaps: []
 ---
 
 # The Strong Programme in the Sociology of Scientific Knowledge
@@ -38,8 +37,16 @@ The Strong Programme was applied in practice in famous empirical studies, most n
 
 This work was a founding influence on the field of "science and technology studies" and influenced the philosophy and history of science, despite the sharp controversy it provoked over epistemic "relativism" in the "science wars" of the 1990s.
 
+## The Programme in the "Science Wars"
+
+In the 1990s some scientists and philosophers attacked sociological and cultural studies of science, and the Strong Programme was among the targets. Paul Gross and Norman Levitt's *Higher Superstition* (1994) charged a range of academic critics of science with hostility and poor grasp of the subject. In 1996 the physicist Alan Sokal published a deliberately nonsensical article in the cultural studies journal *Social Text* and then revealed the hoax; the journal was not an organ of the Edinburgh school. Sokal and Jean Bricmont, in *Fashionable Nonsense* (French 1997; English 1998), did criticise Bloor and Barnes more directly, arguing that an explanation of why a belief is held cannot leave aside the evidence for it, and that symmetry slides toward an implausible relativism. Defenders replied that the programme's relativism is methodological, that natural reality can figure among the causes of both true and false beliefs, and that explaining a belief sociologically does not declare it false. The volume *The One Culture?* (2001) brought scientists and sociologists into a more measured exchange.
+
 ## Sources
 
 - Bloor, David. *Knowledge and Social Imagery*. Routledge & Kegan Paul, 1976.
 - Barnes, Barry, David Bloor, and John Henry. *Scientific Knowledge: A Sociological Analysis*. University of Chicago Press, 1996.
 - Shapin, Steven, and Simon Schaffer. *Leviathan and the Air-Pump: Hobbes, Boyle, and the Experimental Life*. Princeton University Press, 1985.
+- Gross, Paul R., and Norman Levitt. *Higher Superstition: The Academic Left and Its Quarrels with Science*. Johns Hopkins University Press, 1994.
+- Sokal, Alan D. "Transgressing the Boundaries: Towards a Transformative Hermeneutics of Quantum Gravity." *Social Text*, 1996.
+- Sokal, Alan, and Jean Bricmont. *Fashionable Nonsense*. Picador, 1998.
+- Labinger, Jay A., and Harry Collins, eds. *The One Culture? A Conversation about Science*. University of Chicago Press, 2001.

@@ -12,8 +12,7 @@ active_start: 1976
 active_end: مستمر
 edges: []
 related: []
-gaps:
-- Detailed empirical case studies: not yet covered
+gaps: []
 ---
 
 # The History of Sexuality
@@ -36,6 +35,10 @@ The book's central concept is the "deployment of sexuality" (*dispositif de sexu
 
 The volume is organised in five short chapters. The first ("We 'Other Victorians'") and second ("The Repressive Hypothesis") dismantle the idea that modern societies simply repressed sex; the third ("Scientia Sexualis") contrasts the modern science of sexuality built on confession with the erotic arts of other civilisations; the fourth ("The Deployment of Sexuality") sets out the method of analysing power as productive and relational rather than a possession held by a ruling class, and identifies four strategic unities through which sexuality was deployed (the hysterisation of women's bodies, the pedagogisation of children's sex, the socialisation of procreative behaviour, and the psychiatrisation of perverse pleasure); and the fifth ("Right of Death and Power over Life") introduces biopower — the modern form of power that takes life itself, populations, bodies and health, as its object. The method is genealogical rather than chronological: Foucault does not narrate a continuous story but traces the emergence of practices and discourses, showing how contingent historical accidents hardened into what now seems natural.
 
+## Cases in and after the Volume
+
+The first volume uses brief examples more than sustained case research. One concerns Charles Jouy, a farm labourer in a French village in 1867, who was reported to the authorities for sexual contact with a young girl. He was examined by physicians and confined to an asylum. Foucault used the episode to show how local conduct became an object of legal and medical knowledge; feminist critics have objected that his account plays down the harm to the child. In 1978 Foucault published the memoir of Herculine Barbin, a nineteenth-century French intersex person who was raised as a girl and later legally reclassified as male, together with medical and official documents. The dossier shows the demand for a single true sex operating on one life. Ann Laura Stoler's *Race and the Education of Desire* (1995) tested the framework against colonial history, drawing partly on her research on the Dutch East Indies, and argued that racial and imperial relations, largely absent from the volume, were central to the formation of European bourgeois sexuality.
+
 ## Reception and Influence
 
 The book transformed the study of sexuality across sociology, history, literary studies, queer theory and feminist theory. It supplied the conceptual vocabulary — discourse, power/knowledge, biopower, the deployment of sexuality — that shaped the emergence of queer studies in the 1990s. Gayle Rubin, Eve Kosofsky Sedgwick, Judith Butler and David Halperin all built on or argued with Foucault's framework. The book also influenced sociology's understanding of the body, medicine and governmentality, and its account of confession shaped the study of therapeutic culture and self-help.
@@ -54,3 +57,5 @@ Feminist critics have argued that Foucault's account of power is curiously gende
 - Didier Eribon, *Michel Foucault* (1991); French original (1989).
 - Gary Gutting, ed., *The Cambridge Companion to Foucault* (1994).
 - Arnold I. Davidson, ed., *Foucault and His Interlocutors* (1997).
+- Michel Foucault, ed., *Herculine Barbin* (French original 1978; English translation 1980).
+- Ann Laura Stoler, *Race and the Education of Desire: Foucault's History of Sexuality and the Colonial Order of Things* (1995).

@@ -11,8 +11,7 @@ active_start: 1900
 active_end: "مستمر"
 edges: []
 related: []
-gaps:
-  - "Primary sources beyond the listed works: not yet covered"
+gaps: []
 ---
 
 # Animal Rights
@@ -37,6 +36,10 @@ These positions are objected to on the grounds that they equate beings that diff
 
 The debate over raising animals in intensive farming (factory farming) embodies the disagreement in practice. Advocates of welfare are content to demand better conditions of rearing, whereas advocates of rights hold that the only ethical solution is to end the use of animals for food altogether.
 
+## Further Primary Sources
+
+Concern for animals has older philosophical texts behind it. Plutarch's essays in the *Moralia*, including "On the Eating of Flesh", and Porphyry's *On Abstinence from Animal Food* argue against killing animals for the table. Descartes, in Part Five of the *Discourse on the Method* (1637), treated animals as lacking language and reason, and Kant, in his lectures on ethics, held that our duties regarding animals are indirect duties to humanity. Henry Salt's *Animals' Rights* (1892) is an early book-length case for rights. The Oxford collection *Animals, Men and Morals* (1971), edited by Stanley and Roslind Godlovitch and John Harris, preceded Singer's book. Later contributions include Mary Midgley's *Animals and Why They Matter* (1983), Christine Korsgaard's Kantian argument in *Fellow Creatures* (2018), Martha Nussbaum's capabilities approach in *Frontiers of Justice* (2006), and Sue Donaldson and Will Kymlicka's *Zoopolis* (2011), which proposes a political theory of animal rights.
+
 ## Sources
 
 - Bentham, Jeremy. *An Introduction to the Principles of Morals and Legislation*. 1789.
@@ -44,3 +47,12 @@ The debate over raising animals in intensive farming (factory farming) embodies 
 - Regan, Tom. *The Case for Animal Rights*. University of California Press, 1983.
 - Cohen, Carl. "The Case for the Use of Animals in Biomedical Research." *New England Journal of Medicine* 315, 1986.
 - Adams, Carol J. *The Sexual Politics of Meat*. Continuum, 1990.
+- Porphyry. *On Abstinence from Animal Food*.
+- Plutarch. "On the Eating of Flesh." In *Moralia*.
+- Descartes, René. *Discourse on the Method*. 1637.
+- Salt, Henry S. *Animals' Rights: Considered in Relation to Social Progress*. 1892.
+- Godlovitch, Stanley, Roslind Godlovitch, and John Harris, eds. *Animals, Men and Morals*. Gollancz, 1971.
+- Midgley, Mary. *Animals and Why They Matter*. 1983.
+- Nussbaum, Martha C. *Frontiers of Justice*. Harvard University Press, 2006.
+- Donaldson, Sue, and Will Kymlicka. *Zoopolis: A Political Theory of Animal Rights*. Oxford University Press, 2011.
+- Korsgaard, Christine M. *Fellow Creatures: Our Obligations to the Other Animals*. Oxford University Press, 2018.

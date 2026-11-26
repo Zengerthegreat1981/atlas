@@ -12,8 +12,7 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "Utilitarianism and Consequentialism", target_type: "مدرسة"
 related: []
-gaps:
-  - "Primary sources: not yet covered."
+gaps: []
 ---
 
 # Consequentialist Impartiality
@@ -38,9 +37,19 @@ This concept is closely linked to the school of utilitarianism and consequential
 
 Strict application of impartiality faces a significant practical objection. Must an individual actually devote all of their surplus income to needy strangers as long as that increases overall good? Peter Singer holds that logic requires this unless one sacrifices something of comparable moral importance. Moderates such as Samuel Scheffler, however, argue for the need to recognize "agent-centered prerogatives," which allow the individual to give relatively greater weight to their own projects and loved ones without fully violating the principle of impartiality. This is an attempt to reconcile the demands of universal morality with the realities of personal life.
 
+## Further Primary Sources
+
+William Godwin's *Enquiry Concerning Political Justice* (1793) gave an early and uncompromising statement: faced with a fire in which only one person can be saved, one should rescue the great benefactor Fénelon rather than his chambermaid, even if she were one's own relative. Bentham's *Introduction to the Principles of Morals and Legislation* (1789) counts the extent of an action, the number of people affected, in the calculation of pleasure and pain. Mill's *Utilitarianism* (1861) requires the agent, between personal happiness and that of others, to be as strictly impartial as a disinterested and benevolent spectator. R. M. Hare's *Moral Thinking* (1981) derived equal weighting of preferences from the universalizability of moral judgments. Among critics and revisers, Peter Railton (1984) argued that a consequentialist can value close relationships non-instrumentally in motivation while still assessing them by impartial standards, and Susan Wolf's "Moral Saints" (1982) questioned whether maximal moral devotion is an attractive ideal.
+
 ## Sources
 
 - Sidgwick, Henry. *The Methods of Ethics*. Macmillan, 1874.
 - Singer, Peter. "Famine, Affluence, and Morality." *Philosophy & Public Affairs*, 1972.
 - Scheffler, Samuel. *The Rejection of Consequentialism*. Oxford University Press, 1982.
 - Smart, J. J. C., and Bernard Williams. *Utilitarianism: For and Against*. Cambridge University Press, 1973.
+- Godwin, William. *An Enquiry Concerning Political Justice*. 1793.
+- Bentham, Jeremy. *An Introduction to the Principles of Morals and Legislation*. 1789.
+- Mill, John Stuart. *Utilitarianism*. 1861.
+- Hare, R. M. *Moral Thinking*. Oxford University Press, 1981.
+- Wolf, Susan. "Moral Saints." *The Journal of Philosophy* 79, 1982.
+- Railton, Peter. "Alienation, Consequentialism, and the Demands of Morality." *Philosophy & Public Affairs* 13, 1984.

@@ -11,8 +11,7 @@ active_start: 1900
 active_end: "مستمر"
 edges: []
 related: []
-gaps:
-  - "Comprehensive expansion and deepening of content: not yet covered"
+gaps: []
 ---
 
 # Bioethics Principles
@@ -49,6 +48,12 @@ Among the most contested issues in this field are end-of-life questions. Is with
 
 A parallel debate branches from this framework concerning the ethics of using animals in medical experiments before treatments are applied to humans, where the interests of medical progress are balanced against the welfare of living creatures. Research institutions have adopted the "Three Rs" principle, formulated by W. M. S. Russell and R. L. Burch in *The Principles of Humane Experimental Technique* (1959): replacement with non-animal methods wherever possible, reduction of the number of animals used, and refinement of their conditions to reduce suffering. This intersects with the Islamic prohibition of torturing animals without genuine necessity.
 
+## Consent, Research Codes and Rival Methods
+
+Research ethics had earlier landmarks. The Nuremberg Code (1947), arising from the trial of Nazi physicians, put the voluntary consent of the human subject first, and the World Medical Association's Declaration of Helsinki (1964, revised several times since) set out duties for physicians conducting research. Ruth Faden and Beauchamp, in *A History and Theory of Informed Consent* (1986), analysed autonomous authorization in terms of intention, understanding and freedom from controlling influence.
+
+Rival methods challenge or supplement principlism. Albert Jonsen and Stephen Toulmin, in *The Abuse of Casuistry* (1988), argued for reasoning from clear paradigm cases to new ones by analogy; Jonsen had served on the commission that produced the Belmont Report. Bernard Gert and colleagues defend a systematic account of common morality built on moral rules and ideals. Narrative approaches attend to the patient's story. At the international level, UNESCO's Universal Declaration on Bioethics and Human Rights (2005) lists a wider set of principles, including human dignity, solidarity, benefit sharing and protection of future generations.
+
 ## Sources
 
 - Beauchamp, Tom L., and James F. Childress. *Principles of Biomedical Ethics*. Oxford University Press, 1979.
@@ -56,3 +61,9 @@ A parallel debate branches from this framework concerning the ethics of using an
 - Russell, W. M. S., and R. L. Burch. *The Principles of Humane Experimental Technique*. Methuen, 1959.
 - Jonsen, Albert R. *The Birth of Bioethics*. Oxford University Press, 1998.
 - International Islamic Fiqh Academy. *Resolutions and Recommendations of the Council of the Islamic Fiqh Academy*. Jeddah: Organisation of Islamic Cooperation.
+- *The Nuremberg Code* (1947).
+- World Medical Association. *Declaration of Helsinki* (1964).
+- Faden, Ruth R., and Tom L. Beauchamp. *A History and Theory of Informed Consent*. Oxford University Press, 1986.
+- Jonsen, Albert R., and Stephen Toulmin. *The Abuse of Casuistry*. University of California Press, 1988.
+- Gert, Bernard, Charles M. Culver, and K. Danner Clouser. *Bioethics: A Return to Fundamentals*. Oxford University Press, 1997.
+- UNESCO. *Universal Declaration on Bioethics and Human Rights*, 2005.

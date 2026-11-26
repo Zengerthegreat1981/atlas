@@ -11,8 +11,7 @@ active_start: 1900
 active_end: "مستمر"
 edges: []
 related: []
-gaps:
-  - "Primary sources: not yet covered."
+gaps: []
 ---
 
 # Beneficence & Non-Maleficence
@@ -33,8 +32,18 @@ An early grounding of these two principles is found in the Hippocratic tradition
 
 The tension between the two principles is evident in chemotherapy decisions. Treatment may cause certain harm (nausea, hair loss, weakened immunity) in pursuit of a possible benefit (prolonged life or cure). This requires the physician to balance the two carefully, applying the principle of proportionality between the expected harm and the sought benefit. In jurisprudence this is known as the maxim "the more severe harm is removed by the lighter harm."
 
+## Further Primary Sources
+
+The Hippocratic treatise *Epidemics* (Book I) advises the physician, regarding diseases, to help or at least to do no harm, which is the closest ancient wording to the later Latin maxim. In modern moral philosophy, John Stuart Mill's *On Liberty* (1859) makes the prevention of harm to others the ground for restricting conduct. W. D. Ross, in *The Right and the Good* (1930), listed beneficence and non-maleficence as distinct duties that hold unless outweighed, and judged the duty not to harm the more stringent; this scheme of overridable duties influenced the principle-based method in bioethics. Peter Singer's "Famine, Affluence, and Morality" (1972) argued for a demanding duty to prevent serious harm when one can do so without comparable sacrifice. The Belmont Report (1979) states beneficence as a principle of research ethics, expressed in two rules: do not harm, and maximize possible benefits while minimizing possible harms. William Frankena's *Ethics* (1963) also analysed beneficence into preventing harm, removing it, and promoting good, alongside not inflicting it.
+
 ## Sources
 
 - Beauchamp, Tom L. and Childress, James F. *Principles of Biomedical Ethics*. Oxford University Press, 1979.
 - al-Raghib al-Isfahani. *al-Dhari'a ila Makarim al-Shari'a*. Classical Arabic ethical treatise.
 - Ibn Nujaym, Zayn al-Din. *al-Ashbah wa-l-Naza'ir*. Dar al-Kutub al-Ilmiyya, 1999.
+- Hippocrates. *Epidemics*, Book I.
+- Mill, John Stuart. *On Liberty*. 1859.
+- Ross, W. D. *The Right and the Good*. Oxford University Press, 1930.
+- Frankena, William K. *Ethics*. Prentice-Hall, 1963.
+- Singer, Peter. "Famine, Affluence, and Morality." *Philosophy & Public Affairs* 1, 1972.
+- National Commission for the Protection of Human Subjects. *The Belmont Report*. 1979.

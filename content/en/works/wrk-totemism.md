@@ -19,8 +19,7 @@ sources:
   - Lévi-Strauss, Claude. The Savage Mind. University of Chicago Press, 1966.
   - Goldenweiser, Alexander A. "Totemism: An Analytical Study." Journal of American Folklore 23, 1910.
   - Durkheim, Émile. The Elementary Forms of Religious Life. George Allen and Unwin, 1915.
-gaps:
-  - "Living totemism and how contemporary Indigenous peoples understand their totemic systems: not yet covered"
+gaps: []
 ---
 
 # Totemism
@@ -101,6 +100,12 @@ Indigenous scholars have critiqued anthropological treatment of totemism for ext
 
 Some scholars also noted that Lévi-Strauss's analysis may not apply equally to all societies where totemism has been documented.
 
+## Living Totemic Relations
+
+Indigenous accounts show what a purely classificatory reading leaves out: for many people relations with totemic beings are matters of kinship, country and obligation in the present. The Anishinaabe writer Basil Johnston, in *Ojibway Heritage* (1976), presents the totem as a bond that identifies kin and carries expectations about character, solidarity and conduct. The historian Heidi Bohaker, working with Anishinaabe records, argues that *doodem* identity organized alliance, governance and territory.
+
+In Australia, the Gagudju elder Bill Neidjie, in *Story About Feeling* (1989), speaks of a felt, bodily connection between people, other living things and land, grounded in the Dreaming. Deborah Bird Rose, an anthropologist who learned from the Yarralin community in the Northern Territory, describes in *Dingo Makes Us Human* (1992) and *Nourishing Terrains* (1996) how people, animals and places stand in reciprocal relations of care within "country". These accounts come from particular communities and cannot be generalized into a single Indigenous theory of totemism. Terms, practices and the effects of dispossession differ widely, and some knowledge is restricted by those who hold it.
+
 ## Contemporary Relevance
 
 *Totemism* remains important for understanding how to approach classification systems and symbolic thought in anthropology. The principle that apparently distinct institutions may be understood through underlying logical structures remains influential.
@@ -115,3 +120,8 @@ The work remains historically important for understanding structuralism and the 
 - Lévi-Strauss, Claude. *The Savage Mind*. University of Chicago Press, 1966.
 - Goldenweiser, Alexander A. "Totemism: An Analytical Study." *Journal of American Folklore* 23 (1910).
 - Durkheim, Émile. *The Elementary Forms of Religious Life*. George Allen and Unwin, 1915.
+- Johnston, Basil. *Ojibway Heritage*. McClelland and Stewart, 1976.
+- Bohaker, Heidi. *Doodem and Council Fire: Anishinaabe Governance through Alliance*. University of Toronto Press, 2020.
+- Neidjie, Bill. *Story About Feeling*. Magabala Books, 1989.
+- Rose, Deborah Bird. *Dingo Makes Us Human: Life and Land in an Aboriginal Australian Culture*. Cambridge University Press, 1992.
+- Rose, Deborah Bird. *Nourishing Terrains: Australian Aboriginal Views of Landscape and Wilderness*. Australian Heritage Commission, 1996.

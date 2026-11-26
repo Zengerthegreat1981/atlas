@@ -12,9 +12,7 @@ active_start: 1959
 active_end: 1959
 edges: []
 related: []
-gaps:
-- Detailed empirical case studies: not yet covered
-- Cross-disciplinary applications: not yet covered
+gaps: []
 ---
 
 # The Sociological Imagination
@@ -45,6 +43,14 @@ The book transformed the teaching of sociology and became a touchstone for the N
 
 Critics have noted that Mills's targets were partly caricatures: Parsons's theory was more empirically engaged than Mills allowed, and Lazarsfeld's survey research produced genuine knowledge. Others argue that Mills's own work, including *The Power Elite*, was itself more journalistic than sociological, and that his celebration of the "classic" tradition glossed over the deep disagreements between Marx, Weber and Durkheim. Some feminist critics have observed that Mills's imagination was curiously silent on gender, and that his account of power said little about the household. These criticisms have not displaced the book: as an account of what sociology promises, and of how it can fail, it remains notable for its clarity and force.
 
+## Case Studies in the Same Spirit
+
+Several studies show the move from troubles to issues in detail, whether or not they set out to apply Mills. Marie Jahoda, Paul Lazarsfeld and Hans Zeisel's study of Marienthal, an Austrian village whose main employer had closed (first published in 1933, before Mills wrote), showed that mass unemployment reshaped daily time, aspirations and community life. Eric Klinenberg's *Heat Wave* (2002) examined the deaths in Chicago in 1995 as more than a weather event, relating them to isolation among older people, neighbourhood conditions, city services and media coverage. In each, an experience that could be told as private misfortune is explained partly by the organisation of a place and period.
+
+## Applications beyond Sociology
+
+The phrase and its logic have travelled. In criminology, Jock Young's *The Criminological Imagination* (2011) took up Mills's critique to challenge a discipline dominated by narrow quantification. In medical anthropology and public health, a related concern appears in Paul Farmer's account of structural violence, which links individual illness to historically produced inequality; this is an affinity of approach and not simply a derivation from Mills. Social workers and teachers have similarly used the distinction to ask when a problem presented by one person calls for collective as well as individual responses.
+
 ## Sources
 
 - C. Wright Mills, *The Sociological Imagination* (1959).
@@ -54,3 +60,7 @@ Critics have noted that Mills's targets were partly caricatures: Parsons's theor
 - Daniel Geary, *Radical Ambition: C. Wright Mills, the Left, and American Social Thought* (2009).
 - John D. Brewer, *C. Wright Mills and the Ending of Violence* (2003).
 - John H. Summers, ed., *The Politics of Truth: Selected Writings of C. Wright Mills*. Oxford University Press, 2008.
+- Marie Jahoda, Paul F. Lazarsfeld, and Hans Zeisel, *Marienthal: The Sociography of an Unemployed Community* (German 1933; English 1971).
+- Eric Klinenberg, *Heat Wave: A Social Autopsy of Disaster in Chicago* (2002).
+- Jock Young, *The Criminological Imagination* (2011).
+- Paul Farmer, "An Anthropology of Structural Violence," *Current Anthropology* (2004).

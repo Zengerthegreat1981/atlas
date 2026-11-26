@@ -3,17 +3,10 @@
   "parse_warnings": 0,
   "parse_warning_examples": [],
   "flag_counts": {
-    "edge-target-by-name": 2428,
-    "declared-gaps": 376,
-    "placeholder": 32,
-    "no-title": 32,
-    "part-not-explicit": 44,
-    "unclassified": 44,
-    "short": 33,
+    "edge-target-by-name": 2426,
+    "declared-gaps": 134,
     "edge-target-slug-unresolved": 1,
-    "related-unresolved": 26,
     "slug-mismatch": 2,
-    "no-crumb": 1,
     "duplicate-id-groups": 2
   },
   "flag_examples": {
@@ -35,133 +28,28 @@
       "br-corpus-linguistics->Corpus Linguistics"
     ],
     "declared-gaps": [
-      "con-abortion-ethics",
-      "con-act-vs-rule-utilitarianism",
-      "con-agent-centered-consequentialism",
-      "con-agent-centered-duties",
       "con-ahliyya-legal-capacity-usul",
-      "con-ancient-ethics-greece",
-      "con-animal-rights-ethics",
-      "con-anti-cult-movement-response",
-      "con-autonomy-informed-consent",
-      "con-axis-mundi-sacred-space-eliade",
-      "con-beneficence-nonmaleficence",
-      "con-biocentrism",
-      "con-business-virtue",
-      "con-caring-relationships",
-      "con-character-ethics"
-    ],
-    "placeholder": [
-      "con-bilateral",
-      "con-rites-passage",
-      "con-shaman",
-      "con-social-capital",
-      "scl-applied-anthropology",
-      "scl-british-functionalism",
-      "scl-cultural-relativism",
-      "scl-development-anthropology",
-      "scl-digital-anthropology",
-      "scl-disability-anthropology",
-      "scl-economic-anthropology",
-      "scl-feminist-anthropology",
-      "scl-linguistic-anthropology",
-      "scl-medical-anthropology",
-      "scl-political-anthropology"
-    ],
-    "no-title": [
-      "con-bilateral",
-      "con-rites-passage",
-      "con-shaman",
-      "con-social-capital",
-      "scl-applied-anthropology",
-      "scl-british-functionalism",
-      "scl-cultural-relativism",
-      "scl-development-anthropology",
-      "scl-digital-anthropology",
-      "scl-disability-anthropology",
-      "scl-economic-anthropology",
-      "scl-feminist-anthropology",
-      "scl-linguistic-anthropology",
-      "scl-medical-anthropology",
-      "scl-political-anthropology"
-    ],
-    "part-not-explicit": [
-      "con-bilateral",
-      "con-rites-passage",
-      "con-shaman",
-      "con-social-capital",
-      "scl-applied-anthropology",
-      "scl-british-functionalism",
-      "scl-cultural-relativism",
-      "scl-development-anthropology",
-      "scl-digital-anthropology",
-      "scl-disability-anthropology",
-      "scl-economic-anthropology",
-      "scl-feminist-anthropology",
-      "scl-linguistic-anthropology",
-      "scl-medical-anthropology",
-      "scl-political-anthropology"
-    ],
-    "unclassified": [
-      "con-bilateral",
-      "con-rites-passage",
-      "con-shaman",
-      "con-social-capital",
-      "scl-applied-anthropology",
-      "scl-british-functionalism",
-      "scl-cultural-relativism",
-      "scl-development-anthropology",
-      "scl-digital-anthropology",
-      "scl-disability-anthropology",
-      "scl-economic-anthropology",
-      "scl-feminist-anthropology",
-      "scl-linguistic-anthropology",
-      "scl-medical-anthropology",
-      "scl-political-anthropology"
-    ],
-    "short": [
-      "con-bilateral",
-      "con-rites-passage",
-      "con-shaman",
-      "con-social-capital",
-      "scl-applied-anthropology",
-      "scl-british-functionalism",
-      "scl-cultural-relativism",
-      "scl-development-anthropology",
-      "scl-digital-anthropology",
-      "scl-disability-anthropology",
-      "scl-economic-anthropology",
-      "scl-feminist-anthropology",
-      "scl-linguistic-anthropology",
-      "scl-medical-anthropology",
-      "scl-political-anthropology"
+      "con-creolization",
+      "con-debt-financial-stress-psychology-bridge",
+      "con-diagnostic-comorbidity",
+      "con-gharar-in-contracts",
+      "con-grundnorm-basic-norm-kelsen",
+      "con-insanity-defense-mnaghten",
+      "con-istihsan-juristic-preference",
+      "con-justice-healthcare",
+      "con-labour-process-braverman-bridge",
+      "con-legal-personality",
+      "con-legal-transplants-watson",
+      "con-madhhab-legal-school-institution",
+      "con-market-morality-sandel-bridge",
+      "con-moral-economy-subsistence-bridge"
     ],
     "edge-target-slug-unresolved": [
       "sch-annales-social-history-aggregate->historiography-section-18"
     ],
-    "related-unresolved": [
-      "thk-douglas->thk-leach",
-      "thk-douglas->con-purity-danger",
-      "thk-douglas->con-classification-systems",
-      "thk-douglas->con-symbolism-bodies",
-      "thk-geertz->con-culture-as-text",
-      "thk-geertz->con-thick-description",
-      "thk-geertz->con-symbolic-anthropology",
-      "thk-gluckman->thk-leach",
-      "thk-gluckman->con-ritual-conflict",
-      "thk-gluckman->con-social-drama",
-      "thk-gluckman->con-ordeal-ritual-judgment",
-      "thk-myerhoff->con-ritual-self-creation",
-      "thk-myerhoff->con-aging-embodiment",
-      "thk-myerhoff->con-performance-ethnography",
-      "thk-ortner->con-practice-theory"
-    ],
     "slug-mismatch": [
       "thk-kimberlé-crenshaw",
       "thk-émile-durkheim"
-    ],
-    "no-crumb": [
-      "thk-marilyn-strathern"
     ]
   },
   "duplicate_ids": {
@@ -175,13 +63,11 @@
     ]
   },
   "status_counts": {
-    "review-candidate": 2884,
-    "placeholder": 32,
-    "draft-short": 1
+    "review-candidate": 2917
   },
   "by_module": {
     "anthropology": {
-      "review-candidate": 455
+      "review-candidate": 498
     },
     "arab-thought": {
       "review-candidate": 114
@@ -211,18 +97,13 @@
       "review-candidate": 122
     },
     "psychology": {
-      "review-candidate": 309
+      "review-candidate": 310
     },
     "religious-studies": {
       "review-candidate": 149
     },
     "sociology": {
       "review-candidate": 492
-    },
-    "unclassified": {
-      "placeholder": 32,
-      "draft-short": 1,
-      "review-candidate": 11
     }
   },
   "output_consistency": {

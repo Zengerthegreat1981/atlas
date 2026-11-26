@@ -12,8 +12,7 @@ active_start: 1913
 active_end: 2003
 edges: []
 related: []
-gaps:
-- Cross-references to related concepts: not yet covered
+gaps: []
 sociological_tradition: other
 sociological_paradigm: micro-macro
 ---
@@ -50,6 +49,10 @@ Coser left Germany after the Nazi rise to power, lived in Paris, and emigrated t
 
 Coser worked through theoretical synthesis and historical-sociological interpretation, placing ideas within their social contexts, rather than through original survey research.
 
+## Related Concepts
+
+Coser's analysis connects with several concepts. Social conflict is read alongside social cohesion and group boundaries, following Georg Simmel's view that opposition is itself a form of association. His functional analysis draws on Robert K. Merton's attention to manifest and latent functions and to dysfunctions, so a conflict may have consequences its participants never intended. The distinction between realistic and nonrealistic conflict is related to scapegoating, in which hostility is redirected to a convenient target. Safety-valve institutions bear on social control and social change, since they may release tension while leaving its sources in place. Conflict theory, in the versions developed by Ralf Dahrendorf and others from partly Marxian and Weberian roots, offers a contrast by emphasising domination and structural interests. Greedy institutions relate to commitment, role demands and Goffman's total institution, and the study of intellectuals belongs to the sociology of knowledge.
+
 ## Influence and Criticism
 
 His work bridged functionalism and conflict theory and was important in textbooks and in the sociology of knowledge. Critics argued that treating conflict through its social functions underplays its coercive and structural sources, and that his account remains tied to functionalist assumptions of equilibrium. Ralf Dahrendorf's conflict theory, by contrast, centres on authority relations.
@@ -60,3 +63,4 @@ His work bridged functionalism and conflict theory and was important in textbook
 - Lewis A. Coser, Masters of Sociological Thought (1971)
 - Georg Simmel, Conflict and the Web of Group Affiliations (English translation 1955)
 - Ralf Dahrendorf, Class and Class Conflict in Industrial Society (1959)
+- Robert K. Merton, Social Theory and Social Structure (1949)

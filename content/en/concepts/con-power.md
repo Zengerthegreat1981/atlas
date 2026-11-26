@@ -14,8 +14,7 @@ edges: []
 related: []
 sociological_tradition: other
 sociological_paradigm: micro-macro
-gaps:
-  - "Non-Western conceptions of power: not yet covered"
+gaps: []
 ---
 
 # Power: Getting Others to Do What They Would Not Otherwise Do
@@ -46,6 +45,10 @@ Lukes's third dimension has been criticized for a serious problem: if people's p
 
 Power remains central to sociology and political science. It now frames research on digital platforms, where firms shape what users see and want; on global supply chains, where buyers in one country set the conditions of labour in another; and on intimate life, where feminist scholarship has shown how power operates in the household as much as in the parliament. The concept endures because every account of social order must answer the same question: whose will prevails, and how?
 
+## Conceptions of Power beyond the Modern West
+
+Other intellectual traditions framed power in their own terms. In ancient China, Confucian texts held that a ruler's virtue (*de*) and ritual conduct could draw compliance more durably than punishment, while the *Han Feizi* grounded rule in law, administrative technique and positional advantage. The Sanskrit *Arthashastra*, attributed to Kautilya, treats statecraft in detail, covering revenue, officials, spies, punishment and relations among neighbouring kings. In the *Muqaddimah* (1377), Ibn Khaldun explained the rise of dynasties by *asabiyya*, a group solidarity that enables conquest and weakens as ruling houses settle into urban luxury. Benedict Anderson's essay on Javanese culture (1972) reconstructed an idea of power as a concrete force, constant in total quantity, that a ruler concentrates through ascetic discipline, so that its legitimacy is not a separate question in the modern Western sense. These are reconstructions from particular texts and settings, not a single non-Western view, and each tradition contained its own disagreements.
+
 ## Sources
 
 - Bachrach, Peter, and Morton S. Baratz. "Two Faces of Power." *American Political Science Review*, vol. 56, no. 4, 1962, pp. 947–952.
@@ -53,3 +56,7 @@ Power remains central to sociology and political science. It now frames research
 - Foucault, Michel. *Discipline and Punish: The Birth of the Prison*. Allen Lane, 1977. First published in French, 1975.
 - Lukes, Steven. *Power: A Radical View*. Macmillan, 1974.
 - Weber, Max. *Economy and Society: An Outline of Interpretive Sociology*. University of California Press, 1968. First published in German, 1922.
+- Ibn Khaldun. *The Muqaddimah: An Introduction to History*, translated by Franz Rosenthal. Princeton University Press, 1958.
+- Anderson, Benedict R. O'G. "The Idea of Power in Javanese Culture." In Claire Holt, ed., *Culture and Politics in Indonesia*. Cornell University Press, 1972.
+- Kautilya. *Arthashastra*.
+- Han Fei. *Han Feizi*.

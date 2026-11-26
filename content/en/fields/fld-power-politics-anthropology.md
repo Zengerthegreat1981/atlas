@@ -8,9 +8,7 @@ title: "Power, State and Politics in Anthropology"
 en: "Power, State and Politics in Anthropology"
 crumb: "Anthropology ← Fields ← Power, State and Politics in Anthropology"
 edges: []
-gaps:
-  - "Anarchist and anti-state anthropology, such as the work of Pierre Clastres and James C. Scott: not yet covered"
-  - "Anthropology of law and conflict resolution in depth: not yet covered"
+gaps: []
 related:
   - id: "fld-anthropology", title: "Anthropology", type: "مجال"
   - id: "br-political-anthropology-subfield", title: "Political Anthropology", type: "مدرسة"
@@ -62,13 +60,21 @@ Later generations turned to history and inequality. Eric Wolf placed small commu
 
 Anthropologists have documented war, genocide and everyday violence, and have argued that harm is often structural, built into social and economic arrangements rather than inflicted by identifiable perpetrators alone. Paul Farmer, working in Haiti, helped popularise the idea of structural violence in medicine and public health. Applied and development anthropology study aid, planning and projects, and have also drawn sharp criticism; the Atlas covers the critique of development anthropology and a case study of dam-induced displacement. Research on asylum and borders examines how states classify and control movement.
 
+## Anarchist and anti-state anthropology
+
+Some anthropologists have questioned the assumption that the state is the destination of political development. Pierre Clastres, in *Society Against the State* (1974), drew on South American ethnography to argue that many societies without states did not simply lack them but actively prevented the concentration of coercive power, for instance by surrounding chiefs with obligations of generosity and speech while denying them the means to command. James C. Scott's *The Art of Not Being Governed* (2009) interpreted much of the history of upland Southeast Asia, often called Zomia, in terms of people evading lowland states through mobility, particular forms of cultivation and flexible identities. His *Seeing Like a State* (1998) analysed how states simplify social life in order to administer it. David Graeber's *Fragments of an Anarchist Anthropology* (2004) proposed gathering ethnographic knowledge about self-organisation and consensus. Critics ask whether these accounts overstate deliberate resistance or idealise stateless societies and their internal inequalities.
+
+## Law and conflict resolution
+
+Legal anthropology asks how norms are upheld and disputes handled, with or without courts. Bronislaw Malinowski's *Crime and Custom in Savage Society* (1926) stressed reciprocal obligation as a source of compliance, and Karl Llewellyn and E. Adamson Hoebel's *The Cheyenne Way* (1941) analysed "trouble cases". Max Gluckman's study of Barotse courts (1955) described reasoning around the figure of the "reasonable man", comparable in part with Western jurisprudence. Paul Bohannan, writing on the Tiv (1957), warned against translating local categories into Western legal ones. Later work shifted from rules to processes, following how parties choose among avoidance, negotiation, mediation, adjudication or violence, as in Laura Nader and Harry Todd's *The Disputing Process* (1978). Sally Falk Moore's idea of the "semi-autonomous social field" (1973) and studies of legal pluralism show several normative orders operating together. Nader also argued that an emphasis on harmony and compromise can serve power by discouraging claims of right.
+
 ## Debates
 
 How far can early studies of political systems be trusted given their colonial setting? Is the state the right unit of analysis? Should anthropologists work with military and development agencies, or is such work incompatible with their ethical commitments? The debate over militarisation and the critique of development take up the last two questions.
 
 ## How the Atlas covers this field
 
-Coverage runs from founding works on African political systems through to violence, development and migration. It is stronger on British structural-functionalist and later critical approaches than on anarchist or anti-state theory, flagged in the gaps above.
+Coverage runs from founding works on African political systems through to violence, development and migration. It is strongest on British structural-functionalist and later critical approaches; anti-state theory and legal anthropology are introduced above.
 
 ## Suggested reading order
 
@@ -81,3 +87,14 @@ Start with the political anthropology subfield entry, then *African Political Sy
 - Leach, Edmund. *Political Systems of Highland Burma: A Study of Kachin Social Structure*. G. Bell and Sons, 1954.
 - Wolf, Eric R. *Europe and the People Without History*. University of California Press, 1982.
 - Comaroff, Jean, and John L. Comaroff. *Of Revelation and Revolution*, Volume 1. University of Chicago Press, 1991.
+- Bohannan, Paul. *Justice and Judgment among the Tiv*. Oxford University Press, 1957.
+- Clastres, Pierre. *Society Against the State*. Translated by Robert Hurley. Zone Books, 1987. First published in French, 1974.
+- Gluckman, Max. *The Judicial Process among the Barotse of Northern Rhodesia*. Manchester University Press, 1955.
+- Graeber, David. *Fragments of an Anarchist Anthropology*. Prickly Paradigm Press, 2004.
+- Llewellyn, Karl N., and E. Adamson Hoebel. *The Cheyenne Way*. University of Oklahoma Press, 1941.
+- Malinowski, Bronislaw. *Crime and Custom in Savage Society*. Kegan Paul, 1926.
+- Moore, Sally Falk. "Law and Social Change: The Semi-Autonomous Social Field as an Appropriate Subject of Study." *Law and Society Review* 7, no. 4. 1973.
+- Nader, Laura. *Harmony Ideology: Justice and Control in a Zapotec Mountain Village*. Stanford University Press, 1990.
+- Nader, Laura, and Harry F. Todd, eds. *The Disputing Process: Law in Ten Societies*. Columbia University Press, 1978.
+- Scott, James C. *Seeing Like a State*. Yale University Press, 1998.
+- Scott, James C. *The Art of Not Being Governed: An Anarchist History of Upland Southeast Asia*. Yale University Press, 2009.

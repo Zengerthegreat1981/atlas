@@ -12,9 +12,7 @@ active_start: 1900
 active_end: مستمر
 edges: []
 related: []
-gaps:
-- Cross-school comparisons: not yet covered
-- Empirical examples: not yet covered
+gaps: []
 sociological_tradition: other
 sociological_paradigm: micro-macro
 ---
@@ -44,6 +42,14 @@ A third dimension is the social meaning of the average. Quetelet's "average man"
 
 The normal distribution remains central to quantitative sociology, but its role is changing. Modern computing has made resampling methods — bootstrapping and permutation tests — widely available, reducing dependence on normal-theory inference. Robust statistics and the modelling of skewed, heavy-tailed distributions have become standard in the study of inequality, networks, and the digital economy, where a few extreme cases dominate. Nevertheless, the normal distribution retains its place as a benchmark and a teaching tool: it is the simplest model of random variation, the reference against which other distributions are understood, and the foundation of the inferential logic that lets sociologists move from samples to populations. Any sociologist who works with numbers needs to understand the bell curve — what it assumes, what it licenses, and where it fails.
 
+## Empirical Examples
+
+Adult height within one sex in a reasonably homogeneous population is approximately normal, as are many other body measurements, the kind of evidence Quetelet relied on. Intelligence test scores form a bell curve largely by design: raw results are standardised, conventionally to a mean of 100 and often a standard deviation of 15, so the shape of the reported scale is not independent proof about the underlying ability. In opinion polling, individual answers may be a simple yes or no, yet the proportion computed from repeated large random samples is approximately normal, which supports the familiar margin of error. Income and city size, by contrast, are strongly skewed and serve as standard counterexamples.
+
+## Readings across Schools
+
+Traditions of social thought have given the curve different meanings. Quetelet's social physics treated the average as revealing a stable type behind individual variation. Durkheim, in *Suicide*, rejected the identification of the collective type with the average individual, holding that social facts have a reality that cannot be obtained by averaging persons. Galton shifted interest from the centre to the spread and the extremes, linking statistics to eugenics. Interpretive and critical scholars ask how categories and measurements are made before any distribution appears; Ian Hacking's *The Taming of Chance* (1990) traces how statistical normality became a way of classifying people.
+
 ## Sources
 
 - Abraham de Moivre, *The Doctrine of Chances*, 2nd ed., 1738.
@@ -51,3 +57,5 @@ The normal distribution remains central to quantitative sociology, but its role 
 - Adolphe Quetelet, *Sur l'homme et le développement de ses facultés*, 1835.
 - Francis Galton, *Natural Inheritance*, 1889.
 - Ronald A. Fisher, *Statistical Methods for Research Workers*, 1925.
+- Émile Durkheim, *Suicide: A Study in Sociology*, 1897.
+- Ian Hacking, *The Taming of Chance*, 1990.

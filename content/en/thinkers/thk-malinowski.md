@@ -16,8 +16,7 @@ related:
   - id: "con-ethnography", title: "Ethnography as Method", type: "مفهوم"
   - id: "thk-franz-boas", title: "Franz Boas", type: "مفكر"
   - id: "thk-radcliffe-brown", title: "A.R. Radcliffe-Brown", type: "مفكر"
-gaps:
-  - "Gender bias in his ethnographic accounts: not yet covered"
+gaps: []
 ---
 
 # Bronislaw Malinowski: Modern Ethnographic Fieldwork
@@ -82,6 +81,12 @@ His functionalist framework has been criticized as overly consensual, minimizing
 
 Additionally, his relationship with his Trobriand informants involved significant power asymmetries and dependence relationships typical of colonial-era anthropology. While he did not employ the coercive methods of some anthropologists, his presence was enabled by colonial authority, and his ethnographic authority rested partly on colonial hierarchies.
 
+## Gender in the Ethnographic Accounts
+
+Malinowski paid considerable attention to women, particularly in *The Sexual Life of Savages*, which discussed their sexuality, marriage, work, and place in a matrilineal society. Yet his account of exchange and politics centred largely on men's activities, above all the kula. Annette Weiner's restudy in the Trobriands, published as *Women of Value, Men of Renown* (1976), showed that women controlled their own forms of wealth, bundles of banana leaves and fibre skirts, and distributed them in large mortuary ceremonies. These exchanges affirmed the standing of the matrilineage and drew on resources supplied by husbands, so they were bound up with men's political projects. Weiner argued that Malinowski and later anthropologists had not recognised their significance.
+
+The example shows how a researcher's assumptions about where value and power lie can shape even detailed observation. It does not mean that women are absent from his work, nor that sex alone determines what an ethnographer can see; Weiner's questions also arose from later feminist debate and a different theory of exchange. Readers can ask of each account who was consulted, which activities counted as economic or political, and how male and female perspectives were weighted.
+
 ## Postcolonial Positioning and Indigenous Research Ethics
 
 Malinowski's approach to fieldwork was, for its time, comparatively respectful of indigenous knowledge systems. He was genuinely interested in understanding Trobriand people on their own terms rather than merely confirming evolutionary hierarchies. However, he did not question the broader colonial contexts enabling his research or the asymmetrical distribution of ethnographic authority.
@@ -119,3 +124,4 @@ Multi-sited ethnography, collaborative methodologies, and indigenous-led researc
 - Young, Michael W. *Malinowski's Kiriwina: Fieldwork Photography 1915-1918*. University of Chicago Press, 1998.
 - Young, Michael W. *Malinowski: Odyssey of an Anthropologist, 1884–1920*. Yale University Press, 2004.
 - Kuper, Adam. *The Reinvention of Primitive Society: Transformations of a Myth*. Routledge, 2nd edition 2005.
+- Weiner, Annette B. *Women of Value, Men of Renown: New Perspectives in Trobriand Exchange*. University of Texas Press, 1976.

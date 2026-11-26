@@ -16,8 +16,7 @@ related:
 - id: "sch-criminal-law-theory", title: "Criminal Law Theory", type: "مدرسة"
 - id: "thk-herbert-packer", title: "Herbert L. Packer", type: "مفكر"
 - id: "thk-joel-feinberg", title: "Joel Feinberg", type: "مفكر"
-gaps:
-  - "Detailed treatment of the Duff, Farmer, Marshall, Renzo and Tadros *Criminalization* project: not yet covered"
+gaps: []
 ---
 # Criminalization Theory
 
@@ -33,7 +32,7 @@ Joel Feinberg, in his expansive project *The Moral Limits of the Criminal Law* (
 
 ## The communicative and collective dimension in Duff
 
-Antony Duff, together with Lindsay Farmer, Sandra Marshall, Massimo Renzo and Victor Tadros (co-editors of the collective volume *Criminalization: The Political Morality of the Criminal Law*, 2014), has developed an approach that links the justification of criminalization to the idea of public wrongs and to membership in a shared political community. It builds on Duff's communicative theory of punishment in *Answering for Crime* (2007). This adds a communicative dimension to the debate that goes beyond the abstract calculation of harm and benefit, toward a deeper question about the legitimacy of holding an individual accountable before the community that the criminal law addresses.
+Antony Duff, together with Lindsay Farmer, Sandra Marshall, Massimo Renzo and Victor Tadros (co-editors of the collective volume *Criminalization: The Political Morality of the Criminal Law*, 2014), has examined how to justify criminalization; Duff and Marshall in particular developed an approach that links the justification of criminalization to the idea of public wrongs and to membership in a shared political community. It builds on Duff's communicative theory of punishment in *Punishment, Communication, and Community* (2001) and his account of responsibility in *Answering for Crime* (2007). This adds a communicative dimension to the debate that goes beyond the abstract calculation of harm and benefit, toward a deeper question about the legitimacy of holding an individual accountable before the community that the criminal law addresses.
 
 ## A comparison with the principle of benefit and harm in usul al-fiqh
 
@@ -47,9 +46,18 @@ Contemporary scholars in this field are also concerned with the phenomenon of **
 
 Criminalization theory has become an independent and influential research field in debates on contemporary criminal policy reform. Debate continues, however, over the difficulty of applying its criteria in borderline cases where it is hard to determine precisely whether a clear real harm exists.
 
+## The *Criminalization* Project
+
+The collaboration between the five scholars, based in the United Kingdom and supported by the Arts and Humanities Research Council, produced four edited volumes: *The Boundaries of the Criminal Law* (2010), *The Structures of the Criminal Law* (2011), *The Constitution of the Criminal Law* (2013) and *Criminalization: The Political Morality of the Criminal Law* (2014). The sequence asks how criminal law differs from other forms of regulation, how offences and responsibility are structured, how criminal law relates to political and constitutional order, and which principles should govern decisions to criminalize. Its participants did not settle on one master principle.
+
+Related monographs show their differences. Lindsay Farmer's *Making the Modern Criminal Law* (2016) gives a historical account in which criminal law serves to secure civil order, so that the scope of criminalization changes with that order. Victor Tadros's *Wrongs and Crimes* (2016) approaches the question through wider moral theory about wrongs, harms and rights, and is more instrumental in orientation. Duff's *The Realm of Criminal Law* (2018) argues that a polity should use criminal law to respond to wrongs that fall within its public realm, calling their perpetrators to account, and doubts that the harm principle alone can fix the limits.
+
 ## Sources
 
 - Packer, Herbert L. *The Limits of the Criminal Sanction*. Stanford University Press, 1968.
 - Husak, Douglas. *Overcriminalization: The Limits of the Criminal Law*. Oxford University Press, 2008.
 - Feinberg, Joel. *The Moral Limits of the Criminal Law*. 4 vols. Oxford University Press, 1984-1988.
 - Duff, R. A., Lindsay Farmer, S. E. Marshall, Massimo Renzo and Victor Tadros, eds. *Criminalization: The Political Morality of the Criminal Law*. Oxford University Press, 2014.
+- Farmer, Lindsay. *Making the Modern Criminal Law: Criminalization and Civil Order*. Oxford University Press, 2016.
+- Tadros, Victor. *Wrongs and Crimes*. Oxford University Press, 2016.
+- Duff, R. A. *The Realm of Criminal Law*. Oxford University Press, 2018.

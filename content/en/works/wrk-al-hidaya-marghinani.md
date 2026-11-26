@@ -7,19 +7,18 @@ level: "متقدم"
 title: "Al-Hidaya Sharh Bidayat al-Mubtadi"
 author: "Burhan al-Din Ali ibn Abi Bakr al-Marghinani"
 author_slug: "thk-al-marghinani"
-publication_year: 1197
+publication_year: 1190
 original_language: "Arabic"
 en: "Al-Hidaya Sharh Bidayat al-Mubtadi"
 crumb: "Legal Theory ← Works ← Al-Hidaya"
 legal_tradition: "Hanafi Jurisprudence"
-active_start: 1197
+active_start: 1190
 active_end: "مستمر"
 edges:
 - rel: "authored_by", target: "Burhan al-Din al-Marghinani", target_type: "مفكر"
 related:
 gaps:
   - "Complete listing of commentaries and glosses: not yet covered"
-  - "Exact date of composition: not yet covered (1197 CE is Marghinani's death year, used only as an upper limit)"
 ---
 # Al-Hidaya Sharh Bidayat al-Mubtadi
 
@@ -57,8 +56,13 @@ Beyond Hamilton's translation, *Al-Hidaya* was a principal source for a number o
 
 *Al-Hidaya* remains present in the contemporary curricula of Hanafi jurisprudence in Pakistan, India, Bangladesh, Afghanistan and Central Asia. It is a standard text in the traditional seminary curriculum (the Dars-i Nizami tradition in South Asia). Completing its study marks a student's arrival at an intermediate-to-advanced stage of jurisprudential formation before moving on to deeper commentaries such as *Fath al-Qadir*. This confirms its continued living presence in traditional religious education, more than eight centuries after its composition.
 
+## Date of Composition
+
+The traditional biographical and bibliographical literature reports that Marghinani began *Al-Hidaya* in Dhu al-Qa'da 573 AH (1178 CE) and worked on it for about thirteen years. This report is repeated, among others, by the Ottoman bibliographer Katib Chelebi (Hajji Khalifa) in *Kashf al-Zunun* and the thirteen years of work are also mentioned by the Indian Hanafi scholar Abd al-Hayy al-Laknawi in his introduction to the *Hidaya*. Counting thirteen years from the starting date places completion at about 586 AH, around 1190 CE, several years before the author's death in 593 AH (1197 CE). The completion year is therefore a calculation from the traditional report, and it should be treated as approximate. The same literature adds pious accounts of the author's habits during these years, including continuous fasting, which belong to the reception of the book and its reputation more than to its datable history. The long period of work fits the sequence described above, in which Marghinani first wrote the base text and an extended commentary and then produced the more concise commentary that became the standard one.
+
 ## Sources
 
 - Al-Marghinani, Burhan al-Din Ali ibn Abi Bakr. *Al-Hidaya Sharh Bidayat al-Mubtadi* (various editions).
 - Hamilton, Charles (trans.). *The Hedaya, or Guide: A Commentary on the Mussulman Laws*. 4 vols., London, 1791.
 - Hallaq, Wael B. *Shari'a: Theory, Practice, Transformations*. Cambridge University Press, 2009.
+- Katib Chelebi (Hajji Khalifa). *Kashf al-Zunun 'an Asami al-Kutub wa al-Funun* (17th century; various editions).

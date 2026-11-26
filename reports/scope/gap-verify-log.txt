@@ -1,0 +1,276 @@
+## batch 01
+con-creolization: partly checked (source, Haiti, Seychelles, Mauritius, Aruba/Curacao status confirmed; summary of DeGraff argument not separately looked up)
+con-hegemony: partly checked (source entries matched in Crossref/Open Library; summaries of Guha, Chatterjee and Mbembe arguments not separately looked up)
+con-integration: partly checked (sources and Dekker/Engbersen findings confirmed; Ellison, Sunstein and Miller findings not separately looked up)
+con-kinship: partly checked (both books confirmed; their findings not separately looked up)
+con-kula-exchange: partly checked (source, sacred-objects argument and kitoum ownership confirmed; Godelier's specific use of Damon and the path-replacement detail not confirmed in a source)
+con-magic-religion-frazer: partly checked (source, Shilluk/Seligman/Evans-Pritchard, third-edition structure partly and corn volumes confirmed; Ainu, fire festivals and Spencer/Gillen use not separately confirmed)
+con-modernity: partly checked (source entries matched in Crossref/Open Library; summaries of the books' arguments not separately looked up)
+con-moka-hagen-exchange: partly checked (Meggitt article, war compensation to moka, initiatory gifts, 1974 film confirmed; "ropes of moka" usage and Enga comparison not separately confirmed)
+con-patrilineal-descent: partly checked (sources, Tunisia, Shi'i rule, Egypt 2017, Egypt and Morocco nationality confirmed; Moors motive of preserving brothers' support only indirectly confirmed)
+con-ritual: partly checked (sources and Helland distinction confirmed; Dayan/Katz, Couldry and Campbell summaries not separately looked up)
+con-symbol: partly checked (source entries matched in Crossref/Open Library; summaries of Shifman, Coleman, Boellstorff and emoji remarks not separately looked up)
+con-war: partly checked (sources, Estonia, Stuxnet, Ukraine 2015, Tallinn Manual confirmed; Rid and Clarke/Knake arguments not separately looked up) [https://en.wikipedia.org/wiki/Tallinn_Manual]
+fld-anthropology: partly checked (source entries matched in Crossref/Open Library; dates and attributions such as Gombe, Libby, NAGPRA not separately web searched)
+fld-ethnography-fieldwork-ethics: partly checked (source entries matched in Crossref/Open Library; film history and multispecies study details not separately confirmed)
+fld-kinship-exchange-economy: partly checked (sources, Zaloom and Miyazaki claims confirmed; Ho, Maurer, Zelizer and Callon summaries not separately looked up)
+fld-power-politics-anthropology: partly checked (source entries matched in Crossref/Open Library; summaries of the works' arguments not separately looked up)
+thk-appadurai: partly checked (sources confirmed; Hine, Pink and Bernal summaries not separately looked up)
+thk-arjun-appadurai: partly checked (sources confirmed; Hine, Pink and Bernal summaries not separately looked up)
+thk-bruno-latour: partly checked (sources, Todd critique, Mitchell malaria chapters confirmed; de Laet/Mol, Verran, TallBear and Anderson summaries not separately looked up)
+thk-fei-xiaotong: partly checked (1957 essay, campaigns, cadre school in Hubei, 1972 return and translation, Pasternak source confirmed; colleagues' part in criticism and Arkush's coverage not confirmed)
+thk-george-marcus: partly checked (sources, complicity argument, para-ethnography, Lassiter consultants and feminist roots confirmed; Lassiter public and Indigenous strands not confirmed)
+thk-haraway: partly checked (sources confirmed, Cajete year checked; summaries of the works not separately looked up)
+thk-james-clifford: partly checked (sources and Ax Fight CD-ROM confirmed; Clifford and Pink summaries not separately looked up)
+thk-latour: partly checked (sources and Todd critique confirmed; de Laet/Mol, Verran, Anderson and de la Cadena summaries not separately looked up)
+thk-leacock: partly checked (sources, Women's Work, school study and poverty critique confirmed; critics' view of limits on race and sexuality not looked up)
+thk-lindatuhiwai: partly checked (sources, Fals-Borda, Rivera Cusicanqui book, Porsanger, CARE, Te Mana Raraunga confirmed; Andean Oral History Workshop link not confirmed in detail)
+thk-malinowski: partly checked (Weiner source confirmed; her findings not separately looked up)
+thk-paul-rabinow: partly checked (sources confirmed; Mahmood, Hirschkind and handbook summaries not separately looked up)
+wrk-hawaiian-kinship: partly checked (sources, 50 percent rule, Haloa sibling tradition and Mahele subject confirmed; details of Kameeleihiwa and Kauanui interpretations only partly confirmed)
+wrk-residence-kinship: partly checked (sources confirmed; Wallace/Atkins psychological reality confirmed; Burling and Lounsbury arguments not confirmed beyond titles)
+wrk-totemism: fixed Bohaker claim: removed unconfirmed "remains meaningful today", "rights in land" changed to "territory"; sources, Neidjie, Rose/Yarralin and Johnston confirmed in secondary sources [web search summaries of the University of Toronto Press book description]
+con-conscious-acts: partly checked (both sources confirmed; Clark model and blindsight descriptions not separately looked up)
+con-ethics-of-interest-riba-bridge: partly checked (school criteria, six goods, Ghazali and Ibn Rushd points confirmed in secondary sources; Aristotle and Quran passages not separately looked up)
+con-facticity: partly checked (four listed sources confirmed; Fanon, Freire, Martin-Baro, Gordon, May and Yalom claims not separately looked up)
+
+## batch 02
+con-fusion-horizons: partly checked (sources matched in Crossref/Open Library, Fowers/Richardson dialogue-versus-relativism framing seen in secondary sources; full argument, Taylor summary not separately looked up)
+con-money-happiness-easterlin-bridge: partly checked (sources and Arab Spring findings incl. wasta confirmed; summary of Ianchovichina book argument and conflict-survey remarks not separately looked up)
+con-praxis: partly checked (sources matched in Crossref/Open Library; summaries of Lyotard and Habermas arguments not separately looked up)
+con-psychophysics-fechner: partly checked (sources matched in Crossref/Open Library; findings of Swets, Lissek, Schandry not separately looked up)
+con-qualia: partly checked (sources matched in Crossref/Open Library; summaries of the cited arguments not separately looked up)
+con-unconscious-inference: partly checked (sources matched in Crossref/Open Library; experimental details not separately looked up)
+que-what-is-language: partly checked (block has no source entries; claims on Pinker, Lenneberg, Whorf not looked up)
+rel-integrative-humanistic-common-factors: partly checked (sources matched in Crossref/Open Library; Adler finding and McAdams theory summary not separately looked up)
+thk-helmholtz: partly checked (1858 and 1882 papers and Darrigol confirmed; physics claims, Faraday Lecture not separately looked up)
+thk-titchener: partly checked (sources, Dallenbach editorship/chair, women admitted to the Society confirmed; Boring and Stevens content claims not separately looked up)
+con-abortion-ethics: partly checked (book entries matched in Open Library except al-Ramli found there as an edition; school-by-school juristic positions not looked up)
+con-act-vs-rule-utilitarianism: partly checked (sources matched in Crossref/Open Library; summaries of arguments not separately looked up)
+con-agent-centered-consequentialism: partly checked (sources matched in Crossref/Open Library; summaries of arguments not separately looked up)
+con-agent-centered-duties: fixed order of Foot and Scheffler 1985 exchange (Scheffler replies to Foot); other sources matched, other argument summaries not separately looked up [https://stafforini.com/works/scheffler-1985-agentcentred-restrictions-rationality/]
+con-ancient-ethics-greece: partly checked (sources matched in Crossref/Open Library; claims about which books transmit which texts not separately looked up)
+con-animal-rights-ethics: partly checked (sources matched in Crossref/Open Library; summaries of positions not separately looked up)
+con-autonomy-informed-consent: partly checked (cases Schloendorff, Salgo, Canterbury, Montgomery and book/article entries confirmed; Declaration of Helsinki text, Beecher and O'Neill summaries not separately looked up)
+con-beneficence-nonmaleficence: partly checked (sources matched in Crossref/Open Library; summaries of texts not separately looked up)
+con-biocentrism: partly checked (sources matched in Crossref/Open Library; summaries of arguments not separately looked up)
+con-business-virtue: partly checked (sources matched in Crossref/Open Library; summaries not separately looked up)
+con-caring-relationships: partly checked (sources matched in Crossref/Open Library; summaries not separately looked up)
+con-character-ethics: partly checked (sources matched in Crossref/Open Library; summaries not separately looked up)
+con-conflicts-professional: partly checked (sources confirmed (Davis, Crossref/Open Library, web); Sarbanes-Oxley entry and document contents not separately looked up)
+con-conscience: partly checked (sources matched in Crossref/Open Library; passage locations and summaries not separately looked up)
+con-consequentialist-impartialism: partly checked (sources matched in Crossref/Open Library; summaries not separately looked up)
+con-deontological-constraints: partly checked (sources matched in Crossref/Open Library; summaries not separately looked up)
+con-dignity-bioethics: partly checked (sources matched in Crossref/Open Library; document contents not separately looked up)
+con-duty-based-ethics: partly checked (sources matched in Crossref/Open Library; summaries not separately looked up)
+con-ecocentrism: partly checked (Izzi Dien, al-Bukhari, Ibn Abd al-Salam entries, hima report, Medina sanctuary, animal duties confirmed; al-Mawardi chapter content and Leopold/Naess/Callicott claims not looked up)
+con-enlightenment-ethics: partly checked (block has no source entries; paraphrased passages not looked up)
+con-ethics-of-care: partly checked (both Tronto books confirmed; content summary not separately looked up)
+con-euthanasia-physician-assisted-suicide: partly checked (Edelstein, Carter, Suicide Act confirmed; other national statutes and dates not looked up)
+con-hedonistic-vs-preference-utilitarianism: partly checked (both Harsanyi articles confirmed; Harsanyi and Hare argument reconstructions not separately looked up)
+con-humanity-as-end-in-itself: partly checked (Wood 1998 and Korsgaard confirmed, Wood article topic checked; Kant text claims not separately looked up)
+con-interdependence: partly checked (block has no source entries; paraphrased passages not looked up)
+con-justice-rawls: partly checked (both Rawls books confirmed; content summary not separately looked up)
+
+## batch 03
+con-moral-emotion: partly checked (sources searched in Crossref/Open Library, Strawson and Rhetoric only as reprint/edition records; claims in the added text not looked up)
+con-moral-motivation: partly checked (sources searched in Crossref/Open Library, Frankena and Svavarsdottir by web; classics, Prichard, Williams only as reprint/edition records; argument summaries not looked up)
+con-moral-responsibility: partly checked (sources searched in Crossref/Open Library, Nagel chapter placement in Mortal Questions not looked up; argument summaries not looked up)
+con-moral-subjectivism: partly checked (sources searched, Harman confirmed by web; 1912 date of Moore's Ethics and 1937 Stevenson original not shown by records; other argument summaries not looked up)
+con-moral-weakness: partly checked (sources searched in Crossref/Open Library; passage references and argument summaries not looked up)
+con-organ-transplant-ethics: partly checked (sources searched, US acts, WHO, Council of Europe and Istanbul dates confirmed; content of the 1981 and 2008 reports and Titmuss not looked up)
+con-prescriptivism: partly checked (sources searched, Hare 1949 and Foot shown only as reprint records; argument summaries not looked up)
+con-responsiveness-particularity: partly checked (sources searched in Crossref/Open Library; Murdoch, Williams, Noddings, Blum, Dancy summaries not looked up)
+con-right-action: partly checked (sources searched in Crossref/Open Library; argument summaries not looked up)
+con-social-contract: partly checked (sources searched in Crossref/Open Library; chapter references and argument summaries not looked up)
+con-stakeholder-theory: partly checked (sources searched, Evan and Freeman chapter confirmed by web; argument summaries and Dodd-Berle exchange not looked up)
+con-sustainability-ethics: partly checked (sources searched, Nordhaus confirmed by web; Rawls section, Rio principle numbers, Weiss argument not looked up)
+con-ubuntu-african-ethics: partly checked (sources searched, Gade, Menkiti, Ramose confirmed by web; interim Constitution, Makwanyane and Gyekye summary not looked up)
+con-universalizability: partly checked (sources searched in Crossref/Open Library; argument summaries not looked up)
+con-utilitarianism: partly checked (sources searched in Crossref/Open Library; argument summaries not looked up)
+con-virtue-confucianism: partly checked (Great Learning and Classic of Filial Piety searched by title only; passage numbers and Four Books history not looked up)
+con-virtue-development: partly checked (sources searched in Crossref/Open Library; passage references and argument summaries not looked up)
+con-whistleblowing: partly checked (sources searched, Bowie conditions and Davis complicity theory confirmed in secondary sources; statute dates and Nader, Alford summaries not looked up)
+sch-african-ethics: partly checked (sources searched, Eze and Wiredu debate confirmed by web; Gbadegesin, Magesa, Bujo summaries not looked up)
+sch-bioethics-principles: partly checked (sources searched in Crossref/Open Library; code dates, Jonsen biography and argument summaries not looked up)
+sch-buddhist-ethics: partly checked (two source titles searched; doctrinal claims and sutta reference not looked up)
+sch-business-ethics: partly checked (sources searched, Carr confirmed by web; instrument dates and argument summaries not looked up)
+sch-care-ethics-feminist: partly checked (sources searched, Narayan and Slote seen by web; Ruddick 1980 article, Baier, Sherwin summaries not looked up)
+sch-confucian-ethics: partly checked (Rosemont-Ames and Wang Yangming titles searched; 1958 manifesto, dates and doctrinal claims not looked up)
+con-ahliyya-legal-capacity-usul: partly checked (school rulings on minors' sales, puberty ages, age 25, rushd and Maliki rule on women confirmed in secondary sources; discernment age of seven not looked up) [https://al-islam.org/waqf-hajr-and-wasaya-according-five-schools-islamic-law-muhammad-jawad-mughniyya/hajr-legal]
+con-civil-law-codification: partly checked (Majalla structure and maxim article numbers confirmed; Code civil and BGB article contents not looked up)
+con-counter-majoritarian-difficulty-bickel: partly checked (sources matched, Dahl and Friedman series confirmed by web; Thayer, Graber, Kramer, Tushnet summaries not looked up)
+con-criminalization-theory: partly checked (project, funder, four volumes, Farmer, Tadros and Duff public-wrongs account confirmed; Duff doubt about the harm principle only indirectly supported, no-master-principle remark not looked up)
+con-gate-of-ijtihad-debate-hallaq: fixed El Shamsy 2008 argument (commitment to a teacher's method not found; replaced with the tension described in abstract summaries); Jackson and Hallaq 2001 summaries not looked up [https://go.gale.com/ps/i.do?id=GALE%7CA201100568&sid=googleScholar&v=2.1&it=r&linkaccess=abs&issn=00030279&p=AONE&sw=w]
+con-gharar-in-contracts: fixed removed unconfirmed claim that Kamali relies on exchange guarantees; IIFA 1992 and 1993 rulings and Tahawwut 2010 confirmed [https://its.org.uk/catalogue/islamic-commercial-law-paperback/]
+con-hukm-taklifi-wadi-usul: partly checked (Mustasfa existence seen; Usul al-Sarakhsi not matched by record and not searched by web; doctrinal claims not looked up)
+con-ifta-mufti-legal-authority: partly checked (sources matched; ECFR decision rule and dissent, 1899, 1924, 1971 dates confirmed; Ottoman fatwa office procedure and Jeddah/Mecca academy procedures not looked up)
+con-ijtihad-usul: partly checked (al-Ghazali and al-Amidi conditions confirmed in secondary or online text; Ibn Qudama summary searched but text not found) [https://islamweb.net/ar/library/index.php?page=bookcontents&flag=1&bk_no=101&ID=403]
+
+## batch 04
+con-ikhtilaf-juristic-disagreement: partly checked Zysow source confirmed online; searched the taswib debate in general, but individual attributions (Jubba'i, Abu Hashim, Shirazi, Ghazali, Imami view) and the two Arabic primary titles were not confirmed
+con-judicial-review: partly checked Moustafa source, Egyptian court 1971/1979 confirmed; India, Japan, Canada, Korea, South Africa, Colombia claims and the two case entries not looked up
+con-legal-families-comparative-law: partly checked Palmer and Orucu sources, omission of socialist family confirmed; style factors partly, Arminjon-Nolde-Wolff, Arab code history and Saudi 2023 not looked up
+con-madhhab-legal-school-institution: partly checked three book sources confirmed online; historical claims not looked up
+con-maqasid-al-shariah-shatibi: partly checked three sources and al-Alwani's three values confirmed; his dates, Ibn Ashur and Auda argument details not looked up
+con-maslaha-mursala-usul: partly checked Kamali source confirmed; school positions not looked up
+con-mens-rea-criminal-intent: fixed years of Woollin (1998), Caldwell (1981), Gammon (1984); Ashworth source confirmed; B v DPP, Sault Ste Marie and US cases not looked up [https://en.wikipedia.org/wiki/R_v_Woollin https://www.iclr.co.uk/ic/1981001566]
+con-nazariyyat-al-aqd-fiqh: partly checked Rayner source confirmed; Zuhayli edition and school doctrines not looked up
+con-ottoman-codification-tanzimat-law: partly checked Liebesny and Khadduri sources, 1840-1879 codes and 1984 Israeli repeal confirmed (maritime code year 1863/1864 varies); other replacement dates and Land Code details not looked up
+con-personal-status-law-arab-states: partly checked Welchman source, Syria 2019, Jordan 2010/2019, Morocco 1957-1993, Iraq 2025, Egypt Law 100/1985 confirmed; other dates (incl. 1985 ruling day, 2004 family courts, Gulf codes) and Qadri Pasha entry not looked up
+con-popular-constitutionalism: partly checked Tushnet, Gardbaum, Stone Sweet sources confirmed; general comparative claims not looked up
+con-property-rights: partly checked legal and primary texts not looked up
+con-qada-judgeship-islamic-law: partly checked Tyan source confirmed; historical and school claims, al-Mawardi title not looked up
+con-qawaid-fiqhiyya-legal-maxims: partly checked searched the maxim/control distinction in Ibn Nujaym and al-Subki without a confirming or contrary result; general attribution left unchanged
+con-riba-legal-doctrine: partly checked Rahman 1964 article, Pakistan 1999 judgment and 2002 set-aside confirmed; 1965 and OIC resolutions, Azhar 2002, Sanhuri and school causes not looked up
+con-rule-of-law: partly checked Carre de Malberg source confirmed; Venice report and historical claims not looked up
+con-siyasa-shariyya-ibn-taymiyya: partly checked Ibn al-Qayyim work and arguments not looked up
+sch-american-legal-realism: partly checked Olivecrona and Ross books, imperatives and Hart debate confirmed; Hagerstrom, Lundstedt and Tu-Tu not looked up
+sch-civil-law-tradition: partly checked reception dates not looked up
+sch-common-law-tradition: partly checked historical dates and cases not looked up
+sch-constitutional-law-theory: partly checked Duverger article confirmed; system descriptions not looked up
+sch-criminal-law-philosophy-responsibility: partly checked Feinberg, von Hirsch, Duff sources confirmed; theory attributions and Martinson not looked up
+sch-criminal-law-theory: partly checked Packer and MacCormack sources confirmed; Chinese, Indian and customary law claims not looked up
+thk-abd-al-razzaq-al-sanhuri: partly checked two Lyon theses, deanship and 1954 assault confirmed [https://en.wikipedia.org/wiki/Abd_El-Razzak_El-Sanhuri https://www.masrawy.com/news/news_reports/details/2012/10/16/81888/]; birth details, code dates and influence list not looked up
+thk-abu-yusuf: partly checked birth year (sources vary), study with Ibn Abi Layla, Ikhtilaf 1938 and Schacht entry confirmed; editor al-Afghani, teachers and anecdote not looked up
+thk-al-mawardi: fixed Tughril mission wording to early 1040s; Tughril missions, opposition to king of kings title and Gibb 1937 confirmed; Crone remark and details of the Abu Kalijar mission year not looked up [http://ismaili.net/heritage/node/8200]
+thk-al-shatibi: OK (confirmed online)
+thk-ibn-taymiyya: partly checked biography and fatwa claims not looked up
+wrk-al-hidaya-marghinani: fixed al-Laknawi attribution (introduction to the Hidaya, not confirmed in al-Fawa'id) and removed that source entry; 573 start and thirteen years supported by secondary sources, Kashf not read directly [https://dawateislami.net/magazine/en/knowledge-is-light/al-hidaya]
+wrk-al-mustasfa-ghazali: partly checked 503 date, 6 Muharram in Ibn Khallikan, Bouyges and 499 return confirmed; introduction content not looked up [https://shamela.ws/book/1000/1746]
+wrk-majallat-al-ahkam-al-adliyya: fixed evkaf inspector post moved from Seyfeddin to Seyyid Khalil; Mehmed Emin identification marked as differing between accounts; Kasikci confirmed; Omer Hilmi and signature variation not looked up in detail [https://islamansiklopedisi.org.tr/mecelle-i-ahkam-i-adliyye]
+wrk-model-penal-code: partly checked 2012 project, reporters, 2021 and 2022 approvals, dropped prompt-complaint rule confirmed; marital exemption, 2009 withdrawal, 2017 sentencing text and its two source entries not looked up
+wrk-elements-de-semiologie-barthes: partly checked Bakri translation, Latakia 1987 (reported as second edition, first Casablanca 1986) confirmed; remarks on competing Arabic terms not looked up
+wrk-syntactic-structures: partly checked Baghdad 1987 translation, reviser and a Casablanca edition confirmed; remarks on Arabic terminology not looked up
+con-effective-demand: partly checked three sources confirmed; Keynes and Marshall exposition not looked up
+wrk-a-political-economy-of-the-middle-east-richards-waterbury: partly checked sources, Richards at Santa Cruz, Waterbury books and AUB 1998-2008 confirmed; Richards research themes not looked up in detail
+wrk-an-evolutionary-theory-of-economic-change-nelson-winter: partly checked model structure searched; equations and growth model details not confirmed against the book
+wrk-manias-panics-and-crashes-kindleberger: partly checked sources, Kindleberger career and Minsky education and posts confirmed; content of Minsky hypothesis not looked up [https://en.wikipedia.org/wiki/Charles_P._Kindleberger]
+sch-anxiety-ocd-disorders: partly checked all six prevalence figures confirmed online and article entries found; income-level pattern only partly looked up
+
+## batch 05
+sch-mood-disorders: OK (confirmed online)
+sch-psychotic-schizophrenia: OK (confirmed online)
+wrk-bipolar-disorder-research: partly checked sources confirmed (Crossref/Open Library); biography confirmed by search; descriptions of the individual books not looked up
+con-emotional-intelligence: partly checked sources confirmed (Crossref/Open Library); Salovey dates confirmed; Mayer biography and Personal Intelligence argument not looked up
+sch-emotion-psychology: partly checked sources confirmed (Crossref/Open Library); Russell affiliations confirmed; Tomkins, Lazarus, Zajonc, Barrett biographical details not looked up
+thk-adler: partly checked sources confirmed (Crossref/Open Library); account of the three concepts not looked up
+thk-bion: partly checked birth, father, DSO, Klein analysis confirmed by search; Cambrai/DSO link and Amiens only partly supported by results
+con-anti-cult-movement-response: partly checked FECRIS founding, statuses, Russian-affiliate criticism confirmed by search; FAIR link and Beckford point not looked up
+con-axis-mundi-sacred-space-eliade: partly checked sources confirmed (Crossref/Open Library); Smith and Gill critiques confirmed by search; Spencer and Gillen texts not consulted
+con-healer-patient-relationship: partly checked sources confirmed (Crossref/Open Library); claims about Kakar, monastic code and rabbinic reading not looked up
+con-modes-of-religiosity-theory-whitehouse: partly checked sources confirmed (Crossref/Open Library); Laidlaw 2004 chapter title confirmed; chapter arguments and 2007 essay not looked up
+con-ndembu-color-triad-turner: partly checked sources confirmed (Crossref/Open Library); Turner 1966, Upanishad and Innocent III claims not looked up
+con-new-evangelicalism: fixed Wacker title to America's Pastor [https://api.crossref.org/works?query.bibliographic=America%27s+Pastor+Billy+Graham]; 1957 King prayer confirmed [https://kinginstitute.stanford.edu/graham-william-franklin]; partly checked: 1949/1950 details and segregation not looked up
+con-sacred-sound-sonic-theology: partly checked sources confirmed (Crossref/Open Library); tradition-by-tradition claims not looked up
+con-sacrifice-theory-hubert-mauss: partly checked Hubert dates, ENS, 1898 museum post, Ecole du Louvre confirmed by search; EPHE chair subject, 1905 time essay, Magic and Celts dates not looked up
+con-scapegoat-mechanism-mimetic-desire-girard: partly checked sources confirmed (Crossref/Open Library); Durkheim/Girard comparison not looked up
+dbt-colonial-vs-domestic-ethnography-lived-religion: partly checked sources confirmed (Crossref/Open Library); book arguments not looked up
+dbt-religion-as-category-aboriginal-australia: partly checked sources confirmed (Crossref/Open Library); Graham essay and Rainbow Spirit publication confirmed by search; Watson, Black, Pattel-Gray arguments not looked up
+dbt-thick-description-vs-phenomenological-description: partly checked sources confirmed (Crossref/Open Library); characterisations of the authors not looked up
+sch-academic-native-american-religious-studies: partly checked sources confirmed (Crossref/Open Library); Talamantez and Cook-Lynn confirmed in outline by search (women's ceremony research included); Tinker/Pesantubbee arguments and NAISA date not looked up
+sch-comparative-religious-fasting-studies: partly checked compared only against the page's own earlier sections; underlying books not looked up; no added sources
+sch-comparative-religious-gender-queer: partly checked sources confirmed (Crossref/Open Library); wartime opening of priesthood confirmed in outline by search; Ise, Amadiume, Oyewumi, Matory claims not looked up
+sch-comparative-religious-music-studies: fixed deleted unsupported sentence on Beck separating sacred sound from musical sound [https://muse.jhu.edu/book/103257]; partly checked: Nelson thesis only in outline, Qureshi, Hiley, Lee arguments not looked up
+sch-religion-digital-technology: fixed Helland definitions and O'Leary 'first rituals' wording [https://archiv.ub.uni-heidelberg.de/volltextserver/5823/1/Helland3a.pdf] [https://relbib.de/Record/1635972388]; partly checked: Hadden/Cowan publisher and Campbell-Lovheim argument not looked up in full
+stu-cognitive-templates-boyer-ramble-2001: partly checked sources confirmed (Crossref/Open Library); Norenzayan recall pattern confirmed by search; Gonce, Upal, Purzycki-Willard findings not looked up
+stu-conceptualizing-nonnatural-entity-barrett-keil-1996: partly checked sources confirmed (Crossref/Open Library); Barrett 1998 India confirmed by search; child-study findings and critics not looked up; Shtulman only secondhand
+stu-kibbutz-religious-secular-cooperation-sosis-2003: partly checked methodological discussion, no added sources; study details not looked up
+thk-gershom-scholem: partly checked sources confirmed (Crossref/Open Library); Benjamin and Brit Shalom facts not looked up
+thk-guy-beck: partly checked methodological assessment, no added sources; Beck thesis checked in outline only
+thk-karen-mccarthy-brown: partly checked sources confirmed (Crossref/Open Library); Ogou chapter and Tracing the Spirit confirmed by search; essay arguments not looked up
+thk-moojan-momen: OK (confirmed online)
+wrk-imagining-religion-smith: partly checked sources confirmed (Crossref/Open Library); chapter titles confirmed by search; chapter arguments, Riesebrodt and Schilbrack arguments not looked up
+con-correlation: partly checked sources confirmed (Crossref/Open Library); school positions not looked up
+con-deviance: fixed removed Maori from Braithwaite 1989 claim (no support found) [https://en.wikipedia.org/wiki/Reintegrative_shaming]; partly checked: sources confirmed, legal-tradition claims not looked up
+con-ethnocentrism: fixed Brewer title 'Love and Outgroup Hate' [https://api.crossref.org/works?query.bibliographic=Ingroup+Love+and+Outgroup+Hate]; partly checked: theory summaries not looked up
+con-group: partly checked sources confirmed (Crossref/Open Library); book arguments not looked up
+con-network-analysis: partly checked sources confirmed (Crossref/Open Library); theory summaries not looked up
+con-normal-distribution: partly checked sources confirmed (Crossref/Open Library); examples and author readings not looked up
+
+## batch 06
+con-observation: partly checked sources confirmed online (Crossref/Open Library); claims in added text not looked up
+con-performativity-of-economics-mackenzie: partly checked sources confirmed online (Crossref/Open Library); looked up: strawberry auction first publication 1986, reprint chapter, designer drew on economics (secondary summaries only); FCC and carbon-market claims not looked up [https://www.degruyterbrill.com/document/doi/10.1515/9780691214665-004/html]; other claims in added text not looked up
+con-power: partly checked sources confirmed online (Crossref/Open Library); looked up: Anderson essay concept of concrete power (secondary review; constant-quantity and legitimacy wording not seen); Arthashastra and Han Feizi entries not searched [https://www.lrb.co.uk/v13/n21/ira-katznelson/hitler-in-jakarta]; other claims in added text not looked up
+con-prejudice: partly checked sources confirmed online (Crossref/Open Library); looked up: intersectional invisibility, subordinate male target hypothesis [https://link.springer.com/doi/10.1007/s11199-008-9424-4]; other claims in added text not looked up
+con-primary-group: partly checked sources confirmed online (Crossref/Open Library); claims in added text not looked up
+con-racism: partly checked sources confirmed online (Crossref/Open Library); claims in added text not looked up
+con-reference-group: partly checked sources confirmed online (Crossref/Open Library); claims in added text not looked up
+con-regression-analysis: partly checked sources confirmed online (Crossref/Open Library); claims in added text not looked up
+con-role: partly checked sources confirmed online (Crossref/Open Library); claims in added text not looked up
+con-social-change: partly checked sources confirmed online (Crossref/Open Library); claims in added text not looked up; Smelser entry is present in page source list, not queried
+con-socialization: partly checked sources confirmed online (Crossref/Open Library); claims in added text not looked up
+con-socialization-process: partly checked sources confirmed online (Crossref/Open Library); claims in added text not looked up
+con-society: partly checked sources confirmed online (Crossref/Open Library); claims in added text not looked up
+con-sociological-imagination-mills: partly checked sources confirmed online (Crossref/Open Library); claims in added text not looked up
+con-sociometric-analysis: partly checked sources confirmed online (Crossref/Open Library); looked up: White-Boorman-Breiger blockmodels [https://pdodds.w3.uvm.edu/files/papers/others/1976/white1976a.pdf]; other claims in added text not looked up
+con-solidarity: partly checked sources confirmed online (Crossref/Open Library); looked up: Taylor-Gooby double crisis (publisher/abstract summaries) [https://kar.kent.ac.uk/33609]; other claims in added text not looked up
+con-standard-deviation: partly checked sources confirmed online (Crossref/Open Library); looked up: Xie population vs typological thinking, Quetelet/Galton [https://collaborate.princeton.edu/en/publications/otis-dudley-duncans-legacy-the-demographic-approach-to-quantitati/]; other claims in added text not looked up
+con-statistical-analysis: partly checked sources confirmed online (Crossref/Open Library); claims in added text not looked up
+con-statistical-significance: partly checked sources confirmed online (Crossref/Open Library); looked up: Gerber-Malhotra finding, Leahey scope [https://isps.yale.edu/research/publications/isps08-22]; other claims in added text not looked up
+con-status: partly checked sources confirmed online (Crossref/Open Library); looked up: Fried definition (secondary), Lee article publication details; Woodburn, Boehm and the meat-belittling custom not confirmed in text [https://www.nhmag.com/htmlsite/editors_pick/1969_12_pick.html]; other claims in added text not looked up
+con-strong-programme-ssk-bloor: partly checked sources confirmed online (Crossref/Open Library); looked up: Sokal-Bricmont criticism of Strong Programme [https://physicsworld.com/a/science-studies-whats-wrong/]; other claims in added text not looked up
+con-structural-analysis: partly checked sources confirmed online (Crossref/Open Library); looked up: blockmodels used Sampson monastery data [https://pdodds.w3.uvm.edu/files/papers/others/1976/white1976a.pdf]; other claims in added text not looked up
+con-structure: partly checked sources confirmed online (Crossref/Open Library); claims in added text not looked up
+con-survey: partly checked sources confirmed online (Crossref/Open Library); looked up: Bourdieu article, Mensch abstract, Singer signature finding [https://knowledgecommons.popcouncil.org/departments_sbsr-pgy/1730]; other claims in added text not looked up
+con-validity: partly checked sources confirmed online (Crossref/Open Library); claims in added text not looked up
+con-variable: partly checked sources confirmed online (Crossref/Open Library); claims in added text not looked up
+con-verstehen: partly checked sources confirmed online (Crossref/Open Library); looked up: Winch 1964 citation and Zande topic [https://dc2.philarchive.org/rec/WINUAP]; other claims in added text not looked up
+con-verstehen-sociology: partly checked sources confirmed online (Crossref/Open Library); claims in added text not looked up
+sch-chicago-urban-ecology-english: partly checked Harvey and Castells sources confirmed online (Crossref/Open Library); claims in added text not looked up; Simmel 1903 essay matched no 1903 record in either database (standard classic, not separately searched)
+sch-comtean-positivism: partly checked sources confirmed online (Crossref/Open Library); looked up: Barreda in Comte's Paris courses and 1867 school, Benjamin Constant, flag, Comte on probability, Lazer 2009 [https://encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/barreda-gabino-1818-1881]; other claims in added text not looked up
+sch-durkheimian-structural-functionalism: partly checked sources confirmed online (Crossref/Open Library); looked up: Xygalatas study, Pescosolido-Georgianna argument (network density wording not seen in abstract) [https://www.psypost.org/painful-and-extreme-rituals-enhance-social-cohesion-and-charity/]; other claims in added text not looked up
+sch-goffmanian-dramaturgical-english: fixed 'swing door' to 'door' (swing detail not confirmed in a reliable source) [https://www.ebsco.com/research-starters/drama-and-theater-arts/dramaturgical-analysis]; Shetland front/back regions looked up; sources confirmed; Asylums and later studies claims not looked up
+
+## batch 07
+sch-marxist-classical-sociology: partly checked sources confirmed (Crossref/Open Library); claims in case studies and later studies not looked up
+sch-parsonian-structural-functionalism-agil: partly checked sources confirmed; Glenton, Parsons school class checked online; Varul specific argument only partly supported (abstract and secondary summary); Smelser critics seen by title only; May claims not looked up
+sch-simmelian-formal-sociology: fixed Krackhardt claim (removed unsupported popularity and conflicting-norms wording) [https://en.wikipedia.org/wiki/Simmelian_tie]; Frankfurt tax confirmed; Burt, Zelizer, triad and fashion claims not looked up
+sch-spencerian-evolutionism-english: partly checked sources, militant examples, Carneiro sample, Turchin finding confirmed; ceremonial institutions and industrial-type examples not looked up
+sch-symbolic-interactionism-english: partly checked sources confirmed; Snow-Anderson and Marwick-boyd checked; Emerson chapter details only partly supported; Awareness of Dying and Code of the Street claims not looked up
+sch-weberian-verstehen-english: partly checked sources, Becker, Cantoni, Gorski confirmed; 1892 freedom-from-patriarchy argument only partly supported; China and sects case claims not looked up
+thk-ali-al-wardi: partly checked Ibn Saba and Ammar thesis confirmed, Ogburn source confirmed; Social Glimpses account not looked up
+thk-ali-shariati: partly checked sources, Cain/Abel, Hajj symbolism, Alavid/Safavid contrast checked; Abu Dharr detail only briefly supported
+thk-anouar-abdel-malek: partly checked sources, Orientalism essay and book theme confirmed; detailed book arguments not looked up
+thk-anthony-giddens: fixed Gross-Simmons sample (midlife) and findings [https://doi.org/10.1353/sof.2003.0011]; sources, Barley, Jamieson, Orlikowski, Jones-Karsten checked (Orlikowski use types only partly)
+thk-barney-glaser: partly checked sources confirmed, Orona focus checked; Awareness/Time for Dying and Charmaz claims not looked up
+thk-bell-hooks: partly checked confirmed: oppositional gaze and segregated-school account; hooks's conversations with women and independent-film discussion not looked up
+thk-boaventura-de-sousa-santos: partly checked sources and Pasargada abstract confirmed; association procedures and Porto Alegre details not looked up
+thk-bourdieu: partly checked sources and Savage survey confirmed; Distinction, Kabyle, Lareau, Wacquant claims not looked up
+thk-charles-cooley: partly checked confirmed: 1908 self-words study and Yeung-Martin; family/play group account not looked up
+thk-charles-tilly: partly checked sources, Vendee comparison and repertoire shift confirmed; Herbst and Tomaskovic-Devey claims not looked up
+thk-coleman: partly checked source, Chetty findings, diamond and Jerusalem examples confirmed; Adolescent Society findings not looked up
+thk-crenshaw: partly checked sources, DeGraffenreid, shelter example confirmed; immigration rule, Gender Shades findings, McCall categories not looked up
+thk-dorothy-smith: partly checked sources confirmed, Rankin-Campbell theme checked; K analysis, Mothering for Schooling claims not looked up
+thk-edward-said: partly checked Abdel-Malek 1963 essay confirmed; other conceptual links not looked up
+thk-émile-durkheim: partly checked sources, Mueller-Abrutyn and Xygalatas confirmed; Suicide and Elementary Forms summary not looked up
+thk-fanon: partly checked added sources confirmed (Open Library); conceptual links not looked up
+thk-fatima-mernissi: partly checked added source confirmed; conceptual links not looked up
+thk-gayatri-spivak: partly checked added source confirmed; conceptual links not looked up
+thk-george-herbert-mead: partly checked added source confirmed; conceptual links not looked up
+thk-hisham-sharabi: partly checked added source confirmed; conceptual links not looked up
+
+## batch 08
+thk-hochschild: partly checked: Goffman source confirmed via Open Library; conceptual links not looked up
+thk-howard-becker: partly checked: Lemert and Cohen sources confirmed; attribution of concepts (Hughes, Lemert) not looked up
+thk-lewis-coser: partly checked: Merton source confirmed; conceptual links not looked up
+thk-manuel-castells: partly checked: Bell and Sassen sources confirmed; Castells concepts not looked up
+thk-martineau: partly checked: Durkheim title and author found, 1895 first publication not confirmed online; Martineau claims not looked up
+wrk-gender-trouble: partly checked: Newton, Pascoe, Salzinger sources confirmed; summaries of their findings not looked up
+wrk-institutional-ethnography: partly checked: all four sources confirmed; study summaries not looked up
+wrk-liquid-modernity-bauman: OK (confirmed online): sources, Atkinson Bristol, Silva and Pugh basics; detailed findings only from publisher/review summaries
+wrk-normal-accidents-perrow: partly checked: accident sequence consistent with search results; Kemeny report entry and core damage/release details not looked up
+wrk-orientalism-said: partly checked: Lane and Cromer sources confirmed; Said's case discussions not looked up
+wrk-philosophical-investigations: partly checked: both Collins sources confirmed; findings not looked up
+wrk-risk-society: partly checked: Wynne and Brown/Mikkelsen sources confirmed; findings not looked up
+wrk-second-sex: partly checked: Martin, Young, Daly confirmed and Martin design checked; Ortner 1974 chapter confirmed; Beauvoir case material not looked up
+wrk-social-system-parsons: partly checked: all four sources confirmed; study summaries not looked up
+wrk-stigma: partly checked: all three sources confirmed; findings not looked up
+wrk-the-constitution-of-society: partly checked: Willis and Barley sources confirmed, Barley divergence checked; Giddens' reading of Willis not looked up
+wrk-the-division-of-labor-in-society: fixed Spitzer finding (complexity claim unsupported by abstract); other sources confirmed, Schwartz/Miller checked [https://hraf.yale.edu/ehc/documents/797]
+wrk-the-history-of-sexuality: partly checked: Stoler confirmed, Jouy 1867 case and 1980 Barbin translation checked; 1978 French date, asylum confinement and Stoler argument not confirmed
+wrk-the-holy-family: fixed removed direct quotation (paraphrased); Prawer and Eco confirmed; Section VI authorship context checked [https://www.marxists.org/archive/marx/works/1845/holy-family/ch06_2.htm]
+wrk-the-polish-peasant: fixed removed unconfirmed payment-for-letters claim, softened advertising wording; Blumer, Allport, Zaretsky confirmed; Blumer's conclusion and volume summaries only partly checked [https://link.springer.com/article/10.1007/s12108-008-9045-y]
+wrk-the-poverty-of-philosophy: partly checked: Bray and Ure sources confirmed; Marx's arguments not looked up
+wrk-the-sociological-imagination: partly checked: Dahl, Harvey, Young, Burawoy sources confirmed; content claims not looked up
+wrk-the-stranger: partly checked: Schutz Paris/1939 emigration and Homecomer 1945 confirmed; Garfinkel cases and essay date not looked up

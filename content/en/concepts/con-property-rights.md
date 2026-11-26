@@ -12,8 +12,7 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "Human Rights Theory", target_type: "مدرسة"
 related: []
-gaps:
-  - "Primary sources: not yet covered."
+gaps: []
 ---
 # Property Rights
 
@@ -35,8 +34,18 @@ In *Capital* (1867), **Karl Marx** attacked private ownership of the means of pr
 
 The tension between private property and the public interest appears in the principle of **eminent domain**, as in the American case *Kelo v. City of New London* (2005). In that case the U.S. Supreme Court upheld the taking of private property for an economic development project run by private entities, a ruling that provoked wide debate over the limits of state power over individual property.
 
+## Primary Texts
+
+The history of the concept can be followed in first-hand materials. In Roman law, Justinian's *Institutes* and *Digest* (sixth century) set out the modes of acquiring things and the actions protecting ownership. In the Islamic tradition, Abu Yusuf's *Kitab al-Kharaj*, written for the caliph Harun al-Rashid, addresses land and taxation, and al-Shatibi's *al-Muwafaqat* places the protection of wealth among the law's basic aims.
+
+Modern constitutional and legislative texts state the right directly. Article 17 of the French Declaration of the Rights of Man and of the Citizen (1789) treats property as inviolable, allowing deprivation only for legally established public necessity with just prior compensation. Article 544 of the French Civil Code (1804) defines ownership as a very broad right of enjoyment and disposal limited by law. The Fifth Amendment to the United States Constitution requires just compensation for private property taken for public use. Article 17 of the Universal Declaration of Human Rights (1948) affirms the right to own property and forbids arbitrary deprivation, and Article 1 of the First Protocol to the European Convention on Human Rights (1952) protects peaceful enjoyment of possessions subject to the general interest. Alongside these stand the philosophical works of Locke, Hegel, Marx, Rawls and Nozick discussed above.
+
 ## Sources
 
 - Locke, John. *Two Treatises of Government*. 1689 (ed. Peter Laslett, Cambridge University Press, 1988).
 - Rawls, John. *A Theory of Justice*. Harvard University Press, 1971.
 - Nozick, Robert. *Anarchy, State, and Utopia*. Basic Books, 1974.
+- Justinian. *Institutes* and *Digest*. Sixth century.
+- Abu Yusuf. *Kitab al-Kharaj*. Late eighth century.
+- Hegel, G. W. F. *Elements of the Philosophy of Right*. 1821.
+- Marx, Karl. *Capital*, volume 1. 1867.

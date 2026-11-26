@@ -15,8 +15,7 @@ related:
 - id: "thk-helmholtz", title: "Hermann von Helmholtz", type: "مفكر"
 - id: "thk-fechner", title: "Gustav Fechner", type: "مفكر"
 - id: "thk-brentano", title: "Franz Brentano", type: "مفكر"
-gaps:
-  - "Technical details of contemporary experiments on unconscious inference: not yet covered"
+gaps: []
 ---
 
 # Helmholtz's Unconscious Inference
@@ -52,6 +51,12 @@ In the debate about perception, one side held that perception is a copy of the w
 - **James J. Gibson** (*The Ecological Approach to Visual Perception*, 1979) opposed inferential accounts, arguing that perception is direct pickup of information available in the structured optic array, with no need for inference.
 - Whether neural processing is correctly described as "inference" at all, or is a metaphor for statistical regularities in neural coding, remains debated.
 
+## Testing the Idea Experimentally
+
+Contemporary studies often compare observers with a model that combines noisy sensory evidence (a likelihood) with prior expectation. Marc Ernst and Martin Banks (2002) had participants judge the height of a raised ridge by sight, by touch, or both, and degraded the visual signal by adding noise to a stereoscopic display. Single-cue trials measured each sense's discrimination precision. The statistically optimal rule weights each cue by its reliability (the inverse of its variance), which predicts both the combined judgment and its improved precision. Performance matched the prediction closely: vision dominated when clear, and touch gained weight as visual noise increased.
+
+Priors have been probed through ambiguity. Yair Weiss, Eero Simoncelli and Edward Adelson (2002) showed that a model assuming that slow motions are more probable accounts for a range of motion illusions, especially at low contrast. Wendy Adams, Erich Graf and Ernst (2004) used the tendency to read shading as if light came from above: after training in which touch indicated shapes consistent with a shifted light direction, participants' visual judgments shifted, and the change carried over to another task. Such fits support a description of behaviour as inference; they do not by themselves show how neurons compute it.
+
 ## Position within the Bridge
 
 The concept links a philosophical theory of perception with empirical research on vision and cognition, and today also connects psychology, neuroscience, and computational modelling. It should be read as a family of related proposals rather than a single settled theory.
@@ -63,3 +68,6 @@ The concept links a philosophical theory of perception with empirical research o
 - David Marr, *Vision*, W. H. Freeman, 1982.
 - James J. Gibson, *The Ecological Approach to Visual Perception*, Houghton Mifflin, 1979.
 - Rajesh P. N. Rao and Dana H. Ballard, "Predictive Coding in the Visual Cortex," *Nature Neuroscience* 2, 1999.
+- Marc O. Ernst and Martin S. Banks, "Humans Integrate Visual and Haptic Information in a Statistically Optimal Fashion," *Nature* 415, 2002.
+- Yair Weiss, Eero P. Simoncelli and Edward H. Adelson, "Motion Illusions as Optimal Percepts," *Nature Neuroscience* 5, 2002.
+- Wendy J. Adams, Erich W. Graf and Marc O. Ernst, "Experience Can Change the 'Light-from-Above' Prior," *Nature Neuroscience* 7, 2004.

@@ -11,8 +11,7 @@ active_start: 1900
 active_end: "مستمر"
 edges: []
 related: []
-gaps:
-  - "Primary sources: not yet covered"
+gaps: []
 ---
 
 # Organ Transplant Ethics
@@ -37,8 +36,19 @@ The acute shortage of available organs relative to the number of people waiting 
 
 When one kidney is available for three patients (a child in urgent need, an elderly person who has been first on the waiting list for years, and a person expected to live the longest after the transplant), the ethical trade-off between criteria of priority, need and expected benefit emerges. Medical ethics committees attempt to resolve this trade-off through published protocols and criteria subject to review.
 
+## Further Primary Sources
+
+Law and policy documents are central sources in this field. In the United States, the Uniform Anatomical Gift Act (1968) provided a framework for donating organs after death, the Uniform Determination of Death Act (1981) recognized irreversible cessation either of circulatory and respiratory functions or of all functions of the entire brain, and the National Organ Transplant Act (1984) prohibited buying and selling organs for transplantation. The President's Commission report *Defining Death* (1981) set out the reasoning for a whole-brain standard, and the President's Council on Bioethics revisited the controversy in 2008. Internationally, the World Health Organization's Guiding Principles on Human Cell, Tissue and Organ Transplantation (endorsed in 2010) address consent and non-commercialization, and the Declaration of Istanbul (2008) condemns organ trafficking and transplant tourism. The Council of Europe adopted an Additional Protocol on transplantation in 2002. Among ethical works, Richard Titmuss's *The Gift Relationship* (1970), a study of blood donation, shaped arguments for voluntary, unpaid giving.
+
 ## Sources
 
 - International Islamic Fiqh Academy. *Resolutions and Recommendations of the International Islamic Fiqh Academy*, fourth session, 1988.
 - Ad Hoc Committee of the Harvard Medical School to Examine the Definition of Brain Death. "A Definition of Irreversible Coma." *JAMA* 205 (1968): 337-340.
 - Beauchamp, Tom L., and James F. Childress. *Principles of Biomedical Ethics*. Oxford University Press, 2019.
+- United States. Uniform Anatomical Gift Act, 1968; Uniform Determination of Death Act, 1981; National Organ Transplant Act, 1984.
+- President's Commission for the Study of Ethical Problems in Medicine. *Defining Death*. 1981.
+- President's Council on Bioethics. *Controversies in the Determination of Death*. 2008.
+- World Health Organization. *Guiding Principles on Human Cell, Tissue and Organ Transplantation*. 2010.
+- The Declaration of Istanbul on Organ Trafficking and Transplant Tourism. 2008.
+- Council of Europe. Additional Protocol to the Convention on Human Rights and Biomedicine concerning Transplantation of Organs and Tissues of Human Origin. 2002.
+- Titmuss, Richard M. *The Gift Relationship: From Human Blood to Social Policy*. 1970.

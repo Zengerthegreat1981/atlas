@@ -38,7 +38,7 @@ His complex mathematical and symbolic language (the Grid) and his rigorous philo
 
 ## His military and early analytic career
 
-Bion was born in India in 1897 to a British engineer father and was sent to study in England as a child. He served as a tank officer in the First World War and was awarded the Distinguished Service Order (DSO) for his courage at the Battle of Amiens, a war-trauma experience that later influenced his thinking about psychotic anxiety and groups under pressure. His personal analysis was conducted by Melanie Klein, which made him one of the leading heirs of the British object-relations school, although he later developed a conceptual language of his own that goes beyond Klein in its abstraction.
+Bion was born in India in 1897 to a British engineer father and was sent to study in England as a child. He served as a tank officer in the First World War and was awarded the Distinguished Service Order (DSO) for his courage at the Battle of Cambrai (1917); his experience of war trauma, including at the Battle of Amiens (1918), later influenced his thinking about psychotic anxiety and groups under pressure. His personal analysis was conducted by Melanie Klein, which made him one of the leading heirs of the British object-relations school, although he later developed a conceptual language of his own that goes beyond Klein in its abstraction.
 
 ## The Tavistock experience and groups
 

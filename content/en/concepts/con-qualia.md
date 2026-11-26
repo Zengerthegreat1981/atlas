@@ -16,8 +16,7 @@ related:
   - id: "thk-nagel", title: "Thomas Nagel", type: "مفكر"
   - id: "thk-merleau-ponty", title: "Maurice Merleau-Ponty", type: "مفكر"
   - id: "con-emergence", title: "Emergence: Properties Not Reducible to Their Parts", type: "مفهوم"
-gaps:
-  - "Links between qualia and research on metacognition and interoception: not yet covered."
+gaps: []
 ---
 
 # Qualia: The "What-It-Is-Likeness" of Experience
@@ -35,6 +34,12 @@ Qualia are the qualitative dimension that cannot be reduced to physical or behav
 ## The Psychological and Therapeutic Meaning
 
 Qualia are a topic in philosophy of mind and not a clinical construct. A loose parallel is sometimes drawn with the "felt sense" in Eugene Gendlin's focusing approach (*Focusing*, 1978), the vague bodily sense of a situation that precedes words, and with phenomenological work on lived experience in psychology; these are analogies and not applications of the qualia debate.
+
+## Metacognition and Interoception
+
+**Metacognition** is the monitoring and evaluation of one's own cognition, studied for example by asking how well confidence ratings distinguish correct from incorrect judgments (Fleming and Lau, 2014). It bears on qualia because evidence about experience arrives through reports, and these depend on self-monitoring. Higher-order theories, such as David Rosenthal's, go further and hold that a state is conscious when one is suitably aware of being in it. Opponents reply that experience may outrun what a subject can judge or report, and confidence measures alone do not decide between these views.
+
+**Interoception** is the sensing of the body's internal condition. A. D. Craig (2002) proposed pathways, with an important role for the insular cortex, underlying the felt state of the body, and later theorists, Anil Seth among them, link emotional experience to the brain's predictions about bodily signals. Sarah Garfinkel and colleagues (2015) distinguished interoceptive accuracy (performance on an objective task), sensibility (self-reported attentiveness to the body) and awareness (how well confidence tracks accuracy), and showed that these can come apart. The distinction makes some questions about felt bodily states testable. It measures the relation between signals, performance and judgment, and leaves open why any of this is accompanied by experience.
 
 ## The Difference from Neighbouring Concepts
 
@@ -55,3 +60,8 @@ Reductive physicalists refuse to treat qualia as a phenomenon requiring a specia
 - Chalmers, David J. *The Conscious Mind*. Oxford: Oxford University Press, 1996.
 - Ziai, Hossein. *Knowledge and Illumination: A Study of Suhrawardi's Hikmat al-Ishraq*. Atlanta: Scholars Press, 1990.
 - McCarthy, Richard J., trans. *Freedom and Fulfillment: An Annotated Translation of al-Ghazali's al-Munqidh min al-Dalal*. Boston: Twayne, 1980.
+- Fleming, Stephen M., and Hakwan C. Lau. "How to Measure Metacognition." *Frontiers in Human Neuroscience* 8 (2014).
+- Rosenthal, David M. *Consciousness and Mind*. Oxford: Oxford University Press, 2005.
+- Craig, A. D. "How Do You Feel? Interoception: The Sense of the Physiological Condition of the Body." *Nature Reviews Neuroscience* 3 (2002).
+- Garfinkel, Sarah N., Anil K. Seth, Adam B. Barrett, Keisuke Suzuki, and Hugo D. Critchley. "Knowing Your Own Heart: Distinguishing Interoceptive Accuracy from Interoceptive Awareness." *Biological Psychology* 104 (2015).
+- Seth, Anil K. "Interoceptive Inference, Emotion, and the Embodied Self." *Trends in Cognitive Sciences* 17 (2013).

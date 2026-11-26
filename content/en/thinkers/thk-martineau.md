@@ -12,8 +12,7 @@ active_start: 1802
 active_end: 1876
 edges: []
 related: []
-gaps:
-- Cross-references to related concepts: not yet covered
+gaps: []
 sociological_tradition: other
 sociological_paradigm: micro-macro
 ---
@@ -50,6 +49,10 @@ In *Society in America* Martineau drew on interviews and observation during her 
 
 *How to Observe Morals and Manners* is an early methodological text. It advises the observer to attend to a wide range of evidence, including institutions, religion and domestic arrangements, to talk with people from different ranks, to be aware of their own bias, and to place weight on what people actually do and not only on what they say.
 
+## Related Concepts
+
+Martineau's writing connects with concepts that sociology later named and refined. Her instruction to attend to institutions and customs relates to the study of social norms, values and culture, and her comparison of professed principles with actual practice anticipates what is often called immanent critique, the testing of a society against its own standards. Her warning about the observer's prior assumptions bears on reflexivity and ethnocentrism. The advice to look at what she called things, meaning institutions and records, alongside talk can be compared with Emile Durkheim's later rule that social facts should be treated as things, although there is no need to assume a line of influence. Her accounts of slavery and the legal position of women connect with gender inequality, citizenship and social stratification. Through her version of Comte she is also tied to positivism. These later labels are aids to comparison and were mostly not her own vocabulary.
+
 ## Influence and Criticism
 
 For much of the twentieth century Martineau was left out of the sociological canon, partly because she wrote for a general public and was a woman. Historians such as Michael R. Hill and Susan Hoecker-Drysdale have argued for her recognition as an early sociologist. Critics note that she lacked a formal system of theory, and that some of her economic views and her interpretation of other societies reflected the limits of her time.
@@ -60,3 +63,4 @@ For much of the twentieth century Martineau was left out of the sociological can
 - Martineau, Harriet. *How to Observe Morals and Manners* (1838).
 - Hoecker-Drysdale, Susan. *Harriet Martineau: First Woman Sociologist* (1992).
 - Hill, Michael R., and Susan Hoecker-Drysdale, eds. *Harriet Martineau: Theoretical and Methodological Perspectives* (2001).
+- Durkheim, Emile. *The Rules of Sociological Method* (1895).

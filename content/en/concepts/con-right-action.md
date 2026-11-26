@@ -12,8 +12,7 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "Deontological Ethics", target_type: "مدرسة"
 related: []
-gaps:
-  - "Primary sources: not yet covered"
+gaps: []
 ---
 
 # Right Action
@@ -38,8 +37,19 @@ The dilemma of lying to save the life of an innocent person shows the difference
 
 This discussion distinguishes between the question "what is the right act?" and the question "who is the virtuous agent?" A person may perform the right act by chance without inner virtue, and a virtuous person may sometimes fail to hit what is right despite the soundness of his intention. Advocates of virtue ethics hold that this very distinction is misleading, because an act's rightness cannot be known except by reference to the judgment of the wise agent in context. Deontologists and utilitarians insist, by contrast, that the criterion of the act is independent of the qualities of its agent.
 
+## Primary Texts
+
+Kant's *Groundwork* proceeds from the good will to the idea of duty and then to the categorical imperative, stated in several formulas, including the requirement to treat humanity always as an end and never merely as a means. Mill's *Utilitarianism* (1861), in its second chapter, makes the rightness of actions proportional to their tendency to promote happiness, and counts the happiness of everyone affected, not only the agent's. Henry Sidgwick's *The Methods of Ethics* (1874) systematically compares egoism, intuitionism and utilitarianism as procedures for deciding what one ought to do. G. E. Moore's *Principia Ethica* (1903) ties right action to bringing about the most good while denying that goodness can be defined in natural terms.
+
+Ross's *The Right and the Good* (1930) argues that rightness and goodness are distinct and that several basic duties are self-evident, although the verdict in a particular case remains fallible. G. E. M. Anscombe's article Modern Moral Philosophy (1958) questions whether a law-like notion of moral obligation makes sense without a lawgiver. Rosalind Hursthouse's *On Virtue Ethics* (1999) proposes that an action is right if it is what a virtuous agent would characteristically do in the circumstances.
+
 ## Sources
 
 - Ross, W. D. *The Right and the Good*. Oxford University Press, 1930.
 - Kant, Immanuel. *Groundwork of the Metaphysics of Morals* (1785), trans. Mary Gregor. Cambridge University Press, 1998.
 - al-Shatibi, Ibrahim ibn Musa. *al-Muwafaqat fi Usul al-Shari'a*. Dar Ibn Affan, 1997.
+- Mill, John Stuart. *Utilitarianism* (1861).
+- Sidgwick, Henry. *The Methods of Ethics*. Macmillan, 1874.
+- Moore, G. E. *Principia Ethica*. Cambridge University Press, 1903.
+- Anscombe, G. E. M. "Modern Moral Philosophy." *Philosophy*, 1958.
+- Hursthouse, Rosalind. *On Virtue Ethics*. Oxford University Press, 1999.

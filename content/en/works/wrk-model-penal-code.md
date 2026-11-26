@@ -18,8 +18,7 @@ related:
 - id: "con-mens-rea-criminal-intent", title: "Mens Rea (Criminal Intent)", type: "مفهوم"
 - id: "con-insanity-defense-mnaghten", title: "The Insanity Defense and the M'Naghten Rule", type: "مفهوم"
 - id: "sch-criminal-law-philosophy-responsibility", title: "Philosophy of Criminal Law and Responsibility", type: "مدرسة"
-gaps:
-  - "Later revisions of the Code (including the revision of the sexual offences provisions approved in 2021): not yet covered"
+gaps: []
 ---
 # Model Penal Code
 
@@ -57,8 +56,14 @@ Among the Code's precise methodological contributions is its principled rejectio
 
 The adoption of the Model Penal Code by multiple states in different forms raises a theoretical debate about the usefulness of unifying criminal law in a federal system that is essentially founded on a plurality of legislative sovereignties among the states. Some states adopted the Code almost in its entirety (such as New Jersey and Oregon), while others borrowed only specific parts from it (such as the classification of levels of intent alone), retaining their own punitive traditions. This produced what might be called a "family" of closely related criminal laws rather than a genuinely uniform law. This reflects the enduring tension between the desire for theoretical unification and the requirements of local legislative autonomy.
 
+## Later Revisions
+
+For several decades the 1962 text remained largely unchanged, and the Institute has since revisited selected parts of it instead of redrafting the whole. In 2009 it voted to withdraw section 210.6, which had set out a procedure for capital sentencing, citing the serious difficulties of administering the death penalty reliably; it did not substitute a new provision. A revision of the sentencing articles followed, directed by Kevin Reitz as reporter and approved in 2017. It gives a central place to proportionality, sentencing commissions and guidelines, appellate review of sentences and limits on the use of imprisonment. The revision of Article 213 on sexual assault and related offences began in 2012, with Stephen Schulhofer as reporter and Erin Murphy as associate reporter. After long and contested drafting, the membership approved a draft in 2021, including major changes to sex offender registration, and approved the completed project, with further amendments, in 2022. The new provisions replace the 1962 treatment of these offences, including its marital exemption and its special evidentiary hurdles for complainants, and address consent and its absence directly. Like the original Code, all these texts bind no court unless a legislature enacts them.
+
 ## Sources
 
 - American Law Institute. *Model Penal Code*. Official Draft, 1962.
 - American Law Institute. *Model Penal Code and Commentaries*. 1980–1985.
 - Perlin, Michael L. *The Jurisprudence of the Insanity Defense*. Carolina Academic Press, 1994.
+- American Law Institute. *Model Penal Code: Sentencing*. Approved 2017.
+- American Law Institute. *Model Penal Code: Sexual Assault and Related Offenses*. Tentative drafts approved 2021 and 2022.

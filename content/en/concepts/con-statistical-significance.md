@@ -12,9 +12,7 @@ active_start: 1900
 active_end: مستمر
 edges: []
 related: []
-gaps:
-- Cross-school comparisons: not yet covered
-- Empirical examples: not yet covered
+gaps: []
 sociological_tradition: other
 sociological_paradigm: micro-macro
 ---
@@ -46,6 +44,14 @@ In 2016 the American Statistical Association took the unusual step of issuing a 
 
 For sociology, the stakes are substantive. Quantitative claims about inequality, discrimination, mobility and the effects of policy all pass through significance tests on their way to publication and to public debate. A finding that a hiring audit shows racial discrimination, or that a welfare reform changed employment rates, gains authority when it is "statistically significant" — and that authority can mislead when the effect is tiny, the sample unrepresentative, or the analysis one of many tried. Contemporary best practice therefore treats statistical significance as one piece of evidence among others: effect sizes, confidence intervals, replication, and theoretical plausibility all bear on whether a pattern matters. The concept remains indispensable as a guard against being fooled by randomness, but its history shows that the guard itself needs watching.
 
+## Empirical Examples
+
+Marianne Bertrand and Sendhil Mullainathan (2004) sent fictitious résumés to employers in Boston and Chicago, varying names associated with white or African American applicants; the gap in callbacks was statistically significant, and because names were randomly assigned it could be tied to the name signal, within the limits of the occupations and places studied. Alan Gerber and Neil Malhotra (2008) examined leading sociology journals and found far more results just past the conventional threshold than just short of it, a pattern consistent with publication bias or selective analysis. In psychology, a large collaborative replication project reported in 2015 that many originally significant findings did not reach significance when repeated.
+
+## Positions across Schools
+
+Sociologists disputed these tests early. Hanan Selvin (1957) argued that survey designs often fail to meet the conditions that tests require, and his critics defended their careful use; the exchange and later contributions were collected by Denton Morrison and Ramon Henkel in *The Significance Test Controversy* (1970). Quantitative researchers working with whole populations disagree about whether sampling-based tests apply there. Interpretive and ethnographic traditions generally rest claims on depth, comparison and theoretical reasoning instead. Erin Leahey (2005) studied how the use of significance stars spread as a disciplinary convention.
+
 ## Sources
 
 - Fisher, Ronald A. *Statistical Methods for Research Workers*. Edinburgh: Oliver and Boyd, 1925.
@@ -54,3 +60,9 @@ For sociology, the stakes are substantive. Quantitative claims about inequality,
 - Ioannidis, John P. A. "Why Most Published Research Findings Are False." *PLoS Medicine*, 2005.
 - Wasserstein, Ronald L., and Nicole A. Lazar. "The ASA Statement on p-Values: Context, Process, and Purpose." *The American Statistician*, 2016.
 - Benjamin, Daniel J., et al. "Redefine Statistical Significance." *Nature Human Behaviour*, 2018.
+- Bertrand, Marianne, and Sendhil Mullainathan. "Are Emily and Greg More Employable than Lakisha and Jamal?" *American Economic Review*, 2004.
+- Gerber, Alan S., and Neil Malhotra. "Publication Bias in Empirical Sociological Research." *Sociological Methods and Research*, 2008.
+- Open Science Collaboration. "Estimating the Reproducibility of Psychological Science." *Science*, 2015.
+- Selvin, Hanan C. "A Critique of Tests of Significance in Survey Research." *American Sociological Review*, 1957.
+- Morrison, Denton E., and Ramon E. Henkel, eds. *The Significance Test Controversy*. Aldine, 1970.
+- Leahey, Erin. "Alphas and Asterisks: The Development of Statistical Significance Testing Standards in Sociology." *Social Forces*, 2005.

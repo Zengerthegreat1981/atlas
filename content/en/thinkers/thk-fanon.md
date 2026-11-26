@@ -12,8 +12,7 @@ active_start: 1925
 active_end: 1961
 edges: []
 related: []
-gaps:
-- Cross-references to related concepts: not yet covered
+gaps: []
 sociological_tradition: other
 sociological_paradigm: micro-macro
 ---
@@ -41,6 +40,10 @@ In *Black Skin, White Masks*, Fanon analyzed how racism shapes the psychology of
 
 In *A Dying Colonialism* Fanon examined how the Algerian revolution changed everyday practices, including the changing meaning of the veil, the role of the radio (the Voice of Algeria) and relations between Algerian patients and French medicine. The chapter "Colonial War and Mental Disorders" in *The Wretched of the Earth* presents clinical cases of Algerian and French patients affected by the violence of the war, drawn from his psychiatric practice.
 
+## Related Concepts
+
+Fanon's work connects with the concepts of colonialism, racism, alienation, recognition, decolonisation, violence, national consciousness, and the psychology of oppression. In *Black Skin, White Masks* he reworks Hegel's account of recognition between master and bondsman for a racial order in which recognition is distorted, and draws on phenomenology and psychoanalysis. His critique of the national bourgeoisie relates to dependency and neocolonialism: formal independence may leave economic relations and institutions of domination largely in place. Useful comparisons include Aimé Césaire's *Discourse on Colonialism* and negritude, which Fanon engaged both sympathetically and critically; Albert Memmi's portrait of colonised and coloniser; and W. E. B. Du Bois's double consciousness, a related but distinct account of seeing oneself through a racially dominant gaze. Later connections include Edward Said's analysis of colonial representation and Homi Bhabha's reading of ambivalence and identity. Ali Shariati helped introduce Fanon's anticolonial ideas to Iranian readers, while giving religion a larger positive role in political renewal.
+
 ## Method
 
 Fanon blended clinical psychiatry, phenomenology, Marxism and political writing. He grounded his argument in lived experience as well as structural analysis.
@@ -56,3 +59,5 @@ His writings strongly influenced anti-colonial movements, the Black Power moveme
 - Frantz Fanon, *A Dying Colonialism*, 1959.
 - David Macey, *Frantz Fanon: A Life*, 2000.
 - Hannah Arendt, *On Violence*, 1970.
+- Aimé Césaire, *Discourse on Colonialism*, 1950.
+- Albert Memmi, *The Colonizer and the Colonized*, 1957.

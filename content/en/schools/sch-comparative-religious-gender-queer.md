@@ -18,8 +18,7 @@ crumb: "Religious Studies ← Schools ← Comparative Religious Gender, Feminist
 edges:
 - rel: "belongs_to", target: "Founding of the 'Science of Religion': Max Müller and the Origins of Comparative Religion", target_type: "مدرسة"
 related:
-gaps:
-  - "Fuller treatment of Shinto and traditional African religions in this field: not yet covered."
+gaps: []
 ---
 
 # Comparative Religious Gender, Feminist, and Queer Studies
@@ -42,6 +41,12 @@ The Arab heritage has a place in this field in two ways. The classical jurisprud
 
 Comparative studies document non-binary gender patterns in several traditions: the *hijra* in India (Serena Nanda, *Neither Man nor Woman*, 1990); the "two-spirit" tradition in Native North America (Will Roscoe, on the Zuni "man-woman," 1991); and the Buddhist debate on sex and gender in the collection edited by José Cabezón (1992). These examples show that the gender binary is not a universal premise. They also call for caution: local categories are defined by their context and cannot be reduced to the modern notion of a "third gender."
 
+## Shinto and African Religious Traditions
+
+In **Shinto**, scholars set female figures and offices, such as the sun deity Amaterasu, the imperial princesses who served at the Ise shrine in early and medieval Japan, and the shrine attendants known as *miko*, against restrictions linked to ritual impurity, including that associated with menstruation and childbirth. Carmen Blacker's study of Japanese shamanic practice (1975) documented the prominence of women as mediums, much of it in settings that cross Shinto, Buddhist and folk boundaries. In the modern period the male-dominated priesthood opened to women around the time of the Second World War and after it, though their standing remains a subject of discussion.
+
+For **African traditions**, Ifi Amadiume's *Male Daughters, Female Husbands* (1987) showed that among the Igbo of Nnobi social roles could be separated from sex, with women able to occupy positions coded as male. Oyèrónkẹ́ Oyěwùmí's *The Invention of Women* (1997) argued that gender was not a primary organizing principle in precolonial Yoruba society, a thesis that has been contested. J. Lorand Matory (1994) analyzed how Oyo-Yoruba possession priesthood uses the imagery of being a wife or mount of a deity for priests of both sexes. These studies concern particular societies and cannot stand for all African religions.
+
 ## Institutions and Journals
 
 - *Journal of Feminist Studies in Religion*, a leading feminist journal in religious studies, whose first issues appeared in 1985.
@@ -62,3 +67,8 @@ The field faces recurring charges from within conservative religious traditions 
 - Mahmood, Saba (2005). *Politics of Piety: The Islamic Revival and the Feminist Subject*. Princeton University Press.
 - Ruether, Rosemary Radford (1983). *Sexism and God-Talk: Toward a Feminist Theology*. Beacon Press.
 - Butler, Judith (1990). *Gender Trouble: Feminism and the Subversion of Identity*. Routledge.
+- Blacker, Carmen (1975). *The Catalpa Bow: A Study of Shamanistic Practices in Japan*. Allen & Unwin.
+- Hardacre, Helen (2017). *Shinto: A History*. Oxford University Press.
+- Amadiume, Ifi (1987). *Male Daughters, Female Husbands: Gender and Sex in an African Society*. Zed Books.
+- Oyěwùmí, Oyèrónkẹ́ (1997). *The Invention of Women: Making an African Sense of Western Gender Discourses*. University of Minnesota Press.
+- Matory, J. Lorand (1994). *Sex and the Empire That Is No More: Gender and the Politics of Metaphor in Oyo Yoruba Religion*. University of Minnesota Press.

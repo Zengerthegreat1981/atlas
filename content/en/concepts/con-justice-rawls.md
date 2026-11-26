@@ -11,8 +11,7 @@ active_start: 1900
 active_end: "مستمر"
 edges: []
 related: []
-gaps:
-  - "Rawls's later political liberalism and the law of peoples: not yet covered"
+gaps: []
 ---
 
 # Justice as Fairness
@@ -23,7 +22,7 @@ Justice as fairness is the conception of a just social system formulated by John
 
 ## The Islamic Approach to Justice
 
-In Islam, justice is a central value that precedes any later philosophical theory. It is commanded absolutely in the verse "Indeed, God commands justice and good conduct." It is even made a condition in dealings with enemies: "And do not let the hatred of a people prevent you from being just. Be just; that is nearer to righteousness." Classical jurists addressed questions of distribution chiefly through the obligations of alms (*zakat*) and maintenance (*nafaqat*), and through considerations of public interest (*maslaha*). They did not require strict arithmetic equality, but a justice that takes need and sufficiency into account. This resembles, in some respects, the concern with the position of the most needy in Rawls's logic, although the sources differ. For Rawls, justice is the product of a hypothetical rational agreement. For the jurists, it is a fixed divine command that reason can understand but that is not built on purely human contract.
+In Islam, justice is a central value that precedes any later philosophical theory. It is commanded absolutely in the verse stating that God enjoins justice and good conduct. It is even made a condition in dealings with enemies: another verse forbids letting hatred of a people lead one away from justice, and commands justice as the course closer to righteousness. Classical jurists addressed questions of distribution chiefly through the obligations of alms (*zakat*) and maintenance (*nafaqat*), and through considerations of public interest (*maslaha*). They did not require strict arithmetic equality, but a justice that takes need and sufficiency into account. This resembles, in some respects, the concern with the position of the most needy in Rawls's logic, although the sources differ. For Rawls, justice is the product of a hypothetical rational agreement. For the jurists, it is a fixed divine command that reason can understand but that is not built on purely human contract.
 
 ## Philosophical Context: Rawls's Theory
 
@@ -39,9 +38,17 @@ The veil of ignorance is used in practice to assess social security policies. De
 
 An important feature of Rawls's theory is his insistence on the "priority" of the principle of basic liberties over the difference principle. A basic liberty (such as freedom of belief or expression) may not be sacrificed in exchange for any economic gain, however large. This ordering reflects his conviction that the political dignity of the individual cannot be bartered for material prosperity. Loosely, one might compare this with the ordering of the five essentials in the *maqasid* tradition, where preserving religion and life ranks above preserving property, though the rationales differ.
 
+## Political Liberalism and the Law of Peoples
+
+In *Political Liberalism* (1993) Rawls reconsidered how a just society could remain stable when citizens hold deeply different religious and philosophical doctrines. He concluded that the earlier account of stability had relied on a shared comprehensive outlook that free institutions would not produce. Justice as fairness was therefore recast as a "political" conception, one that does not depend on any comprehensive doctrine and can be the object of an "overlapping consensus" among reasonable ones. The accompanying idea of public reason asks that fundamental political questions be justified in terms other citizens can reasonably accept.
+
+*The Law of Peoples* (1999) turns to relations among peoples. A further original position, whose parties represent peoples rather than individuals, yields principles such as independence, observance of treaties, non-intervention, limits on war, and respect for human rights. Rawls holds that certain non-liberal but "decent" peoples should be tolerated, and that well-ordered peoples owe a duty of assistance to societies burdened by unfavourable conditions. He rejects a global difference principle, a choice criticized by cosmopolitan theorists such as Charles Beitz and Thomas Pogge.
+
 ## Sources
 
 - Rawls, John. *A Theory of Justice*. Harvard University Press, 1971.
 - Nozick, Robert. *Anarchy, State, and Utopia*. Basic Books, 1974.
 - Rawls, John. *Justice as Fairness: A Restatement*. Harvard University Press, 2001.
 - Sandel, Michael J. *Liberalism and the Limits of Justice*. Cambridge University Press, 1982.
+- Rawls, John. *Political Liberalism*. Columbia University Press, 1993.
+- Rawls, John. *The Law of Peoples*. Harvard University Press, 1999.

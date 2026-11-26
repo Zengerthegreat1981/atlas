@@ -14,9 +14,7 @@ edges: []
 related: []
 sociological_tradition: other
 sociological_paradigm: micro-macro
-gaps:
-  - "Society and the digital public sphere: not yet covered"
-  - "Society in post-colonial contexts: not yet covered"
+gaps: []
 ---
 
 # Society: The Web of Relations That Outlives Its Members
@@ -47,9 +45,25 @@ The concept of society has been criticized from several directions. Methodologic
 
 Yet the concept endures because it names something real: the fact that human life is lived inside structures that precede us and will survive us. It now frames research on global society — climate change, pandemics, and digital platforms that connect people across borders — and on the fragmentation of national societies into groups that share less and less. The question Tönnies and Durkheim posed — what holds us together? — remains the question sociology exists to answer.
 
+## Society and the Digital Public Sphere
+
+Jürgen Habermas's *The Structural Transformation of the Public Sphere* (German 1962; English 1989) described an arena, historically restricted in membership, where private people debated common affairs and formed public opinion. Digital networks have reopened the question of where such an arena lies. Manuel Castells argued that a network society organises power and identity around flows of information, and Yochai Benkler stressed that cheap networked production allows many more people to publish and cooperate outside markets and states. Others are more cautious: Zizi Papacharissi (2002) noted that new spaces for talk do not by themselves create a public sphere, and Cass Sunstein warned that personalised filtering can sort audiences into like-minded groups. Research has since disputed how far such sorting occurs. Platform ownership and ranking systems also shape what becomes visible.
+
+## Society in Post-Colonial Contexts
+
+Colonial rule often drew borders and legal categories that did not match earlier social ties. Peter Ekeh (1975) argued that colonialism in Africa produced two publics with different moral expectations, one tied to primordial communities and one to the state. Mahmood Mamdani's *Citizen and Subject* (1996) described a divided rule of urban civil law and rural customary authority whose legacy outlasted independence. Partha Chatterjee, writing from India, argued that many people deal with the state less as rights-bearing members of civil society than as governed population groups negotiating for entitlements.
+
 ## Sources
 
 - Durkheim, Émile. *The Division of Labour in Society*. Macmillan, 1984. First published in French, 1893.
 - Giddens, Anthony. *The Constitution of Society: Outline of the Theory of Structuration*. Polity Press, 1984.
 - Parsons, Talcott. *The Social System*. Free Press, 1951.
 - Tönnies, Ferdinand. *Community and Society*. Translated by Charles P. Loomis. Michigan State University Press, 1957. First published in German, 1887.
+- Habermas, Jürgen. *The Structural Transformation of the Public Sphere*. MIT Press, 1989. First published in German, 1962.
+- Castells, Manuel. *The Rise of the Network Society*. Blackwell, 1996.
+- Benkler, Yochai. *The Wealth of Networks*. Yale University Press, 2006.
+- Papacharissi, Zizi. "The Virtual Sphere: The Internet as a Public Sphere." *New Media and Society*, 2002.
+- Sunstein, Cass R. *Republic.com*. Princeton University Press, 2001.
+- Ekeh, Peter P. "Colonialism and the Two Publics in Africa: A Theoretical Statement." *Comparative Studies in Society and History*, 1975.
+- Mamdani, Mahmood. *Citizen and Subject: Contemporary Africa and the Legacy of Late Colonialism*. Princeton University Press, 1996.
+- Chatterjee, Partha. *The Politics of the Governed*. Columbia University Press, 2004.

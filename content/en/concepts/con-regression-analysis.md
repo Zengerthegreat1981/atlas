@@ -12,8 +12,7 @@ active_start: 1900
 active_end: مستمر
 edges: []
 related: []
-gaps:
-- Cross-school comparisons: not yet covered
+gaps: []
 sociological_tradition: other
 sociological_paradigm: micro-macro
 ---
@@ -43,6 +42,10 @@ A third dimension is the interpretation of coefficients. A regression coefficien
 
 Regression analysis remains the workhorse of quantitative sociology, and its applications are everywhere: in the study of wage inequality, educational attainment, health disparities, voting behaviour, and crime. Much recent work combines two approaches, using machine learning for prediction and exploration, and regression for explanation and causal inference. Regression's enduring value is not that it is the most powerful predictive tool available, but that it is the most transparent — a model whose assumptions can be stated, whose results can be criticised, and whose conclusions can be argued about in plain language.
 
+## Regression across Schools
+
+Sociological schools differ over what a regression equation represents. The American tradition of causal modelling, shaped by Blalock and by Otis Dudley Duncan's path analysis, used systems of equations to trace direct and indirect effects, as in research on how family background and schooling relate to occupational attainment. Duncan himself later cautioned against mechanical applications. Andrew Abbott (1988) argued that treating the linear model as a picture of social reality assumes fixed entities with varying attributes, and neglects sequence and context. Interpretive sociologists object that coefficients do not show how actors understand their situations. Statisticians such as David Freedman and Richard Berk accepted regression as description while doubting many causal readings drawn from it. Analytical sociologists ask for explicit mechanisms that would generate the observed association. Pierre Bourdieu preferred correspondence analysis in *Distinction*, which displays relations among many categories together, partly because he rejected isolating the effect of one variable from the whole structure.
+
 ## Sources
 
 - Francis Galton, "Regression Towards Mediocrity in Hereditary Stature", 1886.
@@ -50,3 +53,8 @@ Regression analysis remains the workhorse of quantitative sociology, and its app
 - Ronald A. Fisher, *Statistical Methods for Research Workers*, 1925.
 - Hubert M. Blalock, *Causal Inferences in Nonexperimental Research*, 1964.
 - Christopher H. Achen, *Interpreting and Using Regression*, 1982.
+- Peter M. Blau and Otis Dudley Duncan, *The American Occupational Structure*, 1967.
+- Andrew Abbott, "Transcending General Linear Reality," *Sociological Theory*, 1988.
+- Richard A. Berk, *Regression Analysis: A Constructive Critique*, 2004.
+- David A. Freedman, "Statistical Models and Shoe Leather," *Sociological Methodology*, 1991.
+- Pierre Bourdieu, *Distinction*, 1979 (English translation 1984).

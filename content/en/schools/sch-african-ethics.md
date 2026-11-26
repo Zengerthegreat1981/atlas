@@ -11,8 +11,7 @@ active_start: 1900
 active_end: "مستمر"
 edges: []
 related: []
-gaps:
-  - "Comprehensive expansion and deepening of content: not yet covered"
+gaps: []
 ---
 
 # African Ethics
@@ -49,6 +48,12 @@ After the genocide of 1994 in Rwanda, the state faced a very large number of sus
 
 In South Africa after apartheid, *ubuntu* was invoked in the postamble of the 1993 interim constitution, in the Constitutional Court's judgment in *S v Makwanyane* (1995), and in the discourse of the Truth and Reconciliation Commission chaired by Archbishop Desmond Tutu, where it was cited in support of amnesty and reconciliation in place of revenge. Debates over applying African ethics have also borne fruit in fields such as environmental ethics, where the moral community is extended to include ancestors, future generations, and the natural environment, and in critiques of individualistic Western development models in favor of participatory development models that respect social cohesion.
 
+## Further Thinkers and Debates
+
+The Ghanaian philosopher Kwasi Wiredu, in *Cultural Universals and Particulars* (1996), drew on Akan thought to defend a humanistic ethics in which morality rests on the harmonization of interests through sympathetic impartiality, and argued that this basis, unlike custom, is not peculiar to one culture. Wiredu also proposed that Akan traditions of decision by consensus offer an alternative to majoritarian party politics, a proposal that the Nigerian philosopher Emmanuel Eze questioned for understating conflict and the power behind apparent agreement.
+
+In Yoruba thought, Segun Gbadegesin's *African Philosophy: Traditional Yoruba Philosophy and Contemporary African Realities* (1991) examines personhood and the central place of *iwa* (character) in moral appraisal. Theological ethicists have added further lines: the Tanzanian scholar Laurenti Magesa, in *African Religion: The Moral Traditions of Abundant Life* (1997), treats the enhancement of life force as the criterion of good conduct, and the Congolese theologian Bénézet Bujo, in *Foundations of an African Ethic* (2001), contrasts a communal ethic that includes the dead and the unborn with Western discourse ethics and natural law approaches.
+
 ## Sources
 
 - Metz, Thaddeus. "Toward an African Moral Theory." *Journal of Political Philosophy* 15, no. 3 (2007): 321-341.
@@ -57,3 +62,8 @@ In South Africa after apartheid, *ubuntu* was invoked in the postamble of the 19
 - Gyekye, Kwame. *Tradition and Modernity: Philosophical Reflections on the African Experience*. Oxford University Press, 1997.
 - Shutte, Augustine. *Ubuntu: An Ethic for a New South Africa*. Cluster Publications, 2001.
 - Gyekye, Kwame. *An Essay on African Philosophical Thought: The Akan Conceptual Scheme*. Cambridge University Press, 1987.
+- Wiredu, Kwasi. *Cultural Universals and Particulars: An African Perspective*. Indiana University Press, 1996.
+- Eze, Emmanuel Chukwudi. "Democracy or Consensus? A Response to Wiredu." In *Postcolonial African Philosophy: A Critical Reader*, edited by E. C. Eze. Blackwell, 1997.
+- Gbadegesin, Segun. *African Philosophy: Traditional Yoruba Philosophy and Contemporary African Realities*. Peter Lang, 1991.
+- Magesa, Laurenti. *African Religion: The Moral Traditions of Abundant Life*. Orbis Books, 1997.
+- Bujo, Bénézet. *Foundations of an African Ethic: Beyond the Universal Claims of Western Morality*. Crossroad, 2001.

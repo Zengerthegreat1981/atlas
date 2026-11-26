@@ -15,9 +15,7 @@ edges:
 related:
   - id: "thk-talal-asad", title: "Talal Asad", type: "مفكر"
   - id: "thk-james-clifford", title: "James Clifford", type: "مفكر"
-gaps:
-  - "Non-anglophone contexts: not yet covered"
-  - "Technology and digital research: not yet covered"
+gaps: []
 ---
 
 # Linda Tuhiwai Smith: Decolonizing Methodologies and Indigenous Research
@@ -82,6 +80,14 @@ Her work explicitly positions indigenous peoples not as victims of history but a
 
 Smith's work has also engaged with indigenous movements for land rights, language revitalization, cultural sovereignty, and political self-determination, understanding research as integrally connected to these struggles.
 
+## Beyond English-Language Settings
+
+Decolonizing research has histories in many languages, some of them independent of Smith's work. In Colombia, Orlando Fals-Borda was a leading advocate of participatory action research, which sought to make communities co-investigators. In the Andes, Silvia Rivera Cusicanqui, associated with the Andean Oral History Workshop in Bolivia, developed critiques of internal colonialism grounded in Aymara and Quechua experience, including *Ch'ixinakax utxiwa* (2010). In Sámi research, Jelena Porsanger's 2004 essay on Indigenous methodology discussed how research can be grounded in Indigenous terms and concerns. These traditions need not be read as applications of kaupapa Māori research: each has its own languages, political history, and relation to universities, and translating "Indigenous" or "decolonizing" across them takes care.
+
+## Technology and Digital Research
+
+Digital archives, databases, and genomic research raise familiar questions about control in new forms, since records can be copied and recombined far from the communities concerned. Tahu Kukutai and John Taylor's edited volume *Indigenous Data Sovereignty* (2016) argued that Indigenous peoples have rights to govern data about their people, lands, and resources, and Te Mana Raraunga, the Māori Data Sovereignty Network, has advanced this in Aotearoa. The CARE Principles for Indigenous data governance (collective benefit, authority to control, responsibility, and ethics) were developed to complement open-data principles focused on reuse. Marisa Elena Duarte's *Network Sovereignty* (2017) studied how tribes in the United States build and use internet infrastructure.
+
 ## Contemporary Relevance and Legacy
 
 Decolonizing methodologies have become increasingly central to research ethics across fields. A number of funding bodies, universities, and professional organizations have taken up indigenous data sovereignty and community-controlled research as ethical concerns. Related institutional changes include requirements for community consent, protocols for indigenous data, positions for indigenous scholars in research institutions.
@@ -105,3 +111,8 @@ Contemporary indigenous scholars continue developing and refining decolonizing m
 - Smith, Linda Tuhiwai. *Decolonizing Methodologies: Research and Indigenous Peoples*. Zed Books and University of Otago Press, 1999; 2nd ed. 2012.
 - Smith, Linda Tuhiwai. "On Tricky Ground: Researching the Native in the Age of Uncertainty." In *The Sage Handbook of Qualitative Research*, edited by Norman K. Denzin and Yvonna S. Lincoln, 3rd ed. Sage, 2005.
 - Tuck, Eve, and K. Wayne Yang. "Decolonization Is Not a Metaphor." *Decolonization: Indigeneity, Education & Society* 1, no. 1 (2012): 1–40.
+- Carroll, Stephanie Russo, et al. "The CARE Principles for Indigenous Data Governance." *Data Science Journal* 19. 2020.
+- Duarte, Marisa Elena. *Network Sovereignty: Building the Internet across Indian Country*. University of Washington Press, 2017.
+- Kukutai, Tahu, and John Taylor, eds. *Indigenous Data Sovereignty: Toward an Agenda*. ANU Press, 2016.
+- Porsanger, Jelena. "An Essay about Indigenous Methodology." *Nordlit* 15. 2004.
+- Rivera Cusicanqui, Silvia. *Ch'ixinakax utxiwa: Una reflexión sobre prácticas y discursos descolonizadores*. Tinta Limón, 2010.

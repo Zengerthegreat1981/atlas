@@ -28,8 +28,7 @@ related:
 - id: "thk-david-kupfer", title: "David Kupfer", type: "مفكر"
 - id: "thk-frederick-goodwin", title: "Frederick Goodwin", type: "مفكر"
 - id: "wrk-bipolar-disorder-research", title: "Bipolar Disorder: Research and Treatment", type: "عمل / كتاب"
-gaps:
-  - "Prevalence by subtype and region: not yet covered"
+gaps: []
 ---
 
 # Mood Disorders
@@ -59,6 +58,10 @@ Basic diagnostic categories are defined by uniform criteria, but the course and 
 
 Assessment of suicidal behavior and its risk remains a transversal dimension that intersects with nearly all diagnoses in this group. Suicidal thoughts and self-harm tendencies are among the direct diagnostic criteria for a major depressive episode, and they require a systematic assessment separate from the categorical diagnosis itself. "Treatment-resistant" mood disorders generally refer to failure to achieve an adequate response to at least two appropriate pharmacological treatment attempts, in dose and duration. This clinical category has driven the development of alternative interventions such as electroconvulsive therapy, transcranial magnetic stimulation, and newer drug treatments.
 
+## Prevalence by Subtype and Setting
+
+The World Mental Health Surveys offer the most comparable cross-national figures. For DSM-IV major depressive episode, an analysis of eighteen countries found average lifetime prevalence of about 14.6 percent in ten high-income countries and 11.1 percent in eight low- and middle-income countries, while twelve-month averages were similar in the two groups, about 5.5 and 5.9 percent. Individual countries differed widely, with lifetime estimates in China and Japan far below those in France and the United States. Note that this measure counts episodes and is not identical to a diagnosis of major depressive disorder. For bipolar conditions, a study of eleven countries in the Americas, Europe, Asia, the Middle East and New Zealand reported pooled lifetime estimates of about 0.6 percent for bipolar I, 0.4 percent for bipolar II and 1.4 percent for subthreshold forms, 2.4 percent for the spectrum as a whole. Differences between settings may reflect real variation in risk as well as differences in recall, reporting and the cultural fit of interview questions. Comparable cross-national figures for cyclothymic, persistent depressive, disruptive mood dysregulation and premenstrual dysphoric disorders are not given here.
+
 ## Limitations
 
 The boundary between normal hypomanic-like states and ordinary mood episodes remains a matter of clinical debate, particularly in diagnosing Type II bipolar disorder, where brief hypomanic episodes may be confused with ordinary mood changes or with personality disorders. The removal of the bereavement exclusion from DSM-5 also sparked wide debate about the risk of turning normal grief into a medical diagnosis (medicalization), a critique directly linked to the broader debate about the inflation of diagnostic criteria in contemporary psychiatry.
@@ -73,3 +76,5 @@ This entry is educational and descriptive. Diagnostic features are summarized fo
 - Emil Kraepelin, *Manic-Depressive Insanity and Paranoia*, trans. R. Mary Barclay, ed. George M. Robertson (Edinburgh: E. & S. Livingstone, 1921).
 - Karl Leonhard, *Aufteilung der endogenen Psychosen* (Berlin: Akademie-Verlag, 1957).
 - Kenneth S. Kendler, "The Genealogy of Major Depression: Symptoms and Signs of Melancholia from 1880 to 1900," *Molecular Psychiatry*, vol. 22 (2017), pp. 1539–1553.
+- Evelyn Bromet et al., "Cross-National Epidemiology of DSM-IV Major Depressive Episode," *BMC Medicine* (2011).
+- Kathleen R. Merikangas et al., "Prevalence and Correlates of Bipolar Spectrum Disorder in the World Mental Health Survey Initiative," *Archives of General Psychiatry* (2011).

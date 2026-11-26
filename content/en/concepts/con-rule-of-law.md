@@ -17,8 +17,7 @@ related:
 - id: "sch-constitutional-law-theory", title: "Constitutional Law Theory", type: "مدرسة"
 - id: "thk-georg-jellinek", title: "Georg Jellinek", type: "مفكر"
 - id: "con-legal-personality", title: "Legal Personality", type: "مفهوم"
-gaps:
-  - "Full comparative debate between the Anglo-American rule of law and the continental Rechtsstaat and État de droit: not yet covered."
+gaps: []
 ---
 
 # Rule of Law
@@ -41,6 +40,14 @@ In German and French tradition, the concept of the **state of law** (*Rechtsstaa
 
 A continuing philosophical debate concerns whether the rule of law is limited to purely **formal** conditions (clarity of rules, non-retroactivity, stability of application, judicial independence), regardless of the justice of their substantive content, or whether it necessarily requires a minimum respect for **substantive rights** (such as freedom of expression or equality) in order to deserve the name at all. Jurists such as Joseph Raz (the "thin" or formal conception) hold that formal virtues alone suffice to define the concept; the contrasting "thick" conceptions are associated with writers such as Ronald Dworkin and Tom Bingham. Others link the rule of law to a minimal substantive content of rights, to prevent the description from applying to authoritarian regimes that enforce unjust laws with strict formal discipline.
 
+## Comparing the Three Traditions
+
+The terms are not simple translations of one another. German theorists such as Robert von Mohl developed the *Rechtsstaat* in the nineteenth century as a state whose aims and methods were bound by law; later writers, notably Friedrich Julius Stahl, stressed its formal side, concerning how the state acts more than what it pursues. After the experience of National Socialism, the Basic Law of 1949 joined legality to enforceable fundamental rights and constitutional review, a substantive conception.
+
+In France, Raymond Carré de Malberg contrasted the *État de droit*, offering individuals remedies against the administration and potentially against legislation, with the *État légal* of the Third Republic, centred on the supremacy of parliamentary statute. Review of statutes for compliance with rights gained force after the Constitutional Council's 1971 decision on freedom of association.
+
+Dicey, by contrast, distrusted French administrative law as a privileged regime for officials and located protection in ordinary courts, a portrayal later scholars criticized as inaccurate. English doctrine also had to reconcile the rule of law with parliamentary sovereignty. Contemporary convergence, visible in the Venice Commission's 2011 report, identifies shared elements such as legality, legal certainty, non-arbitrariness, access to independent courts, rights and equality, while institutional differences persist.
+
 ## International Law and Development
 
 The principle of the rule of law has become a central benchmark in international legal assistance programs and in reports of institutions such as the World Bank and the United Nations, which link it to indicators of good governance and economic development. This promotional use has, however, drawn criticism from jurists who see in it at times the imposition of a particular Western institutional model on different legal and cultural contexts without sufficient regard for local legal traditions.
@@ -50,3 +57,5 @@ The principle of the rule of law has become a central benchmark in international
 - Dicey, Albert Venn. *Introduction to the Study of the Law of the Constitution*. 8th ed., Macmillan, 1915 (1st ed. 1885).
 - Raz, Joseph. "The Rule of Law and its Virtue." *Law Quarterly Review* 93 (1977): 195-211.
 - Tamanaha, Brian Z. *On the Rule of Law: History, Politics, Theory*. Cambridge University Press, 2004.
+- Carré de Malberg, Raymond. *Contribution à la théorie générale de l'État*. Paris: Sirey, 1920-1922.
+- European Commission for Democracy through Law (Venice Commission). *Report on the Rule of Law*. 2011.

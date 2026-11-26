@@ -11,8 +11,7 @@ dates: ""
 edges:
   - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
 related: []
-gaps:
-  - "Cyberwarfare: not yet covered"
+gaps: []
 ---
 
 # War: Organized Violence Between Political Communities
@@ -37,6 +36,12 @@ The effects of war reach far beyond the battlefield. The two world wars of the t
 
 In stateless societies, war takes different forms. Raiding, feuding, and ritual battle may be woven into the cycle of seasons and the obligations of kinship. Anthropologists have shown that such conflicts are often governed by strict rules about who may be attacked, when, and with what weapons — rules that limit killing even as they authorize it. War, in these settings, is a regulated social performance as much as it is an attempt to destroy an enemy.
 
+## Cyberwarfare
+
+Cyberwarfare usually refers to operations by states, or on their behalf, that use computer networks to damage or disrupt an opponent's systems. Frequently cited episodes include the denial-of-service attacks on Estonian institutions in 2007; Stuxnet, malicious software discovered in 2010 that was designed to damage centrifuges in Iran's nuclear programme and is widely attributed to the United States and Israel; and the intrusion that cut electricity to parts of Ukraine in December 2015, attributed to Russian actors.
+
+Whether such operations amount to war is disputed. Thomas Rid, in *Cyber War Will Not Take Place* (2013), argued from a Clausewitzian standpoint that an act of war must be violent, instrumental, and political, and that known cyber attacks are better understood as sabotage, espionage, and subversion. Richard Clarke and Robert Knake, in *Cyber War* (2010), warned instead of serious threats to infrastructure. The *Tallinn Manual* (2013), prepared by an international group of experts at the invitation of a NATO-affiliated centre, examined how existing international law applies; it is not a binding treaty. Problems of attribution and the blurred line between civilian and military networks complicate both law and sociological analysis.
+
 ## Critique and Contemporary Relevance
 
 Clausewitz's dictum that war serves policy has been challenged by wars that seem to serve no rational end — wars of revenge, wars that continue long after their political aims have become unreachable, wars driven by the interests of the military itself. Critics of Keeley argue that he overstated the frequency of prehistoric war by reading ambiguous archaeological evidence as proof of organized killing. And Tilly's state-making thesis, powerful for Europe, fits less well in regions where states were imposed by colonial powers rather than built through domestic warfare.
@@ -50,3 +55,6 @@ War remains a central sociological concern. Contemporary research studies drone 
 - Mann, Michael. *The Sources of Social Power, Volume 1: A History of Power from the Beginning to AD 1760*. Cambridge University Press, 1986.
 - Tilly, Charles, ed. *The Formation of National States in Western Europe*. Princeton University Press, 1975.
 - Tilly, Charles. *Coercion, Capital, and European States, AD 990–1992*. Blackwell, 1990.
+- Clarke, Richard A., and Robert K. Knake. *Cyber War: The Next Threat to National Security and What to Do About It*. Ecco, 2010.
+- Rid, Thomas. *Cyber War Will Not Take Place*. Oxford University Press, 2013.
+- Schmitt, Michael N., ed. *Tallinn Manual on the International Law Applicable to Cyber Warfare*. Cambridge University Press, 2013.

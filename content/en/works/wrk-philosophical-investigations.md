@@ -12,8 +12,7 @@ active_start: 1953
 active_end: مستمر
 edges: []
 related: []
-gaps:
-- Detailed empirical case studies: not yet covered
+gaps: []
 ---
 
 # Philosophical Investigations
@@ -40,6 +39,10 @@ The book has no linear argument. It proceeds by examples, thought experiments an
 
 The *Investigations* became a central text for philosophy attentive to ordinary language in Britain and the United States, often discussed alongside the work of Gilbert Ryle and J. L. Austin. Its impact on the social sciences was equally deep. Peter Winch's *The Idea of a Social Science and Its Relation to Philosophy* (1958) drew directly on Wittgenstein to argue that social action must be understood through the concepts of the actors themselves, and that sociology could not be a natural science of behaviour. Ethnomethodology and the sociology of scientific knowledge (for example in the work of David Bloor and Harold Garfinkel's followers) have drawn on Wittgenstein's account of rules and practices, although the extent of the debt is disputed. In sociology, the book underwrites the interpretive tradition's insistence that social order is an accomplishment of shared understanding rather than a mechanical effect of structures.
 
+## An Empirical Case: Rules in Scientific Practice
+
+The *Investigations* contains invented examples, not field research, but its account of rule-following has informed empirical work. A well-documented case is Harry Collins's study of laboratories trying to build a TEA laser, a type of gas laser, reported in an article of 1974 and revisited in *Changing Order* (1985). Collins found that scientists could not reliably reproduce the device from written instructions alone. Those who succeeded had generally had extended personal contact with people who had already built one, and even they could not always say in advance which details mattered. Collins read this through the problem of rules: instructions do not fix their own application, and competence in following them is acquired through participation in a practice. In the same book he examined disputes over the detection of gravitational radiation, arguing that when a result is contested, judging whether an experiment was done competently depends partly on what result it ought to produce. This sociological use goes beyond Wittgenstein's philosophical aims, and Bloor and ethnomethodologists such as Michael Lynch have disagreed about how rule-following should be interpreted.
+
 ## Critical Assessments and Limitations
 
 Critics have questioned whether the book's arguments are as decisive as its admirers claim. Saul Kripke's *Wittgenstein on Rules and Private Language* (1982) argued that the rule-following considerations lead to a radical scepticism about meaning that Wittgenstein himself did not resolve. Others have charged that the book's emphasis on ordinary use makes it conservative, unable to criticise the forms of life it describes. Still others note that Wittgenstein says almost nothing about power, inequality or history — the very things sociology cares about. Defenders reply that the book's achievement is not a theory but a way of seeing: once language is understood as a social practice, the idea that social life could be explained without reference to meaning becomes untenable.
@@ -54,3 +57,5 @@ Critics have questioned whether the book's arguments are as decisive as its admi
 - P. M. S. Hacker, *Wittgenstein: Meaning and Mind* (1990).
 - Norman Malcolm, *Ludwig Wittgenstein: A Memoir* (1958).
 - Saul A. Kripke, *Wittgenstein on Rules and Private Language* (1982).
+- H. M. Collins, "The TEA Set: Tacit Knowledge and Scientific Networks," *Science Studies* (1974).
+- H. M. Collins, *Changing Order: Replication and Induction in Scientific Practice* (1985).

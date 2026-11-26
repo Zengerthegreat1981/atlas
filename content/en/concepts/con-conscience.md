@@ -11,8 +11,7 @@ active_start: 1900
 active_end: "مستمر"
 edges: []
 related: []
-gaps:
-  - "Primary sources: not yet covered."
+gaps: []
 ---
 
 # Conscience
@@ -37,8 +36,19 @@ It is objected that conscience is not a reliable standard, since it varies with 
 
 *Example:* an employee is asked to falsify a financial report and refuses despite suffering a material loss, moved by an inner voice that tells them the act is wrong. This is a model example of conscience's restraining function.
 
+## Further Primary Sources
+
+Ancient and early Christian writing already speaks of an inner witness: Seneca's *Letters* describe a guardian spirit within that observes our deeds, and Paul's Letter to the Romans (2:15) refers to the conscience of the Gentiles bearing witness. Aquinas treats *synderesis* and conscience in the *Summa Theologiae* (I, question 79) and discusses whether an erring conscience binds (I-II, question 19). Rousseau praised conscience as an infallible inner guide in the "Profession of Faith of the Savoyard Vicar" in *Emile* (1762). Kant, in *The Metaphysics of Morals* (1797), pictured conscience as an internal court in which a person is judged. Nietzsche's *On the Genealogy of Morality* (1887) traced "bad conscience" to instincts turned inward under social constraint. Heidegger's *Being and Time* (1927) interpreted the call of conscience as summoning a person to authentic existence. John Henry Newman's *Letter to the Duke of Norfolk* (1875) defended the authority of conscience within Catholic thought.
+
 ## Sources
 
 - Al-Ghazali, Abu Hamid. *Ihya' 'Ulum al-Din*. Dar al-Ma'rifa (various editions).
 - Freud, Sigmund. *The Ego and the Id*. German original 1923; English translation, Hogarth Press, 1927.
 - Butler, Joseph. *Fifteen Sermons Preached at the Rolls Chapel*. 1726.
+- Seneca. *Letters to Lucilius*.
+- Thomas Aquinas. *Summa Theologiae*, I, q. 79; I-II, q. 19.
+- Rousseau, Jean-Jacques. *Emile*. 1762.
+- Kant, Immanuel. *The Metaphysics of Morals*. 1797.
+- Newman, John Henry. *A Letter Addressed to His Grace the Duke of Norfolk*. 1875.
+- Nietzsche, Friedrich. *On the Genealogy of Morality*. 1887.
+- Heidegger, Martin. *Being and Time*. 1927.

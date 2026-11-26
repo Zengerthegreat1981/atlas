@@ -12,8 +12,7 @@ active_start: 1963
 active_end: مستمر
 edges: []
 related: []
-gaps:
-- Detailed empirical case studies: not yet covered
+gaps: []
 ---
 
 # Stigma: Notes on the Management of Spoiled Identity
@@ -32,6 +31,10 @@ The book's core is an inventory of strategies. *Passing* is the attempt to be ta
 
 *Stigma* extends the dramaturgical sociology of *The Presentation of Self in Everyday Life* (1959) from the management of impressions in general to the management of a spoiled impression in particular. Where *Asylums* (1961) studied what institutions do to inmates, *Stigma* studies what individuals do to themselves and to their audiences in the ordinary run of encounters. Its method is synthetic rather than ethnographic: Goffman assembles cases from the literature and extracts their common structure, a procedure that gives the book its range and its vulnerability — the cases are vivid but unsystematic, and the framework is illustrated rather than tested. The book's examples also date it: the treatment of homosexuality and of mental illness as character blemishes reflects the psychiatric and moral categories of the early 1960s, and later readers have had to separate the analytic framework from the book's own period assumptions.
 
+## Empirical Case Studies
+
+Later research has examined these problems with particular groups. Joseph Schneider and Peter Conrad's *Having Epilepsy* (1983) used in-depth interviews to explore how people decide whether, when and to whom to disclose their condition, and how families can shape habits of concealment. Graham Scambler and Anthony Hopkins, in a British study of adults with epilepsy published in 1986, distinguished enacted stigma, actual episodes of discrimination, from felt stigma, the shame and fear of such treatment. They argued that felt stigma led many to conceal the condition and could disrupt their lives more than enacted discrimination. Devah Pager's field experiment in Milwaukee, reported in 2003, sent matched pairs of young men, one Black pair and one white pair, to apply for entry-level jobs, with members of each pair taking turns to present a criminal record. A record sharply reduced employer callbacks, and Black applicants were disadvantaged both with and without one. This design moves beyond the management of encounters to measure how employers' decisions and race shape the consequences of a discrediting mark.
+
 ## Influence and Continuing Use
 
 The book became the starting point for much of the sociology of stigma. Link and Phelan's influential reformulation in 2001 recast stigma as the co-occurrence of labelling, stereotyping, separation, status loss, and discrimination in a context of power — a definition that preserves Goffman's interactional core while adding the structural dimension he underplayed. Research on the social psychology of stigma has tested his claims about concealment, showing that hiding a stigma protects against immediate discrimination but carries psychological costs of its own. The framework has been extended to HIV/AIDS, obesity, mental illness, and disability, and Imogen Tyler's *Stigma: The Machinery of Inequality* (2020) has argued that stigma is not merely an interpersonal process but a mechanism through which inequality is produced and governed. Critics note that Goffman's account says little about resistance — about stigma as something collectively contested rather than individually managed — and little about the institutions that produce the categories in the first place. Yet the book's central insight endures: stigma is not a property of a person but a relationship between an attribute and a stereotype, and it is therefore a social process that can be changed, not a fate that must be borne.
@@ -44,3 +47,6 @@ The book became the starting point for much of the sociology of stigma. Link and
 - Major, Brenda, and Laurie T. O'Brien. "The Social Psychology of Stigma." *Annual Review of Psychology* 56 (2005).
 - Scambler, Graham. "Health-Related Stigma." *Sociology of Health and Illness* 31, no. 3 (2009).
 - Tyler, Imogen. *Stigma: The Machinery of Inequality*. London: Zed Books, 2020.
+- Schneider, Joseph W., and Peter Conrad. *Having Epilepsy: The Experience and Control of Illness*. Philadelphia: Temple University Press, 1983.
+- Scambler, Graham, and Anthony Hopkins. "Being Epileptic: Coming to Terms with Stigma." *Sociology of Health and Illness* 8 (1986).
+- Pager, Devah. "The Mark of a Criminal Record." *American Journal of Sociology* 108 (2003).

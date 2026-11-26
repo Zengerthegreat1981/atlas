@@ -12,8 +12,7 @@ active_start: 1863
 active_end: 1931
 edges: []
 related: []
-gaps:
-- Cross-references to related concepts: not yet covered
+gaps: []
 sociological_tradition: other
 sociological_paradigm: micro-macro
 ---
@@ -49,6 +48,10 @@ Mead's account of play and the game draws on everyday child development: a child
 
 Mead's approach was pragmatist and behaviourist in a broad sense, with a focus on observable social acts and communication, though he treated inner experience as part of social conduct.
 
+## Related Concepts
+
+Mead's ideas connect with several concepts used across sociology and social psychology. The self and identity are the most direct, together with socialization, since play and the game describe how a child acquires the standpoint of others. The generalized other can be compared with Emile Durkheim's collective conscience, as both concern the presence of society within the individual, although Mead stresses ongoing communication. Charles Horton Cooley's looking-glass self is a close neighbour: it emphasises imagined judgements by others, while Mead gives a fuller account of language and role-taking. Role-taking and significant symbols are basic to symbolic interactionism and inform later work on the definition of the situation, a concept associated with W. I. Thomas, on Erving Goffman's presentation of self, and on labelling theory. Mead's pragmatism links the self to action and problem solving, in company with John Dewey. These concepts overlap without being interchangeable.
+
 ## Influence and Criticism
 
 His student Herbert Blumer coined the term "symbolic interactionism" in 1937 and developed Mead's ideas into a research tradition. Mead also influenced Erving Goffman and Chicago sociology. Critics note that *Mind, Self and Society* is a posthumous compilation, so the exact wording is not Mead's own, and that his account gives little attention to power, structure and inequality. Some also ask how the creative "I" can be studied empirically.
@@ -59,3 +62,4 @@ His student Herbert Blumer coined the term "symbolic interactionism" in 1937 and
 - Mead, George Herbert. *The Philosophy of the Present* (1932).
 - Blumer, Herbert. *Symbolic Interactionism: Perspective and Method* (1969).
 - Joas, Hans. *G. H. Mead: A Contemporary Re-examination of His Thought* (German 1980; English 1985).
+- Cooley, Charles Horton. *Human Nature and the Social Order* (1902).

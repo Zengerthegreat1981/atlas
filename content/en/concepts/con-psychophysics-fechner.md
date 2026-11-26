@@ -18,8 +18,7 @@ related:
   - id: "thk-husserl", title: "Edmund Husserl", type: "مفكر"
   - id: "thk-claude-levi-strauss", title: "Claude Lévi-Strauss", type: "مفكر"
   - id: "con-qualia", title: "Qualia: The 'What-It-Is-Likeness' of Experience", type: "مفهوم"
-gaps:
-  - "Clinical applications of psychophysics beyond sensory testing: not yet covered."
+gaps: []
 ---
 
 # Psychophysics
@@ -82,6 +81,16 @@ It raised in a concrete form the question whether subjective experience can be m
 - **Audiometry and visual acuity testing** rely on threshold measurement.
 - **Human factors**: design of displays, alarms and controls takes account of sensory thresholds.
 
+## Clinical Applications beyond Sensory Testing
+
+**Diagnostic judgment.** Signal detection theory moved into medicine as a way of evaluating decisions. The receiver operating characteristic (ROC) curve plots hit rate against false-alarm rate across decision criteria, so that a test's or clinician's ability to discriminate can be assessed apart from how readily a positive verdict is given. John Swets (1988) reviewed such uses in diagnostic systems, and ROC analysis is now routine for screening instruments, including psychological ones.
+
+**Pain.** Rating and matching procedures, such as visual analogue scales and magnitude matching, are used to track pain and the effects of treatment. The numbers remain reports, shaped by expectation, mood and response habits.
+
+**Anxiety.** Generalization gradients, measured by presenting stimuli that differ in graded steps from one previously paired with an aversive event, allow comparison between groups. Lissek and colleagues (2010) reported broader generalization of conditioned fear in people with panic disorder than in healthy controls.
+
+**Bodily perception.** Heartbeat counting and detection tasks, for example Schandry's (1981), have been used to study how perception of bodily signals relates to anxiety and emotion, although the validity of the counting task has been seriously questioned. These are mainly research tools, not stand-alone diagnostic tests.
+
 ## Philosophical Debate
 
 ### 1. Is psychophysics reductive?
@@ -111,3 +120,6 @@ Psychophysics connects a philosophical question (how matter and experience are r
 - David M. Green and John A. Swets, *Signal Detection Theory and Psychophysics*, New York: Wiley, 1966.
 - Edwin G. Boring, *A History of Experimental Psychology*, 2nd ed., New York: Appleton-Century-Crofts, 1950.
 - George A. Gescheider, *Psychophysics: The Fundamentals*, 3rd ed., Mahwah, NJ: Erlbaum, 1997.
+- John A. Swets, "Measuring the Accuracy of Diagnostic Systems," *Science*, 1988.
+- Shmuel Lissek et al., "Overgeneralization of Conditioned Fear as a Pathogenic Marker of Panic Disorder," *American Journal of Psychiatry*, 2010.
+- Rainer Schandry, "Heart Beat Perception and Emotional Experience," *Psychophysiology*, 1981.

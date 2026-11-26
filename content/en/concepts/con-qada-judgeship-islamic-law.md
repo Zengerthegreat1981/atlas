@@ -18,9 +18,7 @@ related:
 - id: "con-siyasa-shariyya-ibn-taymiyya", title: "Siyasa Shar'iyya and the Distinction between Fiqh and Law", type: "مفهوم"
 - id: "thk-shihab-al-din-al-qarafi", title: "Shihab al-Din Ahmad ibn Idris al-Qarafi", type: "مفكر"
 - id: "wrk-majallat-al-ahkam-al-adliyya", title: "Majallat al-Ahkam al-Adliyya (The Ottoman Civil Code)", type: "عمل / كتاب"
-gaps:
-  - "The precise historical details of the emergence of the office of 'chief judge' (the context of the appointment of Abu Yusuf as the first chief judge in the Abbasid era) are presented only briefly: not yet covered in fuller detail."
-  - "Differences in the precise conditions and powers of judgeship among the four Sunni schools: not yet covered."
+gaps: []
 ---
 # Qada' (The Institution of the Islamic Judge)
 
@@ -33,6 +31,14 @@ In al-Qarafi's authoritative theorization (in *al-Ihkam*), the judge's ruling is
 ## Conditions for the Judge and the Development of the Office
 
 Jurists stipulated for the judge conditions such as majority (*bulugh*), sound mind, integrity (*'adala*), and sufficient knowledge of the principles and branches of jurisprudence needed to decide disputes. The office of judgeship developed historically from individual judges working in separate cities into a centralized hierarchical structure, after the creation of the office of **chief judge** (*qadi al-qudat*) in the Abbasid era. The first to hold this office is attributed to Abu Yusuf, a student of Abu Hanifa, who became a reference for the judges below him throughout the state.
+
+## The First Chief Judge
+
+Abu Yusuf had served as a judge in Baghdad under caliphs before Harun al-Rashid (r. 786-809), who raised him to the title of chief judge. His position near the court gave him influence over the appointment of judges in the provinces, which helped the spread of Hanafi jurisprudence, and he composed *Kitab al-Kharaj* on fiscal administration at the caliph's request. The office remained dependent on the ruler, who could appoint and dismiss its holder. Later states adapted it; in 1265 the Mamluk sultan Baybars established a chief judge in Cairo for each of the four Sunni schools.
+
+## Differences among the Schools
+
+The **Malikis**, **Shafi'is** and **Hanbalis** generally require a male judge, whereas the **Hanafis** accept a woman's judgments in matters where her testimony is admitted, excluding fixed penalties and retaliation. Classical majority doctrine makes independent legal reasoning (*ijtihad*) a qualification, while Hanafis commonly treat it as preferable, allowing a judge to rely on muftis; in later practice the other schools also accepted judges who followed established doctrine. Hanafis may regard the appointment of a judge lacking integrity as effective though blameworthy; others usually deny its validity. Powers differ too. Hanafis restrict judgment against an absent party more than the others. Schools disagree on ruling from personal knowledge, with Malikis and Hanbalis largely rejecting it. Abu Hanifa also held that certain judgments on contracts and marital status take effect even inwardly despite false testimony, a view most jurists, including his two chief disciples, rejected.
 
 ## Binding the Judiciary to an Official School
 
@@ -47,3 +53,5 @@ With modern codification projects (such as the *Majallat al-Ahkam al-Adliyya*), 
 - al-Qarafi, Shihab al-Din. *al-Ihkam fi Tamyiz al-Fatawa 'an al-Ahkam wa Tasarrufat al-Qadi wa al-Imam*.
 - Hallaq, Wael B. *Authority, Continuity and Change in Islamic Law*. Cambridge University Press, 2001.
 - Coulson, Noel J. *A History of Islamic Law*. Edinburgh University Press, 1964.
+- Tyan, Emile. *Histoire de l'organisation judiciaire en pays d'Islam*. 2nd edition. Leiden: Brill, 1960.
+- al-Mawardi. *al-Ahkam al-Sultaniyya*.

@@ -12,8 +12,7 @@ active_start: 1900
 active_end: مستمر
 edges: []
 related: []
-gaps:
-- Cross-school comparisons: not yet covered
+gaps: []
 sociological_tradition: other
 sociological_paradigm: micro-macro
 ---
@@ -43,6 +42,10 @@ A third debate is ethical. Covert observation — watching without consent — h
 
 Observation remains indispensable wherever self-reports fail: when people cannot articulate their tacit knowledge, when their accounts contradict their actions, or when the phenomenon is a process rather than an attitude. It anchors studies of work, deviance, medicine, education, and digital life. Online, observation has adapted to new settings: researchers lurk in forums, follow streams, and trace interaction across platforms, reviving old questions about consent and presence in a medium where watching can be invisible. Its enduring lesson is methodological humility. Observation does not deliver unmediated access to reality; it delivers disciplined, situated knowledge — and its value depends on how honestly the observer records both what was seen and the position from which it was seen.
 
+## Observation across Schools
+
+Schools of social research observe for different ends. Work in a positivist or experimental spirit favours structured observation with fixed categories; Robert Bales's *Interaction Process Analysis* (1950) coded each act in small-group discussion so that groups could be compared. Symbolic interactionists, following Herbert Blumer's *Symbolic Interactionism* (1969), argued for close acquaintance with a social world so that concepts remain answerable to how participants interpret it. Ethnomethodologists, after Harold Garfinkel's *Studies in Ethnomethodology* (1967), observe the practical methods by which people make a scene orderly and recognisable, and later work in this line relies heavily on recordings. Grounded theory, set out by Barney Glaser and Anselm Strauss (1967), moves between field data and coding to build theory. Michael Burawoy's extended case method (1998) instead uses participant observation to revise existing theory and to connect a local setting to wider forces. These positions differ over whether prior categories help or hinder, and whether the observer's involvement is a source of bias or of knowledge.
+
 ## Sources
 
 - Bronisław Malinowski, *Argonauts of the Western Pacific* (1922)
@@ -50,3 +53,8 @@ Observation remains indispensable wherever self-reports fail: when people cannot
 - Raymond L. Gold, "Roles in Sociological Field Observations," *Social Forces* (1958)
 - Clifford Geertz, *The Interpretation of Cultures* (1973)
 - Robert M. Emerson, Rachel I. Fretz, and Linda L. Shaw, *Writing Ethnographic Fieldnotes* (1995)
+- Robert F. Bales, *Interaction Process Analysis* (1950)
+- Herbert Blumer, *Symbolic Interactionism: Perspective and Method* (1969)
+- Harold Garfinkel, *Studies in Ethnomethodology* (1967)
+- Barney G. Glaser and Anselm L. Strauss, *The Discovery of Grounded Theory* (1967)
+- Michael Burawoy, "The Extended Case Method," *Sociological Theory* (1998)

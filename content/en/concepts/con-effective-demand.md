@@ -17,8 +17,7 @@ related:
 - id: "thk-john-maynard-keynes", title: "John Maynard Keynes", type: "مفكر"
 - id: "con-says-law-of-markets", title: "Say's Law of Markets", type: "مفهوم"
 - id: "con-keynesian-multiplier", title: "Keynesian Multiplier", type: "مفهوم"
-gaps:
-  - "Technical relationship between the point of effective demand and partial-equilibrium analysis of a single market: not yet covered"
+gaps: []
 ---
 # Effective Demand
 
@@ -40,6 +39,10 @@ Effective demand is closely tied to the concept of the **Keynesian multiplier**:
 
 The concept of effective demand has remained the core of the interpretive dispute among successive schools of macroeconomics. The neoclassical synthesis adopted a simplified version of it within the IS-LM model (due to John Hicks, 1937), while the post-Keynesian school held that this simplification neglected the central role of fundamental uncertainty in shaping spending expectations themselves. Later, the New Classical school rejected it on the grounds that markets clear themselves with sufficient flexibility if individuals' expectations are rational.
 
+## The Point of Effective Demand and Single-Market Analysis
+
+Keynes built his aggregate functions with tools adapted from Alfred Marshall. The aggregate supply function states, for each volume of employment, the expected proceeds that would just make it worthwhile for firms to offer that employment, a notion descended from Marshall's supply price and resting on the cost and profit-maximizing decisions of individual firms. The resemblance to the supply and demand cross of a single market is nonetheless limited. In Marshallian partial equilibrium, the demand curve for one good is drawn with incomes and other prices held constant, and conditions in that market are assumed to have a negligible effect on them, so supply and demand can be treated as independent. For the economy as a whole this assumption fails: a change in employment changes incomes, which changes spending, and a general change in money wages alters both costs and demand. The axes also differ, since Keynes related total proceeds to employment instead of price to physical quantity. The point of effective demand therefore cannot be obtained by simply adding up market demand and supply curves, and later writers such as Sidney Weintraub and Paul Davidson devoted much work to its microeconomic foundations.
+
 ## Sources
 
 - Smith, Adam. *An Inquiry into the Nature and Causes of the Wealth of Nations*. 1776.
@@ -47,3 +50,6 @@ The concept of effective demand has remained the core of the interpretive disput
 - Keynes, John Maynard. *The General Theory of Employment, Interest and Money*. Macmillan, 1936.
 - Hicks, J. R. "Mr. Keynes and the 'Classics': A Suggested Interpretation." *Econometrica*, vol. 5, no. 2, 1937, pp. 147–159.
 - Blaug, Mark. *Economic Theory in Retrospect*. 5th ed., Cambridge University Press, 1997.
+- Marshall, Alfred. *Principles of Economics*. Macmillan, 1890.
+- Davidson, Paul, and Eugene Smolensky. *Aggregate Supply and Demand Analysis*. Harper & Row, 1964.
+- Weintraub, Sidney. *An Approach to the Theory of Income Distribution*. Chilton, 1958.

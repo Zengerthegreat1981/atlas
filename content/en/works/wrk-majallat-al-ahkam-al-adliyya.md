@@ -19,8 +19,7 @@ related:
 - id: "wrk-al-ashbah-wa-al-nazair-ibn-nujaym", title: "Al-Ashbah wa al-Naza'ir", type: "عمل / كتاب"
 - id: "con-ottoman-codification-tanzimat-law", title: "Ottoman Codification in the Tanzimat Era", type: "مفهوم"
 - id: "con-qawaid-fiqhiyya-legal-maxims", title: "Qawa'id Fiqhiyya (Legal Maxims)", type: "مفهوم"
-gaps:
-  - "Names of the drafting committee members other than Ahmed Cevdet Pasha: not yet covered"
+gaps: []
 ---
 
 # Majallat al-Ahkam al-Adliyya (The Mecelle)
@@ -55,9 +54,14 @@ Historians of codification observe that transforming a flexible, cumulative Hana
 
 Ahmed Cevdet Pasha (1822–1895) chaired the drafting committee. He was a jurist and prominent Ottoman historian who held high judicial and ministerial posts. He combined a deep traditional juristic formation with broad familiarity with European legal systems, which qualified him to lead a project seeking to reconcile Hanafi juristic authenticity with modern legal drafting. In his time he opposed calls within the Ottoman state to adopt the French Civil Code in full instead of codifying Hanafi jurisprudence locally. His project kept an Islamic reference for civil legislation at a time of growing pressure to adopt European codes.
 
+## The Drafting Committee
+
+Cevdet Pasha worked with a small commission of jurists and officials, whose membership changed over the years of drafting. Among those associated with it were Seyyid Khalil Efendi, who served as inspector of the imperial pious foundations, Seyfeddin Ismail Efendi of the Council of State, Ahmed Hilmi Efendi of the high judicial council, Mehmed Emin, a member of the Council of State (identified in some accounts as the Syrian scholar al-Jundi and in others as Emin Efendi of Baghdad), and Ala al-Din Ibn Abidin, son of the celebrated Damascene Hanafi jurist Muhammad Amin Ibn Abidin, whose gloss on *al-Durr al-Mukhtar* was a major authority for late Hanafi opinion. Later books also carry the participation of further members, among them Omer Hilmi Efendi. Not every member took part in every book: each of the sixteen books was submitted with the signatures of those who had prepared it, so the lists differ from one book to another. Spellings of the names also vary between Ottoman, Arabic and modern Turkish forms.
+
 ## Sources
 
 - Ali Haydar Efendi. *Durar al-Hukkam Sharh Majallat al-Ahkam*. Translated by Fahmi al-Husayni. Dar al-Kutub al-Ilmiyya, Beirut (translated from Ottoman Turkish).
 - Hallaq, Wael B. *Authority, Continuity and Change in Islamic Law*. Cambridge University Press, 2001.
 - Tyser, C.R., D.G. Demetriades and Ismail Haqqi Effendi (trans.). *The Mejelle*. Nicosia, 1901.
 - Coulson, Noel J. *A History of Islamic Law*. Edinburgh University Press, 1964.
+- Kaşıkçı, Osman. *İslam ve Osmanlı Hukukunda Mecelle*. Istanbul, 1997.

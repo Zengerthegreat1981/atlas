@@ -16,8 +16,7 @@ related:
   - id: "con-symbol", title: "Symbol", type: "مفهوم"
   - id: "con-sacred", title: "Sacred", type: "مفهوم"
   - id: "con-communitas", title: "Communitas", type: "مفهوم"
-gaps:
-  - "Digital rituals: not yet covered"
+gaps: []
 ---
 
 # Ritual: Structured Action and Social Meaning
@@ -93,6 +92,12 @@ Anthropological study of ritual has employed multiple complementary methodologie
 
 **Archival and Historical Work**: Tracing how rituals change over time, how colonial policies transformed ritual practice, how rituals are remembered and reinterpreted. This historicizes ritual, showing that supposedly "traditional" rituals are often modern adaptations.
 
+## Digital Rituals
+
+Ritual in mediated settings has been studied for some time. Daniel Dayan and Elihu Katz, in *Media Events* (1992), analysed live broadcasts of coronations, state funerals, and similar occasions as ceremonies that gather dispersed audiences, and Nick Couldry's *Media Rituals* (2003) questioned the assumption that such moments express a social centre that already exists. With the internet, researchers examined online prayer, virtual pilgrimage, worship in virtual worlds, and memorial pages where mourners address the dead. Christopher Helland distinguished "religion online", which mainly supplies information, from "online religion", which invites participation, while noting that the two often mix. Heidi Campbell's edited volume *Digital Religion* (2013) surveys how religious communities adapt practice to networked media.
+
+These cases test the features discussed above. Online rites may have prescribed forms, repetition, and collective witness, yet participants need not share a place or moment, and platforms shape what can be done. Whether bodily presence is necessary for liminality or shared emotion is an open question, best examined case by case, including how online and offline practice connect.
+
 ## Current Challenges & Future Questions
 
 Ritual is not confined to religion: Sally Falk Moore and Barbara Myerhoff, in *Secular Ritual* (1977), argued that state ceremonies, legal proceedings, and other formal occasions share the formality and repetition of religious rites. Contemporary ritual scholarship grapples with several contested issues: How do we analyze rituals when meaning is multivocal—when different participants hold incompatible interpretations? How do secular rituals (state ceremonies, scientific conferences, corporate events) compare to religious rituals? What happens to ritual in digitized or mediated contexts? How do we study rituals across cultures without universalizing categories? How do postcolonial communities reclaim and reinvent rituals suppressed during colonialism, and what is the relationship between "authenticity" and such reinventions?
@@ -112,3 +117,7 @@ Ritual is not confined to religion: Sally Falk Moore and Barbara Myerhoff, in *S
 - Bell, Catherine. *Ritual Theory, Ritual Practice*. Oxford University Press, 1992.
 - Moore, Sally Falk, and Barbara Myerhoff, eds. *Secular Ritual*. Van Gorcum, 1977.
 - Turner, Victor W. *Schism and Continuity in an African Society*. Manchester University Press, 1957.
+- Campbell, Heidi A., ed. *Digital Religion: Understanding Religious Practice in New Media Worlds*. Routledge, 2013.
+- Couldry, Nick. *Media Rituals: A Critical Approach*. Routledge, 2003.
+- Dayan, Daniel, and Elihu Katz. *Media Events: The Live Broadcasting of History*. Harvard University Press, 1992.
+- Helland, Christopher. "Online-Religion/Religion-Online and Virtual Communitas." In *Religion on the Internet*, edited by Jeffrey K. Hadden and Douglas E. Cowan. JAI Press, 2000.

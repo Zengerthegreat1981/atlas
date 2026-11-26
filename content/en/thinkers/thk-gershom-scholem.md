@@ -18,8 +18,7 @@ active_end: 1982
 edges:
 - rel: "belongs_to", target: "Academic Critical Study of Kabbalah (Gershom Scholem)", target_type: "مدرسة"
 related:
-gaps:
-  - "His intellectual relationship with Walter Benjamin and his position on the binational Brit Shalom circle: not yet covered"
+gaps: []
 ---
 
 # Gershom Scholem
@@ -50,6 +49,12 @@ Scholem lived in Jerusalem, first in Mandate Palestine and then in Israel, for m
 
 Scholem is a model of a scholar who helped establish an academic field through decades of philological work on manuscripts that had not previously been systematically catalogued and dated. His influence extended beyond Jewish studies into the philosophy of history and cultural criticism generally, through his long intellectual friendship with Walter Benjamin. 
 
+## Walter Benjamin and Brit Shalom
+
+Scholem met **Walter Benjamin** in 1915, and their friendship lasted until Benjamin's death in 1940, carried largely by correspondence after Scholem left Germany. They shared interests in language, tradition, revelation and the writing of Kafka. Scholem hoped that Benjamin would learn Hebrew and come to Jerusalem; Benjamin entertained the plan but did not carry it out. Scholem was sceptical of his friend's turn towards Marxism, which he regarded as at odds with the theological and linguistic core of Benjamin's thought. After the war he helped establish Benjamin's reputation, co-editing his letters with Theodor Adorno and writing *Walter Benjamin: The Story of a Friendship* (German 1975).
+
+In Palestine, Scholem belonged to the circle of **Brit Shalom**, founded in 1925, which sought understanding between Jews and Arabs and favoured a binational political framework rather than the domination of either people by the other. Associates included Hugo Bergmann and Arthur Ruppin. Scholem opposed militant nationalism and warned against fusing messianic religious language with political programmes. The group remained small, met hostility within the Zionist movement, particularly after the violence of 1929, and had faded by the early 1930s. Scholem remained a Zionist.
+
 ## Criticism
 
 Scholem's method was later criticised by Moshe Idel, a scholar of a later generation, who argued that Scholem exaggerated the portrayal of Lurianic Kabbalah as a unified historical response to the shock of the expulsion of the Jews from Spain in 1492. Idel proposed instead a more pluralistic reading of the contemporary and competing currents of Kabbalah. Despite this criticism, the rigorous philological and historical tools that Scholem established (editing manuscripts, dating them and attributing them accurately to their authors) remain a methodological foundation for much later work, including that of his critics.
@@ -63,3 +68,4 @@ Scholem also gathered lectures and scattered essays in *On the Kabbalah and Its 
 - Scholem, Gershom (1941). *Major Trends in Jewish Mysticism*. Jewish Institute of Religion / Schocken Books.
 - Scholem, Gershom (1973). *Sabbatai Ṣevi: The Mystical Messiah, 1626–1676*. Princeton University Press.
 - Biale, David (1979). *Gershom Scholem: Kabbalah and Counter-History*. Harvard University Press.
+- Scholem, Gershom (1981). *Walter Benjamin: The Story of a Friendship*. Trans. Harry Zohn. Jewish Publication Society of America.

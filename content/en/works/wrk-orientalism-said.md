@@ -12,8 +12,7 @@ active_start: 1978
 active_end: مستمر
 edges: []
 related: []
-gaps:
-- Detailed empirical case studies: not yet covered
+gaps: []
 ---
 # Orientalism
 
@@ -30,6 +29,10 @@ Said gives "Orientalism" three interrelated meanings: the academic field devoted
 ## Structure and Method
 
 The book is organised into an introduction and three chapters. The introduction sets out the argument and its debt to Foucault. The first chapter, "The Scope of Orientalism," sets out the range of the discourse, from earlier European images of Islam to the assumptions of British imperial administrators and Napoleon's expedition to Egypt. The second, "Orientalist Structures and Restructures," examines how nineteenth-century philology, literature, and travel writing elaborated the discourse, including the work of Silvestre de Sacy, Ernest Renan, and Richard Burton. The third, "Orientalism Now," follows the discourse into the twentieth century, from British and French agents such as T. E. Lawrence to American area studies and foreign-policy expertise after the Second World War. Said's method is textual and historical rather than quantitative: he reads a vast range of sources against one another to expose recurring patterns, assumptions, and silences, treating individual authors as participants in a shared discursive system rather than as isolated minds.
+
+## Cases Examined in the Book
+
+Said builds the argument through particular episodes. He opens the first chapter with Arthur Balfour's speech to the House of Commons in 1910 defending British rule in Egypt, in which knowledge of Egyptian civilisation is presented as grounds for governing it. He reads it beside the writing of Lord Cromer, who had administered Egypt and who contrasted European logic and accuracy with a supposed Oriental lack of both. The French expedition to Egypt and the multi-volume *Description de l'Égypte* that followed show scholarship organised alongside military occupation. Edward Lane's *Manners and Customs of the Modern Egyptians* (1836) illustrates how an observer who lived closely among his subjects could convert that intimacy into detached authority that later writers cited. In Flaubert's encounter with the Egyptian dancer and courtesan Kuchuk Hanem, Said finds a pattern in which the Western man speaks for and represents an Eastern woman who does not give her own account. The final chapter turns to scholars including Louis Massignon and H. A. R. Gibb, and to the American social-science expert on the Middle East.
 
 ## Key Concepts
 
@@ -56,3 +59,5 @@ More than four decades after publication, *Orientalism* remains a live resource.
 - Ahmad, Aijaz. *In Theory: Classes, Nations, Literatures*. London: Verso, 1992.
 - Irwin, Robert. *For Lust of Knowing: The Orientalists and Their Enemies*. London: Allen Lane, 2006.
 - MacKenzie, John M. *Orientalism: History, Theory and the Arts*. Manchester: Manchester University Press, 1995.
+- Lane, Edward William. *An Account of the Manners and Customs of the Modern Egyptians*. London, 1836.
+- Cromer, Earl of. *Modern Egypt*. London, 1908.

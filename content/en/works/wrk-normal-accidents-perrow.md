@@ -19,8 +19,7 @@ active_end: "مستمر"
 edges:
 - rel: "written_by", target: "Charles Perrow", target_type: "مفكر"
 related:
-gaps:
-  - "Engineering detail of the Three Mile Island accident: not yet covered"
+gaps: []
 ---
 
 # Normal Accidents: Living with High-Risk Technologies
@@ -38,6 +37,10 @@ Perrow argues that technological-organizational systems that combine two structu
 ## The Structure of the Book and the Risk Matrix
 
 The book begins with a detailed analysis of the Three Mile Island accident as a founding case study, showing how a failure involving a relief valve combined with other small failures and ambiguous instrument readings, so that the operators did not form a correct picture of the state of the reactor for hours. It then extends the theoretical framework (complex interaction × tight coupling) into a two-dimensional classificatory matrix that places different technological systems according to their degree of exposure to this pattern of inevitable accidents, comparing systems that are complex but loosely coupled, such as universities (less exposed because the slowness of the linkages allows errors to be corrected), with systems that are both complex and tightly coupled, such as nuclear power plants (the most exposed to normal accidents because of the speed with which error spreads and the system's lack of clear visibility).
+
+## Engineering Detail of the Three Mile Island Accident
+
+The accident began early on 28 March 1979 in Unit 2, a pressurized water reactor designed by Babcock and Wilcox. In such a plant, water in the primary circuit carries heat from the core to steam generators, where it boils water in a separate secondary circuit. The main feedwater supply to the steam generators stopped, apparently in connection with maintenance on the system that purified it, and the turbine and then the reactor shut down automatically. Auxiliary pumps started, but valves on their lines had been left closed. Pressure in the primary circuit rose and a pilot-operated relief valve on the pressurizer opened as designed, then failed to close. A control-room light showed only that the signal to close had been sent. Coolant escaped for more than two hours. Because the pressurizer level indicator suggested that the system held too much water, operators sharply reduced emergency injection, and later stopped the main coolant pumps, which were vibrating. The core became partly uncovered and a large part of it melted. Reaction of fuel cladding with steam produced hydrogen. The containment building largely held, and off-site radiation releases were small.
 
 ## Impact and Critique
 
@@ -57,3 +60,4 @@ Perrow argued that his theory carries an additional pessimistic epistemic implic
 - Perrow, Charles. *The Next Catastrophe: Reducing Our Vulnerabilities to Natural, Industrial, and Terrorist Disasters*. Princeton University Press, 2007.
 - Sagan, Scott D. *The Limits of Safety: Organizations, Accidents, and Nuclear Weapons*. Princeton University Press, 1993.
 - La Porte, Todd R., and Paula M. Consolini. "Working in Practice but Not in Theory: Theoretical Challenges of 'High-Reliability Organizations'." *Journal of Public Administration Research and Theory*, vol. 1, no. 1, 1991, pp. 19-47.
+- President's Commission on the Accident at Three Mile Island. *The Need for Change: The Legacy of TMI* (the Kemeny report), 1979.

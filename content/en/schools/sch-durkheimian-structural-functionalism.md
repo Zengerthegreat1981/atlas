@@ -14,8 +14,7 @@ active_start: 1893
 active_end: 1917
 edges: []
 related: []
-gaps:
-- Contemporary empirical examples: not yet covered
+gaps: []
 ---
 # Durkheimian Structural Functionalism
 
@@ -37,6 +36,10 @@ Durkheim's method is set out in *The Rules of Sociological Method* (1895): treat
 
 Durkheim's influence runs through the whole of twentieth-century sociology and anthropology. In France his school shaped Mauss's anthropology and the sociology of the *Année* group; in Britain, Radcliffe-Brown and Malinowski adapted his functionalism to the study of small-scale societies, creating the British functionalism that is a separate, later development from Durkheim's own school. In the United States, Talcott Parsons built structural functionalism on Durkheim's theory of integration and norms, and Robert K. Merton refined it with the distinctions between manifest and latent functions and between functional, dysfunctional, and non-functional consequences. Durkheim's study of suicide is an early landmark of quantitative sociology and remains a model of sociological explanation.
 
+## Contemporary Empirical Examples
+
+Durkheim's propositions continue to be tested and adapted. Bernice Pescosolido and Sharon Georgianna (1989) re-examined religion and suicide in the United States and argued that what protects people is the density of social networks within a religious group, so that the effect varies with denomination and setting rather than following a simple contrast between Catholics and Protestants. Eric Klinenberg's *Heat Wave* (2002), a study of deaths in Chicago in 1995, showed how isolation and neighbourhood conditions shaped who died, extending the concern with social integration to a disaster. Anne Case and Angus Deaton, in *Deaths of Despair and the Future of Capitalism* (2020), linked rising mortality from suicide, drugs, and alcohol among Americans without a university degree to the erosion of work, family, and community, drawing in part on Durkheim. Research on ritual offers another line: Dimitris Xygalatas and colleagues (2013) studied a Hindu festival in Mauritius and found that people who took part in or witnessed a painful ritual gave more to a charitable cause than those observed after a milder one. These studies refine particular claims; they do not require acceptance of the whole theory, and several give more weight to inequality and institutions than functional explanation would.
+
 ## Critical Perspectives and Limitations
 
 Durkheimian functionalism has been criticised from several directions. Its emphasis on order and integration leaves it poorly equipped to explain conflict, power, and change: if every institution performs a function, the theory seems to justify whatever exists and to treat domination as consensus. Marxists charge that Durkheim's collective conscience masks class interests, while feminists note that his account of solidarity ignored the gendered division of labour and the subordination of women. Methodologically, critics argue that Durkheim reifies society, treating an abstraction as if it were a thing with needs of its own, and that functional explanations are circular, inferring a function from the very existence of the institution. His study of suicide has been challenged for its reliance on official statistics, which reflect coroners' judgements rather than the acts themselves, and for forcing diverse cases into four types.
@@ -55,3 +58,7 @@ Durkheimian functionalism is defined partly by its contrasts with the other clas
 - Lukes, Steven. *Émile Durkheim: His Life and Work*. London: Allen Lane, 1973.
 - Parsons, Talcott. *The Structure of Social Action*. New York: McGraw-Hill, 1937.
 - Merton, Robert K. *Social Theory and Social Structure*. New York: Free Press, 1949.
+- Pescosolido, Bernice A., and Sharon Georgianna. "Durkheim, Suicide, and Religion: Toward a Network Theory of Suicide." *American Sociological Review*, 1989.
+- Klinenberg, Eric. *Heat Wave: A Social Autopsy of Disaster in Chicago*. Chicago: University of Chicago Press, 2002.
+- Case, Anne, and Angus Deaton. *Deaths of Despair and the Future of Capitalism*. Princeton: Princeton University Press, 2020.
+- Xygalatas, Dimitris, et al. "Extreme Rituals Promote Prosociality." *Psychological Science*, 2013.

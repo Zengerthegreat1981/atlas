@@ -14,8 +14,7 @@ edges:
 related:
 - id: "thk-evans-pritchard", title: "E. E. Evans-Pritchard", type: "مفكر"
 - id: "con-descent-theory", title: "Descent Theory", type: "مفهوم"
-gaps:
-  - "Patrilineal descent and inheritance practice in contemporary Arab societies, including positive law and Islamic jurisprudence: not yet covered."
+gaps: []
 ---
 
 # Patrilineal Descent
@@ -38,6 +37,12 @@ Patrilineal descent is closely linked to the preference for **parallel-cousin ma
 
 Critics such as Rodney Needham and Edmund Leach questioned how far the "pure" theoretical models of descent match actual practice. People on the ground use pragmatic flexibility in explaining their descent to serve immediate interests, such as acquiring land, avoiding an obligation, or supporting an ally. As a result, the "declared descent" becomes a tool of social negotiation rather than a literal reflection of a documented biological genealogy. David Schneider also argued that the assumption of a biological link underlying the concept of patrilineal descent may itself be a Western projection that not all cultures share.
 
+## Law and Inheritance in Contemporary Arab Societies
+
+In Arab states, descent and succession are governed mainly by personal status laws that draw on Islamic jurisprudence, with differences between states, legal schools, and religious communities. Legal filiation (*nasab*) follows the father, classically through a valid marriage, and most systems reject adoption that transfers lineage while providing forms of guardianship such as *kafala*; Tunisia permits adoption. Succession is not purely patrilineal. Daughters, wives, and mothers hold fixed Quranic shares, but a son receives twice a daughter's share, and male agnates (*asaba*) may take the residue, so that where there is no son, paternal relatives can inherit alongside daughters. Schools differ here: Twelver Shi'i law does not give collateral agnates this claim, and Tunisian reform allowed daughters to exclude them.
+
+Practice can depart from law. Annelies Moors's study of Palestinian women (1995) showed that some gave up claims to inherited land in favour of brothers, partly to preserve a claim on their support, while others pursued their shares. Egypt in 2017 introduced penalties for deliberately withholding an inheritance. Nationality law has also been contested: several states, including Egypt and Morocco, have extended mothers' ability to pass citizenship to children, while others retain paternal preference.
+
 ## Sources
 
 - Evans-Pritchard, E. E. *The Nuer: A Description of the Modes of Livelihood and Political Institutions of a Nilotic People*. Oxford: Clarendon Press, 1940.
@@ -47,3 +52,5 @@ Critics such as Rodney Needham and Edmund Leach questioned how far the "pure" th
 - Leach, Edmund R. *Pul Eliya, a Village in Ceylon*. Cambridge University Press, 1961.
 - Gellner, Ernest. *Saints of the Atlas*. Weidenfeld and Nicolson, 1969.
 - Schneider, David M. *A Critique of the Study of Kinship*. University of Michigan Press, 1984.
+- Coulson, N. J. *Succession in the Muslim Family*. Cambridge University Press, 1971.
+- Moors, Annelies. *Women, Property and Islam: Palestinian Experiences, 1920–1990*. Cambridge University Press, 1995.

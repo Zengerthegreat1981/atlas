@@ -16,9 +16,7 @@ related:
   - id: "thk-talal-asad", title: "Talal Asad", type: "مفكر"
   - id: "thk-james-clifford", title: "James Clifford", type: "مفكر"
 gaps:
-  - "Application to non-Western ethical frameworks: not yet covered"
   - "Engagement with indigenous ethical systems: not yet covered"
-  - "Contemporary ethics in digital anthropology: not yet covered"
 ---
 
 # Paul Rabinow: Reflexive Anthropology, Ethics, and the Study of Human Practices
@@ -87,6 +85,14 @@ Rabinow's work on ethics and responsibility arose partly from engagement with po
 
 His work on science and technology examines how Western scientific knowledge systems circulate globally and how people engage with these systems—questions relevant to postcolonial analysis of knowledge and power. His emphasis on ethical anthropology that supports human flourishing offers a framework for research that serves rather than exploits.
 
+## Ethics beyond Western Settings
+
+The Foucauldian questions that Rabinow helped make available in English, including through his editing of *Ethics: Subjectivity and Truth* (1997), have been used in studies outside secular Western institutions. They ask through which practices people try to become a particular kind of person. Saba Mahmood's *Politics of Piety* (2005), on a women's mosque movement in Cairo, examined how prayer, modesty, and other disciplines cultivate virtue, drawing on Foucault and Aristotelian traditions while questioning liberal assumptions about agency. Charles Hirschkind's *The Ethical Soundscape* (2006) studied how listening to recorded sermons in Egypt shapes ethical sensibilities. These are developments within a broader anthropology of ethics, not applications directed by Rabinow, and they show that local categories may revise the analytical vocabulary brought to them.
+
+## Digital Research Ethics
+
+Digital fieldwork raises problems of consent, privacy, and relationship that general rules do not settle. Online material may be publicly visible although its authors do not expect it to be studied, and quoted words can often be traced by searching. Tom Boellstorff, Bonnie Nardi, Celia Pearce, and T. L. Taylor's *Ethnography and Virtual Worlds* (2012) discusses informed consent, anonymity, and care for participants in online settings, and the Association of Internet Researchers' guidelines favour judgment made case by case. Rabinow's attention to ethics as something worked out within inquiry is compatible with this approach, though these guidelines are not derived from his work.
+
 ## Contemporary Relevance and Legacy
 
 Rabinow's reflexive and ethical approach has become foundational to contemporary anthropology. Few anthropologists would deny that fieldwork relationships are ethically complex and that researchers bear responsibilities to research communities. His work on science, technology, and the contemporary has opened new anthropological domains, particularly in science and technology studies (STS) and the anthropology of biomedicine.
@@ -112,3 +118,8 @@ Questions remain about how reflexive and ethical anthropology can operate at sca
 - Rabinow, Paul. *Making PCR: A Story of Biotechnology*. University of Chicago Press, 1996.
 - Rabinow, Paul. *Marking Time: On the Anthropology of the Contemporary*. Princeton University Press, 2008.
 - Dreyfus, Hubert L., and Paul Rabinow. *Michel Foucault: Beyond Structuralism and Hermeneutics*. University of Chicago Press, 1982.
+- Boellstorff, Tom, Bonnie Nardi, Celia Pearce, and T. L. Taylor. *Ethnography and Virtual Worlds: A Handbook of Method*. Princeton University Press, 2012.
+- Foucault, Michel. *Ethics: Subjectivity and Truth*. Edited by Paul Rabinow. New Press, 1997.
+- Hirschkind, Charles. *The Ethical Soundscape: Cassette Sermons and Islamic Counterpublics*. Columbia University Press, 2006.
+- Mahmood, Saba. *Politics of Piety: The Islamic Revival and the Feminist Subject*. Princeton University Press, 2005.
+- Markham, Annette, and Elizabeth Buchanan. *Ethical Decision-Making and Internet Research: Recommendations from the AoIR Ethics Working Committee*. Association of Internet Researchers, 2012.

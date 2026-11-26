@@ -18,8 +18,7 @@ related:
 - id: "con-mens-rea-criminal-intent", title: "Mens Rea (Criminal Intent)", type: "مفهوم"
 - id: "con-insanity-defense-mnaghten", title: "Insanity Defense (M'Naghten Rule)", type: "مفهوم"
 - id: "thk-hla-hart", title: "H.L.A. Hart", type: "مفكر"
-gaps:
-  - "Theories of punishment (deterrence, desert, rehabilitation) in detail: not yet covered."
+gaps: []
 ---
 
 # Philosophy of Criminal Law and Responsibility
@@ -48,6 +47,14 @@ The modern English framework for the insanity defense crystallized in the **M'Na
 
 **H.L.A. Hart**, in *Punishment and Responsibility* (1968), offered an influential analytical framework that separates **justifying punishment in general** (why may the state punish at all? His answer is broadly utilitarian: deterrence and the protection of society) from **distributing punishment among individuals** (who deserves to be punished, and to what extent? His answer here rests on fairness to the individual: no punishment without actual responsibility, a constraint he did not ground in retributive desert). This separation allowed Hart to avoid the apparent contradiction between a utilitarian purpose for punishment and a moral requirement not to punish those who lack the rational capacity to choose. He made the requirement of mental capacity a moral barrier that constrains utilitarian policy rather than abolishing it. Hart's arguments prompted a broad debate over whether the "capacity to have done otherwise" (Could Have Done Otherwise) is a necessary condition of criminal responsibility. That debate intersects directly with the deeper philosophical dispute over determinism and free will.
 
+## Theories of Punishment
+
+**Deterrence** theory, developed by Beccaria and Bentham, justifies punishment by the future offences it prevents, either by discouraging the offender or by warning others. It favours penalties no more severe than necessary and gives weight to certainty of enforcement. The standard objection is that pure forward-looking reasoning could in principle justify excessive or even mistaken punishment if the social effects were beneficial.
+
+**Retributive** or desert theory, associated with Kant and Hegel and revived by writers such as Michael Moore, holds that wrongdoing deserves punishment in proportion to its seriousness. It protects the innocent and limits excess, but must explain why deserved suffering is a good the state should pursue. Andrew von Hirsch's account of just deserts stresses censure and proportionality; Joel Feinberg emphasized punishment's expressive function, and R. A. Duff presents it as communication aimed at repentance and reconciliation.
+
+**Rehabilitation** seeks to reduce offending by changing the offender through treatment, education or supervision. It shaped indeterminate sentencing in the twentieth century, then lost ground in the 1970s amid doubts about effectiveness, signalled by Robert Martinson's 1974 review, and objections to coercive, unequal discretion. Later research revived interest in targeted programmes. Mixed theories, including Hart's, assign different principles to different questions.
+
 ## Civil Involuntary Commitment: A Civil Extension of Responsibility
 
 The **standard for civil involuntary psychiatric commitment** extends this branch beyond the purely criminal framework. It asks: when may the state confine a person against their will in a psychiatric facility, not to punish them for a crime, but because of their potential danger to themselves or others? This question raises a tension similar to that between protecting society and respecting individual liberty. It differs from the insanity defense in being a **preventive, future-oriented** procedure rather than a judgment on a past act. This makes its evidentiary standards (such as predicted dangerousness rather than a committed act) more legally problematic.
@@ -57,3 +64,6 @@ The **standard for civil involuntary psychiatric commitment** extends this branc
 - Hart, H. L. A. *Punishment and Responsibility: Essays in the Philosophy of Law*. 2nd edition, Oxford University Press, 2008 (1st edition 1968).
 - Perlin, Michael L. *The Jurisprudence of the Insanity Defense*. Carolina Academic Press, 1994.
 - American Law Institute. *Model Penal Code*. Official Draft, 1962 (§ 4.01, "Substantial Capacity" standard).
+- Feinberg, Joel. 'The Expressive Function of Punishment.' *The Monist*, 1965.
+- von Hirsch, Andrew. *Doing Justice: The Choice of Punishments*. Hill and Wang, 1976.
+- Duff, R. A. *Punishment, Communication, and Community*. Oxford University Press, 2001.

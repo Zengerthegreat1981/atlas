@@ -12,8 +12,7 @@ edges:
   - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
 related:
   []
-gaps:
-  - "Digital kinship: not yet covered"
+gaps: []
 ---
 
 # Kinship
@@ -36,6 +35,12 @@ A central debate concerns the relationship between kinship and biology. Is kinsh
 
 Kinship remains central to contemporary life, in new forms. Assisted reproduction — in vitro fertilisation, egg and sperm donation, surrogacy — has created children with multiple genetic, gestational, and social parents, and has forced courts, clinics, and families to decide who counts as a parent. Migration has created transnational families, held together by remittances, phone calls, and video links, and online communication now shapes how such ties are maintained. Same-sex marriage and adoption have challenged the assumption that kinship requires a mother and a father. The enduring insight is that kinship is not a given but an achievement: relatedness is made, maintained, and sometimes unmade, through the daily work of living together, caring for one another, and remembering who belongs to whom.
 
+## Digital Kinship
+
+The term digital kinship is used for the ways relatedness is made, maintained, and contested through digital technologies. Mirca Madianou and Daniel Miller's *Migration and New Media* (2012) studied Filipino mothers working in the United Kingdom and their children in the Philippines. They described "polymedia", a situation in which people choose among phone calls, text messages, email, social networking, and video links, so that the choice of medium itself carries emotional and moral meaning. Mothers could take part in daily family life from a distance, but their children, especially those separated when very young, did not always welcome this closer supervision or find that it replaced presence.
+
+Digital databases also create and revise kin connections. Alondra Nelson's *The Social Life of DNA* (2016) showed how African Americans have used genetic ancestry testing to seek links severed by slavery, and how people interpret results alongside family stories and political claims. Such cases extend the argument of Schneider and Carsten: a genetic match or an online connection does not by itself make a relative. People decide whether to acknowledge it and what obligations, if any, follow.
+
 ## Sources
 
 - Lewis Henry Morgan, *Systems of Consanguinity and Affinity of the Human Family* (1871).
@@ -45,3 +50,5 @@ Kinship remains central to contemporary life, in new forms. Assisted reproductio
 - David M. Schneider, *American Kinship: A Cultural Account* (1968).
 - David M. Schneider, *A Critique of the Study of Kinship* (1984).
 - Janet Carsten (ed.), *Cultures of Relatedness: New Approaches to the Study of Kinship* (2000).
+- Mirca Madianou and Daniel Miller, *Migration and New Media: Transnational Families and Polymedia* (2012).
+- Alondra Nelson, *The Social Life of DNA: Race, Reparations, and Reconciliation After the Genome* (2016).

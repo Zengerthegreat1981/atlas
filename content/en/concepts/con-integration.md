@@ -12,8 +12,7 @@ edges:
   - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
 related:
   []
-gaps:
-  - "Integration and social media: not yet covered"
+gaps: []
 ---
 
 # Integration: Holding a Society Together
@@ -46,6 +45,12 @@ Current scholarship debates whether integration is still the right word. Some ar
 
 A further debate concerns the relationship between integration and diversity. Can a society be both integrated and diverse, or does integration require a shared culture? Research on multicultural societies suggests that integration does not require sameness: people can share institutions, laws, and a sense of citizenship while maintaining different religions, languages, and ways of life. What integration requires, on this view, is not cultural uniformity but a shared commitment to the institutions that make coexistence possible. Anthropology's contribution is to study integration as it is lived — in the daily work of getting along, in the institutions that make it possible, and in the conflicts that arise when it fails.
 
+## Integration and Social Media
+
+Social media raise the old question of integration in a new setting: do online networks bind people to a shared society or divide it into separate circles? A study of American university students by Nicole Ellison, Charles Steinfield, and Cliff Lampe (2007) found that Facebook use was associated with social capital, especially the looser "bridging" ties that connect people to acquaintances and new information. For migrants, Rianne Dekker and Godfried Engbersen (2014) showed that social media help maintain strong ties with family and friends, open weak ties useful for settling elsewhere, and spread informal knowledge about migration. Such media can thus support the dual belonging described above.
+
+Others stress fragmentation. Cass Sunstein, in *#Republic* (2017), argued that personalized information environments can sort people into like-minded groups and weaken the common experiences a democracy needs, although researchers disagree about how widespread and powerful such "echo chambers" are. Comparative ethnography led by Daniel Miller, published as *How the World Changed Social Media* (2016), found that platforms are used very differently from place to place, which cautions against assuming a single effect on social cohesion.
+
 ## Sources
 
 - Durkheim, Émile. *The Division of Labour in Society*. Translated by W. D. Halls. Macmillan, 1984. First published 1893.
@@ -53,3 +58,7 @@ A further debate concerns the relationship between integration and diversity. Ca
 - Lockwood, David. "Social Integration and System Integration." In *Explorations in Social Change*, edited by George K. Zollschan and Walter Hirsch, 244–257. Routledge and Kegan Paul, 1964.
 - Parsons, Talcott. *The Social System*. Free Press, 1951.
 - Parsons, Talcott, and Neil J. Smelser. *Economy and Society*. Free Press, 1956.
+- Dekker, Rianne, and Godfried Engbersen. "How Social Media Transform Migrant Networks and Facilitate Migration." *Global Networks* 14, no. 4. 2014.
+- Ellison, Nicole B., Charles Steinfield, and Cliff Lampe. "The Benefits of Facebook 'Friends': Social Capital and College Students' Use of Online Social Network Sites." *Journal of Computer-Mediated Communication* 12, no. 4. 2007.
+- Miller, Daniel, et al. *How the World Changed Social Media*. UCL Press, 2016.
+- Sunstein, Cass R. *#Republic: Divided Democracy in the Age of Social Media*. Princeton University Press, 2017.

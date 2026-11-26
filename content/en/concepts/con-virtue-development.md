@@ -12,8 +12,7 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "Virtue Ethics", target_type: "مدرسة"
 related: []
-gaps:
-  - "Comprehensive expansion of primary sources: not yet covered"
+gaps: []
 ---
 
 # Virtue Development
@@ -34,8 +33,19 @@ The theoretical origin of this concept goes back to Aristotle in the *Nicomachea
 
 The method of habituation has been objected to on the ground that it may produce superficial conformity without a true understanding of the purpose of the act. Aristotle himself addressed this by requiring that a virtuous act be done knowingly, from choice and for its own sake, and from a firm and unchanging character (Book II, ch. 4). Illustrative example: a child who is initially made to share his toys with peers may, after years of repetition, find himself sharing spontaneously and with genuine joy, not because he fears punishment, but because generosity has become part of the fabric of his stable character.
 
+## Further Primary Texts
+
+Plato's *Meno* opens by asking whether virtue is taught, acquired by practice or present by nature, and Books II and III of the *Republic* describe an early education through stories, music and physical training that shapes taste before reason matures. In the *Nicomachean Ethics*, Book II also makes pleasure and pain taken in actions a sign of the disposition formed, and Book X adds that good laws are needed because argument alone does not move those who have not been well brought up. Thomas Aquinas, in the *Summa Theologiae* (I-II, on habits and virtues), distinguished virtues acquired by repeated acts from virtues infused by God.
+
+In China, the *Analects* (2.4) presents moral growth as lifelong, running from a commitment to learning at fifteen to a state at seventy in which the heart's desires no longer overstep what is right. Modern developments include Julia Annas's *Intelligent Virtue* (2011), which models virtue on the acquisition of practical skill, and M. F. Burnyeat's essay Aristotle on Learning to Be Good (1980), which stresses that habituation also trains what a learner enjoys.
+
 ## Sources
 
 - Aristotle. *Nicomachean Ethics*. Translated by W. D. Ross, revised by Lesley Brown. Oxford University Press, 2009.
 - Ibn Miskawayh, Ahmad ibn Muhammad. *Tahdhib al-Akhlaq wa Tathir al-A'raq*. American University of Beirut, 1966 (edited by Constantine Zurayk).
 - al-Farabi, Abu Nasr. *Tahsil al-Sa'ada*. Dar al-Andalus, 1983.
+- Plato. *Meno* and *Republic*.
+- Thomas Aquinas. *Summa Theologiae*, Prima Secundae.
+- Confucius. *The Analects*.
+- Burnyeat, M. F. "Aristotle on Learning to Be Good." In *Essays on Aristotle's Ethics*, edited by Amélie Oksenberg Rorty. University of California Press, 1980.
+- Annas, Julia. *Intelligent Virtue*. Oxford University Press, 2011.

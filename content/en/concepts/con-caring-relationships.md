@@ -11,8 +11,7 @@ active_start: 1900
 active_end: "مستمر"
 edges: []
 related: []
-gaps:
-  - "Primary sources: not yet covered."
+gaps: []
 ---
 
 # Caring Relationships
@@ -37,6 +36,10 @@ Care relationships are clearly visible in nursing. A good nurse does not merely 
 
 It is feared that focusing on caring relationships may become a justification for overburdening the carer (usually a woman) without return or recognition. For this reason, Held and Joan Tronto (*Moral Boundaries*, 1993) called for integrating the logic of care with the demands of distributive justice rather than replacing them, so that care work is recognized socially and economically rather than left as a silent individual burden.
 
+## Further Primary Sources
+
+Several other texts shape the study of caring relations. Milton Mayeroff's *On Caring* (1971) described caring as helping another to grow, before care ethics emerged as a school. Sara Ruddick's "Maternal Thinking" (1980), later expanded into a book of the same title (1989), drew moral concepts from the practice of raising children. Annette Baier's essay "Trust and Antitrust" (1986) argued that moral philosophy had neglected trust between unequal and dependent parties. Eva Feder Kittay's *Love's Labor* (1999) examined dependency work and argued that those who care for dependents themselves need support, a demand that a just society must answer. Berenice Fisher and Joan Tronto's "Toward a Feminist Theory of Caring" (1990) distinguished phases of care, including caring about, taking care of, care-giving, and care-receiving. Michael Slote's *The Ethics of Care and Empathy* (2007) places empathy at the centre and extends the approach to questions of justice.
+
 ## Sources
 
 - Gilligan, Carol. *In a Different Voice*. Harvard University Press, 1982.
@@ -44,3 +47,10 @@ It is feared that focusing on caring relationships may become a justification fo
 - Held, Virginia. *The Ethics of Care*. Oxford University Press, 2006.
 - Tronto, Joan. *Moral Boundaries: A Political Argument for an Ethic of Care*. Routledge, 1993.
 - Ibn Miskawayh, Ahmad ibn Muhammad. *Tahdhib al-Akhlaq*. Edited by Constantine Zurayk, American University of Beirut, 1966.
+- Mayeroff, Milton. *On Caring*. Harper & Row, 1971.
+- Ruddick, Sara. "Maternal Thinking." *Feminist Studies* 6, 1980.
+- Ruddick, Sara. *Maternal Thinking: Toward a Politics of Peace*. Beacon Press, 1989.
+- Baier, Annette. "Trust and Antitrust." *Ethics* 96, 1986.
+- Fisher, Berenice, and Joan Tronto. "Toward a Feminist Theory of Caring." In *Circles of Care*, edited by E. Abel and M. Nelson. SUNY Press, 1990.
+- Kittay, Eva Feder. *Love's Labor: Essays on Women, Equality, and Dependency*. Routledge, 1999.
+- Slote, Michael. *The Ethics of Care and Empathy*. Routledge, 2007.

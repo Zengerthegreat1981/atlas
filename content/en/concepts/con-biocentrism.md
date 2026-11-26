@@ -11,8 +11,7 @@ active_start: 1900
 active_end: "مستمر"
 edges: []
 related: []
-gaps:
-  - "Primary sources: not yet covered."
+gaps: []
 ---
 
 # Biocentrism
@@ -37,7 +36,18 @@ Biocentrism is objected to on the grounds that it plunges practical ethics into 
 
 When a forest is uprooted to build a road, biocentrism does not stop at asking about the effect on the animals that live there. It regards the uprooting of every tree as the removal of a living individual with its own interest, which deserves independent moral consideration, not merely a resource measured by its usefulness to humans.
 
+## Further Primary Sources
+
+Albert Schweitzer set out the ethic of "reverence for life" in his philosophy of civilization, published in German in 1923, holding that ethics consists in extending to every will-to-live the respect one gives one's own. Kenneth Goodpaster's article "On Being Morally Considerable" (1978) argued that being alive, rather than sentience, is the plausible criterion for deserving moral consideration, while distinguishing this from how much weight a being should receive. Taylor first stated his position in "The Ethics of Respect for Nature" (1981), published in the journal *Environmental Ethics*, before developing it in his 1986 book. Robin Attfield's "The Good of Trees" (1981) and *The Ethics of Environmental Concern* (1983) defend a version that grants moral standing to all living things but allows their significance to differ. Gary Varner's *In Nature's Interests?* (1998) examines whether non-sentient organisms can be said to have interests, and James Sterba has proposed principles for resolving conflicts between human and nonhuman needs.
+
 ## Sources
 
 - Taylor, Paul W. *Respect for Nature: A Theory of Environmental Ethics*. Princeton University Press, 1986.
 - Leopold, Aldo. *A Sand County Almanac*. Oxford University Press, 1949.
+- Schweitzer, Albert. *Kultur und Ethik*. 1923.
+- Goodpaster, Kenneth E. "On Being Morally Considerable." *The Journal of Philosophy* 75, 1978.
+- Taylor, Paul W. "The Ethics of Respect for Nature." *Environmental Ethics* 3, 1981.
+- Attfield, Robin. "The Good of Trees." *The Journal of Value Inquiry* 15, 1981.
+- Attfield, Robin. *The Ethics of Environmental Concern*. 1983.
+- Varner, Gary E. *In Nature's Interests? Interests, Animal Rights, and Environmental Ethics*. Oxford University Press, 1998.
+- Sterba, James P. *Justice for Here and Now*. Cambridge University Press, 1998.

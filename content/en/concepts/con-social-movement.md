@@ -39,7 +39,8 @@ Frequently studied cases include the labour movement of the nineteenth and twent
 ## Sources
 
 - Tilly, Charles. *From Mobilization to Revolution*. Addison-Wesley, 1978.
-- Tilly, Charles. *Social Movements, 1768-2004*. Paradigm, 2004.\n- McCarthy, John D., and Mayer N. Zald. "Resource Mobilization and Social Movements: A Partial Theory." *American Journal of Sociology* 82 (1977).
+- Tilly, Charles. *Social Movements, 1768-2004*. Paradigm, 2004.
+- McCarthy, John D., and Mayer N. Zald. "Resource Mobilization and Social Movements: A Partial Theory." *American Journal of Sociology* 82 (1977).
 - McAdam, Doug. *Political Process and the Development of Black Insurgency, 1930-1970*. University of Chicago Press, 1982.
 - Snow, David A., et al. "Frame Alignment Processes, Micromobilization, and Movement Participation." *American Sociological Review* 51 (1986).
 - Melucci, Alberto. *Nomads of the Present*. Temple University Press, 1989.

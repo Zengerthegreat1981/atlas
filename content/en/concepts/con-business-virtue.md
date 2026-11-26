@@ -11,8 +11,7 @@ active_start: 1900
 active_end: "مستمر"
 edges: []
 related: []
-gaps:
-  - "Primary sources: not yet covered."
+gaps: []
 ---
 
 # Business Virtue
@@ -33,6 +32,10 @@ This approach was recently inspired by the revival of virtue ethics led by Eliza
 
 Critics argue that competitive market logic sometimes rewards those who abandon virtue in pursuit of profit, which makes the call to virtue idealistic and impractical. Proponents of this approach reply that the long-term trust built by virtue (such as honesty in advertising) is itself a considerable form of commercial capital. For example, a trader who tells a customer about a hidden defect in his product, although he could have concealed it, loses an immediate gain but earns a lasting reputation. This is a practical embodiment of business virtue.
 
+## Further Primary Sources
+
+The classical starting points are Aristotle's *Nicomachean Ethics*, whose fifth book analyses justice in distribution and exchange, and the first book of his *Politics*, which distinguishes the acquisition of goods for household needs from the unlimited pursuit of money. Thomas Aquinas discussed fraud in buying and selling and the charging of interest in the *Summa Theologiae* (II-II, questions 77 and 78). Adam Smith's *The Theory of Moral Sentiments* (1759) treats prudence, justice, and beneficence as virtues, a useful counterpart to his economic analysis. In recent business ethics, Edwin Hartman's *Organizational Ethics and the Good Life* (1996) applies Aristotelian ideas to organizations, and Geoff Moore's "Corporate Character" (2005) uses MacIntyre's distinction between practices and institutions to describe the virtuous corporation. Deirdre McCloskey's *The Bourgeois Virtues* (2006) argues more broadly that commercial life can sustain the virtues.
+
 ## Sources
 
 - Solomon, Robert C. *Ethics and Excellence: Cooperation and Integrity in Business*. Oxford University Press, 1992.
@@ -40,3 +43,9 @@ Critics argue that competitive market logic sometimes rewards those who abandon 
 - MacIntyre, Alasdair. *After Virtue*. University of Notre Dame Press, 1981.
 - Heath, Joseph. *Morality, Competition, and the Firm*. Oxford University Press, 2014.
 - Ibn Miskawayh, Ahmad ibn Muhammad. *Tahdhib al-Akhlaq*. Edited by Constantine Zurayk, American University of Beirut, 1966.
+- Aristotle. *Politics*, Book I.
+- Thomas Aquinas. *Summa Theologiae*, II-II, qq. 77-78.
+- Smith, Adam. *The Theory of Moral Sentiments*. 1759.
+- Hartman, Edwin M. *Organizational Ethics and the Good Life*. Oxford University Press, 1996.
+- Moore, Geoff. "Corporate Character: Modern Virtue Ethics and the Virtuous Corporation." *Business Ethics Quarterly* 15, 2005.
+- McCloskey, Deirdre N. *The Bourgeois Virtues*. University of Chicago Press, 2006.

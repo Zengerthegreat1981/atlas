@@ -11,8 +11,7 @@ active_start: 1900
 active_end: "مستمر"
 edges: []
 related: []
-gaps:
-  - "Comprehensive expansion and deepening of the content: not yet covered"
+gaps: []
 ---
 
 # Confucian Ethics
@@ -51,8 +50,16 @@ Another central idea in Confucius's thought is the principle of "rectification o
 
 Rectification of names also calls for scrutinizing contemporary political language, which often applies idealized terms to a reality that contradicts them. This is what makes the Confucian principle a critical tool that remains applicable beyond its original Chinese context.
 
+## Further Virtues, Texts and Later Developments
+
+Beside *ren*, *li* and *xiao*, the tradition gives weight to *yi* (rightness), *zhi* (wisdom) and *xin* (trustworthiness); these, with *ren* and *li*, were later grouped as the five constant virtues. The exemplary person (*junzi*), once a term of noble birth, becomes in the *Analects* an ethical ideal contrasted with the petty person. *Shu*, a reciprocity that refrains from imposing on others what one would not want, guides judgment between persons.
+
+The Han scholar Dong Zhongshu joined Confucian teaching to cosmological theory. Zhu Xi arranged the *Analects*, *Mencius*, *Great Learning* and *Doctrine of the Mean* as the Four Books, which became the core of later examinations. Wang Yangming (1472–1529) held that moral knowledge and action are one, and that an innate moral knowing (*liangzhi*) needs to be extended in conduct. In 1958 Mou Zongsan, Tang Junyi, Xu Fuguan and Zhang Junmai issued a manifesto defending the contemporary value of Chinese culture. Recent interpreters disagree over whether Confucianism is best read as virtue ethics or as an ethics of social roles, the latter defended by Roger Ames and Henry Rosemont.
+
 ## Sources
 
 - Confucius. *The Analects*. Translated by D. C. Lau, Penguin Classics, 1979.
 - Mencius. *Mencius*. Translated by D. C. Lau, Penguin Classics, 1970.
 - Ivanhoe, Philip J., and Bryan W. Van Norden, eds. *Readings in Classical Chinese Philosophy*. Hackett Publishing, 2005.
+- Wang Yangming. *Instructions for Practical Living* (*Chuanxi lu*).
+- Rosemont, Henry, Jr., and Roger T. Ames. *Confucian Role Ethics: A Moral Vision for the 21st Century?* V&R Unipress, 2016.

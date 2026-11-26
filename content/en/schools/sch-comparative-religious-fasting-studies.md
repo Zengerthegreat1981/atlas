@@ -22,8 +22,7 @@ related:
 - id: "sch-food-religion-studies", title: "Food and Religion Studies", type: "مدرسة"
 - id: "wrk-holy-anorexia-bell", title: "Holy Anorexia", type: "عمل / كتاب"
 - id: "wrk-holy-men-hunger-artists-diamond", title: "Holy Men and Hunger Artists: Fasting and Asceticism in Rabbinic Culture", type: "عمل / كتاب"
-gaps:
-  - "A single comparative synthesis bringing the Christian, Islamic, Jewish, Hindu and Buddhist branches together: not yet covered."
+gaps: []
 ---
 
 # Comparative Religious Fasting Studies
@@ -55,6 +54,12 @@ Bell's reading, which projects the modern category of anorexia nervosa onto a me
 ## The Buddhist Branch: Prebish and Uposatha
 
 **Charles S. Prebish** (`thk-charles-prebish`) represents a Buddhist branch with his book *Buddhist Monastic Discipline: The Sanskrit Prātimokṣa Sūtras of the Mahāsāṃghikas and Mūlasarvāstivādins* (1975). It is a textual study and translation of the monastic rule texts of two early Buddhist schools, and so differs in method from the ethnographic work of Möller and Pearson. The rule texts frame the **Uposatha**, the fortnightly observance at which monks recite the monastic code and confess infractions. Buddhist monastics traditionally do not eat after midday, and lay devotees who keep the eight precepts on Uposatha days observe the same restriction, so that bodily discipline and communal renewal are closely linked in this tradition.
+
+## A Comparative View of the Five Branches
+
+Read together, the studies above allow a provisional comparison along three questions. First, **who fasts and when**. Ramadan in Java and the Uposatha observance follow a shared calendar; rabbinic sources discuss both public fasts in crisis and individual ones; Hindu women's vratas are recurrent vows undertaken within household life; the early Christian and medieval cases highlight ascetics whose regimes could go well beyond common observance. Second, **what the practice produces**. Shaw and Bell stress authority gained through bodily discipline, Möller the social life of a fasting community, Diamond the tension between ascetic merit and communal norms, Pearson women's sense of agency and well-being, and the monastic code a regular renewal of the community, within which restraint over food is one discipline among many. Third, **how much gender matters**: it is central for Bell, Pearson and Shaw's discussion of female ascetics, but is not the organizing question in every branch.
+
+The comparison has limits. The works span different periods and rely on different evidence, from interviews to legal and patristic texts, so a difference between two "religions" may really be a difference of method. Abstention also does not mean the same thing everywhere: a daytime fast, a rule against eating after midday and a vow permitting selected foods should not be treated as degrees of one practice.
 
 ## Sources
 

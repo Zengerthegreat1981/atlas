@@ -12,9 +12,7 @@ active_start: 1951
 active_end: مستمر
 edges: []
 related: []
-gaps:
-- Detailed empirical case studies: not yet covered
-- Cross-disciplinary applications: not yet covered
+gaps: []
 ---
 # The Social System
 
@@ -38,6 +36,14 @@ Parsons's method is analytical theory, not empirical research. He builds ideal t
 
 Because the book theorises rather than investigates, its "findings" are reinterpretations. Parsons re-reads existing research — on the family, the professions, medicine, religion — to show that each institution performs functions the system requires. His analysis of the medical profession argues that doctors combine universalism and affective neutrality in a way that makes the sick role workable. His treatment of the family shows how the nuclear family socialises children into shared values while stabilising adult personalities. His account of deviance treats crime and mental illness as strains in the system, handled by mechanisms of social control. None of this was new data; the claim was that a single framework could make sense of all of it, and that this unification was itself a scientific advance.
 
+## Empirical Case Studies
+
+Research connected with Parsons's circle shows how the categories could meet field material. Renée Fox's *Experiment Perilous* (1959) was based on observation of a hospital ward where physicians conducted research on seriously ill patients. It described how doctors and patients managed uncertainty and the tension between treatment and experiment, complicating any simple picture of the two roles. Neil Smelser's *Social Change in the Industrial Revolution* (1959) applied a functional model derived from his work with Parsons to the British cotton industry in Lancashire, tracing how dissatisfaction led to increasingly differentiated economic and family roles. Critics questioned whether the historical evidence required the elaborate model.
+
+## Applications Across Disciplines
+
+In economics and sociology, Parsons and Smelser's *Economy and Society* (1956) treated the economy as a subsystem exchanging resources with other parts of society. In anthropology, Clifford Geertz and David Schneider were shaped by the Harvard programme and the distinction between cultural and social systems, which each developed in his own way. In political science, William C. Mitchell's *Sociological Analysis and Politics* (1967) set out Parsons's framework for the study of the polity. Niklas Luhmann later carried systems theory into law and other fields while substantially revising it.
+
 ## Influence and Continuing Relevance
 
 For twenty years *The Social System* set the agenda of American sociology. Structural functionalism — the approach it codified — dominated textbooks, departments, and funding, and Parsons's students, including Robert Merton, occupied the discipline's commanding heights. The AGIL scheme and the pattern variables shaped research in medical sociology, the sociology of the professions, and organisational theory. It also influenced systems theory, including Niklas Luhmann's. Even its critics defined themselves against it: conflict theory, ethnomethodology, and symbolic interactionism all sharpened their positions by attacking Parsons. Functionalism no longer dominates, but the sick role is still taught and debated in medical sociology.
@@ -56,3 +62,7 @@ The criticisms are formidable and largely familiar. Parsons's theory is accused 
 - Rocher, Guy. *Talcott Parsons and American Sociology*. Nelson, 1974.
 - Alexander, Jeffrey C. *Theoretical Logic in Sociology*, vol. 4: *The Modern Reconstruction of Classical Thought: Talcott Parsons*. University of California Press, 1983.
 - Habermas, Jürgen. *The Theory of Communicative Action*, vol. 2. Beacon Press, 1987.
+- Fox, Renée C. *Experiment Perilous: Physicians and Patients Facing the Unknown*. Free Press, 1959.
+- Smelser, Neil J. *Social Change in the Industrial Revolution*. University of Chicago Press, 1959.
+- Parsons, Talcott, and Neil J. Smelser. *Economy and Society*. Routledge and Kegan Paul, 1956.
+- Mitchell, William C. *Sociological Analysis and Politics: The Theories of Talcott Parsons*. Prentice-Hall, 1967.

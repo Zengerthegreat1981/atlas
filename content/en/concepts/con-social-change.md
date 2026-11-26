@@ -12,8 +12,7 @@ active_start: 1900
 active_end: مستمر
 edges: []
 related: []
-gaps:
-- Empirical examples: not yet covered
+gaps: []
 sociological_tradition: other
 sociological_paradigm: micro-macro
 ---
@@ -38,6 +37,10 @@ One central debate is whether social change has a direction. Nineteenth-century 
 
 The study of social change is more urgent than ever, because the pace of change appears to be accelerating. Digital technology is transforming work, communication, and politics; climate change is forcing societies to adapt their economies, settlements, and ways of life; demographic shifts, including ageing populations in wealthy countries and rapid urbanisation in poorer ones, are reshaping families and labour markets; and movements for gender equality, racial justice, and environmental protection are challenging established institutions. Sociologists use the concept to study all of these processes, and to ask the normative questions that follow: change for whom, at whose cost, and towards what kind of society? The concept also frames the study of resistance to change. Institutions and groups that benefit from the existing order often work to slow or reverse change, and understanding that resistance is as important as understanding the forces of transformation. Social change, in the end, is not an external force that happens to societies. It is what societies are: the ongoing, contested remaking of the social world by the people who live in it.
 
+## Empirical Examples
+
+W. I. Thomas and Florian Znaniecki's *The Polish Peasant in Europe and America* (1918–1920) used letters, life histories and other documents to follow how migration and modernisation altered family and community ties. The demographic transition offers a broad comparative case: in many societies death rates fell first and birth rates later, producing a period of rapid population growth followed by slower growth and ageing, though timing and causes differ considerably between countries. Glen Elder's *Children of the Great Depression* (1974) traced people who grew up in Oakland, California, and showed that economic hardship affected later lives differently according to family circumstances, age and gender, linking historical change to individual biography. Smelser's study of the cotton industry, mentioned above, connects change in production to change in the family economy. These examples illustrate different evidence, from personal documents to population series and follow-up studies, and none alone establishes a general law of change.
+
 ## Sources
 
 - Ogburn, William Fielding. *Social Change with Respect to Culture and Original Nature*. 1922.
@@ -45,3 +48,5 @@ The study of social change is more urgent than ever, because the pace of change 
 - Parsons, Talcott. *Societies: Evolutionary and Comparative Perspectives*. 1966.
 - Inglehart, Ronald. *Culture Shift in Advanced Industrial Society*. 1990.
 - Sztompka, Piotr. *The Sociology of Social Change*. 1993.
+- Thomas, William I., and Florian Znaniecki. *The Polish Peasant in Europe and America*. 1918–1920.
+- Elder, Glen H., Jr. *Children of the Great Depression: Social Change in Life Experience*. 1974.

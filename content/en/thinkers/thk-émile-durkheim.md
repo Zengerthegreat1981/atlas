@@ -12,8 +12,7 @@ active_start: 1858
 active_end: 1917
 edges: []
 related: []
-gaps:
-- Contemporary empirical examples: not yet covered
+gaps: []
 sociological_tradition: other
 sociological_paradigm: micro-macro
 ---
@@ -36,7 +35,11 @@ Durkheim was born in Épinal into a Jewish family with a rabbinical tradition. H
 
 ## Case Studies
 
-*Suicide* (1897) compared rates across countries, religious confessions, family situations and economic periods. Durkheim linked variation to integration and regulation, distinguishing egoistic, altruistic and anomic suicide and noting fatalistic suicide briefly. *The Elementary Forms of Religious Life* (1912) relied on published ethnography of Aboriginal Australian totemism to build a general theory of religion and knowledge.
+*Suicide* (1897) compared rates across countries, religious confessions, family situations and economic periods. Durkheim linked variation to integration and regulation, distinguishing egoistic, altruistic and anomic suicide and noting fatalistic suicide briefly. *The Elementary Forms of Religious Life* (1912) relied on published ethnography of Australian Aboriginal totemism to build a general theory of religion and knowledge.
+
+## Contemporary Empirical Examples
+
+Anna Mueller and Seth Abrutyn (2016) conducted a qualitative study of an American community that had experienced repeated youth suicides. The community was closely connected and held demanding shared expectations of achievement. The authors argued that such cohesion could intensify fear of failure, make private problems visible through gossip, and discourage people from seeking help. The study revisits Durkheim's concern with integration and regulation, showing why strong ties are not automatically protective; as a single case, it cannot establish how often these processes occur. In research on ritual, Dimitris Xygalatas and colleagues (2013) studied a Hindu festival in Mauritius and found that participants in and observers of a painful ritual gave more to charity than people observed after a less intense ritual. This bears on the idea that collective rites strengthen moral attachment, but donations after particular events do not demonstrate a whole theory of religion or lasting social solidarity. Both studies translate broad concepts into observable relationships and show the value of examining conditions and mechanisms.
 
 ## Major Works
 
@@ -65,3 +68,5 @@ Solidarity, anomie, collective consciousness, collective representations; compar
 - Émile Durkheim, *Le suicide*, 1897.
 - Émile Durkheim, *Les formes élémentaires de la vie religieuse*, 1912.
 - Steven Lukes, *Émile Durkheim: His Life and Work*, 1973.
+- Anna S. Mueller and Seth Abrutyn, Adolescents under Pressure: A New Durkheimian Framework for Understanding Suicide in a Cohesive Community, *American Sociological Review*, 2016.
+- Dimitris Xygalatas et al., Extreme Rituals Promote Prosociality, *Psychological Science*, 2013.

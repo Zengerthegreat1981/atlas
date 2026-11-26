@@ -12,9 +12,7 @@ active_start: 1900
 active_end: مستمر
 edges: []
 related: []
-gaps:
-- Variables in computational and big-data social research: not yet covered
-- Measurement invariance across cultures and languages: not yet covered
+gaps: []
 sociological_tradition: other
 sociological_paradigm: micro-macro
 ---
@@ -42,6 +40,14 @@ The language of variables carries an implicit model of causality: change the ind
 
 Consider a study of voting. The dependent variable might be turnout in an election; independent variables could include age, education, income, and political interest. Cross-tabulation might show that turnout rises with education — but the relationship could be confounded by income, since educated people tend to earn more. Controlling for income tests whether education matters on its own. Or consider a study of health: the variable "body mass index" operationalises the concept of obesity, while "self-rated health" captures a person's own assessment. The two variables correlate but are not identical, and the choice between them shapes the conclusions.
 
+## Variables in Computational and Big-Data Research
+
+Computational social science works with records such as search logs, social media posts, transaction data, and digitised archives. Here variables are usually constructed after the fact, not designed in advance. A researcher may turn millions of documents into counts of words, assign each a topic or tone with a statistical model, or derive network measures such as the number of a person's connections. Justin Grimmer and Brandon Stewart (2013) stressed that automated text methods rest on simplified models of language and that their output must be validated for each task, commonly by comparison with careful human reading. Matthew Salganik, in *Bit by Bit* (2018), noted that large digital sources are often incomplete, unrepresentative, and affected by changes in the systems that generate them: a rise in some recorded behaviour may reflect a redesigned interface instead of a change in people. Machine-learning studies may also use thousands of predictors, or features, chosen for predictive performance. Such variables can forecast an outcome well without identifying its causes, so the distinctions between independent, dependent, and confounding variables still matter whenever the aim is explanation. Access restrictions and privacy obligations further limit which variables others can inspect or reproduce.
+
+## Measurement Invariance across Cultures and Languages
+
+Comparing groups on a variable assumes that the measure works in the same way in each. Measurement invariance, or equivalence, is the property that people with the same standing on an underlying trait have the same expected responses whatever group they belong to. It can fail because translation shifts the meaning of an item, because an example is familiar in one setting only, or because groups use response scales differently, for instance in their tendency to agree or to choose extreme options. A common test uses multi-group confirmatory factor analysis in successive steps. Configural invariance requires the same pattern of items and factors; metric invariance requires equal factor loadings, which supports comparing relationships among variables; scalar invariance also requires equal intercepts, which supports comparing latent means. William Meredith (1993) gave an influential statistical treatment, and Eldad Davidov and colleagues (2014) reviewed its use in cross-national research, where strict equality often fails across many countries. Partial or approximate invariance offers alternatives, but statistics cannot replace careful translation, pretesting, and qualitative study of how respondents understand questions. A difference in scores may otherwise be an artefact of the instrument.
+
 ## Critique and Contemporary Relevance
 
 Qualitative researchers have long criticised the variable framework for fragmenting social life. A person's experience of poverty is not a set of separate variables — income, housing, health — but a lived whole, and reducing it to variables can strip away meaning and context. Feminist and critical scholars add that the choice of which variables to measure reflects power: what is counted is what counts, and the experiences of marginalised groups are often the ones left unmeasured.
@@ -54,3 +60,7 @@ Despite these criticisms, the variable remains indispensable. Survey research, o
 - Campbell, Donald T., and Julian C. Stanley. *Experimental and Quasi-Experimental Designs for Research*. Rand McNally, 1966 (first published 1963).
 - Lazarsfeld, Paul F., and Morris Rosenberg, eds. *The Language of Social Research: A Reader in the Methodology of Social Research*. Free Press, 1955.
 - Stevens, Stanley Smith. "On the Theory of Scales of Measurement." *Science* 103, no. 2684 (1946): 677–680.
+- Davidov, Eldad, Bart Meuleman, Jan Cieciuch, Peter Schmidt, and Jaak Billiet. "Measurement Equivalence in Cross-National Research." *Annual Review of Sociology* 40 (2014).
+- Grimmer, Justin, and Brandon M. Stewart. "Text as Data: The Promise and Pitfalls of Automatic Content Analysis Methods for Political Texts." *Political Analysis* 21, no. 3 (2013).
+- Meredith, William. "Measurement Invariance, Factor Analysis and Factorial Invariance." *Psychometrika* 58, no. 4 (1993).
+- Salganik, Matthew J. *Bit by Bit: Social Research in the Digital Age*. Princeton University Press, 2018.

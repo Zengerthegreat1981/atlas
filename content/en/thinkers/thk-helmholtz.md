@@ -20,8 +20,7 @@ related:
 - id: "thk-brentano", title: "Franz Brentano", type: "مفكر"
 - id: "con-psychophysics-fechner", title: "Psychophysics", type: "مفهوم"
 - id: "con-unconscious-inference", title: "Unconscious Inference in Helmholtz", type: "مفهوم"
-gaps:
-  - "Mathematical physics (fluid dynamics, electrodynamics, thermodynamics): not yet covered in detail."
+gaps: []
 ---
 
 # Hermann von Helmholtz
@@ -62,6 +61,14 @@ In 1850, Helmholtz measured the conduction velocity in the **motor nerve of a fr
 
 Helmholtz defended an **empiricist** approach to geometry: geometric laws are derived from experience, not from metaphysics. His 1868 paper on the facts underlying geometry, written in response to Riemann, was discussed critically by later thinkers including Poincaré and Russell (*The Foundations of Geometry*, 1897; *The Principles of Mathematics*, 1903).
 
+### 5. Mathematical Physics
+
+**Fluid dynamics.** In a paper of 1858 on vortex motion, Helmholtz analysed rotation in an ideal, frictionless and incompressible fluid acted on by conservative forces. He showed that vortex lines move with the fluid, that the strength of a vortex tube stays constant, and that such tubes cannot end within the fluid. William Thomson (later Lord Kelvin) built on these results, including in his hypothesis of vortex atoms. Helmholtz's 1868 work on discontinuous flow contributed to what is now called the Kelvin-Helmholtz instability. His acoustical studies also gave his name to the Helmholtz equation for steady wave fields.
+
+**Electrodynamics.** From 1870 he developed a general formulation in which the competing theories of Wilhelm Weber, Franz Neumann and James Clerk Maxwell could be compared, helping to bring Maxwell's ideas into German physics. His student Heinrich Hertz went on to produce and detect electromagnetic waves in the late 1880s. In his Faraday Lecture of 1881 Helmholtz argued that Faraday's laws of electrolysis imply that electricity comes in elementary portions.
+
+**Thermodynamics.** In papers on the thermodynamics of chemical processes (1882) he distinguished "free" energy, available as work in an isothermal change, from "bound" energy. The Helmholtz free energy (F = U − TS) and the Gibbs-Helmholtz equation carry his name; J. Willard Gibbs had already obtained closely related results.
+
 ## The Impact on Psychology
 
 - **The experimental method in perception**: Helmholtz laid the methodological foundation of perceptual psychology.
@@ -94,3 +101,6 @@ Critics, notably within the phenomenological tradition, have treated the Helmhol
 - Koenigsberger, Leo. *Hermann von Helmholtz*. Braunschweig: Vieweg, 1902-1903.
 - Cahan, David (ed.). *Hermann von Helmholtz and the Foundations of Nineteenth-Century Science*. Berkeley: University of California Press, 1993.
 - Helmholtz, Hermann von. *Handbuch der physiologischen Optik*. Leipzig: Voss, 1856-1867.
+- Helmholtz, Hermann von. "Über Integrale der hydrodynamischen Gleichungen, welche den Wirbelbewegungen entsprechen." *Journal für die reine und angewandte Mathematik* 55 (1858).
+- Helmholtz, Hermann von. "Die Thermodynamik chemischer Vorgänge." *Sitzungsberichte der Königlich Preussischen Akademie der Wissenschaften zu Berlin*, 1882.
+- Darrigol, Olivier. *Electrodynamics from Ampère to Einstein*. Oxford University Press, 2000.

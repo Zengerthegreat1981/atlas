@@ -15,8 +15,7 @@ edges:
 related:
 - id: "sch-islamic-law-shariah", title: "Islamic Law and Sharia as a Legal System", type: "مدرسة"
 - id: "con-gharar-in-contracts", title: "Gharar (Uncertainty in Contracts)", type: "مفهوم"
-gaps:
-  - "Detailed positions in the contemporary debate on bank interest, and school-by-school specifications of the subtypes of riba: not yet covered."
+gaps: []
 ---
 
 # Riba (Legal Doctrine)
@@ -35,6 +34,14 @@ Jurists explain the prohibition of riba by several causes, ranging from the mora
 
 The characterization of modern bank interest is among the most contested questions in Islamic financial jurisprudence. Most contemporary jurists (including Yusuf al-Qaradawi and Wahba al-Zuhayli) consider it forbidden riba without distinction. Minority positions and individual contemporary juristic reasoning have put forward different readings that attempt to distinguish between types of interest according to their economic context, although this view remains a minority one that does not prevail in contemporary institutional fatwas.
 
+## School Specifications
+
+The schools extend the six-item report differently according to the effective cause they identify. **Hanafis**, and the best-known **Hanbali** view, link goods sold by weight or measure within the same genus. **Shafi'is** identify the monetary character of gold and silver and, for the other four items, their being food. **Malikis** likewise treat gold and silver as money, but for unequal exchange require food that is staple and storable, while the ban on deferral reaches food more widely. **Zahiris**, rejecting analogy, confine the rule to the six. Shafi'i works also separate delay in taking possession (*riba al-yad*) from stipulated deferral.
+
+## Positions on Bank Interest
+
+The Islamic Research Academy of al-Azhar condemned interest on loans in 1965, as did the Fiqh Academy of the Organisation of the Islamic Conference in the mid-1980s. Fazlur Rahman argued that the Qur'anic ban targeted exploitative, multiplying increases rather than all interest. Al-Sanhuri treated riba as prohibited in principle but allowed limited interest on capital loans on grounds of need, excluding compound interest. Muhammad Sayyid Tantawi defended certain predetermined returns on bank deposits and certificates, a position endorsed by the al-Azhar academy under him in 2002 and widely disputed. In Pakistan, the Federal Shariat Court (1991) and the Supreme Court's Shariat Appellate Bench (1999) held interest to be prohibited, although the latter judgment was later set aside on review.
+
 ## Its Effect on the Development of Islamic Finance
 
 The strict prohibition of riba gave rise to the contemporary Islamic finance industry, which seeks to design alternative financial instruments (such as *murabaha*, *mudaraba*, *musharaka* and *sukuk*) that fulfill an economic function similar to conventional finance without falling into forbidden riba. Scholars such as Frank Vogel and Samuel Hayes have analyzed these instruments and the question of how far they honour the objectives of the prohibition of riba and not merely its formal letter.
@@ -44,3 +51,4 @@ The strict prohibition of riba gave rise to the contemporary Islamic finance ind
 - Saleh, Nabil A. *Unlawful Gain and Legitimate Profit in Islamic Law*. Cambridge University Press, 1986.
 - Vogel, Frank E. and Hayes, Samuel L. *Islamic Law and Finance: Religion, Risk, and Return*. Kluwer Law International, 1998.
 - al-Zuhayli, Wahba. *al-Fiqh al-Islami wa Adillatuh*. Dar al-Fikr, Damascus, 1984.
+- Rahman, Fazlur. 'Riba and Interest.' *Islamic Studies*, 1964.

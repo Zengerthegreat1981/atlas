@@ -16,8 +16,7 @@ related:
 - id: "thk-rogers", title: "Carl Rogers", type: "مفكر"
 - id: "thk-maslow", title: "Abraham Maslow", type: "مفكر"
 - id: "br-humanistic", title: "American Humanistic-Existential", type: "تيار"
-gaps:
-  - "Narrative identity and the therapeutic relationship (McAdams): not yet covered."
+gaps: []
 ---
 
 # Integrative Therapy (Common Factors) and Humanistic: The Original Mother
@@ -71,6 +70,12 @@ Lambert's (1992) heuristic allocation attributes about 30% of outcome variance t
 - **Emotion-Focused Therapy** (Greenberg) combines Rogers's empathic stance with process-experiential techniques and research.
 - **Existential therapy** (for example Yalom) is a related humanistic-existential tradition.
 
+## Narrative Identity and the Therapeutic Relationship
+
+Dan McAdams proposes that, beyond traits and goals, people form a **narrative identity**: an internalized and changing life story that joins a reconstructed past to an imagined future and gives a sense of unity and purpose (*The Stories We Live By*, 1993; McAdams and McLean, 2013). The theory belongs to personality psychology and is not itself a model of the therapeutic relationship, so the link drawn here is interpretive. It connects with both sides of this comparison: a life story is told to someone, and a listener's empathy, acceptance and questions may affect which experiences can be voiced and how they are understood, a theme close to Rogers's concern with experience excluded from the self-concept.
+
+Research has begun to examine narratives in therapy. Jonathan Adler (2012) followed adults through psychotherapy and found that themes of agency in their written accounts increased over treatment, and that these increases came before improvements in mental health. Such evidence is correlational and does not show that the relationship produced the change in the story, or isolate narrative as a common factor. Narrative therapy, associated with Michael White and David Epston, developed separately from McAdams's research.
+
 ## A Deeper Debate
 
 - **Is the relationship the same as transference?** In psychoanalysis, transference is material for interpretation; for Rogers, the relationship's conditions were therapeutic in themselves. Integrative views treat the real relationship and transference as distinct aspects of the alliance.
@@ -94,3 +99,7 @@ Humanistic psychology provides a long-standing clinical and theoretical vocabula
 - Robert Elliott, Arthur C. Bohart, Jeanne C. Watson, and Leslie S. Greenberg, "Empathy," *Psychotherapy* 48(1) (2011).
 - Robert Elliott, Leslie S. Greenberg, Jeanne Watson, Ladislav Timulak, and Elizabeth Freire, "Research on Humanistic-Experiential Psychotherapies," in M. J. Lambert (ed.), *Bergin and Garfield's Handbook of Psychotherapy and Behavior Change*, 6th ed. (Wiley, 2013).
 - Mick Cooper and John McLeod, "Person-Centered Therapy: A Pluralistic Perspective," *Person-Centered and Experiential Psychotherapies* 10(3) (2011).
+- Dan P. McAdams, *The Stories We Live By: Personal Myths and the Making of the Self* (William Morrow, 1993).
+- Dan P. McAdams and Kate C. McLean, "Narrative Identity," *Current Directions in Psychological Science* 22(3) (2013).
+- Jonathan M. Adler, "Living into the Story: Agency and Coherence in a Longitudinal Study of Narrative Identity Development and Mental Health over the Course of Psychotherapy," *Journal of Personality and Social Psychology* 102(2) (2012).
+- Michael White and David Epston, *Narrative Means to Therapeutic Ends* (Norton, 1990).

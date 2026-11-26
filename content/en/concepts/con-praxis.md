@@ -14,8 +14,7 @@ edges:
 related:
 - id: "thk-marx", title: "Karl Marx", type: "مفكر"
 - id: "thk-arendt", title: "Hannah Arendt", type: "مفكر"
-gaps:
-  - "Critique of praxis from postmodern perspectives (for example Lyotard): not yet covered."
+gaps: []
 ---
 # Praxis: Reflective Action That Transforms the World
 
@@ -28,6 +27,12 @@ Marx used praxis to **criticise the idealist philosophers** (Hegel, Feuerbach) w
 ## The Psychological and Therapeutic Meaning
 
 In liberation psychology, as developed by Ignacio Martín-Baró (a Salvadoran Jesuit psychologist killed in 1989; see *Writings for a Liberation Psychology*, 1994) and others in Latin America, praxis is central: psychology should be oriented toward changing oppressive social conditions and not only describing individuals. This tradition intersects with the critical pedagogy of Paulo Freire in his book *Pedagogy of the Oppressed*, which makes "praxis" (action and reflection together) the condition for the liberation of consciousness from oppression. Antonio Gramsci, in the *Prison Notebooks* (written 1929-35), used "philosophy of praxis" as a name for Marxism and developed the concept of cultural hegemony, linking practice to the struggle against ideological domination. In community psychology, related ideas appear in **action research** (Kurt Lewin, 1940s) and in work on **empowerment** (Julian Rappaport, 1980s), though these developed separately from Marxism. Writers in decolonial and liberation psychology (for example Geraldine Moane) draw on praxis to argue that psychological work should address social conditions.
+
+## A Postmodern Critique: Lyotard
+
+Lyotard had himself been a militant in the Marxist group Socialisme ou Barbarie before breaking with revolutionary theory. In *The Postmodern Condition* (1979) he defines the postmodern as incredulity toward metanarratives, the large stories that legitimate knowledge and institutions by appeal to a final goal, among them the emancipation of humanity. Applied to praxis, the difficulty is that action which claims to be justified by history's direction presumes a single subject (humanity, or the proletariat) and a common measure by which theory and practice can be judged. Lyotard instead describes a plurality of language games with different rules, and favours local, limited narratives. *The Differend* (1983) adds that a conflict may lack any rule of judgment fair to both sides, so that one party's wrong cannot even be stated in the other's idiom.
+
+Defenders of praxis can reply that action need not rest on a guaranteed end: Freire's emphasis on dialogue, or local action research, makes goals revisable. Critics such as Habermas also object that a general scepticism toward universal justification weakens the grounds for criticizing oppression at all.
 
 ## The Distinction from Neighbouring Concepts
 
@@ -45,3 +50,5 @@ Praxis differs from **theoretical contemplation** (*theoria*), because it involv
 - "Gramsci, Antonio" — *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/gramsci/>
 - Antonio Gramsci, *Quaderni del carcere* (*Prison Notebooks*), written 1929-35.
 - Jean-François Lyotard, *La Condition postmoderne*, Paris: Minuit, 1979.
+- Jean-François Lyotard, *Le Différend*, Paris: Minuit, 1983 (English: *The Differend: Phrases in Dispute*, 1988).
+- Jürgen Habermas, *The Philosophical Discourse of Modernity*, trans. Frederick Lawrence, Cambridge, MA: MIT Press, 1987.

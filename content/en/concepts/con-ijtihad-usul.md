@@ -16,8 +16,7 @@ related:
 - id: "sch-usul-al-fiqh-legal-theory", title: "Usul al-Fiqh as Legal Theory", type: "مدرسة"
 - id: "con-gate-of-ijtihad-debate-hallaq", title: "The Debate over the Closing of the Gate of Ijtihad", type: "مفهوم"
 - id: "con-qiyas-analogical-reasoning", title: "Qiyas (Analogical Reasoning)", type: "مفهوم"
-gaps:
-  - "Detailed lists and ordering of the conditions of ijtihad in al-Ghazali, al-Amidi and Ibn Qudama: not yet covered"
+gaps: []
 ---
 # Ijtihad (Independent Legal Reasoning)
 
@@ -39,9 +38,20 @@ Beginning roughly in the fourth century AH (tenth century CE), a juristic discou
 
 Modern reformist and revivalist movements revived the call for ijtihad as an alternative to rigid taqlid, demanding direct reconsideration of the texts to address contemporary issues. This produced a sharp debate over the standards of contemporary ijtihad and the legitimacy of its exercise outside the traditional frameworks of juristic training.
 
+## The Conditions in Three Usul Works
+
+In *al-Mustasfa*, al-Ghazali states two general requirements: command of the sources from which rulings are drawn, with the ability to use them in proper order, and moral uprightness, which he treats as a condition for others to accept the fatwa rather than for the reasoning itself. The sources are the Qur'an, the Sunna, consensus and reason (including the presumption of original non-liability). To use them one needs methods of constructing proofs, Arabic language and grammar, knowledge of abrogation, and the means of assessing hadith transmission. He does not require memorizing the Qur'an: knowing where the roughly five hundred legal verses are suffices.
+
+Ibn Qudama's *Rawdat al-Nazir* follows this scheme closely, again reviewing the sources, the supporting linguistic and textual skills, and the separate role of uprightness, and allowing that competence may be confined to particular questions.
+
+Al-Amidi's *al-Ihkam* begins from theological prerequisites, knowledge of God, His attributes and the truth of the Messenger, without demanding specialist mastery of theology. It then requires knowledge of the sources of law, how they are established and indicate rulings, and how conflicts among them are weighed. He distinguishes these requirements for the general mujtahid from the narrower knowledge needed for a single question.
+
 ## Sources
 
 - Hallaq, Wael B. *A History of Islamic Legal Theories: An Introduction to Sunni Usul al-Fiqh*. Cambridge University Press, 1997.
 - Kamali, Mohammad Hashim. *Principles of Islamic Jurisprudence*. Cambridge: Islamic Texts Society, 1991.
 - Hallaq, Wael B. "Was the Gate of Ijtihad Closed?" *International Journal of Middle East Studies*, vol. 16, no. 1, 1984, pp. 3-41.
 - Weiss, Bernard G. *The Search for God's Law: Islamic Jurisprudence in the Writings of Sayf al-Din al-Amidi*. University of Utah Press, 1992.
+- al-Ghazali, Abu Hamid. *al-Mustasfa min 'Ilm al-Usul*.
+- al-Amidi, Sayf al-Din. *al-Ihkam fi Usul al-Ahkam*.
+- Ibn Qudama. *Rawdat al-Nazir wa Junnat al-Munazir*.

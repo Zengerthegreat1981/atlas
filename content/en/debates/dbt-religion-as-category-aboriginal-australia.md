@@ -14,8 +14,7 @@ edges:
 related:
 - id: "dbt-defining-religion-as-analytic-category", title: "Is 'Religion' a Definable Analytic Category? (Smith, *Imagining Religion*)", type: "جدل"
 - id: "thk-talal-asad", title: "Talal Asad", type: "مفكر"
-gaps:
-  - "Contributions of Indigenous Australian scholars to this debate: not yet covered"
+gaps: []
 ---
 
 # Is 'Religion' an Adequate Category for Australian Aboriginal Systems?
@@ -34,12 +33,21 @@ By contrast, A. P. Elkin (whose *The Australian Aborigines*, 1938, was a widely 
 
 This Australian local debate preceded by decades the broader discussion raised later by Talal Asad and Jonathan Z. Smith on the historicity of the category "religion" itself as a historically produced category with roots in modern European history. It is sometimes cited as an early field case of a question that later became central in comparative religious theory.
 
+## Indigenous Australian Contributions
+
+Indigenous writers have approached the question largely on their own terms. Mary Graham, a Kombumerri scholar, describes an Aboriginal worldview in which relations with land and relations among people are fundamental and inseparable, an account in which law, ethics and what outsiders call spirituality do not form separate departments. Legal scholars, including Irene Watson (*Raw Law*, 2015) and C. F. Black (*The Land Is the Source of the Law*, 2011), likewise present law as grounded in land and ancestral relationship, which resists filing it under "religion" alone. Others have retained or adapted religious vocabulary: Anne Pattel-Gray edited *Aboriginal Spirituality* (1996), and the Rainbow Spirit Elders developed an Aboriginal Christian theology (1997). These works do not take a single position, and many do not engage Stanner or Elkin as a debate about academic categories. They show that the choice of terms also concerns who defines the tradition and for what purpose, including claims about land and law.
+
 ## Constraint
 
-The debate is raised here mainly from within the Australian anthropological literature written by European-Australian researchers. The contribution of Indigenous researchers themselves to this specific discussion needs wider documentation.
+The older debate set out above took place mainly within anthropological literature written by European-Australian researchers, and the summary of Indigenous contributions here is selective.
 
 ## Sources
 
 - Stanner, W.E.H. *White Man Got No Dreaming: Essays 1938-1973*. Australian National University Press, 1979 (reissued as *The Dreaming and Other Essays*, Black Inc., 2009).
 - Stanner, W.E.H. *On Aboriginal Religion*. Oceania Monographs, University of Sydney, 1966 (originally published in *Oceania*, 1959-63).
 - Elkin, A.P. *The Australian Aborigines: How to Understand Them*. Angus & Robertson, 1938.
+- Graham, Mary. "Some Thoughts about the Philosophical Underpinnings of Aboriginal Worldviews." *Worldviews: Environment, Culture, Religion*, 3, 1999.
+- Watson, Irene. *Aboriginal Peoples, Colonialism and International Law: Raw Law*. Routledge, 2015.
+- Black, C. F. *The Land Is the Source of the Law: A Dialogic Encounter with Indigenous Jurisprudence*. Routledge, 2011.
+- Pattel-Gray, Anne, ed. *Aboriginal Spirituality: Past, Present, Future*. HarperCollins, 1996.
+- Rainbow Spirit Elders. *Rainbow Spirit Theology: Towards an Australian Aboriginal Theology*. HarperCollins, 1997.

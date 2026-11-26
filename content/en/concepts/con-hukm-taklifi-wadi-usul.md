@@ -16,8 +16,7 @@ related:
 - id: "sch-usul-al-fiqh-legal-theory", title: "Usul al-Fiqh as Legal Theory", type: "مدرسة"
 - id: "con-ahliyya-legal-capacity-usul", title: "Ahliyya (Legal Capacity in Islamic Law)", type: "مفهوم"
 - id: "con-rule-of-recognition-hart", title: "Rule of Recognition", type: "مفهوم"
-gaps:
-  - "Detailed treatment of rukhsa and 'azima, and of the Hanafi categories of fasid and batil in contracts: not yet covered"
+gaps: []
 ---
 # Hukm Taklifi and Hukm Wad'i
 
@@ -45,7 +44,15 @@ The two rulings are not practically separated; they complement each other. The d
 
 Some comparative legal theorists argue that this usulist distinction between the normative and declaratory ruling roughly parallels the modern distinction between direct imperative rules and structural regulatory rules in positivist legal philosophy. The explicit formulation of the two categories became standard in usul works of the later classical period. The usulists did not formulate this distinction in modern terms, nor for purposes of philosophical comparison; they derived it internally from the needs of analyzing the Islamic textual sources themselves. This analytical convergence remains an interpretive observation by modern scholars, not a claim of complete methodological identity between two historically distinct frameworks that differ radically in their sources and purposes.
 
+## Original Ruling and Concession; Void and Defective Contracts
+
+Usulists also distinguish *'azima*, the ruling prescribed generally in the first instance, from *rukhsa*, a concession that departs from it for a recognized excuse while the original evidence remains. Standard examples are the traveller's shortening of prayer and postponement of the Ramadan fast, and eating carrion to escape death. The force of a concession varies: eating carrion in true necessity is regarded by most as obligatory, while someone coerced to utter unbelief may do so with a heart secure in faith, yet steadfastness is considered more meritorious. A concession applies only within the limits of its excuse.
+
+In contracts, most schools treat *batil* and *fasid* as equivalent names for nullity, although they separate them in some particular matters. The Hanafis distinguish them systematically in property transactions. A *batil* contract is defective in its essence (*asl*), as when a party lacks all capacity or carrion is sold, and produces no legal transfer. A *fasid* contract is sound in essence but defective in an attached quality (*wasf*), as with a usurious stipulation or an unknown term of payment. It should be rescinded, but if the buyer takes possession with the seller's permission, a defective ownership passes; removing the defect in time may cure the contract.
+
 ## Sources
 
 - Kamali, Mohammad Hashim. *Principles of Islamic Jurisprudence*. Cambridge: Islamic Texts Society, 1991.
 - Hallaq, Wael B. *A History of Islamic Legal Theories: An Introduction to Sunni Usul al-Fiqh*. Cambridge University Press, 1997.
+- al-Sarakhsi, Muhammad ibn Ahmad. *Usul al-Sarakhsi*.
+- al-Ghazali, Abu Hamid. *al-Mustasfa min 'Ilm al-Usul*.

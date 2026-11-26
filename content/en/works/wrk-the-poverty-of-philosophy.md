@@ -12,8 +12,7 @@ active_start: 1847
 active_end: مستمر
 edges: []
 related: []
-gaps:
-- Detailed empirical case studies: not yet covered
+gaps: []
 ---
 
 # The Poverty of Philosophy
@@ -32,7 +31,11 @@ Proudhon's method, Marx charges, treats economic categories as if they were eter
 
 The book's economic core is its defence of the labour theory of value against Proudhon's reformulation. Proudhon had proposed "constituted value" — a system in which goods would exchange in proportion to the labour time embodied in them. Marx replies that this is simply to describe what capitalism already does in a mystified form, while removing the very mechanism — competition and the market — through which labour time is socially measured.
 
-Marx also reverses Proudhon's account of the division of labour. Proudhon treated it as a timeless principle of economic progress. Marx distinguishes the division of labour within the workshop, which is imposed by the capitalist, from the division of labour in society at large, which emerges through the market. Machinery, he argues, does not arise from the abstract idea of dividing labour; it arises from the concrete need of capital to discipline workers and raise productivity. The famous chapter on strikes develops this into a political argument: as machinery and competition throw workers together, their isolated struggles become a class struggle, and the working class moves from a class "in itself" to a class "for itself."
+Marx also reverses Proudhon's account of the division of labour. Proudhon treated it as a timeless principle of economic progress. Marx distinguishes the division of labour within the workshop, which is imposed by the capitalist, from the division of labour in society at large, which emerges through the market. Machinery, he argues, does not arise from the abstract idea of dividing labour; it arises from the concrete need of capital to discipline workers and raise productivity. The famous closing section on strikes develops this into a political argument: as machinery and competition throw workers together, their isolated struggles become a class struggle, and the working class moves from a class "in itself" to a class "for itself."
+
+## Historical Examples in the Argument
+
+The book is not an empirical monograph, but Marx supports parts of it with historical cases. Against the originality of schemes for exchange according to labour time, he examines the English socialist John Francis Bray, whose *Labour's Wrongs and Labour's Remedy* (1839) had proposed equitable exchange as a transitional arrangement. Marx argues that individual exchange of labour equivalents would tend to recreate the antagonisms it was meant to remove. In discussing machinery, he draws on British industry and on writers such as Andrew Ure, noting that employers turned to new equipment, including the self-acting spinning mule, in conflicts with skilled workers. His account of strikes uses the experience of English workers, whose temporary combinations against wage reductions developed into more lasting trade unions and wider political organisation, including Chartism. These examples are selective and serve a polemical argument; they do not provide a systematic comparison of cases that could test the general theory.
 
 ## Method and Structure
 
@@ -55,3 +58,5 @@ Critics have noted that the book is more successful as polemic than as economics
 - Jonathan Sperber, *Karl Marx: A Nineteenth-Century Life* (2013).
 - Terrell Carver, ed., *The Cambridge Companion to Marx* (1991).
 - Allen W. Wood, *Karl Marx* (1981).
+- John Francis Bray, *Labour's Wrongs and Labour's Remedy* (1839).
+- Andrew Ure, *The Philosophy of Manufactures* (1835).

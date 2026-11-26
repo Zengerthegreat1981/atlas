@@ -17,8 +17,7 @@ related:
 - id: "sch-islamic-law-shariah", title: "Islamic Law as a Legal System", type: "مدرسة"
 - id: "con-ahliyya-legal-capacity-usul", title: "Ahliyya (Legal Capacity)", type: "مفهوم"
 - id: "thk-shams-al-aimma-al-sarakhsi", title: "Shams al-A'imma al-Sarakhsi", type: "مفكر"
-gaps:
-  - "School-by-school account of the conditions of formation, validity, enforceability and binding force: not yet covered"
+gaps: []
 ---
 # The General Theory of Contract in Islamic Law (Nazariyyat al-'Aqd)
 
@@ -34,6 +33,12 @@ Validity requires conditions beyond mere formation. The most prominent are freed
 
 The schools also differ on how far parties may add their own stipulations to a contract: Hanbali jurists, and Ibn Taymiyya in particular, allowed more freedom to stipulate conditions than most other schools, which restricted it more.
 
+## Formation, validity, enforceability and binding force
+
+Hanafi writers arrange the contract in four ascending stages. **Formation** (*in'iqad*) requires matching offer and acceptance in one session, a party with at least discernment, and a lawful, existing subject matter. **Validity** (*sihha*) requires freedom from vitiating defects such as serious uncertainty, riba, certain extraneous stipulations and, for most Hanafis, duress. **Enforceability** (*nafadh*) requires ownership or authority and full enough capacity; without it the contract is suspended (*mawquf*) until ratified. **Binding force** (*luzum*) requires that neither party hold an option to rescind.
+
+The other schools draw these lines differently. The **Malikis**, like the Hanafis, generally allow an unauthorized sale of another's property to await the owner's ratification, whereas the dominant **Shafi'i** and **Hanbali** positions treat it as void. The **Shafi'is** emphasize verbal offer and acceptance and were reluctant to accept sale by mere exchange (*mu'ata*), which the other three broadly admit; they also generally deny effect to a sale concluded by a minor. On binding force, the Shafi'is and Hanbalis affirm an option while the parties remain in the contractual session (*khiyar al-majlis*), while the Hanafis and Malikis hold that completed offer and acceptance bind without it.
+
 ## Named contracts as applications of the general theory
 
 Named contracts in jurisprudence, such as sale, lease, agency, partnership and pledge, are treated as particular applications of these general rules. To each is added specific provisions according to its nature and subject matter, such as the provisions on options (khiyar) in sale, or the provisions on the termination of agency upon the death of the principal.
@@ -46,3 +51,5 @@ The theory of contract has acquired great contemporary importance in engineering
 
 - Hallaq, Wael B. *A History of Islamic Legal Theories: An Introduction to Sunni Usul al-Fiqh*. Cambridge University Press, 1997.
 - Kamali, Mohammad Hashim. *Principles of Islamic Jurisprudence*. Cambridge: Islamic Texts Society, 1991.
+- al-Zuhayli, Wahba. *al-Fiqh al-Islami wa Adillatuh*. Damascus: Dar al-Fikr, 1984.
+- Rayner, Susan E. *The Theory of Contracts in Islamic Law*. London: Graham & Trotman, 1991.

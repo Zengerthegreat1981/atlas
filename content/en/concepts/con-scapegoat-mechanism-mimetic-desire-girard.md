@@ -16,8 +16,7 @@ edges:
 related:
 - id: "sch-mimetic-theory-violence-sacred-religion", title: "Mimetic Desire and the Scapegoat Mechanism in the Origin of Religion (René Girard)", type: "مدرسة"
 - id: "con-sacrifice-theory-hubert-mauss", title: "The Theory of Sacrifice in Hubert and Mauss (Sacrifice: Its Nature and Function)", type: "مفهوم"
-gaps:
-  - "Comparison between Girard's scapegoat mechanism and Durkheim's totemic theory of sacrifice: not yet covered"
+gaps: []
 ---
 
 # The Scapegoat Mechanism and Mimetic Desire
@@ -36,6 +35,12 @@ The crisis is resolved, automatically and without collective awareness, by conce
 
 While the theory of Hubert and Mauss describes the ritual function of sacrifice (mediation between the sacred and the profane through an intermediary victim) without assuming a specific historical violent origin, Girard goes further: he posits an actual collective act of violence (not merely symbolic) as the historical-anthropological origin of every later ritual and prohibition. This is a theory more ambitious in scope and more contested in terms of its testability by ethnographic evidence.
 
+## Comparison with Durkheim's Account of Totemic Sacrifice
+
+In *The Elementary Forms of Religious Life* (1912), Durkheim used Australian ethnography, especially rites for the increase of the totemic species in which its normally restricted flesh is ritually eaten, to argue that sacrifice involves both communion and offering. Participants renew the sacred principle within themselves, while their worship sustains it in turn. Behind the totem stands society itself, whose power is experienced in the "collective effervescence" of gathered assemblies.
+
+The two theories share much: religion is a collective product, ritual regenerates social unity, and participants do not recognize that the sacred power they revere arises from their own group. Girard acknowledged the importance of Durkheim's insight that society and religion are inseparable. They differ over the generating event. For Durkheim the source is assembly and shared exaltation, expressed through symbols, and no founding victim or prior crisis is required. For Girard unity is won out of internal violence, by all turning against one, and sacrifice is the controlled repetition of that killing. Durkheim thus explains solidarity chiefly through positive participation, Girard through exclusion. Durkheim's reading of the Australian material has itself been disputed, and neither origin account is directly observable.
+
 ## Signs of Accusation and the Victims of Crisis
 
 In his later works (especially *Le Bouc émissaire*, 1982), Girard details the kinds of "signs" that make an individual or minority "accusable" in times of major social crisis (epidemics, famines, disturbances): a visible bodily difference, membership of a minority that is socially and politically weak, or a marginal position that leaves the individual exposed to accusation without any tribal protection. He cites recurring historical examples, such as the accusation that Jews spread the Black Death in fourteenth-century Europe, as a structural repetition of the scapegoat mechanism itself throughout human history, rather than an isolated incident.
@@ -49,3 +54,4 @@ Girard holds that most ancient myths reproduce the scapegoat mechanism from the 
 - Girard, René. *Violence and the Sacred* [*La violence et le sacré*, 1972]. Trans. Patrick Gregory. Johns Hopkins University Press, 1977.
 - Palaver, Wolfgang. *René Girard's Mimetic Theory*. Trans. Gabriel Borrud. Michigan State University Press, 2013.
 - Girard, René. *The Scapegoat*. Trans. Yvonne Freccero. Johns Hopkins University Press, 1986 [1982].
+- Durkheim, Émile. *The Elementary Forms of Religious Life* [1912]. Trans. Karen E. Fields. Free Press, 1995.

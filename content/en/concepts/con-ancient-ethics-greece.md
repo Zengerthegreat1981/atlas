@@ -11,8 +11,7 @@ active_start: -470
 active_end: -30
 edges: []
 related: []
-gaps:
-  - "Primary sources beyond the listed works: not yet covered"
+gaps: []
 ---
 
 # Ancient Greek Ethics
@@ -33,6 +32,10 @@ Systematic ethical inquiry in Greece is commonly traced to Socrates, who made vi
 
 These ethics have had a profound influence on the revival of contemporary virtue ethics, especially in the work of Alasdair MacIntyre in *After Virtue* (1981), as well as Philippa Foot and Elizabeth Anscombe ("Modern Moral Philosophy," 1958), who found in the Aristotelian concept of flourishing an alternative to modern duty-based ethics and utilitarianism. An illustrative example: a physician faces a difficult decision that no explicit rule resolves. The virtue ethicist asks: "What would the wise physician with practical wisdom (*phronesis*) do in this situation?" rather than applying a rigid rule.
 
+## Further Primary Sources
+
+Socrates wrote nothing, so his ethics is reconstructed mainly from Plato, especially the *Apology*, *Crito*, *Protagoras*, and *Gorgias*, and from Xenophon's *Memorabilia*. Besides the *Nicomachean Ethics*, Aristotle's *Eudemian Ethics* gives a second treatment of happiness and virtue, and his *Politics* continues the inquiry at the level of the city. For the Hellenistic schools the evidence is more fragmentary. Epicurus's *Letter to Menoeceus* and *Principal Doctrines* survive in the tenth book of Diogenes Laertius's *Lives of Eminent Philosophers*, whose sixth and seventh books are also major witnesses for the Cynics and Stoics. Early Stoic writings are largely lost and known through later reports, including those of Stobaeus and Cicero; Cicero's *On Ends* sets out and criticizes Epicurean, Stoic, and Antiochean accounts of the highest good. Roman Stoicism is better preserved in Seneca's *Letters*, the *Discourses* and *Handbook* of Epictetus recorded by Arrian, and the *Meditations* of Marcus Aurelius. A. A. Long and D. N. Sedley's *The Hellenistic Philosophers* (1987) collects key texts.
+
 ## Sources
 
 - Aristotle. *Nicomachean Ethics*. Translated by Terence Irwin. 2nd ed. Hackett, 1999.
@@ -42,3 +45,9 @@ These ethics have had a profound influence on the revival of contemporary virtue
 - MacIntyre, Alasdair. *After Virtue*. University of Notre Dame Press, 1981.
 - Annas, Julia. *The Morality of Happiness*. Oxford University Press, 1993.
 - Vlastos, Gregory. *Socrates: Ironist and Moral Philosopher*. Cambridge University Press, 1991.
+- Xenophon. *Memorabilia*.
+- Aristotle. *Eudemian Ethics*.
+- Diogenes Laertius. *Lives of Eminent Philosophers*.
+- Cicero. *De finibus bonorum et malorum* (*On Ends*).
+- Epictetus. *Discourses* and *Encheiridion*.
+- Long, A. A., and D. N. Sedley. *The Hellenistic Philosophers*. Cambridge University Press, 1987.

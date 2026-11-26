@@ -11,8 +11,7 @@ active_start: 1900
 active_end: "مستمر"
 edges: []
 related: []
-gaps:
-  - "Comprehensive expansion of primary sources: not yet covered"
+gaps: []
 ---
 
 # Virtue in Confucianism
@@ -43,8 +42,16 @@ Confucius linked individual virtue to good government. In the *Analects* (12.19)
 
 Confucian virtue focuses exceptionally on the family as the first laboratory of moral education. In the *Analects* (1.2), filial and fraternal conduct is described as the root of *ren*, and the family is the first setting in which respect is learned and later extended to public life. For this reason, individual virtue and the political order are two sides of the same coin rather than separate spheres.
 
+## Further Primary Texts
+
+The *Analects* returns repeatedly to the link between inner humaneness and outward ritual. Passage 3.3 asks what use ritual or music can be to a person who lacks *ren*, and 12.1 explains *ren* as overcoming the self and returning to ritual. Passage 15.24 offers reciprocity (*shu*) as a single guiding word: not imposing on others what one does not want oneself.
+
+In the *Mencius* (2A6), the sudden alarm anyone would feel on seeing a child about to fall into a well shows the sprout of humaneness, listed with those of rightness, propriety and wisdom. Xunzi's chapter on human nature compares moral formation to straightening crooked wood. The *Great Learning* connects self-cultivation with ordering the family, governing the state and bringing peace to the world, and the *Doctrine of the Mean* treats equilibrium and sincerity as central. Both were originally chapters of the *Book of Rites* and were grouped by Zhu Xi in the twelfth century with the *Analects* and *Mencius* as the Four Books. The *Classic of Filial Piety* (*Xiaojing*) presents filial devotion as the root of virtue.
+
 ## Sources
 
 - Confucius. *The Analects*. Translated by D. C. Lau, Penguin Classics, 1979.
 - Xunzi. *Xunzi: Basic Writings*. Translated by Burton Watson. Columbia University Press, 2003.
 - Mencius. *Mencius*. Translated by D. C. Lau, Penguin Classics, 1970.
+- *The Great Learning* and *The Doctrine of the Mean* (chapters of the *Book of Rites*).
+- *Classic of Filial Piety* (*Xiaojing*).

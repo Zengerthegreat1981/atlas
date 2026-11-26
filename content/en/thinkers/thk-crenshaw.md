@@ -12,10 +12,7 @@ active_start: 1959
 active_end: مستمر
 edges: []
 related: []
-gaps:
-- Detailed case studies: not yet covered
-- Contemporary empirical examples: not yet covered
-- Cross-references to related concepts: not yet covered
+gaps: []
 sociological_tradition: other
 sociological_paradigm: micro-macro
 ---
@@ -44,6 +41,18 @@ Crenshaw was born in Canton, Ohio. She studied at Cornell, Harvard Law School an
 
 Her method combines close reading of case law, structural analysis and narrative. It is critical and interpretive rather than quantitative.
 
+## Case Studies
+
+In DeGraffenreid v. General Motors, decided at first instance in 1976, five Black women challenged a seniority system under which recently hired workers lost their jobs in layoffs. The company had not hired Black women before the mid-1960s. The court refused to treat them as a combined group: women, mostly white women, had been hired earlier, defeating the sex claim, while race discrimination was considered separately. Crenshaw argued that this framework could not see the harm at the intersection. In *Mapping the Margins* she examined violence against women, drawing in part on observations of shelters in Los Angeles. One example concerned a Latina woman in danger who was refused accommodation because she could not meet a shelter's English-language requirement. A policy designed around women assumed to speak English excluded someone shaped by gender, language, and immigration at once. Crenshaw also showed how immigration rules tying residence to marriage could make leaving an abusive spouse especially hazardous. These cases show intersectionality as an analysis of institutions, not just a list of personal identities.
+
+## Contemporary Empirical Examples
+
+Joy Buolamwini and Timnit Gebru's *Gender Shades* (2018) evaluated commercial systems that classified gender from face images. Reporting accuracy for combined groups of skin type and gender revealed that darker-skinned women had markedly higher error rates, a disparity partly hidden by overall figures. The study concerns the systems and test images examined at that time, not every later version, and skin type is not the same as race. It nevertheless illustrates the value of checking intersections instead of one category at a time. Leslie McCall (2005) distinguished research approaches that question categories, examine particular neglected intersections, or compare inequalities across multiple groups. This helps researchers state what their comparisons can show and avoids treating the addition of a statistical interaction term as a complete intersectional explanation.
+
+## Related Concepts
+
+Related concepts include critical race theory, intersectionality, discrimination, standpoint, matrix of domination, identity politics, structural racism, and gender. Useful comparisons include Patricia Hill Collins's matrix of domination, bell hooks on race, sex, and class, and the Combahee River Collective's statement of 1977 on interlocking oppressions. Structural intersectionality connects with research on poverty, immigration, and violence; political intersectionality with coalition and social movement strategy; and representational intersectionality with media and cultural analysis. Anti-discrimination law links these themes to debates about formal equality, which treats like cases alike, and substantive equality, which attends to unequal conditions and effects.
+
 ## Influence and Criticism
 
 Intersectionality has been taken up in empirical sociology, policy analysis, activism and international human-rights discourse, building on earlier Black feminist work such as Patricia Hill Collins' Black Feminist Thought (1990). Critics question the concept's vagueness, its application beyond its original legal setting, and the difficulty of operationalizing it in research. Jennifer Nash and others have discussed unresolved questions about its scope and subject.
@@ -54,3 +63,6 @@ Intersectionality has been taken up in empirical sociology, policy analysis, act
 - Kimberlé Crenshaw, "Mapping the Margins," Stanford Law Review (1991)
 - Patricia Hill Collins, Black Feminist Thought (1990)
 - Patricia Hill Collins and Sirma Bilge, Intersectionality (2016)
+- Joy Buolamwini and Timnit Gebru, Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification, Proceedings of Machine Learning Research (2018)
+- Leslie McCall, The Complexity of Intersectionality, Signs (2005)
+- Combahee River Collective, A Black Feminist Statement (1977)

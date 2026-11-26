@@ -12,8 +12,7 @@ active_start: 1900
 active_end: مستمر
 edges: []
 related: []
-gaps:
-- "Role theory in non-Western kinship systems: not yet covered"
+gaps: []
 sociological_tradition: other
 sociological_paradigm: micro-macro
 ---
@@ -45,6 +44,10 @@ Critics have argued that classical role theory overstates consensus and understa
 
 The concept remains indispensable. Contemporary research applies it to remote work, where the roles of employee and parent collide in the same room; to online life, where people manage multiple performed selves across platforms; and to migration, where people must learn entirely new role repertoires. Role remains the bridge concept between structure and action, and between the person and society.
 
+## Roles in Comparative Kinship
+
+Kinship systems outside the modern Western nuclear family show how widely role expectations can be distributed. A. R. Radcliffe-Brown analysed joking relationships, in which certain relatives are permitted or expected to tease one another, alongside relationships of marked respect or avoidance, such as those found in many societies between a man and his wife's mother. In the matrilineal Trobriand Islands, Bronislaw Malinowski described the mother's brother as holding authority over a boy, while the father was more an affectionate companion, so that duties often joined in one Western role were divided. Many systems class several relatives under one term, for instance calling a father's brother by the word for father, which extends some obligations across a wider set of people. Classical Confucian thought set out five key relationships, three of them within the family, each with reciprocal but unequal duties, and the Chinese sociologist Fei Xiaotong described obligations as spreading outward from the self in graded circles. Such cases suggest that roles are best read as relationships between particular positions, and that terms do not by themselves show how people behave.
+
 ## Sources
 
 - Goffman, Erving. *The Presentation of Self in Everyday Life*. Anchor Books, 1959.
@@ -55,3 +58,6 @@ The concept remains indispensable. Contemporary research applies it to remote wo
 - Merton, Robert K. "The Role-Set: Problems in Sociological Theory." *British Journal of Sociology* 8, no. 2 (1957): 106–120.
 - Merton, Robert K. *Social Theory and Social Structure*, revised and enlarged edition. Free Press, 1957.
 - Goode, William J. "A Theory of Role Strain." *American Sociological Review* 25, no. 4 (1960): 483–496.
+- Radcliffe-Brown, A. R. "On Joking Relationships." *Africa*, 1940.
+- Malinowski, Bronislaw. *Sex and Repression in Savage Society*. 1927.
+- Fei Xiaotong. *From the Soil: The Foundations of Chinese Society*, translated by Gary G. Hamilton and Wang Zheng. University of California Press, 1992. First published in Chinese, 1947.

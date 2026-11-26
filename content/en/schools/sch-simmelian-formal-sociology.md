@@ -14,9 +14,7 @@ active_start: 1890
 active_end: 1918
 edges: []
 related: []
-gaps:
-- Detailed case studies: not yet covered
-- Contemporary empirical examples: not yet covered
+gaps: []
 ---
 # Simmelian Formal Sociology
 
@@ -40,6 +38,14 @@ Simmel was also a theorist of modernity. In *The Philosophy of Money* (1900) he 
 
 Two of Simmel's most original arguments concern conflict and secrecy. Against the common view that conflict destroys society, Simmel argued in *Sociology* (1908) that conflict is itself a form of sociation: enemies are bound together by their antagonism, and conflict can strengthen solidarity, clarify boundaries and produce new norms. Secrecy, likewise, is not merely the absence of communication but a positive social form: the shared secret is one of the strongest bonds of trust. Sociability — conversation, play, the dinner party — is interaction pursued for its own sake, the pure form of sociation, society at play with itself.
 
+## Case Studies
+
+Simmel's essays proceed through brief historical cases. In discussing the stranger, he pointed to the position of Jews in medieval Europe, and in particular to taxation in Frankfurt and elsewhere: whereas the tax owed by Christian citizens varied with their fortune, Jews were assessed a fixed amount, treated as members of a category rather than as individual owners of property. The example shows how nearness within a community can coexist with social distance. His study of the triad identifies different parts a third person can play. An impartial mediator may reconcile two disputants; a third party may benefit from their rivalry, the position known as the rejoicing third; or a ruler may deliberately divide others in order to dominate them. Simmel illustrated these positions with examples drawn from families, politics, and economic life. In his essay on fashion, later reprinted in English, a style spreads because it lets people imitate a group while distinguishing themselves from others; once those below adopt it, those above move on. The cases clarify forms, but Simmel did not select or test them systematically.
+
+## Contemporary Empirical Examples
+
+Network analysis offers a direct line to current research. David Krackhardt (1999) defined a Simmelian tie as a strong, mutual relation between two people who are both also strongly tied to a common third, and argued that people so embedded, especially in more than one such group, are more tightly constrained by group norms. Ronald Burt's *Structural Holes* (1992) developed the idea of the benefiting third party into an account of the advantages available to people who connect otherwise separate contacts. Simmel's theory of money has also been questioned empirically. Viviana Zelizer's *The Social Meaning of Money* (1994), a historical study of the United States, showed that households, charities, and public agencies earmarked money for distinct purposes, marking gifts, wages, and allowances differently. Money therefore did not simply erase qualitative distinctions. This does not overturn Simmel's attention to impersonal exchange, but it indicates that its effects depend on the relationships and moral rules within which money circulates.
+
 ## Influence and Criticism
 
 Simmel's influence has been wide but indirect. In Germany he was overshadowed by Weber, who respected him but had reservations about his method; in America his essays, translated by Kurt Wolff (1950), shaped symbolic interactionism, small-group sociology and network analysis. Lewis Coser's theory of the functions of social conflict (1956) and Erving Goffman's studies of interaction both carry Simmel's imprint, and Robert Park, who had heard Simmel lecture in Berlin, carried his ideas about the city and the stranger into the Chicago School. The criticisms are equally persistent. His formal sociology can seem to float free of history and power: the form of domination looks the same in a family and in a dictatorship, but the difference matters. His writing is unsystematic, and his concepts — form, sociation, the tragedy of culture — are suggestive rather than precise. Yet Simmel's achievement remains distinctive: he showed that the microscopic texture of interaction — a glance, a secret, a third person entering a conversation — is not decoration on the surface of society but its very substance, and that the modern world can be understood through the forms in which people meet, compete, confide and part.
@@ -53,3 +59,7 @@ Simmel's influence has been wide but indirect. In Germany he was overshadowed by
 - Simmel, Georg. *Fundamental Questions of Sociology*. 1917.
 - Wolff, Kurt H., editor. *The Sociology of Georg Simmel*. 1950.
 - Coser, Lewis A. *The Functions of Social Conflict*. 1956.
+- Krackhardt, David. "The Ties That Torture: Simmelian Tie Analysis in Organizations." *Research in the Sociology of Organizations*. 1999.
+- Burt, Ronald S. *Structural Holes: The Social Structure of Competition*. 1992.
+- Zelizer, Viviana A. *The Social Meaning of Money*. 1994.
+- Simmel, Georg. "Fashion." *American Journal of Sociology*. 1957 (reprint of the 1904 English version).

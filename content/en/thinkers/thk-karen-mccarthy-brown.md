@@ -17,8 +17,7 @@ edges:
 - rel: "belongs_to", target: "Academic Haitian Vodou Studies", target_type: "مدرسة"
 related:
 - id: "wrk-mama-lola-mccarthy-brown", title: "Mama Lola: A Vodou Priestess in Brooklyn (the book)", type: "عمل / كتاب"
-gaps:
-  - "Her other writings beyond Mama Lola: not yet covered"
+gaps: []
 ---
 
 # Karen McCarthy Brown
@@ -41,6 +40,10 @@ Brown met Alourdes in 1978 during an ethnographic survey of the local Haitian im
 
 This relationship produced her best-known book *Mama Lola: A Vodou Priestess in Brooklyn* (University of California Press, 1991), which traces the life of Alourdes and the women of her family across generations and presents an intimate picture of Vodou in daily life that challenges the stereotypical image prevalent in American popular culture ("black magic", voodoo dolls), highlighting the centrality of women, kinship and migration in religious practice. This contrasts with earlier survey-style ethnography such as that of the Swiss-born anthropologist Alfred Métraux, whose *Le Vaudou haïtien* (1958) gave a comprehensive description of Vodou in Haiti but not the individual life-history depth that Brown sought.
 
+## Other Writings
+
+Brown's shorter works develop themes that meet in *Mama Lola*. Her essay on Alourdes as a case of moral leadership, in John Stratton Hawley's collection *Saints and Virtues* (1987), asks what ethical authority looks like in Vodou, where it is not measured by conformity to a fixed code or by saintly perfection but shown in the handling of relationships among people and spirits. Her study of the warrior spirit Ogou, "Systematic Remembering, Systematic Forgetting", in Sandra Barnes's volume *Africa's Ogun* (1989), examines how Haitian ritual preserves and reshapes African and colonial memories of military power, including its dangers. She also wrote on women's leadership in Haitian Vodou, relating the authority of priestesses to urban life and household structure. *Tracing the Spirit: Ethnographic Essays on Haitian Art* (1995) brought an ethnographer's perspective to Haitian art connected with religious life. Across these pieces she treats Vodou as a changing practice of healing and relationship rather than a closed system of doctrine.
+
 ## Impact and Critique
 
 Brown's book became a widely taught text in programs of religious anthropology and gender studies, for offering an alternative model of writing religious ethnography in a narrative style close to literary biography. Some researchers criticized this intimate literary style on the grounds that it may blur the methodological boundaries between anthropological description and personal empathy, while others defended this very overlap as what gives the book its unique capacity to dismantle the colonial stereotypes about Vodou prevalent in popular American portrayals.
@@ -52,3 +55,6 @@ Brown stayed in contact with Alourdes's family for many years. The book's closen
 - McCarthy Brown, Karen (1991). *Mama Lola: A Vodou Priestess in Brooklyn*. Berkeley: University of California Press (expanded edition 2001).
 - Métraux, Alfred (1958). *Le Vaudou Haïtien*. Paris: Gallimard.
 - Desmangles, Leslie G. (1992). *The Faces of the Gods: Vodou and Roman Catholicism in Haiti*. Chapel Hill: University of North Carolina Press.
+- McCarthy Brown, Karen (1987). "Alourdes: A Case Study of Moral Leadership in Haitian Vodou." In John Stratton Hawley, ed., *Saints and Virtues*. University of California Press.
+- McCarthy Brown, Karen (1989). "Systematic Remembering, Systematic Forgetting: Ogou in Haiti." In Sandra T. Barnes, ed., *Africa's Ogun: Old World and New*. Indiana University Press.
+- McCarthy Brown, Karen (1995). *Tracing the Spirit: Ethnographic Essays on Haitian Art*. Davenport Museum of Art.

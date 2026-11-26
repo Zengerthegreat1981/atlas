@@ -11,8 +11,7 @@ active_start: 1804
 active_end: "مستمر"
 edges: []
 related: []
-gaps:
-  - "Primary texts of the major codes (Code civil, BGB, Majalla): not yet covered"
+gaps: []
 ---
 
 # Civil Law Codification
@@ -35,7 +34,18 @@ Codification remains a subject of enduring theoretical debate. Its advocates, su
 
 The choice of codification has a practical effect on the role of the judge. In codified systems (such as France and Egypt), the judge is expected to find the solution to every dispute within the texts of the code itself, even if by analogy from similar articles. In common law systems, by contrast, the judge has wider power to create a new rule through judicial precedent when no legislative text exists. This difference has historically affected how lawyers are trained: the emphasis in the civil law tradition falls on systematic mastery of the structure of the code, whereas the common law tradition focuses on analyzing prior court decisions.
 
+## What the Primary Texts Say
+
+The Code civil opens with a short preliminary title. Article 4 makes a judge who refuses to decide on the ground that legislation is silent or obscure liable for denial of justice, while Article 5 forbids judges to lay down general regulatory rulings. In the original numbering, Article 544 defined ownership as a very broad right to enjoy and dispose of things within the law, Article 1134 gave lawfully formed contracts the force of law between the parties, and Article 1382 obliged anyone whose fault caused damage to repair it. The 2016 reform renumbered the last two provisions.
+
+The BGB begins with a General Part stating concepts used across later books. Section 138 voids transactions contrary to good morals, section 242 requires performance in good faith, and section 823 sets out liability for injury to specified protected interests.
+
+The Majalla has 1,851 articles in sixteen books, moving from sale to evidence and adjudication. Its introduction defines jurisprudence and then states general maxims: matters are judged by their purposes (Article 2), certainty is not displaced by doubt (Article 4), hardship calls for facilitation (Article 17), harm is to be removed (Article 20) and custom has authority (Article 36).
+
 ## Sources
 
 - Zweigert, Konrad & Kötz, Hein. *An Introduction to Comparative Law*. 3rd edition, Oxford University Press, 1998.
 - Hallaq, Wael B. *Shari'a: Theory, Practice, Transformations*. Cambridge University Press, 2009 (chapter on the Majalla and Ottoman codification).
+- *Code civil des Français* (1804).
+- *Bürgerliches Gesetzbuch* (1896, in force 1900).
+- *Majallat al-Ahkam al-Adliyya* (1869–1876).

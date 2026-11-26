@@ -14,9 +14,7 @@ edges:
   - rel: "influenced", target: "Ethnography of Science", target_type: "مفهوم"
 related:
   - id: "thk-paul-rabinow", title: "Paul Rabinow", type: "مفكر"
-gaps:
-  - "Application in non-Western scientific contexts: not yet covered"
-  - "Indigenous knowledge systems: not yet covered"
+gaps: []
 ---
 
 # Bruno Latour: Actor-Network Theory and the Anthropology of Science and Technology
@@ -35,7 +33,7 @@ Latour's central methodological innovation was **actor-network theory** (ANT), a
 
 His innovations included: (1) **symmetrical ethnography of science**—treating scientific knowledge-production the same way anthropologists treat "other" cultures, examining practices without assuming that science represents truth directly; (2) **tracing actor-networks**—following how actors (human and non-human) are enrolled into networks, how they are translated, and how networks stabilize or break down; (3) **examining inscription practices**—studying how facts are produced through instruments, writing, and other technologies that transform and stabilize observations; (4) **understanding translation**—analyzing how actors must align their interests and how their differences are negotiated to produce collective action.
 
-This methodology treated science is not a privileged form of knowledge-making but a specific set of practices producing particular forms of knowledge. Understanding science required understanding its practical arrangements, not merely its theoretical claims.
+This methodology treated science not as a privileged form of knowledge-making but as a specific set of practices producing particular forms of knowledge. Understanding science required understanding its practical arrangements, not merely its theoretical claims.
 
 ## Major Works and Theoretical Development
 
@@ -81,6 +79,12 @@ Latour's work on translation and hybrid networks offers resources for postcoloni
 
 However, critics note that Latour's work sometimes focuses on laboratory and Western technoscience without systematically attending to how colonialism and imperialism have shaped scientific networks globally.
 
+## Non-Western Settings and Indigenous Knowledge
+
+Work related to actor-network theory has travelled beyond Western laboratories. Marianne de Laet and Annemarie Mol's study of the Zimbabwe Bush Pump (2000) argued that the technology succeeded partly through its adaptability, as its parts, boundaries, and measures of success shifted with local use. Helen Verran's *Science and an African Logic* (2001), based on experience of mathematics teaching in Nigeria, examined Yoruba and English ways of counting as practical accomplishments, without treating one simply as the measure of the other. Warwick Anderson (2002) called for a postcolonial study of technoscience attentive to how knowledge moves across unequal settings.
+
+The encounter with Indigenous knowledge has also been critical. ANT's attention to nonhumans can appear close to Indigenous accounts of relations with land, animals, and other beings, yet the two have different histories and political commitments. Zoe Todd (2016) argued that praise for Latour's thinking about a shared climate often overlooked Indigenous thinkers who had addressed such relations long before, repeating a colonial pattern of credit. Marisol de la Cadena's *Earth Beings* (2015), drawing on conversations with two Quechua men in Peru and on science studies among other sources, showed how mountains can enter politics in ways that modern distinctions between nature and culture do not easily accommodate.
+
 ## Contemporary Relevance and Legacy
 
 Actor-network theory has become foundational to contemporary science and technology studies, organization studies, and anthropology. Scholars studying technology, medicine, artificial intelligence, climate change, and other domains build on frameworks Latour established. His insistence that understanding these domains requires tracing how humans and non-humans collaborate has proven enormously generative.
@@ -106,4 +110,9 @@ Contemporary applications extend his framework to digital systems, artificial in
 - Latour, Bruno. *Pandora's Hope: Essays on the Reality of Science Studies*. Harvard University Press, 1999.
 - Latour, Bruno. *Reassembling the Social: An Introduction to Actor-Network-Theory*. Oxford University Press, 2005.
 - Callon, Michel, John Law & Arie Rip (eds.). *Mapping the Dynamics of Science and Technology: Sociology of Science in the Real World*. Macmillan, 1986.
+- Anderson, Warwick. "Postcolonial Technoscience." *Social Studies of Science* 32, nos. 5–6. 2002.
+- de Laet, Marianne, and Annemarie Mol. "The Zimbabwe Bush Pump: Mechanics of a Fluid Technology." *Social Studies of Science* 30, no. 2. 2000.
+- Todd, Zoe. "An Indigenous Feminist's Take on the Ontological Turn: 'Ontology' Is Just Another Word for Colonialism." *Journal of Historical Sociology* 29, no. 1. 2016.
+- Verran, Helen. *Science and an African Logic*. University of Chicago Press, 2001.
+- de la Cadena, Marisol. *Earth Beings: Ecologies of Practice across Andean Worlds*. Duke University Press, 2015.
 

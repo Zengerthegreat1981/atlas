@@ -15,8 +15,7 @@ related:
 - id: "thk-abd-al-razzaq-al-sanhuri", title: "Abd al-Razzaq al-Sanhuri", type: "مفكر"
 - id: "thk-friedrich-carl-von-savigny", title: "Friedrich Carl von Savigny", type: "مفكر"
 - id: "sch-usul-al-fiqh-legal-theory", title: "Usul al-Fiqh (Legal Theory)", type: "مدرسة"
-gaps:
-  - "Detailed treatment of civil law in Latin America, Asia and Africa: not yet covered"
+gaps: []
 ---
 
 # Civil Law Tradition
@@ -38,6 +37,14 @@ The civil law tradition rests on a fundamental premise: that **systematic writte
 ## Impact and Application
 
 The civil law tradition prevails today in continental Europe, Latin America, most Arab, African and Asian states, in contrast to the Anglo-Saxon common law tradition. The difference appears in practice in the conduct of litigation (reliance on the written text first rather than on precedents), in the training of judges (often through specialized judicial institutes directly after graduation, rather than by promotion from the ranks of the legal profession as in England), and in the nature of academic legal study, which occupies a central place in shaping binding jurisprudence. With the growing convergence of the two systems in the modern era (judicial precedents acquire increasing practical weight even in civil law systems, and legislation expands in common law systems), the fundamental methodological difference remains a distinguishing feature of the two traditions: the priority of the abstract text versus the priority of precedent.
+
+## Latin America, Asia and Africa
+
+Reception outside Europe was often selective and creative. In Latin America, Andrés Bello's Chilean Civil Code (1855, in force 1857) combined Roman, Spanish and French materials and was adopted with changes in Ecuador and Colombia. The Brazilian jurist Augusto Teixeira de Freitas prepared draft work that influenced Dalmacio Vélez Sarsfield's Argentine code, in force from 1871. Brazil enacted its first civil code in 1916 and replaced it in 2002; Argentina adopted a new unified code that took effect in 2015.
+
+In Asia, Japan's Civil Code of the 1890s drew heavily on German drafting while retaining French elements, as part of a programme of legal modernization. The Republic of China enacted a civil code in 1929-1930, still the basis of private law in Taiwan; the People's Republic adopted its own Civil Code in 2020. South Korea's code dates from 1958, and Indonesia retained Dutch-derived law.
+
+In Africa, former French, Belgian and Portuguese territories largely kept codified systems, usually alongside customary and religious law. Ethiopia, which had no comparable colonial reception, adopted a Civil Code in 1960 drafted principally by René David. South Africa is generally described as mixed, joining Roman-Dutch civil law with substantial English influence.
 
 ## The Internal Debate over Interpretive Method
 

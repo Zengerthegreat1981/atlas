@@ -16,7 +16,6 @@ related:
 gaps:
   - "Dedicated entry on forgiveness (con-forgiveness): not yet covered"
   - "Dedicated entry on grudge (con-grudge): not yet covered"
-  - "Dedicated entry on Paul Ricoeur (thk-ricœur): not yet covered"
   - "Dedicated entry on Robert Enright (thk-enright): not yet covered"
 ---
 # What Is Forgiveness?

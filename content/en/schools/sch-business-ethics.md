@@ -11,8 +11,7 @@ active_start: 1900
 active_end: "مستمر"
 edges: []
 related: []
-gaps:
-  - "Comprehensive expansion and deepening of content: not yet covered"
+gaps: []
 ---
 
 # Business Ethics
@@ -45,6 +44,12 @@ The field is now expanding its scrutiny of the ethics of economic globalization.
 
 Researchers distinguish three levels of ethical analysis in business. The individual level concerns the conduct of an employee or manager in particular situations. The organizational level concerns company policies and internal culture. The systemic level concerns the fairness of markets and of economic legislation itself. Recurring financial crises, most notably the crisis of 2008, have added fresh momentum to calls for an ethical culture in the financial sector. Such a culture would go beyond formal legal compliance to proactive responsibility for systemic risks that may inflict wide damage on the global economy.
 
+## Normative Frameworks and International Standards
+
+Several frameworks try to join ethical theory to commercial practice. Thomas Donaldson and Thomas Dunfee, in *Ties That Bind* (1999), proposed integrative social contracts theory: very general hypernorms limit the more specific norms that particular business communities may legitimately adopt. Norman Bowie's *Business Ethics: A Kantian Perspective* (1999) applies respect for persons to meaningful work and the firm as a moral community. Amartya Sen's work, including *On Ethics and Economics* (1987), questioned the narrowing of economics to self-interested rationality. Elizabeth Anderson's *Private Government* (2017) examines the authority employers hold over workers.
+
+Skeptics raise a further challenge. Albert Carr's 1968 article asking whether business bluffing is ethical likened business to poker, with its own rules distinct from private morality, a view many writers reject. International instruments now include the OECD Guidelines for Multinational Enterprises (first adopted in 1976), the OECD Anti-Bribery Convention (1997), the United Nations Global Compact (launched in 2000) and the UN Guiding Principles on Business and Human Rights (2011), which distinguish the state duty to protect, the corporate responsibility to respect, and access to remedy.
+
 ## Sources
 
 - al-Ghazali, Abu Hamid. *Ihya' 'Ulum al-Din*. Dar al-Ma'rifa, Beirut, 1982.
@@ -52,3 +57,9 @@ Researchers distinguish three levels of ethical analysis in business. The indivi
 - Friedman, Milton. "The Social Responsibility of Business Is to Increase Its Profits." *The New York Times Magazine*, 13 September 1970.
 - Carroll, Archie B. "The Pyramid of Corporate Social Responsibility." *Business Horizons* 34, no. 4 (1991): 39-48.
 - Solomon, Robert C. *Ethics and Excellence: Cooperation and Integrity in Business*. Oxford University Press, 1992.
+- Carr, Albert Z. "Is Business Bluffing Ethical?" *Harvard Business Review*, 1968.
+- Sen, Amartya. *On Ethics and Economics*. Blackwell, 1987.
+- Donaldson, Thomas, and Thomas W. Dunfee. *Ties That Bind: A Social Contracts Approach to Business Ethics*. Harvard Business School Press, 1999.
+- Bowie, Norman E. *Business Ethics: A Kantian Perspective*. Blackwell, 1999.
+- Anderson, Elizabeth. *Private Government: How Employers Rule Our Lives*. Princeton University Press, 2017.
+- United Nations. *Guiding Principles on Business and Human Rights*, 2011.

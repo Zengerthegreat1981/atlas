@@ -13,8 +13,7 @@ edges:
 related:
   - id: "con-meaning", title: "Meaning", type: "مفهوم"
   - id: "con-ritual", title: "Ritual", type: "مفهوم"
-gaps:
-  - "Digital and virtual symbols: not yet covered"
+gaps: []
 ---
 
 # Symbol: Meaning, Condensation, and Representation
@@ -73,6 +72,12 @@ Poststructuralist approaches (Derrida, Lacan) further complicated symbol theory 
 
 **Contemporary scholars** emphasize that symbols are not handed down but constantly reinvented. **Postcolonial indigenous communities** often deliberately reinvent symbols, strategically deploying them for political purposes—asserting identity, reclaiming colonially suppressed meanings, creating new political projects. This challenges anthropological treatment of "traditional symbols" as static artifacts rather than recognizing symbol-use as creative, strategic practice.
 
+## Digital and Virtual Symbols
+
+Digital media circulate symbols quickly and let users alter them. Limor Shifman, in *Memes in Digital Culture* (2014), described internet memes as groups of related items that share features, are created with awareness of one another, and spread as many users imitate and transform them. Their meaning depends on recognising both the shared template and the variation, which recalls Turner's multivocality in a setting where the audience also produces the symbol. Emoji work similarly: standardised through Unicode but drawn differently by different platforms, they take on meanings that vary with community and context.
+
+Some symbols move between screen and street. The Guy Fawkes mask, popularised by the graphic novel and film *V for Vendetta*, was adopted by participants in Anonymous and later by protesters elsewhere; Gabriella Coleman's ethnography *Hacker, Hoaxer, Whistleblower, Spy* (2014) traces the movement that made it prominent. In virtual worlds, studied by Tom Boellstorff in *Coming of Age in Second Life* (2008), avatars and virtual objects carry social meaning for residents. Material analysis remains relevant, since devices, software, and platform rules constrain which forms can appear and travel.
+
 ## Performative and Social Dimensions
 
 Symbols are fundamentally **performative**—they work through enactment and circulation. A symbol's meaning is not fixed in lexicon but created through how it is performed, invoked, and reinterpreted in specific contexts. This means symbols are sites of social struggle—contests over symbol interpretation are contests over meaning, power, and legitimacy.
@@ -104,3 +109,6 @@ Contemporary symbol studies grapple with: How do symbols function in transnation
 - Peirce, Charles Sanders. *Collected Papers of Charles Sanders Peirce*. Harvard University Press, 1931–1958.
 - Turner, Victor W. *The Forest of Symbols: Aspects of Ndembu Ritual*. Cornell University Press, 1967.
 - Turner, Victor W. *Schism and Continuity in an African Society*. Manchester University Press, 1957.
+- Boellstorff, Tom. *Coming of Age in Second Life: An Anthropologist Explores the Virtually Human*. Princeton University Press, 2008.
+- Coleman, Gabriella. *Hacker, Hoaxer, Whistleblower, Spy: The Many Faces of Anonymous*. Verso, 2014.
+- Shifman, Limor. *Memes in Digital Culture*. MIT Press, 2014.

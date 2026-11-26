@@ -12,8 +12,7 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "Consequentialism and Utilitarianism", target_type: "مدرسة"
 related: []
-gaps:
-  - "Primary sources beyond the listed works: not yet covered"
+gaps: []
 ---
 
 # Agent-Centered Consequentialism
@@ -38,6 +37,10 @@ The trend is objected to on the grounds that it forfeits the logical consistency
 
 Suppose a physician could kill one healthy patient in order to take his organs and save five patients who need organ transplants. Agent-neutral consequentialism holds that saving five is better than saving one. A view with an agent-relative restriction holds that the physician must not be the killer, even if the overall outcome is worse; agent-relative consequentialism tries to capture this by building the agent's own act of killing into the evaluation of outcomes.
 
+## Further Primary Texts
+
+Later work asks whether agent-relative moral views can be restated in consequentialist form, a project often called "consequentializing". James Dreier's "Structures of Normative Theories" (1993) argued that a theory with constraints can be represented as one that tells each agent to maximize a value indexed to that agent. Michael Smith's "Neutral and Relative Value after Moore" (2003) explored how agent-relative values might be understood within such a framework, partly in answer to G. E. Moore's doubts about the idea of something being good only for a particular person. Mark Schroeder's "Teleology, Agent-Relative Value, and 'Good'" (2007) challenged this move, arguing that "good relative to an agent" has no clear sense in ordinary language, so the view cannot borrow the intuitive appeal of the claim that one should bring about the best outcome. Campbell Brown's "Consequentialize This" (2011) examined the limits of the procedure and which theories resist it.
+
 ## Sources
 
 - Scheffler, Samuel. *The Rejection of Consequentialism*. Oxford University Press, 1982.
@@ -47,3 +50,7 @@ Suppose a physician could kill one healthy patient in order to take his organs a
 - Railton, Peter. "Alienation, Consequentialism, and the Demands of Morality." *Philosophy & Public Affairs* 13, 1984.
 - Nagel, Thomas. *The View from Nowhere*. Oxford University Press, 1986.
 - Kagan, Shelly. *The Limits of Morality*. Oxford University Press, 1989.
+- Dreier, James. "Structures of Normative Theories." *The Monist* 76, 1993.
+- Smith, Michael. "Neutral and Relative Value after Moore." *Ethics* 113, 2003.
+- Schroeder, Mark. "Teleology, Agent-Relative Value, and 'Good'." *Ethics* 117, 2007.
+- Brown, Campbell. "Consequentialize This." *Ethics* 121, 2011.

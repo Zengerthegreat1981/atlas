@@ -11,8 +11,7 @@ active_start: 1900
 active_end: "مستمر"
 edges: []
 related: []
-gaps:
-  - "Primary sources: not yet covered"
+gaps: []
 ---
 
 # Prescriptivism
@@ -37,8 +36,19 @@ A well-known objection to prescriptivism is the "problem of the fanatic." A raci
 
 When someone says, "one should not discriminate in hiring on the basis of sex," he is, according to Hare, issuing a general directive that he is committed to applying in every relevantly similar case, including cases in which he is the one affected. He is not merely expressing displeasure at a particular case.
 
+## Further Primary Sources
+
+An earlier suggestion that norms are disguised commands appears in Rudolf Carnap's *Philosophy and Logical Syntax* (1935). Hare began working out the logic of commands in "Imperative Sentences" (1949), and *Freedom and Reason* (1963) developed universalizability into a method of moral argument, including the discussion of the fanatic. His late book *Sorting Out Ethics* (1997) places universal prescriptivism within a classification of ethical theories. The main critical texts include Philippa Foot's "Moral Beliefs" (1958-1959), which argued that not just anything can intelligibly be counted as a moral good, since moral terms have conditions of application tied to human benefit and harm. P. T. Geach's "Assertion" (1965) raised what is often called the Frege-Geach problem: moral sentences occur in unasserted contexts, such as the antecedents of conditionals, where they prescribe nothing, yet they appear to keep the same meaning in valid inferences. John Searle's "How to Derive 'Ought' from 'Is'" (1964) challenged the separation of description from prescription on which the theory relies.
+
 ## Sources
 
 - Hare, R. M. *The Language of Morals*. Oxford University Press, 1952.
 - Hare, R. M. *Moral Thinking: Its Levels, Method, and Point*. Oxford University Press, 1981.
 - al-Amidi, Sayf al-Din. *al-Ihkam fi Usul al-Ahkam*. Edited by Sayyid al-Jumayli. Dar al-Kitab al-ʿArabi, 1984.
+- Carnap, Rudolf. *Philosophy and Logical Syntax*. 1935.
+- Hare, R. M. "Imperative Sentences." *Mind* 58, 1949.
+- Hare, R. M. *Freedom and Reason*. Oxford University Press, 1963.
+- Hare, R. M. *Sorting Out Ethics*. Oxford University Press, 1997.
+- Foot, Philippa. "Moral Beliefs." *Proceedings of the Aristotelian Society* 59, 1958-1959.
+- Searle, John R. "How to Derive 'Ought' from 'Is'." *The Philosophical Review* 73, 1964.
+- Geach, P. T. "Assertion." *The Philosophical Review* 74, 1965.

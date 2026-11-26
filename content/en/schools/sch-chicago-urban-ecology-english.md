@@ -14,8 +14,7 @@ active_start: 1920
 active_end: 1940
 edges: []
 related: []
-gaps:
-- Cross-references to related concepts: not yet covered
+gaps: []
 ---
 # Chicago School Urban Ecology
 
@@ -43,6 +42,10 @@ Louis Wirth, a student of Park who became the school's leading theorist of the c
 
 The ecological tradition was revived in the 1990s and after. Robert Sampson and colleagues, drawing on the Project on Human Development in Chicago Neighborhoods, argued that neighbourhood differences in violence are associated with "collective efficacy", the combination of social cohesion and willingness to intervene for the common good (Sampson, Raudenbush and Earls, *Science*, 1997). Sampson's *Great American City* (2012) extends this to a long-run study of Chicago neighbourhoods.
 
+## Related Concepts and Schools
+
+Several concepts and schools connect directly with urban ecology. Social disorganisation, the weakening of shared rules and of the institutions that enforce them, links Thomas and Znaniecki to Shaw and McKay, and later to the idea of collective efficacy and the sociology of crime. Georg Simmel's formal sociology, and especially his essay on the metropolis and mental life (1903), stands behind Park, who had attended Simmel's lectures in Berlin, and behind Wirth's account of urban impersonality. Symbolic interactionism shares the Chicago habit of first-hand observation and the idea of the definition of the situation, but concentrates on how meaning arises in interaction rather than how populations arrange themselves in space. Segregation, assimilation, and urbanisation are further core concepts: Park's account of a race relations cycle of contact, competition, accommodation, and assimilation was later widely criticised for presenting assimilation as a natural end point. Marxist and political-economy approaches to the city, associated with writers such as David Harvey and Manuel Castells, form the main contrast, explaining urban space through investment, class conflict, and state policy instead of ecological competition.
+
 ## Criticism and Legacy
 
 By the 1940s the Chicago School's dominance was fading. Critics charged that its ecological language was a misleading metaphor: cities are not forests, and competition for land is structured by property markets, racial discrimination and political power, not by natural law. The concentric zone model fitted Chicago better than it fitted older European cities or the sprawling automobile suburbs of the post-war era. Later urban sociologists argued that the school ignored capitalism and the state, treating the spatial order of the city as natural when it was in fact produced by landlords, developers and planners. Yet the school's legacy is lasting. It helped make fieldwork and the case study central to sociology, shaped urban sociology as a field, and left concepts — natural area, invasion and succession, social disorganisation, the definition of the situation — that are still in use. Its insistence that social life must be studied where it happens, in the streets and institutions of a real city, remains a model for ethnographic research, and its maps of Chicago are still taught as a systematic attempt to connect the organisation of space with the organisation of society.
@@ -59,3 +62,6 @@ By the 1940s the Chicago School's dominance was fading. Critics charged that its
 - Thomas, William I., and Dorothy Swaine Thomas. *The Child in America*. 1928.
 - Sampson, Robert J., Stephen W. Raudenbush, and Felton Earls. "Neighborhoods and Violent Crime: A Multilevel Study of Collective Efficacy." *Science*. 1997.
 - Thomas, William I., and Florian Znaniecki. *The Polish Peasant in Europe and America*. 1918–1920.
+- Simmel, Georg. "The Metropolis and Mental Life." 1903.
+- Harvey, David. *Social Justice and the City*. 1973.
+- Castells, Manuel. *The Urban Question*. French original 1972; English edition 1977.

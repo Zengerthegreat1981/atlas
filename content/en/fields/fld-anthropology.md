@@ -8,9 +8,7 @@ title: "Anthropology"
 en: "Anthropology"
 crumb: "Anthropology ← Fields ← Anthropology"
 edges: []
-gaps:
-  - "Biological (physical) anthropology and primatology beyond the biocultural and forensic entries: not yet covered"
-  - "Archaeology as a full subfield: not yet covered"
+gaps: []
 related:
   - id: "fld-ethnography-fieldwork-ethics", title: "Ethnography, Fieldwork and Ethics", type: "مجال"
   - id: "fld-kinship-exchange-economy", title: "Kinship, Exchange and Economy", type: "مجال"
@@ -110,6 +108,16 @@ From the later twentieth century, critiques of representation, colonial entangle
 ## Major themes
 
 Kinship and marriage, exchange and reciprocity, ritual and symbol, political order and its alternatives, religion and witchcraft, gender, language, illness and healing, and the effects of colonialism, development and globalisation recur throughout the literature. The three field introductions linked below gather these themes: ethnography and its ethics, kinship and exchange, and power and politics.
+
+## Biological anthropology and primatology
+
+Biological anthropology studies humans as an evolving and variable species. Its areas include palaeoanthropology, which reconstructs human ancestry from fossils; population genetics and the study of human variation; skeletal biology; and human growth, health and adaptation to environments such as high altitude. Sherwood Washburn's call in 1951 for a "new physical anthropology" urged a shift from measuring and classifying types towards studying evolutionary processes and function. Genetic research later reinforced the critique of races as discrete biological units, since most human genetic variation occurs within rather than between conventionally defined groups, as Richard Lewontin showed in 1972.
+
+Primatology compares humans with other primates in order to study behaviour, social organisation, ecology and cognition. Long-term field studies have been central, including Jane Goodall's research on chimpanzees at Gombe, begun in 1960, which documented tool making and use. Other work has examined how female strategies shape primate societies, as in Sarah Blaffer Hrdy's research on langurs. Such comparisons inform questions about human evolution, but no living primate is a human ancestor, and primatologists also address conservation.
+
+## Archaeology
+
+Archaeology investigates past societies through material remains: artefacts, buildings, human and animal bones, plant traces and landscapes. Survey and excavation record objects in context, because their position and association carry much of the evidence. Stratigraphy gives relative sequence, while methods such as radiocarbon dating, developed by Willard Libby and colleagues in the late 1940s, and tree-ring dating help establish age. Theory has shifted over time. Culture-historical archaeology traced the distribution and succession of cultures; the processual or "New Archaeology" associated with Lewis Binford in the 1960s sought testable explanations of cultural systems, drawing on anthropology; post-processual approaches, associated with Ian Hodder and others from the 1980s, stressed meaning, agency and interpretation. Ethnoarchaeology observes living communities to understand how material traces are formed. Archaeology also raises questions of heritage, looting, the treatment of human remains and the rights of descendant communities, for example under the United States Native American Graves Protection and Repatriation Act of 1990. In North America it is usually taught within anthropology; elsewhere it is often a separate discipline.
 
 ## Debates
 
@@ -222,3 +230,9 @@ Begin with the entries on Boas, Malinowski and Radcliffe-Brown to see how the mo
 - Barnard, Alan. *History and Theory in Anthropology*. Cambridge University Press, 2000.
 - Eriksen, Thomas Hylland, and Finn Sivert Nielsen. *A History of Anthropology*. Pluto Press, 2001.
 - Kuper, Adam. *Anthropology and Anthropologists: The Modern British School*. Routledge and Kegan Paul, 1983.
+- Binford, Lewis R. "Archaeology as Anthropology." *American Antiquity* 28, no. 2. 1962.
+- Goodall, Jane. *The Chimpanzees of Gombe: Patterns of Behavior*. Harvard University Press, 1986.
+- Hodder, Ian. *Reading the Past*. Cambridge University Press, 1986.
+- Hrdy, Sarah Blaffer. *The Langurs of Abu: Female and Male Strategies of Reproduction*. Harvard University Press, 1977.
+- Lewontin, Richard C. "The Apportionment of Human Diversity." *Evolutionary Biology* 6. 1972.
+- Washburn, Sherwood L. "The New Physical Anthropology." *Transactions of the New York Academy of Sciences* 13. 1951.

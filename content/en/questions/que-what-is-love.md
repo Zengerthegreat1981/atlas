@@ -13,9 +13,7 @@ edges: []
 related:
 - id: "thk-fromm", title: "Erich Fromm", type: "مفكر"
 - id: "thk-schopenhauer", title: "Arthur Schopenhauer", type: "مفكر"
-gaps:
-  - "Dedicated entry on love (con-love): not yet covered"
-  - "Dedicated entry on attachment (con-attachment): not yet covered"
+gaps: []
 ---
 # What Is Love?
 

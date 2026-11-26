@@ -11,8 +11,7 @@ active_start: 1900
 active_end: "مستمر"
 edges: []
 related: []
-gaps:
-  - "Primary sources beyond the listed works: not yet covered"
+gaps: []
 ---
 
 # Autonomy and Informed Consent
@@ -33,9 +32,20 @@ Practical problems arise concerning the limits of consent. How is consent obtain
 
 Contemporary Islamic jurisprudential councils have discussed how far a patient's right to refuse treatment extends, even if the refusal leads to their death. Views differ. A common position among contemporary jurists is that a competent adult may decline treatment whose benefit is uncertain or which carries serious risk, while there is more disagreement about refusing treatment that would certainly save life at little harm. This distinguishes between the inviolability of the soul, which must be preserved, and lawful freedom of action. It is a delicate balance between autonomy and the obligation to preserve life, which is one of the overarching objectives of Islamic law.
 
+## Further Primary Sources
+
+Court decisions are among the founding texts of the doctrine. In *Schloendorff v. Society of New York Hospital* (1914), Judge Benjamin Cardozo affirmed the right of an adult of sound mind to determine what shall be done with his own body. *Salgo v. Leland Stanford Jr. University Board of Trustees* (1957) is known for bringing the phrase "informed consent" into American law, and *Canterbury v. Spence* (1972) tied the duty to disclose to what a reasonable patient would need to know. In Britain, *Montgomery v. Lanarkshire Health Board* (2015) adopted a patient-centred standard of material risk. In research ethics, the World Medical Association's Declaration of Helsinki (1964, since revised) sets out consent requirements, and Henry Beecher's article "Ethics and Clinical Research" (1966) exposed studies conducted without adequate consent. Onora O'Neill's *Autonomy and Trust in Bioethics* (2002) criticizes thin, individualistic readings of autonomy and argues that consent procedures should be understood alongside conditions of trust.
+
 ## Sources
 
 - Mill, John Stuart. *On Liberty*. John W. Parker and Son, 1859.
 - Beauchamp, Tom L., and James F. Childress. *Principles of Biomedical Ethics*. Oxford University Press, 1979.
 - Faden, Ruth R., and Tom L. Beauchamp. *A History and Theory of Informed Consent*. Oxford University Press, 1986.
 - National Commission for the Protection of Human Subjects. *The Belmont Report*. 1979.
+- *Schloendorff v. Society of New York Hospital*, 211 N.Y. 125 (1914).
+- *Salgo v. Leland Stanford Jr. University Board of Trustees* (California Court of Appeal, 1957).
+- *Canterbury v. Spence* (U.S. Court of Appeals, District of Columbia Circuit, 1972).
+- *Montgomery v. Lanarkshire Health Board* (UK Supreme Court, 2015).
+- World Medical Association. Declaration of Helsinki. 1964.
+- Beecher, Henry K. "Ethics and Clinical Research." *New England Journal of Medicine* 274, 1966.
+- O'Neill, Onora. *Autonomy and Trust in Bioethics*. Cambridge University Press, 2002.

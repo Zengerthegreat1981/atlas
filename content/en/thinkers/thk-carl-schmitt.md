@@ -16,8 +16,7 @@ active_end: 1970
 edges: []
 related:
 - id: "thk-hans-kelsen", title: "Hans Kelsen", type: "مفكر"
-gaps:
-  - "A separate entry on the Schmitt-Kelsen dispute over the guardian of the constitution: not yet covered (summarized in the body)."
+gaps: []
 ---
 # Carl Schmitt
 

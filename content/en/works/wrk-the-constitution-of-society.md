@@ -12,8 +12,7 @@ active_start: 1984
 active_end: مستمر
 edges: []
 related: []
-gaps:
-- Detailed empirical case studies: not yet covered
+gaps: []
 ---
 
 # The Constitution of Society
@@ -36,6 +35,10 @@ A second key idea is that human beings are knowledgeable agents. People know a g
 
 The book is organised as a systematic treatise rather than an empirical study. Its opening chapters develop the theory of structuration — action, rules, resources, power, time and space — and its later chapters apply the framework to institutions, social reproduction and historical change. The method is conceptual and synthetic: Giddens draws on Marx, Durkheim and Weber, on Wittgenstein and Heidegger, on ethnomethodology and psychoanalysis, reworking each tradition into a single framework. The book contains no case studies of its own; its evidence is the accumulated findings of sociology, anthropology and history, reinterpreted through the lens of structuration.
 
+## Empirical Case Studies
+
+Giddens argued that structuration theory could illuminate research without dictating its methods, and he discussed existing studies to show this. A prominent example is Paul Willis's *Learning to Labour* (1977), an ethnography of working-class boys in an English town who rejected the school's values. Giddens read it as showing knowledgeable agents whose counter-school culture, through consequences they did not intend, led them into manual jobs and so helped to reproduce the constraints on them. A later and widely cited application is Stephen Barley's study of the introduction of CT scanners in the radiology departments of two American hospitals, published in 1986. Barley observed that similar machines were followed by different patterns of interaction between radiologists and technologists, partly because of differences in prior experience and established routines. In both departments roles changed, but not to the same degree. The technology was therefore an occasion for structuring and did not determine a single organisational outcome. Barley's comparison over time also addresses the difficulty of tracing the duality of structure empirically.
+
 ## Reception and Influence
 
 *The Constitution of Society* became one of the most widely cited works of social theory of its generation. It shaped sociology's understanding of agency, power and institutions, and it travelled far beyond sociology — into geography, where it influenced the study of place and spatial relations; into organisation studies and information systems, where it framed the study of technology in use; and into political science and international relations, where it informed constructivist accounts of norms and institutions. Giddens himself developed the framework in his later work on modernity, notably *The Consequences of Modernity* (1990) and *Modernity and Self-Identity* (1991), which extended his analysis to globalisation, risk and the reflexive self.
@@ -53,3 +56,5 @@ Critics have argued that structuration theory is stronger as a vocabulary than a
 - David Held and John B. Thompson, eds., *Social Theory of Modern Societies: Anthony Giddens and His Critics* (1989).
 - Rob Stones, *Structuration Theory* (2005).
 - Margaret S. Archer, *Realist Social Theory: The Morphogenetic Approach* (1995).
+- Paul Willis, *Learning to Labour: How Working Class Kids Get Working Class Jobs* (1977).
+- Stephen R. Barley, "Technology as an Occasion for Structuring: Evidence from Observations of CT Scanners and the Social Order of Radiology Departments," *Administrative Science Quarterly* (1986).

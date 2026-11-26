@@ -12,8 +12,7 @@ active_start: 1900
 active_end: مستمر
 edges: []
 related: []
-gaps:
-- Empirical examples: not yet covered
+gaps: []
 sociological_tradition: other
 sociological_paradigm: micro-macro
 ---
@@ -35,6 +34,10 @@ Verstehen sociology has been criticised from several directions. Positivists arg
 
 Another debate concerns the limits of understanding. Can the sociologist truly understand actors whose worlds are radically different — other cultures, other eras, other classes — or does interpretation always project the interpreter's own categories? Clifford Geertz, in *The Interpretation of Cultures* (1973), answered that understanding is always partial and mediated, a matter of reading social life as a text whose meanings must be rendered in "thick description," attentive to the layers of significance an act carries for those who perform it. The tradition has also been charged with neglecting power: meanings are not freely chosen but shaped by domination, and an interpretive sociology must ask whose meanings count.
 
+## Empirical Examples
+
+Weber's own *The Protestant Ethic and the Spirit of Capitalism* (1904–1905) is the classic demonstration. To explain an affinity between ascetic Protestantism and a methodical approach to work and accumulation, he reconstructed what doctrines such as predestination could mean to believers: anxiety about salvation encouraged disciplined conduct in a calling as a sign of being among the elect. The historical thesis remains disputed, but the procedure shows how an account of meaning enters a causal argument. Paul Willis, in *Learning to Labour* (1977), followed a group of working-class boys in an English town from school into work. Observation and group discussion showed that their rejection of schooling made sense within a counter-culture valuing manual toughness and solidarity, a response that also led them into the very jobs that limited their futures. Saba Mahmood, in *Politics of Piety* (2005), studied women in a mosque movement in Cairo and argued that practices of modesty and prayer were understood by participants as ways of cultivating a pious self, which could not be adequately read simply as submission or resistance. Arlie Hochschild, in *Strangers in Their Own Land* (2016), reconstructed the underlying narrative through which conservative residents of Louisiana felt that others were being allowed to jump the queue ahead of them.
+
 ## Contemporary Relevance
 
 Verstehen sociology underpins much of contemporary qualitative research: ethnography, in-depth interviewing, and the study of everyday interaction all rest on its premise that social life must be understood from the actor's point of view. It frames research on religion, identity, migration, and political belief, where the question is not only what people do but what it means to them. It also informs the critique of purely quantitative and algorithmic approaches to social life, which can map patterns at scale while missing the meanings that make those patterns intelligible. In an age of big data, its central claim remains a necessary corrective: a sociology that cannot understand meaning cannot explain action. This matters beyond the academy. Policymakers who treat unemployment, vaccine hesitancy, or protest as mere numbers will misunderstand the conduct they hope to influence, because people act on the meanings situations hold for them — on dignity, fairness, and belonging — and any intervention that ignores those meanings is likely to fail or to backfire.
@@ -47,3 +50,7 @@ Verstehen sociology underpins much of contemporary qualitative research: ethnogr
 - Alfred Schutz, *The Phenomenology of the Social World* (German 1932; English 1967).
 - Peter Winch, *The Idea of a Social Science and Its Relation to Philosophy*, 1958.
 - Clifford Geertz, *The Interpretation of Cultures*, 1973.
+- Max Weber, *The Protestant Ethic and the Spirit of Capitalism*, 1904–1905.
+- Paul Willis, *Learning to Labour: How Working Class Kids Get Working Class Jobs*, 1977.
+- Saba Mahmood, *Politics of Piety: The Islamic Revival and the Feminist Subject*, 2005.
+- Arlie Russell Hochschild, *Strangers in Their Own Land: Anger and Mourning on the American Right*, 2016.

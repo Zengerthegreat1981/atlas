@@ -12,8 +12,7 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "Deontological Ethics (Kant)", target_type: "مدرسة"
 related: []
-gaps:
-  - "Comprehensive expansion of primary sources: not yet covered"
+gaps: []
 ---
 
 # Universalizability
@@ -38,7 +37,20 @@ The rule "take what does not belong to you whenever you can escape punishment" f
 
 Kant's universalizability test is often compared with the "Golden Rule" shared by many religions and cultures ("treat people as you would like them to treat you"). Kant, however, in a footnote to the *Groundwork*, rejected the Golden Rule as a universal law, since it makes duty depend on the agent's own inclinations. He observed, for example, that on its basis a convicted criminal could argue against the judge who sentences him. The universalizability test, by contrast, is meant to rest on the consistency of rational willing independent of individual desire, and it therefore stands, in Kant's view, as a more objective criterion.
 
+## Further Primary Texts
+
+Kant returns to the idea in the *Critique of Practical Reason* (1788), which states the fundamental law of pure practical reason as acting so that the maxim of one's will could always hold as a principle of universal legislation. *The Metaphysics of Morals* (1797) applies a related universal principle to right, concerning the coexistence of each person's freedom with that of everyone else, and in its doctrine of virtue treats ends that are also duties.
+
+In twentieth-century metaethics, R. M. Hare made universalizability a logical feature of moral judgments: whoever says that someone ought to act in a certain way is committed to the same judgment about any relevantly similar case. *Freedom and Reason* (1963) develops the point, and *Moral Thinking* (1981) uses it to argue for a form of utilitarianism. Marcus Singer's *Generalization in Ethics* (1961) examined the argument that asks what would happen if everyone did the same. Onora O'Neill, writing as Onora Nell in *Acting on Principle* (1975), reconstructed Kant's test as a method applied to the agent's maxim, and Christine Korsgaard's essay on the formula of universal law (1985) compared rival readings of the contradiction involved, favouring a practical one.
+
 ## Sources
 
 - Kant, Immanuel. *Groundwork of the Metaphysics of Morals*. Translated and edited by Mary Gregor. Cambridge University Press, 1998 (original 1785).
 - Hegel, G. W. F. *Elements of the Philosophy of Right*. 1821. Edited by Allen W. Wood, translated by H. B. Nisbet. Cambridge University Press, 1991.
+- Kant, Immanuel. *Critique of Practical Reason* (1788).
+- Kant, Immanuel. *The Metaphysics of Morals* (1797).
+- Singer, Marcus G. *Generalization in Ethics*. Knopf, 1961.
+- Hare, R. M. *Freedom and Reason*. Oxford University Press, 1963.
+- Hare, R. M. *Moral Thinking*. Oxford University Press, 1981.
+- Nell, Onora. *Acting on Principle*. Columbia University Press, 1975.
+- Korsgaard, Christine M. "Kant's Formula of Universal Law." *Pacific Philosophical Quarterly*, 1985.

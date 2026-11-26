@@ -12,8 +12,7 @@ active_start: 1940
 active_end: 2015
 edges: []
 related: []
-gaps:
-- Cross-references to related concepts: not yet covered
+gaps: []
 sociological_tradition: other
 sociological_paradigm: micro-macro
 ---
@@ -49,6 +48,10 @@ Mernissi was born in Fez, Morocco, and grew up in a household shaped by the urba
 
 She worked with interviews, field studies and close textual analysis of historical religious sources, and often wrote in an accessible style intended for a broad readership.
 
+## Related Concepts
+
+Mernissi's work connects with several wider concepts. Her analysis of sexual segregation is closely tied to patriarchy and to the distinction between public and private space, since *Beyond the Veil* treats the control of boundaries as a way of ordering relations between women and men. Her historical reading of religious traditions belongs to Islamic feminism, which argues for women's rights through renewed engagement with sacred texts and early history, although her work also draws on secular social science. The critique of Western images of the harem in *Scheherazade Goes West* links to Orientalism, the concept Edward Said used for Western representations of the East that serve relations of power. Her studies of women rulers raise the concepts of political legitimacy and authority, while *Islam and Democracy* engages with modernity, secularism, citizenship and the state. Her attention to education, paid work and urban change in Morocco also relates to social change and the gendered division of labour. These links are points of comparison and do not imply that she adopted every term.
+
 ## Influence and Criticism
 
 Mernissi is a key figure in Islamic and Arab feminism and in debates about the veil and women's rights. Critics have questioned her reading of the sources and her historical claims, and some Western uses of her work have been called simplifying. Others see her critique of Orientalist stereotypes, notably in *Scheherazade Goes West*, as a corrective to Western images of Muslim women.
@@ -59,3 +62,4 @@ Mernissi is a key figure in Islamic and Arab feminism and in debates about the v
 - Mernissi, Fatima. *The Veil and the Male Elite: A Feminist Interpretation of Women's Rights in Islam* (1991; French original 1987).
 - Mernissi, Fatima. *Dreams of Trespass* (1994).
 - Mernissi, Fatima. *Islam and Democracy* (1992).
+- Said, Edward W. *Orientalism* (1978).

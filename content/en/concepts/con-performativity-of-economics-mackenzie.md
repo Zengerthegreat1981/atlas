@@ -15,8 +15,7 @@ edges:
 - rel: "belongs_to", target: "New Institutionalism in Organizational Sociology", target_type: "مدرسة"
 related:
 - id: "sch-new-institutionalism-organizational", title: "New Institutionalism in Organizational Sociology", type: "مدرسة"
-gaps:
-  - "Other applied cases of economic performativity beyond the financial options market (such as carbon markets): not yet covered"
+gaps: []
 ---
 
 # The Performativity of Economics in MacKenzie
@@ -35,6 +34,10 @@ MacKenzie later distinguished between varying degrees of the phenomenon of perfo
 
 This thesis made a major contribution to the field of the "social studies of finance." It offered a deeply influential theoretical framework that changed the sociological understanding of the relation between economic theory and actual economic reality, from a neutral external descriptive relation to an active constitutive-productive one. The thesis also influenced later research on the performativity of economic knowledge in other markets, such as carbon markets.
 
+## Other Applied Cases
+
+The approach has been applied well beyond options. Marie-France Garcia-Parpet's study of a computerised strawberry auction at Fontaines-en-Sologne, in France, first published in 1986, showed how an adviser versed in economic theory helped design a market whose rules and physical setting brought actual trading closer to the textbook model of competition; it is reprinted in English in *Do Economists Make Markets?* Francesco Guala examined the spectrum auctions run by the United States Federal Communications Commission in the 1990s, where game theorists worked with experimental economists and others to build and test an institution under which bidders would behave in the intended way. In carbon markets, MacKenzie studied how different greenhouse gases are made exchangeable through conventions that express them as equivalents of carbon dioxide, and how accounting rules shape what is traded. These cases show economic knowledge entering the design of markets, though how far theory itself, as opposed to law, politics and practical adjustment, explains the outcome remains debated.
+
 ## Sources
 
 - Callon, Michel, editor. *The Laws of the Markets*. Blackwell, 1998.
@@ -42,3 +45,6 @@ This thesis made a major contribution to the field of the "social studies of fin
 - MacKenzie, Donald, and Yuval Millo. "Constructing a Market, Performing Theory: The Historical Sociology of a Financial Derivatives Exchange." *American Journal of Sociology* 109, no. 1 (2003): 107–145.
 - MacKenzie, Donald, Fabian Muniesa, and Lucia Siu, editors. *Do Economists Make Markets? On the Performativity of Economics*. Princeton University Press, 2007.
 - MacKenzie, Donald. *Material Markets: How Economic Agents Are Constructed*. Oxford University Press, 2009.
+- Garcia-Parpet, Marie-France. "The Social Construction of a Perfect Market: The Strawberry Auction at Fontaines-en-Sologne." In MacKenzie, Muniesa and Siu, eds., *Do Economists Make Markets?*, 2007.
+- Guala, Francesco. "Building Economic Machines: The FCC Auctions." *Studies in History and Philosophy of Science*, 2001.
+- MacKenzie, Donald. "Making Things the Same: Gases, Emission Rights and the Politics of Carbon Markets." *Accounting, Organizations and Society*, 2009.

@@ -18,7 +18,6 @@ related:
 - id: "thk-mustafa-al-zarqa", title: "Mustafa Ahmad al-Zarqa", type: "مفكر"
 gaps:
   - "The number of the 'five major maxims' generally agreed upon, and their detailed exceptions within each school, vary across the different books of maxims; a full comparative survey: not yet covered."
-  - "The precise distinction between legal maxims (qawa'id) and narrower controls (dawabit), the latter limited to a single chapter of law: not yet covered in depth."
 ---
 # Qawa'id Fiqhiyya (Islamic Legal Maxims)
 
@@ -31,6 +30,14 @@ The seeds of this field appeared early among Hanafi jurists (such as al-Karkhi i
 ## The Major Maxims
 
 Most writers in this field agree on a set of "major maxims" (al-qawa'id al-kubra) under which numerous subsidiary maxims fall. The best known include: "Actions are judged by their intentions" (the consideration of intention in qualifying transactions); "Certainty is not removed by doubt" (the basis of istishab, the presumption of continuity); "Hardship brings facilitation" (the basis of concessions in cases of necessity and need); "Harm must be removed" (the basis of removing harm and preventing its occurrence); and "Custom is authoritative" (the consideration of custom as governing the interpretation of words and transactions).
+
+## Maxims and Controls
+
+Later writers distinguish the **maxim** (*qa'ida*) from the **control** (*dabit*, plural *dawabit*) chiefly by reach. A maxim gathers subsidiary cases drawn from several chapters of the law; a control organizes cases within a single chapter. Ibn Nujaym states the distinction in this form in his *al-Ashbah wa al-Naza'ir*, and Taj al-Din al-Subki, in his work of the same title, likewise separates the general maxim from the narrower rule confined to one subject.
+
+Thus the principle that certainty is not removed by doubt operates in ritual purity, worship, family law and transactions alike, and counts as a maxim. By contrast, the rule, based on a Prophetic report, that tanning purifies a hide belongs to the law of purity alone and serves as a control, although the schools disagree about which hides it covers. A control is often tied to the doctrine of a particular school, and may state a condition or classification as much as an underlying legal rationale.
+
+The boundary was not observed uniformly. Several authors used the two terms interchangeably or included narrow controls in collections of maxims, so the classification of a given formula can depend on the writer.
 
 ## Practical and Theoretical Value
 
@@ -46,3 +53,5 @@ Some scholars argue that the qawa'id fiqhiyya represent, alongside usul al-fiqh,
 - al-Zarqa, Ahmad ibn Muhammad. *Sharh al-Qawa'id al-Fiqhiyya*. Edited by Mustafa Ahmad al-Zarqa. Damascus: Dar al-Qalam, 1989.
 - al-Suyuti, Jalal al-Din. *al-Ashbah wa al-Naza'ir*.
 - Kamali, Mohammad Hashim. *Principles of Islamic Jurisprudence*. Cambridge: Islamic Texts Society, 1991.
+- Ibn Nujaym, Zayn al-Din. *al-Ashbah wa al-Naza'ir*.
+- al-Subki, Taj al-Din. *al-Ashbah wa al-Naza'ir*.

@@ -12,8 +12,7 @@ active_start: 1900
 active_end: مستمر
 edges: []
 related: []
-gaps:
-- Cross-school comparisons: not yet covered
+gaps: []
 sociological_tradition: other
 sociological_paradigm: micro-macro
 ---
@@ -39,6 +38,10 @@ Critics have also noted that early sociometry focused on small, bounded groups �
 
 Sociometric analysis is more relevant than ever. Its methods underpin the study of friendship and peer influence in schools, of collaboration and advice networks in organisations, and of the spread of information, behaviour, and disease through populations. Digital platforms generate sociometric data at unprecedented scale, from social media connections to email traffic, and the same measures — centrality, clustering, brokerage — are used to analyse online communities, to identify influential actors, and to understand how misinformation travels. The method's founding insight survives intact: social life is structured by relationships, and those relationships can be measured, mapped, and used to explain what groups do. It also carries a practical lesson for anyone who manages a group. A classroom, a team, or a community has an informal structure that no formal chart captures, and interventions that ignore it — seating plans, team assignments, leadership appointments — often fail for reasons that a sociogram would have made visible. Sociometric analysis remains, in this sense, both a research method and a diagnostic tool: a way of seeing the group as its members actually experience it, rather than as its official description claims it to be.
 
+## Comparisons across Schools
+
+Related traditions put sociometric choice to different uses. Moreno's own programme was therapeutic and reforming: choices were to be used to regroup people so that their living and working arrangements matched their preferences, an aim developed in Helen Hall Jennings's research on leadership and isolation (1943). Group dynamics researchers in the line of Kurt Lewin studied cohesion and leadership partly through experiment. Developmental psychologists classify children as, for example, popular, rejected, neglected or controversial from peer nominations, as in work by John Coie, Kenneth Dodge and Heide Coppotelli (1982). Structural network analysts shifted attention from individual preference to positions and patterns, including blockmodels that group actors with similar relations. Interpretive researchers ask what a named choice means to the person making it, since friendship or respect may be understood differently across settings. The schools thus differ over whether the sociogram is mainly a tool for intervention, a measure of individual standing or evidence of social structure.
+
 ## Sources
 
 - Jacob L. Moreno, *Who Shall Survive? A New Approach to the Problem of Human Interrelations*, 1934.
@@ -46,3 +49,6 @@ Sociometric analysis is more relevant than ever. Its methods underpin the study 
 - John Scott, *Social Network Analysis: A Handbook*, 1991.
 - Ronald S. Burt, *Structural Holes: The Social Structure of Competition*, 1992.
 - Stanley Wasserman and Katherine Faust, *Social Network Analysis: Methods and Applications*, 1994.
+- Helen Hall Jennings, *Leadership and Isolation*, 1943.
+- John D. Coie, Kenneth A. Dodge, and Heide Coppotelli, "Dimensions and Types of Social Status: A Cross-Age Perspective," *Developmental Psychology*, 1982.
+- Harrison C. White, Scott A. Boorman, and Ronald L. Breiger, "Social Structure from Multiple Networks," *American Journal of Sociology*, 1976.

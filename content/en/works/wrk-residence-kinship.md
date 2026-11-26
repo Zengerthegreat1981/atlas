@@ -12,8 +12,7 @@ edges:
   - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
 related:
   []
-gaps:
-  - "Goodenough's componential analysis of kinship terminology: not yet covered in detail"
+gaps: []
 ---
 
 # Residence Rules
@@ -32,6 +31,12 @@ When a couple marries, where do they set up house? Possible answers include with
 
 In the same year Goodenough published "Componential Analysis and the Study of Meaning" (*Language* 32, 1956), which applied the methods of structural linguistics to the study of kinship terms, treating a term as defined by a set of components such as generation, sex and lineality. He developed this approach further in *Description and Comparison in Cultural Anthropology* (1970). Together these works are associated with the "new ethnography" or cognitive anthropology of the 1950s and 1960s, which sought to describe a culture in terms of the categories its members use.
 
+## Componential Analysis of Kinship Terms
+
+Componential analysis starts from the set of people to whom a term may correctly be applied (its denotata, usually recorded as genealogical positions) and asks what features all of them share that separate them from the people covered by other terms. The analyst looks for a small number of contrasting dimensions, such as sex of the relative, generation, lineal as against collateral connection, sex of the speaker, or relative age, so that each term can be defined by a distinct bundle of values. In English, for example, "uncle" and "aunt" differ only in the sex of the relative, while "uncle" and "father" differ in lineality. Goodenough illustrated the procedure with Trukese material, and in 1965 applied it to American usage in "Yankee Kinship Terminology: A Problem in Componential Analysis". Floyd Lounsbury's analysis of Pawnee kinship, published in 1956 in the same volume of *Language*, developed a closely related method.
+
+The approach raised a question of validity. Anthony Wallace and John Atkins (1960) noted that more than one analysis can fit the same terms and distinguished formal adequacy from psychological reality; Robbins Burling (1964) asked whether such analyses discover the speakers' categories or only construct one workable solution among many.
+
 ## Reception and Critique
 
 Goodenough's terms and distinctions entered the standard vocabulary of kinship studies. His formal approach was criticized by David Schneider, who argued that analyses of kinship terminology tend to treat the anthropologist's categories as the people's own and that kinship should be studied as a system of cultural symbols (as in Schneider's *American Kinship: A Cultural Account*, 1968). Later scholars have also noted that residence in practice is often negotiated rather than rule-bound.
@@ -45,3 +50,7 @@ Goodenough's terms and distinctions entered the standard vocabulary of kinship s
 - Murdock, George Peter. *Social Structure*. Macmillan, 1949.
 - Schneider, David M. *American Kinship: A Cultural Account*. Prentice-Hall, 1968.
 - Needham, Rodney, ed. *Rethinking Kinship and Marriage*. Tavistock Publications, 1971.
+- Goodenough, Ward H. "Yankee Kinship Terminology: A Problem in Componential Analysis." *American Anthropologist* 67, no. 5 (1965).
+- Lounsbury, Floyd G. "A Semantic Analysis of the Pawnee Kinship Usage." *Language* 32, no. 1 (1956).
+- Wallace, Anthony F. C., and John Atkins. "The Meaning of Kinship Terms." *American Anthropologist* 62, no. 1 (1960).
+- Burling, Robbins. "Cognition and Componential Analysis: God's Truth or Hocus-Pocus?" *American Anthropologist* 66, no. 1 (1964).

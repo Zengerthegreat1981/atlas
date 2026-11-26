@@ -17,8 +17,7 @@ related:
 - id: "sch-ritual-theory-religious-studies", title: "Theories of Ritual in Comparative Religion: From Robertson Smith to Hubert and Mauss", type: "مدرسة"
 - id: "thk-william-robertson-smith", title: "William Robertson Smith", type: "مفكر"
 - id: "thk-marcel-mauss", title: "Marcel Mauss", type: "مفكر"
-gaps:
-  - "Biography of Henri Hubert as an independent figure: not yet covered"
+gaps: []
 ---
 
 # Hubert & Mauss's Theory of Sacrifice
@@ -27,7 +26,11 @@ A sociological-structural model for explaining religious sacrifice, developed by
 
 ## The Procedural Mechanism: Passage through an Intermediary
 
-Hubert and Mauss propose that sacrifice is a procedural mechanism that connects the realms of the sacred and the profane through an **intermediary** (the sacrificial victim), which absorbs the danger of contact with the sacred instead of the "sacrifier" (the person or group for whom the sacrifice is performed and who receives its benefits). The victim is first consecrated (passing from the state of impurity to sanctity), then destroyed or consumed (so that the quality of sanctity is transferred or emptied through it), and the community then returns, or enters its new state, without touching the sacred directly in a dangerous manner. This stage-by-stage procedural analysis (entry, transformation, exit) shares a structural kinship with Arnold van Gennep's model of rites of passage (*Les rites de passage*, 1909), with its phases of separation, transition and incorporation, although Hubert and Mauss developed their model independently of it and focused on a single rite.
+Hubert and Mauss propose that sacrifice is a procedural mechanism that connects the realms of the sacred and the profane through an **intermediary** (the sacrificial victim), which absorbs the danger of contact with the sacred instead of the "sacrifier" (the person or group for whom the sacrifice is performed and who receives its benefits). The victim is first consecrated (passing from the profane to the sacred), then destroyed or consumed (so that the quality of sanctity is transferred or emptied through it), and the community then returns, or enters its new state, without touching the sacred directly in a dangerous manner. This stage-by-stage procedural analysis (entry, transformation, exit) shares a structural kinship with Arnold van Gennep's model of rites of passage (*Les rites de passage*, 1909), with its phases of separation, transition and incorporation, although Hubert and Mauss developed their model independently of it and focused on a single rite.
+
+## Henri Hubert
+
+Henri Hubert (1872–1927) was a historian, archaeologist and sociologist of religion in his own right. Born in Paris, he studied at the École normale supérieure, qualified in history, and pursued oriental and religious studies at the École pratique des hautes études, entering the circle around Durkheim and becoming a close collaborator of Mauss on *L'Année Sociologique*. From 1898 he worked at the museum of national antiquities at Saint-Germain-en-Laye, where he applied wide archaeological knowledge to the organization of its collections, and he later taught at the École pratique des hautes études, on the early religions of Europe, and at the École du Louvre. With Mauss he also wrote the *Outline of a General Theory of Magic* (1902–1903, published in *L'Année Sociologique* in 1904). On his own he wrote an influential study of how time is represented in religion and magic (1905), which treats sacred time as qualitative, structured by festivals and critical dates, and unlike uniform measured time. His major work on the Celts appeared posthumously in 1932. His archaeological and historical learning is often overshadowed by his partner's later fame.
 
 ## Methodological Impact
 

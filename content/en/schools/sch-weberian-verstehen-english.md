@@ -14,9 +14,7 @@ active_start: 1905
 active_end: 1920
 edges: []
 related: []
-gaps:
-- Detailed case studies: not yet covered
-- Contemporary empirical examples: not yet covered
+gaps: []
 ---
 # Weberian Interpretive Sociology
 
@@ -33,6 +31,14 @@ The school's method rests on three linked ideas. First, *Verstehen*: the sociolo
 ## Method and Key Works
 
 Weber's method pairs interpretive adequacy with causal adequacy: an explanation is satisfactory only when it makes the action understandable on the level of meaning and when the claimed causal sequence holds up in comparative evidence. His essay "The 'Objectivity' of Knowledge in Social Science and Social Policy" (1904) set out this programme and defended value-freedom: the scholar's values may guide the choice of topic but must not determine the findings. *The Protestant Ethic and the Spirit of Capitalism* (1904–1905) is the classic demonstration, tracing an elective affinity between religious ideas and economic conduct without claiming religion caused capitalism. The comparative studies of world religions followed: *The Religion of China* (1915–1916), *The Religion of India* (1916–1917), and *Ancient Judaism* (1917–1919), first published as essays in the *Archiv*. *Economy and Society* (1922) gathers the systematic definitions of action, domination, law, the city, and religion.
+
+## Case Studies
+
+Weber's work on rural labour east of the Elbe, written in 1892 for a survey by the Verein für Socialpolitik, shows an early attention to meaning alongside material conditions. He found that German labourers were leaving the great estates while Polish seasonal workers replaced them, and argued that the movement could not be explained by income alone: many sought freedom from patriarchal dependence, even at economic risk. *The Religion of China* offers a comparative case. Weber examined money, cities, officialdom, kinship, and law, then contrasted the Confucian ethic of adjustment to the world, cultivated by a literati stratum, with the Puritan demand to master it in obedience to a transcendent God. Religion was one factor among institutional conditions in his account of why a particular form of rational capitalism did not arise there. His essay on Protestant sects in North America adds a third case: admission to a strict sect after scrutiny of conduct could certify a person's honesty and so assist credit and business. Later historians have challenged parts of the China analysis and its dependence on translated sources.
+
+## Contemporary Empirical Examples
+
+Economists and historical sociologists continue to examine Weber's questions. Sascha Becker and Ludger Woessmann (2009), analysing nineteenth-century Prussian counties, argued that the economic advantage of Protestant areas could be explained largely by higher literacy, associated with the Protestant encouragement of Bible reading, rather than chiefly by a distinct work ethic. Davide Cantoni (2015), comparing the population growth of German cities over several centuries, found no detectable effect of Protestantism on this measure of economic development. Philip Gorski's *The Disciplinary Revolution* (2003) redirected attention to politics, arguing that Calvinist church and social discipline helped strengthen state capacity in cases including the Netherlands and Prussia. These studies test or extend particular causal links with differing evidence and outcomes. Statistical associations also cannot by themselves reconstruct what believers meant by their conduct, which Weber required alongside causal adequacy, and Weber's thesis concerned the spirit of capitalism rather than simply the later income or growth of Protestant places.
 
 ## Influence and Legacy
 
@@ -56,3 +62,7 @@ Weberian interpretive sociology is best understood through its contrasts. It opp
 - Weber, Max. *Economy and Society*. Edited by Marianne Weber. Tübingen: J. C. B. Mohr, 1922.
 - Schutz, Alfred. *The Phenomenology of the Social World*. Vienna: Julius Springer, 1932.
 - Parsons, Talcott. *The Structure of Social Action*. New York: McGraw-Hill, 1937.
+- Becker, Sascha O., and Ludger Woessmann. "Was Weber Wrong? A Human Capital Theory of Protestant Economic History." *Quarterly Journal of Economics*, 2009.
+- Cantoni, Davide. "The Economic Effects of the Protestant Reformation: Testing the Weber Hypothesis in the German Lands." *Journal of the European Economic Association*, 2015.
+- Gorski, Philip S. *The Disciplinary Revolution: Calvinism and the Rise of the State in Early Modern Europe*. Chicago: University of Chicago Press, 2003.
+- Weber, Max. "The Protestant Sects and the Spirit of Capitalism." In *From Max Weber*, edited by H. H. Gerth and C. Wright Mills. 1946.

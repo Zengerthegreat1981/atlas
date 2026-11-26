@@ -17,8 +17,7 @@ sources:
   - Firth, Raymond. We, the Tikopia: A Sociological Study of Kinship in Primitive Polynesia. Allen and Unwin, 1936.
   - Sahlins, Marshall D. Social Stratification in Polynesia. University of Washington Press, 1958.
   - Pukui, Mary Kawena, E. W. Haertig, and Catherine A. Lee. Nana i ke Kumu (Look to the Source). Hui Hanai, 1972.
-gaps:
-  - "Hawaiian perspectives on kinship in contemporary scholarship: not yet covered"
+gaps: []
 ---
 
 # Hawaiian Kinship Systems
@@ -39,6 +38,12 @@ Polynesian societies are often described as having cognatic (non-unilineal) desc
 
 In Hawaiian usage the *ʻohana* is the extended family, including relatives by birth, marriage and adoption. The practice of *hānai*, in which a child is raised by someone other than the birth parents (often grandparents or other relatives), is a well-known feature of Hawaiian family life, discussed in the work of Mary Kawena Pukui and colleagues in *Nānā i ke Kumu* (1972). Hawaiian-language and community-based scholarship stresses that kinship is expressed through care, obligation and shared genealogy as well as through terminology.
 
+## Hawaiian Scholarship on Genealogy and Relatedness
+
+Native Hawaiian (Kanaka Maoli) scholars have treated genealogy (*moʻokūʻauhau*) as a way of organising knowledge, authority, and responsibility, not only a classification of relatives. Lilikalā Kameʻeleihiwa's *Native Land and Foreign Desires* (1992) began from the tradition of Hāloa, in which the taro plant is the elder sibling of the ancestor of the Hawaiian people. The relationship links people and land through reciprocal duties: the elder sibling feeds the younger, who must care for the elder. She used this framework to interpret relations between chiefs and people and the nineteenth-century land division known as the Māhele.
+
+J. Kēhaulani Kauanui's *Hawaiian Blood* (2008) examined the fifty-percent blood quantum rule introduced for land leasing under the Hawaiian Homes Commission Act of 1921. She contrasted this fractional measure with Hawaiian genealogical reckoning, which is inclusive, can trace connection through multiple lines, and relates people to ancestors, places, and one another. Her analysis shows that definitions of kinship carry consequences for land, identity, and sovereignty. These works speak from particular positions and debates; they should not be taken to represent a single Hawaiian view.
+
 ## Critique and Contemporary Perspectives
 
 The idea that terminology reveals the logic of a kinship system has been criticized since the mid-twentieth century. Critics point out that terms are used in many contexts and may reflect practice poorly. Colonial transformations, including missionization, depopulation, land tenure reform and the overthrow of the Hawaiian Kingdom in 1893, also changed Hawaiian family and land relations, so that sources from different periods describe different conditions. Contemporary Hawaiian scholars and practitioners emphasize their own genealogical and cultural knowledge in discussing kinship.
@@ -49,3 +54,5 @@ The idea that terminology reveals the logic of a kinship system has been critici
 - Firth, Raymond. *We, the Tikopia*. Allen and Unwin, 1936.
 - Sahlins, Marshall D. *Social Stratification in Polynesia*. University of Washington Press, 1958.
 - Pukui, Mary Kawena, E. W. Haertig, and Catherine A. Lee. *Nānā i ke Kumu (Look to the Source)*. Hui Hānai, 1972.
+- Kameʻeleihiwa, Lilikalā. *Native Land and Foreign Desires: Pehea Lā E Pono Ai?* Bishop Museum Press, 1992.
+- Kauanui, J. Kēhaulani. *Hawaiian Blood: Colonialism and the Politics of Sovereignty and Indigeneity*. Duke University Press, 2008.

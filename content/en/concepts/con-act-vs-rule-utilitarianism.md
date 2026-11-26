@@ -12,8 +12,7 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "Consequentialism and Utilitarianism", target_type: "مدرسة"
 related: []
-gaps:
-  - "Primary sources on the modern debate beyond the listed works: not yet covered"
+gaps: []
 ---
 
 # Act vs Rule Utilitarianism
@@ -34,6 +33,10 @@ Modern utilitarianism arose at the hands of Jeremy Bentham in his *An Introducti
 
 A well-known objection to act utilitarianism is that it may justify acts that are manifestly unjust if, in a rare case, they produce a greater net benefit. For example, the killing of an innocent person could be justified to appease an angry mob if doing so prevents wider rioting. Rule utilitarianism attempts to avoid this objection by adhering to the rule "do not kill the innocent," because its general observance is more beneficial to society. However, rule utilitarianism faces in turn the "Collapse Objection" (Collapse Objection), formulated by David Lyons in *Forms and Limits of Utilitarianism* (1965): if the rule is permitted to include every exception that maximizes utility, it ends up coinciding with the verdicts of act utilitarianism itself, and rule utilitarianism thereby loses its theoretical independence.
 
+## Further Primary Texts in the Modern Debate
+
+Several other texts mark the stages of the modern argument. R. F. Harrod's "Utilitarianism Revised" (1936) argued that some practices, such as promise-keeping, must be assessed by the consequences of everyone's acting likewise. John Rawls's "Two Concepts of Rules" (1955) distinguished justifying a practice from justifying an action that falls under it, and used the distinction to defend utilitarianism against familiar objections about punishment and promising. J. J. C. Smart's "Extreme and Restricted Utilitarianism" (1956) defended the act-based view and charged its rival with rule worship. Brandt extended his rule-based theory in *A Theory of the Good and the Right* (1979). R. M. Hare's *Moral Thinking* (1981) proposed a two-level account in which intuitive rules guide everyday conduct while critical, act-sensitive reasoning selects and corrects them. Brad Hooker's *Ideal Code, Real World* (2000) is a detailed later defence of rule consequentialism, assessing rules by the expected value of their internalization by the overwhelming majority.
+
 ## Sources
 
 - Bentham, Jeremy. *An Introduction to the Principles of Morals and Legislation*. Various editions, 1789.
@@ -45,3 +48,9 @@ A well-known objection to act utilitarianism is that it may justify acts that ar
 - Brandt, Richard. "Toward a Credible Form of Utilitarianism." 1963.
 - Harsanyi, John. "Rule Utilitarianism and Decision Theory." *Erkenntnis* 11, 1977.
 - al-Shatibi, Abu Ishaq. *al-Muwafaqat fi Usul al-Shari'a*. Dar Ibn Affan, 1997.
+- Harrod, R. F. "Utilitarianism Revised." *Mind* 45, 1936.
+- Rawls, John. "Two Concepts of Rules." *The Philosophical Review* 64, 1955.
+- Smart, J. J. C. "Extreme and Restricted Utilitarianism." *The Philosophical Quarterly* 6, 1956.
+- Brandt, Richard. *A Theory of the Good and the Right*. Oxford University Press, 1979.
+- Hare, R. M. *Moral Thinking*. Oxford University Press, 1981.
+- Hooker, Brad. *Ideal Code, Real World*. Oxford University Press, 2000.

@@ -17,7 +17,6 @@ related:
 - id: "con-ikhtilaf-juristic-disagreement", title: "Juristic Disagreement (Ikhtilaf)", type: "مفهوم"
 gaps:
   - "Comparison of the mechanisms of scholarly transmission and licensing (ijaza) across the schools: not yet covered"
-  - "Non-Sunni schools (Ja'fari, Zaydi, Ibadi) as legal-school institutions: not yet covered"
 ---
 
 # Madhhab as a Legal-School Institution
@@ -40,8 +39,19 @@ In medieval Islamic societies with multiple schools (such as Egypt and the Levan
 
 This institutional structure faced criticism from reformers such as Ibn Taymiyya (d. 728/1328) and al-Shawkani (d. 1250/1834), who objected to the transformation of school affiliation into a constraint preventing scholars themselves from exercising ijtihad directly when they preferred a piece of evidence that contradicted their school's position. This debate is directly connected to the discussion of "ijtihad versus taqlid" in modern Islamic reformist thought.
 
+## Non-Sunni Schools as Institutions
+
+The Ja'fari school of Twelver Shi'is traces its doctrine to the imams, especially Ja'far al-Sadiq (d. 765). Its later institutions centre on seminaries (*hawza*) such as those of Najaf and Qum. After the Usuli position prevailed over the Akhbari one in the late eighteenth century, the authority of living mujtahids was strengthened: lay believers follow a qualified jurist, and from the nineteenth century the most prominent became recognized as a source of emulation (*marja' al-taqlid*). Standing rests largely on peer and follower recognition and the support of followers' religious dues.
+
+The Zaydi school developed in northern Iran and Yemen. In Yemen it took shape around the teaching of al-Hadi ila al-Haqq (d. 911) and was linked for centuries to the Zaydi imamate, whose theory required a qualified ruler capable of ijtihad; scholarly families and teaching centres sustained it.
+
+The Ibadi school, associated with the early authority Jabir ibn Zayd, survived chiefly in Oman and in North African communities such as the Mzab and Djerba. Oman's imamate and, in the Mzab, councils of religious scholars (*'azzaba*) gave it distinctive institutional supports.
+
 ## Sources
 
 - Hallaq, Wael B. *Authority, Continuity and Change in Islamic Law*. Cambridge: Cambridge University Press, 2001.
 - Makdisi, George. *The Rise of Colleges: Institutions of Learning in Islam and the West*. Edinburgh University Press, 1981.
 - Kamali, Mohammad Hashim. *Principles of Islamic Jurisprudence*. Cambridge: Islamic Texts Society, 1991.
+- Momen, Moojan. *An Introduction to Shi'i Islam*. Yale University Press, 1985.
+- Haykel, Bernard. *Revival and Reform in Islam: The Legacy of Muhammad al-Shawkani*. Cambridge University Press, 2003.
+- Wilkinson, John C. *Ibadism: Origins and Early Development in Oman*. Oxford University Press, 2010.

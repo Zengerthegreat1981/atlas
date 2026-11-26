@@ -12,9 +12,7 @@ active_start: 1949
 active_end: مستمر
 edges: []
 related: []
-gaps:
-- Detailed empirical case studies: not yet covered
-- Cross-disciplinary applications: not yet covered
+gaps: []
 ---
 # The Second Sex
 
@@ -31,6 +29,14 @@ Beauvoir's central claim is that woman is the Other. Drawing on Hegel's account 
 ## Structure and Method
 
 The book is organised into two volumes. The first, "Facts and Myths," examines the explanations offered for women's subordination: biology, psychoanalysis, and historical materialism are each found wanting, and a historical survey traces women's situation from prehistory to the present, followed by an analysis of the myths of woman in literature and culture. The second volume, "Lived Experience," follows a woman's life from childhood through adolescence, sexual initiation, marriage, motherhood, and old age, drawing on memoirs, novels, case histories, and her own observations to show how femininity is learned and lived. Beauvoir's method is phenomenological and interdisciplinary: she combines philosophical analysis with historical and literary evidence and with the close description of lived experience, treating women's own accounts as a source of knowledge that philosophy had ignored.
+
+## Case Material and Later Studies
+
+The second volume works with concrete material, though not with systematic sampling. Beauvoir draws on psychiatric and psychoanalytic case histories, including those reported by Wilhelm Stekel and Helene Deutsch, on diaries such as those of Marie Bashkirtseff and Sophia Tolstoy, and on the writing of Colette. These show girls and women describing puberty, sexual initiation, marriage and domestic work, but the sources are selective and lean toward literate and clinical subjects. Later research has examined similar processes directly. Karin Martin's observation of preschool classrooms in the United States, published in 1998, showed how routine adult instructions and classroom practices encouraged girls and boys to move, speak and occupy space differently. The study speaks to Beauvoir's claim that femininity is acquired, without testing her philosophy as a whole.
+
+## Applications Across Disciplines
+
+In anthropology, Sherry Ortner's essay on whether female is to male as nature is to culture took up Beauvoir's analysis to ask why women's subordination appears so widely. In philosophy, Iris Marion Young's "Throwing Like a Girl" (1980) combined Beauvoir's account of situation with Maurice Merleau-Ponty's phenomenology of the body to analyse feminine movement. In theology, Mary Daly's *The Church and the Second Sex* (1968) applied the critique to Catholic teaching and institutions. In literary studies, Beauvoir's reading of male authors' myths of woman is a precedent for feminist criticism.
 
 ## Key Concepts
 
@@ -57,3 +63,7 @@ Critics have engaged with the book from many directions. Margaret Simons and oth
 - Butler, Judith. *Gender Trouble: Feminism and the Subversion of Identity*. New York: Routledge, 1990.
 - Moi, Toril. *Simone de Beauvoir: The Making of an Intellectual Woman*. Oxford: Blackwell, 1994.
 - Sartre, Jean-Paul. *L'Être et le néant* (*Being and Nothingness*). Paris: Gallimard, 1943.
+- Martin, Karin A. "Becoming a Gendered Body: Practices of Preschools." *American Sociological Review* 63 (1998).
+- Ortner, Sherry B. "Is Female to Male as Nature Is to Culture?" In *Woman, Culture, and Society*, edited by Michelle Rosaldo and Louise Lamphere. Stanford: Stanford University Press, 1974.
+- Young, Iris Marion. "Throwing Like a Girl." *Human Studies* 3 (1980).
+- Daly, Mary. *The Church and the Second Sex*. New York: Harper and Row, 1968.

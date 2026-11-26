@@ -25,8 +25,7 @@ related:
 - id: "con-psychotic-spectrum", title: "Psychotic Disorders Spectrum", type: "مفهوم"
 - id: "thk-kurt-schneider", title: "Kurt Schneider", type: "مفكر"
 - id: "thk-william-kraepelin", title: "Emil Kraepelin", type: "مفكر"
-gaps:
-  - "Prevalence by psychotic disorder subtype: not yet covered"
+gaps: []
 ---
 
 # Psychotic Disorders and Schizophrenia
@@ -53,6 +52,10 @@ Nancy Andreasen's empirical distinction between positive and negative symptoms i
 
 Since the 1990s part of clinical research has shifted toward the stage before full psychosis emerges, namely "high-risk" or "prodromal" mental states, seeking early interventions that reduce the likelihood or severity of transition to a first psychotic episode. In parallel, the definition of "recovery" from schizophrenia has changed. It is no longer measured only by the disappearance of clinical symptoms but includes broader functional, social and personal dimensions (personal recovery). This shift was influenced by the psychiatric consumer/survivor movement, which questioned the presumption of inevitable deterioration that the medical literature inherited from Kraepelin's original concept of dementia praecox.
 
+## Prevalence by Subtype
+
+A Finnish general-population study (Perälä and colleagues, 2007) combined structured interviews with register data and case records for adults aged thirty and over, which allows the DSM-IV categories to be compared within one sample. Lifetime prevalence of any psychotic disorder was about 3.1 percent. Estimates for the individual diagnoses were roughly: schizophrenia, 0.87 percent; substance-induced psychotic disorder, 0.42 percent; major depressive disorder with psychotic features, 0.35 percent; schizoaffective disorder, 0.32 percent; bipolar I disorder, 0.24 percent; psychotic disorder due to a general medical condition, 0.21 percent; delusional disorder, 0.18 percent; and schizophreniform disorder, 0.07 percent. These figures describe one country and one diagnostic system and should not be read as global rates. For schizophrenia alone, a systematic review of studies from many countries (Saha and colleagues, 2005) found a median lifetime prevalence of about 4 per 1,000, with wide variation between studies. Differences in case finding, age range and the kind of prevalence measured explain part of the gap between such estimates.
+
 ## Limits
 
 First-rank symptoms, despite their long clinical use, were shown in later studies to also appear in other disorders (such as bipolar disorder with psychotic features), and they are not decisive for diagnosis on their own. For this reason, modern classification systems treat them as aids rather than definitive criteria. Likewise, the distinction between schizoaffective disorder and schizophrenia, and between mood disorders with psychotic features, remains a recognized difficulty for diagnostic reliability, given the difficulty of determining clinically the precise time ratio between psychotic and mood symptoms.
@@ -67,3 +70,5 @@ This entry is educational and descriptive. Diagnostic features are summarized fo
 - American Psychiatric Association, *Diagnostic and Statistical Manual of Mental Disorders*, 5th ed., Text Revision (DSM-5-TR) (Washington, DC: American Psychiatric Publishing, 2022).
 - World Health Organization, *ICD-11: International Classification of Diseases, 11th Revision* (Geneva: WHO, 2019/2022).
 - Nancy C. Andreasen, "Positive vs. Negative Schizophrenia: A Critical Evaluation," *Schizophrenia Bulletin*, vol. 11, no. 3 (1985), pp. 380–389.
+- Jonna Perälä et al., "Lifetime Prevalence of Psychotic and Bipolar I Disorders in a General Population," *Archives of General Psychiatry*, vol. 64, no. 1 (2007).
+- Sukanta Saha, David Chant, Joy Welham and John McGrath, "A Systematic Review of the Prevalence of Schizophrenia," *PLoS Medicine* (2005).

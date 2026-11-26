@@ -12,10 +12,7 @@ active_start: 1930
 active_end: 2002
 edges: []
 related: []
-gaps:
-- Detailed case studies: not yet covered
-- Contemporary empirical examples: not yet covered
-- Cross-references to related concepts: not yet covered
+gaps: []
 sociological_tradition: other
 sociological_paradigm: micro-macro
 ---
@@ -48,6 +45,18 @@ Bourdieu sought to overcome the opposition between objectivism and subjectivism.
 
 Bourdieu combined ethnography, statistical techniques such as correspondence analysis, and historical analysis. He insisted on reflexivity, urging sociologists to analyze their own position within the academic field.
 
+## Case Studies
+
+*Distinction* is Bourdieu's largest study of taste. Using surveys carried out in France in the 1960s, supplemented by interviews and observation, he related preferences in music, art, food, furnishing, and leisure to occupation, education, and family background. Correspondence analysis arranged these data as a social space structured by the total volume of capital and by the balance between economic and cultural capital. Teachers and industrialists, both comparatively privileged, could therefore display sharply different styles of life. Bourdieu argued that apparently personal judgements classify those who make them and help legitimate class differences. In his work on Kabyle society, an analysis of the house showed how oppositions such as light and dark, high and low, and male and female were built into the arrangement of space, so that children learned them through bodily movement as much as instruction. His writing on gift exchange added that the interval before a return gift matters: delay and uncertainty allow participants to experience as generosity an exchange that also creates obligation. These cases connect habitus with practical situations.
+
+## Contemporary Empirical Examples
+
+Annette Lareau's *Unequal Childhoods* (2003), an ethnography of American families, found that middle-class parents tended to cultivate children's talents through organised activities and negotiation, while working-class and poor parents more often provided care while leaving children greater room to direct their own play. Schools and other institutions rewarded the former style more readily. Mike Savage and colleagues (2013), analysing a large British web survey together with a smaller representative survey, used measures of economic, cultural, and social capital to propose a model of seven classes; its sampling and classifications attracted debate. Loïc Wacquant's *Body and Soul* (English edition 2004), based on his own training in a Chicago boxing gym, examined how a pugilistic habitus is acquired through repetitive bodily practice. These studies adapt Bourdieu in different ways. Their findings support looking at resources and embodied dispositions, but patterns in one country or period do not establish that cultural capital operates identically elsewhere.
+
+## Related Concepts
+
+Related concepts include habitus, field, cultural capital, social capital, symbolic violence, doxa, social reproduction, class, taste, and reflexivity. Comparisons with James Coleman's social capital, Max Weber's status groups, Norbert Elias's use of habitus, and Anthony Giddens's duality of structure clarify what is distinctive. Coleman stresses social capital as a resource for purposive action and cooperation, whereas Bourdieu ties it to membership in networks and to the reproduction of advantage. Weber's account of status helps in reading taste as social distinction. Field analysis connects with the sociology of art, science, education, and the state, while symbolic violence links culture to legitimacy and power.
+
 ## Influence and Criticism
 
 His concepts are used across the sociology of education, culture, class and stratification. Critics argue that the theory is deterministic and leaves little room for change or agency, that habitus is vaguely defined, and that his account of French taste does not transfer easily to other societies.
@@ -59,3 +68,6 @@ His concepts are used across the sociology of education, culture, class and stra
 - Pierre Bourdieu, *The Logic of Practice*, 1980.
 - Pierre Bourdieu and Jean-Claude Passeron, *Reproduction in Education, Society and Culture*, 1970.
 - Pierre Bourdieu and Loïc Wacquant, *An Invitation to Reflexive Sociology*, 1992.
+- Annette Lareau, *Unequal Childhoods: Class, Race, and Family Life*, 2003.
+- Mike Savage et al., A New Model of Social Class? Findings from the BBC's Great British Class Survey Experiment, *Sociology*, 2013.
+- Loïc Wacquant, *Body and Soul: Notebooks of an Apprentice Boxer*, 2004.

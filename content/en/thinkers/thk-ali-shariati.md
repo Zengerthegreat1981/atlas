@@ -13,9 +13,7 @@ active_end: 1977
 edges: []
 related: []
 gaps:
-- Detailed case studies: not yet covered
 - Contemporary empirical examples: not yet covered
-- Cross-references to related concepts: not yet covered
 sociological_tradition: other
 sociological_paradigm: micro-macro
 ---
@@ -48,6 +46,14 @@ Much of his output survives as edited lectures rather than systematic treatises.
 
 Shariati combined comparative religion, historical sociology and polemic. He interpreted religious symbols and narratives sociologically, as models for social action, rather than offering empirical research in the strict sense.
 
+## Case Studies in Religious Interpretation
+
+Shariati's cases are interpretations of religious history and ritual rather than field studies. In lectures translated in *On the Sociology of Islam*, he read the story of Cain and Abel as a symbol of a continuing conflict between two social orders: Abel represented a pastoral world of shared resources, and Cain an agricultural order founded on private ownership and domination. In *Hajj* he treated the stages of the pilgrimage as a drama of self-transformation, in which pilgrims put aside marks of rank, join an undifferentiated community, and confront the temptations that bind them to power and possession. He also presented Abu Dharr, an early companion of the Prophet known for criticising the accumulation of wealth, as a model of committed faith. His contrast between Alavid and Safavid Shi'ism set a Shi'ism of protest, associated with Imam Ali, against a Shi'ism turned into an official institution under the Safavid state. These readings show how inherited symbols could be given a mobilising meaning. They are selective, and historians need not accept them as accounts of what occurred.
+
+## Related Concepts
+
+Shariati's thought connects with the concepts of ideology, alienation, class, and cultural imperialism. His return to the self belongs with debates opened by Jalal Al-e Ahmad's *Gharbzadegi* (1962), a critique of Iranian infatuation with the West, and with Frantz Fanon's analysis of colonial alienation. His figure of the enlightened thinker, responsible for awakening society, can be compared with Antonio Gramsci's organic intellectual. Other related themes are political Islam, liberation theology, revolution, collective memory, and the tension between authenticity and essentialism. The last is especially important: a call to recover an authentic self can empower people against domination, yet it can also present culture as uniform and unchanging and leave open who has the authority to define it. Sociology of religion supplies another link, since Shariati treats belief as a force capable of either legitimating or challenging power.
+
 ## Influence and Criticism
 
 His writings circulated widely among students and activists in Iran in the 1970s and are often cited as an ideological influence on the revolutionary movement, although he died before the revolution. Critics, both clerical and secular, questioned his theological credentials, his selective use of Marxist and Western concepts, and the rigor of his sociology. Scholars still debate how far his thought anticipated the political system that followed 1979.
@@ -57,3 +63,5 @@ His writings circulated widely among students and activists in Iran in the 1970s
 - Hamid Algar (trans.), Ali Shariati, On the Sociology of Islam (1979)
 - Ervand Abrahamian, Radical Islam: The Iranian Mojahedin (1989)
 - Ali Rahnema, An Islamic Utopian: A Political Biography of Ali Shari'ati (1998)
+- Ali Shariati, Hajj (English translations of the Persian lectures), 1970s
+- Jalal Al-e Ahmad, Gharbzadegi (1962)

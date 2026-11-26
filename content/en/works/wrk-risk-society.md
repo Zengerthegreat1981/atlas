@@ -12,8 +12,7 @@ active_start: 1986
 active_end: مستمر
 edges: []
 related: []
-gaps:
-- Detailed empirical case studies: not yet covered
+gaps: []
 ---
 # Risk Society
 
@@ -39,6 +38,10 @@ The book moves from diagnosis to social structure to politics. It opens with the
 
 The book was widely acclaimed and translated into many languages, and it established Beck as one of the leading sociologists of his generation. It shaped research on environmental sociology, the sociology of risk, science and technology studies, and globalisation, and it provided a framework for understanding events from the BSE crisis to the Fukushima disaster and the climate emergency. Beck developed the argument further in *World Risk Society* (1999), *The Cosmopolitan Vision* (2006; German 2004) and *World at Risk* (2009), which extended the analysis to global risks such as terrorism, climate change and financial crisis.
 
+## Empirical Case Studies
+
+Beck's book did not rest on its own fieldwork, but case studies help to assess its themes. Brian Wynne studied sheep farmers in Cumbria, in north-west England, after fallout from Chernobyl led to restrictions on the movement and sale of their animals. Official scientific advice proved overconfident, partly because it relied on assumptions about soils that did not fit the local uplands, and it gave little weight to farmers' practical knowledge. The proximity of the Sellafield nuclear site deepened distrust. Wynne concluded that public responses to expertise depend on social relationships and identities as well as on information, and he questioned accounts of reflexivity that treated lay trust too simply. In the United States, Phil Brown and Edwin Mikkelsen's *No Safe Place* (1990) examined a cluster of childhood leukaemia in Woburn, Massachusetts, where residents gathered evidence linking illness to contaminated well water and pressed scientists and officials to investigate. The authors called such activity popular epidemiology. It illustrates contested definitions of risk and politics outside formal institutions.
+
 ## Critical Assessments
 
 Critics have questioned the book on several fronts. Some argue that Beck exaggerates the novelty of manufactured risk, since industrial hazards such as mining disasters and urban pollution are as old as industrialisation itself. Others, notably in the sociology of risk, dispute his account of public perception: empirical studies suggest that lay people do not experience risk in the abstract, global terms Beck describes, and that class and inequality still shape exposure to hazards far more than his slogan about democratic smog implies. Critical assessments, such as Anthony Elliott's of 2002, have pressed Beck on the coherence of his account of reflexivity and individualisation and on how risks are actually governed in institutions. Feminist and postcolonial critics have noted that the book generalises from a Western European experience and pays little attention to how risk is distributed along lines of race, gender, and global inequality. Beck responded to some of these criticisms in later work, giving greater weight to global inequality and to the politics of risk definition.
@@ -56,3 +59,5 @@ Critics have questioned the book on several fronts. Some argue that Beck exagger
 - Beck, Ulrich, Anthony Giddens, and Scott Lash. *Reflexive Modernization: Politics, Tradition and Aesthetics in the Modern Social Order*. Cambridge: Polity Press, 1994.
 - Adam, Barbara, Ulrich Beck, and Joost van Loon, eds. *The Risk Society and Beyond: Critical Issues for Social Theory*. London: Sage, 2000.
 - Elliott, Anthony. "Beck's Sociology of Risk: A Critical Assessment." *Sociology* 36, no. 2 (2002): 293–315.
+- Wynne, Brian. "Misunderstood Misunderstanding: Social Identities and Public Uptake of Science." *Public Understanding of Science* 1 (1992).
+- Brown, Phil, and Edwin J. Mikkelsen. *No Safe Place: Toxic Waste, Leukemia, and Community Action*. Berkeley: University of California Press, 1990.

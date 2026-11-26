@@ -12,8 +12,7 @@ active_start: 1987
 active_end: مستمر
 edges: []
 related: []
-gaps:
-- Detailed empirical case studies: not yet covered
+gaps: []
 ---
 
 # Institutional Ethnography
@@ -36,6 +35,10 @@ The central analytic concept is that of "ruling relations": the complex of insti
 
 Institutional ethnography is a method of inquiry rather than a theory to be tested. It begins with a standpoint — usually the standpoint of people whose experience is marginalised or subordinated — and proceeds by interviewing, observing and collecting the texts that organise the setting. The researcher then works outward, from the local site to the institutional processes that coordinate it, building a map of social relations. Smith's later works codified the method: *Texts, Facts, and Femininity* (1990), *The Conceptual Practices of Power* (1990), and above all *Institutional Ethnography: A Sociology for People* (2005), which set out the method in its mature form. A late book, *Simply Institutional Ethnography* (2022), written with Alison Griffith, returned to the project as an introduction for new researchers.
 
+## Case Studies
+
+Several studies show the method at work. Timothy Diamond's *Making Gray Gold* (1992) drew on his own employment as a nursing assistant in United States nursing homes. It contrasted the continuous bodily and emotional work of caring with charts and billing records that registered only defined tasks, showing how residents' lives were fitted to the requirements of a care industry. George W. Smith studied the policing of gay men in Toronto and the management of the AIDS epidemic in Ontario, using his position as an activist and the official documents he encountered to trace how legal and administrative categories organised what police and health officials did. Alison Griffith and Dorothy Smith's *Mothering for Schooling* (2005) began from mothers' daily routines and showed how schools depend on that largely unacknowledged work, with consequences for inequality between families and between schools. Janet Rankin and Marie Campbell's *Managing to Nurse* (2006) examined how information systems and efficiency measures introduced with Canadian health care reform reshaped nurses' judgement and attention to patients.
+
 ## Reception and Influence
 
 Institutional ethnography has had its widest influence in sociology, social work, nursing, education and health research, where it offers a way of studying institutions from the standpoint of those who use and work in them rather than those who manage them. It has been taken up in studies of health care, schooling, welfare administration and policing, and it has become a recognised tradition in feminist sociology and in the sociology of work. Its influence also extends to policy: institutional ethnographies of how services actually work have been used by practitioners and activists to challenge managerial accounts of their own institutions.
@@ -53,3 +56,7 @@ Critics have charged that institutional ethnography, for all its commitment to s
 - Marie L. Campbell and Frances J. Gregor, *Mapping Social Relations: A Primer in Doing Institutional Ethnography* (2002).
 - Marjorie L. DeVault, *Liberating Method: Feminism and Social Research* (1999).
 - Dorothy E. Smith, ed., *Institutional Ethnography as Practice* (2006).
+- Timothy Diamond, *Making Gray Gold: Narratives of Nursing Home Care* (1992).
+- George W. Smith, "Political Activist as Ethnographer," *Social Problems* (1990).
+- Alison I. Griffith and Dorothy E. Smith, *Mothering for Schooling* (2005).
+- Janet M. Rankin and Marie L. Campbell, *Managing to Nurse: Inside Canada's Health Care Reform* (2006).

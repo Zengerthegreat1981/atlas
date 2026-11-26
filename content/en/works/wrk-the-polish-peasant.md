@@ -12,9 +12,7 @@ active_start: 1918
 active_end: مستمر
 edges: []
 related: []
-gaps:
-- Detailed empirical case studies: not yet covered
-- Cross-disciplinary applications: not yet covered
+gaps: []
 ---
 # The Polish Peasant
 
@@ -33,6 +31,14 @@ The book's method was innovative: it treated the personal documents of ordinary 
 ## Evidence and Findings
 
 The book's evidence is the material of immigrant life itself. The autobiography of Władek traces a young man's passage from a Polish village through hardship and setbacks to eventual settlement in America, showing how the norms of the village lost their hold and how new ones were slowly built. The authors document the role of the Polish parish in America as a centre of reorganisation, providing not only religion but social services, education, and a community. They trace the rise of the Polish-language press, which carried news, advice, and moral instruction across the Atlantic. They show how the extended family adapted to the new world, and how the second generation — born in America — developed attitudes that neither their parents nor their American neighbours fully shared. The findings are qualitative and cumulative: no single document proves the theory, but the mass of them, read together, makes the process of disorganisation and reorganisation visible.
+
+## Case Materials in Detail
+
+The first two volumes arrange letters in family series, each introduced and annotated, so that readers can follow requests for money, news of marriages and disputes over land and obligation between relatives separated by migration. Some letters were obtained through advertising in the Polish-language press in Chicago. The later volumes turn to wider institutions. One examines disorganisation and reorganisation in Poland; the last considers Polish life in America, using records from social agencies and courts to discuss economic dependency, marital breakdown, delinquency and violent crime alongside parishes and associations. In 1939 Herbert Blumer published an influential appraisal for the Social Science Research Council. He judged the documents valuable but concluded that they neither fully produced nor decisively tested the theoretical claims, since interpretation of the same material remained open.
+
+## Applications Across Disciplines
+
+In psychology, Gordon Allport's survey of personal documents (1942) considered the work in assessing letters and life histories as evidence about individuals. In history, its correspondence and attention to ordinary migrants made it a resource for immigration and social history. Eli Zaretsky's abridged edition (1984) reintroduced it to readers interested in family and migration history.
 
 ## Influence and Continuing Relevance
 
@@ -53,3 +59,6 @@ Critics note that the book's evidence, for all its richness, is unsystematic: th
 - Merton, Robert K. *Social Theory and Social Structure*. Free Press, 1949.
 - Madge, John. *The Origins of Scientific Sociology*. Free Press, 1962.
 - Wirth, Louis. *The Ghetto*. University of Chicago Press, 1928.
+- Blumer, Herbert. *An Appraisal of Thomas and Znaniecki's The Polish Peasant in Europe and America*. Social Science Research Council, 1939.
+- Allport, Gordon W. *The Use of Personal Documents in Psychological Science*. Social Science Research Council, 1942.
+- Thomas, William I., and Florian Znaniecki. *The Polish Peasant in Europe and America*, edited and abridged by Eli Zaretsky. University of Illinois Press, 1984.

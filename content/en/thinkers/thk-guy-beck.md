@@ -18,7 +18,6 @@ related:
 - id: "sch-comparative-religious-music-studies", title: "Comparative Study of Religious/Sacred Music", type: "مدرسة"
 gaps:
   - "Details of his career beyond the sonic theology project: not yet covered"
-  - "Critical assessment of generalising from a Hindu-derived model to other traditions: not yet covered"
 ---
 
 # Guy L. Beck
@@ -40,6 +39,8 @@ Beck's first thesis is Indian in origin: the concept of *Nada Brahman* in Hindu 
 ## Methodological Questions
 
 Beck's edited volume *Sacred Sound: Experiencing Music in World Religions* (2006) gathers contributions on Judaism, Christianity, Islam, Hinduism, Buddhism and Sikhism. Extending a category formulated in a Hindu context (*nada* and mantra) to other traditions raises a methodological question: is it valid to generalise it where theologies of sound differ substantially? In Islam, for example, Qur'anic recitation is understood as the speech of God, not as an eternal cosmic sound. This tension between the Indian foundation and comparative ambition is a natural point of critique.
+
+The difficulty can be tested point by point. The Hindu model draws on schools that disagree among themselves: the Mimamsa defence of the eternal Vedic word, for instance, does not depend on a creator deity, while devotional movements centre on the names of a personal god. Elsewhere the differences widen. Mainstream Buddhist philosophy rejects a permanent ultimate substance, so efficacious recitation there need not imply that sound is eternal reality. Many Christian discussions, from Augustine's reflections on singing onward, subordinate musical sound to the understanding of the words, and Jewish liturgy ties chant closely to text and commandment. A comparison that starts from sound as divinity may therefore find only weaker versions of its own starting point, or overlook categories internal to other traditions. The stronger use of the model is as a question to put to each tradition (what is sound held to do, and why?) with the answer left open. An edited volume with separate treatments of each tradition permits this, but juxtaposition does not by itself establish a shared sonic theology. This is a methodological assessment, not a report of a settled scholarly verdict.
 
 ## Relation to the Arab-Islamic Heritage
 

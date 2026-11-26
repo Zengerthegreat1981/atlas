@@ -15,10 +15,7 @@ edges:
 related:
   - id: "thk-paul-rabinow", title: "Paul Rabinow", type: "مفكر"
   - id: "thk-donna-haraway", title: "Donna Haraway", type: "مفكر"
-gaps:
-  - "Application in non-Western scientific contexts: not yet covered"
-  - "Integration with postcolonial science studies: not yet covered"
-  - "Engagement with indigenous knowledge systems: not yet covered"
+gaps: []
 ---
 
 # Bruno Latour: Actor-Network Theory and the Anthropology of Science and Technology
@@ -85,6 +82,14 @@ Latour's work on translation and hybrid networks offers resources for postcoloni
 
 However, critics note that Latour's work sometimes focuses on laboratory and Western technoscience without systematically attending to how colonialism and imperialism have shaped scientific networks globally.
 
+## Applications beyond Western Laboratories
+
+Approaches related to actor-network theory have been used well outside European and North American laboratories. Marianne de Laet and Annemarie Mol's study of the Zimbabwe Bush Pump (2000) argued that the device worked partly because it was "fluid": its boundaries and its criteria of success could shift as villagers installed and repaired it. Timothy Mitchell's *Rule of Experts* (2002), on Egypt, considered how mosquitoes, parasites, war, and engineering projects interacted with claims to expert control. Helen Verran's *Science and an African Logic* (2001), grounded in teaching and research in Nigeria, examined how Yoruba and English number practices are accomplished in classrooms, in conversation with science studies.
+
+## Postcolonial Science Studies and Indigenous Knowledge
+
+Warwick Anderson's 2002 introduction to a discussion of "postcolonial technoscience" argued that science studies could examine how knowledge and technologies move and change across unequal colonial and postcolonial settings. ANT offers tools for tracing such movements, but critics argue that following associations does not by itself explain empire, race, or dispossession. Indigenous scholars have raised a related objection. Zoe Todd (2016) criticised the reception of Latour's thinking about climate and the Earth as a common political concern for passing over Indigenous thinkers who had long discussed relations with nonhumans. Kim TallBear's *Native American DNA* (2013) shows how science studies can be joined to questions of Indigenous sovereignty by examining genetic claims about tribal identity. These are extensions, encounters, and criticisms; they should not be read as a programme that Latour himself developed in detail.
+
 ## Contemporary Relevance and Legacy
 
 Actor-network theory has become foundational to contemporary science and technology studies, organization studies, and anthropology. Scholars studying technology, medicine, artificial intelligence, climate change, and other domains build on frameworks Latour established. His insistence that understanding these domains requires tracing how humans and non-humans collaborate has proven enormously generative.
@@ -111,4 +116,10 @@ Contemporary applications extend his framework to digital systems, artificial in
 - Latour, Bruno. *Reassembling the Social: An Introduction to Actor-Network-Theory*. Oxford University Press, 2005.
 - Latour, Bruno. *An Inquiry into Modes of Existence*. Harvard University Press, 2013.
 - Callon, Michel, John Law & Arie Rip (eds.). *Mapping the Dynamics of Science and Technology: Sociology of Science in the Real World*. Macmillan, 1986.
+- Anderson, Warwick. "Postcolonial Technoscience." *Social Studies of Science* 32, nos. 5–6. 2002.
+- de Laet, Marianne, and Annemarie Mol. "The Zimbabwe Bush Pump: Mechanics of a Fluid Technology." *Social Studies of Science* 30, no. 2. 2000.
+- Todd, Zoe. "An Indigenous Feminist's Take on the Ontological Turn: 'Ontology' Is Just Another Word for Colonialism." *Journal of Historical Sociology* 29, no. 1. 2016.
+- Verran, Helen. *Science and an African Logic*. University of Chicago Press, 2001.
+- Mitchell, Timothy. *Rule of Experts: Egypt, Techno-Politics, Modernity*. University of California Press, 2002.
+- TallBear, Kim. *Native American DNA: Tribal Belonging and the False Promise of Genetic Science*. University of Minnesota Press, 2013.
 

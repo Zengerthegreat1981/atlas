@@ -12,8 +12,7 @@ edges:
   - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
 related:
   []
-gaps:
-  - "Hegemony in postcolonial states: not yet covered"
+gaps: []
 ---
 
 # Hegemony: Rule by Consent as Well as Coercion
@@ -44,6 +43,12 @@ The concept also explains resistance. Where hegemony is incomplete, subordinate 
 
 Current scholarship debates whether hegemony remains useful in an age of fragmented media and global capitalism. Some argue that the concept, developed for the nation-state, must be rethought for a world of transnational corporations, international institutions, and digital platforms, where consent is organized across borders. Others argue that hegemony has become more, not less, relevant: the power of global brands, development agencies, and social media to define what counts as normal and desirable is a hegemonic power of a new kind. Feminist and postcolonial scholars have asked whose consent counts, pointing out that hegemonic projects have often depended on the subordination of women and colonized peoples. Anthropology's contribution is to keep the analysis grounded in lived experience: hegemony is not an abstraction but a daily practice, reproduced in classrooms, workplaces, and households, and contested there too.
 
+## Hegemony in Postcolonial States
+
+Whether states that emerged from colonial rule are hegemonic in Gramsci's sense has been much debated. Ranajit Guha, in *Dominance without Hegemony* (1997), argued that the colonial state in India rested far more on coercion than on persuasion, and that the Indian bourgeoisie likewise failed to speak for the whole nation, leaving large areas of subaltern life outside its leadership. Partha Chatterjee, in *Nationalist Thought and the Colonial World* (1986), drew on Gramsci's idea of passive revolution to describe how a nationalist leadership could take over and enlarge the state while avoiding a thorough transformation of agrarian and class relations.
+
+For Africa, Achille Mbembe's *On the Postcolony* (2001) questioned a simple opposition between consent and resistance. He described a relationship in which rulers and ruled share in the spectacle and vulgarity of power, so that people may mock authority while also taking part in its rituals. These accounts suggest that hegemony in postcolonial settings is often partial and uneven: it may be strong in some regions, classes, or institutions and weak in others, and it has to be shown through evidence rather than assumed from the existence of a state.
+
 ## Sources
 
 - Femia, Joseph V. *Gramsci's Political Thought: Hegemony, Consciousness, and the Revolutionary Process*. Clarendon Press, 1981.
@@ -53,3 +58,6 @@ Current scholarship debates whether hegemony remains useful in an age of fragmen
 - Said, Edward W. "Representing the Colonized: Anthropology's Interlocutors." *Critical Inquiry* 15, no. 2. 1989.
 - Scott, James C. *Domination and the Arts of Resistance: Hidden Transcripts*. Yale University Press, 1990.
 - Williams, Raymond. *Marxism and Literature*. Oxford University Press, 1977.
+- Chatterjee, Partha. *Nationalist Thought and the Colonial World: A Derivative Discourse?* Zed Books, 1986.
+- Guha, Ranajit. *Dominance without Hegemony: History and Power in Colonial India*. Harvard University Press, 1997.
+- Mbembe, Achille. *On the Postcolony*. University of California Press, 2001.

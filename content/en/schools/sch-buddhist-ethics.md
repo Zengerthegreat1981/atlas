@@ -11,8 +11,7 @@ active_start: 1900
 active_end: "مستمر"
 edges: []
 related: []
-gaps:
-  - "Comprehensive expansion and deepening of content: not yet covered"
+gaps: []
 ---
 
 # Buddhist Ethics
@@ -43,9 +42,17 @@ Buddhist ethics has been criticized on the grounds that, lacking a divine legisl
 
 Illustrative example (hypothetical): a monk is faced with a person who has grievously harmed him. Instead of seeking revenge, he practices "meditation on loving-kindness" (*metta bhavana*), directing a wish for well-being even toward the one who harmed him. He does this not because an external law commands him to, but because anger itself, according to Buddhist analysis, keeps its bearer captive to attachment and suffering. Freeing the mind from resentment is therefore both an ethical act and an act of self-liberation.
 
+## Sublime Attitudes, Perfections and Skilful Means
+
+Early texts group four sublime attitudes (*brahmavihara*): loving-kindness, compassion, sympathetic joy and equanimity. Each is cultivated in meditation toward an ever wider range of beings. The *Kalama Sutta* (*Anguttara Nikaya* 3.65) advises its hearers not to accept teachings merely on tradition or authority, but to consider whether qualities and actions are wholesome, blameless, praised by the wise and conducive to welfare when undertaken. The teaching of dependent origination (*paticca-samuppada*), which holds that phenomena arise through conditions, explains how ignorance and craving perpetuate suffering and where the sequence can be broken.
+
+Mahayana ethics is organized around the perfections (*paramita*), commonly six: generosity, moral discipline, patience, vigour, meditation and wisdom. It also develops the idea of skilful means (*upaya*), prominent in the *Lotus Sutra*, by which teaching and conduct are adapted to the needs of different beings. Some texts allow an advanced bodhisattva to break a precept out of compassion, a possibility that has prompted discussion about its limits and risk of abuse.
+
 ## Sources
 
 - Harvey, Peter. *An Introduction to Buddhist Ethics: Foundations, Values and Issues*. Cambridge University Press, 2000.
 - Keown, Damien. *The Nature of Buddhist Ethics*. Palgrave Macmillan, 1992.
 - Goodman, Charles. *Consequences of Compassion: An Interpretation and Defense of Buddhist Ethics*. Oxford University Press, 2009.
 - Śāntideva. *The Bodhicaryāvatāra*, translated by Kate Crosby and Andrew Skilton. Oxford University Press, 1995.
+- *Anguttara Nikaya* (including the *Kalama Sutta*, 3.65).
+- *The Lotus Sutra* (*Saddharmapundarika*).

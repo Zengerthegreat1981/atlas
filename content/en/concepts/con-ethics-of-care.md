@@ -11,8 +11,7 @@ active_start: 1900
 active_end: "مستمر"
 edges: []
 related: []
-gaps:
-  - "Primary-source excerpts and Tronto's political account of care: not yet covered"
+gaps: []
 ---
 
 # Ethics of Care
@@ -33,9 +32,15 @@ The ethics of care took shape as a feminist theory with Carol Gilligan's *In a D
 
 Critics argue that excessive focus on private care may justify neglecting distant strangers and the needy, and may entrench unfair traditional gender roles. Some care theorists, such as Held, reply that care can inform institutions and justice rather than replace them, while Noddings herself holds that our obligations are strongest toward those with whom we stand in actual caring relations. An example is a nurse who watches over an elderly patient at night. She does so not out of the calculation of an abstract duty, but out of the care relationship that has developed between them, going beyond her formal minimum duties in response to his actual need.
 
+## Tronto's Political Account of Care
+
+Joan Tronto's *Moral Boundaries* (1993) argues that care has been confined by boundaries separating morality from politics and public from private life, which keep it marginal and leave it largely to women and other less powerful groups. With Berenice Fisher she offered a broad definition of caring as an activity of the human species covering all that is done to sustain, carry on and mend the shared world so that people can live in it as well as they can. Tronto distinguishes four phases, caring about, taking care of, care-giving, and care-receiving, matched with the qualities of attentiveness, responsibility, competence, and responsiveness. Political questions then arise about who is assigned which phase: powerful people may take charge of care while leaving the hands-on work to others, and may enjoy what she calls "privileged irresponsibility." In *Caring Democracy* (2013) she adds a further phase, "caring with," and argues that allocating caring responsibilities fairly is a central task of democratic politics. Gilligan's own framing is also worth recalling: she identifies the different voice by its theme, not by gender.
+
 ## Sources
 
 - Gilligan, Carol. *In a Different Voice*. Harvard University Press, 1982.
 - Noddings, Nel. *Caring: A Feminine Approach to Ethics and Moral Education*. University of California Press, 1984.
 - Held, Virginia. *The Ethics of Care: Personal, Political, and Global*. Oxford University Press, 2006.
 - al-Ghazali, Abu Hamid. *Ihya' 'Ulum al-Din*. Dar al-Ma'rifa, multiple editions.
+- Tronto, Joan C. *Moral Boundaries: A Political Argument for an Ethic of Care*. Routledge, 1993.
+- Tronto, Joan C. *Caring Democracy: Markets, Equality, and Justice*. New York University Press, 2013.

@@ -18,7 +18,6 @@ related:
 - id: "con-riba-legal-doctrine", title: "Riba in Islamic Jurisprudence", type: "مفهوم"
 gaps:
   - "School-by-school thresholds separating tolerable from excessive gharar: not yet covered"
-  - "Detailed treatment of gharar in contemporary Islamic financial instruments other than insurance: not yet covered"
 ---
 
 # Gharar (Uncertainty in Contracts)
@@ -41,8 +40,16 @@ The principle of prohibiting gharar is one of the most important standards by wh
 
 The principle of gharar is sometimes compared with modern legal concepts such as free and informed consent and the duty of disclosure in contracts. Both systems share a concern to ensure equal information between the parties to a contract, although the technical tools used to achieve this goal differ between classical Islamic jurisprudence (the nullity of the contract entirely in cases of excessive gharar) and modern positive law (such as the theory of defects of consent and partial contractual disclosure obligations).
 
+## Gharar in Other Contemporary Instruments
+
+Derivatives are the main testing ground. The International Islamic Fiqh Academy, in its 1992 deliberations on financial markets, and many scholars have rejected conventional futures and options: in a standard future both price and goods are deferred and most positions are closed without delivery, while a conventional option sells a bare right for a premium. Critics see gharar, gambling and the sale of what one does not own. A minority, Kamali among them, has argued that such contracts, futures in particular, can be acceptable.
+
+Older nominate contracts are used as controlled exceptions to the rule against selling what does not yet exist. *Salam* requires full advance payment for precisely described goods due at a known time; *istisna'* allows an order for manufacture or construction on agreed specifications. The earnest-money sale (*'urbun*), rejected by the majority but allowed by the Hanbalis, was accepted by the Academy in 1993 and has been used to build option-like products. Institutions also hedge currency and rate exposure through unilateral promises (*wa'd*), documented for example in the Tahawwut Master Agreement of 2010, though critics warn that combined promises can reproduce conventional derivatives. In *sukuk* and leasing, standards seek clearly identified assets, rents and dates.
+
 ## Sources
 
 - al-Zuhayli, Wahba. *al-Fiqh al-Islami wa Adillatuhu* [Islamic Jurisprudence and Its Proofs]. Damascus: Dar al-Fikr (first edition 1980s).
 - Vogel, Frank E., and Samuel L. Hayes. *Islamic Law and Finance: Religion, Risk, and Return*. The Hague: Kluwer Law International, 1998.
 - Kamali, Mohammad Hashim. *Principles of Islamic Jurisprudence*. Cambridge: Islamic Texts Society, 1991.
+- Kamali, Mohammad Hashim. *Islamic Commercial Law: An Analysis of Futures and Options*. Islamic Texts Society, 2000.
+- International Swaps and Derivatives Association and International Islamic Financial Market. *ISDA/IIFM Tahawwut Master Agreement*, 2010.

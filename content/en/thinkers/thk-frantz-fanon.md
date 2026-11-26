@@ -60,4 +60,4 @@ Compare Du Bois on double consciousness, Said on colonial representation, and Sp
 - Fanon, Frantz. *Peau noire, masques blancs* (1952).
 - Fanon, Frantz. *Les damnés de la terre* (1961).
 - Fanon, Frantz. *L'an V de la révolution algérienne* (1959).
-- Macey, David. *Frantz Fanon: A Life* (2000).
+- Macey, David. *Frantz Fanon: A Biography* (2000).

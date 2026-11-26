@@ -15,8 +15,7 @@ edges:
 related:
 - id: "thk-aristotle", title: "Aristotle", type: "مفكر"
 - id: "con-riba-legal-doctrine", title: "Riba in Islamic Jurisprudence (Legal Doctrine)", type: "مفهوم"
-gaps:
-  - "Detailed comparative textual analysis of Aristotle's argument against usury and the arguments of Islamic jurisprudence: not yet covered."
+gaps: []
 ---
 
 # The Ethics of Interest (Riba) Across Traditions
@@ -30,6 +29,12 @@ In *Politics* (Book I, chapters 9-10), Aristotle offered an influential philosop
 ## Islamic jurisprudence: the prohibition of riba and its foundations
 
 Islamic jurisprudence prohibits **riba** on the basis of Qur'anic verses (notably 2:275-279) and Prophetic traditions, and jurists distinguished among its forms, including *riba al-nasi'a* (a surcharge on deferred payment of a loan) and *riba al-fadl* (an excess in the exchange of certain commodities). The detailed scope of the prohibition, including whether and how it applies to modern bank interest, has been debated by modern scholars. Several justifications are offered for this prohibition in classical and modern literature; they partly intersect with Aristotle's argument without fully matching it, and there is no documented use of Aristotle's argument by Islamic jurists in this connection. One is that usury guarantees the lender a certain return without bearing a real risk in the outcome of the project he financed, unlike partnership and profit-sharing contracts (*mudaraba* and *musharaka*), in which both parties share profit and loss together. "Shared risk" thus becomes an ethical condition for legitimate gain, instead of a fixed guarantee imposed on one party. Another is a social dimension concerning the protection of the weak debtor from exploitation of his urgent need through the accumulation of compound interest that may drown him in an endless debt. This concern is closer to the argument from "unfairness" in contemporary philosophical debate about the limits of markets.
+
+## Comparing the texts
+
+The texts differ in form as much as in conclusion. Aristotle's case is brief: coin was introduced for exchange, interest makes it multiply out of itself, and the Greek word for interest, *tokos*, also means offspring, as if money bred money. The Qur'anic passage (2:275-279) instead commands: it rejects the claim that trade is just like *riba*, permits the one and forbids the other, contrasts *riba* with charity, and allows the creditor the principal so that neither party wrongs the other. Hadith reports then name six goods (gold, silver, wheat, barley, dates and salt) whose exchange is restricted, and jurists disputed the legal cause (*ʿilla*) by which the rule extends further: Hanafis looked to sale by weight or measure, while Shafi'is and Malikis distinguished monetary metals from certain foodstuffs, defined differently.
+
+The closest parallels lie in reflection on money. Al-Ghazali, in the book on gratitude in the *Ihya*, argues that gold and silver coins exist to measure and mediate the value of other things, so that trading money for money at a gain turns a means into an end. Ibn Rushd, in *Bidayat al-Mujtahid*, relates the *riba* rules to preventing unfair exchange and notes the role of coin as a measure. Resemblance alone does not show borrowing from the *Politics*.
 
 ## The bridge: arguments with different roots, a close conclusion
 
@@ -45,3 +50,5 @@ Contemporary Islamic finance, in structuring alternative instruments (*sukuk*, *
 - Aquinas, Thomas. *Summa Theologiae*, II-II, q. 78 (on usury).
 - El-Gamal, Mahmoud A. *Islamic Finance: Law, Economics, and Practice*. Cambridge University Press, 2006.
 - Kuran, Timur. "The Economic System in Contemporary Islamic Thought: Interpretation and Assessment." *International Journal of Middle East Studies* 18 (1986).
+- al-Ghazali, Abu Hamid. *Ihya Ulum al-Din*, Book of Patience and Gratitude. Late eleventh to early twelfth century.
+- Ibn Rushd. *Bidayat al-Mujtahid* (English: *The Distinguished Jurist's Primer*, trans. Imran Ahsan Khan Nyazee, Garnet, 1994-1996).

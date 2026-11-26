@@ -14,9 +14,7 @@ active_start: 1930
 active_end: مستمر
 edges: []
 related: []
-gaps:
-- Detailed case studies: not yet covered
-- Contemporary empirical examples: not yet covered
+gaps: []
 ---
 # Symbolic Interactionism
 
@@ -40,6 +38,14 @@ Charles Horton Cooley, a contemporary of Mead working at the University of Michi
 
 Symbolic interactionism is closely tied to qualitative, ethnographic method. Because meanings must be recovered from the actor's point of view, its practitioners favour participant observation, in-depth interviews, life histories and the close analysis of naturally occurring talk. The Chicago tradition produced classic field studies in this spirit: William Foote Whyte's *Street Corner Society* (1943), a study of an Italian slum neighbourhood in Boston, and Howard S. Becker's *Outsiders* (1963), which showed deviance not as a quality of an act but as a label successfully applied by others, and traced how marijuana users learn to perceive and enjoy the drug's effects through interaction with experienced users. Later interactionists extended the approach to emotions — Arlie Russell Hochschild's *The Managed Heart* (1983) analysed the "emotional labour" of flight attendants. The method's strength is its fidelity to lived experience; its recurring charge is that it produces rich description at the cost of generalisation.
 
+## Case Studies
+
+Barney Glaser and Anselm Strauss's *Awareness of Dying* (1965), based on fieldwork in California hospitals, shows how knowledge shapes interaction. They distinguished awareness contexts according to who knew that a patient was dying and who acknowledged it. In closed awareness, staff knew but the patient did not; in suspected awareness, the patient tried to find out; in mutual pretence, both sides knew but acted as though they did not; in open awareness, it was acknowledged. Contexts could shift as cues slipped or were deliberately disclosed, altering what nurses, doctors, and relatives could say. Joan Emerson (1970) examined gynaecological examinations, where participants work to sustain the definition of the event as medical and impersonal. Staff use matter-of-fact language and routine procedure, while also acknowledging the patient as a person; embarrassment or joking can threaten the balance. Both studies show meaning being negotiated within institutions that give participants unequal information and authority, which answers part of the charge that the perspective cannot address power, though it leaves the wider organisation of medicine in the background.
+
+## Contemporary Empirical Examples
+
+David Snow and Leon Anderson (1987), studying homeless people in a Texas city, described identity work: through talk, some distanced themselves from the label or from other homeless people, some embraced roles, and some told embellished stories that preserved self-worth. Elijah Anderson's *Code of the Street* (1999), an ethnography of Philadelphia neighbourhoods, analysed informal rules of respect and demeanour that residents had to read and sometimes perform for safety, including many who did not endorse them, and related these rules to joblessness, racial exclusion, and distrust of police. Online settings extend the questions. Alice Marwick and danah boyd (2011) found that Twitter users managed self-presentation by imagining audiences they could not see and by balancing candour against the risk that relatives or employers might read their messages. These studies draw on interactionist ideas to different degrees, and their findings are tied to particular places and platforms. Their contribution is to show the processes through which identities and shared rules are maintained or contested.
+
 ## Criticism and Influence
 
 Critics have long argued that symbolic interactionism neglects power and social structure. By concentrating on how actors negotiate meanings face to face, it can make inequality, institutions and material constraint disappear from view; a job interview or a police stop is shaped by more than the participants' definitions of the situation. Interactionists reply that structures exist only as they are enacted and interpreted, and that macro-phenomena such as markets or states are themselves sustained by chains of interaction. The perspective has nonetheless left a deep mark: on the sociology of deviance through labelling theory, on medical sociology, on the study of identity and the self, and on qualitative methodology across the social sciences. Contemporary work applies its tools to online interaction, where avatars, profiles and emojis have become new significant symbols, and to the negotiation of identity in settings Mead and Blumer never imagined. Its enduring claim is simple and radical: society is not a thing above us but a process we make, moment by moment, by taking the role of the other.
@@ -53,3 +59,8 @@ Critics have long argued that symbolic interactionism neglects power and social 
 - Goffman, Erving. *Asylums: Essays on the Social Situation of Mental Patients and Other Inmates*. 1961.
 - Becker, Howard S. *Outsiders: Studies in the Sociology of Deviance*. 1963.
 - Hochschild, Arlie Russell. *The Managed Heart: Commercialization of Human Feeling*. 1983.
+- Glaser, Barney G., and Anselm L. Strauss. *Awareness of Dying*. 1965.
+- Emerson, Joan P. "Behavior in Private Places: Sustaining Definitions of Reality in Gynecological Examinations." In *Recent Sociology No. 2*, edited by Hans Peter Dreitzel. 1970.
+- Snow, David A., and Leon Anderson. "Identity Work among the Homeless: The Verbal Construction and Avowal of Personal Identities." *American Journal of Sociology*. 1987.
+- Anderson, Elijah. *Code of the Street*. 1999.
+- Marwick, Alice E., and danah boyd. "I Tweet Honestly, I Tweet Passionately: Twitter Users, Context Collapse, and the Imagined Audience." *New Media & Society*. 2011.

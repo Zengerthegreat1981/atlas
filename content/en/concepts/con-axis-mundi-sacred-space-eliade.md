@@ -17,8 +17,7 @@ related:
 - id: "thk-mircea-eliade", title: "Mircea Eliade", type: "مفكر"
 - id: "wrk-image-and-pilgrimage-turner", title: "Image and Pilgrimage in Christian Culture", type: "عمل / كتاب"
 - id: "sch-phenomenology-of-religion-otto-eliade", title: "Phenomenology of Religion: Otto, Eliade, and Their Legacy", type: "مدرسة"
-gaps:
-  - "Independent ethnographic verification of Eliade's comparative examples: not yet covered"
+gaps: []
 ---
 
 # Axis Mundi and Sacred Space in Eliade's Phenomenology
@@ -28,6 +27,10 @@ A central concept in Mircea Eliade's method for the comparative study of religio
 ## Comparative Examples in Eliade
 
 Eliade cites recurring forms of this pattern across distant cultures: the sacred mountain (Sinai, Olympus, the Hindu Meru), the cosmic pillar or tree (the Scandinavian Yggdrasil, the tree of life in several traditions), and the temple or the Kaaba as the "navel of the world" (*umbilicus mundi*). In all these cases the sacred place is a "center" around which the lived space of the religious community is organized, in contrast to the "ordinary" homogeneous space that has no fixed center.
+
+## Checking an Example Against Its Source: The Achilpa Pole
+
+One of Eliade's best-known illustrations in *The Sacred and the Profane* concerns the Achilpa, an Arrernte (Aranda) group of central Australia. In his telling, a sacred pole carried on their wanderings served as a cosmic axis linking them with the sky, and when it broke the people lost their orientation and lay down to die. His account depends on the reports of the ethnographers Baldwin Spencer and F. J. Gillen. In *To Take Place*, Jonathan Z. Smith went back to those reports and argued that they do not bear this weight: the ancestral narratives are concerned with journeys and the marks those journeys left on the landscape, and the idea of a cosmic center joining earth to heaven is largely supplied by the interpreter. Sam Gill, in *Storytracking* (1998), traced the chain of texts further and concluded that Eliade's version departs substantially from what his sources recorded, joining and reshaping separate elements. These are checks of published records rather than new fieldwork, and a failure in one case does not by itself refute the others. It does show that each of Eliade's comparative examples needs to be tested against its own sources.
 
 ## Its Relation to Pilgrimage
 
@@ -47,3 +50,5 @@ A prominent later methodological objection to Eliade's concept is Jonathan Z. Sm
 - Eliade, M. (1949). *Traité d'histoire des religions*. Payot. (English: *Patterns in Comparative Religion*, 1958.)
 - Smith, J. Z. (1987). *To Take Place: Toward Theory in Ritual*. University of Chicago Press.
 - Turner, V., & Turner, E. (1978). *Image and Pilgrimage in Christian Culture*. Columbia University Press.
+- Spencer, B., & Gillen, F. J. (1927). *The Arunta: A Study of a Stone Age People*. Macmillan.
+- Gill, S. D. (1998). *Storytracking: Texts, Stories, and Histories in Central Australia*. Oxford University Press.

@@ -12,8 +12,7 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "Cognitive Behavioral Therapy (CBT)", target_type: "مدرسة"
 related:
-gaps:
-  - "Thinker entries for Peter Salovey and John Mayer: not yet covered"
+gaps: []
 ---
 
 # Emotional Intelligence: The Concept
@@ -53,9 +52,18 @@ In clinical settings, deficits in emotion regulation and emotional awareness are
 
 In education, EI research has informed Social and Emotional Learning (SEL) programs. Prominent among these is the RULER approach, developed at the Yale Center for Emotional Intelligence, which integrates structured curricula to help students and educators recognize, understand, label, express, and regulate emotions. While commercial claims that EI accounts for 80% of life success are empirically unfounded, meta-analytic findings support modest positive associations between EI and psychological well-being, prosocial interpersonal relations, and occupational performance.
 
+## Peter Salovey and John D. Mayer
+
+Peter Salovey (born 1958) is an American social psychologist who studied at Stanford University, received his doctorate from Yale in 1986 and made his career there. Beside emotional intelligence, he worked extensively in health psychology, particularly on how the framing of health messages affects behaviour. He held a series of academic offices at Yale, including dean of Yale College and provost, and served as president of the university from 2013 to 2024.
+
+John D. Mayer is an American personality psychologist who took his doctorate at Case Western Reserve University and became a professor at the University of New Hampshire. His research concerns mood, personality as an organized system and the abilities people use to reason about psychological information. He later proposed a related construct, set out in *Personal Intelligence* (2014): the capacity to reason about personality, one's own and other people's, and to use that understanding in decisions.
+
+Their collaboration produced the 1990 article and, with David Caruso, the later performance tests. Both have distinguished their narrower ability concept from the broader popular uses of the term.
+
 ## Sources
 
 - Peter Salovey & John D. Mayer, "Emotional Intelligence", *Imagination, Cognition, and Personality*, 1990.
 - Daniel Goleman, *Emotional Intelligence: Why It Can Matter More Than IQ*, 1995.
 - John D. Mayer, Peter Salovey & David R. Caruso, "Emotional Intelligence: New Ability or Eclectic Traits?", *American Psychologist*, 2008.
 - K. V. Petrides & Adrian Furnham, "On the Dimensional Structure of Emotional Intelligence", *Personality and Individual Differences*, 2000.
+- John D. Mayer, *Personal Intelligence: The Power of Personality and How It Shapes Our Lives*, 2014.

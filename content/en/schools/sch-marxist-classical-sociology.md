@@ -14,9 +14,7 @@ active_start: 1848
 active_end: مستمر
 edges: []
 related: []
-gaps:
-- Detailed case studies: not yet covered
-- Contemporary empirical examples: not yet covered
+gaps: []
 ---
 # Marxist Classical Sociology
 
@@ -33,6 +31,14 @@ Historical materialism rests on a distinction between the forces of production, 
 ## Key Works and Method
 
 Marx's method, a materialist version of Hegelian dialectic (the label "dialectical materialism" is not Marx's own and was adopted by later writers), treats social forms as historical and contradictory rather than natural and permanent. *The German Ideology* (written 1845–1846, published 1932) states the materialist conception of history in its first systematic form. *The Communist Manifesto* (1848) applies it as a political programme. The *Grundrisse* (written 1857–1858, published 1939) contains Marx's most searching notebooks on method, money, and pre-capitalist societies. *Capital*, Volume 1 (1867), is the school's central work: it analyses the commodity, the labour theory of value, the working day, machinery, and the accumulation of capital, arguing that capitalism's contradictions, overproduction, falling rates of profit, and the growth of a reserve army of labour, drive it toward crisis. Engels's *Anti-Dühring* (1878) popularised the system, and *The Origin of the Family, Private Property and the State* (1884) extended materialism to kinship and the state.
+
+## Case Studies
+
+Two classic analyses show the method applied to particular events. In the chapter of *Capital* on the working day, Marx used reports of British factory inspectors and parliamentary commissions to trace struggles over hours. Competition pushed employers to lengthen the day, even at the cost of workers' health and children's lives, while organised workers and the state eventually imposed legal limits through the Factory Acts. The case joins an abstract theory of surplus value to documented conflict, and shows law responding to class struggle without simply expressing one employer's wishes. *The Eighteenth Brumaire of Louis Bonaparte* (1852) examines how Louis Bonaparte moved from elected president of France to seizing power in 1851. Marx distinguished several fractions of the propertied classes and gave attention to parties, the army, the state bureaucracy, and the smallholding peasantry, whom he regarded as unable to organise themselves as a national class. The analysis is considerably more intricate than a two-class model and is often cited against purely economic readings of Marx. Both remain interpretations whose evidence and conclusions historians can dispute.
+
+## Contemporary Empirical Examples
+
+Later researchers have used and revised Marxist concepts in fieldwork and surveys. Michael Burawoy's *Manufacturing Consent* (1979), based on work as a machine operator in a Chicago-area factory, asked why workers cooperate in their own exploitation and found that shop-floor games around output quotas generated consent. Erik Olin Wright's *Class Counts* (1997) used comparative surveys to study class positions defined by property, authority, and skill, including managers and others whose locations a two-class scheme cannot easily place. In China, Pun Ngai's *Made in China* (2005) examined young women migrant workers in an electronics factory, showing how class formation was entangled with gender and rural origin. Ching Kwan Lee's *Against the Law* (2007) compared labour protest in China's declining industrial north-east and export-oriented south, where workers frequently appealed to law and made grievances that did not become a unified class movement. Such studies support the continuing value of examining property, work, and conflict, while indicating that class interests do not translate automatically into class consciousness.
 
 ## Influence and Legacy
 
@@ -56,3 +62,8 @@ Marxist classical sociology stands in productive tension with the other classica
 - Engels, Friedrich. *The Origin of the Family, Private Property and the State*. Hottingen-Zurich, 1884.
 - Lukács, Georg. *History and Class Consciousness*. Berlin: Malik-Verlag, 1923.
 - McLellan, David. *Karl Marx: His Life and Thought*. London: Macmillan, 1973.
+- Marx, Karl. *The Eighteenth Brumaire of Louis Bonaparte*. 1852.
+- Burawoy, Michael. *Manufacturing Consent*. Chicago: University of Chicago Press, 1979.
+- Wright, Erik Olin. *Class Counts: Comparative Studies in Class Analysis*. Cambridge: Cambridge University Press, 1997.
+- Pun Ngai. *Made in China: Women Factory Workers in a Global Workplace*. Durham: Duke University Press, 2005.
+- Lee, Ching Kwan. *Against the Law: Labor Protests in China's Rustbelt and Sunbelt*. Berkeley: University of California Press, 2007.

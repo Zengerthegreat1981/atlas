@@ -12,8 +12,7 @@ active_start: 1900
 active_end: مستمر
 edges: []
 related: []
-gaps:
-- Empirical examples: not yet covered
+gaps: []
 sociological_tradition: other
 sociological_paradigm: micro-macro
 ---
@@ -39,6 +38,10 @@ A persistent debate concerns how much agency the individual retains. Functionali
 
 Socialization remains central to explaining how societies persist and how they change. It frames research on schooling and inequality, on the transmission of language and religion, on political attitudes formed in youth, and on the effects of digital life, where children are now socialised partly by platforms and algorithms rather than only by face-to-face contact. Migration and multicultural societies raise the question of how people are socialised into more than one culture at once, and of how second-generation immigrants negotiate competing norms. The concept also underpins policy debates: early childhood programmes, civic education, and the rehabilitation of offenders all rest on the premise that socialization can be deliberately shaped — and on the recognition that it is never fully under anyone's control. Recent research on digital life has added a further complication: children are increasingly socialised by recommendation systems and peer networks that operate beyond the reach of parents and teachers, so that the agencies of socialization themselves are being reorganised. Understanding who socialises whom, and to what ends, has therefore become a question about the design of institutions and technologies as much as about the family and the school.
 
+## Empirical Examples
+
+Theodore Newcomb's study of Bennington College in the 1930s, published in 1943, found that many students from conservative families moved toward more liberal views as they took the college community as a reference, while those who stayed oriented to home changed less. Melvin Kohn's *Class and Conformity* (1969) reported that middle-class parents tended to stress self-direction in their children and working-class parents conformity, and linked the difference to the conditions of the parents' work. Annette Lareau's *Unequal Childhoods* (2003), based on interviews and close observation of families in the United States, contrasted organised, adult-managed activities and extensive reasoning in middle-class homes with more unstructured time and clearer directives in working-class and poor homes, and traced how schools rewarded the former style. Barrie Thorne's *Gender Play* (1993) observed primary school children actively marking and sometimes crossing boundaries between boys and girls. Together these studies show family, school and peers at work, while their findings belong to particular places and periods.
+
 ## Sources
 
 - Charles Horton Cooley, *Human Nature and the Social Order*, 1902.
@@ -47,3 +50,7 @@ Socialization remains central to explaining how societies persist and how they c
 - Talcott Parsons, *The Social System*, 1951.
 - Erving Goffman, *Asylums: Essays on the Social Situation of Mental Patients and Other Inmates*, 1961.
 - Peter L. Berger and Thomas Luckmann, *The Social Construction of Reality*, 1966.
+- Theodore M. Newcomb, *Personality and Social Change*, 1943.
+- Melvin L. Kohn, *Class and Conformity: A Study in Values*, 1969.
+- Annette Lareau, *Unequal Childhoods: Class, Race, and Family Life*, 2003.
+- Barrie Thorne, *Gender Play: Girls and Boys in School*, 1993.

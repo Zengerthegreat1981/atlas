@@ -12,8 +12,7 @@ active_start: 1944
 active_end: مستمر
 edges: []
 related: []
-gaps:
-- Detailed empirical case studies: not yet covered
+gaps: []
 ---
 # The Stranger
 
@@ -21,7 +20,7 @@ gaps:
 
 ## Historical Context and Publication
 
-Schutz wrote the essay as a refugee himself. Born in Vienna in 1899, trained in law and the social sciences, and deeply influenced by Edmund Husserl's phenomenology, he fled Austria after the Anschluss of 1938 and emigrated to the United States in 1939, where he taught at the New School for Social Research in New York. The essay appeared in 1944, while the war that had displaced millions was still raging, and it was followed a year later by its companion piece, "The Homecomer." Schutz was writing at a moment when sociology was dominated by structural and statistical approaches, and his insistence that social order rests on the shared, unreflective assumptions of everyday life offered a radically different starting point.
+Schutz wrote the essay as a refugee himself. Born in Vienna in 1899, trained in law and the social sciences, and deeply influenced by Edmund Husserl's phenomenology, he was in Paris at the time of the Anschluss of 1938, did not resume life in Austria, and emigrated to the United States in 1939, where he later taught at the New School for Social Research in New York. The essay appeared in 1944, while the war that had displaced millions was still raging, and it was followed a year later by its companion piece, "The Homecomer." Schutz was writing at a moment when sociology was dominated by structural and statistical approaches, and his insistence that social order rests on the shared, unreflective assumptions of everyday life offered a radically different starting point.
 
 ## Thesis and Core Argument
 
@@ -30,6 +29,10 @@ Schutz's central claim is that every group lives by a "cultural pattern" — a b
 ## Structure and Method
 
 The essay proceeds by a careful phenomenological analysis rather than by empirical fieldwork. Schutz begins with the concept of the cultural pattern and the "thinking as usual" of the in-group, then introduces the stranger as the figure for whom this pattern fails. He traces the stages of the stranger's experience: the initial shock of finding familiar recipes useless, the attempt to learn the new group's pattern as an outsider, the gradual acquisition of its taken-for-granted knowledge, and the persistent insecurity that accompanies this learning, since knowledge acquired as an adult never has the self-evidence of knowledge absorbed in childhood. The companion essay on the "homecomer" contrasts this position with that of someone returning to a familiar group, where both have changed. Schutz's method is the description of the structures of the life-world, developed from Husserl's philosophy and applied to a concrete social situation.
+
+## Illustrative Cases
+
+Schutz's essay offers no fieldwork, and its approaching immigrant is an ideal type. Related cases show what such analysis can bring into view. In "The Homecomer" Schutz drew on the situation of servicemen returning from war, who expected a familiar home while both they and those awaiting them had changed. Harold Garfinkel's *Studies in Ethnomethodology* (1967) reports exercises in which students behaved as lodgers in their own homes. Treating familiar routines as unfamiliar exposed expectations that relatives ordinarily took for granted, and often provoked bewilderment or anger. The same book presents the case of Agnes, a young transgender woman whom Garfinkel studied through interviews at a university medical centre. Agnes had to learn and display conduct that others treated as natural, while avoiding disclosure, and Garfinkel described this as a continuing practical accomplishment. Neither study is a test of Schutz's account of immigrants. They extend a related concern with tacit knowledge to situations of disrupted or newly acquired membership.
 
 ## Key Concepts
 

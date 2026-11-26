@@ -12,8 +12,7 @@ active_start: 1900
 active_end: مستمر
 edges: []
 related: []
-gaps:
-- Cross-school comparisons: not yet covered
+gaps: []
 sociological_tradition: other
 sociological_paradigm: micro-macro
 ---
@@ -43,6 +42,10 @@ Muzafer Sherif's Robbers Cave study (1954, reported in *Intergroup Conflict and 
 
 Ethnocentrism remains a live problem in a world of migration, global media, and multicultural societies. It shapes public attitudes toward immigration, the design of development policy, the reporting of foreign conflicts, and the everyday encounters of diverse workplaces and classrooms. Research on intergroup contact, education, and media representation all addresses the question of how ethnocentric attitudes form and how they can be reduced. The concept also frames debates about universal human rights: whether rights claims are genuinely universal or the projection of one culture's values onto others. Its enduring lesson is that understanding other ways of life requires a deliberate effort to step outside the categories of one's own. That effort is not a matter of abandoning judgement altogether, but of earning it: first learning how a practice makes sense within the life of the people who live by it, and only then asking whether it can be defended. Ethnocentrism, in this view, is not simply a failure of tolerance but a failure of understanding — and the remedy begins with the discipline of seeing one's own culture as one possibility among others.
 
+## Comparing Schools of Explanation
+
+Research traditions locate the source of ethnocentrism in different places. Sumner's account ties it to group life as such, with loyalty inside and hostility outside as two sides of one process. The authors of *The Authoritarian Personality* (1950), joining Frankfurt School social theory to psychoanalysis and survey scales, one of which measured ethnocentrism, traced it to a personality formed by rigid upbringing. Sherif's realistic conflict approach explains hostility by competition between groups for goals that only one can reach, whereas social identity theory holds that categorization alone can favour the in-group. Evolutionary modellers such as Ross Hammond and Robert Axelrod (2006) showed in computer simulations that in-group cooperation can spread under simple local conditions. Postcolonial scholarship, following Said, shifts attention from individual attitudes to institutions of knowledge and power. The approaches also disagree about remedies: changing child-rearing, restructuring goals, widening group boundaries or criticizing inherited categories. Marilynn Brewer argued in 1999 that attachment to an in-group does not necessarily entail hostility toward out-groups, qualifying the older assumption that the two rise together.
+
 ## Sources
 
 - William Graham Sumner, *Folkways: A Study of the Sociological Importance of Usages, Manners, Customs, Mores, and Morals*, 1906.
@@ -52,3 +55,6 @@ Ethnocentrism remains a live problem in a world of migration, global media, and 
 - Edward W. Said, *Orientalism*, 1978.
 - Muzafer Sherif et al., *Intergroup Conflict and Cooperation: The Robbers Cave Experiment*, 1961.
 - Henri Tajfel, *Human Groups and Social Categories: Studies in Social Psychology*, 1981.
+- Theodor W. Adorno, Else Frenkel-Brunswik, Daniel J. Levinson, and R. Nevitt Sanford, *The Authoritarian Personality*, 1950.
+- Marilynn B. Brewer, "The Psychology of Prejudice: Ingroup Love and Outgroup Hate?" *Journal of Social Issues*, 1999.
+- Ross A. Hammond and Robert Axelrod, "The Evolution of Ethnocentrism," *Journal of Conflict Resolution*, 2006.

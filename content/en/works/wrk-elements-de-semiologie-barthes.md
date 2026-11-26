@@ -18,8 +18,7 @@ related:
 - id: "sch-structuralist-semiology", title: "Structuralist Semiology", type: "مدرسة"
 - id: "thk-ferdinand-de-saussure", title: "Ferdinand de Saussure", type: "مفكر"
 - id: "con-myth-second-order-signification-barthes", title: "Myth and Second-Order Signification in Barthes", type: "مفهوم"
-gaps:
-  - "Arabic translations: not yet covered"
+gaps: []
 ---
 
 # Elements of Semiology
@@ -66,7 +65,12 @@ Despite its explicitly French origin, the work deeply influenced the development
 
 The work is still widely used as an introductory text in semiotics and cultural studies, because of its relative brevity and the clarity of its methodological presentation compared with Barthes's later, more stylistically complex works (such as *S/Z*). This makes it often the first Barthes text that a beginning student reads in the field, before moving on to his more mature and complex works.
 
+## In Arabic
+
+The work reached Arabic readers chiefly through the translation by the Moroccan scholar Muhammad al-Bakri, *Mabadi' fi 'Ilm al-Adilla*, which appeared in the mid-1980s and was issued by Dar al-Hiwar in Latakia in 1987. The choice of title is itself informative. Arabic has had several competing equivalents for the name of the discipline, among them *'ilm al-adilla*, *'ilm al-'alamat*, *al-simyulujiya*, *al-simyutiqa* and *al-simiya'iyyat*, the last being especially common in Moroccan and wider Maghrebi scholarship. Al-Bakri's *adilla* draws on a root associated in the classical tradition with signification (*dalala*), while later writers have often preferred forms built on *'alama* or *simiya'*. Readers searching the Arabic literature on Barthes therefore need to look under more than one term, both for the discipline and for basic pairs such as signifier and signified. The account here is limited to this widely cited version and is not a bibliography of every Arabic rendering of the essay.
+
 ## Sources
 
 - Barthes, Roland (1964). "Éléments de sémiologie." *Communications* 4.
 - Barthes, Roland (1967, English trans. Annette Lavers and Colin Smith). *Elements of Semiology*. Jonathan Cape.
+- Barthes, Roland. *Mabadi' fi 'Ilm al-Adilla*. Arabic translation by Muhammad al-Bakri. Latakia: Dar al-Hiwar, 1987.

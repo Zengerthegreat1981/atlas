@@ -24,8 +24,7 @@ edges:
 related:
 - id: "sch-generative-grammar", title: "Generative-Transformational Grammar", type: "مدرسة"
 - id: "con-deep-surface-structure", title: "Deep Structure and Surface Structure", type: "مفهوم"
-gaps:
-  - "Arabic translations: not yet covered"
+gaps: []
 ---
 
 # Syntactic Structures
@@ -60,9 +59,14 @@ The passive is one of the book's worked examples of a transformation. A kernel s
 
 The book's influence went beyond technical linguistics to reach the philosophy of language and the cognitive sciences then emerging. The generative model of formal rules encouraged the view of the mind as a system operating by explicit rules. Together with Chomsky's 1959 review of Skinner's *Verbal Behavior*, it contributed to the cognitive revolution in psychology, and it linked linguistics with computer science and formal language theory.
 
+## In Arabic
+
+The book was translated into Arabic by the Iraqi linguist Yu'il Yusuf 'Aziz under the title *al-Buna al-Nahwiyya*, with revision by Majid al-Mashita, and was published in Baghdad in 1987, the same year in which an edition also appeared in Morocco. The translation therefore came about thirty years after the English original, by which time generative theory had already passed through the model of *Aspects* and into Government and Binding. Arabic readers could thus meet the 1957 model after, or alongside, accounts of much later stages, and it is useful to keep the stages apart: terms such as deep and surface structure do not belong to the central apparatus of this first book. The translation also had to settle Arabic equivalents for the technical vocabulary of phrase structure and transformation, an area where usage among Arab linguists has varied, with competing renderings in circulation for *transformational* and *generative* in particular. This section records the best-known version and does not attempt a complete list of Arabic renderings or reprints.
+
 ## Sources
 
 - Chomsky, Noam (1957). *Syntactic Structures*. Mouton.
 - Newmeyer, Frederick J. (1986). *Linguistic Theory in America* (2nd ed.). Academic Press.
 - Chomsky, Noam (1959). "A Review of B. F. Skinner's *Verbal Behavior*." *Language* 35.
 - Bloomfield, Leonard (1933). *Language*. Henry Holt.
+- Chomsky, Noam. *al-Buna al-Nahwiyya*. Arabic translation by Yu'il Yusuf 'Aziz, revised by Majid al-Mashita. Baghdad: Dar al-Shu'un al-Thaqafiyya al-'Amma, 1987.

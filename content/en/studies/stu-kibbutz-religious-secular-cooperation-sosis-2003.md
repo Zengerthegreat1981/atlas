@@ -17,8 +17,7 @@ edges:
 related:
 - id: "con-costly-signaling-theory-of-religion", title: "The Costly Signalling Theory of Religion", type: "مفهوم"
 - id: "sch-cognitive-science-of-religion", title: "Cognitive Science of Religion", type: "مدرسة"
-gaps:
-  - "Methodological objections to the studies (for example, difficulty isolating religious commitment from other differences between religious and secular communes): not yet covered."
+gaps: []
 ---
 
 # Costly Signalling and Cooperation in Religious and Secular Communities (Sosis and Bressler, 2003)
@@ -36,6 +35,12 @@ Sosis and Ruffle (2003, *Current Anthropology*) studied religious and secular ki
 ## The Mechanism of Costly Signalling
 
 Costly signalling theory, derived from evolutionary biology (notably Amotz Zahavi's "handicap principle"), holds that ritual commitments that are apparently costly, such as time spent on repeated prayers or restrictions on diet and dress, can function as a signal that is hard to counterfeit of a person's commitment to the group, because someone who is not committed will not usually bear such costs without an immediate benefit. The theory offers a proposed solution to an evolutionary puzzle: how cooperative trust arises among unrelated individuals in large groups, where direct verification of each person's intentions is difficult.
+
+## Methodological Objections
+
+The central difficulty is that religious and secular communities were not assigned their status at random. In the commune data, religious groups may have differed from secular ones in leadership, shared origin, kinship ties, economic organization or the kind of people they attracted, and any of these could affect survival. Statistical controls can address only what the historical record measures. A count of costly requirements also treats unlike demands as comparable and may miss how strictly they were observed; surviving records may be fuller for longer-lived groups. Demanding rules could reflect already high commitment as well as produce it. The finding that costs predicted longevity only among religious communes also needs an additional explanation, such as the sacred meaning attached to religious demands, which signalling theory alone does not supply.
+
+In the kibbutz study, members may have selected into religious communities because they were already inclined to cooperate. Synagogue attendance is associated with sex and religious role, so comparing men and women does not isolate ritual from other differences, including collective study or social contact. A one-time economic game measures a narrow behaviour among fellow members and need not generalize to daily life or to outsiders. These points limit causal conclusions without showing the reported associations to be false.
 
 ## Impact and Caution
 

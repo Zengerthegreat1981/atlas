@@ -12,8 +12,7 @@ active_start: 1900
 active_end: مستمر
 edges: []
 related: []
-gaps:
-- Cross-school comparisons: not yet covered
+gaps: []
 sociological_tradition: other
 sociological_paradigm: micro-macro
 ---
@@ -38,6 +37,10 @@ One important distinction is between positive and negative reference groups. A p
 
 The reference group is more relevant than ever in an age of social media, where the range of available comparisons has exploded. People now measure their appearance, income, lifestyle, and happiness against images curated by influencers, celebrities, and peers, often with damaging consequences for self-esteem and mental health. Upward comparison on platforms such as Instagram is linked to anxiety and dissatisfaction, echoing Stouffer's soldiers. In consumer research, the concept explains how advertising supplies reference groups whose consumption defines aspiration. In the study of migration, it explains why migrants may feel deprived despite objective improvements in their circumstances, because their frame of reference has shifted to the host society. In education and the workplace, it illuminates how students and employees set their ambitions by looking at those around them, and why the same achievement can feel like success in one context and failure in another. The concept's enduring lesson is that satisfaction is relative: what people want, and whether they feel they have enough, depends less on what they have than on whom they compare themselves with.
 
+## Comparisons across Schools
+
+The concept is used differently across traditions. In Merton's middle-range functionalism, the task is to state when people choose one comparison group rather than another and with what consequences for conformity and mobility. Symbolic interactionists following Shibutani treat the reference group as a perspective acquired through communication, so that participation in a social world matters more than deliberate comparison. Social psychology developed a neighbouring line in Leon Festinger's theory of social comparison (1954), which holds that people evaluate opinions and abilities against others, preferably similar others, when objective standards are lacking. W. G. Runciman's *Relative Deprivation and Social Justice* (1966) joined the idea to stratification, asking why manual workers in England often compared themselves within a narrow range and so felt less aggrieved than the overall distribution might suggest. Pierre Bourdieu's account of habitus, though it uses a different vocabulary, locates aspirations in dispositions shaped by objective chances, and so questions how freely comparison groups are chosen. The schools divide over whether the choice of reference is mainly cognitive, interactional or structural.
+
 ## Sources
 
 - Hyman, Herbert H. *The Psychology of Status*. 1942.
@@ -46,3 +49,6 @@ The reference group is more relevant than ever in an age of social media, where 
 - Merton, Robert K. *Social Theory and Social Structure*, revised and enlarged edition. Free Press, 1957.
 - Kelley, Harold H. "Two Functions of Reference Groups." 1952.
 - Shibutani, Tamotsu. "Reference Groups as Perspectives." 1955.
+- Festinger, Leon. "A Theory of Social Comparison Processes." *Human Relations*, 1954.
+- Runciman, W. G. *Relative Deprivation and Social Justice*. 1966.
+- Bourdieu, Pierre. *Distinction: A Social Critique of the Judgement of Taste*. 1984. First published in French, 1979.

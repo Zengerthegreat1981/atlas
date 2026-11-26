@@ -11,8 +11,7 @@ active_start: 1900
 active_end: "مستمر"
 edges: []
 related: []
-gaps:
-  - "Primary sources: not yet covered"
+gaps: []
 ---
 
 # Social Contract
@@ -27,11 +26,17 @@ The classical Islamic tradition did not formulate a social contract in the stric
 
 ## The Three Western Schools
 
-Thomas Hobbes, in *Leviathan* (1651), established the most pessimistic account. He described the state of nature as a "war of all against all," which makes human life "solitary, poor, nasty, brutish, and short." Individuals therefore rationally surrender all their rights to an absolute sovereign who enforces peace by force. John Locke, in *Two Treatises of Government* (1689), offered a more optimistic picture. He held that the state of nature is already governed by a rational natural law that preserves the rights to life, liberty, and property. The contract does not create these rights but protects them, and if the government violates this trust, the people have the right to revolt against it. Jean-Jacques Rousseau, in *The Social Contract* (1762), put forward a third formulation based on the "general will," in which the individual voluntarily dissolves into the collective in order to acquire a civil freedom superior to his natural freedom. In the twentieth century, John Rawls offered a contemporary version through the ideas of the "original position" and the "veil of ignorance," to derive principles of justice that rational individuals would agree upon while ignorant of their future social position.
+Thomas Hobbes, in *Leviathan* (1651), established the most pessimistic account. He described the state of nature as a "war of all against all," which makes human life "solitary, poor, nasty, brutish, and short." Individuals therefore rationally surrender nearly all their natural rights (retaining that of defending their own lives) to an absolute sovereign who enforces peace by force. John Locke, in *Two Treatises of Government* (1689), offered a more optimistic picture. He held that the state of nature is already governed by a rational natural law that preserves the rights to life, liberty, and property. The contract does not create these rights but protects them, and if the government violates this trust, the people have the right to revolt against it. Jean-Jacques Rousseau, in *The Social Contract* (1762), put forward a third formulation based on the "general will," in which the individual voluntarily dissolves into the collective in order to acquire a civil freedom superior to his natural freedom. In the twentieth century, John Rawls offered a contemporary version through the ideas of the "original position" and the "veil of ignorance," to derive principles of justice that rational individuals would agree upon while ignorant of their future social position.
 
 ## Major Objections
 
 David Hume objected ("Of the Original Contract," 1748) that most people never actually signed any contract, and that the real political obligation arises from habit and utility rather than from an imagined historical agreement. Feminist critics, such as Carole Pateman in *The Sexual Contract* (1988), argued that the founding contract excluded women as parties and presupposed a prior sexual contract that subordinated them. The deepest question remains: how can a hypothetical contract that no one actually signed bind later generations who were never consulted?
+
+## Primary Texts
+
+Early anticipations appear in Plato. In Book II of the *Republic*, Glaucon sketches justice as a compromise agreed among people who fear suffering wrong, and in the *Crito* the personified Laws argue that Socrates, by living willingly in Athens, agreed to obey them.
+
+The modern texts can be read by chapter. Hobbes's *Leviathan* treats the state of nature in chapter 13, natural right, natural law and contract in chapters 14 and 15, and the institution of the sovereign in chapters 17 and 18. Locke's *Second Treatise* moves from the state of nature, through property and consent, to the dissolution of government in its final chapter; it distinguishes express from tacit consent. Book I of Rousseau's *Social Contract* states the problem of finding an association that protects each member while leaving each as free as before. Kant's essay of 1793 on theory and practice treats the original contract not as a historical fact but as an idea of reason that tests whether a law could have won the consent of a whole people. Later contractarian and contractualist works include David Gauthier's *Morals by Agreement* (1986) and T. M. Scanlon's *What We Owe to Each Other* (1998).
 
 ## Sources
 
@@ -42,3 +47,7 @@ David Hume objected ("Of the Original Contract," 1748) that most people never ac
 - Pateman, Carole. *The Sexual Contract*. Stanford University Press, 1988.
 - Rawls, John. *A Theory of Justice*. Harvard University Press, 1971.
 - al-Farabi, Abu Nasr. *Ara' Ahl al-Madina al-Fadila*. Edited by Albert Nasri Nader. Dar al-Mashriq, Beirut, 1968.
+- Plato. *Crito* and *Republic*.
+- Kant, Immanuel. "On the Common Saying: That May Be Correct in Theory, but It Is of No Use in Practice" (1793).
+- Gauthier, David. *Morals by Agreement*. Oxford University Press, 1986.
+- Scanlon, T. M. *What We Owe to Each Other*. Harvard University Press, 1998.

@@ -11,8 +11,7 @@ active_start: 1900
 active_end: "مستمر"
 edges: []
 related: []
-gaps:
-  - "Primary sources: not yet covered"
+gaps: []
 ---
 
 # Moral Subjectivism
@@ -37,8 +36,21 @@ A strong logical objection to subjectivism is often put as the problem of disagr
 
 An applied example: when a person says, "I believe that white lies are acceptable," subjectivism makes this statement true for that person alone. This does not mean that someone who holds the opposite view is mistaken. Consequently, a genuine moral dialogue between the two sides becomes logically impossible.
 
+## Further Primary Sources
+
+The saying of Protagoras is examined in Plato's *Theaetetus*, which asks whether it can be maintained without refuting itself. Sextus Empiricus's *Outlines of Pyrrhonism* collects disagreements about good and bad as grounds for withholding judgment, a sceptical rather than subjectivist conclusion. G. E. Moore's *Ethics* (1912) pressed the disagreement objection against the view that calling an act right reports the speaker's own feeling. Edward Westermarck's *Ethical Relativity* (1932) argued that moral judgments rest on emotions and lack objective validity. Bertrand Russell's *Religion and Science* (1935) treated questions of value as lying outside knowledge. C. L. Stevenson's article "The Emotive Meaning of Ethical Terms" (1937) explained how moral language influences attitudes. J. L. Mackie's *Ethics: Inventing Right and Wrong* (1977) offers a contrasting error theory, on which moral judgments aim at objective truth and fail. Later discussions of speaker relativism include Gilbert Harman's "Moral Relativism Defended" (1975), a relativism based on agreements, and James Dreier's "Internalism and Speaker Relativism" (1990).
+
 ## Sources
 
 - Ayer, A. J. *Language, Truth and Logic*. Victor Gollancz, 1936.
 - Hume, David. *A Treatise of Human Nature* (1739-40), ed. D. F. Norton and M. J. Norton. Oxford University Press, 2000.
 - Stevenson, C. L. *Ethics and Language*. Yale University Press, 1944.
+- Plato. *Theaetetus*.
+- Sextus Empiricus. *Outlines of Pyrrhonism*.
+- Moore, G. E. *Ethics*. 1912.
+- Westermarck, Edward. *Ethical Relativity*. 1932.
+- Russell, Bertrand. *Religion and Science*. 1935.
+- Stevenson, C. L. "The Emotive Meaning of Ethical Terms." *Mind* 46, 1937.
+- Harman, Gilbert. "Moral Relativism Defended." *The Philosophical Review* 84, 1975.
+- Mackie, J. L. *Ethics: Inventing Right and Wrong*. Penguin, 1977.
+- Dreier, James. "Internalism and Speaker Relativism." *Ethics* 101, 1990.

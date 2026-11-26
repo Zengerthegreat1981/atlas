@@ -12,8 +12,7 @@ active_start: 1900
 active_end: مستمر
 edges: []
 related: []
-gaps:
-- "Comparative histories of racism beyond the Atlantic world: not yet covered"
+gaps: []
 sociological_tradition: other
 sociological_paradigm: micro-macro
 ---
@@ -45,6 +44,10 @@ Debates continue about how racism relates to other systems of domination. Some M
 
 Contemporary research examines racism in new domains: algorithmic systems that reproduce racial bias in hiring, credit, and policing; the racial politics of migration and border control; and the global circulation of racist ideas through social media. The concept of racism remains contested — some argue it has been diluted by overuse, others that its expansion is necessary to capture how inequality actually works. What sociology has established is that race is real in its consequences even though it has no biological foundation, and that racism must be studied as a system, not only as a state of mind.
 
+## Comparative Histories beyond the Atlantic World
+
+Historians have traced racial or race-like hierarchies in many settings, while debating whether the term fits each. Frank Dikötter's *The Discourse of Race in Modern China* (1992) examined how older distinctions between civilised and barbarian were joined to imported biological ideas of race in the late nineteenth and twentieth centuries. In Japan, the Burakumin, descendants of outcast status groups, faced exclusion justified at times as inherited difference although they are not distinguishable by appearance; George De Vos and Hiroshi Wagatsuma compared this to caste and race. Bruce Hall's *A History of Race in Muslim West Africa* (2011) showed that ideas of race linked to genealogy and slavery shaped relations around the Niger Bend before and during colonial rule. In Rwanda, Mahmood Mamdani argued, colonial government turned the Hutu and Tutsi distinction into a racialised one by casting Tutsi as foreign settlers, with consequences that bear on the 1994 genocide. Such comparisons suggest that European colonial racism was highly influential but interacted with local hierarchies, and that comparison must specify what is inherited, ranked and enforced in each case.
+
 ## Sources
 
 - Bonilla-Silva, Eduardo. "Rethinking Racism: Toward a Structural Interpretation." *American Sociological Review* 62, no. 3 (1997): 465–480.
@@ -52,3 +55,7 @@ Contemporary research examines racism in new domains: algorithmic systems that r
 - Du Bois, W. E. B. *The Souls of Black Folk*. A. C. McClurg, 1903.
 - Fredrickson, George M. *Racism: A Short History*. Princeton University Press, 2002.
 - Omi, Michael, and Howard Winant. *Racial Formation in the United States: From the 1960s to the 1980s*. Routledge & Kegan Paul, 1986. (Second edition, from the 1960s to the 1990s, Routledge, 1994.)
+- Dikötter, Frank. *The Discourse of Race in Modern China*. Hurst, 1992.
+- De Vos, George, and Hiroshi Wagatsuma. *Japan's Invisible Race: Caste in Culture and Personality*. University of California Press, 1966.
+- Hall, Bruce S. *A History of Race in Muslim West Africa, 1600–1960*. Cambridge University Press, 2011.
+- Mamdani, Mahmood. *When Victims Become Killers: Colonialism, Nativism, and the Genocide in Rwanda*. Princeton University Press, 2001.

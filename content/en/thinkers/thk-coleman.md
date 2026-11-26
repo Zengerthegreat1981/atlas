@@ -12,10 +12,7 @@ active_start: 1926
 active_end: 1995
 edges: []
 related: []
-gaps:
-- Detailed case studies: not yet covered
-- Contemporary empirical examples: not yet covered
-- Cross-references to related concepts: not yet covered
+gaps: []
 sociological_tradition: other
 sociological_paradigm: micro-macro
 ---
@@ -48,6 +45,18 @@ Coleman was born in Bedford, Indiana. He trained as a chemical engineer before t
 
 Coleman used survey research, mathematical models and formal theory, and he favoured policy-relevant social research.
 
+## Case Studies
+
+*The Adolescent Society* drew on surveys in ten high schools in northern Illinois, in communities differing in size and social composition. Coleman asked pupils what brought popularity and recognition and compared their answers with academic effort. Athletic success among boys, and social popularity among girls, often carried more peer prestige than scholarship. He argued that where peers reward achievement little, able pupils may direct their energies elsewhere, so schools should consider the social system among students and not only individual motivation. His 1988 article on social capital used several short cases. Wholesale diamond merchants in New York could hand one another bags of stones for private inspection without formal insurance, because close family, religious, and community ties made cheating very costly. A mother who moved from suburban Detroit to Jerusalem felt able to let young children go about unaccompanied, reflecting norms that other adults would look after them. These examples illustrate how a network can lower the risk of trust. They also show why such capital belongs to relationships rather than to one person, and may exclude outsiders or constrain members.
+
+## Contemporary Empirical Examples
+
+Raj Chetty and colleagues (2022) analysed data on friendships among a very large number of Facebook users in the United States and distinguished several kinds of social capital. Economic connectedness, the extent of friendship between people of lower and higher socioeconomic status, was strongly associated with upward income mobility across areas, whereas measures of network cohesion and civic engagement showed weaker relationships with it. The result suggests that who is connected matters, not simply how dense relationships are. It is based largely on associations across places and on users of one platform, so it does not by itself establish that creating a particular friendship will raise a person's income. It also uses a definition of social capital that differs in emphasis from Coleman's account of closed networks and enforceable norms.
+
+## Related Concepts
+
+Related concepts include rational choice, social capital, human capital, trust, norms, closure, micro-macro linkage, methodological individualism, and educational inequality. Comparisons with Pierre Bourdieu, Robert Putnam, and Mancur Olson's analysis of collective action clarify differences in the treatment of resources, power, and cooperation. Bourdieu stresses unequal access and class reproduction; Putnam applies social capital to communities and political institutions; Olson explains why shared interests do not automatically produce joint action. Coleman's boat also connects with the study of social mechanisms and the problem of aggregation, which asks how many individual actions combine into outcomes that no actor intended.
+
 ## Influence and Criticism
 
 His social-capital concept was taken up by Robert Putnam and many others, and his report reshaped debate on school policy. Critics have argued that the term social capital is vague and risks circular reasoning, that rational-choice assumptions overlook culture and emotion, and that his later work on school desegregation and on private schools was politically contested.
@@ -58,3 +67,4 @@ His social-capital concept was taken up by Robert Putnam and many others, and hi
 - Coleman, James S. "Social Capital in the Creation of Human Capital." *American Journal of Sociology* (1988).
 - Coleman, James S. *The Adolescent Society* (1961).
 - Coleman, James S., et al. *Equality of Educational Opportunity* (1966).
+- Chetty, Raj, et al. "Social Capital I: Measurement and Associations with Economic Mobility." *Nature* (2022).

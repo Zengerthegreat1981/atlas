@@ -11,8 +11,7 @@ active_start: 1900
 active_end: "مستمر"
 edges: []
 related: []
-gaps:
-  - "Primary sources: not yet covered."
+gaps: []
 ---
 
 # Professional Conflicts of Interest
@@ -39,8 +38,18 @@ Some researchers, such as Daylian Cain, George Loewenstein and Don Moore ("The D
 
 A physician who receives gifts or financial support from a particular pharmaceutical company and then prescribes its drugs to patients, even when the drug is genuinely effective, falls into a conflict of interest. That physician must disclose the relationship to their patients and to the regulatory authorities.
 
+## Primary Sources and Founding Documents
+
+Philosophical discussion often starts from Michael Davis's article "Conflict of Interest" (1982), which defined the problem in terms of a role that requires one to exercise judgment for another, and an interest that tends to interfere with that judgment. Dennis Thompson's "Understanding Financial Conflicts of Interest" (1993) applied the idea to medicine, distinguishing a primary interest, such as patient welfare or research integrity, from secondary interests such as financial gain. The Institute of Medicine's report *Conflict of Interest in Medical Research, Education, and Practice* (2009) built on that distinction and recommended disclosure and limits on industry relationships. In law, the American Bar Association's *Model Rules of Professional Conduct* (adopted 1983) regulate conflicts between current clients, former clients, and the lawyer's own interests. In public service, the OECD's 2003 recommendation on managing conflicts of interest offers guidelines to governments. The Sarbanes-Oxley Act of 2002 restricts certain non-audit services that auditors may provide to audit clients.
+
 ## Sources
 
 - Davis, Michael, and Andrew Stark (eds.). *Conflict of Interest in the Professions*. Oxford University Press, 2001.
 - Cain, Daylian M., George Loewenstein, and Don A. Moore. "The Dirt on Coming Clean: Perverse Effects of Disclosing Conflicts of Interest." *Journal of Legal Studies* 34, 2005.
 - Moore, Don A., Philip E. Tetlock, Lloyd Tanlu, and Max H. Bazerman. "Conflicts of Interest and the Case of Auditor Independence." *Academy of Management Review* 31, 2006.
+- Davis, Michael. "Conflict of Interest." *Business and Professional Ethics Journal* 1, 1982.
+- Thompson, Dennis F. "Understanding Financial Conflicts of Interest." *New England Journal of Medicine* 329, 1993.
+- Institute of Medicine. *Conflict of Interest in Medical Research, Education, and Practice*. National Academies Press, 2009.
+- American Bar Association. *Model Rules of Professional Conduct*. 1983.
+- OECD. *Recommendation of the Council on Guidelines for Managing Conflict of Interest in the Public Service*. 2003.
+- United States. Sarbanes-Oxley Act of 2002.

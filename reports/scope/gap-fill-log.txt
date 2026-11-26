@@ -1,0 +1,380 @@
+## batch 01
+con-creolization: closed 1, kept 1; no error fixed
+con-hegemony: closed 1, kept 0; no error fixed
+con-integration: closed 1, kept 0; no error fixed
+con-kinship: closed 1, kept 0; no error fixed
+con-kula-exchange: closed 1, kept 0; no error fixed
+con-magic-religion-frazer: closed 1, kept 0; no error fixed
+con-modernity: closed 1, kept 0; no error fixed
+con-moka-hagen-exchange: closed 1, kept 0; no error fixed
+con-patrilineal-descent: closed 1, kept 0; no error fixed
+con-ritual: closed 1, kept 0; no error fixed
+con-symbol: closed 1, kept 0; no error fixed
+con-war: closed 1, kept 0; no error fixed
+dbt-nature-culture-anthropology: closed 0, kept 1; no error fixed (Viveiros entry exists, no Descola entry, so line left)
+dbt-substantivism-formalism-economic-anthropology: closed 0, kept 1; no error fixed
+fld-anthropology: closed 2, kept 0; no error fixed
+fld-ethnography-fieldwork-ethics: closed 1, kept 0; fixed now-outdated sentence saying film methods uncovered
+fld-kinship-exchange-economy: closed 1, kept 0; fixed now-outdated sentence saying finance uncovered
+fld-power-politics-anthropology: closed 2, kept 0; fixed now-outdated sentence saying anti-state theory uncovered
+gain-of-function-ethics: closed 0, kept 1; no error fixed
+sch-anthropological-political-economy: closed 0, kept 1; no error fixed
+stu-evans-pritchard-the-nuer: closed 0, kept 1; no error fixed
+thk-appadurai: closed 1, kept 0; no error fixed
+thk-arjun-appadurai: closed 1, kept 0; no error fixed
+thk-bruno-latour: closed 3, kept 0; no error fixed
+thk-latour: closed 2, kept 0; no error fixed
+thk-fei-xiaotong: closed 1, kept 0; no error fixed
+thk-george-marcus: closed 1, kept 0; no error fixed
+thk-haraway: closed 3, kept 0; no error fixed
+thk-james-clifford: closed 1, kept 0; no error fixed
+thk-leacock: closed 1, kept 0; no error fixed
+thk-lindatuhiwai: closed 2, kept 0; no error fixed
+thk-malinowski: closed 1, kept 0; no error fixed
+thk-paul-rabinow: closed 2, kept 1; no error fixed
+wrk-hawaiian-kinship: closed 1, kept 0; no error fixed
+wrk-kinship-village: closed 0, kept 1; no error fixed
+
+## batch 02
+wrk-kung-bushmen: closed 0, kept 1; none
+wrk-residence-kinship: closed 1, kept 0; none
+wrk-savage-mind: closed 0, kept 1; none
+wrk-tiwi-wives: closed 0, kept 1; none
+wrk-totemism: closed 1, kept 0; none
+wrk-urban-culture: closed 0, kept 1; none
+ctx-arabic-self: closed 0, kept 2; none
+sch-nahda-modernization: closed 0, kept 1; none
+thk-rumi: closed 0, kept 1; none
+thk-sibawayhi: closed 0, kept 1; none
+con-conscious-acts: closed 1, kept 0; none
+con-debt-financial-stress-psychology-bridge: closed 0, kept 1; none
+con-ethics-of-interest-riba-bridge: closed 1, kept 0; none
+con-facticity: closed 1, kept 0; none
+con-fusion-horizons: closed 1, kept 0; none
+con-labour-process-braverman-bridge: closed 0, kept 1; none
+con-market-morality-sandel-bridge: closed 0, kept 1; none
+con-money-happiness-easterlin-bridge: closed 1, kept 0; none
+con-moral-economy-subsistence-bridge: closed 0, kept 1; none
+con-praxis: closed 1, kept 0; none
+con-psychophysics-fechner: closed 1, kept 0; none
+con-qualia: closed 1, kept 0; none
+con-unconscious-inference: closed 1, kept 0; none
+que-what-is-consciousness: closed 2, kept 0; entries exist (thk-david-chalmers, thk-daniel-dennett)
+que-what-is-forgiveness: closed 1, kept 3; entry exists (thk-ricoeur)
+que-what-is-language: closed 2, kept 3; entries exist (thk-lwittgenstein, thk-ferdinand-de-saussure); fixed Lenneberg book title
+que-what-is-love: closed 2, kept 0; entries exist (con-love, con-attachment-theory)
+rel-integrative-humanistic-common-factors: closed 1, kept 0; none
+rel-psychoanalysis-behaviorism: closed 0, kept 1; none
+rel-psychoanalysis-cbt: closed 0, kept 1; none
+rel-psychoanalysis-humanistic: closed 0, kept 1; none
+rel-stoicism-cbt: closed 0, kept 1; none
+rel-szasz-existential-freedom-guilt: closed 0, kept 1; none
+thk-fechner: closed 0, kept 1; none
+thk-helmholtz: closed 1, kept 0; none
+thk-latour: closed 0, kept 0; fixed typo "treated science is not" (not in list)
+
+## batch 03
+thk-titchener: closed 1, kept 0; no errors fixed
+con-abortion-ethics: closed 1, kept 0; no errors fixed
+con-act-vs-rule-utilitarianism: closed 1, kept 0; no errors fixed
+con-agent-centered-consequentialism: closed 1, kept 0; no errors fixed
+con-agent-centered-duties: closed 1, kept 0; no errors fixed
+con-ancient-ethics-greece: closed 1, kept 0; no errors fixed
+con-animal-rights-ethics: closed 1, kept 0; no errors fixed
+con-autonomy-informed-consent: closed 1, kept 0; no errors fixed
+con-beneficence-nonmaleficence: closed 1, kept 0; no errors fixed
+con-biocentrism: closed 1, kept 0; no errors fixed
+con-business-virtue: closed 1, kept 0; no errors fixed
+con-caring-relationships: closed 1, kept 0; no errors fixed
+con-character-ethics: closed 1, kept 0; no errors fixed
+con-conflicts-professional: closed 1, kept 0; no errors fixed
+con-conscience: closed 1, kept 0; no errors fixed
+con-consequentialist-impartialism: closed 1, kept 0; no errors fixed
+con-deontological-constraints: closed 1, kept 0; fixed misused gloss '(thresholds)' for strict boundaries
+con-dignity-bioethics: closed 1, kept 0; no errors fixed
+con-duty-based-ethics: closed 1, kept 0; no errors fixed
+con-ecocentrism: closed 1, kept 0; no errors fixed
+con-enlightenment-ethics: closed 1, kept 0; no errors fixed
+con-ethics-of-care: closed 1, kept 0; no errors fixed
+con-euthanasia-physician-assisted-suicide: closed 1, kept 0; no errors fixed
+con-hedonistic-vs-preference-utilitarianism: closed 1, kept 0; no errors fixed
+con-humanity-as-end-in-itself: closed 1, kept 0; no errors fixed
+con-interdependence: closed 1, kept 0; no errors fixed
+con-justice-healthcare: closed 0, kept 1; gap left: Daniels excerpt not verifiable
+con-justice-rawls: closed 1, kept 0; no errors fixed
+con-moral-emotion: closed 1, kept 0; fixed broken 'distinguished between' wording on irascible power
+con-moral-motivation: closed 1, kept 0; fixed Smith's term to 'the moral problem'
+con-moral-responsibility: closed 1, kept 0; no errors fixed
+con-moral-subjectivism: closed 1, kept 0; no errors fixed
+con-moral-weakness: closed 1, kept 0; no errors fixed
+con-organ-transplant-ethics: closed 1, kept 0; no errors fixed
+con-prescriptivism: closed 1, kept 0; no errors fixed
+
+## batch 04
+con-ecocentrism: de-quoted
+con-enlightenment-ethics: de-quoted
+con-ethics-of-care: de-quoted
+con-euthanasia-physician-assisted-suicide: de-quoted
+con-interdependence: de-quoted
+con-moral-emotion: de-quoted
+con-moral-motivation: de-quoted
+con-justice-rawls: de-quoted
+thk-helmholtz: de-quoted (no 5+ word quotation found; unchanged)
+con-responsiveness-particularity: closed 1, kept 0; fixed claim that care ethics was built on Murdoch
+con-right-action: closed 1, kept 0; no error fixed
+con-social-contract: closed 1, kept 0; qualified Hobbes surrender of all rights
+con-stakeholder-theory: closed 1, kept 0; no error fixed
+con-sustainability-ethics: closed 1, kept 0; no error fixed
+con-ubuntu-african-ethics: closed 1, kept 0; no error fixed
+con-universalizability: closed 1, kept 0; no error fixed
+con-utilitarianism: closed 1, kept 0; no error fixed
+con-virtue-confucianism: closed 1, kept 0; no error fixed
+con-virtue-development: closed 1, kept 0; no error fixed
+con-whistleblowing: closed 1, kept 0; no error fixed
+sch-african-ethics: closed 1, kept 0; no error fixed
+sch-bioethics-principles: closed 1, kept 0; no error fixed
+sch-buddhist-ethics: closed 1, kept 0; no error fixed
+sch-business-ethics: closed 1, kept 0; no error fixed
+sch-care-ethics-feminist: closed 1, kept 0; no error fixed
+sch-confucian-ethics: closed 1, kept 0; no error fixed
+con-ahliyya-legal-capacity-usul: closed 1, kept 1; no error fixed
+con-civil-law-codification: closed 1, kept 0; no error fixed
+con-counter-majoritarian-difficulty-bickel: closed 1, kept 0; no error fixed
+con-criminalization-theory: closed 1, kept 0; fixed source of Duff communicative punishment theory; narrowed shared approach to Duff and Marshall
+con-gate-of-ijtihad-debate-hallaq: closed 1, kept 0; no error fixed
+con-gharar-in-contracts: closed 1, kept 1; no error fixed
+con-grundnorm-basic-norm-kelsen: closed 0, kept 1; no error fixed (full treatment gap left)
+con-hukm-taklifi-wadi-usul: closed 1, kept 0; no error fixed
+con-ifta-mufti-legal-authority: closed 2, kept 0; no error fixed
+con-ijtihad-usul: closed 1, kept 0; no error fixed
+con-ikhtilaf-juristic-disagreement: closed 1, kept 0; no error fixed
+con-insanity-defense-mnaghten: closed 0, kept 2; no error fixed
+con-istihsan-juristic-preference: closed 0, kept 1; no error fixed
+con-judicial-review: closed 1, kept 0; no error fixed
+con-legal-families-comparative-law: closed 1, kept 0; noted socialist family dropped from Zweigert-Kotz 3rd edition
+con-legal-personality: closed 0, kept 1; no error fixed
+con-legal-transplants-watson: closed 0, kept 1; no error fixed
+con-madhhab-legal-school-institution: closed 1, kept 1; no error fixed
+
+## batch 05
+con-maqasid-al-shariah-shatibi: closed 1, kept 0; no error fixed
+con-maslaha-mursala-usul: closed 1, kept 0; no error fixed
+con-mens-rea-criminal-intent: closed 2, kept 0; fixed Knowingly definition to practical certainty
+con-nazariyyat-al-aqd-fiqh: closed 1, kept 0; no error fixed
+con-ottoman-codification-tanzimat-law: closed 2, kept 0; no error fixed
+con-personal-status-law-arab-states: closed 2, kept 0; fixed Qadri Pasha work (Murshid al-Hayran concerns transactions)
+con-popular-constitutionalism: closed 1, kept 0; no error fixed
+con-property-rights: closed 1, kept 0; no error fixed
+con-qada-judgeship-islamic-law: closed 2, kept 0; no error fixed
+con-qawaid-fiqhiyya-legal-maxims: closed 1, kept 1; no error fixed
+con-riba-legal-doctrine: closed 1, kept 0; no error fixed
+con-rule-of-law: closed 1, kept 0; no error fixed
+con-siyasa-shariyya-ibn-taymiyya: closed 1, kept 0; no error fixed
+sch-american-legal-realism: closed 1, kept 0; fixed contradiction (American influence on independently arising Scandinavian realism)
+sch-civil-law-tradition: closed 1, kept 0; no error fixed
+sch-common-law-tradition: closed 1, kept 0; no error fixed
+sch-constitutional-law-theory: closed 1, kept 0; no error fixed
+sch-criminal-law-philosophy-responsibility: closed 1, kept 0; no error fixed
+sch-criminal-law-theory: closed 1, kept 0; no error fixed
+thk-abd-al-qadir-awda: closed 0, kept 1; no error fixed
+thk-abd-al-razzaq-al-sanhuri: closed 0, kept 1; no error fixed
+thk-abu-yusuf: closed 1, kept 0; no error fixed
+thk-al-mawardi: closed 1, kept 0; no error fixed
+thk-al-shatibi: closed 0, kept 1; fixed Masud edition year (title is the 1995 revision)
+thk-carl-schmitt: closed 1, kept 0; no error fixed (dispute already covered in body)
+thk-franz-wieacker: closed 0, kept 1; no error fixed
+thk-friedrich-carl-von-savigny: closed 0, kept 1; no error fixed
+thk-herbert-packer: closed 0, kept 1; no error fixed
+thk-ibn-hazm: closed 0, kept 2; no error fixed
+thk-ibn-taymiyya: closed 0, kept 1; fixed conflation of anti-Mongol fatwa with Mardin fatwa
+thk-mustafa-al-zarqa: closed 0, kept 2; no error fixed
+thk-rene-david: closed 0, kept 2; no error fixed
+thk-thomas-franck: closed 0, kept 1; no error fixed
+wrk-al-ashbah-wa-al-nazair-ibn-nujaym: closed 0, kept 2; no error fixed
+wrk-al-bahr-al-muhit-zarkashi: closed 0, kept 1; no error fixed
+
+## batch 06
+al-sanhuri check: thk-abd-al-razzaq-al-sanhuri and thk-al-mawardi: caliphate doctorate corrected from Paris to Lyon (incl. dates line)
+wrk-al-hidaya-marghinani: closed 1, kept 1; publication_year and active_start changed from 1197 (death year) to c. 1190
+wrk-al-ihkam-al-amidi: closed 0, kept 1; none
+wrk-al-mustasfa-ghazali: closed 1, kept 1; none
+wrk-al-muwafaqat-shatibi: closed 0, kept 1; none
+wrk-al-risala-shafii: closed 0, kept 2; none
+wrk-al-tashri-al-jinai-al-islami-awda: closed 0, kept 2; none
+wrk-causation-in-the-law-hart-honore: closed 0, kept 1; none
+wrk-kitab-al-kharaj-abu-yusuf: closed 0, kept 1; none
+wrk-majallat-al-ahkam-al-adliyya: closed 1, kept 0; none
+wrk-model-penal-code: closed 1, kept 0; none
+wrk-pure-theory-of-law-kelsen: closed 0, kept 1; none
+thk-al-mubarrad: closed 0, kept 1; none
+thk-al-sakkaki: closed 0, kept 1; none
+wrk-elements-de-semiologie-barthes: closed 1, kept 0; none
+wrk-sound-pattern-of-english-chomsky-halle: closed 0, kept 1; none
+wrk-syntactic-structures: closed 1, kept 0; none
+wrk-talkhis-al-miftah-qazwini: closed 0, kept 1; none
+con-effective-demand: closed 1, kept 0; none
+wrk-a-political-economy-of-the-middle-east-richards-waterbury: closed 1, kept 0; none
+wrk-an-evolutionary-theory-of-economic-change-nelson-winter: closed 1, kept 0; none
+wrk-manias-panics-and-crashes-kindleberger: closed 1, kept 0; none
+con-diagnostic-comorbidity: closed 0, kept 1; none
+sch-anxiety-ocd-disorders: closed 1, kept 0; none
+sch-mood-disorders: closed 1, kept 0; none
+sch-personality-disorders: closed 0, kept 1; none
+sch-psychotic-schizophrenia: closed 1, kept 0; none
+thk-edmund-bourne: closed 0, kept 1; none
+thk-henry-steadman: closed 0, kept 1; none
+thk-jonas-rappeport: closed 0, kept 1; none
+thk-paul-salkovskis: closed 0, kept 1; none
+wrk-bipolar-disorder-research: closed 1, kept 0; none
+wrk-rosenhan-sane: closed 0, kept 1; none
+con-emotional-intelligence: closed 1, kept 0; none
+sch-emotion-psychology: closed 1, kept 0; none
+thk-adler: closed 1, kept 0; none
+
+## batch 07
+thk-ainsworth: closed 0, kept 2; none
+thk-bion: closed 0, kept 1; DSO was for action at Cambrai (1917), not Amiens
+thk-bowlby: closed 0, kept 1; none
+wrk-hayes-acceptance-commitment-therapy: closed 0, kept 1; none
+con-anti-cult-movement-response: closed 1, kept 0; none
+con-axis-mundi-sacred-space-eliade: closed 1, kept 0; none
+con-healer-patient-relationship: closed 1, kept 0; none
+con-modes-of-religiosity-theory-whitehouse: closed 1, kept 0; none
+con-ndembu-color-triad-turner: closed 1, kept 0; none
+con-networked-religion-campbell: closed 0, kept 1; none
+con-new-evangelicalism: closed 1, kept 0; none
+con-sacred-sound-sonic-theology: closed 1, kept 0; none
+con-sacrifice-theory-hubert-mauss: closed 1, kept 0; consecration described as impurity-to-sanctity, corrected to profane-to-sacred
+con-scapegoat-mechanism-mimetic-desire-girard: closed 1, kept 0; none
+con-textual-theology-narratival: closed 0, kept 1; none
+dbt-colonial-vs-domestic-ethnography-lived-religion: closed 1, kept 0; none
+dbt-religion-as-category-aboriginal-australia: closed 1, kept 0; none (updated Constraint section)
+dbt-ritual-competence-vs-modes-of-religiosity: closed 0, kept 1; none
+dbt-thick-description-vs-phenomenological-description: closed 1, kept 0; none
+sch-academic-native-american-religious-studies: closed 2, kept 0; none
+sch-comparative-religious-fasting-studies: closed 1, kept 0; none
+sch-comparative-religious-gender-queer: closed 1, kept 0; none
+sch-comparative-religious-music-studies: closed 1, kept 0; updated outdated adhan remark
+sch-religion-digital-technology: closed 0, kept 2; co-author Stig Lovheim corrected to Mia Lovheim
+stu-bursi-touch-black-stone-2022: closed 0, kept 1; none
+stu-cognitive-templates-boyer-ramble-2001: closed 1, kept 0; none
+stu-conceptualizing-nonnatural-entity-barrett-keil-1996: closed 1, kept 0; none
+stu-kibbutz-religious-secular-cooperation-sosis-2003: closed 1, kept 0; none
+stu-music-therapy-religious-contexts: closed 0, kept 1; none
+thk-bruno-nettl: closed 0, kept 1; none
+thk-gershom-scholem: closed 1, kept 0; none
+thk-guy-beck: closed 1, kept 1; none
+thk-hans-frei: closed 0, kept 1; none
+thk-karen-mccarthy-brown: closed 1, kept 0; none
+thk-moojan-momen: closed 1, kept 1; none
+
+## batch 08
+wrk-ambivalence-of-the-sacred-appleby: closed 0, kept 1; none
+wrk-communion-of-subjects-waldau-patton: closed 0, kept 1; none
+wrk-dreaming-in-the-worlds-religions-bulkeley: closed 0, kept 1; none
+wrk-godwired-wagner: closed 0, kept 1; none
+wrk-imagining-religion-smith: closed 2, kept 0; none
+wrk-playing-with-religion-in-digital-games-campbell-grieve: closed 0, kept 1; none
+wrk-religion-and-film-plate: closed 0, kept 1; none
+con-correlation: closed 1, kept 0; none
+con-deviance: closed 1, kept 0; none
+con-ethnocentrism: closed 1, kept 0; none
+con-group: closed 1, kept 0; none
+con-network-analysis: closed 1, kept 0; none
+con-normal-distribution: closed 2, kept 0; none
+con-observation: closed 1, kept 0; none
+con-performativity-of-economics-mackenzie: closed 1, kept 0; none
+con-power: closed 1, kept 0; none
+con-prejudice: closed 1, kept 0; none
+con-primary-group: closed 2, kept 0; none
+con-racism: closed 1, kept 0; none
+con-reference-group: closed 1, kept 0; none
+con-regression-analysis: closed 1, kept 0; none
+con-role: closed 1, kept 0; none
+con-social-change: closed 1, kept 0; none
+con-socialization: closed 1, kept 0; none
+con-socialization-process: closed 1, kept 0; none
+con-society: closed 2, kept 0; none
+con-sociological-imagination-mills: closed 2, kept 0; none
+con-sociometric-analysis: closed 1, kept 0; none
+con-solidarity: closed 2, kept 0; none
+con-standard-deviation: closed 1, kept 0; none
+con-statistical-analysis: closed 1, kept 0; none
+con-statistical-significance: closed 2, kept 0; none
+con-status: closed 1, kept 0; fixed stray literal \n in Sources
+con-strong-programme-ssk-bloor: closed 1, kept 0; none
+con-structural-analysis: closed 1, kept 0; none
+
+## batch 09
+con-structure: closed 2, kept 0; no errors fixed
+con-survey: closed 3, kept 0; fixed literal \n joining two Sources entries
+con-validity: closed 2, kept 0; no errors fixed
+con-variable: closed 2, kept 0; no errors fixed
+con-verstehen: closed 1, kept 0; no errors fixed
+con-verstehen-sociology: closed 1, kept 0; no errors fixed
+sch-chicago-urban-ecology-english: closed 1, kept 0; no errors fixed
+sch-comtean-positivism: closed 2, kept 0; no errors fixed
+sch-durkheimian-structural-functionalism: closed 1, kept 0; no errors fixed
+sch-goffmanian-dramaturgical-english: closed 2, kept 0; no errors fixed
+sch-marxist-classical-sociology: closed 2, kept 0; no errors fixed
+sch-parsonian-structural-functionalism-agil: closed 3, kept 0; no errors fixed
+sch-simmelian-formal-sociology: closed 2, kept 0; no errors fixed
+sch-spencerian-evolutionism-english: closed 2, kept 0; no errors fixed
+sch-symbolic-interactionism-english: closed 2, kept 0; no errors fixed
+sch-weberian-verstehen-english: closed 2, kept 0; no errors fixed
+stu-schoolyard-stories: closed 0, kept 1; no errors fixed
+stu-the-dignity-deficit: closed 0, kept 1; no errors fixed
+stu-the-second-shift-in-china: closed 0, kept 1; no errors fixed
+thk-ali-al-wardi: closed 2, kept 1; no errors fixed
+thk-ali-shariati: closed 2, kept 1; no errors fixed
+thk-anouar-abdel-malek: closed 2, kept 1; no errors fixed
+thk-anthony-giddens: closed 3, kept 0; no errors fixed
+thk-barney-glaser: closed 2, kept 1; no errors fixed
+thk-bell-hooks: closed 1, kept 1; no errors fixed
+thk-boaventura-de-sousa-santos: closed 2, kept 1; no errors fixed
+thk-bourdieu: closed 3, kept 0; no errors fixed
+thk-charles-cooley: closed 3, kept 0; no errors fixed
+thk-charles-tilly: closed 3, kept 0; no errors fixed
+thk-coleman: closed 3, kept 0; no errors fixed
+thk-crenshaw: closed 3, kept 0; no errors fixed
+thk-dorothy-smith: closed 3, kept 0; no errors fixed
+thk-edward-said: closed 1, kept 0; no errors fixed
+thk-émile-durkheim: closed 1, kept 0; no errors fixed
+thk-fanon: closed 1, kept 0; no errors fixed
+
+## batch 10
+thk-fatima-mernissi: closed 1, kept 0; no errors found
+thk-gayatri-spivak: closed 1, kept 0; no errors found
+thk-george-herbert-mead: closed 1, kept 0; no errors found
+thk-hisham-sharabi: closed 1, kept 0; no errors found
+thk-hochschild: closed 1, kept 0; no errors found
+thk-howard-becker: closed 1, kept 0; no errors found
+thk-lewis-coser: closed 1, kept 0; no errors found
+thk-manuel-castells: closed 1, kept 0; no errors found
+thk-martineau: closed 1, kept 0; no errors found
+thk-halim-barakat: closed 0, kept 2; kept both (not verifiable); no errors found
+wrk-fighting-back: closed 0, kept 1; kept (chapter structure not verified); no errors found
+wrk-forms-of-capital-bourdieu: closed 0, kept 1; kept (version differences not verified); no errors found
+wrk-gender-trouble: closed 1, kept 0; no errors found
+wrk-institutional-ethnography: closed 1, kept 0; no errors found
+wrk-liquid-modernity-bauman: closed 1, kept 0; no errors found
+wrk-normal-accidents-perrow: closed 1, kept 0; no errors found
+wrk-on-suicide: closed 0, kept 1; kept (Baechler's own cases not verified in detail); no errors found
+wrk-orientalism-said: closed 1, kept 0; no errors found
+wrk-philosophical-investigations: closed 1, kept 0; no errors found
+wrk-risk-society: closed 1, kept 0; no errors found
+wrk-second-sex: closed 2, kept 0; no errors found
+wrk-social-system-parsons: closed 2, kept 0; no errors found
+wrk-stigma: closed 1, kept 0; no errors found
+wrk-strangers-in-their-own-land: closed 0, kept 1; kept (cross-disciplinary uptake not verified); no errors found
+wrk-the-constitution-of-society: closed 1, kept 0; no errors found
+wrk-the-division-of-labor-in-society: closed 2, kept 0; no errors found
+wrk-the-history-of-sexuality: closed 1, kept 0; no errors found
+wrk-the-holy-family: closed 1, kept 0; fixed claim that the book ends with the defence of the proletariat
+wrk-the-polish-peasant: closed 2, kept 0; no errors found
+wrk-the-poverty-of-philosophy: closed 1, kept 0; fixed 'chapter on strikes' to section
+wrk-the-sociological-condition: closed 0, kept 1; kept (no identifiable work); no errors found
+wrk-the-sociological-imagination: closed 2, kept 0; no errors found
+wrk-the-stranger: closed 1, kept 0; fixed account of Schutz leaving Austria (he was in Paris at the Anschluss)
+con-social-movement: closed 0, kept 0; replaced 1 literal backslash-n with line breaks
+con-stratification: closed 0, kept 0; replaced 2 literal backslash-n with line breaks

@@ -12,8 +12,7 @@ active_start: 1900
 active_end: مستمر
 edges: []
 related: []
-gaps:
-- Limits of empathy in cross-cultural understanding: not yet covered
+gaps: []
 sociological_tradition: other
 sociological_paradigm: micro-macro
 ---
@@ -39,6 +38,10 @@ Clifford Geertz carried the interpretive programme into anthropology. In *The In
 
 Consider a religious fast. A causal explanation might correlate fasting with poverty or with social pressure. *Verstehen* asks what fasting means to those who fast: devotion, discipline, solidarity with the poor, or obedience to God. Without that meaning, the sociologist cannot distinguish fasting from hunger, though the two are physically similar and socially opposite. Or consider voting: the same ballot may express loyalty, protest, habit, or hope, and the meaning shapes how the act should be explained. In the Arab and Islamic tradition, a parallel concern with intention — *niyya* — points to a related insight: an act's significance depends on the meaning the actor gives it, and the same outward deed may be worship, custom, or hypocrisy.
 
+## The Limits of Empathy across Cultures
+
+Understanding is sometimes equated with putting oneself in another's place, but this is least reliable where experiences and concepts differ most. An interpreter who imagines how they would feel in a situation may simply report their own reactions. Weber had already denied that understanding requires reliving another's experience. Clifford Geertz, in an essay of 1974 on understanding from the native's point of view, argued that the anthropologist need not achieve emotional identification; the task is to examine the words, images, institutions, and behaviour through which people represent themselves, comparing local concepts, in his cases from Java, Bali, and Morocco, with the analyst's own. Peter Winch (1964) warned against judging another society's practices, such as Zande witchcraft, by standards drawn from Western science without first grasping the point they have for participants; critics replied that this risks making cross-cultural criticism impossible. Renato Rosaldo described how he failed to grasp Ilongot accounts of grief, rage, and headhunting until his own bereavement, concluding that a researcher's position and life experience limit and enable what can be understood. These cases suggest that empathy is at best a source of hypotheses, to be checked against language learning, prolonged observation, and the responses of the people studied.
+
 ## Critique and Contemporary Relevance
 
 Critics have charged that *Verstehen* is unscientific: meanings cannot be observed, and the sociologist may simply project their own assumptions onto others. Positivists argued that sociology should stick to observable behaviour and statistical regularities. Weber's answer was that interpretation must be tested — an interpretation is adequate when it fits the evidence and when it can be combined with causal explanation. Later critics added that understanding is never neutral: the sociologist's own position, gender, and culture shape what meanings they can see, so *Verstehen* requires reflexivity about the interpreter's standpoint.
@@ -51,3 +54,6 @@ The concept remains central. Qualitative interviews, ethnography, and the analys
 - Geertz, Clifford. *The Interpretation of Cultures: Selected Essays*. Basic Books, 1973.
 - Schutz, Alfred. *Der sinnhafte Aufbau der sozialen Welt* (1932); English: *The Phenomenology of the Social World*. Northwestern University Press, 1967.
 - Weber, Max. *Economy and Society: An Outline of Interpretive Sociology*. University of California Press, 1978 (German original 1922).
+- Geertz, Clifford. "'From the Native's Point of View': On the Nature of Anthropological Understanding." *Bulletin of the American Academy of Arts and Sciences* 28, no. 1 (1974).
+- Rosaldo, Renato. *Culture and Truth: The Remaking of Social Analysis*. Beacon Press, 1989.
+- Winch, Peter. "Understanding a Primitive Society." *American Philosophical Quarterly* 1, no. 4 (1964).

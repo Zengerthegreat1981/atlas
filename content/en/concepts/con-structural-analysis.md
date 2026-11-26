@@ -12,8 +12,7 @@ active_start: 1900
 active_end: مستمر
 edges: []
 related: []
-gaps:
-- Empirical examples: not yet covered
+gaps: []
 sociological_tradition: other
 sociological_paradigm: micro-macro
 ---
@@ -39,6 +38,10 @@ Another debate concerns the level of analysis. Macro-structural analysis examine
 
 Structural analysis remains indispensable to sociology. It frames research on inequality, where class, race, and gender are treated as structural positions rather than individual attributes; on organisations, where hierarchies and reporting lines shape behaviour; and on networks, where digital platforms have made the structure of social ties measurable at unprecedented scale. It also underpins the study of social change: revolutions, market transitions, and technological shifts are analysed as transformations of structure, not merely as changes of mind. Its enduring lesson is that to explain social outcomes, one must look beyond individuals to the arrangements that bind them together — and to the ways those arrangements distribute power, so that the same structure that enables cooperation for some constrains and disadvantages others, a point that keeps structural analysis at the heart of the discipline.
 
+## Empirical Examples
+
+Theda Skocpol's *States and Social Revolutions* (1979) compared France, Russia and China, explaining revolutionary outcomes chiefly through international pressure, the organisation of states and relations between landlords and peasants, and giving less weight to revolutionaries' intentions. John Padgett and Christopher Ansell (1993) reconstructed marriage, economic and patronage ties among elite families in Renaissance Florence and related the rise of the Medici to their position linking groups that were otherwise weakly connected. Harrison White, Scott Boorman and Ronald Breiger (1976) used blockmodels to group actors with similar patterns of ties, drawing among other data on Samuel Sampson's study of a monastery. William Julius Wilson's *The Truly Disadvantaged* (1987) connected concentrated urban poverty in the United States to the loss of industrial jobs and to the departure of better-off residents from inner-city neighbourhoods. Each case explains outcomes partly through arrangements of positions, and each has prompted debate about how much room it leaves for culture and agency.
+
 ## Sources
 
 - A. R. Radcliffe-Brown, *Structure and Function in Primitive Society*, 1952.
@@ -47,3 +50,7 @@ Structural analysis remains indispensable to sociology. It frames research on in
 - Pierre Bourdieu, *Outline of a Theory of Practice*, 1972 (French original; English translation 1977).
 - Anthony Giddens, *The Constitution of Society: Outline of the Theory of Structuration*, 1984.
 - Karl Marx, *Capital: A Critique of Political Economy*, vol. 1, 1867.
+- Theda Skocpol, *States and Social Revolutions*, 1979.
+- John F. Padgett and Christopher K. Ansell, "Robust Action and the Rise of the Medici, 1400–1434," *American Journal of Sociology*, 1993.
+- Harrison C. White, Scott A. Boorman, and Ronald L. Breiger, "Social Structure from Multiple Networks," *American Journal of Sociology*, 1976.
+- William Julius Wilson, *The Truly Disadvantaged*, 1987.

@@ -18,7 +18,6 @@ related:
 - id: "con-hukm-taklifi-wadi-usul", title: "Hukm Taklifi and Hukm Wad'i (Usul)", type: "مفهوم"
 - id: "con-insanity-defense-mnaghten", title: "Insanity Defense and the M'Naghten Rule", type: "مفهوم"
 gaps:
-  - "Differences among the four schools on the impediments to capacity (such as age limits of discernment): not yet covered"
   - "Country-by-country comparison with modern civil capacity rules (such as ages of majority): not yet covered"
 ---
 
@@ -42,7 +41,17 @@ The Islamic concept of capacity intersects with modern concepts in comparative l
 
 The Islamic system of capacity is among the areas of usul al-fiqh closest to the theory of "legal personality" or "legal capacity" in modern civil law. Modern Arab civil codes, which were drafted with substantial input from jurists such as Abd al-Razzaq al-Sanhuri, draw on the fiqh of capacity for rules such as the age of majority and interdiction. Researchers in comparative law note that the detailed juristic elaboration of impediments to capacity offers greater analytical flexibility than the strict cognitive test that the M'Naghten rule historically presented in the common law tradition. Yet both systems face the same theoretical challenge: how to measure an internal mental or psychological state by an external legal standard that can be applied in courts.
 
+## School Differences on Age, Discernment and Maturity
+
+Discernment is often associated with about seven years of age, echoing the report on teaching children to pray, but many jurists make the test actual understanding. The schools divide over the discerning child's transactions of mixed effect. Hanafis and Malikis generally treat them as concluded but dependent on the guardian's approval; the Hanbalis accept them when the guardian permits; the Shafi'is generally hold the child's sale void even with permission.
+
+Puberty is established by physical signs, and failing these by age. The majority position, including the Shafi'is, the Hanbalis and Abu Hanifa's companions Abu Yusuf and al-Shaybani, sets fifteen lunar years. Abu Hanifa is reported to have set eighteen for males and seventeen for females, and the well-known Maliki position is eighteen.
+
+Puberty alone does not release property: Qur'an 4:6 also requires sound judgment (*rushd*). Most jurists continue interdiction until it appears, whereas Abu Hanifa held that property must be handed over at twenty-five. The Shafi'is include religious probity as well as financial competence in *rushd*, while the majority stress the latter. Malikis add further conditions for a woman, traditionally including consummated marriage.
+
 ## Sources
 
 - al-Sarakhsi, Muhammad ibn Ahmad. *Usul al-Sarakhsi*. Edited by Abu al-Wafa al-Afghani. Hyderabad: Lajnat Ihya al-Ma'arif al-Nu'maniyya.
 - Kamali, Mohammad Hashim. *Principles of Islamic Jurisprudence*. Cambridge: Islamic Texts Society, 1991.
+- Ibn Rushd (Averroes). *Bidayat al-Mujtahid wa-Nihayat al-Muqtasid* (chapter on interdiction).
+- Ibn Qudama. *al-Mughni* (chapter on interdiction).

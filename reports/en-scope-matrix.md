@@ -5,10 +5,10 @@ EN counts come from `check_en_release.py`; AR counts are an inventory of existin
 
 | module | EN total | placeholder | draft | review-candidate | AR assets | next action |
 |---|--:|--:|--:|--:|--:|---|
-| psychology | 309 | 0 | 0 | 309 | 3522 | source review + close drafts |
+| psychology | 310 | 0 | 0 | 310 | 3522 | source review + close drafts |
 | philosophy | 325 | 0 | 0 | 325 | 2846 | source review + close drafts |
 | sociology | 492 | 0 | 0 | 492 | 1262 | source review + close drafts |
-| anthropology | 455 | 0 | 0 | 455 | 1201 | source review + close drafts |
+| anthropology | 498 | 0 | 0 | 498 | 1201 | source review + close drafts |
 | linguistics | 158 | 0 | 0 | 158 | 1200 | source review + close drafts |
 | political-economy | 161 | 0 | 0 | 161 | 1101 | source review + close drafts |
 | historiography | 227 | 0 | 0 | 227 | 1007 | source review + close drafts |
@@ -18,5 +18,4 @@ EN counts come from `check_en_release.py`; AR counts are an inventory of existin
 | psychiatry | 122 | 0 | 0 | 122 | 122 | source review + close drafts |
 | arab-thought | 114 | 0 | 0 | 114 | 112 | source review + close drafts |
 | bridges | 108 | 0 | 0 | 108 | 236 | source review + close drafts |
-| unclassified | 44 | 32 | 1 | 11 | 0 | source review + close drafts |
 | (AR unclassified) |  |  |  |  | 0 | classify before counting coverage |

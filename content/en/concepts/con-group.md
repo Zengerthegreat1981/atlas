@@ -14,8 +14,7 @@ edges: []
 related: []
 sociological_tradition: other
 sociological_paradigm: micro-macro
-gaps:
-  - "Groups in non-Western kinship systems: not yet covered"
+gaps: []
 ---
 
 # Group: The Social Unit Between the Individual and Society
@@ -44,6 +43,10 @@ The study of groups has been criticized for treating the group as a thing rather
 
 The concept remains indispensable. It now frames research on online communities, where groups form without face-to-face contact and sustain themselves through text and image; on work teams distributed across continents; and on identity politics, where group membership becomes the basis of claims for recognition and rights. The group is still the unit in which individuals encounter society — and in which society, in turn, is made.
 
+## Kin Groups in Comparative Perspective
+
+Anthropology shows that the groups a person belongs to through kinship are organised very differently across societies. Where descent is traced through one line, lineages and clans can act as corporate bodies that hold land, regulate marriage and answer collectively for their members' conduct. E. E. Evans-Pritchard's *The Nuer* (1940) described segmentary lineages in what is now South Sudan, in which segments opposed to one another at one level unite against a more distant segment at a higher level, so that the boundary of the effective group depends on the dispute. A. R. Radcliffe-Brown and Daryll Forde's *African Systems of Kinship and Marriage* (1950) surveyed patrilineal, matrilineal and other arrangements. Francis L. K. Hsu's *Clan, Caste, and Club* (1963) contrasted the Chinese clan, the Hindu caste and the American voluntary association as characteristic settings for meeting social needs. Later anthropologists, including Adam Kuper, questioned how far the lineage model described what people actually did, and David Schneider argued that Western assumptions about biological relatedness had shaped the study of kinship itself.
+
 ## Sources
 
 - Cooley, Charles Horton. *Social Organization: A Study of the Larger Mind*. Charles Scribner's Sons, 1909.
@@ -51,3 +54,8 @@ The concept remains indispensable. It now frames research on online communities,
 - Tajfel, Henri. *Human Groups and Social Categories: Studies in Social Psychology*. Cambridge University Press, 1981.
 - Tuckman, Bruce W. "Developmental Sequence in Small Groups." *Psychological Bulletin*, vol. 63, no. 6, 1965, pp. 384–399.
 - Tuckman, Bruce W., and Mary Ann C. Jensen. "Stages of Small-Group Development Revisited." *Group and Organization Studies*, vol. 2, no. 4, 1977, pp. 419–427.
+- Evans-Pritchard, E. E. *The Nuer*. Clarendon Press, 1940.
+- Radcliffe-Brown, A. R., and Daryll Forde, eds. *African Systems of Kinship and Marriage*. Oxford University Press, 1950.
+- Hsu, Francis L. K. *Clan, Caste, and Club*. Van Nostrand, 1963.
+- Schneider, David M. *A Critique of the Study of Kinship*. University of Michigan Press, 1984.
+- Kuper, Adam. "Lineage Theory: A Critical Retrospect." *Annual Review of Anthropology*, 1982.

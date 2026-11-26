@@ -12,8 +12,7 @@ active_start: 1942
 active_end: مستمر
 edges: []
 related: []
-gaps:
-- Cross-references to related concepts: not yet covered
+gaps: []
 sociological_tradition: other
 sociological_paradigm: micro-macro
 ---
@@ -50,6 +49,10 @@ Castells's early work, especially *The Urban Question*, applied a structural Mar
 
 Castells combines comparative empirical studies, historical interpretation and large-scale synthesis of data on economies, technology and culture, with a strong orientation toward theory-building.
 
+## Related Concepts
+
+Castells's work connects with a range of concepts. The network society is often compared with Daniel Bell's post-industrial society, since both stress knowledge and information, although Castells places networks and restructured capitalism at the centre. Collective consumption, meaning services such as housing, transport and schooling that are largely organised through the state, underlies his early urban sociology. The space of flows relates to globalization and to the work of Saskia Sassen on global cities. In *The Power of Identity* he distinguishes legitimizing, resistance and project identities, linking identity to social movements. His account of communication power bears on framing, agenda setting and hegemony. Related concepts also include informationalism, social exclusion and the digital divide. These terms carry different theoretical assumptions, and placing them side by side does not make them equivalent.
+
 ## Influence and Criticism
 
 His work shaped urban sociology, communication studies, globalization research and the study of digital social movements. Critics have charged him with technological determinism, with building broad claims on loosely documented evidence, and with overstating the novelty of networked forms of organization.
@@ -61,3 +64,5 @@ His work shaped urban sociology, communication studies, globalization research a
 - Manuel Castells, *The Rise of the Network Society*, 1996.
 - Manuel Castells, *The Power of Identity*, 1997.
 - Manuel Castells, *Communication Power*, 2009.
+- Daniel Bell, *The Coming of Post-Industrial Society*, 1973.
+- Saskia Sassen, *The Global City*, 1991.

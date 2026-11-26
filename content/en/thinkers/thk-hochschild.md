@@ -12,8 +12,7 @@ active_start: 1940
 active_end: مستمر
 edges: []
 related: []
-gaps:
-- Cross-references to related concepts: not yet covered
+gaps: []
 sociological_tradition: other
 sociological_paradigm: micro-macro
 ---
@@ -48,6 +47,10 @@ In *The Managed Heart*, based on research with flight attendants and bill collec
 
 Hochschild uses in-depth interviews and long-term ethnography, often immersed in a field site, to interpret how structural conditions are felt and narrated by participants.
 
+## Related Concepts
+
+Hochschild's concepts sit within a wider network. Emotional labor extends the study of alienation, which Marx developed for industrial work, to the sale of managed feeling, and *The Managed Heart* also draws on Erving Goffman's account of the presentation of self. Goffman concentrates on outward performance, whereas Hochschild's deep acting concerns efforts to change what one actually feels. Feeling rules are a special kind of social norm and are acquired through socialization. *The Second Shift* connects with the gender division of labour, social reproduction and unpaid care work, and with her notion of a gender ideology that shapes how couples justify their arrangements. Global care chains link care to international migration and global inequality. The deep story relates to framing and narrative in the study of social movements, and to political polarization. Emotion work, her term for managing feeling in private life, should be distinguished from emotional labor, which is performed for a wage.
+
 ## Influence and Criticism
 
 Her concept of emotional labor became widely used in sociology, management studies and public discussion, though some scholars argue that its popular usage has stretched beyond her original meaning. Critics of *Strangers in Their Own Land* have asked how far findings from one region of Louisiana can be generalized, and whether the deep story gives enough weight to racial attitudes and structural factors.
@@ -59,3 +62,4 @@ Her concept of emotional labor became widely used in sociology, management studi
 - Arlie Russell Hochschild, *The Time Bind: When Work Becomes Home and Home Becomes Work*, 1997.
 - Barbara Ehrenreich and Arlie Russell Hochschild (eds.), *Global Woman: Nannies, Maids, and Sex Workers in the New Economy*, 2003.
 - Arlie Russell Hochschild, *Strangers in Their Own Land: Anger and Mourning on the American Right*, 2016.
+- Erving Goffman, *The Presentation of Self in Everyday Life*, 1959.

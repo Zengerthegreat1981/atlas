@@ -12,8 +12,7 @@ active_start: 1900
 active_end: مستمر
 edges: []
 related: []
-gaps:
-- "Prejudice and intersectionality: not yet covered"
+gaps: []
 sociological_tradition: other
 sociological_paradigm: micro-macro
 ---
@@ -48,6 +47,10 @@ Yet prejudice is not destiny. Desegregation, intergroup friendship, and changes 
 
 Critics argue that the psychological study of prejudice individualizes what is fundamentally a structural problem: focusing on attitudes can obscure the institutions — labour markets, housing systems, policing — that produce inequality regardless of what anyone feels. Others note that prejudice research has focused on race and ethnicity while neglecting prejudice based on class, disability, age, and sexuality, and that attention to intersectionality — the interaction of multiple prejudices — came later to this literature. Today, prejudice is increasingly expressed and amplified online, and encoded in algorithms that reproduce historical biases in hiring, lending, and policing. The concept remains essential, but its study now spans psychology, sociology, and the analysis of institutions and technologies.
 
+## Intersectionality
+
+Intersectionality, a term introduced by the legal scholar Kimberlé Crenshaw in 1989, holds that positions such as race and gender combine to produce experiences that cannot be read off from either one separately. Crenshaw showed that anti-discrimination law could fail Black women when it asked whether they had been treated like Black men or like white women. Patricia Hill Collins, in *Black Feminist Thought* (1990), described interlocking oppressions organised in a matrix of domination. For prejudice research the implication is that stereotypes of a group often rest on a presumed typical member. Valerie Purdie-Vaughns and Richard Eibach (2008) proposed that people with several subordinate identities may suffer a distinctive invisibility, because they fit the prototype of none of their groups. Social dominance theorists, by contrast, have argued that men of subordinated groups are often the main targets of direct, severe discrimination. These claims can both be examined by asking which harm, in which setting, falls on whom, and they caution against simply adding separate measures of prejudice together.
+
 ## Sources
 
 - Allport, Gordon W. *The Nature of Prejudice*. Addison-Wesley, 1954.
@@ -57,3 +60,7 @@ Critics argue that the psychological study of prejudice individualizes what is f
 - Billig, Michael, and Henri Tajfel. "Social Categorization and Similarity in Intergroup Behaviour." *European Journal of Social Psychology* 3, no. 1 (1973): 27–52.
 - Pettigrew, Thomas F. "Intergroup Contact Theory." *Annual Review of Psychology* 49 (1998): 65–85.
 - Brown, Rupert. *Prejudice: Its Social Psychology*. Blackwell, 1995.
+- Crenshaw, Kimberlé. "Demarginalizing the Intersection of Race and Sex." *University of Chicago Legal Forum*, 1989.
+- Collins, Patricia Hill. *Black Feminist Thought: Knowledge, Consciousness, and the Politics of Empowerment*. Unwin Hyman, 1990.
+- Purdie-Vaughns, Valerie, and Richard P. Eibach. "Intersectional Invisibility." *Sex Roles*, 2008.
+- Sidanius, Jim, and Felicia Pratto. *Social Dominance*. Cambridge University Press, 1999.

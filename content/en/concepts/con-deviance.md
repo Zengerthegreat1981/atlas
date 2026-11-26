@@ -14,8 +14,7 @@ edges: []
 related: []
 sociological_tradition: other
 sociological_paradigm: micro-macro
-gaps:
-  - "Deviance in non-Western legal systems: not yet covered"
+gaps: []
 ---
 
 # Deviance: Breaking the Rules, and Who Gets to Say So
@@ -50,6 +49,10 @@ Labelling theory has been criticized for a paradox: it explains how deviance is 
 
 Deviance remains central to sociology and criminology. It now frames research on digital life, where new forms of deviance — trolling, doxxing, online fraud — are defined and policed by platforms as much as by states; on the medicalization of deviance, where behaviours once punished are now treated; and on the politics of labelling, where the power to call something deviant is itself a form of social power. The study of deviance is, in the end, the study of how societies draw their boundaries — and who gets to draw them.
 
+## Deviance and Law beyond the West
+
+Other legal traditions draw the boundaries of wrongdoing differently. Classical Islamic jurisprudence distinguishes offences with penalties regarded as fixed by revelation (*hudud*), homicide and injury, where the victim or heirs may claim retaliation or accept compensation (*qisas* and *diya*), and a wide field left to judicial discretion (*ta'zir*); strict rules of proof often limited the first category in practice. In imperial China, detailed penal codes such as the Tang Code operated beside a Confucian ideal that ritual propriety and moral example should order conduct before punishment did, and penalties varied with the rank and kinship relation of the parties. Ethnographies of African courts, including Max Gluckman's work on the Barotse and Paul Bohannan's on the Tiv, showed disputes judged with close attention to continuing relationships, and Bohannan warned against forcing local concepts into European legal categories. John Braithwaite, drawing partly on Japan, contrasted shaming that reintegrates offenders with stigmatizing shame that pushes them toward further offending. These traditions differ among themselves, and many now coexist with state law of European origin.
+
 ## Sources
 
 - Becker, Howard S. *Outsiders: Studies in the Sociology of Deviance*. Free Press, 1963.
@@ -57,3 +60,8 @@ Deviance remains central to sociology and criminology. It now frames research on
 - Conrad, Peter, and Joseph W. Schneider. *Deviance and Medicalization: From Badness to Sickness*. C. V. Mosby, 1980.
 - Lemert, Edwin M. *Social Pathology: A Systematic Approach to the Theory of Sociopathic Behavior*. McGraw-Hill, 1951.
 - Merton, Robert K. "Social Structure and Anomie." *American Sociological Review*, vol. 3, no. 5, 1938, pp. 672–682.
+- Bohannan, Paul. *Justice and Judgment among the Tiv*. Oxford University Press, 1957.
+- Gluckman, Max. *The Judicial Process among the Barotse of Northern Rhodesia*. Manchester University Press, 1955.
+- Bodde, Derk, and Clarence Morris. *Law in Imperial China*. Harvard University Press, 1967.
+- Braithwaite, John. *Crime, Shame and Reintegration*. Cambridge University Press, 1989.
+- Hallaq, Wael B. *An Introduction to Islamic Law*. Cambridge University Press, 2009.

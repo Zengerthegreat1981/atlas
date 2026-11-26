@@ -30,8 +30,7 @@ related:
 - id: "thk-david-clark", title: "David Clark", type: "مفكر"
 - id: "thk-edmund-bourne", title: "Edmund Bourne", type: "مفكر"
 - id: "thk-paul-salkovskis", title: "Paul Salkovskis", type: "مفكر"
-gaps:
-  - "Cross-national prevalence figures for each subtype: not yet covered"
+gaps: []
 ---
 
 # Anxiety Disorders and the OCD Spectrum
@@ -56,6 +55,10 @@ Early diagnostic systems (DSM-I and DSM-II) classified anxiety and OCD under "ne
 
 David Clark developed an influential cognitive model of panic disorder, explaining it through the catastrophic misinterpretation of normal bodily sensations. His work extended to a cognitive model of social anxiety disorder in collaboration with Adrian Wells. Paul Salkovskis developed a cognitive model of OCD that focuses on misinterpreting inflated responsibility for intrusive thoughts, which supplied a cognitive account of exposure and response prevention (ERP). Victor Meyer had described a behavioural form of that method in 1966. David Barlow, in *Anxiety and Its Disorders*, presented an integrative model of the biological and psychological vulnerabilities shared among anxiety disorders, which later contributed to developing the "unified protocol" for treatment across diagnoses.
 
+## Cross-National Prevalence
+
+The most comparable figures come from the World Health Organization's World Mental Health Surveys, community surveys that used a common structured interview in many countries. Pooled lifetime estimates reported from these surveys are approximately: specific phobia, 7.4 percent; social anxiety disorder, 4.0 percent; generalized anxiety disorder, 3.7 percent; panic disorder, 1.7 percent; DSM-5 agoraphobia, 1.5 percent; and obsessive-compulsive disorder, 4.1 percent. These numbers should not be ranked too strictly. Each comes from a separate analysis covering a different set of countries (the obsessive-compulsive analysis covers only ten), and the diagnostic definitions are not all from the same edition of the DSM. Pooled averages also conceal wide differences between countries, with estimates for several of these disorders generally higher in high-income than in lower-income settings. Recall of lifetime symptoms, cultural expression of distress and willingness to report may all contribute to such differences. Comparable pooled figures for body dysmorphic, hoarding, hair-pulling and skin-picking disorders are not given here.
+
 ## Limits
 
 The comorbidity among the disorders of this umbrella is high: many patients with panic disorder also have agoraphobia, and OCD spectrum disorders share the feature of compulsive repetitiveness with some impulse-control disorders without necessarily matching their neural mechanisms. The separation of anxiety disorders from the OCD spectrum in DSM-5 itself is debated, as some researchers argue that the clinical anxiety that accompanies OCD makes the sharp separation between them artificial clinically more than theoretically.
@@ -70,3 +73,9 @@ This entry is educational and descriptive. Diagnostic features are summarized fo
 - Paul M. Salkovskis, "Obsessional-Compulsive Problems: A Cognitive-Behavioural Analysis," *Behaviour Research and Therapy*, vol. 23, no. 5 (1985), pp. 571–583.
 - David H. Barlow, *Anxiety and Its Disorders: The Nature and Treatment of Anxiety and Panic*, 2nd ed. (New York: Guilford Press, 2002).
 - Donald F. Klein, "Delineation of Two Drug-Responsive Anxiety Syndromes," *Psychopharmacologia*, vol. 5 (1964), pp. 397–408.
+- Ayelet M. Ruscio et al., "Cross-Sectional Comparison of the Epidemiology of DSM-5 Generalized Anxiety Disorder Across the Globe," *JAMA Psychiatry* (2017).
+- Peter de Jonge et al., "Cross-National Epidemiology of Panic Disorder and Panic Attacks in the World Mental Health Surveys," *Depression and Anxiety* (2016).
+- Dan J. Stein et al., "The Cross-National Epidemiology of Social Anxiety Disorder: Data from the World Mental Health Survey Initiative," *BMC Medicine* (2017).
+- Klaas J. Wardenaar et al., "The Cross-National Epidemiology of Specific Phobia in the World Mental Health Surveys," *Psychological Medicine* (2017).
+- Annelieke M. Roest et al., "A Comparison of DSM-5 and DSM-IV Agoraphobia in the World Mental Health Surveys," *Depression and Anxiety* (2019).
+- Dan J. Stein et al., "Obsessive-Compulsive Disorder in the World Mental Health Surveys," *BMC Medicine* (2025).

@@ -12,8 +12,7 @@ active_start: 1942
 active_end: مستمر
 edges: []
 related: []
-gaps:
-- Cross-references to related concepts: not yet covered
+gaps: []
 sociological_tradition: other
 sociological_paradigm: micro-macro
 ---
@@ -51,6 +50,10 @@ Spivak was born in Calcutta in 1942 and studied there before moving to the Unite
 
 Her method is close reading of literary, philosophical and historical texts, informed by deconstruction and Marxist analysis, rather than empirical social research.
 
+## Related Concepts
+
+Spivak's work is linked to a cluster of concepts. The subaltern comes from Antonio Gramsci, who used the term for subordinate groups outside the circles of hegemony; the Subaltern Studies historians adapted it to South Asian history, and hegemony therefore remains a key neighbouring idea. Her concern with epistemic violence draws on Michel Foucault's analysis of power and knowledge, even as she criticises Foucault and Gilles Deleuze for assuming that the oppressed can speak transparently for themselves. It also relates to Orientalism as analysed by Edward Said. Representation is central: she separates political representation, or speaking for others, from re-presentation, or portraying them, a distinction she reads in Marx. Deconstruction, taken from Derrida, supplies her suspicion of fixed origins and identities, which explains the tension within strategic essentialism. In sociology and gender studies her work is often discussed alongside intersectionality, the international division of labour and reflexivity about the position of the researcher.
+
 ## Influence and Criticism
 
 Her work shaped postcolonial theory, feminist theory and subaltern studies, and it is widely used to question who can represent whom in research. Critics, including Benita Parry, objected that she underplays evidence of subaltern resistance and voice; many readers also find her prose dense and difficult. Spivak has herself commented on the essay's reception and said it has often been misread.
@@ -61,3 +64,4 @@ Her work shaped postcolonial theory, feminist theory and subaltern studies, and 
 - Gayatri Chakravorty Spivak, A Critique of Postcolonial Reason (1999)
 - Gayatri Chakravorty Spivak, In Other Worlds (1987)
 - Rosalind Morris (ed.), Can the Subaltern Speak? Reflections on the History of an Idea (2010)
+- Antonio Gramsci, Selections from the Prison Notebooks (English translation 1971)

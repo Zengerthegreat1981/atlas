@@ -11,8 +11,7 @@ active_start: 1900
 active_end: "مستمر"
 edges: []
 related: []
-gaps:
-  - "Comprehensive expansion and deepening of content: not yet covered"
+gaps: []
 ---
 
 # Care Ethics & Feminism
@@ -51,6 +50,12 @@ Care ethics is especially visible in nursing at the end of life. Where Kantian e
 
 Care ethics has influenced several fields. In the philosophy of education, through Noddings, it called for curricula that value the educational relationship over rote transmission. It has also shaped social policy on parental leave and elder care, and international relations, where Fiona Robinson, in *Globalizing Care* (1999), and others proposed a care-based approach to global ethics as an alternative to interest-based realism. It has also formed common ground with virtue ethics, the philosophy of disability, and intersectional feminist theories in critiquing the individualism of liberal thought that dominates Western moral philosophy.
 
+## Further Feminist Strands
+
+Sara Ruddick's article Maternal Thinking (1980) and her book of the same title (1989) argued that the work of raising children, with its aims of preserving life, fostering growth and shaping social acceptability, generates a distinctive discipline of thought that men too can practise and that can inform a politics of peace. Annette Baier, in articles collected in *Moral Prejudices* (1994), made trust a central moral concept and asked how an ethics of obligation depends on relations of love and trust that it does not itself explain. Michael Slote's *The Ethics of Care and Empathy* (2007) sought to build a comprehensive theory in which empathy grounds both personal morality and social justice.
+
+Feminist ethics is broader than care ethics. Alison Jaggar and Susan Sherwin, among others, stress the analysis of oppression and power; Sherwin's *No Longer Patient* (1992) applies this to health care. Uma Narayan's essay Colonialism and Its Others (1995) warned that talk of care and dependence has also served colonial rule, which presented domination as responsibility for people deemed unable to look after themselves.
+
 ## Sources
 
 - Gilligan, Carol. *In a Different Voice: Psychological Theory and Women's Development*. Harvard University Press, 1982.
@@ -59,3 +64,8 @@ Care ethics has influenced several fields. In the philosophy of education, throu
 - Tronto, Joan C. *Moral Boundaries: A Political Argument for an Ethic of Care*. Routledge, 1993.
 - Robinson, Fiona. *Globalizing Care: Ethics, Feminist Theory, and International Relations*. Westview Press, 1999.
 - Kittay, Eva Feder. *Love's Labor: Essays on Women, Equality, and Dependency*. Routledge, 1999.
+- Ruddick, Sara. *Maternal Thinking: Toward a Politics of Peace*. Beacon Press, 1989.
+- Baier, Annette C. *Moral Prejudices: Essays on Ethics*. Harvard University Press, 1994.
+- Slote, Michael. *The Ethics of Care and Empathy*. Routledge, 2007.
+- Sherwin, Susan. *No Longer Patient: Feminist Ethics and Health Care*. Temple University Press, 1992.
+- Narayan, Uma. "Colonialism and Its Others: Considerations on Rights and Care Discourses." *Hypatia*, 1995.

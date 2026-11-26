@@ -15,8 +15,7 @@ edges:
 - rel: "belongs_to", target: "Religion and Symbolic Colours: Colour Classification in Comparative Ritual", target_type: "مدرسة"
 related:
 - id: "thk-victor-turner", title: "Victor Turner", type: "مفكر"
-gaps:
-  - "Comparison of the Ndembu triad with colour symbolism in other religious traditions: not yet covered"
+gaps: []
 ---
 
 # The Ndembu Colour Triad: White, Red and Black
@@ -41,8 +40,13 @@ Turner adopted an innovative ethnographic method for interpreting the ritual sym
 
 The triad appears in the girls' puberty ritual *Nkang'a* and in Ndembu rituals of affliction such as *Nkula* and *Isoma*, which Turner studied in the field between 1950 and 1954. In these rites the three colours are actually painted on the body of the initiate or on ritual objects (such as the milk tree, *mudyi*, central to Nkang'a), in a sequence that accompanies her transition from girlhood to womanhood. Thus the colour classificatory system is translated into a concrete ritual action that is reproduced generation after generation.
 
+## Comparison with Other Traditions
+
+Turner himself set the Ndembu material beside other cases in his 1966 essay, including ancient Indian texts. The Chandogya Upanishad analyses things into red, white and black, linked with fire, water and food, and later Indian thought, notably the Samkhya scheme of three qualities (*gunas*), came to associate white with clarity (*sattva*), red with activity (*rajas*) and black or darkness with inertia (*tamas*). The resemblance to purity, power and obscurity is suggestive, but the Indian triad belongs to a philosophical account of the constitution of reality rather than to a ritual code of bodily fluids. Western Christian liturgy offers another contrast: Innocent III, writing around the end of the twelfth century, explained white, red, black and green as principal liturgical colours, tying red to martyrdom and Pentecost and black to penitence and mourning. Meanings also diverge sharply, since white is a colour of mourning in several East and South Asian settings. Linguistic research by Berlin and Kay, which found that terms for black, white and red tend to appear first in colour vocabularies, is sometimes brought into the discussion, though it concerns words and not ritual meaning. Shared hues therefore do not by themselves show a shared symbolic system.
+
 ## Sources
 
 - Turner, V. (1966). "Colour Classification in Ndembu Ritual: A Problem in Primitive Classification." In M. Banton (ed.), *Anthropological Approaches to the Study of Religion* (ASA Monographs 3). Tavistock Publications.
 - Turner, V. (1967). *The Forest of Symbols: Aspects of Ndembu Ritual*. Cornell University Press.
 - Turner, V. (1968). *The Drums of Affliction: A Study of Religious Processes among the Ndembu of Zambia*. Clarendon Press.
+- Berlin, B., & Kay, P. (1969). *Basic Color Terms: Their Universality and Evolution*. University of California Press.

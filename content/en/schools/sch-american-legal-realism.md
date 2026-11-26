@@ -18,8 +18,7 @@ related:
 - id: "thk-oliver-wendell-holmes-jr", title: "Oliver Wendell Holmes Jr.", type: "مفكر"
 - id: "thk-karl-llewellyn", title: "Karl N. Llewellyn", type: "مفكر"
 - id: "sch-legal-positivism-modern", title: "Modern Legal Positivism", type: "مدرسة"
-gaps:
-  - "Scandinavian Legal Realism (Hägerström, Ross) in detail: not yet covered."
+gaps: []
 ---
 
 # American Legal Realism
@@ -51,7 +50,15 @@ The movement was subjected to fundamental methodological criticisms. Its opponen
 
 ## Later Impact
 
-American Realism later paved the way for more radical critical movements, such as Critical Legal Studies (CLS) in the 1970s, and influenced the development of economic analysis of law and Empirical Legal Studies, which take seriously the question of "what actually drives judicial decision-making" with more modern methodological tools. Its influence also extended to **Scandinavian Legal Realism** (Hägerström and Ross), a parallel current that arose independently of its American counterpart in a different geographical setting, but shared the same concern with dismantling metaphysical legal concepts, although it rested on a Scandinavian analytic philosophy with different roots.
+American Realism later paved the way for more radical critical movements, such as Critical Legal Studies (CLS) in the 1970s, and influenced the development of economic analysis of law and Empirical Legal Studies, which take seriously the question of "what actually drives judicial decision-making" with more modern methodological tools. **Scandinavian Legal Realism** (Hägerström and Ross), a parallel current that arose independently of its American counterpart in a different geographical setting, shared the same concern with dismantling metaphysical legal concepts, although it rested on a Scandinavian analytic philosophy with different roots.
+
+## Scandinavian Legal Realism
+
+The Scandinavian movement began with the Uppsala philosopher Axel Hägerström (1868-1939), who rejected metaphysics and held that value judgments express attitudes and are neither true nor false. He argued that notions such as right and duty correspond to no observable entity and traced features of Roman legal thought to quasi-magical beliefs about invisible powers.
+
+His followers applied this critique in different ways. Anders Vilhelm Lundstedt attacked the idea of a pre-existing sense of justice and urged that law be understood through social welfare. Karl Olivecrona, in *Law as Fact* (1939), described legal rules as independent imperatives that influence conduct through their psychological effect, without anyone's command in a literal sense. The Danish jurist Alf Ross, in *On Law and Justice* (English translation 1958), analysed a statement that a rule is valid law chiefly as a prediction that judges will apply it because they experience it as binding. In his essay *Tu-Tu* he argued that words such as ownership name no thing but usefully link legal conditions to legal consequences.
+
+Compared with the Americans, the Scandinavians were more concerned with the meaning of legal concepts and less with litigation practice. H. L. A. Hart criticized Ross for neglecting how participants themselves use statements of validity.
 
 ## Sources
 
@@ -59,3 +66,5 @@ American Realism later paved the way for more radical critical movements, such a
 - Llewellyn, Karl N. *The Bramble Bush: On Our Law and Its Study*. New York: Columbia University School of Law, 1930.
 - Frank, Jerome. *Law and the Modern Mind*. New York: Brentano's, 1930.
 - Leiter, Brian. "Legal Realism and Legal Positivism Reconsidered." *Ethics*, vol. 111, no. 2, 2001, pp. 278–301.
+- Olivecrona, Karl. *Law as Fact*. Copenhagen: Munksgaard, 1939.
+- Ross, Alf. *On Law and Justice*. London: Stevens, 1958.

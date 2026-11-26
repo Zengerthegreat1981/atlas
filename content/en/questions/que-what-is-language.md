@@ -16,8 +16,6 @@ related:
 gaps:
   - "Dedicated entry on language (con-language): not yet covered"
   - "Dedicated entry on Noam Chomsky (thk-chomsky): not yet covered"
-  - "Dedicated entry on Ludwig Wittgenstein (thk-wittgenstein): not yet covered"
-  - "Dedicated entry on Ferdinand de Saussure (thk-saussure): not yet covered"
   - "Dedicated entry on Wilhelm von Humboldt (thk-humboldt): not yet covered"
 ---
 # What Is Language?
@@ -34,7 +32,7 @@ For Ferdinand de Saussure, in *Course in General Linguistics* (1916, compiled af
 
 ## Levels of language and psychology
 
-The study of language is divided among phonetics, morphology, syntax, semantics, and pragmatics. The last studies use in context, and is linked to Austin and Searle's view that saying is doing. In psychology, Steven Pinker, in *The Language Instinct* (1994), presented the innateness argument. Eric Lenneberg, in *The Biological Foundations of Language* (1967), argued for a critical period for language acquisition, a hypothesis that remains debated. On the question of the relation between language and thought, the hypothesis of linguistic relativity attributed to Edward Sapir and Benjamin Lee Whorf emerged. *Language, Thought and Reality* (1956) collected Whorf's essays. Its strong form, that language determines thought, has not been confirmed, while its weak form, that language influences some aspects of perception, has received experimental support.
+The study of language is divided among phonetics, morphology, syntax, semantics, and pragmatics. The last studies use in context, and is linked to Austin and Searle's view that saying is doing. In psychology, Steven Pinker, in *The Language Instinct* (1994), presented the innateness argument. Eric Lenneberg, in *Biological Foundations of Language* (1967), argued for a critical period for language acquisition, a hypothesis that remains debated. On the question of the relation between language and thought, the hypothesis of linguistic relativity attributed to Edward Sapir and Benjamin Lee Whorf emerged. *Language, Thought and Reality* (1956) collected Whorf's essays. Its strong form, that language determines thought, has not been confirmed, while its weak form, that language influences some aspects of perception, has received experimental support.
 
 ## Contemporary questions
 

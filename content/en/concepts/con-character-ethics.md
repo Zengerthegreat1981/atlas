@@ -12,8 +12,7 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "Virtue Ethics", target_type: "مدرسة"
 related: []
-gaps:
-  - "Primary sources: not yet covered."
+gaps: []
 ---
 
 # Character Ethics
@@ -34,6 +33,10 @@ The deepest roots of character ethics go back to Aristotle's *Nicomachean Ethics
 
 The main objection to character ethics comes from experimental social psychology, known as "situationism." It holds that experiments such as Milgram's obedience study and Zimbardo's Stanford prison experiment, though the latter has itself been heavily criticized methodologically, showed that individuals' behavior is affected by situational circumstances far more than by supposedly stable personality traits, which casts doubt on the existence of a stable "virtuous character" across situations (a line pressed by Gilbert Harman, 1999, and John Doris, *Lack of Character*, 2002). Proponents of virtue ethics reply that genuine virtue is rare and difficult to acquire in the first place, and that the scarcity of experimental examples of it does not negate its possibility.
 
+## Further Primary Sources
+
+Beyond the *Nicomachean Ethics*, Aristotle's *Eudemian Ethics* examines how character is formed through habit, and Theophrastus's *Characters* offers thirty short sketches of faulty types. David Hume gave character a central role in Book III of *A Treatise of Human Nature* (1739-1740) and in *An Enquiry Concerning the Principles of Morals* (1751), treating actions as signs of durable qualities that observers approve or disapprove. In the twentieth century, Iris Murdoch's *The Sovereignty of Good* (1970) stressed the slow work of attention that shapes what a person sees before choosing. Philippa Foot's *Virtues and Vices* (1978) described virtues as correctives to common temptations and deficiencies. Nancy Sherman's *The Fabric of Character* (1989) reconstructs Aristotle's account of moral education, and Rosalind Hursthouse's *On Virtue Ethics* (1999) develops a neo-Aristotelian theory in which right action is defined by what a virtuous agent would characteristically do.
+
 ## Sources
 
 - Miskawayh. *The Refinement of Character* (*Tahdhib al-Akhlaq*). Translated by Constantine K. Zurayk. American University of Beirut, 1968.
@@ -41,3 +44,11 @@ The main objection to character ethics comes from experimental social psychology
 - Ibn Hazm al-Andalusi. *al-Akhlaq wa al-Siyar fi Mudawat al-Nufus*. Andalusi ethical treatise (d. 1064).
 - Harman, Gilbert. "Moral Philosophy Meets Social Psychology: Virtue Ethics and the Fundamental Attribution Error." *Proceedings of the Aristotelian Society* 99, 1999.
 - Doris, John M. *Lack of Character: Personality and Moral Behavior*. Cambridge University Press, 2002.
+- Aristotle. *Eudemian Ethics*.
+- Theophrastus. *Characters*.
+- Hume, David. *A Treatise of Human Nature*. 1739-1740.
+- Hume, David. *An Enquiry Concerning the Principles of Morals*. 1751.
+- Murdoch, Iris. *The Sovereignty of Good*. Routledge & Kegan Paul, 1970.
+- Foot, Philippa. *Virtues and Vices*. Blackwell, 1978.
+- Sherman, Nancy. *The Fabric of Character*. Oxford University Press, 1989.
+- Hursthouse, Rosalind. *On Virtue Ethics*. Oxford University Press, 1999.

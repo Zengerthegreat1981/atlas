@@ -19,8 +19,7 @@ related:
 - id: "thk-husserl", title: "Edmund Husserl", type: "مفكر"
 - id: "thk-bachelard", title: "Gaston Bachelard", type: "مفكر"
 - id: "thk-cassirer", title: "Ernst Cassirer", type: "مفكر"
-gaps:
-  - "Titchener's influence on American psychology after 1930: not yet covered."
+gaps: []
 ---
 # Edward Bradford Titchener
 
@@ -80,6 +79,10 @@ Titchener stands on the bridge because he:
 - After his death the school gave way to behaviorism (Watson) and functionalism, because trained introspection could not be verified across observers, and because structuralism neglected function, development, and individual differences.
 - His influence remains in the model of the laboratory and in the disciplined training of observation, and in questions of sensory perception.
 
+## Influence on American Psychology after 1930
+
+After 1930 Titchener's system had few defenders, but several of its carriers remained prominent. His informal group of Experimentalists was reorganized in 1929 as the Society of Experimental Psychologists, which admitted women. Karl Dallenbach, a Cornell student, edited the *American Journal of Psychology* for decades and later led psychology at the University of Texas. Edwin Boring, at Harvard, moved away from his teacher's mentalism: *The Physical Dimensions of Consciousness* (1933) recast the attributes of sensation in physiological terms, and his Harvard colleague S. S. Stevens developed an operationist account of psychological concepts. Boring's *Sensation and Perception in the History of Experimental Psychology* (1942) carried the older research problems into later perception science. His histories also shaped how generations of American students understood Wundt, largely through a Titchenerian lens; from the 1970s historians such as Arthur Blumenthal challenged that picture, and Rand B. Evans reexamined Titchener's own unfinished system.
+
 ## Sources
 
 - Titchener, E. B. (1898). "The Postulates of a Structural Psychology." *Philosophical Review*, 7(5).
@@ -89,3 +92,7 @@ Titchener stands on the bridge because he:
 - Boring, E. G. (1950). *A History of Experimental Psychology* (2nd ed.). Appleton-Century-Crofts. (Documents his academic career and his battle with James.)
 - Danziger, Kurt. (1990). *Constructing the Subject: Historical Origins of Psychological Research*. Cambridge University Press.
 - Sabra, A. I. (1989). *The Optics of Ibn al-Haytham: Books I–III, On Direct Vision*. Warburg Institute.
+- Boring, E. G. (1933). *The Physical Dimensions of Consciousness*. Century.
+- Boring, E. G. (1942). *Sensation and Perception in the History of Experimental Psychology*. Appleton-Century.
+- Blumenthal, Arthur L. (1975). "A Reappraisal of Wilhelm Wundt." *American Psychologist*.
+- Evans, Rand B. (1972). "E. B. Titchener and His Lost System." *Journal of the History of the Behavioral Sciences*.

@@ -14,9 +14,7 @@ active_start: 1959
 active_end: 1983
 edges: []
 related: []
-gaps:
-- Detailed case studies: not yet covered
-- Contemporary empirical examples: not yet covered
+gaps: []
 ---
 # Goffmanian Dramaturgical Sociology
 
@@ -33,6 +31,14 @@ Dramaturgy treats the self as an effect of performance rather than its cause: we
 ## Method and Key Works
 
 Goffman's method was naturalistic observation: long immersion in a setting, close attention to gesture, talk, and the organisation of space, and the collection of telling instances rather than statistical samples. *The Presentation of Self in Everyday Life* (1956; expanded 1959) is the founding statement of dramaturgy, built from the Shetland fieldwork. *Asylums* (1961) drew on a year of fieldwork as an assistant athletic director at St. Elizabeths Hospital in Washington, D.C., in 1955–1956. *Stigma* (1963) and *Behavior in Public Places* (1963) extended the analysis to deviance and to civil inattention, the polite ignoring of strangers that makes city life possible. *Interaction Ritual* (1967) gathered his essays on face-work and embarrassment, *Relations in Public* (1971) studied the micro-order of public space, and *Frame Analysis* (1974) is his longest and most ambitious book, asking how people know "what is going on here."
+
+## Case Studies
+
+Goffman's two best-known field settings show the framework at work. In the Shetland community studied for *The Presentation of Self*, a small hotel provided a clear contrast between regions. Staff who served guests in the dining room kept up a manner suited to a respectable establishment, while in the kitchen they reverted to local habits of eating, talk, and informality that would have damaged that impression had guests seen them. The door between the two rooms marked the boundary that the team had to manage. In *Asylums*, the case is St. Elizabeths Hospital. Goffman described how admission procedures removed personal possessions, privacy, and control over daily routine, and how patients nonetheless preserved a sense of self through secondary adjustments, such as claiming hidden places, trading small goods, and using official activities for unofficial ends. Behaviour that staff read as a symptom could also be understood as a response to confinement. The account deliberately took the patients' standpoint, and critics have noted that it therefore gave limited attention to illness itself and to differences among institutions.
+
+## Contemporary Empirical Examples
+
+Digital communication has become a major testing ground. Alice Marwick and danah boyd (2011), drawing on responses from Twitter users, examined context collapse: audiences that would be separate offline, such as relatives, friends, and employers, can read the same message, so users imagine an audience, censor themselves, and balance authenticity against caution. Bernie Hogan (2010) argued that much online self-presentation is better described as exhibition than as performance, because profiles and photographs remain available and are filtered and ordered by third parties, including software, when no performer is present. This both applies Goffman and marks a limit of his stage metaphor, which assumed people sharing a situation in time. In another setting, Candace West and Don Zimmerman's concept of doing gender (1987), indebted to Goffman though critical of aspects of his account, has informed many later studies of how people are held accountable in interaction for appearing and acting as women or men.
 
 ## Influence and Legacy
 
@@ -58,3 +64,6 @@ Goffmanian dramaturgy is the micro-sociological counterpart to the classical mac
 - Goffman, Erving. *Gender Advertisements*. New York: Harper and Row, 1979.
 - Manning, Philip. *Erving Goffman and Modern Sociology*. Cambridge: Polity Press, 1992.
 - Burns, Tom. *Erving Goffman*. London: Routledge, 1992.
+- Marwick, Alice E., and danah boyd. "I Tweet Honestly, I Tweet Passionately: Twitter Users, Context Collapse, and the Imagined Audience." *New Media & Society*, 2011.
+- Hogan, Bernie. "The Presentation of Self in the Age of Social Media: Distinguishing Performances and Exhibitions Online." *Bulletin of Science, Technology & Society*, 2010.
+- West, Candace, and Don H. Zimmerman. "Doing Gender." *Gender & Society*, 1987.

@@ -15,8 +15,7 @@ edges:
 related:
   - id: "thk-james-clifford", title: "James Clifford", type: "مفكر"
   - id: "thk-talal-asad", title: "Talal Asad", type: "مفكر"
-gaps:
-  - "Relationship between multi-sited and collaborative methodologies: not yet covered"
+gaps: []
 ---
 
 # George Marcus: Multi-Sited Ethnography and Experimental Forms
@@ -81,6 +80,12 @@ Discussions of the method, including Marcus's own, point to challenges: maintain
 
 However, multi-sited ethnography has proven enormously influential. Contemporary anthropologists studying migration, technology, commodities, social movements, and transnational phenomena routinely employ multi-sited methods. The approach has enabled anthropological engagement with phenomena that single-site fieldwork could not adequately address.
 
+## Multi-Sited and Collaborative Methods
+
+Following connections often leads ethnographers to subjects who are themselves researchers, experts, or activists, and this links multi-sited work to collaboration. In his essay on the uses of complicity (1997), reprinted in *Ethnography Through Thick and Thin*, Marcus argued that the older ideal of rapport poorly described fieldwork in which anthropologist and interlocutor share a concern with distant forces that affect a locality but cannot be fully grasped from within it. With Douglas Holmes he developed the idea of **para-ethnography**: experts such as central bankers may already practise forms of informal, ethnography-like inquiry, which can make them partners in framing research questions instead of only informants.
+
+Collaboration also has other sources and meanings. Luke Eric Lassiter's *The Chicago Guide to Collaborative Ethnography* (2005) emphasised involving community consultants throughout research and writing, drawing on feminist, public, and Indigenous-oriented traditions. Teams can combine both approaches by dividing sites among researchers and comparing their findings. The two methods remain distinct: research may follow many sites with little shared authority, or be deeply collaborative in one place. Combining them raises questions about who chooses which connections to follow and who benefits.
+
 ## Postcolonial Positioning and Hierarchies of Scale
 
 Marcus's work on multi-sited ethnography has been engaged with postcolonial critique, though not without tension. On one hand, multi-sited methodology can help anthropologists study systems of power—global capital, colonial legacies, transnational inequality—rather than focusing solely on "local" communities. On the other hand, multi-sited ethnography, if oriented toward following elite actors or corporate interests, might reproduce hierarchies by studying "up" rather than with communities.
@@ -112,3 +117,6 @@ Multi-sited methods have since been applied to migration, technology, commodity 
 - Faubion, James D., and George E. Marcus, eds. *Fieldwork Is Not What It Used to Be*. Cornell University Press, 2009.
 - Marcus, George E., ed. *Para-Sites: A Casebook against Cynical Reason*. University of Chicago Press, 2000.
 - Falzon, Mark-Anthony (ed.). *Multi-Sited Ethnography: Theory, Praxis and Locality in Contemporary Research*. Ashgate, 2009.
+- Marcus, George E. "The Uses of Complicity in the Changing Mise-en-Scène of Anthropological Fieldwork." *Representations* 59. 1997.
+- Holmes, Douglas R., and George E. Marcus. "Cultures of Expertise and the Management of Globalization: Toward the Re-Functioning of Ethnography." In *Global Assemblages*, edited by Aihwa Ong and Stephen J. Collier. Blackwell, 2005.
+- Lassiter, Luke Eric. *The Chicago Guide to Collaborative Ethnography*. University of Chicago Press, 2005.

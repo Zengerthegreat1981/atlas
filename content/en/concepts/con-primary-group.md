@@ -12,9 +12,7 @@ active_start: 1900
 active_end: مستمر
 edges: []
 related: []
-gaps:
-- Cross-school comparisons: not yet covered
-- Empirical examples: not yet covered
+gaps: []
 sociological_tradition: other
 sociological_paradigm: micro-macro
 ---
@@ -39,6 +37,14 @@ One debate concerns whether primary groups are disappearing. Early sociologists 
 
 The primary group remains a central concept for understanding contemporary social life, including its digital transformations. Families have changed in form — single-parent households, blended families, same-sex parents — but they remain the primary group in which most children grow up, and debates about parenting, childcare, and family policy are debates about the conditions of primary-group life. Friendship, long treated as a private matter, is now recognised as a crucial source of wellbeing, and research on loneliness and social isolation has shown how damaging the loss of primary ties can be, especially in old age. Robert Putnam's *Bowling Alone* (2000) argued that Americans were losing the associational and informal ties that sustain community, a claim that provoked wide debate about the health of social life. Digital communication has added a new dimension: messaging apps and social media allow primary ties to be sustained across continents, but they also raise questions about whether online interaction can provide the same depth of intimacy as face-to-face contact. The concept's enduring insight is that human beings are not formed in isolation, nor in the abstract structures of the economy and the state, but in the small circles of people who know them, care for them, and hold them to account.
 
+## Empirical Examples
+
+Studies of work and war found primary groups inside large organisations. In the Hawthorne research reported by F. J. Roethlisberger and William Dickson in *Management and the Worker* (1939), men in the bank wiring observation room kept informal norms about how much output was proper. Edward Shils and Morris Janowitz (1948), drawing on interviews with German prisoners and other wartime material, argued that the persistence of Wehrmacht units owed much to loyalty within the small group; later historians have argued that they underrated ideology and coercion. Michael Young and Peter Willmott's *Family and Kinship in East London* (1957) described close ties between mothers and married daughters in Bethnal Green and the strain that rehousing placed on them.
+
+## Comparisons across Schools
+
+Interactionists in the line of Cooley and George Herbert Mead stress the formation of the self through intimate communication. Structural functionalists, as in Talcott Parsons and Robert Bales's work on the family (1955), ask what the group contributes to the wider system, especially socialisation and the stabilising of adult personality. Exchange theorists such as Homans explain cohesion through rewarding interaction. Feminist and conflict approaches question the picture of a unified group, examining unequal power, labour and resources within households.
+
 ## Sources
 
 - Tönnies, Ferdinand. *Gemeinschaft und Gesellschaft*. 1887.
@@ -46,3 +52,8 @@ The primary group remains a central concept for understanding contemporary socia
 - Cooley, Charles Horton. *Social Organization: A Study of the Larger Mind*. 1909.
 - Homans, George C. *The Human Group*. 1950.
 - Putnam, Robert D. *Bowling Alone: The Collapse and Revival of American Community*. 2000.
+- Roethlisberger, F. J., and William J. Dickson. *Management and the Worker*. 1939.
+- Shils, Edward A., and Morris Janowitz. "Cohesion and Disintegration in the Wehrmacht in World War II." *Public Opinion Quarterly*, 1948.
+- Young, Michael, and Peter Willmott. *Family and Kinship in East London*. 1957.
+- Parsons, Talcott, and Robert F. Bales. *Family, Socialization and Interaction Process*. 1955.
+- Bartov, Omer. *Hitler's Army: Soldiers, Nazis, and War in the Third Reich*. 1991.

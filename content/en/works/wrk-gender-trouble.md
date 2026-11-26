@@ -12,8 +12,7 @@ active_start: 1990
 active_end: مستمر
 edges: []
 related: []
-gaps:
-- Detailed empirical case studies: not yet covered
+gaps: []
 ---
 # Gender Trouble
 
@@ -39,6 +38,10 @@ Several concepts from the book have entered the core vocabulary of sociology and
 
 *Gender Trouble* was immediately influential and widely debated. It helped found queer theory alongside the work of Eve Kosofsky Sedgwick, and it reshaped feminist theory, the sociology of gender and sexuality, and cultural studies. Butler developed and revised the argument in *Bodies That Matter* (1993), which addressed the materiality of the body, and in *Undoing Gender* (2004), which engaged more directly with transgender and intersex lives. It remains one of the most cited works in the humanities and social sciences, and a standard text in courses on gender, sexuality, and social theory.
 
+## Empirical Studies in Dialogue with the Book
+
+*Gender Trouble* is a philosophical work and reports no fieldwork of its own, but its discussion of drag draws on the anthropologist Esther Newton's *Mother Camp* (1972), a study of female impersonators in the United States. Later researchers have used performativity in empirical settings. C. J. Pascoe's *Dude, You're a Fag* (2007), based on fieldwork in a California high school, examined how boys repeatedly assert masculinity, notably by using a homophobic insult against one another and through rituals of dominance over girls. Pascoe treated the figure the insult names as an abject position that any boy could be made to occupy and therefore had to keep disavowing. Leslie Salzinger's *Genders in Production* (2003), an ethnographic study of export factories in Mexico, showed that managers' assumptions about docile feminine workers shaped hiring and shop-floor supervision, and that gendered subjects were produced differently from one plant to another. Such studies add institutions, interaction and material conditions that Butler's argument treats only briefly. They illustrate the usefulness of the framework without proving it as a general theory.
+
 ## Critical Assessments
 
 The book has attracted powerful criticism. Martha Nussbaum argued in 1999 that Butler's focus on the subversion of symbols offered no practical programme for feminist politics and abandoned the material struggles of women, particularly in the Global South. Others have questioned whether performativity, as Butler defines it, leaves room for agency: if subjects are produced by discourse, how can they resist it? Butler's later work addresses this directly, developing an account of agency as the possibility of resignification within the very norms that constrain us. Feminist critics have also debated the book's treatment of the body and of sexual difference, and trans scholars have both drawn on and criticised Butler's framework. Defenders argue that these criticisms often misread the book: performativity is not a theory of free choice but of constrained repetition, and its political point is that the categories that appear natural are in fact made — and can therefore be remade.
@@ -56,3 +59,6 @@ More than three decades after publication, *Gender Trouble* remains a live resou
 - Nussbaum, Martha C. "The Professor of Parody." *The New Republic*, 22 February 1999.
 - Salih, Sara. *Judith Butler*. London: Routledge, 2002.
 - Wittig, Monique. "The Straight Mind." *Feminist Issues* 1, no. 1 (1980): 103–111.
+- Newton, Esther. *Mother Camp: Female Impersonators in America*. 1972.
+- Pascoe, C. J. *Dude, You're a Fag: Masculinity and Sexuality in High School*. 2007.
+- Salzinger, Leslie. *Genders in Production: Making Workers in Mexico's Global Factories*. 2003.

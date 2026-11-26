@@ -12,8 +12,7 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "Deontological Ethics (Kant)", target_type: "مدرسة"
 related: []
-gaps:
-  - "Primary sources: not yet covered."
+gaps: []
 ---
 
 # Duty-Based Ethics
@@ -38,9 +37,20 @@ Kant's strictness is objected to on the grounds that it may lead to results that
 
 Fulfilling a promise made to a dying friend, to deliver their property to a specific person, remains a binding duty within duty-based ethics, even if it later becomes clear that distributing the money to a charitable cause would have produced greater benefit.
 
+## Further Primary Sources
+
+The language of duty has a long history before Kant. Cicero's *On Duties* (44 BCE), drawing on the Stoic Panaetius, examines what is honourable and what is expedient in the roles a person occupies. Samuel Pufendorf's *On the Duty of Man and Citizen* (1673) arranged duties toward God, oneself, and others within a theory of natural law. Richard Price's *A Review of the Principal Questions in Morals* (1758) argued that reason intuitively grasps several distinct obligations. Kant developed his system of duties of right and duties of virtue in *The Metaphysics of Morals* (1797), after the groundwork of 1785 and the *Critique of Practical Reason* (1788). In the twentieth century, H. A. Prichard's "Does Moral Philosophy Rest on a Mistake?" (1912) argued that obligation is apprehended directly and cannot be derived from the good an act produces. Christine Korsgaard's *Creating the Kingdom of Ends* (1996) is an influential modern reconstruction of the Kantian position.
+
 ## Sources
 
 - Kant, Immanuel. *Groundwork of the Metaphysics of Morals* (1785). Translated by Mary Gregor. Cambridge University Press, 1997.
 - Kant, Immanuel. "On a Supposed Right to Lie from Philanthropy" (1797). In *Practical Philosophy*, trans. Mary Gregor. Cambridge University Press, 1996.
 - al-Ghazali, Abu Hamid. *Ihya' 'Ulum al-Din*.
 - Ross, W. D. *The Right and the Good*. Oxford University Press, 1930.
+- Cicero. *On Duties* (*De officiis*). 44 BCE.
+- Pufendorf, Samuel. *On the Duty of Man and Citizen According to Natural Law*. 1673.
+- Price, Richard. *A Review of the Principal Questions in Morals*. 1758.
+- Kant, Immanuel. *Critique of Practical Reason*. 1788.
+- Kant, Immanuel. *The Metaphysics of Morals*. 1797.
+- Prichard, H. A. "Does Moral Philosophy Rest on a Mistake?" *Mind* 21, 1912.
+- Korsgaard, Christine M. *Creating the Kingdom of Ends*. Cambridge University Press, 1996.

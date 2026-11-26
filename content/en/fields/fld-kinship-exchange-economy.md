@@ -8,8 +8,7 @@ title: "Kinship, Exchange and Economy"
 en: "Kinship, Exchange and Economy"
 crumb: "Anthropology ← Fields ← Kinship, Exchange and Economy"
 edges: []
-gaps:
-  - "Ethnographies of finance, money and markets in contemporary capitalism: not yet covered"
+gaps: []
 related:
   - id: "fld-anthropology", title: "Anthropology", type: "مجال"
   - id: "br-kinship-studies-subfield", title: "Kinship Studies as a Subfield", type: "فرع"
@@ -62,13 +61,19 @@ Lewis Henry Morgan collected kinship terminologies from around the world and tri
 
 Marcel Mauss's essay *The Gift* argued that gifts in many societies are not free but carry obligations to give, to receive and to reciprocate, binding persons and groups. Bronislaw Malinowski's description of the Kula ring in the Trobriands became a central case, alongside the potlatch of the Northwest Coast and the moka exchanges of Mount Hagen in highland New Guinea. Marilyn Strathern's *The Gender of the Gift* reread Melanesian exchange to question Western assumptions about persons, gender and property. Marshall Sahlins distinguished forms of reciprocity, from generalised to balanced to negative, and linked them to social distance. Karl Polanyi's notions of embeddedness and of reciprocity, redistribution and market exchange influenced the field, and David Graeber's *Debt* revisited the history of obligation and money.
 
+## Finance, money and markets
+
+Anthropologists have increasingly taken the institutions of contemporary capitalism as field sites. Caitlin Zaloom's *Out of the Pits* (2006) compared traders in Chicago and London as dealing moved from open-outcry floors to electronic screens, showing how technology reshaped skill and self-discipline. Karen Ho's *Liquidated* (2009), based on research among Wall Street investment bankers, argued that their own culture of insecurity, elite recruitment and short-term reward informed the restructuring they promoted in other firms. Hirokazu Miyazaki's *Arbitraging Japan* (2013) followed a group of Japanese securities traders and the ways arbitrage shaped their thinking about work and the future.
+
+Other studies ask what money and markets are taken to be. Bill Maurer's *Mutual Life, Limited* (2005) examined Islamic banking and alternative currencies. Viviana Zelizer, a sociologist, showed in *The Social Meaning of Money* (1994) that people earmark money for different relationships and purposes. Michel Callon's edited volume *The Laws of the Markets* (1998) argued that economics helps to shape the markets it describes. These works extend older questions about embeddedness and exchange: even highly technical markets depend on social relations, devices, trust and moral judgments.
+
 ## Debates
 
 The substantivist–formalist debate asked whether economic theory built around scarcity and choice applies to non-market societies, or whether the economy must be defined by the actual provisioning of society. Kinship theory itself has been contested: whether descent or alliance is primary, whether biology underlies kinship at all, and whether the category survives critique.
 
 ## How the Atlas covers this field
 
-Kinship has the densest coverage in the module, with concept entries on descent, lineage, alliance and marriage; exchange is covered by concepts, studies and works on the gift; economic anthropology is covered by a subfield entry and a school. Contemporary finance is not yet covered, as noted in the gaps above.
+Kinship has the densest coverage in the module, with concept entries on descent, lineage, alliance and marriage; exchange is covered by concepts, studies and works on the gift; economic anthropology is covered by a subfield entry and a school. Contemporary finance is introduced in the section on finance, money and markets.
 
 ## Suggested reading order
 
@@ -81,3 +86,9 @@ Begin with the general entries on kinship and kinship theory, then descent and a
 - Schneider, David M. *American Kinship: A Cultural Account*. Prentice-Hall, 1968.
 - Sahlins, Marshall. *Stone Age Economics*. Aldine-Atherton, 1972.
 - Strathern, Marilyn. *The Gender of the Gift*. University of California Press, 1988.
+- Callon, Michel, ed. *The Laws of the Markets*. Blackwell, 1998.
+- Ho, Karen. *Liquidated: An Ethnography of Wall Street*. Duke University Press, 2009.
+- Maurer, Bill. *Mutual Life, Limited: Islamic Banking, Alternative Currencies, Lateral Reason*. Princeton University Press, 2005.
+- Miyazaki, Hirokazu. *Arbitraging Japan: Dreams of Capitalism at the End of Finance*. University of California Press, 2013.
+- Zaloom, Caitlin. *Out of the Pits: Traders and Technology from Chicago to London*. University of Chicago Press, 2006.
+- Zelizer, Viviana A. *The Social Meaning of Money*. Basic Books, 1994.

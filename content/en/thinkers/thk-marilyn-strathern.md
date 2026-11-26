@@ -6,6 +6,7 @@ part: "anthropology"
 level: "متقدم"
 title: "Marilyn Strathern"
 en: "Marilyn Strathern"
+crumb: "Anthropology ← Thinkers ← Marilyn Strathern"
 birth_year: 1941
 dates: "1941 – present"
 birth_country: "United Kingdom"

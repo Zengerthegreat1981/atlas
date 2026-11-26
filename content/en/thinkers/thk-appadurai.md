@@ -15,8 +15,7 @@ edges:
 related:
   - id: "thk-george-marcus", title: "George Marcus", type: "مفكر"
   - id: "thk-talal-asad", title: "Talal Asad", type: "مفكر"
-gaps:
-  - "Contemporary digital ethnography applications: not yet covered"
+gaps: []
 ---
 
 # Arjun Appadurai: Ethnography of Globalization and the Circulation of Culture
@@ -55,6 +54,12 @@ The scapes framework has been criticized as too abstract or systemic, and for sa
 
 Appadurai's concept of "modernity at large" holds that modernity is not simply a Western export but a plural and uneven set of possibilities that different peoples engage in diverse ways. His writing on India, including cricket and Bombay's urban life, treats formerly colonized societies as active producers of global culture rather than passive recipients.
 
+## Digital Ethnography Applications
+
+Appadurai's questions about electronic media, migration, and imagination have an evident bearing on digital fieldwork, although much of that research draws on several theorists and methods at once. In terms of the scapes, a social media platform links mediascapes with technoscapes, and often with the movement of people and money. An ethnographer might ask how users imagine possible lives through shared images, how diasporas produce locality in online spaces, and where flows are blocked by cost, language, censorship, or platform design.
+
+Digital ethnographers have developed methods suited to such questions. Christine Hine's *Virtual Ethnography* (2000) treated the internet both as a cultural setting and as a cultural artefact, and Sarah Pink and colleagues, in *Digital Ethnography* (2016), set out approaches that follow digital media into everyday life. Victoria Bernal's *Nation as Network* (2014) showed how Eritreans in the diaspora used websites to debate politics and take part in national life from abroad. Such studies test the idea of disjuncture empirically, since the same network can widen participation for some people while excluding others or exposing them to surveillance.
+
 ## Legacy
 
 The scapes vocabulary is now standard in the study of globalization, migration, diaspora, and transnational media, and has been influential beyond anthropology in geography, cultural studies, and development studies. Questions about how digital and social media extend or alter the circulation of images and imagination continue to draw on his framework.
@@ -67,3 +72,6 @@ The scapes vocabulary is now standard in the study of globalization, migration, 
 - Appadurai, Arjun. *Modernity at Large: Cultural Dimensions of Globalization*. University of Minnesota Press, 1996.
 - Appadurai, Arjun. *Fear of Small Numbers: An Essay on the Geography of Anger*. Duke University Press, 2006.
 - Anderson, Benedict. *Imagined Communities*. Verso, 1983.
+- Bernal, Victoria. *Nation as Network: Diaspora, Cyberspace, and Citizenship*. University of Chicago Press, 2014.
+- Hine, Christine. *Virtual Ethnography*. Sage, 2000.
+- Pink, Sarah, Heather Horst, John Postill, Larissa Hjorth, Tania Lewis, and Jo Tacchi. *Digital Ethnography: Principles and Practice*. Sage, 2016.

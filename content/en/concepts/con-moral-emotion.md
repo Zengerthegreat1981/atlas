@@ -11,8 +11,7 @@ active_start: 1900
 active_end: "مستمر"
 edges: []
 related: []
-gaps:
-  - "Primary sources: not yet covered"
+gaps: []
 ---
 
 # Moral Emotion
@@ -25,7 +24,7 @@ A distinction is usually made between emotions directed toward the self (such as
 
 ## In the Islamic Tradition
 
-Muslim moral scholars were concerned with regulating psychological emotions. Miskawayh, in *Tahdhib al-Akhlaq*, distinguished between the emotions of the irascible power (*al-quwwa al-ghadabiyya*), which produce courage when moderate, recklessness when excessive, and cowardice when deficient. He held that virtue is a mean between the extremes of excess and deficiency of emotion, not its elimination. Al-Ghazali gave special attention to the emotion of *haya'* (modesty or shame) as a moral emotion that restrains from indecencies, citing the hadith "Modesty is part of faith," and considered its absence a sign of corruption of moral nature. He also spoke of the "heart" and its direct affective knowledge of the ugliness of sins, in a manner resembling the role of an emotional conscience in detecting wrong before careful rational reflection.
+Muslim moral scholars were concerned with regulating psychological emotions. Miskawayh, in *Tahdhib al-Akhlaq*, analyzed the emotions of the irascible power (*al-quwwa al-ghadabiyya*), which produce courage when moderate, recklessness when excessive, and cowardice when deficient. He held that virtue is a mean between the extremes of excess and deficiency of emotion, not its elimination. Al-Ghazali gave special attention to the emotion of *haya'* (modesty or shame) as a moral emotion that restrains from indecencies, citing the hadith that counts modesty as a part of faith, and considered its absence a sign of corruption of moral nature. He also spoke of the "heart" and its direct affective knowledge of the ugliness of sins, in a manner resembling the role of an emotional conscience in detecting wrong before careful rational reflection.
 
 ## In Western Philosophy
 
@@ -35,8 +34,22 @@ In Greek philosophy, Aristotle regarded the emotions as an integral part of virt
 
 It is objected that total reliance on moral emotions may mislead the person who feels them. Disgust, for example, has historically been used to justify racial discrimination or the rejection of innocent minorities. As an example, a person witnesses an injustice committed against a stranger, and his anger erupts immediately, before any careful reflection. Haidt regards this as evidence for the priority of the swift moral emotion over the rational justification, which often comes later to defend the judgment rather than to produce it.
 
+## Further Primary Sources
+
+Book II of Aristotle's *Rhetoric* gives detailed analyses of anger, pity, shame, and indignation. Joseph Butler's *Fifteen Sermons* (1726) include discussions of resentment and its proper role in opposing injury. David Hume's *Treatise* (Book III) holds that moral distinctions are derived from a moral sense, and Adam Smith's *The Theory of Moral Sentiments* (1759) builds judgment on sympathy and the imagined impartial spectator. In the twentieth century, P. F. Strawson's "Freedom and Resentment" (1962) placed reactive attitudes such as resentment, gratitude, and indignation at the centre of the theory of responsibility. Gabriele Taylor's *Pride, Shame, and Guilt* (1985) and Bernard Williams's *Shame and Necessity* (1993) examine the emotions of self-assessment, and Allan Gibbard's *Wise Choices, Apt Feelings* (1990) explains moral judgments through norms for when guilt and anger are fitting. Paul Rozin and colleagues (1999) linked contempt, anger, and disgust to distinct kinds of moral violation, while Martha Nussbaum's *Hiding from Humanity* (2004) criticizes disgust as a basis for law.
+
 ## Sources
 
 - Ibn Miskawayh, Abu ʿAli. *Tahdhib al-Akhlaq*; English trans. Constantine Zurayk, *The Refinement of Character*. American University of Beirut, 1968.
 - Haidt, Jonathan. "The Emotional Dog and Its Rational Tail: A Social Intuitionist Approach to Moral Judgment." *Psychological Review* 108, no. 4 (2001): 814-834.
 - Haidt, Jonathan. *The Righteous Mind*. Pantheon Books, 2012.
+- Aristotle. *Rhetoric*, Book II.
+- Butler, Joseph. *Fifteen Sermons Preached at the Rolls Chapel*. 1726.
+- Hume, David. *A Treatise of Human Nature*. 1739-1740.
+- Smith, Adam. *The Theory of Moral Sentiments*. 1759.
+- Strawson, P. F. "Freedom and Resentment." *Proceedings of the British Academy* 48, 1962.
+- Taylor, Gabriele. *Pride, Shame, and Guilt*. Oxford University Press, 1985.
+- Gibbard, Allan. *Wise Choices, Apt Feelings*. Harvard University Press, 1990.
+- Williams, Bernard. *Shame and Necessity*. University of California Press, 1993.
+- Rozin, Paul, et al. "The CAD Triad Hypothesis." *Journal of Personality and Social Psychology* 76, 1999.
+- Nussbaum, Martha C. *Hiding from Humanity: Disgust, Shame, and the Law*. Princeton University Press, 2004.

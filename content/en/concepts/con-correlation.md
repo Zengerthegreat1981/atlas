@@ -12,8 +12,7 @@ active_start: 1900
 active_end: مستمر
 edges: []
 related: []
-gaps:
-- Cross-school comparisons: not yet covered
+gaps: []
 sociological_tradition: other
 sociological_paradigm: micro-macro
 ---
@@ -45,6 +44,10 @@ This interpretation is contested. Critics argue that an overreliance on correlat
 
 Correlation remains central to sociology in the age of large datasets and computational methods. The growth of "big data" — from administrative records, social media, and digital traces — has multiplied the correlations available for analysis, and machine learning methods search for patterns of association on a scale that earlier sociologists could not have imagined. This makes the old cautions more, not less, important: with enough data, almost everything correlates with almost everything else, and the task of distinguishing meaningful associations from artefacts becomes harder. The concept of correlation, forged in the study of heredity more than a century ago, thus remains at the heart of sociology's claim to be an empirical science — and of the debates about what that claim can deliver.
 
+## Correlation across Sociological Schools
+
+Schools differ over how much a correlation can show. In the positivist line running from Durkheim to mid-century American survey research, systematic co-variation is a principal route to causal explanation, strengthened by controlling for third variables, as in Paul Lazarsfeld's method of elaborating a relationship. Max Weber's interpretive sociology asked for more: an explanation should be adequate both causally, in that a regular connection can be shown, and at the level of meaning, in that the actors' conduct is intelligible. A statistical association alone meets only the first demand. Herbert Blumer, writing from symbolic interactionism in "Sociological Analysis and the 'Variable'" (1956), argued that correlating variables skips the process of interpretation through which people connect one condition with another. Critical theorists, notably Theodor Adorno in the German positivism dispute of the 1960s, objected that correlations may record the surface of a social order without explaining the totality that produces it. Stanley Lieberson's *Making It Count* (1985), a critique from within quantitative sociology, warned that statistical controls often cannot reproduce the conditions of an experiment.
+
 ## Sources
 
 - Karl Pearson, "Mathematical Contributions to the Theory of Evolution. III. Regression, Heredity and Panmixia," *Philosophical Transactions of the Royal Society of London* (1896).
@@ -52,3 +55,7 @@ Correlation remains central to sociology in the age of large datasets and comput
 - Charles Spearman, "The Proof and Measurement of Association Between Two Things," *American Journal of Psychology* (1904).
 - Hubert M. Blalock, Jr., *Social Statistics* (1960).
 - David A. Freedman, "Statistical Models and Shoe Leather," *Sociological Methodology* 21 (1991).
+- Blumer, Herbert. "Sociological Analysis and the 'Variable'." *American Sociological Review* (1956).
+- Max Weber, *Economy and Society* (1922; English edition 1968).
+- Theodor W. Adorno et al., *The Positivist Dispute in German Sociology* (1969; English edition 1976).
+- Stanley Lieberson, *Making It Count: The Improvement of Social Research and Theory* (1985).

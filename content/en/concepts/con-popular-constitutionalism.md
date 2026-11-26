@@ -14,8 +14,7 @@ edges:
 - rel: "belongs_to", target: "Constitutional Law Theory", target_type: "مدرسة"
 related:
 - id: "sch-constitutional-law-theory", title: "Constitutional Law Theory", type: "مدرسة"
-gaps:
-  - "The practical limits of popular constitutionalist arguments for constitutional systems outside the American context (such as continental parliamentary systems) are not yet covered."
+gaps: []
 ---
 # Popular Constitutionalism
 
@@ -37,8 +36,17 @@ Akhil Reed Amar offers a complementary path based on a structural reading of the
 
 The current faces a fundamental objection: that weakening judicial supremacy may expose minority rights to the danger of temporary political majorities in the absence of a relatively independent judicial guardian. Proponents of popular constitutionalism reply that history shows popular mobilization and judicial action interacted to protect rights, and that the courts alone were not the sole protector of rights in every documented case throughout the history of the republic.
 
+## Limits of Transfer beyond the American Setting
+
+The argument responds to a particular problem: a hard-to-amend constitution combined with a powerful court. Its force changes where those conditions differ. In systems built on parliamentary sovereignty, as classically in the United Kingdom, elected legislators already hold the last word, and the live question concerns the strength of rights review. Scholars such as Mark Tushnet and Stephen Gardbaum describe weak-form or Commonwealth arrangements, in which courts assess rights but legislatures may respond or override.
+
+Many continental European states entrust review to a specialized constitutional court, created deliberately, often after authoritarian rule, to restrain majorities. Judges are commonly chosen through political bodies for limited terms, and amendment is frequently easier than in the United States, so democratic correction has other channels. Some constitutions also protect certain principles even against amendment, as Germany's does. Membership in the European Union and adherence to the European Convention on Human Rights place further interpretive authority in courts that a single national public cannot control. Finally, where institutions are fragile, appeals to the people's interpretive authority may be used by governing majorities to weaken independent courts, a risk that comparative scholarship on democratic backsliding emphasizes.
+
 ## Sources
 
 - Kramer, Larry D. *The People Themselves: Popular Constitutionalism and Judicial Review*. Oxford University Press, 2004.
 - Tushnet, Mark. *Taking the Constitution Away from the Courts*. Princeton University Press, 1999.
 - Balkin, Jack M., and Reva B. Siegel, editors. *The Constitution in 2020*. Oxford University Press, 2009.
+- Tushnet, Mark. *Weak Courts, Strong Rights: Judicial Review and Social Welfare Rights in Comparative Constitutional Law*. Princeton University Press, 2008.
+- Gardbaum, Stephen. *The New Commonwealth Model of Constitutionalism: Theory and Practice*. Cambridge University Press, 2013.
+- Stone Sweet, Alec. *Governing with Judges: Constitutional Politics in Europe*. Oxford University Press, 2000.

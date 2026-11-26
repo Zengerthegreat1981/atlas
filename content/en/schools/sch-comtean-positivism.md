@@ -14,9 +14,7 @@ active_start: 1830
 active_end: 1857
 edges: []
 related: []
-gaps:
-- Detailed case studies: not yet covered
-- Contemporary empirical examples: not yet covered
+gaps: []
 ---
 # Comtean Positivism
 
@@ -40,6 +38,14 @@ Positivism's method follows from its epistemology. Genuine knowledge, for Comte,
 
 In his later work Comte took a turn that startled his early admirers. After the death of Clotilde de Vaux in 1846, he argued in the *Système de politique positive* (1851–1854) that intellect alone could not hold society together: feeling and morality mattered as much as reason. He founded the Religion of Humanity, with Humanity itself as the object of worship, a positivist priesthood, a calendar of great men and a catechism. John Stuart Mill, who had been an early English admirer, later criticised this "religion" sharply in *Auguste Comte and Positivism* (1865), and many later sociologists have treated the late Comte as an embarrassment. Yet the turn reveals something central to his thought: positivism was meant to replace not only theology's explanations but its social function — the moral unification of society. The Religion of Humanity failed as a movement, though small positivist churches survived in France and Brazil, where Comte's motto "Order and Progress" still appears on the national flag.
 
+## Case Studies: Positivism in Latin America
+
+Latin America offers the clearest cases of Comte's ideas entering public life. In Mexico, Gabino Barreda, who had attended Comte's lectures in Paris, shaped the National Preparatory School, founded in 1867 under the government of Benito Juárez, around a curriculum that followed the positivist ordering of the sciences from mathematics upward. Later, under Porfirio Díaz, a circle of officials and intellectuals known as the *científicos* invoked scientific administration and order to justify their programme, drawing on Spencer as well as Comte. In Brazil, Benjamin Constant Botelho de Magalhães spread positivist ideas among students at the military academy, and these officers played a part in the proclamation of the Republic in 1889. Miguel Lemos and Raimundo Teixeira Mendes led the Positivist Church and helped design the new flag with its motto. Both cases show that Comte's doctrine was adapted selectively: reformers valued secular education and order, while many ignored or rejected the religious system, and its political uses ranged from republican reform to defence of rule by experts.
+
+## Contemporary Empirical Examples
+
+Few researchers today call themselves Comtean, and no current study tests the whole system. Some present practices nevertheless share positivist commitments, and show where they differ from Comte. Computational social science, outlined in a 2009 statement by David Lazer and colleagues, searches large records of communication and movement for regularities in collective behaviour, recalling the ambition of a social physics. Randomised evaluations of anti-poverty programmes, popularised by Abhijit Banerjee and Esther Duflo in *Poor Economics* (2011), tie policy to observed effects, echoing the hope that knowledge would guide social improvement. Yet these approaches generally test limited, local claims by statistical and experimental methods that Comte did not use; he was in fact sceptical of applying probability calculations to social questions. They do not rely on a law of three stages or on one grand theory of society. Disputes over them, concerning whether large datasets can speak without theory, whether local results transfer elsewhere, and who decides which problems experts should solve, revive older questions about positivism without showing that its programme has been confirmed.
+
 ## Influence and Criticism
 
 Comte's influence was enormous and indirect. He gave sociology its name, its ambition to be a science, and its central question of order and progress. Émile Durkheim, the founder of academic sociology in France, inherited Comte's insistence that society is a reality sui generis and that it must be studied scientifically, even as he rejected Comte's law of three stages and his religion. In Britain, Harriet Martineau's abridged translation, *The Positive Philosophy of Auguste Comte* (1853), carried his ideas to a wide audience, and Mill's *Auguste Comte and Positivism* (1865) both spread and criticised them. The criticisms are familiar: the law of three stages is a speculative philosophy of history rather than an empirical law, and it arranges the whole of human history into a single European sequence culminating in nineteenth-century France. Positivism's claim that the methods of natural science transfer directly to society has been contested by interpretive sociologists from Weber onwards, who insist that social action must be understood through the meanings actors attach to it. Nevertheless, the positivist programme — systematic observation, comparison, the search for regularities — became the working method of much of twentieth-century sociology, and the debate Comte opened, between explaining society as a natural order and understanding it as a human creation, still structures the discipline.
@@ -53,3 +59,6 @@ Comte's influence was enormous and indirect. He gave sociology its name, its amb
 - Mill, John Stuart. *Auguste Comte and Positivism*. 1865.
 - Durkheim, Émile. *The Rules of Sociological Method*. 1895.
 - Pickering, Mary. *Auguste Comte: An Intellectual Biography*. 1993.
+- Zea, Leopoldo. *Positivism in Mexico*. English translation, University of Texas Press, 1974.
+- Lazer, David, et al. "Computational Social Science." *Science*. 2009.
+- Banerjee, Abhijit V., and Esther Duflo. *Poor Economics*. 2011.

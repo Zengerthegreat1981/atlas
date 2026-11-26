@@ -19,8 +19,7 @@ related:
 - id: "con-responsibility", title: "Responsibility", type: "مفهوم"
 - id: "con-meaning", title: "Meaning and Meaninglessness", type: "مفهوم"
 - id: "con-alienation", title: "Alienation", type: "مفهوم"
-gaps:
-  - "Dedicated conceptual entries on inferiority complex, social interest (Gemeinschaftsgefühl) and style of life: not yet covered"
+gaps: []
 ---
 
 # Alfred Adler
@@ -46,9 +45,18 @@ Among his most important writings are *Study of Organ Inferiority* (Studie über
 Adler influenced later humanistic and existential psychology, especially through Viktor Frankl (who was associated with his circle early on) and Rollo May, and to some degree Karen Horney, who adopted his critique of Freudian biological determinism and his emphasis on meaning, choice, and social context. He is faulted because his focus on consciousness and social teleology led him away from exploring the depths of the dynamic unconscious as Freud did, and because some of his concepts (such as the inferiority complex) became, in popular usage, simplifications far from their original clinical precision. Adler died in May 1937 during a lecture tour in Aberdeen, Scotland. His school continues today through a network of institutes and societies of Individual Psychology across Europe and North America, and through wide applications in family and educational counseling, especially through the "Parent Study Groups" developed by Rudolf Dreikurs on the basis of Adler's principles on birth order and mutual respect. Adler's thought is taught today in specialized graduate programs, such as Adler University in Chicago and Vancouver, which bears his name and continues to train counselors and psychotherapists according to his teleological-social model.
 Adler's works have been translated into many languages, and his legacy gave rise to an enduring network of educators and counselors who apply the analysis of the hidden goals of misbehavior and classroom encouragement strategies, tools still taught today in teacher and school-counselor training programs as practical alternatives to long-term analytic techniques. His name remains, alongside Freud and Jung, one of the three great founding names in the history of early depth psychology.
 
+## Three Core Concepts
+
+**Inferiority feelings and the inferiority complex.** For Adler, feelings of inferiority are universal and normal, since every child begins small and dependent, and they spur effort and growth. His early interest in weak organs and compensation widened into this psychological thesis. An inferiority complex arises when the feeling becomes overwhelming and the person, discouraged, uses it as a reason to avoid life's tasks. A display of superiority may serve as a cover for the same discouragement.
+
+**Style of life.** This is the characteristic and largely unnoticed pattern of goals, beliefs about self and world, and ways of acting through which a person pursues significance. Adler held that its outline forms in the first years of childhood. It is read as a unity, from conduct, family position, dreams and especially early recollections, which are valued less as accurate records than as expressions of the person's present outlook. The guiding goal may be fictional, an idea Adler developed with the help of Hans Vaihinger's philosophy of "as if."
+
+**Social interest.** *Gemeinschaftsgefühl* denotes a sense of belonging and concern for the common good. Adler regarded it as an innate potential that must be cultivated. It is tested in the tasks of work, community and love.
+
 ## Sources
 
 - Ansbacher, H. L., & Ansbacher, R. R. (Eds.). (1956). *The Individual Psychology of Alfred Adler*. Basic Books.
 - Hoffman, E. (1994). *The Drive for Self: Alfred Adler and the Founding of Individual Psychology*. Addison-Wesley.
 - Adler, A. (1927). *Menschenkenntnis*. Leipzig: Hirzel. (English: *Understanding Human Nature*, New York: Greenberg, 1927.)
 - Adler, A. (1931). *What Life Could Mean to You*. Little, Brown.
+- Adler, A. (1912). *Über den nervösen Charakter*. Wiesbaden: Bergmann.

@@ -11,8 +11,7 @@ related:
 - id: "sch-comparative-religious-music-studies", title: "Academic Study of Comparative Religious Music", type: "مدرسة"
 - id: "thk-bruno-nettl", title: "Bruno Nettl", type: "مفكر"
 - id: "thk-guy-beck", title: "Guy L. Beck", type: "مفكر"
-gaps:
-  - "Study of the history and development of the concept across different religious traditions: not yet covered."
+gaps: []
 ---
 
 # Sacred Sound and Sonic Theology
@@ -26,6 +25,10 @@ Sacred Sound and Sonic Theology refers to a way of understanding religious music
 ## Guy Beck's Model: Sound as Divinity in Hinduism
 
 In *Sonic Theology: Hinduism and Sacred Sound* (1993), Guy Beck presents a central argument: that the Hindu tradition, drawing on the idea of *nada brahman* (sound as ultimate reality) and on mantra traditions, goes further than regarding sound as merely a means of worshipping the deity. It regards the sacred syllable "Om" as a manifestation of divinity itself, not merely a symbol of it. Correctly pronounced sound, articulated with proper recitation, produces an objective spiritual effect regardless of the listener's understanding of its linguistic meaning. This contrasts with discursive (textual) theology, which makes the rational understanding of meaning a condition for spiritual effect.
+
+## Development Across Traditions
+
+The label "sonic theology" is modern, associated above all with Beck's book, but reflection on sacred sound is much older. In India, Vedic hymns personify speech (*Vac*); the Mimamsa school defended the eternality of the Vedic word; the grammarian Bhartrhari identified ultimate reality with the word-principle; and Tantric traditions elaborated theories of mantra. Buddhist traditions developed the recitation of protective formulas and *dharani*, and in Japan Kukai, founder of the Shingon school, gave sound and syllable a central place in his account of reality. Jewish thought drew on creation through divine speech, and the *Sefer Yetzirah* treats the Hebrew letters as elements of creation. Christian theology centred on the Word (*Logos*), while its view of music varied: Augustine weighed the devotional power of singing against the risk of delight in sound for its own sake, and Luther praised music highly. In Islam, oral recitation of the Qur'an and debates over Sufi listening (*sama'*) shaped distinct accounts of the voice. Comparative scholarship, including William Graham's work on the oral dimension of scripture and a later volume edited by Beck, brought these histories together. They are not stages of one idea.
 
 ## Relation to the Arab-Islamic Heritage
 
@@ -43,3 +46,5 @@ Beyond the individual theological dimension, researchers note that recurring rel
 
 - Beck, Guy L. (1993). *Sonic Theology: Hinduism and Sacred Sound*. Columbia, SC: University of South Carolina Press.
 - Nettl, Bruno (1983). *The Study of Ethnomusicology: Twenty-nine Issues and Concepts*. Urbana: University of Illinois Press.
+- Graham, William A. (1987). *Beyond the Written Word: Oral Aspects of Scripture in the History of Religion*. Cambridge: Cambridge University Press.
+- Beck, Guy L. (ed.) (2006). *Sacred Sound: Experiencing Music in World Religions*. Waterloo: Wilfrid Laurier University Press.

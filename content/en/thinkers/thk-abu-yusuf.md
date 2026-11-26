@@ -19,8 +19,7 @@ related:
 - id: "sch-usul-al-fiqh-legal-theory", title: "Usul al-Fiqh as Legal Theory", type: "مدرسة"
 - id: "con-madhhab-legal-school-institution", title: "The Madhhab as a Legal School and Institution", type: "مفهوم"
 - id: "thk-joseph-schacht", title: "Joseph Schacht", type: "مفكر"
-gaps:
-  - "His early life in Kufa before he met Abu Hanifa: not yet covered"
+gaps: []
 ---
 # Abu Yusuf Ya'qub ibn Ibrahim
 
@@ -29,6 +28,12 @@ An Iraqi jurist from Kufa, a leading student of Abu Hanifa and, according to the
 ## Life and context
 
 Abu Yusuf grew up in Kufa in a family of modest means and remained a close student of Abu Hanifa for a long time, becoming one of his most intimate and most influential pupils in shaping Hanafi fiqh after his teacher's death. He later moved to Baghdad, the seat of the Abbasid caliphate, where he rose through judicial posts until he reached the office of chief judge of the Abbasid state under Harun al-Rashid. In this office he was reportedly responsible for the appointment of judges across the state, which gave him considerable influence in spreading the legal opinions of the school of Abu Hanifa throughout the entire Abbasid judicial network. Abu Yusuf died in Baghdad in 182 AH.
+
+## Early years in Kufa
+
+The biographical tradition places Abu Yusuf's birth in Kufa around 113 AH and traces his Arab lineage to the Ansar of Medina through an ancestor counted among the Companions. His household was poor, and a frequently repeated story relates that a parent wished him to earn a living instead of attending study circles, until Abu Hanifa offered financial support. Such anecdotes come from later biographical literature and may be embellished.
+
+His education was not confined to one teacher. He collected prophetic traditions from Kufan and other authorities, among them al-A'mash and Hisham ibn Urwa, and acquired a reputation as a transmitter of hadith as well as a jurist. He also studied law with Ibn Abi Layla, the judge of Kufa, before attaching himself to Abu Hanifa. He later preserved the differences between these two masters in a work known as *Ikhtilaf Abi Hanifa wa Ibn Abi Layla*, which reflects the competing legal circles of the city in which he was formed.
 
 ## His role in founding the Hanafi school as an institution
 
@@ -56,3 +61,5 @@ Abu Yusuf is considered one of the two principal disciples of Abu Hanifa (togeth
 - Abu Yusuf, Ya'qub ibn Ibrahim. *Kitab al-Kharaj*. Cairo: al-Matba'a al-Salafiyya (several editions).
 - Schacht, Joseph. *The Origins of Muhammadan Jurisprudence*. Oxford: Clarendon Press, 1950.
 - Hallaq, Wael B. *A History of Islamic Legal Theories*. Cambridge University Press, 1997.
+- Abu Yusuf. *Ikhtilaf Abi Hanifa wa Ibn Abi Layla*. Edited by Abu al-Wafa al-Afghani. Cairo, 1938.
+- Schacht, Joseph. 'Abu Yusuf.' *Encyclopaedia of Islam*, 2nd edition. Leiden: Brill, 1960.

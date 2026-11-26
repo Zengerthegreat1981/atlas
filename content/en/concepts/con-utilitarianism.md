@@ -12,8 +12,7 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "Consequentialism and Utilitarianism", target_type: "مدرسة"
 related: []
-gaps:
-  - "Comprehensive expansion of primary sources: not yet covered"
+gaps: []
 ---
 
 # Utilitarianism
@@ -38,9 +37,24 @@ A well-known objection concerns the treatment of individuals: in the often-cited
 
 In the "trolley problem" (introduced by Philippa Foot in 1967 and developed by Judith Jarvis Thomson), a runaway tram can be diverted so as to kill one person instead of five. Utilitarianism favors diverting it, because it maximizes net benefit. Other theories hesitate, owing to the moral distinction between killing and letting die, or doing and allowing.
 
+## Further Primary Texts
+
+Before Bentham, Francis Hutcheson's *Inquiry* of 1725 judged the best action to be the one that secures the greatest happiness for the greatest numbers, and William Paley's *Principles of Moral and Political Philosophy* (1785) offered a theological version in which general happiness indicates God's will. William Godwin's *Enquiry Concerning Political Justice* (1793) pressed impartiality to demanding conclusions about whom one should help.
+
+G. E. Moore's *Principia Ethica* (1903) kept a consequence-based account of right action while rejecting hedonism about the good. R. M. Hare's *Moral Thinking* (1981) separated an intuitive level of everyday rules from a critical level at which they are assessed. Peter Singer's article Famine, Affluence, and Morality (1972) argued that distance does not reduce the duty to prevent serious suffering. Derek Parfit's *Reasons and Persons* (1984) explored problems of total and average welfare across populations. Among critics, Bernard Williams, in *Utilitarianism: For and Against* (1973, with J. J. C. Smart, who defended the theory), argued that it threatens personal integrity, and Rawls's *A Theory of Justice* (1971) objected that it does not take seriously the distinction between persons.
+
 ## Sources
 
 - Bentham, Jeremy. *An Introduction to the Principles of Morals and Legislation*. T. Payne, 1789.
 - Sidgwick, Henry. *The Methods of Ethics*. Macmillan, 1874.
 - Mill, John Stuart. *Utilitarianism*. Parker, Son, and Bourn, 1863.
 - al-Shatibi, Abu Ishaq. *al-Muwafaqat fi Usul al-Shari'a*. Dar Ibn 'Affan, 1997.
+- Hutcheson, Francis. *An Inquiry into the Original of Our Ideas of Beauty and Virtue*. 1725.
+- Paley, William. *The Principles of Moral and Political Philosophy*. 1785.
+- Godwin, William. *Enquiry Concerning Political Justice*. 1793.
+- Moore, G. E. *Principia Ethica*. Cambridge University Press, 1903.
+- Singer, Peter. "Famine, Affluence, and Morality." *Philosophy and Public Affairs*, 1972.
+- Smart, J. J. C., and Bernard Williams. *Utilitarianism: For and Against*. Cambridge University Press, 1973.
+- Rawls, John. *A Theory of Justice*. Harvard University Press, 1971.
+- Hare, R. M. *Moral Thinking*. Oxford University Press, 1981.
+- Parfit, Derek. *Reasons and Persons*. Oxford University Press, 1984.

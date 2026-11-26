@@ -11,8 +11,7 @@ active_start: 1900
 active_end: "مستمر"
 edges: []
 related: []
-gaps:
-  - "Primary sources: not yet covered"
+gaps: []
 ---
 
 # Moral Weakness
@@ -37,9 +36,20 @@ Muslim philosophers addressed related questions through their psychology and eth
 
 Contemporary philosophers, such as Donald Davidson in his well-known essay "How Is Weakness of the Will Possible?", take up this question, and the problem is often linked to phenomena such as addiction. The addict knows with certainty the harm of substance use but repeatedly submits to it, which keeps the discussion of akrasia highly relevant in clinical psychology and the philosophy of voluntary action.
 
+## Further Primary Sources
+
+Ancient literature states the experience vividly: Euripides' Medea says that she understands the evil she is about to do but that her passion is stronger than her plans, and Paul writes in Romans (7:19) that he does not do the good he wants. Plato's *Republic* (Book IV) uses the story of Leontius, torn between desire and indignation, to argue that the soul has distinct parts, which makes inner conflict intelligible. Thomas Aquinas treats sins committed from passion in the *Summa Theologiae* (I-II, question 77). In modern analytic philosophy, R. M. Hare's *Freedom and Reason* (1963) held that sincere assent to a first-person prescription implies acting on it when one can, and so described apparent weakness as a kind of psychological inability. Davidson, by contrast, explained it as acting against one's judgment of what is best all things considered. Alfred Mele's *Irrationality* (1987) defends the possibility of strict akratic action, and Richard Holton (1999) reconceives weakness of will as unreasonably abandoning one's resolutions.
+
 ## Sources
 
 - Plato. *Protagoras*.
 - Aristotle. *Nicomachean Ethics*. Translated by W. D. Ross, revised by Lesley Brown, Oxford University Press, 2009.
 - Ibn Miskawayh, Ahmad ibn Muhammad. *Tahdhib al-Akhlaq*. Edited by Constantine Zurayk, American University of Beirut, 1966.
 - Davidson, Donald. "How Is Weakness of the Will Possible?" (1970), in *Essays on Actions and Events*. Oxford University Press, 1980.
+- Euripides. *Medea*.
+- Plato. *Republic*, Book IV.
+- Paul. Letter to the Romans.
+- Thomas Aquinas. *Summa Theologiae*, I-II, q. 77.
+- Hare, R. M. *Freedom and Reason*. Oxford University Press, 1963.
+- Mele, Alfred R. *Irrationality: An Essay on Akrasia, Self-Deception, and Self-Control*. Oxford University Press, 1987.
+- Holton, Richard. "Intention and Weakness of Will." *The Journal of Philosophy* 96, 1999.

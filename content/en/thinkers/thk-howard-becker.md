@@ -12,8 +12,7 @@ active_start: 1928
 active_end: 2023
 edges: []
 related: []
-gaps:
-- Cross-references to related concepts: not yet covered
+gaps: []
 sociological_tradition: other
 sociological_paradigm: micro-macro
 ---
@@ -51,6 +50,10 @@ Becker was born in Chicago and trained there, receiving his doctorate in sociolo
 
 Becker championed participant observation, interviewing and analytic care in qualitative research, and wrote practical guides on writing and on thinking about method. He was open to quantitative data where appropriate.
 
+## Related Concepts
+
+Becker's work connects with a family of interactionist concepts. Labelling theory is closely related to Edwin Lemert's distinction between primary deviance, the initial rule-breaking, and secondary deviance, which develops as a person responds to social reaction. Becker's idea of a master status, borrowed from Everett Hughes, describes how a deviant label can override a person's other identities, and it can be compared with Erving Goffman's account of stigma. Deviant careers apply the concept of career, developed in the study of occupations, to a sequence of changing positions and self-understandings. Moral entrepreneurs and moral crusades lead to the concept of moral panic, associated with Stanley Cohen, and to the social construction of social problems. Social norms and social control form the broader background, while *Art Worlds* introduces conventions as the shared understandings that let many people cooperate. This invites comparison with Pierre Bourdieu's concept of field, which gives greater weight to competition and power.
+
 ## Influence and Criticism
 
 Labelling theory had a lasting effect on criminology, the sociology of medicine and cultural sociology. Critics argued that the approach neglects the causes of initial rule-breaking and understates the harm of some deviance. Alvin Gouldner's "The Sociologist as Partisan" (1968) criticised the sympathy toward underdogs. Becker's accessible, craft-oriented style remains widely taught. He died in 2023.
@@ -61,3 +64,5 @@ Labelling theory had a lasting effect on criminology, the sociology of medicine 
 - Becker, Howard S. *Art Worlds* (1982).
 - Becker, Howard S. *Tricks of the Trade* (1998).
 - Gouldner, Alvin W. "The Sociologist as Partisan." *American Sociologist* (1968).
+- Lemert, Edwin M. *Social Pathology* (1951).
+- Cohen, Stanley. *Folk Devils and Moral Panics* (1972).

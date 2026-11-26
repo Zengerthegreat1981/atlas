@@ -11,8 +11,7 @@ active_start: 1900
 active_end: "مستمر"
 edges: []
 related: []
-gaps:
-  - "Primary sources: not yet covered"
+gaps: []
 ---
 
 # Moral Responsibility
@@ -33,8 +32,21 @@ In his influential essay "Freedom and Resentment" (1962), Peter Strawson propose
 
 A driver who speeds and strikes a child is questioned, morally and legally, about their act because they were able to control their speed. By contrast, a driver who suffers a sudden heart attack and loses consciousness entirely is not held responsible, since there is no conscious will at that moment.
 
+## Further Primary Sources
+
+Book III of Aristotle's *Nicomachean Ethics* is an early systematic treatment, excusing acts done under compulsion or from certain kinds of ignorance. Augustine's *On Free Choice of the Will* locates the origin of wrongdoing in the will. David Hume's *An Enquiry Concerning Human Understanding* (Section VIII) argues that responsibility requires that actions flow from character, and so is compatible with necessity, while Thomas Reid's *Essays on the Active Powers of Man* (1788) defends the agent's own power over the will. In twentieth-century and later work, Frankfurt's "Freedom of the Will and the Concept of a Person" (1971) explains freedom of will through higher-order desires. Peter van Inwagen's *An Essay on Free Will* (1983) argues that determinism is incompatible with free will. Thomas Nagel's essay "Moral Luck" (1979) asks how blame can depend on factors outside control. R. Jay Wallace (1994) develops a Strawsonian account, and John Martin Fischer and Mark Ravizza (1998) ground responsibility in guidance control through reasons-responsive mechanisms.
+
 ## Sources
 
 - al-Baqillani, Abu Bakr. *al-Tamhid*. al-Maktaba al-Sharqiyya, 1957.
 - Strawson, P. F. "Freedom and Resentment." *Proceedings of the British Academy* 48 (1962): 187-211.
 - Frankfurt, Harry. "Alternate Possibilities and Moral Responsibility." *The Journal of Philosophy* 66, no. 23 (1969): 829-839.
+- Aristotle. *Nicomachean Ethics*, Book III.
+- Augustine. *On Free Choice of the Will*.
+- Hume, David. *An Enquiry Concerning Human Understanding*. 1748.
+- Reid, Thomas. *Essays on the Active Powers of Man*. 1788.
+- Frankfurt, Harry. "Freedom of the Will and the Concept of a Person." *The Journal of Philosophy* 68, 1971.
+- Nagel, Thomas. "Moral Luck." In *Mortal Questions*. Cambridge University Press, 1979.
+- van Inwagen, Peter. *An Essay on Free Will*. Oxford University Press, 1983.
+- Wallace, R. Jay. *Responsibility and the Moral Sentiments*. Harvard University Press, 1994.
+- Fischer, John Martin, and Mark Ravizza. *Responsibility and Control*. Cambridge University Press, 1998.

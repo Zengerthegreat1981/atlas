@@ -13,9 +13,7 @@ active_end: 2012
 edges: []
 related: []
 gaps:
-- Detailed case studies: not yet covered
 - Contemporary empirical examples: not yet covered
-- Cross-references to related concepts: not yet covered
 sociological_tradition: other
 sociological_paradigm: micro-macro
 ---
@@ -45,6 +43,14 @@ Born in Egypt into a Coptic family, Abdel-Malek was active in Egyptian politics 
 
 Abdel-Malek combined historical analysis, political sociology and comparative study of civilizations. He insisted that sociologists should be aware of their own position and that Western categories should not be assumed to be universal.
 
+## Case Studies
+
+Egypt supplies Abdel-Malek's most developed case. *Égypte, société militaire* examined the regime that followed the Free Officers' seizure of power in 1952. He traced how officers moved into leading positions in government, administration, and economic bodies, how independent parties and organisations were suppressed or absorbed, and how land reform and later state control of major enterprises reshaped class relations. His analysis connected the army's role with the national question, ending British occupation and building an independent economy, while criticising the restriction of political life, particularly the treatment of the left. His essay on the crisis of Orientalism provides a second case, this time of a body of knowledge. It linked European scholarship to the institutions and interests of colonial rule and argued that national liberation movements had made the peoples once treated as objects of study into subjects who could challenge those methods and gain control over sources and research. Both cases tie ideas and institutions to a specific historical conjuncture. They also reflect the author's direct political involvement, which readers should weigh when assessing his judgements.
+
+## Related Concepts
+
+Abdel-Malek's work connects with Orientalism, Eurocentrism, hegemony, imperialism, nationalism, civil-military relations, and the sociology of knowledge. It is usefully compared with Edward Said's literary and discursive analysis of Orientalism, with Syed Hussein Alatas's critique of colonial images in *The Myth of the Lazy Native* (1977), and with later arguments for decolonising social science. His emphasis on civilisational paths also raises the concepts of cultural specificity and essentialism. The first holds that societies have distinct historical paths which general models must take into account; the second turns such differences into fixed natures. Dependency theory and world-systems analysis offer further comparisons because they too relate national development to unequal international power, though they place economic relations nearer the centre than civilisation. Reflexivity, concerning the researcher's own location, links these themes to method.
+
 ## Influence and Criticism
 
 His critique of Orientalism helped open the way for postcolonial studies, although his name is less widely known than Said's. Critics have said that his notion of civilizational specificity risks essentialism of its own, and that his political commitments sometimes shape his analysis. His work remains most cited in debates on Orientalism, decolonizing knowledge and the sociology of the Arab world.
@@ -55,3 +61,4 @@ His critique of Orientalism helped open the way for postcolonial studies, althou
 - Abdel-Malek, Anouar. *Égypte, société militaire* (1962).
 - Abdel-Malek, Anouar. *Social Dialectics* (1981).
 - Said, Edward W. *Orientalism* (1978).
+- Alatas, Syed Hussein. *The Myth of the Lazy Native* (1977).

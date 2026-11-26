@@ -22,8 +22,7 @@ edges:
 related:
 - id: "sch-mood-disorders", title: "Mood Disorders", type: "مدرسة"
 - id: "thk-frederick-goodwin", title: "Frederick Goodwin", type: "مفكر"
-gaps:
-  - "Separate entry for the co-author Kay Redfield Jamison: not yet covered"
+gaps: []
 ---
 
 # Manic-Depressive Illness: Bipolar Disorders and Recurrent Depression
@@ -58,6 +57,10 @@ The second edition revised the biological and genetic literature accumulated ove
 
 The book was widely used in research and in specialist training as a large narrative review of manic-depressive illness. It is often cited for its historical chapters, its synthesis of course and suicide literature, and its attention to patients' accounts. It is a secondary synthesis, not a primary trial or a diagnostic manual.
 
+## The Co-author: Kay Redfield Jamison
+
+Kay Redfield Jamison (born 1946) is an American clinical psychologist who took her doctorate at the University of California, Los Angeles, where she helped to establish and then directed a clinic for affective disorders. She later moved to the Johns Hopkins University School of Medicine as a professor of psychiatry. Her work joins research on bipolar illness, its treatment, suicide and creative temperament with writing for general readers. *Touched with Fire* (1993) examines mood disorder among writers and artists. *An Unquiet Mind* (1995) disclosed her own manic-depressive illness, including her struggle to accept lithium treatment and a suicide attempt, an unusually open account from a clinician in the field. *Night Falls Fast* (1999) is a study of suicide, and *Robert Lowell, Setting the River on Fire* (2017) reads the poet's life and work in relation to his illness. She received a MacArthur Fellowship in 2001. Her double position as researcher and patient helps to explain the weight that the joint book gives to first-person descriptions beside clinical and biological evidence.
+
 ## Limits and Critique
 
 This entry is educational and not clinical advice; treatment statements describe the book's content and are not recommendations. A book of this size cannot by itself keep pace with the speed of research. The second edition appeared before the results of large-scale genome studies identifying genetic loci associated with the disorder had become clear, and before the diagnostic revisions in DSM-5. The authors' perspective leans toward the biomedical model, with a strong belief in the role of preventive medication, a perspective opposed by currents that hold psychological and social treatments deserve greater weight, and that social pressures and the pace of life affect relapse. In 2008 Senator Charles Grassley's inquiry into financial conflicts documented that Goodwin had received large payments from pharmaceutical companies, much of them for promotional lectures, which had not been disclosed on his radio program *The Infinite Mind*. That record is separate from the 1990 and 2007 books, but it is relevant to how readers weigh an author's treatment chapters. The studies the book cites remain published and open to checking on their own. The book is also written from North American and European clinical literature and says little about how disordered mood is named outside that setting.
@@ -71,3 +74,5 @@ This entry is educational and not clinical advice; treatment statements describe
 - Dols, Michael W. *Majnun: The Madman in Medieval Islamic Society*. Oxford: Clarendon Press, 1992.
 - Angst, Jules. *Zur Ätiologie und Nosologie endogener depressiver Psychosen*. Berlin: Springer, 1966.
 - Perris, Carlo. "A Study of Bipolar (Manic-Depressive) and Unipolar Recurrent Depressive Psychoses." *Acta Psychiatrica Scandinavica*, Suppl. 194 (1966).
+- Jamison, Kay Redfield. *Night Falls Fast: Understanding Suicide*. New York: Alfred A. Knopf, 1999.
+- Jamison, Kay Redfield. *Robert Lowell, Setting the River on Fire: A Study of Genius, Mania, and Character*. New York: Alfred A. Knopf, 2017.

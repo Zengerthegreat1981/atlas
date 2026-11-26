@@ -15,10 +15,7 @@ edges:
 related:
   - id: "thk-paul-rabinow", title: "Paul Rabinow", type: "مفكر"
   - id: "thk-talal-asad", title: "Talal Asad", type: "مفكر"
-gaps:
-  - "Non-Western scientific knowledge systems: not yet covered"
-  - "Indigenous science studies: not yet covered"
-  - "Contemporary digital and AI assemblages: not yet covered"
+gaps: []
 ---
 
 # Donna Haraway: Situated Knowledge, Cyborgs, and Response-Ability
@@ -89,6 +86,14 @@ Haraway's work on situated knowledge supports decolonial epistemologies by valid
 
 Her later work on multispecies entanglement and "making kin in the Chthulucene" gestures toward Indigenous and other relational understandings of human and non-human worlds, while critics note that such borrowings need careful attribution and political specificity.
 
+## Non-Western and Indigenous Science Studies
+
+Situated knowledge invites the question of whose situations count. Sandra Harding's *Is Science Multicultural?* (1998) joined feminist and postcolonial science studies to argue that all knowledge systems, including modern Western science, bear the marks of the cultures that produce them. Helen Verran's *Science and an African Logic* (2001) examined Yoruba and English number practices in Nigeria. Indigenous scholars speak from their own intellectual traditions and need not be treated as extensions of Haraway. Gregory Cajete's *Native Science* (2000) presents knowledge grounded in participation and relationship with the natural world, and Robin Wall Kimmerer's *Braiding Sweetgrass* (2013) brings Potawatomi teachings into dialogue with botany. Kim TallBear's *Native American DNA* (2013) examines how genetic science bears on tribal belonging and sovereignty. Such work moves from including perspectives to asking who controls research.
+
+## Digital and AI Assemblages
+
+The cyborg figure is often applied to digital life, but newer studies add detail about labour, data, and power. Lucy Suchman's *Human-Machine Reconfigurations* (2007) analysed how capacities are distributed between people and machines. Ruha Benjamin's *Race After Technology* (2019) showed how apparently neutral automated systems can reproduce racial inequality, and Kate Crawford's *Atlas of AI* (2021) traced AI to minerals, energy, human work, and data extraction. These accounts support Haraway's demand for accountable, located knowledge: an AI output has no view from nowhere. An essay by Jason Edward Lewis, Noelani Arista, Archer Pechawis, and Suzanne Kite, "Making Kin with the Machines" (2018), explores the question through Indigenous understandings of kinship.
+
 ## Contemporary Relevance and Legacy
 
 Haraway's situated knowledge framework has become foundational to contemporary epistemology across fields. Feminist epistemology, science studies, anthropology, and critical geography all engage with her concepts. Her insistence on understanding knowledge-production as embodied, partial, and consequential has influenced how researchers across disciplines approach their work.
@@ -120,3 +125,12 @@ Contemporary applications extend her framework to digital knowledge systems, art
 - Haraway, Donna J. *Modest_Witness@Second_Millennium: FemaleMan©_Meets_OncoMouse™*. Routledge, 1997.
 - Haraway, Donna J. *When Species Meet*. University of Minnesota Press, 2008.
 - Haraway, Donna J. *Staying with the Trouble: Making Kin in the Chthulucene*. Duke University Press, 2016.
+- Benjamin, Ruha. *Race After Technology: Abolitionist Tools for the New Jim Code*. Polity, 2019.
+- Cajete, Gregory. *Native Science: Natural Laws of Interdependence*. Clear Light Publishers, 2000.
+- Crawford, Kate. *Atlas of AI*. Yale University Press, 2021.
+- Harding, Sandra. *Is Science Multicultural? Postcolonialisms, Feminisms, and Epistemologies*. Indiana University Press, 1998.
+- Kimmerer, Robin Wall. *Braiding Sweetgrass: Indigenous Wisdom, Scientific Knowledge, and the Teachings of Plants*. Milkweed Editions, 2013.
+- Lewis, Jason Edward, Noelani Arista, Archer Pechawis, and Suzanne Kite. "Making Kin with the Machines." *Journal of Design and Science*. 2018.
+- Suchman, Lucy. *Human-Machine Reconfigurations: Plans and Situated Actions*. 2nd ed. Cambridge University Press, 2007.
+- TallBear, Kim. *Native American DNA: Tribal Belonging and the False Promise of Genetic Science*. University of Minnesota Press, 2013.
+- Verran, Helen. *Science and an African Logic*. University of Chicago Press, 2001.

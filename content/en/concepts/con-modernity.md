@@ -12,8 +12,7 @@ edges:
   - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
 related:
   []
-gaps:
-  - "Digital modernity: not yet covered"
+gaps: []
 ---
 
 # Modernity: The Condition of Being Modern
@@ -44,6 +43,12 @@ Fieldwork has also shown the costs of modernity. In many societies, the arrival 
 
 Current scholarship debates whether we have entered a postmodern or late-modern age. Some argue that the grand narratives of modernity — progress, reason, nation — have collapsed, and that we live in a fragmented world of competing truths. Others reject the idea that modernity has ended: Giddens and Ulrich Beck describe an intensified, reflexive modernity that turns its critical capacities on itself, questioning science, the state, and progress, while Habermas defends modernity as a project still to be completed. A further debate concerns the environment: can a modernity built on endless growth survive the ecological limits of the planet? Anthropology's contribution is to ground these debates in lived experience, showing how modernity is felt — as hope, as anxiety, as loss, and as possibility — by the people who live it.
 
+## Digital Modernity
+
+Digital technologies have prompted new accounts of the modern condition. Manuel Castells, in *The Rise of the Network Society* (1996), argued that information technologies enable an economy and social structure organized around networks that operate across great distances, while access to those networks remains deeply unequal. His argument extends Giddens's interest in social relations stretched across time and space. Later writers have focused on data and platforms. Shoshana Zuboff, in *The Age of Surveillance Capitalism* (2019), described a business model that treats human experience as raw material for predicting and shaping behaviour, which returns to the older themes of surveillance, calculation, and bureaucratic classification.
+
+Anthropologists caution against assuming that digital life is uniform. Heather Horst and Daniel Miller's edited volume *Digital Anthropology* (2012) argued that online worlds are no less mediated or culturally shaped than offline ones, and that digital technologies are taken up through particular local relationships and values. Daniel Miller and Don Slater's earlier study, *The Internet: An Ethnographic Approach* (2000), showed Trinidadians using the internet in distinctly Trinidadian ways. As with modernity generally, the digital form of it is something people make their own, under conditions they only partly control.
+
 ## Sources
 
 - Appadurai, Arjun. *Modernity at Large: Cultural Dimensions of Globalization*. University of Minnesota Press, 1996.
@@ -52,3 +57,7 @@ Current scholarship debates whether we have entered a postmodern or late-modern 
 - Giddens, Anthony. *The Consequences of Modernity*. Polity Press, 1990.
 - Habermas, Jürgen. *The Philosophical Discourse of Modernity: Twelve Lectures*. Translated by Frederick G. Lawrence. MIT Press, 1987.
 - Weber, Max. *The Protestant Ethic and the Spirit of Capitalism*. First published 1905. Translated by Talcott Parsons. Charles Scribner's Sons, 1930.
+- Castells, Manuel. *The Rise of the Network Society*. Blackwell, 1996.
+- Horst, Heather A., and Daniel Miller, eds. *Digital Anthropology*. Berg, 2012.
+- Miller, Daniel, and Don Slater. *The Internet: An Ethnographic Approach*. Berg, 2000.
+- Zuboff, Shoshana. *The Age of Surveillance Capitalism*. PublicAffairs, 2019.

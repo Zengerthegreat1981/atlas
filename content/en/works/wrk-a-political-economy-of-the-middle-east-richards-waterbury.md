@@ -17,8 +17,7 @@ edges:
 - rel: "belongs_to", target: "Economic History of the Middle East", target_type: "مدرسة"
 related:
 - id: "sch-rentier-state-theory", title: "Rentier State Theory", type: "مدرسة"
-gaps:
-  - "Biographical entries for Alan Richards and John Waterbury: not yet covered"
+gaps: []
 ---
 # A Political Economy of the Middle East
 
@@ -60,8 +59,16 @@ The book is often read alongside economic-history surveys such as Roger Owen and
 
 The book pays particular attention to explaining the wide diversity of Arab political systems (military republics, hereditary monarchies, and oil-rentier systems) from an economic-political perspective. It relates the stability and legitimacy of each type of regime to its principal sources of income and its pattern of class alliances, which helps explain why different regimes responded differently to economic reform and popular protest.
 
+## The Authors
+
+Alan Richards is an American economist who taught for many years at the University of California, Santa Cruz, where he was associated with environmental studies as well as economics. His research has centred on agriculture, rural labour, natural resources and development in the Middle East and North Africa. His earlier work includes *Egypt's Agricultural Development, 1800–1980* (1982), a study of technical and social change in the Egyptian countryside.
+
+John Waterbury is an American political scientist who specialized in the politics of Morocco, Egypt and the wider region, and later in comparative political economy, including water in the Nile basin and public enterprise. He taught at Princeton University and served as president of the American University of Beirut from 1998 to 2008. His books include *The Commander of the Faithful* (1970), on the Moroccan political elite, *Hydropolitics of the Nile Valley* (1979), *The Egypt of Nasser and Sadat* (1983) and *Exposed to Innumerable Delusions* (1993), a comparison of state-owned enterprises in Egypt, India, Mexico and Turkey. The pairing of an agricultural economist with a political scientist of the state explains much of the book's design.
+
 ## Sources
 
 - Richards, Alan, and John Waterbury. *A Political Economy of the Middle East: State, Class, and Economic Development*. Westview Press, 1990.
 - Beblawi, Hazem, and Giacomo Luciani (eds.). *The Rentier State*. Croom Helm, 1987.
 - Owen, Roger, and Şevket Pamuk. *A History of Middle East Economies in the Twentieth Century*. I. B. Tauris, 1998.
+- Richards, Alan. *Egypt's Agricultural Development, 1800–1980: Technical and Social Change*. Westview Press, 1982.
+- Waterbury, John. *The Egypt of Nasser and Sadat: The Political Economy of Two Regimes*. Princeton University Press, 1983.

@@ -12,8 +12,7 @@ active_start: 1900
 active_end: مستمر
 edges: []
 related: []
-gaps:
-- Cross-school comparisons: not yet covered
+gaps: []
 sociological_tradition: other
 sociological_paradigm: micro-macro
 ---
@@ -43,6 +42,10 @@ A third dimension is the substantive meaning of dispersion. In sociology, disper
 
 The standard deviation remains a basic tool of quantitative sociology, but its uses have expanded with new data and new methods. In the study of inequality, measures derived from dispersion — including the standard deviation, the Gini coefficient, and percentile ratios — are the empirical basis of debates about whether societies are becoming more unequal. In the study of segregation and polarisation, dispersion measures track whether groups are converging or drifting apart. In meta-analysis, the standardised mean difference, expressed in standard deviation units, allows results from different studies to be combined. And in the age of big data, the standard deviation is the first diagnostic a researcher computes when exploring a new dataset: a quick check on whether the data are as expected, or whether something surprising — an error, an outlier, a hidden subgroup — is hiding in the spread.
 
+## Dispersion across Schools
+
+Approaches to sociology give variation different weight. Quetelet's tradition regarded the average as the object of interest and spread largely as departure from a type, whereas Galton's biometric work made variation itself something to explain. The sociologist Yu Xie, drawing on Otis Dudley Duncan, contrasted such typological thinking with population thinking, in which differences among individuals are real and basic, so that an average effect never describes everyone. Research on stratification has accordingly modelled variance as well as means; Bruce Western and Deirdre Bloome (2009) set out regressions in which inequality within groups depends on explanatory variables. Interpretive researchers pay attention to unusual cases for what they reveal about meanings and rules, without summarising them as a distance from a mean. Critical scholars ask who is treated as normal and who as deviant when scores are expressed in standard deviation units. These positions can use the same calculation while disagreeing about what the spread signifies.
+
 ## Sources
 
 - Karl Pearson, "Contributions to the Mathematical Theory of Evolution", 1894.
@@ -50,3 +53,5 @@ The standard deviation remains a basic tool of quantitative sociology, but its u
 - Ronald A. Fisher, *Statistical Methods for Research Workers*, 1925.
 - Hubert M. Blalock, *Social Statistics*, 1960.
 - Alan Agresti and Barbara Finlay, *Statistical Methods for the Social Sciences*, 2nd ed., 1986.
+- Yu Xie, "Otis Dudley Duncan's Legacy: The Demographic Approach to Quantitative Reasoning in Social Science," *Research in Social Stratification and Mobility*, 2007.
+- Bruce Western and Deirdre Bloome, "Variance Function Regressions for Studying Inequality," *Sociological Methodology*, 2009.

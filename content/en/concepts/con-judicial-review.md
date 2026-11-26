@@ -12,8 +12,7 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "Constitutional Law Theory", target_type: "مدرسة"
 related: []
-gaps:
-  - "Judicial review outside the United States and Europe: not yet covered"
+gaps: []
 ---
 
 # Judicial Review
@@ -37,9 +36,18 @@ Judicial review developed worldwide in two main models. The **decentralized mode
 - The debate over the **democratic legitimacy of judicial review** (the counter-majoritarian difficulty) continues: how can unelected judges be justified in striking down the decisions of elected representatives? This problem was articulated by Alexander Bickel in *The Least Dangerous Branch* (1962).
 - The degree of actual judicial review varies widely among legal systems, from strict and comprehensive review to formal review of limited practical effect.
 
+## Beyond the United States and Europe
+
+Judicial review takes varied forms elsewhere. India's Constitution provides for review expressly, and in *Kesavananda Bharati* (1973) the Supreme Court held that Parliament's amending power cannot destroy the constitution's basic structure. Japan's 1947 Constitution gives the Supreme Court power to determine constitutionality, but the Court has invalidated legislation sparingly. Canada expanded review with the Charter of Rights and Freedoms in 1982, while allowing legislatures to override certain rights for renewable periods.
+
+Several newer democracies chose specialized or strengthened courts. South Korea's Constitutional Court was established in 1988. South Africa's Constitutional Court, created for the post-apartheid order, struck down the death penalty in 1995. Colombia's Constitutional Court, created under the 1991 Constitution, is known for broad access through public actions and the *tutela* complaint. In the Arab world, Egypt's Supreme Constitutional Court, provided for in the 1971 Constitution and organized by a law of 1979, has exercised centralized review. In Latin America more broadly, mixed arrangements combine diffuse and concentrated review. Formal powers do not by themselves show independence, which also depends on appointments, jurisdiction and political conditions.
+
 ## Sources
 
 - *Marbury v. Madison*, 5 U.S. (1 Cranch) 137 (1803).
 - Bickel, Alexander M. *The Least Dangerous Branch: The Supreme Court at the Bar of Politics*. Indianapolis: Bobbs-Merrill, 1962.
 - Kelsen, Hans. "Judicial Review of Legislation: A Comparative Study of the Austrian and the American Constitution." *Journal of Politics* 4, no. 2 (1942): 183–200.
 - Ginsburg, Tom. *Judicial Review in New Democracies: Constitutional Courts in Asian Cases*. Cambridge: Cambridge University Press, 2003.
+- *Kesavananda Bharati v. State of Kerala*, Supreme Court of India, 1973.
+- *S v Makwanyane*, Constitutional Court of South Africa, 1995.
+- Moustafa, Tamir. *The Struggle for Constitutional Power: Law, Politics, and Economic Development in Egypt*. Cambridge University Press, 2007.

@@ -19,8 +19,7 @@ related:
 - id: "con-moka-hagen-exchange", title: "Moka Exchange", type: "مفهوم"
 - id: "thk-marcel-mauss", title: "Marcel Mauss", type: "مفكر"
 - id: "thk-marshall-sahlins", title: "Marshall Sahlins", type: "مفكر"
-gaps:
-  - "Maurice Godelier's reassessment of gift exchange and its bearing on the kula: not yet covered"
+gaps: []
 ---
 
 # Kula Exchange
@@ -62,6 +61,12 @@ The kula became one of the central cases, alongside the potlatch, in **Marcel Ma
 
 Later fieldwork in the Massim region extended and revised Malinowski's account. Annette Weiner, working in the Trobriands from the early 1970s, showed in *Women of Value, Men of Renown* (1976) that women's exchanges of banana-leaf bundles and skirts were central to Trobriand social life, and she later argued that exchange is shaped by what people try to keep back from circulation. The volume *The Kula: New Perspectives on Massim Exchange* (1983), edited by Jerry Leach and Edmund Leach, and Nancy Munn's study of Gawa, *The Fame of Gawa* (1986), showed how the ring operates differently from island to island and how it is tied to individual reputation.
 
+## Godelier's Reassessment
+
+Maurice Godelier returned to the problem of the gift in *The Enigma of the Gift* (French edition 1996; English translation 1999). Mauss had asked what obliges a recipient to make a return and had looked for part of the answer in indigenous ideas such as the Maori *hau*. Godelier argued that the analysis must also ask what is withheld from exchange. Developing Annette Weiner's account of keeping while giving, he proposed that societies rest both on things that circulate and on things, above all sacred objects, that must be neither given nor sold, because they anchor the identity and continuity of groups.
+
+On the kula, Godelier drew on later Massim fieldwork, including Frederick Damon's work on Muyuw (Woodlark Island) concerning *kitoum*, valuables over which a particular person or group holds ownership. A *kitoum* can be sent along a path of partners while its owner's claim persists until an equivalent returns to replace it. Holders along the way therefore possess and pass on an object without owning it outright. This helps explain why a return is owed without relying only on a spirit in the gift: giving transfers possession while certain rights remain behind.
+
 ## Sources
 
 - Malinowski, Bronislaw. *Argonauts of the Western Pacific*. Routledge, 1922.
@@ -70,3 +75,4 @@ Later fieldwork in the Massim region extended and revised Malinowski's account. 
 - Leach, Jerry W., and Edmund Leach, eds. *The Kula: New Perspectives on Massim Exchange*. Cambridge University Press, 1983.
 - Munn, Nancy D. *The Fame of Gawa*. Cambridge University Press, 1986.
 - Weiner, Annette B. *Women of Value, Men of Renown*. University of Texas Press, 1976.
+- Godelier, Maurice. *The Enigma of the Gift*. Translated by Nora Scott. University of Chicago Press, 1999.

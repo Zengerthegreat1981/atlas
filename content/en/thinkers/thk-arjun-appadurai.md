@@ -15,8 +15,7 @@ edges:
 related:
   - id: "thk-george-marcus", title: "George Marcus", type: "مفكر"
   - id: "thk-talal-asad", title: "Talal Asad", type: "مفكر"
-gaps:
-  - "Contemporary digital ethnography applications: not yet covered"
+gaps: []
 ---
 
 # Arjun Appadurai: Ethnography of Globalization and the Circulation of Culture
@@ -50,6 +49,12 @@ Drawing partly on Benedict Anderson's account of imagined communities, Appadurai
 - **Fear of Small Numbers: An Essay on the Geography of Anger** (2006): an argument about how the uncertainties of globalization can fuel hostility and violence toward minorities.
 - **The Future as Cultural Fact** (2013) and **Banking on Words** (2015): later work on aspiration, the future and derivative finance.
 
+## Digital Ethnography
+
+The scapes framework appeared before social media, but its attention to circulation and imagination can be applied to digital fieldwork. Online platforms bring mediascapes and technoscapes together with the movement of migrants and money, and the idea of producing locality prompts the question of how users create a sense of neighbourhood among people who are far apart. It also directs attention to disjunctures: images and messages may travel where people cannot, while access depends on cost, language, state control, and the rules of platforms.
+
+Related research illustrates these possibilities without being a simple application of one theory. Victoria Bernal's *Nation as Network* (2014) examined how diaspora websites became arenas of Eritrean political debate. Methodologically, Christine Hine's *Virtual Ethnography* (2000) and the volume *Digital Ethnography* (2016) by Sarah Pink and colleagues discuss how to study connections across online and offline settings. A digital ethnography informed by Appadurai would follow particular images, people, and objects across these settings and ask who controls the infrastructure, which returns to the questions of power raised by his critics.
+
 ## Postcolonial Positioning and Non-Western Modernity
 
 The phrase "modernity at large" presents modernity not as a simple Western export but as a plural and uneven field that different societies engage in their own ways. Appadurai's writing on India, including the decolonization of cricket and the urban life of Bombay, treats formerly colonized societies as active producers of global culture.
@@ -73,3 +78,6 @@ The vocabulary of scapes is widely used in the study of globalization, migration
 - Appadurai, Arjun. *The Future as Cultural Fact: Essays on the Global Condition*. Verso, 2013.
 - Appadurai, Arjun. *Banking on Words: The Failure of Language in the Age of Derivative Finance*. University of Chicago Press, 2015.
 - Anderson, Benedict. *Imagined Communities*. Verso, 1983.
+- Bernal, Victoria. *Nation as Network: Diaspora, Cyberspace, and Citizenship*. University of Chicago Press, 2014.
+- Hine, Christine. *Virtual Ethnography*. Sage, 2000.
+- Pink, Sarah, Heather Horst, John Postill, Larissa Hjorth, Tania Lewis, and Jo Tacchi. *Digital Ethnography: Principles and Practice*. Sage, 2016.

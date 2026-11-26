@@ -226,3 +226,32 @@ Scope: `reports/scope/psychology-scope.md`, `reports/scope/philosophy-scope.md` 
 - Release gate: 157 → 94 blockers (all 63 `pending` blockers cleared, `short` 54 → 33). Reading path (60 pages from `fld-sociology`), scope doc and registry regenerated.
 - **Needs a decision (nothing deleted):** `content/en/drafts/schools/sch-sociology-school-11`..`-40` had identical filler and fake sources and identify no school; now short placeholder notices — delete or exclude from the build. Duplicate/overlap pairs include: br-criminal-sociology/criminology, br-cyber/digital-sociology, con-anomie/anomie-durkheim, con-agency/agency-anthropology, con-verstehen/-sociology, con-socialization/-process, con-structure/social-structure; `*-english` schools duplicating their base pages (Comte, Durkheim, Marx, Parsons AGIL, Simmel, Chicago ecology); studies (Middletown, Polish Peasant, Street Corner Society x3, Evicted, Bourgois, Gans); thinkers (Al-Wardi, Strauss, Hochschild, Comte, bell hooks, Goffman, Durkheim, Foucault, Marx, Martineau, Becker, Homans, Parsons, Merton, Collins, W. I. Thomas); works (Second Sex, Social System, Suicide, Protestant Ethic, Presentation of Self, Liquid Modernity, Orientalism, Outline of a Theory of Practice).
 - Open: single pass from model memory, no web lookups; **needs specialist review**. Check: study pages whose titles belong to other authors' works or have no confirmed study (On the Edge, Pinned Down, The Crack Era, Suburban Dreams, Schoolyard Stories, The Dignity Deficit); `wrk-the-sociological-condition` matches no known work; `wrk-fighting-back` slug vs *Fighting Words*; edges that look misassigned (stu-everything-in-its-path-erikson, stu-challenger-launch-decision-vaughan); `thk-rputnam` links to a missing `thk-bourdieu`; Halim Barakat living status; Sassen birth year; `stu-among-schoolchildren` active_start; Conrad death year removed.
+
+## Pass 23 — the 44 unclassified pages and a second sociology check (2026-11-26)
+
+- Assigned `part:` to all 44 unclassified pages (43 anthropology, 1 psychology).
+- 10 parallel Grok workers all timed out after about 7 minutes; they finished only a few files (small fixes, thk-douglas, six placeholders). Two Claude agents finished the rest.
+- All 32 anthropology placeholders written as entries (from model memory); tec-phenomenological-method rewritten; 11 long unchecked pages fact-checked (10 substantially rewritten).
+- 62 rewritten/expanded sociology pages re-checked: 60 unchanged, 1 date change (stu-sidewalk-duneier fieldwork start 1992 -> 1994, verify against the book), 1 formatting fix.
+- Release gate: 94 -> 4 blockers (2 duplicate-id groups, 2 slug mismatches on accented filenames). Placeholders 0, short 0, unclassified 0.
+
+Open: most of the newly written anthropology pages duplicate existing pages (33 of the 36 handled by the second agent; see reports/scope/unclassified-factcheck.txt) — merge/delete decision needed. Confirm wrk-politics-anthropology (the earlier "1970, Cohen & Eames" attribution could not be confirmed; rewritten on Balandier). All checks are model-memory based; specialist review still required.
+
+## Pass 24 — second check of newly written anthropology pages (2026-11-26)
+
+- 44 newly written/rewritten pages re-checked (mostly model knowledge, a few web checks): 5 fixed, none unverified.
+- wrk-politics-anthropology: Balandier (1967; English 1970) confirmed; no Cohen & Eames work found. stu-sidewalk-duneier: 1994 retained (UW-Madison news; other coverage gives inconsistent durations).
+- Merge proposal (nothing deleted or merged): reports/DUPLICATES_EN_ANTHROPOLOGY.md — 42 duplicate groups, keep-both rows, and new IDs for ANT-13043/13044.
+- Duplicate review of the other modules (proposal only): reports/DUPLICATES_EN_OTHER.md — 58 true duplicate pairs, 48 keep-both groups, 4 unsure.
+
+## Pass 25 — declared gaps (2026-11-26)
+
+- 348 pages in 10 sequential batches (28 pages that the duplicate reports would remove were skipped). Agent counts: 323 gaps closed, 121 kept. Pages with declared gaps: 376 -> 134. Release gate unchanged at 4 blockers.
+- New sections and source entries were written from model memory, mostly without web checks; they need specialist review. Direct quotations added in early batches were turned into paraphrase, and later batches were told to add none.
+- Per-file log: reports/scope/gap-fill-log.txt.
+
+## Pass 26 — online check of the text added in Pass 25 (2026-11-26)
+
+- 261 pages in 8 batches, one agent. Added source entries were bulk-checked against Crossref/Open Library, with mismatches searched; about 900 entry checks, no fabricated source reported.
+- Per-page log results: 19 fixed, 5 fully confirmed, 237 partly checked. "Partly checked" means many claims (mostly summaries of book arguments, some dates and classical/legal texts) were not looked up and remain in the pages.
+- Per-file log with what was not confirmed: reports/scope/gap-verify-log.txt.

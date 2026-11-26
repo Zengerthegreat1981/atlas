@@ -11,8 +11,7 @@ active_start: 1900
 active_end: "مستمر"
 edges: []
 related: []
-gaps:
-  - "Primary-source excerpts (Ibn Khaldun, Leopold, MacIntyre): not yet covered"
+gaps: []
 ---
 
 # Interdependence
@@ -23,7 +22,7 @@ Interdependence is an ethical concept describing the state of existential interc
 
 ## Roots in Islamic Thought
 
-The idea of interdependence appears in the Islamic heritage in terms of social solidarity and the unity of the body, through a well-known prophetic image: "The believers, in their mutual affection, compassion and kindness, are like one body. When one of its limbs complains, the rest of the body responds with wakefulness and fever." Ibn Khaldun, in the *Muqaddimah*, built his entire social theory on the principle that "human social organization is necessary," because a single individual is incapable of obtaining their sustenance alone and requires the cooperation of their fellow humans. Human civilization as a whole is therefore a network of functional exchange among crafts and trades. Jurists also drew on this meaning in the theory of "collective obligation" (*fard al-kifaya*), which holds that some duties cannot be correctly understood except as collective responsibilities distributed across the community, not as isolated individual obligations.
+The idea of interdependence appears in the Islamic heritage in terms of social solidarity and the unity of the body, through a well-known prophetic image that likens the believers, in their affection and compassion for one another, to a single body: when one limb suffers, the whole body shares in its sleeplessness and fever. Ibn Khaldun, in the *Muqaddimah*, built his entire social theory on the principle that human social organization is a necessity, because a single individual is incapable of obtaining their sustenance alone and requires the cooperation of their fellow humans. Human civilization as a whole is therefore a network of functional exchange among crafts and trades. Jurists also drew on this meaning in the theory of "collective obligation" (*fard al-kifaya*), which holds that some duties cannot be correctly understood except as collective responsibilities distributed across the community, not as isolated individual obligations.
 
 ## In Western Philosophy
 
@@ -32,6 +31,14 @@ Contemporary environmental ethics has extended the concept to cover the relation
 ## Applications and Uses
 
 Interdependence features today in debates on climate justice, where the responsibility of industrialized states toward the poorer states is raised on the basis that the atmosphere is a single shared system. It also appears in the ethics of collective healthcare (such as herd immunity) and in the philosophy of disability, which shows that complete self-sufficiency is an illusion, and that every person passes through stages of complete dependence on others (childhood, illness and old age). A concrete example is the decision of states to share vaccines during pandemics, which is not an act of charity but a duty arising from the fact that the health of individuals is functionally interconnected across borders.
+
+## Primary-Source Excerpts
+
+Three passages show how differently the idea can be grounded. Ibn Khaldun opens his discussion of civilization by stating that human beings cannot do without social organization, and recalls the philosophers' saying that man is "political" by nature. His argument is economic and defensive: one person cannot produce enough food or ward off dangers without the help of others.
+
+Leopold, in "The Land Ethic," argues that every ethic developed up to his time rests on one premise, namely that the individual belongs to a community whose parts depend on one another. His proposal is to widen the community in question to include the land, so that obligation follows membership beyond human society.
+
+MacIntyre begins *Dependent Rational Animals* with vulnerability, observing that human beings are exposed to many sorts of affliction and that most suffer serious ills at some point. From this he argues that moral philosophy should treat dependence as a normal condition of human life, and should give virtues of acknowledged dependence a place beside the virtues of independent reasoning.
 
 ## Sources
 

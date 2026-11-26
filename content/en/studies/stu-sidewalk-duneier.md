@@ -8,8 +8,8 @@ level: "متقدم"
 title: "Sidewalk"
 en: "Sidewalk"
 crumb: "Sociology ← Studies ← Sidewalk"
-active_start: 1992
-active_end: 1996
+active_start: 1994
+active_end: 1999
 edges:
 - rel: "belongs_to", target: "Sociology of Participant Observation and Marginal Communities", target_type: "مدرسة"
 related:
@@ -20,7 +20,7 @@ gaps: []
 
 # Sidewalk
 
-An ethnographic study by the sociologist Mitchell Duneier, based on several years of fieldwork (1992–1996) among Black street vendors of used books and magazines, many of them homeless, on Sixth Avenue in Greenwich Village, New York. Published in 1999, it won the C. Wright Mills Award of the Society for the Study of Social Problems.
+An ethnographic study by the sociologist Mitchell Duneier, based on several years of fieldwork, begun in 1994, among Black street vendors of used books and magazines, many of them homeless, on Sixth Avenue in Greenwich Village, New York. Published in 1999, it won the C. Wright Mills Award of the Society for the Study of Social Problems.
 
 ## Method and Content
 

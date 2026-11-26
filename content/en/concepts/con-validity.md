@@ -14,9 +14,7 @@ edges: []
 related: []
 sociological_tradition: other
 sociological_paradigm: micro-macro
-gaps:
-  - "Validity in big-data and algorithmic measurement: not yet covered"
-  - "Validity of qualitative research: not yet covered"
+gaps: []
 ---
 
 # Validity: Whether a Measure Measures What It Claims to Measure
@@ -41,6 +39,14 @@ Validity is at stake in everyday measurement. A school exam is valid as a measur
 
 The consequences of invalid measurement can be severe. An intelligence test used to sort children into tracks is invalid if its scores reflect language background rather than ability — and the children sorted on that basis pay the price. A risk assessment used in criminal justice is invalid if it predicts arrest rather than reoffending, because arrest itself reflects policing patterns. Validity is therefore not an academic nicety; it is a matter of fairness.
 
+## Validity in Big-Data and Algorithmic Measurement
+
+Digital records and machine-learning systems do not remove the problem of validity; they relocate it. Data produced by searches, purchases, or institutional files were rarely designed to measure the concept a researcher has in mind, and an algorithm trained to predict a proxy will reproduce whatever separates that proxy from the intended construct. Google Flu Trends, which estimated influenza activity from search queries, came to overestimate it substantially; David Lazer and colleagues (2014) pointed to changes in the search system and to a model that had captured incidental correlations. Ziad Obermeyer and colleagues (2019) examined a widely used health-care algorithm that predicted medical costs as a stand-in for medical need. Because less money had been spent on Black patients with the same level of illness, the system underestimated their need. Accurate prediction of the recorded outcome was therefore compatible with invalid measurement. Checking such measures calls for the older questions: what theory links the indicator to the construct, how it compares with independent evidence, whether it works equally well across groups, whether it stays stable as platforms and users change, and what follows from acting on it.
+
+## Validity in Qualitative Research
+
+Qualitative researchers disagree about whether the vocabulary of experimental and test validity suits interviews, ethnography, or textual interpretation. Yvonna Lincoln and Egon Guba, in *Naturalistic Inquiry* (1985), proposed trustworthiness as an alternative, with four criteria: credibility, in place of internal validity; transferability, in place of external validity; dependability, in place of reliability; and confirmability, in place of objectivity. They recommended practices such as prolonged engagement, triangulation of sources and methods, checking interpretations with participants, detailed description, and an audit trail. Joseph Maxwell (1992) kept the term validity but tied it to kinds of understanding: descriptive validity concerns the accuracy of the account of what was said and done; interpretive validity, the meanings these had for participants; theoretical validity, the explanation offered; and generalizability and evaluative validity, the reach and the judgements of the study. Researchers also search deliberately for negative cases and examine how their own position affected the evidence. No checklist settles the matter. Participants may reasonably reject a sound interpretation, and agreement among sources can reflect a shared bias, so these procedures support an argument about validity without guaranteeing it.
+
 ## Critique and Contemporary Relevance
 
 Messick's unified view of validity has been widely adopted, but it raises a difficult question: if validity depends on the consequences of a test's use, then validity is partly a moral and political judgement, not a purely technical one. Some researchers welcome this; others worry that it makes validity unmanageable, since the consequences of a test can never be fully known in advance. Campbell's framework, meanwhile, has been criticized for treating validity as a property of designs rather than of the inferences researchers draw from them.
@@ -53,3 +59,7 @@ Validity remains central to social research. It now frames debates about algorit
 - Cook, Thomas D., and Donald T. Campbell. *Quasi-Experimentation: Design and Analysis Issues for Field Settings*. Rand McNally, 1979.
 - Cronbach, Lee J., and Paul E. Meehl. "Construct Validity in Psychological Tests." *Psychological Bulletin*, vol. 52, no. 4, 1955, pp. 281–302.
 - Messick, Samuel. "Validity." In *Educational Measurement*, 3rd edition, edited by Robert L. Linn. Macmillan, 1989, pp. 13–103.
+- Lazer, David, Ryan Kennedy, Gary King, and Alessandro Vespignani. "The Parable of Google Flu: Traps in Big Data Analysis." *Science*, vol. 343, no. 6176, 2014.
+- Lincoln, Yvonna S., and Egon G. Guba. *Naturalistic Inquiry*. Sage, 1985.
+- Maxwell, Joseph A. "Understanding and Validity in Qualitative Research." *Harvard Educational Review*, vol. 62, no. 3, 1992.
+- Obermeyer, Ziad, Brian Powers, Christine Vogeli, and Sendhil Mullainathan. "Dissecting Racial Bias in an Algorithm Used to Manage the Health of Populations." *Science*, vol. 366, no. 6464, 2019.

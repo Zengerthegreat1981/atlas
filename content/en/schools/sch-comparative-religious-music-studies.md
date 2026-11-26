@@ -20,8 +20,7 @@ edges:
 related:
 - id: "sch-founding-comparative-religion-science-of-religion", title: "Founding of the 'Science of Religion': Max Müller and the Origins of Comparative Religion", type: "مدرسة"
 - id: "thk-guy-beck", title: "Guy L. Beck", type: "مفكر"
-gaps:
-  - "Regional branches (Sufi qawwali, Gregorian chant as theology, Hindu kirtan, the adhan as a comparative sound phenomenon): not yet covered."
+gaps: []
 ---
 
 # Comparative Study of Religious and Sacred Music
@@ -38,7 +37,17 @@ Beck later developed his approach in an edited volume (*Sacred Sound*, 2006) tha
 
 ## Relevance to the Arab-Islamic Heritage
 
-This framework opens a wide field for studying sacred sound in the Arab-Islamic heritage in comparative perspective. Qur'anic recitation, with the rules of tajwid and the maqams (bayati, hijaz, rast), represents a precise sound system developed over centuries to produce a performance that balances legal correctness with aesthetic effect. Scholars have argued (as in the work of Kristina Nelson) that the sharp distinction between recitation (tied to the mushaf and its strict rules) and singing (used in praise of the Prophet and in Sufi chanting) reflects a theological hierarchy of sound. This closely resembles the Hindu distinction that Beck studied between sacred sound (nada/mantra) and ordinary aesthetic music. The Islamic call to prayer (adhan), with its globally uniform form and its local modal variations, is also a comparative sound phenomenon that this entry does not treat in depth.
+This framework opens a wide field for studying sacred sound in the Arab-Islamic heritage in comparative perspective. Qur'anic recitation, with the rules of tajwid and the maqams (bayati, hijaz, rast), represents a precise sound system developed over centuries to produce a performance that balances legal correctness with aesthetic effect. Scholars have argued (as in the work of Kristina Nelson) that the sharp distinction between recitation (tied to the mushaf and its strict rules) and singing (used in praise of the Prophet and in Sufi chanting) reflects a theological hierarchy of sound. The Islamic call to prayer (adhan), with its globally uniform form and its local modal variations, is also a comparative sound phenomenon, taken up below.
+
+## Regional Branches
+
+**Sufi qawwali** in South Asia is devotional song performed in assemblies associated especially with the Chishti order. Regula Qureshi's study shows singers adjusting repetition and sequence to listeners' spiritual responses, so that musical structure and ritual context have to be analyzed together.
+
+**Gregorian chant** belongs to the Latin liturgy, where melody serves the sung word within the cycle of Mass and daily office. Treating it as theology means asking how its placement of biblical texts in the church year, and its pacing of them, shapes interpretation; musicological history alone does not settle that question.
+
+**Hindu kirtan** is the congregational singing of divine names and praises, often in call and response. It is especially prominent in devotional (*bhakti*) movements, including the Bengali Vaishnavism associated with Chaitanya, and in a related form (*kirtan*) is central to Sikh worship. Here participation itself is a devotional act.
+
+The **adhan** is a summons to prayer with a largely fixed wording and considerable variation in melodic delivery; it is ordinarily not classed as music within Islamic tradition. Tong Soon Lee's study of Singapore shows how loudspeakers and radio affected the way the call marks out a community's space. Comparison with church bells is instructive, provided that the difference between a recited text and a signal is kept in view.
 
 ## Impact and Criticism
 
@@ -58,3 +67,6 @@ Modern sound recording has changed the nature of the relationship to sacred soun
 - Beck, Guy L., ed. (2006). *Sacred Sound: Experiencing Music in World Religions*. Wilfrid Laurier University Press.
 - Sachs, Curt (1930). *Vergleichende Musikwissenschaft in ihren Grundzügen*. Leipzig: Quelle & Meyer.
 - Nelson, Kristina (1985). *The Art of Reciting the Qur'an*. University of Texas Press.
+- Qureshi, Regula Burckhardt (1986). *Sufi Music of India and Pakistan: Sound, Context and Meaning in Qawwali*. Cambridge University Press.
+- Hiley, David (1993). *Western Plainchant: A Handbook*. Clarendon Press.
+- Lee, Tong Soon (1999). "Technology and the Production of Islamic Space: The Call to Prayer in Singapore." *Ethnomusicology*, 43(1).

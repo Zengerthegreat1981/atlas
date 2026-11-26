@@ -82,4 +82,4 @@ He also discussed the relationship between the Lawgiver's purpose and the purpos
 - al-Raysuni, Ahmad. *Nazariyyat al-Maqasid 'inda al-Imam al-Shatibi* (The Theory of Objectives according to Imam al-Shatibi). Herndon: International Institute of Islamic Thought, 1995.
 - Hallaq, Wael B. *A History of Islamic Legal Theories: An Introduction to Sunni Usul al-Fiqh*. Cambridge: Cambridge University Press, 1997.
 - Opwis, Felicitas. *Maslaha and the Purpose of the Law: Islamic Discourse on Legal Change from the 4th/10th to 8th/14th Century*. Leiden: Brill, 2010.
-- Masud, Muhammad Khalid. *Shatibi's Philosophy of Islamic Law*. Islamabad: Islamic Research Institute, 1977.
+- Masud, Muhammad Khalid. *Shatibi's Philosophy of Islamic Law*. Islamabad: Islamic Research Institute, 1995.

@@ -20,8 +20,7 @@ related:
 - id: "thk-justin-barrett", title: "Justin Barrett", type: "مفكر"
 - id: "stu-spreading-nonnatural-concepts-barrett-nyhof-2001", title: "Barrett and Nyhof (2001): The Spread of Counter-Intuitive Concepts through Sequential Narrative", type: "دراسة وبحث"
 - id: "sch-cognitive-science-of-religion", title: "Cognitive Science of Religion", type: "مدرسة"
-gaps:
-  - "Later replications and critiques of the recall effect: not yet covered."
+gaps: []
 ---
 
 # Boyer and Ramble (2001): Cognitive Templates for Religious Concepts — Cross-Cultural Evidence
@@ -44,8 +43,16 @@ Together with related experimental work such as Barrett and Nyhof (2001), this s
 
 Cross-cultural experiments in cognitive psychology face the risk of imposing material of Western origin on participants from other cultures, using language or images that do not carry the same meaning for them. The authors addressed this by adapting the test material to each setting; readers should consult the original article for the exact stimulus sets, sample sizes and statistics.
 
+## Later Tests and Critiques
+
+Later research has qualified the recall effect. Gonce and colleagues (2006) found that it depends heavily on context: when counterintuitive items were presented in lists without a supporting narrative frame, they were not reliably remembered better, and could be remembered worse, than intuitive ones. Norenzayan, Atran, Faulkner and Schaller (2006) reported that intuitive items had the advantage in immediate recall, although minimally counterintuitive ones were forgotten less over time; they also found that folktales combining mostly intuitive elements with a few counterintuitive ones were more likely to be culturally successful. Their proposal shifts attention from single concepts to the overall mix within a story. Upal and others have argued that expectations created by context, and the effort to make sense of an item, explain recall better than violations of ontological categories as such. In a critical discussion (2016), Purzycki and Willard argued that the theory's key notions have been defined and operationalized inconsistently, particularly the difference between what violates an innate category expectation and what is merely unusual or bizarre, which makes studies hard to compare. The cross-cultural findings of 2001 are therefore best read as one important result within an unsettled literature.
+
 ## Sources
 
 - Boyer, P. & Ramble, C. (2001). "Cognitive Templates for Religious Concepts: Cross-Cultural Evidence for Recall of Counter-Intuitive Representations." *Cognitive Science*, 25(4), 535–564. DOI: 10.1207/s15516709cog2504_2.
 - Boyer, P. (2001). *Religion Explained: The Evolutionary Origins of Religious Thought*. New York: Basic Books.
 - Barrett, Justin L., & Nyhof, Melanie. "Spreading Non-Natural Concepts." *Journal of Cognition and Culture*, 1(1), 2001, 69–100.
+- Gonce, L. O., Upal, M. A., Slone, D. J., & Tweney, R. D. (2006). "Role of Context in the Recall of Counterintuitive Concepts." *Journal of Cognition and Culture*, 6.
+- Norenzayan, A., Atran, S., Faulkner, J., & Schaller, M. (2006). "Memory and Mystery: The Cultural Selection of Minimally Counterintuitive Narratives." *Cognitive Science*, 30.
+- Upal, M. A. (2010). "An Alternative Account of the Minimal Counterintuitiveness Effect." *Cognitive Systems Research*, 11.
+- Purzycki, B. G., & Willard, A. K. (2016). "MCI Theory: A Critical Discussion." *Religion, Brain & Behavior*, 6.

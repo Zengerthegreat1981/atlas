@@ -22,7 +22,6 @@ related:
 - id: "con-istihsan-juristic-preference", title: "Istihsan (Juristic Preference)", type: "مفهوم"
 - id: "sch-usul-al-fiqh-legal-theory", title: "Usul al-Fiqh as Legal Theory", type: "مدرسة"
 gaps:
-  - "Exact date of composition: not yet covered (about 1109 CE is the traditional dating, shortly before Ghazali's death in 1111)"
   - "Collation of the multiple editions: not yet covered"
 ---
 # Al-Mustasfa min 'Ilm al-Usul
@@ -63,8 +62,14 @@ Al-Ghazali devotes a broad section to questions of words and their indications: 
 
 *Al-Mustasfa* distinguishes itself from its classical counterparts by combining logical rigor with openness to purposive questions that had not yet reached their maturity. Abu al-Husayn al-Basri the Mu'tazili, in *al-Mu'tamad*, moved toward a theological analysis of questions of language and evidence. Abu Ya'la the Hanbali, in *al-'Udda*, moved toward recording Hanbali narration on disputed questions. Al-Ghazali came to combine both principles, with a clear inclination toward philosophical abstraction. His book became a reference read by jurists of several schools.
 
+## Date of Composition
+
+*Al-Mustasfa* is among the few classical usul works that can be dated closely. The biographer Ibn Khallikan, in *Wafayat al-A'yan*, reports that al-Ghazali completed it on 6 Muharram 503 AH, corresponding to early August 1109 CE. Modern chronologies of al-Ghazali's writings, including the standard study by Maurice Bouyges, accept the year 503 AH. The date places the book a little over two years before the author's death in Jumada al-Akhira 505 AH (December 1111 CE), and well after the works of his Baghdad period, such as his writings on logic and his critique of the philosophers. It also comes after *Ihya' 'Ulum al-Din* and after his return to teaching at the Nizamiyya of Nishapur in 499 AH. In the introduction al-Ghazali explains that students asked him for a work on usul that would stand between excessive length and excessive brevity, with better arrangement than a very long treatment and more substance than a short one. The date matters for interpretation, because it allows the positions in the book to be read as his mature views where they differ from those in the earlier *al-Mankhul*.
+
 ## Sources
 
 - al-Ghazali, Abu Hamid Muhammad ibn Muhammad. *al-Mustasfa min 'Ilm al-Usul*. Edited by Muhammad Abd al-Salam Abd al-Shafi. Beirut: Dar al-Kutub al-'Ilmiyya, 1993.
 - Hallaq, Wael B. *A History of Islamic Legal Theories: An Introduction to Sunni Usul al-Fiqh*. Cambridge University Press, 1997.
 - Weiss, Bernard G. *The Search for God's Law: Islamic Jurisprudence in the Writings of Sayf al-Din al-Amidi*. University of Utah Press, 1992.
+- Ibn Khallikan. *Wafayat al-A'yan wa Anba' Abna' al-Zaman*. Edited by Ihsan Abbas. Beirut: Dar Sadir.
+- Bouyges, Maurice. *Essai de chronologie des oeuvres de al-Ghazali*. Edited by Michel Allard. Beirut, 1959.

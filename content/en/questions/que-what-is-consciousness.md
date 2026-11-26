@@ -15,9 +15,7 @@ related:
 - id: "thk-descartes", title: "René Descartes", type: "مفكر"
 - id: "thk-nagel", title: "Thomas Nagel", type: "مفكر"
 - id: "con-qualia", title: "Qualia: The Irreducible Quality of Experience", type: "مفهوم"
-gaps:
-  - "Dedicated entry on David Chalmers (thk-chalmers): not yet covered"
-  - "Dedicated entry on Daniel Dennett (thk-dennett): not yet covered"
+gaps: []
 ---
 # What Is Consciousness?
 

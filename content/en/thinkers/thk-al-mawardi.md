@@ -19,8 +19,7 @@ related:
 - id: "sch-islamic-law-shariah", title: "Islamic Law and Shariah", type: "مدرسة"
 - id: "thk-al-shafii", title: "Muhammad ibn Idris al-Shafi'i", type: "مفكر"
 - id: "thk-abd-al-razzaq-al-sanhuri", title: "Abd al-Razzaq Ahmad al-Sanhuri", type: "مفكر"
-gaps:
-  - "Details of his diplomatic missions between the caliph and the Buyid and Seljuk amirs: not yet covered"
+gaps: []
 ---
 
 # Abu al-Hasan Ali ibn Muhammad al-Mawardi
@@ -30,6 +29,14 @@ A Shafi'i jurist, judge and diplomat from the scholars of Baghdad in the fifth c
 ## Biography and Context
 
 Al-Mawardi was born in Basra, where he studied Shafi'i jurisprudence under its senior scholars before moving to Baghdad, where he came into contact with the Abbasid caliphate. He held the judgeship in several cities, then attained a high standing at the court of the Abbasid caliph al-Qa'im bi-Amr Allah, and was entrusted with delicate diplomatic missions, including mediating between the caliph and the Buyid and Seljuk amirs during a period when the Abbasid caliphate suffered real political and military weakness against the growing influence of army commanders and governors. He was given the title "the most judicious of judges" (*aqda al-qudat*), and lived these political tensions at close quarters, which partly explains his deep practical interest in the theory of legitimizing authority and distributing its powers. He died in Baghdad in 450 AH / 1058 CE.
+
+## Diplomatic Missions
+
+Al-Mawardi's embassies belong mainly to the reigns of the caliphs al-Qadir and al-Qa'im, when the caliphate had to negotiate with military powers it could not command. Early in al-Qa'im's reign, which began in 1031, he was sent to the Buyid ruler Abu Kalijar in connection with securing recognition of the new caliph and the proper forms of allegiance and address.
+
+His independence showed in the controversy of 429 AH (1038 CE), when the Buyid Jalal al-Dawla sought the title king of kings (*malik al-muluk*). Although al-Mawardi enjoyed close relations with Jalal al-Dawla, the accounts report that he opposed the title while other jurists approved it, and that the amir afterwards respected his candour.
+
+In the early 1040s, around 435 AH, the caliph sent him to the Seljuk leader Tughril Beg, whose forces were advancing across Iran. His task was to urge restraint toward the population and to seek an understanding involving the Buyids. Tughril entered Baghdad in 1055, shortly before al-Mawardi's death. The surviving reports are brief, so the details of the negotiations remain limited.
 
 ## Central Ideas
 
@@ -51,7 +58,7 @@ Alongside his contribution to political jurisprudence, al-Mawardi was a major Sh
 
 ## Impact and Criticism
 
-The *Sultanic Ordinances* is a foundational text in the history of Islamic political thought, and it remained a fundamental reference that everyone who wrote on the theory of the caliphate subsequently invoked, including Abd al-Razzaq al-Sanhuri in his Parisian dissertation on the caliphate in the twentieth century, when he analyzed the outcomes of this theory after the fall of the Ottoman caliphate. Contemporary scholars (among them Patricia Crone in her studies of Islamic political thought) have observed that al-Mawardi's political realism, specifically his justification of legitimizing seizure of power by force, shows that his book is closer to an attempt at a legal adaptation to a declining political reality than to a purely normative theory, although this reading is not shared by all researchers to the same degree.
+The *Sultanic Ordinances* is a foundational text in the history of Islamic political thought, and it remained a fundamental reference that everyone who wrote on the theory of the caliphate subsequently invoked, including Abd al-Razzaq al-Sanhuri in his Lyon dissertation on the caliphate in the twentieth century, when he analyzed the outcomes of this theory after the fall of the Ottoman caliphate. Contemporary scholars (among them Patricia Crone in her studies of Islamic political thought) have observed that al-Mawardi's political realism, specifically his justification of legitimizing seizure of power by force, shows that his book is closer to an attempt at a legal adaptation to a declining political reality than to a purely normative theory, although this reading is not shared by all researchers to the same degree.
 
 ## A Work of the Same Title: Abu Ya'la al-Farra'
 
@@ -66,3 +73,4 @@ Al-Mawardi's style in the *Sultanic Ordinances* is an organized juristic languag
 - Crone, Patricia. *Medieval Islamic Political Thought*. Edinburgh: Edinburgh University Press, 2004.
 - al-Mawardi, Abu al-Hasan Ali ibn Muhammad. *al-Ahkam al-Sultaniyya wa al-Wilayat al-Diniyya*. Edited by Ahmad Mubarak al-Baghdadi. Kuwait: Dar Ibn Qutayba, 1989.
 - Hallaq, Wael B. *A History of Islamic Legal Theories: An Introduction to Sunni Usul al-Fiqh*. Cambridge: Cambridge University Press, 1997.
+- Gibb, H. A. R. 'Al-Mawardi's Theory of the Caliphate.' *Islamic Culture*, 1937.

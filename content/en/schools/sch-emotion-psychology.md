@@ -25,8 +25,7 @@ related:
 - id: "con-emotional-intelligence", title: "Emotional Intelligence: The Concept", type: "مفهوم"
 - id: "stu-ekman-original-facial", title: "Ekman's Original Studies on the Universality of Facial Expressions", type: "دراسة وبحث"
 - id: "stu-himba-facial", title: "The Himba Study on Categorizing Facial Expressions", type: "دراسة وبحث"
-gaps:
-  - "Standalone entries for Lisa Feldman Barrett, Silvan Tomkins, Richard Lazarus, Robert Zajonc and James Russell: not yet covered"
+gaps: []
 ---
 
 # Psychology of Emotion
@@ -60,6 +59,18 @@ The critique that reopened the file, most prominently theorized by **Lisa Feldma
 
 Proponents of basic emotions reply that the absence of a fingerprint does not negate the existence of the category, and that the cross-cultural agreement observed in recognition studies generally exceeds chance. **The matter is open**, and it is not right to present either side as settled.
 
+## Five Researchers in Brief
+
+**Silvan Tomkins** (1911–1991), an American psychologist trained partly in philosophy, set out affect theory in *Affect Imagery Consciousness* (four volumes, 1962–1992). He held that a small set of innate affects forms the primary motivational system, amplifying drives and shaping personality.
+
+**Richard Lazarus** (1922–2002), long at the University of California, Berkeley, moved from research on stress to a general theory of emotion. With Susan Folkman he wrote *Stress, Appraisal, and Coping* (1984), a standard account of how people evaluate and manage demands.
+
+**Robert Zajonc** (1923–2008), born in Łódź, did most of his work at the University of Michigan before moving to Stanford. He is known for research on social facilitation and the mere exposure effect as well as for arguing that affect has some independence from cognition.
+
+**James A. Russell**, who taught at the University of British Columbia and Boston College, proposed the circumplex model (1980), arranging affective states by pleasure and arousal, developed the idea of core affect and criticized the evidence for universal recognition of facial expressions.
+
+**Lisa Feldman Barrett** (born 1963), trained in clinical psychology at the University of Waterloo and later a professor at Northeastern University, developed the theory of constructed emotion.
+
 ## Limitations
 
 - **The problem of definition**: there is no agreed definition of "emotion" that separates it from mood, motive, and sensation, and this is the source of much of the disagreement.
@@ -80,3 +91,7 @@ Proponents of basic emotions reply that the absence of a fingerprint does not ne
 - Barrett, Lisa Feldman. *How Emotions Are Made: The Secret Life of the Brain*. Houghton Mifflin Harcourt, 2017.
 - Gendron, M., Roberson, D., van der Vyver, J. M. & Barrett, L. F. "Perceptions of Emotion from Facial Expressions Are Not Culturally Universal." *Emotion*, 14(2), 2014, 251–262.
 - Barrett, L. F., Adolphs, R., Marsella, S., Martinez, A. M. & Pollak, S. D. "Emotional Expressions Reconsidered." *Psychological Science in the Public Interest*, 20(1), 2019, 1–68.
+- Tomkins, Silvan S. *Affect Imagery Consciousness*. 4 vols. Springer, 1962–1992.
+- Lazarus, Richard S. & Folkman, Susan. *Stress, Appraisal, and Coping*. Springer, 1984.
+- Russell, James A. "A Circumplex Model of Affect." *Journal of Personality and Social Psychology*, 1980.
+- Russell, James A. "Core Affect and the Psychological Construction of Emotion." *Psychological Review*, 2003.

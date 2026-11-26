@@ -19,8 +19,7 @@ related:
   - id: "con-hermeneutics", title: "Hermeneutics", type: "مفهوم"
   - id: "con-hermeneutic-circle", title: "The Hermeneutic Circle", type: "مفهوم"
   - id: "con-dasein-being-there", title: "Dasein: The Being for Whom Its Own Being Is an Issue", type: "مفهوم"
-gaps:
-  - "Application of fusion of horizons in multicultural counselling and cultural pluralism: not yet covered with specific documented sources."
+gaps: []
 ---
 
 # Fusion of Horizons (Horizontverschmelzung): Understanding the Self Through the Other
@@ -34,6 +33,12 @@ The concept rejects the ideal of a purely objective, presuppositionless understa
 ## The Psychological and Therapeutic Meaning
 
 Some writers have used Gadamer's notion to describe psychotherapy and cross-cultural counselling: the therapist's professional framework and the client's cultural and personal framework are seen as horizons that come into contact, with understanding emerging in dialogue and not by applying a fixed theory to the client. Work on hermeneutics in psychology (for example, Messer, Sass and Woolfolk, eds., *Hermeneutics and Psychological Theory*, 1988) develops this line of thought. The extension is an analogy and a way of describing practice, and it is not itself part of Gadamer's text; multicultural counselling frameworks (such as those of Derald Wing Sue and Paul Pedersen) were developed independently of Gadamer.
+
+## Cultural Pluralism: Documented Uses
+
+Charles Taylor's essay "The Politics of Recognition" (1992) takes up the concept explicitly. Taylor proposes that a study of another culture may begin from a presumption that it has something of worth, but that an actual judgment of worth requires a fusion of horizons, in which the vocabulary and standards of comparison are themselves transformed. A favourable verdict issued in advance, on unchanged standards, would be neither informed nor properly respectful.
+
+In psychology, Blaine Fowers and Frank Richardson asked "Why Is Multiculturalism Good?" (*American Psychologist*, 1996). Drawing on Gadamer and Taylor, they argued that multiculturalism carries moral commitments of its own, and that philosophical hermeneutics can articulate them through dialogue in which one's own convictions are open to challenge, avoiding both the imposition of one standard and a relativism that cannot criticize anything. Their argument, with the wider hermeneutic psychology developed in Richardson, Fowers and Guignon's *Re-envisioning Psychology* (1999), is theoretical. It does not show that counselling guided by this idea produces better outcomes. In practice it suggests that a counsellor treat cultural understanding as revisable in conversation with the particular client, and attend to the unequal power under which that conversation takes place, a matter critics have pressed against Gadamer's model.
 
 ## Its Place within Philosophical Hermeneutics
 
@@ -49,3 +54,6 @@ The fusion of horizons differs from **perspective taking** in cognitive and soci
 - Martin Heidegger, *Sein und Zeit*, 1927.
 - Paul Ricœur, *De l'interprétation: Essai sur Freud* (*Freud and Philosophy*), 1965.
 - Stanley B. Messer, Louis A. Sass and Robert L. Woolfolk (eds.), *Hermeneutics and Psychological Theory*, New Brunswick, NJ: Rutgers University Press, 1988.
+- Charles Taylor, "The Politics of Recognition," in *Multiculturalism and "The Politics of Recognition"*, ed. Amy Gutmann, Princeton: Princeton University Press, 1992.
+- Blaine J. Fowers and Frank C. Richardson, "Why Is Multiculturalism Good?", *American Psychologist*, 1996.
+- Frank C. Richardson, Blaine J. Fowers and Charles B. Guignon, *Re-envisioning Psychology: Moral Dimensions of Theory and Practice*, San Francisco: Jossey-Bass, 1999.

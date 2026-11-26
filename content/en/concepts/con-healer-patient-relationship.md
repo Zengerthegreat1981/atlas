@@ -11,8 +11,7 @@ edges:
 - rel: "belongs_to", target: "Comparative Religious Healing Practices", target_type: "مدرسة"
 related:
 - id: "con-ritual-healing-efficacy", title: "Ritual Healing Efficacy", type: "مفهوم"
-gaps:
-  - "Healer-patient relations in Hindu, Buddhist and Jewish traditions: not yet covered"
+gaps: []
 ---
 
 # Healer-Patient Relationship in Religious Contexts
@@ -62,6 +61,16 @@ The healer-patient relationship in the religious context requires:
 
 In many societies patients use religious and biomedical healers at the same time (medical pluralism). Arthur Kleinman's work on "explanatory models" shows that patients, families and clinicians often understand illness differently, and that religious healers frequently address meaning and social relationships that clinical encounters leave aside. Tension arises when religious authority discourages medical treatment, whereas many traditions explicitly endorse both.
 
+## Hindu, Buddhist and Jewish Settings
+
+Each of these traditions contains several kinds of healer, so no single model covers any of them.
+
+In **Hindu** and wider South Asian settings, a patient may consult an Ayurvedic physician, a temple, or a specialist in mantra and ritual. Sudhir Kakar's study of Indian healing traditions shows that in ritual cures affliction is often attributed to spirits or other unseen agents, that the family commonly takes part, and that the healer's authority resembles that of a guru to whom the patient surrenders trust.
+
+In **Buddhism**, the monastic code tells of the Buddha washing a sick monk neglected by his companions and teaching that care for the sick is equivalent to care for him; it also sets out duties for both nurse and patient. Monasteries became places of medical learning, and devotion to the Medicine Buddha in Mahayana traditions presents healing as inseparable from spiritual cure.
+
+In **Judaism**, rabbinic interpretation of Exodus 21:19 grants the physician permission to heal, while God remains the ultimate healer. The human practitioner acts under religious obligation, and the community shares the task through visiting the sick (*bikur holim*) and prayer for recovery.
+
 ## Cross-Religious Comparison
 
 | Religion / Tradition | Nature of the Healer | Nature of the Relationship | Supreme Goal |
@@ -75,3 +84,7 @@ In many societies patients use religious and biomedical healers at the same time
 - Csordas, Thomas J. (1983). "The Rhetoric of Transformation in Ritual Healing." *Culture, Medicine and Psychiatry*, 7(4), 333-375.
 - Kleinman, Arthur. (1980). *Patients and Healers in the Context of Culture*. University of California Press.
 - Katz, Richard. *Boiling Energy: Community Healing Among the Kalahari Kung*. Harvard University Press, 1982.
+- Kakar, Sudhir. (1982). *Shamans, Mystics and Doctors: A Psychological Inquiry into India and Its Healing Traditions*. Alfred A. Knopf.
+- Zysk, Kenneth G. (1991). *Asceticism and Healing in Ancient India: Medicine in the Buddhist Monastery*. Oxford University Press.
+- Birnbaum, Raoul. (1979). *The Healing Buddha*. Shambhala.
+- Preuss, Julius. (1978). *Biblical and Talmudic Medicine*. Trans. Fred Rosner. Sanhedrin Press (German original 1911).

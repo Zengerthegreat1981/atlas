@@ -18,8 +18,7 @@ related:
 - id: "thk-mircea-eliade", title: "Mircea Eliade", type: "مفكر"
 - id: "sch-phenomenology-of-religion-otto-eliade", title: "Phenomenology of Religion: Otto, Eliade, and Their Influence", type: "مدرسة"
 - id: "dbt-comparativism-vs-contextualism-eliade-smith", title: "Comparativism vs. Contextualism: Eliade, J. Z. Smith, and the Method of Religious Comparison", type: "جدل"
-gaps:
-  - "Comparison with other phenomenologists (Otto, Wach, Smart) and other interpretive thinkers (Turner, Douglas): not yet covered"
+gaps: []
 ---
 
 # Thick Description vs. Phenomenological Description: Geertz and Eliade Compared
@@ -42,6 +41,12 @@ This difference directly affects each one's position on comparison across cultur
 
 Geertz's book *Islam Observed: Religious Development in Morocco and Indonesia* (1968) provides a practical example of his method. Rather than searching for a single "essence" of Islam that manifests in recurring patterns (as Eliade does with the sacred), Geertz describes how Islamic piety in Morocco took shape around the charismatic model of the active saint (*wali*), with Sidi Lahsen Lyusi as an example. In Java, Indonesia, by contrast, it took shape around an inward, contemplative piety, blended with an earlier Hindu-Buddhist and Javanese mystical heritage. For Geertz, then, Islam is read through two distinct cultural versions, not through a single fixed essence manifesting in multiple forms, as the Eliadean method presupposes.
 
+## Other Voices on Each Side
+
+The two labels cover varied positions. Among phenomenologists, **Rudolf Otto** (*The Idea of the Holy*, 1917) centred description on the experience of the "numinous", at once overwhelming and attracting, and held that it cannot be reduced to rational or moral concepts. **Joachim Wach** joined interpretive understanding to the study of religious experience and its expression in thought, action and community, giving social forms more systematic attention than Eliade did. **Ninian Smart** moved furthest from essentialism: he advocated withholding judgement about the truth of what is described, entering the believer's view through informed empathy, and comparing traditions across several dimensions, such as ritual, myth, doctrine and institution, without requiring a single sacred essence.
+
+Among interpretive anthropologists, **Victor Turner** read symbols as carrying many meanings and studied them in ritual process and social conflict, combining participants' explanations with observed use. **Mary Douglas** (*Purity and Danger*, 1966; *Natural Symbols*, 1970) linked classifications of purity and bodily symbolism to patterns of social organization, and was readier than Geertz to propose cross-cultural comparative schemes. The contrast is therefore less a two-way split than a range of answers to two questions: what lies behind the symbols, and how far description may travel across cultures.
+
 ## A Third Party: Talal Asad
 
 Talal Asad's critique of Geertz's definition of religion in *Genealogies of Religion* (1993) is relevant to both approaches: he argues that treating religion as a universal domain of symbolic meaning, separable from power and from historical disciplines, is itself a historical product of Christian and modern Western thought.
@@ -57,3 +62,9 @@ This contrast explains why proponents of thick description criticize Eliadean ph
 - Geertz, Clifford (1968). *Islam Observed: Religious Development in Morocco and Indonesia*. Yale University Press (reissued by University of Chicago Press, 1971).
 - Geertz, Clifford (1966). "Religion as a Cultural System." In *Anthropological Approaches to the Study of Religion*, ed. Michael Banton. Tavistock.
 - Asad, Talal (1993). *Genealogies of Religion*. Johns Hopkins University Press.
+- Otto, Rudolf (1923). *The Idea of the Holy*. Trans. John W. Harvey. Oxford University Press (German original 1917).
+- Wach, Joachim (1944). *Sociology of Religion*. University of Chicago Press.
+- Smart, Ninian (1973). *The Science of Religion and the Sociology of Knowledge*. Princeton University Press.
+- Turner, Victor (1967). *The Forest of Symbols*. Cornell University Press.
+- Douglas, Mary (1966). *Purity and Danger*. Routledge & Kegan Paul.
+- Douglas, Mary (1970). *Natural Symbols*. Barrie & Rockliff.

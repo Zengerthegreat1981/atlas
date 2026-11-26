@@ -20,9 +20,7 @@ related:
 - id: "thk-vine-deloria-jr", title: "Vine Deloria Jr.", type: "مفكر"
 - id: "con-guardian-spirit-complex-hultkrantz", title: "The Guardian Spirit Complex in Hultkrantz", type: "مفهوم"
 - id: "sch-shamanism-comparative-category", title: "Shamanism as a Comparative Category and the Critique of Its Classification", type: "مدرسة"
-gaps:
-  - "Contributions of Indigenous scholars of the generation after Deloria: not yet covered."
-  - "Relationship to Native American Studies as an independent discipline: not yet covered."
+gaps: []
 ---
 
 # Academic Study of Native American Religions
@@ -49,6 +47,14 @@ Hultkrantz's classificatory vocabulary (the healing shaman as a mediator with sp
 
 Later scholars expanded the field in two different directions. Sam Gill took a different critical direction: instead of defending the authenticity of a tradition against an external classification, he himself, as an outside scholar, questioned the authenticity of the common concept of "Mother Earth", arguing that it is a modern construction rather than an ancient unified tribal belief, in his book *Mother Earth: An American Story* (1987). This provoked a sharp debate over who holds the authority to judge the authenticity of a religious tradition. Joel Martin took a third course: a narrative history of specific tribal traditions in their confrontation with colonialism, in *The Land Looks After Us* (1999), avoiding both the general comparative classification and comprehensive constructivist deconstruction. Christopher Vecsey wrote on the Ojibwa and the historical transformations of their religion (*Traditional Ojibwa Religion and Its Historical Changes*, 1983).
 
+## Indigenous Scholars after Deloria
+
+Later Indigenous scholars carried the critique in several directions. George "Tink" Tinker (Osage) examined the cultural damage done by missions in *Missionary Conquest* (1993) and, with Clara Sue Kidwell and Homer Noley, co-wrote *A Native American Theology* (2001), engaging Christian theological categories from Native standpoints. Inés Talamantez, at the University of California, Santa Barbara, helped establish graduate training in Native American religious traditions and emphasized language, women's ceremonies and community knowledge, notably in work on Mescalero Apache tradition. Michelene Pesantubbee (Choctaw) combined historical sources with attention to gender in *Choctaw Women in a Chaotic World* (2005). These scholars differ in method and in their relation to Christianity, and this selection is not exhaustive.
+
+## Relationship to Native American Studies
+
+Native American Studies (also called American Indian Studies) developed as a separate academic enterprise from the late 1960s, as student and community activism led universities to found programs and departments. Its organizing concerns are sovereignty, land, language, law, history and accountability to Native nations, with religion treated as part of these rather than as an isolated domain. The study of religion overlaps with it in people and questions, but inherits comparative categories that Native American Studies often examines critically. Elizabeth Cook-Lynn argued in 1997 that the newer discipline had strayed from its purpose of defending Native nationhood and developing its own intellectual base. The Native American and Indigenous Studies Association, formed in the late 2000s, widened the setting internationally.
+
 ## Limits of the Field
 
 The comparative study takes on board that a diverse range of peoples (from the Inuit and Athabaskan to the Hopi and Iroquois) is hard to gather under a single heading, that the early material was collected by mission staff and administrators during the period of subjugation and the erasure of cultures, and that the foreign observer recorded what was allowed to be known. Hultkrantz is criticised for a fixed "typology" scheme that hides historical change and the impact of contact with Europeans. On the other side, it has been said that Deloria's position carries the risk of essentialism: portraying "Indian religion" as a homogeneous bloc in contrast to the West. The contemporary field is moving toward a collaborative method with communities and respect for the sovereignty of knowledge.
@@ -63,3 +69,7 @@ The comparative study takes on board that a diverse range of peoples (from the I
 - Vecsey, Christopher (1983). *Traditional Ojibwa Religion and Its Historical Changes*. American Philosophical Society.
 - Gill, Sam D. (1987). *Mother Earth: An American Story*. University of Chicago Press.
 - Martin, Joel W. (1999). *The Land Looks After Us: A History of Native American Religion*. Oxford University Press.
+- Tinker, George E. (1993). *Missionary Conquest: The Gospel and Native American Cultural Genocide*. Fortress Press.
+- Kidwell, Clara Sue, Homer Noley & George E. Tinker (2001). *A Native American Theology*. Orbis Books.
+- Pesantubbee, Michelene E. (2005). *Choctaw Women in a Chaotic World*. University of New Mexico Press.
+- Cook-Lynn, Elizabeth (1997). "Who Stole Native American Studies?" *Wicazo Sa Review*, 12(1).

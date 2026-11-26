@@ -11,8 +11,7 @@ active_start: 1650
 active_end: 1800
 edges: []
 related: []
-gaps:
-  - "Primary-source excerpts (Kant, Hume, Smith, Bentham): not yet covered"
+gaps: []
 ---
 
 # Enlightenment Ethics
@@ -27,13 +26,17 @@ Before this European turning point, the Islamic civilization had conducted a sim
 
 In Europe, Descartes laid the foundations of a rigorous rationalist method, which was later transferred to ethics. Spinoza, in his *Ethics* (published posthumously in 1677), developed a geometric system that deduces virtue from the rational nature of the human being. The decisive moment, however, came with Immanuel Kant. In *Foundations of the Metaphysics of Morals* (1785), he established the principle of the categorical imperative. It holds that the moral act is what the agent can will as a universal law without contradiction, and that the human being is an end in themselves and not a means.
 
-On the other side, David Hume developed an opposing empirical position. He affirmed that reason is "the slave of the passions" and that the basis of moral judgment is sympathy, not abstract inference. Adam Smith developed a related account of sympathy in *The Theory of Moral Sentiments* (1759). In parallel, Jean-Jacques Rousseau developed a theory of the general will and of the natural goodness of humans before society corrupted them. Toward the end of this period, Jeremy Bentham, in *An Introduction to the Principles of Morals and Legislation* (1789), gave classical utilitarianism its best-known early systematic statement; it evaluates an act by its tendency to promote the greatest happiness of the greatest number.
+On the other side, David Hume developed an opposing empirical position. He affirmed that reason serves the passions and that the basis of moral judgment is sympathy, not abstract inference. Adam Smith developed a related account of sympathy in *The Theory of Moral Sentiments* (1759). In parallel, Jean-Jacques Rousseau developed a theory of the general will and of the natural goodness of humans before society corrupted them. Toward the end of this period, Jeremy Bentham, in *An Introduction to the Principles of Morals and Legislation* (1789), gave classical utilitarianism its best-known early systematic statement; it evaluates an act by its tendency to promote the greatest happiness of the greatest number.
 
 ## Main Positions and Tensions
 
 A fundamental tension runs between two main currents. The rationalist Kantian current seeks universal moral laws imposed by pure reason, regardless of consequences. The empirical and utilitarian current derives moral standards from human emotional nature and from the outcomes of actions. Both currents have been criticized. Kant's moral philosophy has been accused of formal rigidity and of being unable to resolve conflicts between duties. Utilitarianism has been accused of justifying the sacrifice of the individual for the sake of the majority.
 
 *Illustrative example:* the question of lying to save the life of an innocent person. Kant himself, in "On a Supposed Right to Lie from Philanthropy" (1797), held that lying is forbidden even to a murderer asking after a friend's whereabouts, because a universalized permission to lie would undermine trust. The utilitarian holds that the good consequence (saving a life) justifies the exception. This disagreement summarizes the essence of the divide within Enlightenment ethics.
+
+## Primary-Source Excerpts
+
+Four passages show the range of positions. Kant, in the *Groundwork* (Mary Gregor's translation), formulates the supreme principle as a requirement to act only on maxims that one could at once will to hold as universal laws. The formulation asks the agent to test the principle of an action, not to forecast its results. Hume, in the *Treatise* (Book II), argues that reason is, and should be, subordinate to the passions, with no role other than serving them. Smith opens *The Theory of Moral Sentiments* with a claim about concern for others: however self-interested people are taken to be, their nature plainly contains principles that make them care how others fare and need their happiness, even when they gain nothing but the satisfaction of witnessing it. Bentham begins the *Introduction* (1789) by declaring that nature has set human beings under the rule of two sovereigns, pain and pleasure. He continues that it is for them alone to point out what we ought to do, as well as to determine what we shall do.
 
 ## Sources
 

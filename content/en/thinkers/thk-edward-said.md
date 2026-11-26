@@ -12,8 +12,7 @@ active_start: 1935
 active_end: 2003
 edges: []
 related: []
-gaps:
-- Cross-references to related concepts: not yet covered
+gaps: []
 sociological_tradition: other
 sociological_paradigm: micro-macro
 ---
@@ -52,6 +51,10 @@ Said used a humanistic textual and discourse analysis, reading literary, scholar
 
 In Orientalism Said examined, among others, Napoleon's expedition to Egypt and the scholarly Description de l'Egypte, the work of Ernest Renan, Edward Lane's account of Egyptians, the statements of British officials such as Arthur Balfour and Lord Cromer, and the writings of Gustave Flaubert. In Culture and Imperialism he read novels such as Jane Austen's Mansfield Park, Verdi's opera Aida and works by Joseph Conrad and Albert Camus for their entanglement with empire. Covering Islam applied the same approach to contemporary American news coverage of Islam and Muslim societies in the aftermath of the Iranian revolution of 1979.
 
+## Related Concepts
+
+Said's work connects with the concepts of Orientalism, discourse, hegemony, representation, othering, imperialism, colonialism, postcolonialism, exile, and the public intellectual. Michel Foucault's account of discourse explains how fields of statements make some objects and claims thinkable, while Antonio Gramsci's hegemony draws attention to leadership secured through culture and consent as well as force. Anouar Abdel-Malek's essay on the crisis of Orientalism is an important precursor. Frantz Fanon's analysis of colonial domination informs the discussion of resistance and decolonisation in *Culture and Imperialism*. Homi Bhabha's concepts of ambivalence and mimicry question the stability of colonial representation, and Gayatri Chakravorty Spivak's work on the subaltern asks whether the dominated can be heard through the forms available to represent them. The idea of Occidentalism raises the converse problem of stereotyping the West, although images produced without comparable institutional power need not work in the same way. Essentialism, the treatment of a people or civilisation as having a fixed nature, links these debates.
+
 ## Influence and Criticism
 
 Orientalism reshaped debates on colonialism and representation across the social sciences. Critics such as Aijaz Ahmad (In Theory, 1992) challenged its treatment of the West as a unified entity and its mixing of Foucauldian and humanist premises; historians including Bernard Lewis disputed its accuracy about scholarship. Others noted the book's limited attention to the views of those who were represented.
@@ -62,3 +65,4 @@ Orientalism reshaped debates on colonialism and representation across the social
 - Edward W. Said, Culture and Imperialism (1993)
 - Aijaz Ahmad, In Theory: Classes, Nations, Literatures (1992)
 - Edward W. Said, Out of Place: A Memoir (1999)
+- Anouar Abdel-Malek, Orientalism in Crisis, Diogenes (1963)

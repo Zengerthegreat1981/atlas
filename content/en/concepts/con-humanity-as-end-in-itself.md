@@ -12,8 +12,7 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "Deontological Ethics", target_type: "مدرسة"
 related: []
-gaps:
-  - "Kant's Formula of the End in Itself in the Metaphysics of Morals and the debate over its scope (e.g., for non-rational beings): not yet covered"
+gaps: []
 ---
 
 # Humanity as End-in-Itself
@@ -38,7 +37,16 @@ This principle is used chiefly as a philosophical basis for rejecting slavery, e
 
 This concept is closely tied to Kantian deontological ethics (Deontological Ethics), to the concepts of autonomy and human dignity, and it stands methodologically opposed to act utilitarianism, which permits sacrificing an individual to maximize the good of the community.
 
+## The Metaphysics of Morals and the Question of Scope
+
+In *The Metaphysics of Morals* (1797) the idea does practical work, especially in the Doctrine of Virtue. Kant holds there that some ends, one's own perfection and the happiness of others, are also duties. He condemns suicide, lying, and servility as failures to respect humanity in one's own person, and grounds duties of respect toward others, which forbid contempt, arrogance, defamation, and ridicule, in the dignity that every human being may claim and owes in return.
+
+The scope of that claim is disputed. Kant locates dignity in rational nature capable of moral self-legislation, and in the same work argues that duties concerning animals and natural objects are really duties to oneself: cruelty to animals, for instance, dulls compassion that serves morality toward people. Critics object that this leaves animals, and apparently some human beings who lack developed rational capacities, without direct standing. Allen Wood (1998) proposes revising Kant so that respect for rational nature also covers beings that have it partially or potentially. Christine Korsgaard (2018) argues that Kantian reasoning commits us to treating all creatures with a good of their own as ends in themselves.
+
 ## Sources
 
 - Kant, Immanuel. *Groundwork of the Metaphysics of Morals*. Translated by Mary Gregor. Cambridge University Press, 1998.
 - Wood, Allen W. *Kant's Ethical Thought*. Cambridge University Press, 1999.
+- Kant, Immanuel. *The Metaphysics of Morals* (1797). Translated by Mary Gregor. Cambridge University Press.
+- Wood, Allen W. "Kant on Duties Regarding Nonrational Nature." *Proceedings of the Aristotelian Society*, Supplementary Volume 72, 1998.
+- Korsgaard, Christine M. *Fellow Creatures: Our Obligations to the Other Animals*. Oxford University Press, 2018.

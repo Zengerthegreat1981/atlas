@@ -16,8 +16,7 @@ related:
 - id: "thk-al-shatibi", title: "Abu Ishaq Ibrahim ibn Musa al-Shatibi", type: "مفكر"
 - id: "wrk-al-muwafaqat-shatibi", title: "Al-Muwafaqat fi Usul al-Shari'a", type: "عمل / كتاب"
 - id: "sch-usul-al-fiqh-legal-theory", title: "Usul al-Fiqh as Legal Theory", type: "مدرسة"
-gaps:
-  - "Contemporary maqasid scholarship (Ibn Ashur, Taha Jabir al-Alwani, Jasser Auda): not yet covered"
+gaps: []
 ---
 
 # Maqasid al-Shari'ah according to al-Shatibi
@@ -50,8 +49,19 @@ The idea of the objectives did not arise from nothing. It was preceded by theore
 
 The effect of the theory of objectives appears in practice in juristic maxims derived from it, such as "necessities permit prohibited things" (an application of prioritizing the preservation of life), and "averting harms takes precedence over securing benefits." Some contemporary jurists have invoked the objectives in discussing questions such as medical necessity or hardship in financial dealings. These applications are debated, and such arguments are not themselves part of al-Shatibi's formulation. In the twentieth century the Tunisian scholar Muhammad al-Tahir Ibn Ashur (d. 1973) wrote a notable work on the objectives, *Maqasid al-Shari'a al-Islamiyya*.
 
+## Contemporary Maqasid Scholarship
+
+Modern writers have extended the theory well beyond its classical form. Ibn Ashur treated the study of objectives as deserving a method of its own, distinct in emphasis from conventional usul al-fiqh. He grounded it in the innate human disposition (*fitra*) and gave weight to social aims such as tolerance, equality, freedom and the orderly life of the community, alongside the protection of individuals.
+
+Taha Jabir al-Alwani (1935-2016), an Iraqi scholar associated with the International Institute of Islamic Thought, argued that a small set of Qur'anic higher values, namely divine unity (*tawhid*), purification (*tazkiya*) and the building of civilization (*'umran*), should govern the reading of particular rulings.
+
+Jasser Auda, in a work published in 2008, applied systems theory to the subject. He argued that Islamic legal reasoning should be understood as an open, multidimensional and purpose-oriented system, criticized the classical hierarchy for its narrow and individual focus, and proposed reading the old language of preservation in terms of human development and rights. Critics of expansive purposive readings caution that broadly worded objectives may be used to set aside specific texts.
+
 ## Sources
 
 - Opwis, Felicitas. *Maslaha and the Purpose of the Law: Islamic Discourse on Legal Change from the 4th/10th to 8th/14th Century*. Brill, 2010.
 - Masud, Muhammad Khalid. *Islamic Legal Philosophy: A Study of Abu Ishaq al-Shatibi's Life and Thought*. Islamabad: Islamic Research Institute, 1977.
 - Hallaq, Wael B. *A History of Islamic Legal Theories: An Introduction to Sunni Usul al-Fiqh*. Cambridge University Press, 1997.
+- Ibn Ashur, Muhammad al-Tahir. *Treatise on Maqasid al-Shari'ah*. Translated by Mohamed El-Tahir El-Mesawi. International Institute of Islamic Thought, 2006.
+- al-Alwani, Taha Jabir. *Issues in Contemporary Islamic Thought*. International Institute of Islamic Thought, 2005.
+- Auda, Jasser. *Maqasid al-Shariah as Philosophy of Islamic Law: A Systems Approach*. International Institute of Islamic Thought, 2008.

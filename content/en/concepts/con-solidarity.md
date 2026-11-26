@@ -12,9 +12,7 @@ active_start: 1900
 active_end: مستمر
 edges: []
 related: []
-gaps:
-- Solidarity in transnational social movements: not yet covered
-- Solidarity and the welfare state under austerity: not yet covered
+gaps: []
 sociological_tradition: other
 sociological_paradigm: micro-macro
 ---
@@ -48,8 +46,21 @@ Solidarity has its critics. Liberal theorists warn that it can harden into triba
 
 Contemporary questions concern the scale of solidarity: can it extend beyond the nation, to refugees, to future generations, or to the non-human world? Can digital networks sustain it, or do they fragment it into echo chambers? And can the welfare state survive austerity and demographic change? Solidarity remains, for sociology, both an empirical fact — the bonds that hold societies together — and a normative question: what do we owe one another, and how far does the "we" extend?
 
+## Solidarity in Transnational Movements
+
+Solidarity across borders has a long record, including campaigns against slavery and, in the twentieth century, international opposition to apartheid. Margaret Keck and Kathryn Sikkink's *Activists beyond Borders* (1998) described transnational advocacy networks in which groups blocked by their own government seek allies abroad who can bring pressure from outside, a pattern they called the boomerang. Sidney Tarrow stressed that many transnational activists remain rooted in national settings, drawing resources and opportunities from them. Such ties can join people with unequal money, safety and voice, so that supporters far away may reshape the aims of those they back.
+
+## The Welfare State under Austerity
+
+Paul Pierson argued that retrenching welfare programmes follows a different politics from building them, because established programmes create constituencies and governments seek to avoid blame; change therefore often comes gradually. Peter Taylor-Gooby (2013) described a double pressure: long-term demands from ageing and care, joined to cuts in public expenditure after the 2008 financial crisis, in a setting where support for helping some groups had weakened. Research on deservingness, such as Wim van Oorschot's, finds that publics tend to favour older and sick people over the unemployed and migrants, which shows how solidarity can be graded. Effects differ between countries and programmes.
+
 ## Sources
 
 - Durkheim, Émile. *De la division du travail social*. Paris: Félix Alcan, 1893 (English: *The Division of Labour in Society*).
 - Ibn Khaldun, Abd al-Rahman. *The Muqaddimah: An Introduction to History*. 1377.
 - Rorty, Richard. *Contingency, Irony, and Solidarity*. Cambridge University Press, 1989.
+- Keck, Margaret E., and Kathryn Sikkink. *Activists beyond Borders: Advocacy Networks in International Politics*. Cornell University Press, 1998.
+- Tarrow, Sidney. *The New Transnational Activism*. Cambridge University Press, 2005.
+- Pierson, Paul. "The New Politics of the Welfare State." *World Politics*, 1996.
+- Taylor-Gooby, Peter. *The Double Crisis of the Welfare State and What We Can Do About It*. Palgrave Macmillan, 2013.
+- van Oorschot, Wim. "Who Should Get What, and Why?" *Policy and Politics*, 2000.

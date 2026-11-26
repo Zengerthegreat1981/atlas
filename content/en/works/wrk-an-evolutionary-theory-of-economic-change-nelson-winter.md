@@ -21,8 +21,7 @@ edges:
 related:
 - id: "sch-schumpeterian-evolutionary-economics", title: "Schumpeterian Evolutionary Economics", type: "مدرسة"
 - id: "thk-joseph-schumpeter", title: "Joseph Schumpeter", type: "مفكر"
-gaps:
-  - "Formal equations of the simulation models: not yet covered"
+gaps: []
 ---
 # An Evolutionary Theory of Economic Change
 
@@ -59,6 +58,12 @@ On its appearance the book received a mixed reception within the mainstream acad
 ## A reference point for a research field
 
 The book contributed to a research field that acquired its own journal, the *Journal of Evolutionary Economics* (founded in 1991), and scholarly associations, including the International Schumpeter Society (founded in 1986).
+
+## The Equations of the Simulation Models
+
+In the model of Schumpeterian competition, firm i in period t holds capital K and a technique with output per unit of capital A, and produces Q = AK. Industry output is the sum over firms, and price is read from a downward-sloping demand function, P = D(Q). A firm spends on imitative and innovative research at fixed rates r(m) and r(n) per unit of capital. Research success is random in two stages: the probability of an imitation draw is a(m) r(m) K, and that of an innovation draw is a(n) r(n) K. An imitator gains access to the best practice in the industry; an innovator samples a new productivity level from a probability distribution. The firm then adopts the highest of its current, imitated and newly found levels of A. Its profit per unit of capital is PA minus production cost and both research rates. Next period's capital equals net investment plus surviving capital, where desired investment depends on the price-cost margin and market share and is limited by available finance, and depreciation is subtracted.
+
+The growth model, by contrast, gives each firm fixed labour and capital coefficients, determines the wage in an aggregate labour market, and lets firms search for new techniques mainly when their return on capital falls below a satisfactory target.
 
 ## Sources
 

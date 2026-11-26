@@ -11,8 +11,7 @@ active_start: 1900
 active_end: "مستمر"
 edges: []
 related: []
-gaps:
-  - "Primary sources: not yet covered."
+gaps: []
 ---
 
 # Dignity in Bioethics
@@ -33,9 +32,20 @@ Immanuel Kant provided the deepest modern philosophical foundation for this conc
 
 Critics such as Ruth Macklin ("Dignity Is a Useless Concept," 2003) object that dignity is vague and adds nothing to respect for autonomy, and that it may be invoked on both sides of debates such as euthanasia. As an illustration: a patient in the final stage of illness has lost consciousness and is no longer capable of any beneficial act. Nevertheless, the principle of dignity requires treating him with gentleness and respect, and forbids using his body for an experiment without the consent of his relatives, because his dignity does not depend on his consciousness or usefulness.
 
+## Further Primary Sources
+
+Earlier Western texts include Cicero's *On Duties* (Book I), which links the dignity of human nature to reason and self-control, and Pico della Mirandola's oration of 1486, later titled *On the Dignity of Man*. Among legal and international documents, Article 1 of the German Basic Law (1949) declares human dignity inviolable. The Council of Europe's Convention on Human Rights and Biomedicine, signed at Oviedo in 1997, commits parties to protect the dignity and identity of all human beings in the application of biology and medicine. UNESCO's Universal Declaration on the Human Genome and Human Rights (1997) and Universal Declaration on Bioethics and Human Rights (2005) both invoke dignity. The United States President's Council on Bioethics published a volume of essays, *Human Dignity and Bioethics* (2008), showing wide disagreement about the idea. Deryck Beyleveld and Roger Brownsword's *Human Dignity in Bioethics and Biolaw* (2001) distinguishes dignity as empowerment from dignity as a constraint on choice.
+
 ## Sources
 
 - Kant, Immanuel. *Groundwork of the Metaphysics of Morals* (1785). Translated by Mary Gregor. Cambridge University Press, 1997.
 - Beauchamp, Tom L., and James F. Childress. *Principles of Biomedical Ethics*. 5th ed. Oxford University Press, 2001.
 - Macklin, Ruth. "Dignity Is a Useless Concept." *BMJ* 327, 2003.
 - Kass, Leon. "The Wisdom of Repugnance." *The New Republic*, 1997.
+- Cicero. *On Duties* (*De officiis*), Book I.
+- Pico della Mirandola, Giovanni. *Oration on the Dignity of Man*. 1486.
+- Council of Europe. Convention on Human Rights and Biomedicine (Oviedo Convention). 1997.
+- UNESCO. Universal Declaration on the Human Genome and Human Rights. 1997.
+- UNESCO. Universal Declaration on Bioethics and Human Rights. 2005.
+- Beyleveld, Deryck, and Roger Brownsword. *Human Dignity in Bioethics and Biolaw*. Oxford University Press, 2001.
+- President's Council on Bioethics. *Human Dignity and Bioethics*. 2008.

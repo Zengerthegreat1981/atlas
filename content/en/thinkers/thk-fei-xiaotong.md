@@ -19,8 +19,7 @@ related:
 - id: "thk-bronislaw-malinowski", title: "Bronisław Malinowski", type: "مفكر"
 - id: "thk-radcliffe-brown", title: "A. R. Radcliffe-Brown", type: "مفكر"
 - id: "con-kinship-theory", title: "Kinship Theory", type: "مفهوم"
-gaps:
-  - "Details of his experience during the Anti-Rightist Campaign and the Cultural Revolution: not yet covered"
+gaps: []
 ---
 # Fei Xiaotong
 
@@ -31,6 +30,12 @@ A Chinese sociologist and anthropologist, regarded as one of the principal build
 Fei Xiaotong was born in 1910 in Wujiang, Jiangsu Province, into a family of intellectuals. He studied sociology at Yenching University and anthropology at Tsinghua University, and then moved to the London School of Economics (LSE), where he was a student of Bronisław Malinowski, the leading proponent of long-term participant observation, and received his doctorate in 1938. Before travelling to London, Fei conducted fieldwork in the village of Kaixiangong in Jiangsu (known in his book by the name Jiangcun), which formed the material of his doctoral dissertation and then his first book. Earlier, in 1935, he had conducted fieldwork with his first wife, Wang Tonghui, among the Yao people in the mountains of Guangxi. During that research he was seriously injured, and his wife died in an accident. He then moved to Kaixiangong to recuperate, and there he gathered the material for his first book.
 
 After returning to China, he worked as a professor and researcher and helped establish the institutions of Chinese sociology and anthropology. With the founding of the People's Republic of China in 1949, he continued academic and administrative work, but sociology and anthropology, the fields in which he worked, were abolished as independent academic disciplines in China in 1952 on the Soviet model and were denounced as "bourgeois pseudo-science." In the Anti-Rightist Campaign of 1957, Fei was labeled a "rightist" for defending the independence of sociology, and he was barred from teaching and publishing for roughly two decades. He suffered further marginalization during the Cultural Revolution. He was formally rehabilitated after 1979, with China's opening, and his scholarly and political standing was restored. He took part in rebuilding Chinese sociology and anthropology and held senior academic and political posts until his death in Beijing in 2005.
+
+## The Campaign Years
+
+In the relative openness of the Hundred Flowers period, Fei published an essay in 1957, usually translated as "The Early Spring Weather of the Intellectuals," which described both hope and lingering caution among scholars. He also joined efforts to restore sociology. When the Anti-Rightist Campaign began later that year, these activities became grounds for attack. He was subjected to public criticism, in which some colleagues took part, lost important positions, and was largely cut off from research and publication. He remained attached to the Central Institute for Nationalities in Beijing.
+
+During the Cultural Revolution, which began in 1966, Fei again came under attack as a former rightist and was assigned to manual work. Around 1969 he was sent to a May Seventh Cadre School in the countryside of Hubei, where intellectuals and officials combined physical labour with political study. After returning to Beijing in the early 1970s he took part in collective translation work on world history and related subjects. Fei later spoke about these years in interviews, including a conversation with the anthropologist Burton Pasternak published in 1988. R. David Arkush's biography treats the 1957 campaign and its background in detail.
 
 ## Key Contributions
 
@@ -77,3 +82,4 @@ Fei's work has been challenged on two main grounds. The first is methodological:
 - Fei, Hsiao-Tung. *China's Gentry: Essays in Rural-Urban Relations*. Chicago: University of Chicago Press, 1953.
 - Arkush, R. David. *Fei Xiaotong and Sociology in Revolutionary China*. Cambridge, MA: Harvard University Press Council on East Asian Studies, 1981.
 - Guldin, Gregory Eliyu. *The Saga of Anthropology in China: From Malinowski to Moscow to Mao*. Armonk, NY: M. E. Sharpe, 1994.
+- Pasternak, Burton. "A Conversation with Fei Xiaotong." *Current Anthropology* 29, no. 4. 1988.

@@ -11,8 +11,7 @@ dates: "USA · 1922-1987"
 edges:
   - rel: "belongs_to", target: "Feminist Anthropology", target_type: "مدرسة"
 related:
-gaps:
-  - "Application to contemporary contexts: not yet covered"
+gaps: []
 ---
 
 # Eleanor Leacock
@@ -43,6 +42,12 @@ In her introduction to Engels's *The Origin of the Family* (1972), Leacock reviv
 
 Leacock's Marxist approach also shaped her view of anthropology itself. She argued that anthropologists must attend to history, to political economy, and to the material conditions of life, and that a purely cultural account of gender — one that treated women's roles as a matter of symbols and meanings — missed the point. Gender inequality, for Leacock, was a matter of who controls resources, whose labour is valued, and who makes decisions, and these are questions of power, not of culture alone.
 
+## Contemporary Applications
+
+Leacock applied historical and political-economic analysis to problems of her own society. In *Teaching and Learning in City Schools* she examined how classroom expectations differed with the class and race of pupils, drawing attention to institutions where explanations of school failure often focused on children and their families. She also edited *The Culture of Poverty: A Critique* (1971), which challenged accounts that traced persistent poverty mainly to attitudes handed down among the poor and directed attention to economic and political conditions. *Women's Work* (1986), edited with Helen Safa, linked changes in the gender division of labour to development in a range of societies.
+
+Her approach suggests questions that can still be asked: who controls resources and the products of labour, who takes part in decisions, and how particular policies or markets have changed these relations. Applied to export manufacturing, domestic and care work, or land titling, it cautions against treating present inequalities as timeless custom. It does not settle any case in advance. Researchers need local historical and ethnographic evidence, and must also attend to race, sexuality, and differences among women, areas where critics found her framework limited.
+
 ## Influence and Critique
 
 Leacock's influence on feminist anthropology was foundational. She provided the historical and materialist framework within which a generation of feminist anthropologists worked, and her insistence that gender relations must be studied in their historical and economic context shaped the field's development. Her work on the Montagnais-Naskapi remains a classic of the anthropology of colonialism, and her edition of Engels was widely used by students of Marxist feminism.
@@ -58,3 +63,5 @@ Her work has also been criticised. Some feminist anthropologists argued that her
 - Leacock, Eleanor Burke. "Interpreting the Origins of Gender Inequality: Conceptual and Historical Problems." *Dialectical Anthropology* 7, no. 4 (1983): 263–284.
 - Leacock, Eleanor Burke, and Helen I. Safa, eds. *Women's Work: Development and the Division of Labor by Gender*. South Hadley, MA: Bergin & Garvey, 1986.
 - Rosaldo, Michelle Zimbalist, and Louise Lamphere, eds. *Woman, Culture, and Society*. Stanford: Stanford University Press, 1974.
+- Leacock, Eleanor Burke, ed. *The Culture of Poverty: A Critique*. New York: Simon and Schuster, 1971.
+- Leacock, Eleanor Burke. *Teaching and Learning in City Schools: A Comparative Study*. New York: Basic Books, 1969.

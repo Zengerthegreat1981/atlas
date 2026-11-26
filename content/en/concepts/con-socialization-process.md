@@ -12,8 +12,7 @@ active_start: 1900
 active_end: مستمر
 edges: []
 related: []
-gaps:
-- Cross-school comparisons: not yet covered
+gaps: []
 sociological_tradition: other
 sociological_paradigm: micro-macro
 ---
@@ -39,6 +38,10 @@ The process can also break down or reverse. Erving Goffman, in *Asylums* (1961),
 
 Attention to the socialization process matters whenever societies try to change behaviour deliberately. Early childhood education, civic instruction, professional training, and the rehabilitation of offenders are all interventions in this process, and their success depends on understanding its stages and mechanisms rather than merely its outcomes. Digital media have added new stages and agents: children now pass through peer cultures formed online, and adults are resocialised by platforms whose norms are set by algorithms as much as by people. The concept also explains failure: when the stages are disrupted — by war, displacement, or institutional breakdown — individuals may be left without the taken-for-granted competence that social life requires, and rebuilding it is a slow, staged task. Refugee resettlement programmes illustrate this clearly: adults who were fully competent members of one society must pass through a new round of secondary socialization, learning a language, a labour market, and unfamiliar bureaucratic routines, while their children move through primary socialization in a culture their parents are still learning. The process is rarely smooth, and its frictions — misunderstandings, loss of status, generational conflict — are themselves sociologically revealing.
 
+## Comparisons across Schools
+
+Schools read the same sequence differently. Functionalists following Parsons emphasise the internalisation of shared values that fits individuals to roles; Dennis Wrong's 1961 critique argued that this produced an oversocialised picture of human beings that underplayed inner conflict and resistance. Psychoanalytic accounts stress that conflict, with internalisation proceeding through identification and repression. Symbolic interactionists, after Mead, see the self as continually shaped in interaction. Social learning theory, associated with Albert Bandura (1977), explains conduct through observation, modelling and expected consequences. Conflict theorists such as Samuel Bowles and Herbert Gintis (1976) argued that schooling prepares pupils for unequal positions at work, and Bourdieu traced class differences to a habitus acquired early in life. William Corsaro's idea of interpretive reproduction holds that children do not simply absorb adult culture but build peer cultures that both draw on it and change it. The accounts differ chiefly over how much consensus, conflict and child agency the process involves.
+
 ## Sources
 
 - Jean Piaget, *The Moral Judgment of the Child*, 1932.
@@ -47,3 +50,8 @@ Attention to the socialization process matters whenever societies try to change 
 - Talcott Parsons and Robert F. Bales, *Family, Socialization and Interaction Process*, 1955.
 - Erving Goffman, *Asylums: Essays on the Social Situation of Mental Patients and Other Inmates*, 1961.
 - Peter L. Berger and Thomas Luckmann, *The Social Construction of Reality*, 1966.
+- Dennis H. Wrong, "The Oversocialized Conception of Man in Modern Sociology," *American Sociological Review*, 1961.
+- Albert Bandura, *Social Learning Theory*, 1977.
+- Samuel Bowles and Herbert Gintis, *Schooling in Capitalist America*, 1976.
+- Pierre Bourdieu, *Outline of a Theory of Practice*, 1977.
+- William A. Corsaro, *The Sociology of Childhood*, 1997.

@@ -17,8 +17,7 @@ cultural_origin: "western"
 edges: []
 related:
 - id: "con-judicial-review", title: "Judicial Review of Constitutionality", type: "مفهوم"
-gaps:
-  - "Detailed treatment of comparative constitutional models: not yet covered."
+gaps: []
 ---
 
 # Constitutional Law Theory
@@ -37,6 +36,14 @@ A field of legal and political philosophy that examines the foundations and stru
 
 Scholars commonly contrast a **formalist** approach to the separation of powers, which insists on strict boundaries between the legislative, executive and judicial functions, with a **functionalist** approach, which accepts a degree of overlap so long as no branch is able to undermine the core role of another. Political scientists add that in practice the discipline among branches also depends on factors outside the constitutional text, such as party competition.
 
+## Comparative Constitutional Models
+
+Systems differ first in how they organize review. In the **American** model, ordinary courts may decide constitutional questions arising in concrete cases, with a supreme court at the apex. The **European** model associated with Hans Kelsen, realized in Austria in 1920, concentrates the power to invalidate statutes in a specialized court. Germany's Federal Constitutional Court hears disputes among public bodies, referrals from judges and individual constitutional complaints. France long relied on review before promulgation by the Constitutional Council and added review of laws already in force through a reform of 2008, effective in 2010.
+
+A third family preserves a larger legislative role. The Canadian Charter of 1982 permits legislatures to override certain rights temporarily; the New Zealand Bill of Rights Act 1990 relies chiefly on interpretation; and the United Kingdom's Human Rights Act 1998 allows declarations of incompatibility that do not invalidate statutes.
+
+Systems also differ in relations between executive and legislature. **Presidential** government separates their electoral mandates and terms; **parliamentary** government makes the executive depend on legislative confidence; **semi-presidential** arrangements, analysed by Maurice Duverger, combine an elected president with a government answerable to parliament. Vertical design varies too, from unitary states to federations, with German federalism relying heavily on state administration of federal law and state representation in the Bundesrat.
+
 ## Limits
 
 - The debate over the limits of judicial review (do unelected judges have the right to nullify a law issued by elected representatives?), a problem Alexander Bickel named the "counter-majoritarian difficulty" in *The Least Dangerous Branch* (1962), has not been resolved theoretically and remains one of the most vital questions in contemporary constitutional theory.
@@ -49,3 +56,4 @@ Scholars commonly contrast a **formalist** approach to the separation of powers,
 - Jackson, Vicki C., and Mark Tushnet. *Comparative Constitutional Law*. 3rd ed. St. Paul, MN: Foundation Press, 2014.
 - Bickel, Alexander M. *The Least Dangerous Branch*. Bobbs-Merrill, 1962.
 - Ginsburg, Tom, and Aziz Z. Huq. *How to Save a Constitutional Democracy*. Chicago: University of Chicago Press, 2018.
+- Duverger, Maurice. 'A New Political System Model: Semi-Presidential Government.' *European Journal of Political Research*, 1980.

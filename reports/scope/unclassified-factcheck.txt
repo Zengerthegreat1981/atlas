@@ -1,0 +1,160 @@
+## g10_full_1
+thk-douglas: DUPLICATE of thk-mary-douglas; corrected career (UCL not LSE; Russell Sage 1977–81, Northwestern 1981–85); PPE not zoology; Lele 1949–50 and 1953, dropped Bushel and population guess; pangolin as anomaly honoured in ritual; dropped founder_of; related ids retargeted to existing slugs
+
+## g10_misc_1
+tec-phenomenological-method: replaced stub with a clinical entry on phenomenological exploration; set a full crumb; removed bracket placeholders, fake sources, and related-concept wikilinks
+thk-émile-durkheim: fact-checked; corrected the phrasing of the Elementary Forms ethnography
+thk-kimberlé-crenshaw: fact-checked life, works, active_end, and crumb; no change
+thk-marilyn-strathern: added missing crumb; related work id checked; light fact-check left the entry otherwise as written
+
+## g10_stub_4
+con-social-capital: replaced stub with full entry; DUPLICATE of con-econ-anthropology-6; related limited to existing slugs
+
+## c2_anthro
+scl-applied-anthropology: placeholder replaced with full entry; related and gaps set. DUPLICATE of sch-applied-anthropology-development (also sch-applied-anthropology-expanded)
+scl-digital-anthropology: placeholder replaced with full entry; related set. DUPLICATE of sch-digital-anthropology
+scl-linguistic-anthropology: placeholder replaced with full entry; related set; both listed gaps covered. DUPLICATE of sch-linguistic-anthropology-expanded
+scl-queer-anthropology: placeholder replaced with full entry; related set. DUPLICATE of sch-queer-anthropology
+thk-gregory-bateson: placeholder replaced with full entry; related set. DUPLICATE of thk-gbateson
+wrk-balinese-cockfight: placeholder replaced with full entry; related set. DUPLICATE of stu-geertz-balinese-cockfight
+wrk-purity-danger: placeholder replaced with full entry; related set; listed gap covered. DUPLICATE of wrk-purity-and-danger-douglas
+scl-disability-anthropology: placeholder replaced with full entry; related set. DUPLICATE of con-disability-anthropology
+scl-medical-anthropology: placeholder replaced with full entry; related set; both listed gaps covered. DUPLICATE of sch-medical-anthropology (also br-medical-anthropology-subfield)
+scl-sensory-anthropology: placeholder replaced with full entry; related set. DUPLICATE of con-sensory-anthropology
+thk-zora-hurston: placeholder replaced with full entry; related set. DUPLICATE of thk-zora-neale-hurston
+wrk-mind-primitive: placeholder replaced with full entry; related set; listed gap covered. DUPLICATE of wrk-mind-of-primitive-man-boas
+wrk-rites-passage: placeholder replaced with full entry; related set; no existing page on the book (concept pages con-rites-passage and con-rite-of-passage overlap in subject)
+scl-economic-anthropology: placeholder replaced with full entry; related set. DUPLICATE of sch-economic-anthropology-expanded (also br-economic-anthropology-subfield)
+wrk-african-systems: placeholder replaced with full entry; related set. DUPLICATE of wrk-african-political-systems-fortes-evans-pritchard (also stu-african-political-systems)
+scl-political-anthropology: placeholder replaced with full entry; related set. DUPLICATE of br-political-anthropology-subfield
+scl-urban-anthropology: placeholder replaced with full entry; related set; both listed gaps covered. DUPLICATE of sch-urban-anthropology-expanded (also br-urban-anthropology-subfield)
+wrk-politics-anthropology: placeholder replaced with full entry on Balandier's book; dates changed from '1970 · Cohen & Eames' (no such work could be confirmed) to '1967; English 1970 · Balandier'; title disambiguated; related set
+wrk-schism-continuity: placeholder replaced with full entry; related set. DUPLICATE of stu-turner-schism-continuity
+scl-development-anthropology: placeholder replaced with full entry; related set. DUPLICATE of sch-applied-anthropology-development (partial overlap with dbt-development-anthropology-critique)
+scl-feminist-anthropology: placeholder replaced with full entry; related set; both listed gaps covered. DUPLICATE of sch-feminist-anthropology
+wrk-psychological-anthropology: placeholder replaced with full entry on Hsu's edited volume; dates show first and revised editions; title disambiguated; related set
+scl-psychological-anthropology: placeholder replaced with full entry; related set. DUPLICATE of sch-psychological-anthropology
+thk-ernest-becker: placeholder replaced with full entry; related set. DUPLICATE of thk-becker
+wrk-argonauts: placeholder replaced with full entry; related set; listed gap covered. DUPLICATE of wrk-argonauts-western-pacific-malinowski (also stu-argonauts-western-pacific)
+wrk-structure-function-primitive: placeholder replaced with full entry; related set. DUPLICATE of wrk-structure-function-primitive-society-radcliffe-brown
+thk-gluckman: fact-checked; body rewritten to remove errors (family origin, anatomy study, LSE/Malinowski supervision, Manchester dates, Ncwala assigned to Zulu, Kuomboka analysis, ordeal theory, source details); crumb and edge corrected; unresolved related ids replaced. DUPLICATE of thk-max-gluckman
+thk-ortner: fact-checked; body rewritten to remove errors (degrees and appointments incl. Princeton, nonexistent New Jersey Turnpike book, invented ritual and concept claims, source details); crumb and edge corrected; unresolved related ids replaced. DUPLICATE of thk-sherry-ortner
+wrk-coming-age: fact-checked; body rewritten to correct errors and overclaims (residence and sample in fieldwork, 'first women' claim); frontmatter sources moved to ## Sources and malformed Holmes entry fixed; listed gaps covered; related ids fixed; crumb standardised. DUPLICATE of wrk-coming-of-age-samoa-mead
+wrk-nuer: fact-checked; body rewritten to correct errors (fieldwork duration, unsupported Levi-Strauss critique and lineage-spirit claims, unrelated Sanusi framing); frontmatter sources moved to ## Sources; listed gaps covered; related ids fixed; crumb standardised. DUPLICATE of stu-evans-pritchard-the-nuer (also stu-nuer-evans-pritchard)
+wrk-political-systems: fact-checked; body rewritten to correct errors (fieldwork dates 1938-49, series number, gumlao marriage claim, nat described as possession); irrelevant Needham source removed; frontmatter sources moved to ## Sources; listed gaps covered; related ids fixed; crumb standardised. DUPLICATE of stu-leach-political-systems-highlands-burma
+thk-geertz: fact-checked; body rewritten to correct errors (education dates, fieldwork and posts, Asad citation and colleague claim, wrong Ortner source, Works and Lives subjects, invented Morocco/Bali claims); crumb and edge corrected; related ids fixed. DUPLICATE of thk-clifford-geertz
+thk-myerhoff: fact-checked; body rewritten to remove errors (birthplace, degree year, age at death, false National Book Award, invented works, wrong film credit and publisher); crumb and edge corrected; unresolved related ids replaced. DUPLICATE of thk-barbara-myerhoff
+thk-turner: fact-checked; body rewritten to correct errors (studies and posts, Ritual Process date 1967 to 1969, symbol analysis scheme, patrilocal residence, Ashley volume); crumb and edge corrected; related ids fixed. DUPLICATE of thk-victor-turner
+wrk-interpretation-cultures: fact-checked; body rewritten to correct errors (invented essay on Japanese names, caste reading of cockfight, publication context); Asad citation fixed; frontmatter sources moved to ## Sources; listed gaps removed after covering power, authority and women's voices; related ids fixed; crumb standardised. DUPLICATE of wrk-interpretation-of-cultures-geertz (also stu-interpretation-of-cultures-geertz)
+wrk-patterns-culture: fact-checked; body rewritten to correct errors (nonexistent 'pathos' term, Freudian framing, 'Margaret Bateson', overstated claims); irrelevant Stocking source removed; frontmatter sources moved to ## Sources; listed gaps covered; related ids fixed; crumb standardised. DUPLICATE of wrk-patterns-of-culture-benedict (also wrk-patterns-of-culture)
+
+## c2_soc
+br-aging-gerontology: OK
+br-conversation-analysis: OK
+br-feminist-sociology: OK
+br-political-sociology: OK
+con-cultural-relativism: OK
+dbt-authenticity-vs-constructedness: OK
+stu-sidewalk-duneier: fieldwork start corrected 1992 to 1994 (body and active_start); unsupported 1996 end removed from body, active_end set to 1999
+con-agency: OK
+sch-durkheimian-functionalism-english: OK
+sch-simmelian-formal-english: OK
+thk-arlie-russell-hochschild: OK
+thk-erving-goffman: OK
+thk-georg-simmel: OK
+thk-herbert-spencer: OK
+thk-james-s-coleman: OK
+thk-max-weber: OK
+thk-ralf-dahrendorf: OK
+thk-patricia-hill-collins: OK
+wrk-orientalism: OK
+wrk-street-corner-society: OK
+wrk-the-presentation-of-self-in-everyday-life: OK
+br-black-feminist-thought: OK
+br-cyber-sociology: OK
+br-institutional-sociology: OK
+br-public-sociology: OK
+con-habitus: OK
+dbt-determinism-vs-voluntarism: OK
+stu-street-corner-society: OK
+con-weak-ties-embeddedness-granovetter: facts OK; replaced literal backslash-n sequences with real line breaks (restores Influence heading)
+sch-marxist-classical-sociology-english: OK
+thk-ali-al-wardi: OK
+thk-auguste-comte: OK
+thk-florian-znaniecki: OK
+thk-harriet-martineau: OK
+thk-howard-s-becker: OK
+thk-judith-butler: OK
+thk-michel-foucault: OK
+thk-talcott-parsons: OK
+wrk-fighting-back: OK
+wrk-outline-of-a-theory-of-practice: OK
+wrk-the-protestant-ethic-and-the-spirit-of-capitalism: OK
+wrk-the-second-sex: OK
+br-consumption-sociology: OK
+br-economic-sociology: OK
+br-organizational-sociology: OK
+con-content-analysis: OK
+con-norm: OK
+dbt-modernization-vs-dependency: OK
+sch-comtean-positivism-english: OK
+sch-parsonian-agil-english: OK
+thk-anselm-l-strauss: OK
+thk-bell-hooks: OK
+thk-frantz-fanon: OK
+thk-herbert-blumer: OK
+thk-immanuel-wallerstein: OK
+thk-karl-marx: OK
+thk-pierre-bourdieu: OK
+thk-robert-k-merton: OK
+wrk-liquid-modernity: OK
+wrk-patterns-of-culture: OK
+wrk-the-sociological-imagination: OK
+wrk-the-social-system: OK
+
+## second check (c3)
+scl-applied-anthropology: OK
+scl-digital-anthropology: OK
+scl-linguistic-anthropology: OK
+scl-queer-anthropology: OK
+thk-gregory-bateson: OK
+wrk-balinese-cockfight: OK
+wrk-purity-danger: OK
+scl-disability-anthropology: OK
+scl-medical-anthropology: OK
+scl-sensory-anthropology: OK
+thk-zora-hurston: OK
+wrk-mind-primitive: OK
+wrk-rites-passage: OK
+scl-economic-anthropology: OK
+scl-political-anthropology: OK
+scl-urban-anthropology: OK
+wrk-african-systems: OK
+wrk-schism-continuity: OK
+scl-development-anthropology: OK
+scl-feminist-anthropology: OK
+wrk-politics-anthropology: OK (Balandier attribution confirmed: French 1967, English 1970 trans. Sheridan Smith, Pantheon catalogue record; web search found no 1970 work by Cohen & Eames)
+scl-psychological-anthropology: OK
+thk-ernest-becker: OK
+wrk-argonauts: OK
+wrk-psychological-anthropology: OK
+wrk-structure-function-primitive: OK
+thk-gluckman: OK
+thk-ortner: OK
+wrk-coming-age: OK
+wrk-nuer: OK
+wrk-political-systems: fixed Maran La Raw criticism (gumsa/gumlao claim not supported; replaced with abstract's points on translation of political terms and Kachin as passive subjects)
+thk-geertz: OK
+thk-myerhoff: fixed protest march occasion (member was fatally injured, not merely injured)
+thk-turner: OK
+wrk-interpretation-cultures: OK
+wrk-patterns-culture: OK
+con-bilateral: fixed cousin example (maternal and paternal cousins are usually unrelated by descent, not distant kin)
+con-rites-passage: fixed attribution (van Gennep already used 'liminal'; Turner developed liminality)
+con-shaman: OK
+con-social-capital: OK
+scl-british-functionalism: OK
+scl-cultural-relativism: OK
+thk-douglas: removed unconfirmed exact doctorate year (sources conflict); professorship 1971 changed to personal chair around 1970 (Fardon, British Academy memoir)
+tec-phenomenological-method: OK
+stu-sidewalk-duneier: fieldwork start 1994 kept (UW-Madison news item dates his interest in the vendors to 1994; page unchanged; other coverage gives inconsistent durations of five or seven years)

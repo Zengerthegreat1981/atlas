@@ -20,7 +20,6 @@ related:
 - id: "thk-the-bab", title: "The Báb (Ali Muhammad Shirazi)", type: "مفكر"
 gaps:
   - "Details of his professional and academic career: not yet covered"
-  - "His edited volumes in the series on Bábí and Bahá'í history: not yet covered"
 ---
 
 # Moojan Momen
@@ -39,6 +38,10 @@ His best-known historical work is a documentary survey published in 1981, which 
 
 Alongside his foundational historical work, Momen produced broader reference works such as *A Short Introduction to the Bahá'í Faith* (1997) and *The Phenomenon of Religion: A Thematic Approach* (1999). His *An Introduction to Shi'i Islam* (1985) is a standard English-language survey of Twelver Shi'ism, the background from which the Bábí movement arose.
 
+## Edited Volumes on Bábí and Bahá'í History
+
+Momen also contributed as an editor to the series published by Kalimát Press in Los Angeles, begun under the title *Studies in Bábí and Bahá'í History*. He edited its first volume (1982), a collection of research by several authors that helped give the newer academic study of these movements a regular outlet. He later edited *Studies in Honor of the Late Hasan M. Balyuzi* (1988), the fifth volume, issued under the series title *Studies in the Bábí and Bahá'í Religions*, in tribute to a Bahá'í historian. Such collective volumes complement his own documentary work by bringing specialized studies of particular events, communities and texts into print.
+
 ## Distinctive Method
 
 Momen consistently distinguishes between what the official Bahá'í sources say about themselves and what the independent documents contemporary with the events reveal. This allows a critical historical examination that avoids both the trap of the internal promotional narrative and the trap of the hostile polemical rejection that dominated some earlier Shi'i and orientalist writings on the Bábí movement. This methodological distinction is what gives his work an academic credibility that goes beyond his personal denominational position.
@@ -56,3 +59,5 @@ In his general works Momen describes the development of the Bahá'í administrat
 - Momen, M. (1981). *The Bábí and Bahá'í Religions, 1844–1944: Some Contemporary Western Accounts*. George Ronald.
 - Momen, M. (1997). *A Short Introduction to the Bahá'í Faith*. Oneworld Publications.
 - Momen, M. (1985). *An Introduction to Shi'i Islam*. Yale University Press.
+- Momen, M., ed. (1982). *Studies in Bábí and Bahá'í History*, Vol. 1. Kalimát Press.
+- Momen, M., ed. (1988). *Studies in Honor of the Late Hasan M. Balyuzi* (Studies in the Bábí and Bahá'í Religions, Vol. 5). Kalimát Press.

@@ -15,8 +15,7 @@ related:
 - id: "thk-bentham", title: "Jeremy Bentham", type: "مفكر"
 - id: "thk-becker", title: "Gary Becker", type: "مفكر"
 - id: "sch-usul-al-fiqh-legal-theory", title: "Usul al-Fiqh", type: "مدرسة"
-gaps:
-  - "Detailed treatment of criminal procedure and of non-Western penal traditions: not yet covered"
+gaps: []
 ---
 
 # Criminal Law Theory
@@ -47,6 +46,12 @@ Among the most precise theoretical debates in this field is the classification o
 
 Another branch of criminal law theory raises the question of the **limits of legitimate criminalization**: may the state criminalize acts that do not directly harm others, such as the use of certain substances or private moral conduct? **John Stuart Mill** defended the "harm principle," confining the state's right to criminalize to conduct that actually harms others. **Patrick Devlin** replied that society has a right to protect its shared morality even without direct harm to a third party. The Hart-Devlin debate of the late 1950s and early 1960s, in which Hart took up Mill's side, still frames contemporary arguments about criminalizing acts such as gambling, drug use and certain personal behaviors.
 
+## Procedure and Non-Western Penal Traditions
+
+Procedure raises its own theoretical questions about how guilt may be established. **Adversarial** systems rely on contest between prosecution and defence before a comparatively passive adjudicator, while **inquisitorial** systems give judges or magistrates a larger role in investigation; most modern systems mix elements. Herbert Packer contrasted a crime control model, which prizes efficient repression of offending, with a due process model, which stresses safeguards against error and abuse. Central doctrines include the presumption of innocence, the privilege against self-incrimination, access to counsel and limits on unlawfully obtained evidence.
+
+Penal thought outside the modern West is varied. In China, Legalist writers defended publicly known and severe penalties as instruments of order, whereas Confucian writers preferred moral instruction and ritual; the Tang Code of the seventh century graded penalties partly by status and family relationship and influenced Japan, Korea and Vietnam. Classical Indian texts such as the *Manusmriti* and the *Arthashastra* discuss *danda*, the ruler's power to punish, with penalties often varying by social rank. Many African and Indigenous customary orders have emphasized compensation and settlement among kin groups, though they also knew severe sanctions, and modern descriptions should avoid treating them as uniformly restorative.
+
 ## Sources
 
 - Beccaria, Cesare. *On Crimes and Punishments*. Edited by Richard Bellamy, translated by Richard Davies, Cambridge University Press, 1995 (originally 1764).
@@ -54,3 +59,5 @@ Another branch of criminal law theory raises the question of the **limits of leg
 - Foucault, Michel. *Discipline and Punish: The Birth of the Prison*. 1975 (French original *Surveiller et punir*).
 - Mill, John Stuart. *On Liberty*. 1859.
 - Becker, Gary S. "Crime and Punishment: An Economic Approach." *Journal of Political Economy*, vol. 76, no. 2, 1968, pp. 169–217.
+- Packer, Herbert L. *The Limits of the Criminal Sanction*. Stanford University Press, 1968.
+- MacCormack, Geoffrey. *The Spirit of Traditional Chinese Law*. University of Georgia Press, 1996.

@@ -26,9 +26,7 @@ related:
 - id: "dbt-defining-religion-as-analytic-category", title: "The Question of 'Religion' as a Category That Can Be Defined at All", type: "جدل"
 - id: "dbt-comparativism-vs-contextualism-eliade-smith", title: "Comparativism vs. Contextualism: Eliade, Smith and the Method of Comparison", type: "جدل"
 - id: "thk-mircea-eliade", title: "Mircea Eliade", type: "مفكر"
-gaps:
-  - "Remaining chapters of the book beyond the opening statement and the Jonestown essay: not yet covered"
-  - "Responses from defenders of religion as an analytic category: not yet covered"
+gaps: []
 ---
 
 # Imagining Religion: From Babylon to Jonestown
@@ -63,9 +61,20 @@ Commentators observe that Smith's literary style contributed as much to the brea
 
 Jonathan Z. Smith (1938–2017) is known for a distinctive writing style that blends precise analysis with irony. He taught for decades at the University of Chicago and did not conduct anthropological fieldwork himself. He relied instead on a deep critical reading of the works of other researchers and ethnographers. This made him a central figure in critique of the field from within.
 
+## The Other Essays
+
+The remaining chapters apply the same programme to varied material. "Fences and Neighbors" treats early Judaism, questioning accounts built on a single essence and proposing a classification based on several characteristics that need not all be present together, with circumcision as a test case. "In Comparison a Magic Dwells" asks what rules could make comparison more than an impression of resemblance. "Sacred Persistence" redescribes canon as a deliberately closed list that then requires an interpreter whose ingenuity extends it to new situations. "A Pearl of Great Price and a Cargo of Yams" reads the Babylonian New Year festival alongside the Ceramese story of Hainuwele, treating each as thought provoked by a historical incongruity, such as foreign rule or foreign goods. "The Bare Facts of Ritual" uses northern bear-hunting rites to argue that ritual presents how things ought to be, in conscious tension with how they ordinarily are. "The Unknown God" examines the relation of myth to history.
+
+## Defences of the Category
+
+Not all scholars accept that the constructed character of "religion" disqualifies it as an analytic tool. Martin Riesebrodt, in *The Promise of Salvation* (German 2007; English 2010), defended a general theory of religion centred on practices that address superhuman powers, arguing that religious actors themselves recognised one another as engaged in comparable activities well before modern Western scholarship. Kevin Schilbrack, in "Religions: Are There Any?" (2010) and *Philosophy and the Study of Religions* (2014), argued from a critical realist position that a socially constructed category can still pick out real social structures, which exist whether or not a scholar names them. On this view the history of the term calls for careful and revisable definition, not abandonment.
+
 ## Sources
 
 - Smith, J. Z. (1982). *Imagining Religion: From Babylon to Jonestown*. University of Chicago Press.
 - Smith, J. Z. (1982). "In Comparison a Magic Dwells." In *Imagining Religion*, pp. 19–35.
 - Asad, Talal. *Genealogies of Religion: Discipline and Reasons of Power in Christianity and Islam*. Johns Hopkins University Press, 1993.
 - Smith, Jonathan Z. *Drudgery Divine: On the Comparison of Early Christianities and the Religions of Late Antiquity*. University of Chicago Press, 1990.
+- Riesebrodt, Martin. *The Promise of Salvation: A Theory of Religion*. University of Chicago Press, 2010.
+- Schilbrack, Kevin. "Religions: Are There Any?" *Journal of the American Academy of Religion*, 2010.
+- Schilbrack, Kevin. *Philosophy and the Study of Religions: A Manifesto*. Wiley-Blackwell, 2014.

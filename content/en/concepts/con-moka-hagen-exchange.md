@@ -18,8 +18,7 @@ related:
 - id: "thk-marilyn-strathern", title: "Marilyn Strathern", type: "مفكر"
 - id: "con-kula-exchange", title: "Kula Exchange", type: "مفهوم"
 - id: "wrk-gender-of-the-gift-strathern", title: "The Gender of the Gift", type: "عمل / كتاب"
-gaps:
-  - "Types of moka and associated exchange forms: not yet covered"
+gaps: []
 ---
 
 # Moka Exchange
@@ -55,6 +54,12 @@ Marilyn Strathern's work in Mount Hagen (notably *Women in Between*, 1972) and A
 - The moka **could not happen without women's labor**, yet moka transactions are conducted publicly by men, so women's contribution is easily overlooked
 - Women are not simply passive: they influence which exchanges men can undertake, and the question of how much agency they have in moka is a recurring feminist debate
 
+## Types of Moka and Related Exchanges
+
+Moka transactions differ in scale and occasion. Some pass between individual exchange partners, often relatives by marriage, while others are large public displays in which the men of a clan or allied clans give together at a ceremonial ground, each to his own partners. The chief goods have been live pigs and pearl shells, and later cash, cattle, and vehicles. A sequence typically begins with smaller initiatory or soliciting gifts, which prompt a larger main gift; in the strict sense it is the increment beyond what is owed that makes a transaction moka. Andrew Strathern described how groups link such gifts into chains, the "ropes" of moka, along which wealth is passed.
+
+Moka also connects with other payments. Compensation for deaths in warfare, owed to enemies or to allies who lost men, could open a continuing series of reciprocal moka. Bridewealth and other payments between affines and maternal kin draw on the same goods and relationships, though they are not all moka. Farther west, the Enga *tee*, studied by Mervyn Meggitt and others, is a comparable system of chained ceremonial exchange. The film *Ongka's Big Moka*, made in the 1970s, follows one Kawelka big-man's efforts to assemble a large gift.
+
 ## Strathern's Critique of Western Individualism
 
 Marilyn Strathern used the study of the moka in *The Gender of the Gift* (1988) to offer a broader theoretical critique of the Western concept of the autonomous "individual." In its place she drew on the idea of the **"dividual"** person (a term introduced by McKim Marriott in South Asian studies) to describe Melanesian personhood: a person constituted by multiple relationships with others (such as ancestors and relatives by marriage), with these relationships made visible and activated through exchanges such as moka.
@@ -70,3 +75,4 @@ The study of the moka, alongside the kula and the potlatch, has become one of th
 - Strathern, Marilyn. *Women in Between: Female Roles in a Male World, Mount Hagen, New Guinea*. Academic Press, 1972.
 - Strathern, Andrew, and Marilyn Strathern. *Self-Decoration in Mount Hagen*. Duckworth, 1971.
 - Malinowski, Bronislaw. *Argonauts of the Western Pacific*. Routledge, 1922.
+- Meggitt, Mervyn J. "'Pigs Are Our Hearts!' The Te Exchange Cycle among the Mae Enga of New Guinea." *Oceania* 44, no. 3. 1974.

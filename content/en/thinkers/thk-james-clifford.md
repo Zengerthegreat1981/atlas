@@ -15,8 +15,7 @@ edges:
 related:
   - id: "thk-talal-asad", title: "Talal Asad", type: "مفكر"
   - id: "thk-george-marcus", title: "George Marcus", type: "مفكر"
-gaps:
-  - "Multimedia ethnography: not yet covered"
+gaps: []
 ---
 
 # James Clifford: Ethnographic Authority and the Politics of Representation
@@ -77,6 +76,12 @@ However, Clifford's work has proven extraordinarily influential. The reflexive t
 
 Some critiques have focused on Clifford's emphasis on textuality: while it's important to analyze how ethnographies are written, this focus might overshadow questions about actual social relationships and community well-being. Others note that reflexivity about representation can become performative—a way of appearing ethically conscious without actually changing power dynamics in fieldwork relationships.
 
+## Multimedia Ethnography
+
+Clifford's attention to collage, juxtaposition, and multiple voices, for example in his discussion of "ethnographic surrealism" in *The Predicament of Culture*, bears on ethnography that goes beyond printed prose. *Routes* itself mixes scholarly essays with travel writing, personal reflection, and discussion of museum exhibits. His questions about authority apply equally to photographs, film, sound, and interactive media: who selects and arranges them, whose voice frames them, and who may reuse them. These are implications of his arguments; he was not primarily a theorist or maker of digital media.
+
+Anthropologists have developed such forms directly. *Yanomamö Interactive: The Ax Fight* (1997), by Peter Biella, Napoleon Chagnon, and Gary Seaman, linked film footage on CD-ROM with commentary, genealogical information, and analysis, allowing users to move among them. Sarah Pink's *Doing Visual Ethnography* (first published 2001) discussed images and digital media as parts of research and representation. Linking materials can expose how an interpretation was assembled and open more than one route through it, but it does not by itself share authority. Design choices still guide users, and consent and community control become pressing when recordings circulate easily.
+
 ## Postcolonial Positioning and Indigenous Knowledge Systems
 
 Clifford's work on reflexivity and representation provided intellectual resources for postcolonial and indigenous critiques of anthropology. By demonstrating that ethnographic authority is constructed rather than natural, his work supported indigenous claims that anthropological representations should be questioned and contested. His later work directly engaged with indigenous scholarship, repatriation movements, and indigenous claims on ethnographic and museum archives.
@@ -106,3 +111,5 @@ However, questions remain about how reflexivity translates into practice. Some a
 - Clifford, James. *Returns: Becoming Indigenous in the Twenty-First Century*. Harvard University Press, 2013.
 - Clifford, James. *Person and Myth: Maurice Leenhardt in the Melanesian World*. University of California Press, 1982.
 - Scholte, Bob. "Toward a Reflexive and Critical Anthropology." In *Reinventing Anthropology*, edited by Dell Hymes. Pantheon Books, 1972.
+- Biella, Peter, Napoleon A. Chagnon, and Gary Seaman. *Yanomamö Interactive: The Ax Fight*. Harcourt Brace, 1997.
+- Pink, Sarah. *Doing Visual Ethnography*. Sage, 2001.

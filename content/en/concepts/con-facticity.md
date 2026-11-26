@@ -20,8 +20,7 @@ related:
 - id: "con-bad-faith", title: "Bad Faith", type: "مفهوم"
 - id: "con-authenticity", title: "Authenticity", type: "مفهوم"
 - id: "sch-existential-therapy", title: "Existential Therapy", type: "مدرسة"
-gaps:
-  - "Uses of facticity in liberation psychology and postcolonial psychology: not yet covered."
+gaps: []
 ---
 # Facticity: The Given Reality That Cannot Be Changed
 
@@ -35,7 +34,13 @@ Sartre uses facticity to resist determinism without denying the weight of circum
 
 ## The Psychological and Therapeutic Meaning
 
-Existential therapists draw on this vocabulary loosely. Irvin Yalom speaks of the "givens of existence" (death, freedom, isolation, meaninglessness), and Rollo May, in *Freedom and Destiny* (1981), uses "destiny" (not in a fatalistic sense) for the limits and givens of a person's life, which freedom must work with. In this tradition, therapy does not aim to change the facts of a client's body, past or circumstances, but to help the client to change their relation to them. This is a conceptual tradition and not a standardized treatment protocol. Some writers have also taken up facticity and situation in discussions of race and colonial history (for example, in debates around Frantz Fanon's reading of Sartre), but these applications are contested and lie outside the core concept.
+Existential therapists draw on this vocabulary loosely. Irvin Yalom speaks of the "givens of existence" (death, freedom, isolation, meaninglessness), and Rollo May, in *Freedom and Destiny* (1981), uses "destiny" (not in a fatalistic sense) for the limits and givens of a person's life, which freedom must work with. In this tradition, therapy does not aim to change the facts of a client's body, past or circumstances, but to help the client to change their relation to them. This is a conceptual tradition and not a standardized treatment protocol. Some writers have also taken up facticity and situation in discussions of race and colonial history (for example, in debates around Frantz Fanon's reading of Sartre), but these applications, outlined below, are contested and lie outside the core concept.
+
+## Liberation and Postcolonial Psychology
+
+Frantz Fanon's *Black Skin, White Masks* (1952) supplies the central postcolonial test. Its fifth chapter, on the lived experience of the Black man (rendered in an early English translation as "The Fact of Blackness"), describes a body whose meaning has been fixed in advance by the white gaze and colonial history. Fanon argues that Sartre's account does not capture this: such a given is historically imposed, not simply one more feature of the human condition. Lewis Gordon's *Bad Faith and Antiblack Racism* (1995) later used Sartrean categories to analyse racism.
+
+Liberation thought raises a related problem. Paulo Freire's *Pedagogy of the Oppressed* (English 1970) speaks of "limit-situations", which can appear as unalterable until critical reflection shows them to be historical and open to action. Ignacio Martín-Baró, a founder of liberation psychology in El Salvador, analysed Latin American fatalism as a response to oppressive social conditions and an ideology that helps sustain them, not a fixed trait of character. Reading these works through facticity is interpretive, since they do not all use the term. Their shared lesson is to ask which givens cannot be changed and which only appear so.
 
 ## Distinction from Neighboring Concepts
 
@@ -56,3 +61,7 @@ Facticity is one of several philosophical concepts that existential therapy (May
 - Martin Heidegger, *Sein und Zeit*, 1927 (§§29, 31, 38).
 - Rollo May, *Freedom and Destiny*, New York: Norton, 1981.
 - Irvin D. Yalom, *Existential Psychotherapy*, New York: Basic Books, 1980.
+- Frantz Fanon, *Peau noire, masques blancs*, Paris: Seuil, 1952 (English: *Black Skin, White Masks*).
+- Lewis R. Gordon, *Bad Faith and Antiblack Racism*, Atlantic Highlands: Humanities Press, 1995.
+- Paulo Freire, *Pedagogy of the Oppressed*, New York: Herder and Herder, 1970.
+- Ignacio Martín-Baró, *Writings for a Liberation Psychology*, ed. Adrianne Aron and Shawn Corne, Cambridge, MA: Harvard University Press, 1994.

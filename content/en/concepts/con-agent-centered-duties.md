@@ -12,8 +12,7 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "Deontological Ethics", target_type: "مدرسة"
 related: []
-gaps:
-  - "Primary sources beyond the listed works: not yet covered"
+gaps: []
 ---
 
 # Agent-Centered Duties
@@ -34,6 +33,10 @@ In modern Western philosophy, Samuel Scheffler articulated this distinction prec
 
 Utilitarians object that this distinction justifies a disguised moral egoism: why should an agent be permitted to favor their own child over a stranger in greater need? Proponents of this trend reply that special relationships (such as fatherhood and friendship) are themselves a source of moral value, not an obstacle to it. An illustrative example: a doctor refuses to kill an innocent patient to harvest their organs and save five other patients, even though pure utilitarian calculation might favor the act. Here the agent-centered restriction appears clearly, since it forbids the doctor personally from being a killer, regardless of the overall outcome.
 
+## Further Primary Texts
+
+An important earlier source is W. D. Ross's *The Right and the Good* (1930), which argued against ideal utilitarianism that duties of fidelity, reparation, and gratitude arise from particular relations to particular people and cannot be reduced to a single duty to produce good. In the later analytic debate, one puzzle is why it should be forbidden to violate a restriction even to prevent more violations of the same kind. Philippa Foot's "Utilitarianism and the Virtues" (1985) traced the puzzle to a questionable idea of an overall best state of affairs outside the context of the virtues, and Samuel Scheffler's "Agent-Centred Restrictions, Rationality, and the Virtues" (1985) replied that the puzzle remains, because restrictions appear to conflict with a general conception of rationality. Stephen Darwall's "Agent-Centered Restrictions from the Inside Out" (1986) sought a rationale for restrictions in the agent's integrity and character. Warren Quinn (1989) reformulated the doctrine of double effect around the way victims are used, and F. M. Kamm's *Morality, Mortality*, volume 2 (1996), grounded constraints in the inviolability of persons.
+
 ## Sources
 
 - Scheffler, Samuel. *The Rejection of Consequentialism*. Oxford University Press, 1982.
@@ -41,3 +44,9 @@ Utilitarians object that this distinction justifies a disguised moral egoism: wh
 - Parfit, Derek. *Reasons and Persons*. Oxford University Press, 1984.
 - Nagel, Thomas. *The Possibility of Altruism*. Oxford University Press, 1970.
 - Williams, Bernard. *Ethics and the Limits of Philosophy*. Harvard University Press, 1985.
+- Ross, W. D. *The Right and the Good*. Oxford University Press, 1930.
+- Scheffler, Samuel. "Agent-Centred Restrictions, Rationality, and the Virtues." *Mind* 94, 1985.
+- Foot, Philippa. "Utilitarianism and the Virtues." *Mind* 94, 1985.
+- Darwall, Stephen. "Agent-Centered Restrictions from the Inside Out." *Philosophical Studies* 50, 1986.
+- Quinn, Warren. "Actions, Intentions, and Consequences: The Doctrine of Double Effect." *Philosophy & Public Affairs* 18, 1989.
+- Kamm, F. M. *Morality, Mortality*, vol. 2: *Rights, Duties, and Status*. Oxford University Press, 1996.

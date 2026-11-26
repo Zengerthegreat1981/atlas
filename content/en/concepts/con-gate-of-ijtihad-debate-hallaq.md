@@ -15,8 +15,7 @@ edges:
 related:
 - id: "thk-wael-hallaq", title: "Wael B. Hallaq", type: "مفكر"
 - id: "sch-usul-al-fiqh-legal-theory", title: "Usul al-Fiqh as Legal Theory", type: "مدرسة"
-gaps:
-  - "Later scholarly responses to and refinements of Hallaq's thesis: not yet covered"
+gaps: []
 ---
 # The "Closing of the Gate of Ijtihad" Debate
 
@@ -34,8 +33,19 @@ Hallaq challenges this thesis by examining usul and juristic texts from later ce
 
 The debate goes beyond its specific historical question to raise a broader methodological lesson in the comparative study of legal theory. Entrenched narratives about the "rigidity" of non-Western legal traditions, sometimes paired with a portrayal of Western law as perpetually evolving and vital, may reflect **preconceived assumptions more than textual evidence**. This is a methodological warning that applies to any approach to studying an "other" legal tradition from an external perspective.
 
+## Later Responses and Refinements
+
+Hallaq's article became highly influential, and later work shifted attention from whether a gate closed to how legal authority operated. Sherman Jackson, in *Islamic Law and the State* (1996) and related essays, stressed that *taqlid* had become a dominant regime of authority in which innovation proceeded through the interpretation and extension of school doctrine. Mohammad Fadel's article of 1996 on the social logic of *taqlid* and the abridged legal manual (*mukhtasar*) argued that adherence to settled doctrine served predictability and restrained judicial discretion, and so should not be read simply as decline.
+
+Hallaq developed a related line in *Authority, Continuity and Change in Islamic Law* (2001), examining how *mujtahids*, jurists working within a school, authors and muftis together allowed doctrine to change, and treating *taqlid* as a constructive activity. Others qualified the picture: Frank Vogel, writing on Saudi Arabia, examined how the claim of closure and its rejection bear on the practice of judges, and Ahmed El Shamsy (2008) examined the tension in early Shafi'i thought between al-Shafi'i's rejection of *taqlid* and the practical advantages of following earlier legal positions. Scholars still differ over how far independent reasoning narrowed in practice.
+
 ## Sources
 
 - Hallaq, Wael B. "Was the Gate of Ijtihad Closed?" *International Journal of Middle East Studies*, vol. 16, no. 1, 1984, pp. 3-41.
 - Schacht, Joseph. *An Introduction to Islamic Law*. Oxford: Clarendon Press, 1964.
 - Hallaq, Wael B. *A History of Islamic Legal Theories: An Introduction to Sunni Usul al-Fiqh*. Cambridge University Press, 1997.
+- Fadel, Mohammad. "The Social Logic of Taqlid and the Rise of the Mukhtasar." *Islamic Law and Society*, 1996.
+- Jackson, Sherman A. *Islamic Law and the State: The Constitutional Jurisprudence of Shihab al-Din al-Qarafi*. Brill, 1996.
+- Vogel, Frank E. *Islamic Law and Legal System: Studies of Saudi Arabia*. Brill, 2000.
+- Hallaq, Wael B. *Authority, Continuity and Change in Islamic Law*. Cambridge University Press, 2001.
+- El Shamsy, Ahmed. "Rethinking Taqlid in the Early Shafi'i School." *Journal of the American Oriental Society*, 2008.

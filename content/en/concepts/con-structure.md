@@ -12,9 +12,7 @@ active_start: 1900
 active_end: مستمر
 edges: []
 related: []
-gaps:
-- Structure and agency in digital societies: not yet covered
-- Structure in non-Western social theory: not yet covered
+gaps: []
 sociological_tradition: other
 sociological_paradigm: micro-macro
 ---
@@ -42,6 +40,14 @@ Structure is visible in the persistence of inequality. Two children born in the 
 
 It is also visible in language and kinship. In many societies, the structure of kinship determines who may marry whom, who inherits, and who owes whom support; individuals negotiate within these rules, but the rules themselves outlast any single person. And it is visible in organizations: a bureaucracy's structure — its hierarchy, its division of labour, its rules — shapes the behaviour of everyone who works in it, however creative they may be.
 
+## Structure and Agency in Digital Societies
+
+Digital technologies have reopened the question of how structure and agency meet. Lawrence Lessig, in *Code and Other Laws of Cyberspace* (1999), argued that software architecture regulates conduct much as law, markets, and social norms do: what a system permits or blocks is built into its design. Wanda Orlikowski, extending Giddens, showed in studies of organizational computing that the structures associated with a technology are enacted in recurrent use, so that the same system can be taken up in different ways by different groups. José van Dijck, Thomas Poell, and Martijn de Waal, in *The Platform Society* (2018), traced how large platforms organize news, transport, health, and education through the collection of data, algorithmic selection, and commercial terms of service. Agency persists in these settings, as users learn how ranking systems seem to behave, adjust what they post, evade moderation, or organize collectively. It is unevenly distributed, however: platform owners can rewrite the rules unilaterally and observe behaviour at a scale users cannot. The theoretical dispute is whether software is simply another rule and resource in Giddens's sense, or a distinct kind of structure because it can execute rules automatically, without anyone having to interpret them.
+
+## Structure in Non-Western Social Theory
+
+Reflection on social structure did not begin in, and is not confined to, European and North American sociology. Ibn Khaldun, in the *Muqaddima* (completed in its first form in 1377), explained the rise and decline of dynasties through the relation between nomadic and settled ways of life and through *asabiyya*, group solidarity, which enables conquest and weakens under urban luxury. The Chinese sociologist Fei Xiaotong, in *From the Soil* (1947), contrasted a Western organizational mode of bounded groups with what he called the differential mode of association in rural China: concentric circles of relationships centred on each person, whose obligations weaken with social distance. In India, M. N. Srinivas analysed caste as a hierarchy that permitted some movement, describing through the concept of Sanskritization how lower-ranked groups sought higher standing by adopting the customs of higher ones. Syed Farid Alatas and others have argued that such ideas should be treated as sources of general theory, not merely as data to be explained by Western concepts. They also caution that no region has a single indigenous account of structure, and that each of these works needs critical assessment in its own historical setting.
+
 ## Critique and Contemporary Relevance
 
 Critics have argued that structure is too vague a term, used to explain everything and therefore nothing. Some have argued that it reifies society, treating an abstraction as if it were a real thing with causal powers of its own. Others have argued that structural accounts underplay human agency, portraying people as bearers of structures rather than makers of history. The structuration and practice traditions answered by insisting that structure exists only in and through action, and that it is always open to transformation.
@@ -54,3 +60,10 @@ The concept remains indispensable. Contemporary research applies it to digital p
 - Giddens, Anthony. *The Constitution of Society: Outline of the Theory of Structuration*. Polity Press, 1984.
 - Lévi-Strauss, Claude. *Structural Anthropology*. Translated by Claire Jacobson and Brooke Grundfest Schoepf. Basic Books, 1963.
 - Sewell, William H., Jr. "A Theory of Structure: Duality, Agency, and Transformation." *American Journal of Sociology* 98, no. 1 (1992): 1–29.
+- Alatas, Syed Farid. *Alternative Discourses in Asian Social Science: Responses to Eurocentrism*. Sage, 2006.
+- Fei Xiaotong. *From the Soil: The Foundations of Chinese Society*. Translated by Gary G. Hamilton and Wang Zheng. University of California Press, 1992 (Chinese original 1947).
+- Ibn Khaldun. *The Muqaddimah: An Introduction to History*. Translated by Franz Rosenthal. Princeton University Press, 1958.
+- Lessig, Lawrence. *Code and Other Laws of Cyberspace*. Basic Books, 1999.
+- Orlikowski, Wanda J. "Using Technology and Constituting Structures: A Practice Lens for Studying Technology in Organizations." *Organization Science* 11, no. 4 (2000).
+- Srinivas, M. N. *Religion and Society among the Coorgs of South India*. Clarendon Press, 1952.
+- van Dijck, José, Thomas Poell, and Martijn de Waal. *The Platform Society: Public Values in a Connective World*. Oxford University Press, 2018.

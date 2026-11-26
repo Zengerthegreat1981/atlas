@@ -15,8 +15,7 @@ edges:
 related:
 - id: "sch-usul-al-fiqh-legal-theory", title: "Usul al-Fiqh as Legal Theory", type: "مدرسة"
 - id: "thk-ibn-taymiyya", title: "Taqi al-Din Ahmad ibn Taymiyya", type: "مفكر"
-gaps:
-  - "Theological arguments on whether every mujtahid is correct (taswib) and the attributions of positions to named usulists: not yet covered"
+gaps: []
 ---
 
 # Ikhtilaf (Juristic Disagreement)
@@ -39,7 +38,18 @@ Modern reform thought invokes the theory of legitimate disagreement in the conte
 
 Juristic disagreement is among the phenomena most indicative of the human, interpretive character of the process of deriving rulings in Islamic jurisprudence. It reflects this character rather than ambiguity or contradiction in the Sharia text itself, according to the classical understanding. Nonetheless, scholars caution that the saying "the disagreement of my community is a mercy," which is often cited in this context, is not established as a sound prophetic report according to most hadith scholars; it is often described as having no sound chain of transmission. The genuine usuli basis for the legitimacy of disagreement rests on other evidence (such as the authentic hadith on the reward of the mujtahid who errs), not on this popularly known hadith.
 
+## Arguments and Attributions in the Taswib Debate
+
+Fallibilists argued that contradictory verdicts, such as permission and prohibition of the same act in the same circumstances, cannot both express the truth; that scholarly argument would be pointless if nothing were there to be found; and that the report of two rewards and one presupposes that a judge can miss. They also cited the account of David and Solomon (Qur'an 21:78-79), in which understanding of a case is credited to Solomon.
+
+Infallibilists answered that where no decisive evidence exists, God requires of each mujtahid only what appears most probable to him, so that this is the ruling for him. They noted that the same Qur'anic passage credits both prophets with judgment and knowledge, that the Companions tolerated one another's differing verdicts, and that error in the report may concern the facts or an overlooked text.
+
+Infallibilism is associated especially with the theologian al-Baqillani, with al-Ghazali in *al-Mustasfa* for questions lacking a decisive text, and with many Basran Mu'tazilis such as Abu Ali al-Jubba'i and his son Abu Hashim; reports about al-Ash'ari are less uniform. Many jurists, including the Shafi'i Abu Ishaq al-Shirazi, held that only one answer is correct, as did Imami Shi'i usulists.
+
 ## Sources
 
 - Hallaq, Wael B. *A History of Islamic Legal Theories: An Introduction to Sunni Usul al-Fiqh*. Cambridge University Press, 1997.
 - Abou El Fadl, Khaled. *Speaking in God's Name: Islamic Law, Authority and Women*. Oneworld Publications, 2001.
+- al-Ghazali, Abu Hamid. *al-Mustasfa min 'Ilm al-Usul*.
+- al-Shirazi, Abu Ishaq. *al-Tabsira fi Usul al-Fiqh*.
+- Zysow, Aron. *The Economy of Certainty: An Introduction to the Typology of Islamic Legal Theory*. Lockwood Press, 2013.

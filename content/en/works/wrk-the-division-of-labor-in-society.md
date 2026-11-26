@@ -12,9 +12,7 @@ active_start: 1893
 active_end: مستمر
 edges: []
 related: []
-gaps:
-- Detailed empirical case studies: not yet covered
-- Cross-disciplinary applications: not yet covered
+gaps: []
 ---
 
 # The Division of Labor in Society
@@ -41,6 +39,14 @@ The book's final section examines the pathologies that arise when the division o
 
 *The Division of Labor in Society* helped establish sociology as a discipline with its own subject matter, which Durkheim soon defined as social facts. Its distinction between mechanical and organic solidarity became one of the most cited ideas in the social sciences, shaping the study of law, religion, the professions and economic life. Talcott Parsons, Robert Merton and the whole functionalist tradition built on Durkheim's framework, and the book's account of anomie influenced the sociology of deviance, the study of work and the analysis of social change. The book's treatment of law as a window onto solidarity shaped legal sociology, and its argument that economic life is underpinned by moral regulation remains a central theme of economic sociology.
 
+## Empirical Tests
+
+Durkheim's claims about legal change have been checked against comparative evidence. Richard Schwartz and James Miller, in a 1964 study of a sample of societies drawn from ethnographic records, found that procedures involving damages and mediation tended to appear in simpler settings than specialised police, which runs against the expectation that restitutive arrangements develop mainly after repressive ones recede. Their measures concerned legal institutions and so did not match Durkheim's categories exactly. Steven Spitzer's cross-cultural study of 1975 of preindustrial societies likewise found little support for hypotheses drawn from Durkheim, and associated more intense punishment with political centralisation. These findings count against the simple evolutionary sequence, while leaving open the broader link between interdependence and solidarity.
+
+## Applications Across Disciplines
+
+In anthropology, E. E. Evans-Pritchard's analysis in *The Nuer* (1940) of opposed and combining lineage and territorial segments developed a segmental model related to Durkheim's. In human ecology, Amos Hawley and others took up the relation between population, competition and differentiation. In the study of deviance and social history, Kai Erikson's *Wayward Puritans* (1966) used Durkheim's view that punishment marks moral boundaries to interpret conflicts in colonial Massachusetts.
+
 ## Critical Assessments and Limitations
 
 Critics have questioned whether Durkheim's two types of solidarity describe real historical stages or merely ideal types, and whether the transition from mechanical to organic solidarity is as clean as he suggests. Feminist critics have noted that his account of the division of labour says almost nothing about the sexual division of labour in the household, and that the solidarity he celebrates rests on the unpaid work of women. Others argue that his distinction between normal and abnormal forms of the division of labour is circular, since it is defined by the very social harmony it is meant to explain. Despite these criticisms, the book's central insight — that modern society is held together not by similarity but by difference and mutual dependence — remains one of the founding ideas of sociology.
@@ -54,3 +60,8 @@ Critics have questioned whether Durkheim's two types of solidarity describe real
 - Anthony Giddens, *Capitalism and Modern Social Theory: An Analysis of the Writings of Marx, Durkheim and Max Weber* (1971).
 - Robert Alun Jones, *Émile Durkheim: An Introduction to Four Major Works* (1986).
 - Lewis A. Coser, *Masters of Sociological Thought: Ideas in Historical and Social Context* (1971).
+- Richard D. Schwartz and James C. Miller, "Legal Evolution and Societal Complexity," *American Journal of Sociology* (1964).
+- Steven Spitzer, "Punishment and Social Organization," *Law and Society Review* (1975).
+- E. E. Evans-Pritchard, *The Nuer* (1940).
+- Amos H. Hawley, *Human Ecology: A Theory of Community Structure* (1950).
+- Kai T. Erikson, *Wayward Puritans: A Study in the Sociology of Deviance* (1966).

@@ -14,8 +14,7 @@ edges:
   - rel: "relates_to", target: "Daniel Kahneman", target_type: "مفكر"
 related:
   - id: "thk-kahneman", title: "Daniel Kahneman", type: "مفكر"
-gaps:
-  - "Self-reported happiness in Arab countries and the Easterlin paradox under conflict and political instability: not yet covered."
+gaps: []
 ---
 
 # Money, Happiness, and the Easterlin Paradox
@@ -38,9 +37,17 @@ This bridge has a direct effect on development policy. If subjective happiness d
 
 In Arab contexts, where income shocks intersect with severe political and security disturbances, it is difficult to apply the Easterlin paradox in its original form without recognising that the sense of well-being is affected by variables that do not enter the original model, such as political stability, personal security, and expectations for the future. These factors may outweigh the pure effect of economic growth in explaining the levels of happiness reported in regional surveys.
 
+## Arab Survey Evidence and Instability
+
+The best-known regional test concerns the years before the uprisings of 2010-11. Arampatzi and colleagues, using Gallup World Poll data, found that life evaluations in several Arab countries were falling or low although conventional economic and development indicators had been improving. They linked the dissatisfaction to complaints about the standard of living, unemployment, and the importance of connections (*wasta*) in getting ahead. Elena Ianchovichina's World Bank study *Eruptions of Popular Anger* (2018) develops this account of growth alongside rising discontent.
+
+This pattern resembles the Easterlin paradox but does not by itself confirm it. The period is short, whereas Easterlin's claim concerns long-run trends, and the explanations offered point to the quality of jobs, services and governance as much as to income comparison or adaptation. Open conflict poses a different problem: income, safety, housing and social ties may collapse together, so a fall in reported well-being cannot be assigned to income. Surveys in war zones may also miss displaced people and dangerous areas, and respondents may answer cautiously, which limits comparison across countries and years.
+
 ## Sources
 
 - Easterlin, Richard A. "Does Economic Growth Improve the Human Lot?" In *Nations and Households in Economic Growth*, 1974.
 - Stevenson, Betsey; Wolfers, Justin. "Economic Growth and Subjective Well-Being: Reassessing the Easterlin Paradox." *Brookings Papers on Economic Activity*, 2008.
 - Easterlin, Richard A., et al. "The Happiness-Income Paradox Revisited." *PNAS* 107 (2010).
 - Kahneman, Daniel; Deaton, Angus. "High Income Improves Evaluation of Life but Not Emotional Well-Being." *PNAS*, 2010.
+- Arampatzi, Efstratia; Burger, Martijn; Ianchovichina, Elena; Röhricht, Tina; Veenhoven, Ruut. "Unhappy Development: Dissatisfaction with Life on the Eve of the Arab Spring." *Review of Income and Wealth*, 2018.
+- Ianchovichina, Elena. *Eruptions of Popular Anger: The Economics of the Arab Spring and Its Aftermath*. World Bank, 2018.

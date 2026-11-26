@@ -14,9 +14,7 @@ active_start: 1850
 active_end: 1903
 edges: []
 related: []
-gaps:
-- Detailed case studies: not yet covered
-- Contemporary empirical examples: not yet covered
+gaps: []
 ---
 # Spencerian Social Evolutionism
 
@@ -33,6 +31,14 @@ The organic analogy is the school's central device: society, like a living organ
 ## Key Works and Method
 
 Spencer's sociological writings form one of the largest bodies of work by any classical theorist. *The Study of Sociology* (1873) was widely read in the United States and defended the scientific study of society against the objection that social life is too complex for laws. *The Principles of Sociology* (1876–1896), published in three volumes, is the core statement: it classifies social data, analyses domestic, ceremonial, political, ecclesiastical, professional, and industrial institutions, and assembles ethnographic evidence from hundreds of societies. Spencer's method was comparative and encyclopaedic. He commissioned *Descriptive Sociology* (begun 1873), a vast compilation of classified ethnographic data on which his generalisations were meant to rest, and arranged societies along an evolutionary scale from the simplest to the most complex, reading differences between contemporary societies as evidence of successive stages of development.
+
+## Case Studies
+
+Spencer's contrast between militant and industrial types shows how he used cases. For the militant type he drew on examples such as Dahomey, ancient Peru, Sparta, and the Russian Empire, arguing that sustained warfare favours centralised command, graded ranks, and regulation of daily and economic life, with the individual subordinated to the collective. Features of the industrial type, including voluntary association and limits on political authority, he saw more clearly in England and the United States. He did not treat the movement as automatic: renewed militarism and expanding state regulation in late nineteenth-century Britain seemed to him a reversion toward militancy. His account of ceremonial institutions provides another case, tracing forms of obeisance, titles, and gifts to relations of conquest and subordination and arguing that they weaken as cooperation becomes more voluntary. In both analyses, examples taken from widely separated places and periods are assembled to illustrate a type. This reveals suggestive associations, but because cases were chosen to fit categories and detached from their histories, it offers limited ground for testing causal claims.
+
+## Contemporary Empirical Examples
+
+Some modern comparative research examines questions that Spencer raised, with different methods and without his moral ranking of societies. Robert Carneiro (1967), who admired Spencer, compared single-community societies and found a regular relationship between population size and the number of distinct organisational traits, consistent with the link between growth and differentiation. Peter Turchin and a large team (2018), using the Seshat databank of historical societies, reported that measures of scale, government, infrastructure, writing, and money tend to vary together, so that much of the difference among the polities examined could be summarised along a single dimension of social complexity. Such findings concern associations among selected variables in particular samples. They do not show that every society must pass through the same stages, that complexity is moral progress, or that Spencer's universal law of evolution is correct. Researchers continue to dispute how variables should be coded, how to treat dependence among neighbouring or related societies, and how to explain collapse and reversal.
 
 ## Influence and Legacy
 
@@ -56,3 +62,5 @@ Spencerian evolutionism stands at the origin of the macro-evolutionary tradition
 - Francis, Mark. *Herbert Spencer and the Invention of Modern Life*. Ithaca: Cornell University Press, 2007.
 - Offer, John. *Herbert Spencer and Social Theory*. Basingstoke: Palgrave Macmillan, 2010.
 - Turner, Jonathan H., ed. *Herbert Spencer: A Renewed Appreciation*. Beverly Hills: Sage, 1985.
+- Carneiro, Robert L. "On the Relationship between Size of Population and Complexity of Social Organization." *Southwestern Journal of Anthropology*, 1967.
+- Turchin, Peter, et al. "Quantitative Historical Analysis Uncovers a Single Dimension of Complexity That Structures Global Variation in Human Social Organization." *Proceedings of the National Academy of Sciences*, 2018.

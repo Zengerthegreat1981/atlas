@@ -14,7 +14,6 @@ related:
   []
 gaps:
   - "Creolization and digital culture: not yet covered"
-  - "Creolization and language policy: not yet covered"
 ---
 
 # Creolization: Cultural Creation in Contact
@@ -45,9 +44,16 @@ Creolization is visible across the Caribbean and beyond. In Jamaica, Rastafari, 
 
 Scholars debate whether creolization can be stretched to the whole world without losing its meaning. Critics warn that applying it everywhere — to global cities, the internet, or fusion cuisine — empties it of the history of slavery and plantation violence that gave it force. Defenders reply that Glissant and Hannerz already imagined creolization as a general condition of cultural life, and that its value lies precisely in showing that no culture is pure or self-contained. The debate reflects a larger tension in anthropology between concepts rooted in particular histories and concepts that travel. For now, creolization remains most powerful when it keeps both senses alive: the specific Caribbean history of creation under slavery, and the general insight that cultures are made in contact, not in isolation.
 
+## Creolization and Language Policy
+
+Creole languages have often been spoken by most of a population while another language, usually that of the former colonial power, dominated schools, courts, and government. Language policy is therefore a place where the politics of creolization becomes concrete. Haiti's 1987 constitution declared both Creole and French official languages, and an academy for Haitian Creole was established in 2014. Seychelles gave its creole, Seselwa, official status alongside English and French and introduced it into schooling. In Aruba and Curaçao, Papiamentu has official status, while Mauritius introduced Mauritian Creole as a school subject in 2012, long after it had become the everyday language of most inhabitants.
+
+Formal recognition does not settle the matter. Policy must choose a spelling system, decide which variety counts as standard, train teachers, and produce textbooks, and parents may still prefer the language associated with examinations and employment. Linguists such as Michel DeGraff have argued that teaching children in a language they do not speak at home limits their access to education, and that old judgments of creoles as lesser languages continue to shape such choices.
+
 ## Sources
 
 - Brathwaite, Edward Kamau. *The Development of Creole Society in Jamaica, 1770–1820*. Clarendon Press, 1971.
 - Bernabé, Jean, Patrick Chamoiseau, and Raphaël Confiant. *Éloge de la créolité*. Gallimard, 1989.
 - Glissant, Édouard. *Poetics of Relation*. Translated by Betsy Wing. University of Michigan Press, 1997. First published in French as *Poétique de la Relation*, Gallimard, 1990.
 - Hannerz, Ulf. *Cultural Complexity: Studies in the Social Organization of Meaning*. Columbia University Press, 1992.
+- DeGraff, Michel. "Linguists' Most Dangerous Myth: The Fallacy of Creole Exceptionalism." *Language in Society* 34, no. 4. 2005.

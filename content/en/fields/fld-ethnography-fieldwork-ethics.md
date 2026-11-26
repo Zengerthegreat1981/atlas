@@ -8,8 +8,7 @@ title: "Ethnography, Fieldwork and Ethics"
 en: "Ethnography, Fieldwork and Ethics"
 crumb: "Anthropology ← Fields ← Ethnography, Fieldwork and Ethics"
 edges: []
-gaps:
-  - "Ethnographic film and multi-species ethnography as methods in their own right: not yet covered"
+gaps: []
 related:
   - id: "fld-anthropology", title: "Anthropology", type: "مجال"
   - id: "thk-malinowski", title: "Bronislaw Malinowski: Founder of Modern Ethnographic Fieldwork", type: "مفكر"
@@ -64,13 +63,19 @@ From the 1970s and 1980s, scholars asked who writes ethnography and with what au
 
 Anthropology developed in part under colonial conditions, and critics such as Talal Asad argued that the discipline's access and its categories were bound up with imperial power. Ethical concerns include informed consent, protection of informants from harm, ownership of knowledge, and the use of research by states and militaries. The American Anthropological Association adopted a statement on ethics in 1971 and has revised its professional codes since, while in the United States research with human participants is also overseen by institutional review boards, whose framework grew out of the Belmont Report (1979); anthropologists have often argued that review models designed for biomedical research fit ethnography poorly. Controversy over the work of Napoleon Chagnon among the Yanomami, and the debate over anthropology and militarisation, show how disputed these issues can be. Linda Tuhiwai Smith's *Decolonizing Methodologies* and related work on Indigenous research and data sovereignty argue that communities should direct research about them, not merely be studied.
 
+## Film and multispecies methods
+
+**Ethnographic film** uses moving image and sound as a means of research and not only illustration. Margaret Mead and Gregory Bateson used photography and film systematically in Bali in the 1930s; John Marshall filmed Ju/'hoansi life in southern Africa from the 1950s; and Jean Rouch, working in West Africa and France, developed participatory approaches in which subjects responded to and helped shape the footage, as in *Chronicle of a Summer* (1961), made with Edgar Morin. David MacDougall has argued that film conveys embodied and sensory knowledge differently from writing. Filming raises its own questions of framing, editing, consent and the continuing circulation of people's images.
+
+**Multispecies ethnography** studies social worlds formed among humans and other organisms, including animals, plants, fungi and microbes. S. Eben Kirksey and Stefan Helmreich surveyed the emerging approach in 2010. Eduardo Kohn's *How Forests Think* (2013) examines relations between Runa people in Ecuador's upper Amazon and other beings, and Anna Tsing's *The Mushroom at the End of the World* (2015) follows matsutake through foragers, forests and commodity chains. Fieldwork may combine participant observation with natural-science knowledge, while facing the difficulty of how far nonhuman perspectives can be known.
+
 ## Debates
 
 Positionality and reflexivity: does acknowledging one's position improve ethnography or turn it inward? Insider versus outsider research. Whether ethnographic knowledge can ever be separated from the relations of power in which it is produced.
 
 ## How the Atlas covers this field
 
-Entries cover founding figures, the interpretive and critical turns, key works, and decolonial approaches. Film-based methods are not yet covered, as flagged in the gaps above.
+Entries cover founding figures, the interpretive and critical turns, key works, and decolonial approaches. Film-based and multispecies methods are introduced above.
 
 ## Suggested reading order
 
@@ -83,3 +88,7 @@ Start with Malinowski and Boas on method, then Geertz on interpretation. Move to
 - Asad, Talal, ed. *Anthropology and the Colonial Encounter*. Ithaca Press, 1973.
 - Clifford, James, and George E. Marcus, eds. *Writing Culture: The Poetics and Politics of Ethnography*. University of California Press, 1986.
 - Smith, Linda Tuhiwai. *Decolonizing Methodologies: Research and Indigenous Peoples*. Zed Books, 1999.
+- Kirksey, S. Eben, and Stefan Helmreich. "The Emergence of Multispecies Ethnography." *Cultural Anthropology* 25, no. 4. 2010.
+- Kohn, Eduardo. *How Forests Think: Toward an Anthropology beyond the Human*. University of California Press, 2013.
+- MacDougall, David. *Transcultural Cinema*. Princeton University Press, 1998.
+- Tsing, Anna Lowenhaupt. *The Mushroom at the End of the World: On the Possibility of Life in Capitalist Ruins*. Princeton University Press, 2015.

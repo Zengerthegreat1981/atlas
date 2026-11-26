@@ -12,9 +12,7 @@ active_start: 1959
 active_end: مستمر
 edges: []
 related: []
-gaps:
-- Detailed empirical case studies: not yet covered
-- Cross-disciplinary applications: not yet covered
+gaps: []
 ---
 # The Sociological Imagination
 
@@ -36,6 +34,14 @@ Against both tendencies Mills defends what he calls classic social analysis, whi
 
 Mills had already studied class and power in *White Collar* (1951) and *The Power Elite* (1956). *The Sociological Imagination* sets out the conception of inquiry that links these studies of American society with his public interventions.
 
+## Case Studies in Mills's Research
+
+The book is mainly an argument about method, but *White Collar* shows the approach at work on historical and occupational material. Mills traced the shift in the American middle classes from independent farmers and small proprietors to salaried employees such as managers, professionals, salespeople and office workers. His discussion of selling described a personality market, in which friendliness and manner become things an employer can require and use. A salesperson's private sense of estrangement could thus be linked to the growth of large organisations. *The Power Elite* applied a similar historical analysis to connections among corporate, military and political leadership. Both books have been criticised for selective evidence, and the pluralist political scientist Robert Dahl questioned claims about a ruling elite that were not tested against actual decisions.
+
+## Applications Across Disciplines
+
+In geography, David Harvey's *Social Justice and the City* (1973) set a geographical, or spatial, imagination beside Mills's sociological one and sought to connect them. In criminology, Jock Young's *The Criminological Imagination* (2011) adapted Mills's critique of abstracted empiricism to quantitative research on crime. Within sociology, Michael Burawoy's case for public sociology revived the question of how research can address audiences beyond the university.
+
 ## Reception and Criticism
 
 The book provoked hostile responses from parts of the profession and later became one of the most widely assigned introductions to sociological thinking. It informed radical and public sociology from the 1960s onwards. Critics argue that its portraits of Parsons and of survey research are polemical and selective, that it is clearer about the questions to ask than about how to test answers, and that it gives limited attention to gender and race, as its masculine language also suggests.
@@ -47,3 +53,7 @@ The book provoked hostile responses from parts of the profession and later becam
 - Mills, C. Wright. *The Power Elite*. New York: Oxford University Press, 1956.
 - Horowitz, Irving Louis. *C. Wright Mills: An American Utopian*. New York: Free Press, 1983.
 - Geary, Daniel. *Radical Ambition: C. Wright Mills, the Left, and American Social Thought*. Berkeley: University of California Press, 2009.
+- Dahl, Robert A. "A Critique of the Ruling Elite Model." *American Political Science Review* 52 (1958).
+- Harvey, David. *Social Justice and the City*. London: Edward Arnold, 1973.
+- Young, Jock. *The Criminological Imagination*. Cambridge: Polity, 2011.
+- Burawoy, Michael. "For Public Sociology." *American Sociological Review* 70 (2005).

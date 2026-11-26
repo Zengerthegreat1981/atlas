@@ -19,8 +19,7 @@ related:
 - id: "thk-freud", title: "Sigmund Freud", type: "مفكر"
 - id: "con-intentionality-brentano", title: "Intentionality in Brentano", type: "مفهوم"
 - id: "con-phenomenology", title: "Phenomenology: The Science of Describing Phenomena as Given", type: "مفهوم"
-gaps:
-  - "Clinical examples distinguishing conscious acts from physiological processes: not yet covered."
+gaps: []
 ---
 
 # Brentano's Conscious Acts
@@ -74,6 +73,14 @@ Roderick Chisholm, in *Perceiving* (1957), revived Brentano's thesis that intent
 
 Freud attended Brentano's lectures in Vienna in the mid-1870s. Whether and how far Brentano influenced his thought is debated; Freud's central claim of an unconscious mind stands in sharp contrast to Brentano's denial of unconscious mental acts.
 
+## Clinical Illustrations
+
+The following examples apply Brentano's distinction to later clinical cases; they are not his own. In a panic attack, a quickened heartbeat and altered breathing are physiological events: they are not about anything. Hearing or feeling them is a presentation, judging that they signal a heart attack is a judgment, and dreading that outcome is an emotional act. David Clark's cognitive model of panic (1986) turns on this difference, since it holds that attacks arise from catastrophic misinterpretation of bodily sensations, so that similar arousal can be read as exercise or as danger.
+
+A hallucinated voice shows that an act can be directed at an object that does not exist outside the mind: the hearing is a mental phenomenon whether or not anyone speaks, while the accompanying neural activity belongs to physiology. The patient may also accept or reject the voice as real, a further act of judgment.
+
+Blindsight, studied by Lawrence Weiskrantz, is a harder case. Some people with damage to the primary visual cortex respond above chance to stimuli they report not seeing. A strict Brentanian would have to count such processing as physiological, or else find an unnoticed conscious act in it; many cognitive scientists would call it unconscious perception.
+
 ## Contemporary Debate
 
 ### 1. Can there be unconscious mental acts?
@@ -97,3 +104,5 @@ The concept of mental acts connects the descriptive psychology of the nineteenth
 - Roderick M. Chisholm, *Perceiving: A Philosophical Study*, Cornell University Press, 1957.
 - John R. Searle, *Intentionality: An Essay in the Philosophy of Mind*, Cambridge University Press, 1983.
 - "Franz Brentano," *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/brentano/>
+- David M. Clark, "A Cognitive Approach to Panic," *Behaviour Research and Therapy*, 1986.
+- Lawrence Weiskrantz, *Blindsight: A Case Study and Implications*, Oxford University Press, 1986.

@@ -14,8 +14,7 @@ edges: []
 related: []
 sociological_tradition: other
 sociological_paradigm: micro-macro
-gaps:
-  - "Status in non-stratified societies: not yet covered"
+gaps: []
 ---
 
 # Status: Position, Prestige, and the Rank Order of Social Life
@@ -46,10 +45,19 @@ The Davis–Moore thesis has been sharply criticized for assuming that the most 
 
 Status remains a core concept. It now frames research on the gig economy, where workers hold ambiguous statuses — neither employee nor independent — with real consequences for their rights; on digital platforms, where followers, badges, and verification confer new forms of status; and on status inconsistency in societies where education has expanded faster than the jobs that reward it. The rank order of social life has not disappeared; it has only taken new forms.
 
+## Status in Egalitarian Societies
+
+Societies without institutional ranking of strata still distinguish among people. Age, gender, skill and kinship position carry differing expectations and esteem. Morton Fried, in *The Evolution of Political Society* (1967), characterised an egalitarian society as one that does not limit the number of valued positions: roughly as many people can gain prestige as are able to earn it. James Woodburn (1982) studied hunting and gathering peoples, including the Hadza of Tanzania, whose immediate-return economies, mobility and sharing obligations limit the means of building lasting dominance. Richard Lee described how the !Kung (Ju/'hoansi) of the Kalahari belittled a hunter's kill, a custom that checks boasting. Christopher Boehm argued that such equality is actively maintained, as group members use ridicule, avoidance and stronger sanctions against would-be dominators. Egalitarian therefore does not mean that status is absent, and equality among adult men in a given case need not imply equality between men and women or between generations.
+
 ## Sources
 
 - Davis, Kingsley, and Wilbert E. Moore. "Some Principles of Stratification." *American Sociological Review*, vol. 10, no. 2, 1945, pp. 242–249.
 - Lenski, Gerhard E. "Status Crystallization: A Non-Vertical Dimension of Social Status." *American Sociological Review* 19 (1954).
 - Linton, Ralph. *The Study of Man: An Introduction*. D. Appleton-Century, 1936.
-- Merton, Robert K. "The Role-Set: Problems in Sociological Theory." *British Journal of Sociology* 8 (1957).\n- Merton, Robert K. *Social Theory and Social Structure*. Free Press, 1949 (enlarged edition 1957).
+- Merton, Robert K. "The Role-Set: Problems in Sociological Theory." *British Journal of Sociology* 8 (1957).
+- Merton, Robert K. *Social Theory and Social Structure*. Free Press, 1949 (enlarged edition 1957).
 - Weber, Max. *Economy and Society: An Outline of Interpretive Sociology*. University of California Press, 1968. First published in German, 1922.
+- Fried, Morton H. *The Evolution of Political Society*. Random House, 1967.
+- Woodburn, James. "Egalitarian Societies." *Man* 17 (1982).
+- Lee, Richard B. "Eating Christmas in the Kalahari." *Natural History*, 1969.
+- Boehm, Christopher. *Hierarchy in the Forest: The Evolution of Egalitarian Behavior*. Harvard University Press, 1999.

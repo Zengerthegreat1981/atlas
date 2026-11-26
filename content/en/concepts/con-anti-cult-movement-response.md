@@ -18,8 +18,7 @@ related:
 - id: "con-brainwashing-conversion-debate", title: "The 'Brainwashing' Debate vs. Voluntary Conversion in New Religious Movements", type: "مفهوم"
 - id: "thk-james-beckford", title: "James Beckford", type: "مفكر"
 - id: "thk-eileen-barker", title: "Eileen Barker", type: "مفكر"
-gaps:
-  - "FECRIS and other European anti-cult federations: not yet covered"
+gaps: []
 ---
 
 # The Anti-Cult Movement (ACM) and Institutional Responses to NRMs
@@ -33,6 +32,10 @@ This current represents the opposing side to what the leading academic researche
 ## Comparative Institutional Response in Beckford
 
 In his comparative study of societal responses to new religious movements in Britain, France, West Germany and the United States, James Beckford showed that the degree of institutional panic (including the official support some European states gave to anti-cult organizations, in contrast to the more cautious American position given the constitutional protection of religious freedom) reflects the institutional structure of each society (the centralization of the state, the relationship of the established church to the state) more than it reflects the characteristics of the movement under dispute.
+
+## European Federations: FECRIS
+
+In Europe the movement took shape mainly through national family associations, such as Family Action Information and Rescue (FAIR) in Britain and the associations grouped in France in UNADFI. In 1994 several such bodies, on a French initiative, formed the European Federation of Research and Information Centres on Sectarianism (FECRIS). It is an umbrella organization that links member associations, holds conferences, and presents their concerns about groups they regard as harmful to European and international institutions; it has obtained recognized non-governmental status with the Council of Europe and consultative status with the United Nations Economic and Social Council. French support has been important to it, in a national setting where the state itself took an active part through official bodies concerned with "sectarian" abuses, a pattern that fits Beckford's point about institutional structure. FECRIS describes its work as the protection of individuals and families. Its critics, among them a number of scholars of new religious movements and religious-freedom advocates, argue that it stigmatizes lawful minority religions, and have pointed in particular to the activities of some of its Russian affiliates.
 
 ## Legal Outcome
 

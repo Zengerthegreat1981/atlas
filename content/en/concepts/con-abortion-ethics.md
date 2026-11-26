@@ -11,8 +11,7 @@ active_start: 1900
 active_end: "مستمر"
 edges: []
 related: []
-gaps:
-  - "Primary sources on the juristic debate: not yet covered"
+gaps: []
 ---
 
 # Abortion Ethics
@@ -33,8 +32,18 @@ These debates appear in practice in legislation on therapeutic abortion (in case
 
 The jurists' disagreement over when ensoulment occurs is not a marginal detail; it is the axis of the entire ruling. Jurists who permitted early abortion relied on the hadith of Ibn Mas'ud, which describes three forty-day stages (drop, clot, and lump of flesh) before the soul is breathed in. Some contemporary scholars, by contrast, relying on the progress of embryology, which shows the early onset of neural activity, argue that the ruling should be reconsidered in light of new medical findings. This debate reflects the dynamism of legal reasoning (*ijtihad*) in facing modern empirical science without abandoning fixed legal principles.
 
+## Primary Sources of the Juristic Debate
+
+The classical positions can be traced in the legal manuals of the schools, usually in chapters on marriage, birth control, and the compensation (*ghurra*) owed for causing a miscarriage. On the Hanafi side, Ibn al-Humam's *Fath al-Qadir* and Ibn 'Abidin's *Radd al-Muhtar* report permission before ensoulment, together with the view of some Hanafis that it requires an excuse. For the Malikis, al-Dardir's *al-Sharh al-Kabir*, with al-Dasuqi's gloss, forbids expelling what has settled in the womb even before forty days. Among Shafi'i authors, al-Ghazali, in the book on marriage in *Ihya' 'Ulum al-Din*, distinguishes withdrawal (*'azl*) from abortion: the latter is an offence against something already existing, and its gravity increases as development advances. Al-Ramli's *Nihayat al-Muhtaj* records the later Shafi'i discussion, and Ibn Qudama's *al-Mughni* treats the Hanbali rules on compensation and expiation. Basim Musallam's *Sex and Society in Islam* (1983) is a useful modern guide to this material.
+
 ## Sources
 
 - Thomson, Judith Jarvis. "A Defense of Abortion." *Philosophy & Public Affairs*, 1971.
 - Ibn Qudama, Muwaffaq al-Din. *al-Mughni*. Classical Hanbali legal compendium (d. 1223).
 - Marquis, Don. "Why Abortion is Immoral." *The Journal of Philosophy*, 1989.
+- Ibn al-Humam, Kamal al-Din. *Fath al-Qadir* (d. 1457).
+- Ibn 'Abidin, Muhammad Amin. *Radd al-Muhtar* (d. 1836).
+- al-Dardir, Ahmad. *al-Sharh al-Kabir*, with the gloss of al-Dasuqi.
+- al-Ghazali, Abu Hamid. *Ihya' 'Ulum al-Din*.
+- al-Ramli, Shams al-Din. *Nihayat al-Muhtaj*.
+- Musallam, Basim. *Sex and Society in Islam*. Cambridge University Press, 1983.

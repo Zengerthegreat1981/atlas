@@ -13,8 +13,7 @@ study_approach: "comparative evolutionary"
 edges:
 - rel: "belongs_to", target: "Comparative Religion and Frazer", target_type: "مدرسة"
 related:
-gaps:
-  - "Ethnographic cases of the twelve-volume work: not yet covered"
+gaps: []
 ---
 # Magic and Religion in Frazer
 
@@ -40,6 +39,12 @@ The book was one of the most influential works in Western literary and intellect
 
 Frazer's framework was subjected to decisive criticism by later field anthropology. The most prominent criticisms are as follows. First, his total reliance on "armchair anthropology": Frazer himself conducted no fieldwork, and gathered his material from the reports of missionaries, colonial administrators and travellers, a method Bronisław Malinowski explicitly attacked as unreliable. Second, its unilinear evolutionary character, which ranks cultures on a single scale from "primitive" to "European civilisation", an assumption later rejected by Franz Boas and the American historical culture school as ethnocentric and not supported by sufficient empirical evidence. Third, E. E. Evans-Pritchard and others criticised Frazer for cutting ritual and mythical elements out of their specific social context in order to compare them superficially across cultures separated greatly in time and space, thereby depriving them of their actual local meaning.
 
+## Cases from the Third Edition
+
+The third edition arranged its material in parts: *The Magic Art and the Evolution of Kings*, *Taboo and the Perils of the Soul*, *The Dying God*, *Adonis, Attis, Osiris*, *Spirits of the Corn and of the Wild*, *The Scapegoat*, and *Balder the Beautiful*, followed by a bibliography and index volume. Each part gathers cases around one theme. For imitative magic Frazer drew, among much else, on Baldwin Spencer and F. J. Gillen's accounts of Central Australian ceremonies intended to multiply the plants and animals associated with particular totemic groups. For the killing of the divine king, a prominent case was the Shilluk of the Upper Nile, whose kings, according to information supplied by C. G. Seligman, were put to death when their vigour failed. Later scholars, including Evans-Pritchard, questioned whether such killings actually took place as described.
+
+Other volumes assemble European harvest customs concerning the last sheaf, often called the Corn Mother or Maiden, relying heavily on Wilhelm Mannhardt; the Ainu bear ceremony of northern Japan; rites for expelling evils by means of a scapegoat; and the European fire festivals of Lent, Easter, May Day, and Midsummer.
+
 ## Sources
 
 - Frazer, James George. *The Golden Bough: A Study in Comparative Religion*. 2 vols. London: Macmillan, 1890.
@@ -47,3 +52,4 @@ Frazer's framework was subjected to decisive criticism by later field anthropolo
 - Frazer, James George. *The Golden Bough: A Study in Magic and Religion* (abridged edition). London: Macmillan, 1922.
 - Malinowski, Bronisław. *Magic, Science and Religion, and Other Essays*. Glencoe, IL: Free Press, 1948.
 - Ackerman, Robert. *J. G. Frazer: His Life and Work*. Cambridge: Cambridge University Press, 1987.
+- Spencer, Baldwin, and F. J. Gillen. *The Native Tribes of Central Australia*. London: Macmillan, 1899.
