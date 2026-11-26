@@ -32,7 +32,7 @@ Islamic jurisprudence offers a partial parallel to the Realist insight that appl
 
 ## The Shared Thesis: "What Courts Actually Do"
 
-Unlike classical legal positivism, which assumes that judges derive their decisions logically from prior rules (the model of "legal formalism" that the Realists attacked), the Realists hold that the **actual judicial decision** is often made first on grounds that are openly non-legal (intuition, social context, the character of the judge), and then **justified afterwards** in the language of rules and precedents. Oliver Wendell Holmes Jr. summarizes this spirit in his foundational essay "The Path of the Law" (1897): "The prophecies of what the courts will do in fact, and nothing more pretentious, are what I mean by the law." See the **prediction theory of law**.
+Unlike legal formalism, which assumes that judges derive their decisions logically from prior rules (the model the Realists attacked), the Realists hold that the **actual judicial decision** is often made first on grounds that are openly non-legal (intuition, social context, the character of the judge), and then **justified afterwards** in the language of rules and precedents. Oliver Wendell Holmes Jr. summarizes this spirit in his foundational essay "The Path of the Law" (1897): "The prophecies of what the courts will do in fact, and nothing more pretentious, are what I mean by the law." See the **prediction theory of law**.
 
 ## Leading Figures
 
@@ -47,7 +47,7 @@ Karl Llewellyn distinguishes between "paper rules," which are written in books a
 
 ## Criticism of Realism
 
-The movement was subjected to fundamental methodological criticisms. Its opponents (foremost among them Lon Fuller) argued that the Realists went too far in stripping law of its normative character, reducing it to pure behavioral prediction and ignoring that judges themselves feel a real obligation toward rules rather than merely anticipating their own behavior. Herbert Hart later exploited this point in his critique of the Austinian theory of "command" from a different angle. Other critics charged that focusing on "the judge's personality" and "intuition" leads to judicial relativism that weakens the legal certainty and predictability that law is supposed to provide to those it governs. Nevertheless, the movement remained a fertile subject of debate, because it opened the way to studying law as a real social practice rather than merely a closed logical system.
+The movement was subjected to fundamental methodological criticisms. Its opponents (foremost among them Lon Fuller) argued that the Realists went too far in stripping law of its normative character, reducing it to pure behavioral prediction and ignoring that judges themselves feel a real obligation toward rules rather than merely anticipating their own behavior. H. L. A. Hart later pressed a related point in *The Concept of Law* (1961), arguing that rule-skepticism overlooks the internal point of view of those who accept rules as standards. Other critics charged that focusing on "the judge's personality" and "intuition" leads to judicial relativism that weakens the legal certainty and predictability that law is supposed to provide to those it governs. Nevertheless, the movement remained a fertile subject of debate, because it opened the way to studying law as a real social practice rather than merely a closed logical system.
 
 ## Later Impact
 

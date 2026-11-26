@@ -26,7 +26,7 @@ gaps: []
 
 # Ronald Dworkin
 
-An American jurist and philosopher of law (1931–2013) who worked as a professor at the universities of Oxford and New York, and who succeeded **H.L.A. Hart** in the chair of jurisprudence at Oxford. He was the most prominent critic of modern legal positivism in the second half of the twentieth century.
+An American jurist and philosopher of law (1931–2013) who worked as a professor at the universities of Oxford and New York, and who succeeded **H.L.A. Hart** in the chair of jurisprudence at Oxford. He was a leading critic of modern legal positivism in the second half of the twentieth century.
 
 ## Dworkin's Central Objection to Hart: Rules Are Not Enough
 
@@ -54,7 +54,7 @@ Dworkin's work had a profound influence on Anglo-American philosophy of law and 
 
 ## Constitutional Interpretation: The Moral Reading
 
-Dworkin applies his general interpretive method to constitutional law in what he calls the **moral reading** of the Constitution. He holds that vague constitutional phrases such as "equal protection" or "due process of law" are not a mandate for the judge to apply the narrow historical intentions of the framers. They are a commitment to abstract moral and political principles (an argument developed in *Freedom's Law*, 1996) (such as equality and dignity). The judge must work out the best conception of these principles in light of accumulated constitutional practice, not in light of the specific applications the drafters imagined at the time of drafting. This position places him in direct confrontation with the **originalism** school, represented by Justice Antonin Scalia. Dworkin holds that fidelity to the constitutional text itself requires interpreting it through its general principles rather than through its drafters' narrow expectations.
+Dworkin applies his general interpretive method to constitutional law in what he calls the **moral reading** of the Constitution. He holds that vague constitutional phrases such as "equal protection" or "due process of law" are not a mandate for the judge to apply the narrow historical intentions of the framers. They are a commitment to abstract moral and political principles such as equality and dignity (an argument developed in *Freedom's Law*, 1996). The judge must work out the best conception of these principles in light of accumulated constitutional practice, not in light of the specific applications the drafters imagined at the time of drafting. This position places him in direct confrontation with the **originalism** school, represented by Justice Antonin Scalia. Dworkin holds that fidelity to the constitutional text itself requires interpreting it through its general principles rather than through its drafters' narrow expectations.
 
 ## Broader Philosophical and Moral Work
 

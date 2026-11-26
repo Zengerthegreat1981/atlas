@@ -24,15 +24,11 @@ gaps: []
 ---
 # Punishment and Responsibility
 
-A collection of essays by **H.L.A. Hart**, published in 1968. It is regarded as the reference work for his position on the philosophy of punishment and criminal responsibility, complementing his broader analytical project in *The Concept of Law* (1961). Its essays were written between 1957 and the mid-1960s, including "Prolegomenon to the Principles of Punishment" (1959).
+A collection of essays by **H.L.A. Hart**, published in 1968. It is regarded as a principal statement of his position on the philosophy of punishment and criminal responsibility, complementing his broader analytical project in *The Concept of Law* (1961). Its essays were written between 1957 and the mid-1960s, including "Prolegomenon to the Principles of Punishment" (1959).
 
 ## The mixed theory: separating "why do we punish?" from "who is punished?"
 
 The book presents Hart's influential formulation of what came to be known as the **"mixed theory"** of punishment (see **Retributivism vs. Consequentialism**). Hart separates two independent questions that are often conflated. The **general justifying aim** of having a system of punishment at all is a **consequentialist** question: deterring crime and protecting society. The **principle of distribution**, that is, who is actually punished and to what extent, must be **retributive**. Only those whose guilt has actually been established may be punished (the condition of **mens rea**), and in proportion to the seriousness of their act. This holds regardless of any additional utilitarian calculation that might justify punishing an innocent person in exceptional cases.
-
-## A parallel with the theory of intent in Islamic jurisprudence
-
-(This comparison is drawn by this atlas, not by Hart.) This separation between responsibility for the act and the purpose of the punishment finds an echo in Islamic criminal jurisprudence. That jurisprudence likewise distinguishes between **deliberate**, **accidental** and **quasi-deliberate** homicide. It requires the establishment of intent (or something approximating it) to apply the more severe penalties, such as retaliation. The ruling is lightened, or replaced by blood money, in cases of purely accidental killing. This distinction is functionally equivalent to Hart's requirement of **mens rea**, although the normative frameworks and sources from which these rulings are derived differ radically between the two systems.
 
 ## The critique of strict liability
 
@@ -52,7 +48,7 @@ This work has remained a basic reference in the philosophy of criminal law. It i
 
 ## The book's place in Hart's broader philosophical project
 
-This book completes the broader philosophical project Hart began in *The Concept of Law* (1961). There he analyzed the structure of the legal system in general (primary and secondary rules). Here he applies the same analytical tools to a specific subfield, criminal law. He shows how precise linguistic analysis of legal concepts, such as "responsibility" with its multiple meanings (causation, capacity, obligation, accountability), can dismantle a common confusion in the moral and legal debate about punishment.
+This book extends the broader philosophical project Hart began in *The Concept of Law* (1961). There he analyzed the structure of the legal system in general (primary and secondary rules). Here he applies the same analytical tools to a specific subfield, criminal law. He shows how precise linguistic analysis of legal concepts, such as "responsibility" with its multiple meanings (causation, capacity, obligation, accountability), can dismantle a common confusion in the moral and legal debate about punishment.
 
 ## Relation to Hart's Other Writings on Law and Morality
 

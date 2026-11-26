@@ -26,7 +26,7 @@ gaps:
 
 # Pure Theory of Law (Reine Rechtslehre)
 
-The reference work of **Hans Kelsen**, first published in German in 1934, then reformulated and greatly expanded in a second edition in 1960. The second edition was later translated into English as *Pure Theory of Law* by Max Knight in 1967.
+The principal statement of **Hans Kelsen**'s legal theory, first published in German in 1934, then reformulated and greatly expanded in a second edition in 1960. The second edition was later translated into English as *Pure Theory of Law* by Max Knight in 1967.
 
 ## The Central Thesis
 
@@ -34,7 +34,7 @@ The book proposes a project for establishing a **pure legal science** (*Reine Re
 
 ## The Argumentative Structure: The Hierarchy of Norms and the Grundnorm
 
-Kelsen builds his system on a hierarchical gradation of norms (*Stufenbau der Rechtsordnung*, a theory first developed by his teacher Adolf Merkl). Each norm derives its validity from a higher norm: the judicial decision derives its validity from the law, and the law from the constitution. This chain reaches the **basic norm** (*Grundnorm*), presupposed logically at the apex of the pyramid. The basic norm is a norm whose validity is not derived from a higher norm, since none exists. It is instead presupposed at the outset as a logical condition for interpreting any system of norms as a legally binding system, rather than as mere naked material coercion. The book elaborates this hierarchical structure with an unprecedented formal precision, treating how legal validity passes from the constitution to ordinary legislation, then to executive regulations, and then to individual judicial decisions.
+Kelsen builds his system on a hierarchical gradation of norms (*Stufenbau der Rechtsordnung*, a theory first developed by his teacher Adolf Merkl). Each norm derives its validity from a higher norm: the judicial decision derives its validity from the law, and the law from the constitution. This chain reaches the **basic norm** (*Grundnorm*), presupposed logically at the apex of the pyramid. The basic norm is a norm whose validity is not derived from a higher norm, since none exists. It is instead presupposed at the outset as a logical condition for interpreting any system of norms as a legally binding system, rather than as mere naked material coercion. The book elaborates this hierarchical structure with considerable formal precision, treating how legal validity passes from the constitution to ordinary legislation, then to executive regulations, and then to individual judicial decisions.
 
 ## The State and International Law: Rejecting Dualism
 

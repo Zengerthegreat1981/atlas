@@ -23,12 +23,11 @@ related:
 - id: "thk-ibn-hazm", title: "Ibn Hazm al-Andalusi", type: "مفكر"
 - id: "con-qiyas-analogical-reasoning", title: "Qiyas (analogical reasoning in Islamic law)", type: "مفهوم"
 gaps:
-  - "His exact date of birth is not known with certainty. Biographical dictionaries place it around the third decade of the eighth century AH (c. 1320 CE) without a definitive year."
-  - "Early upbringing: not yet covered (the sources on his early life are sparse; his nisba points to Xativa in eastern al-Andalus)."
+  - "Early upbringing: not yet covered"
 ---
 # Abu Ishaq Ibrahim ibn Musa al-Shatibi
 
-A Maliki jurist and usulist from al-Andalus, who lived in Granada in the eighth century AH (the fourteenth century CE). He is one of the most important developers of the theory of the objectives of the Sharia (maqasid al-shari'ah) in Islamic usul al-fiqh. He is known for his book *al-Muwafaqat fi Usul al-Shari'a*, in which he reformulated the relationship between the particular rulings of the Sharia and its universal objectives, with a coherent theoretical method that had not been anticipated in this degree of detail.
+A Maliki jurist and usulist from al-Andalus, who lived in Granada in the eighth century AH (the fourteenth century CE); his year of birth is not known with certainty. He is a major developer of the theory of the objectives of the Sharia (maqasid al-shari'ah) in Islamic usul al-fiqh. He is known for his book *al-Muwafaqat fi Usul al-Shari'a*, in which he reformulated the relationship between the particular rulings of the Sharia and its universal objectives, with a coherent theoretical method developed in greater detail than in earlier usul works.
 
 ## Biography
 
@@ -40,7 +39,7 @@ Al-Shatibi worked as a teacher and jurisconsult in Granada. He engaged in severa
 
 ### The theory of the objectives of the Sharia: al-Muwafaqat fi Usul al-Shari'a
 
-This book is the broadest classical theorization of the objectives of the Sharia, that is, the investigation of the purposes and wisdoms for whose realization the legal rulings were enacted, rather than their particular wording alone. Al-Shatibi built his theory on the earlier division of benefits (maslaha) into necessities (daruriyyat), needs (hajiyyat), and embellishments (tahsiniyyat), developed by al-Juwayni and al-Ghazali, but he expanded and grounded it theoretically in greater depth. The five necessities (preservation of religion, life, progeny, intellect, and property) are the overarching objectives around which all legislation revolves. The needs (removal of hardship) and the embellishments (noble character) serve and complete them.
+This book is a comprehensive classical theorization of the objectives of the Sharia, that is, the investigation of the purposes and wisdoms for whose realization the legal rulings were enacted, rather than their particular wording alone. Al-Shatibi built his theory on the earlier division of benefits (maslaha) into necessities (daruriyyat), needs (hajiyyat), and embellishments (tahsiniyyat), developed by al-Juwayni and al-Ghazali, but he expanded and grounded it theoretically in greater depth. The five necessities (preservation of religion, life, progeny, intellect, and property) are the overarching objectives around which all legislation revolves. The needs (removal of hardship) and the embellishments (noble character) serve and complete them.
 
 Al-Shatibi also introduced the concept of "overall certainty" (al-qat'iyya al-kulliyya), arising from the inductive accumulation of the particulars of the Sharia. A multitude of individual textual particulars, each of which is speculative (zanni), together reach a general certainty about the overall objective, in a theory of induction somewhat close to logical induction.
 
@@ -83,4 +82,4 @@ He also discussed the relationship between the Lawgiver's purpose and the purpos
 - al-Raysuni, Ahmad. *Nazariyyat al-Maqasid 'inda al-Imam al-Shatibi* (The Theory of Objectives according to Imam al-Shatibi). Herndon: International Institute of Islamic Thought, 1995.
 - Hallaq, Wael B. *A History of Islamic Legal Theories: An Introduction to Sunni Usul al-Fiqh*. Cambridge: Cambridge University Press, 1997.
 - Opwis, Felicitas. *Maslaha and the Purpose of the Law: Islamic Discourse on Legal Change from the 4th/10th to 8th/14th Century*. Leiden: Brill, 2010.
-- Masud, Muhammad Khalid. *Shatibi's Philosophy of Islamic Law*. Islamabad: Islamic Research Institute, 1995.
+- Masud, Muhammad Khalid. *Shatibi's Philosophy of Islamic Law*. Islamabad: Islamic Research Institute, 1977.

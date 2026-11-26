@@ -33,9 +33,9 @@ In its early chapters, the book criticizes the **classical Austinian model** (la
 
 ## The Hartian Alternative
 
-Hart proposes a system of **primary rules** (which impose duties) and three **secondary rules**: the rule of change (how rules are enacted and repealed), the rule of adjudication (who determines that a rule has been broken), and the **rule of recognition**, the most important of the three, which provides a social criterion for the validity of primary rules.
+Hart proposes a system of **primary rules** (which impose duties) and three **secondary rules**: the rule of change (how rules are enacted and repealed), the rule of adjudication (who determines that a rule has been broken), and the **rule of recognition**, the foundational one, which provides a social criterion for the validity of primary rules.
 
-## The Final Chapter: Hard Cases, Law and Morality
+## Open Texture, Law and Morality
 
 The book also discusses the problem of **vagueness in legal language** (the "open texture" of law), and Hart's middle position between extreme formalism and extreme American realism. It also covers his position on the relationship between law and morality. He accepts the existence of a **minimum content of natural law** necessary for the survival of any society, while rejecting the thesis that moral wickedness deprives a rule of its legal character.
 
@@ -49,7 +49,7 @@ Hart introduces the concept of the **"internal point of view"** as an analytic t
 
 ## Reception and Critique
 
-Upon its publication the book was regarded as a radical renewal of legal positivism. It has been the reference text around which most debates in analytic philosophy of law have revolved since the 1960s. The most prominent criticism came from **Ronald Dworkin**, Hart's successor in the Oxford chair of jurisprudence, who argued in later essays (most notably "The Model of Rules") that Hart's rule-based model cannot account for the role of **principles** in judicial reasoning. He also argued that judges in **hard cases** do not exercise discretion outside the law, as Hart claims, but discover rights latent within the legal system itself. Hart partly answered this critique in the **Postscript** appended to the second edition after his death in 1992. There he maintained his positivist position, and accepted that a rule of recognition may incorporate moral criteria among its tests of validity (a position now usually called inclusive or soft positivism, in contrast to the exclusive positivism of his student Joseph Raz). Another criticism came from the realist direction, arguing that Hart, despite criticizing formalism, retained a degree of rule-based certainty that does not reflect the actual complexity of judicial practice.
+The book was widely regarded as a major renewal of legal positivism, and many debates in analytic philosophy of law since the 1960s have taken it as their reference point. A prominent criticism came from **Ronald Dworkin**, Hart's successor in the Oxford chair of jurisprudence, who argued in later essays (most notably "The Model of Rules") that Hart's rule-based model cannot account for the role of **principles** in judicial reasoning. He also argued that judges in **hard cases** do not exercise discretion outside the law, as Hart claims, but discover rights latent within the legal system itself. Hart partly answered this critique in the **Postscript** appended to the second edition after his death in 1992. There he maintained his positivist position, and accepted that a rule of recognition may incorporate moral criteria among its tests of validity (a position now usually called inclusive or soft positivism, in contrast to the exclusive positivism of his student Joseph Raz). Another criticism came from the realist direction, arguing that Hart, despite criticizing formalism, retained a degree of rule-based certainty that does not reflect the actual complexity of judicial practice.
 
 ## Lasting Impact
 

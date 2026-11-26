@@ -22,7 +22,7 @@ gaps: []
 
 # Hersch Lauterpacht
 
-**Hersch Lauterpacht** was a jurist of international law, born in 1897 in Zolkiew, Austrian Galicia (now Zhovkva, Ukraine), to a Jewish family. He studied law in Vienna, where Hans Kelsen was among his teachers, then moved to Britain in 1923, studied at the London School of Economics, and became Whewell Professor of International Law at Cambridge (1938-55) and later a judge of the International Court of Justice (1955-60). He is one of the most important theorists of international law in the twentieth century and a leading pioneer in linking international law to human rights.
+**Hersch Lauterpacht** was a jurist of international law, born in 1897 in Zolkiew, Austrian Galicia (now Zhovkva, Ukraine), to a Jewish family. He studied law in Vienna, where Hans Kelsen was among his teachers, then moved to Britain in 1923, studied at the London School of Economics, and became Whewell Professor of International Law at Cambridge (1938-55) and later a judge of the International Court of Justice (1955-60). He is a leading theorist of international law in the twentieth century and an early advocate in linking international law to human rights.
 
 ## Critique of Voluntarist Positivism: International Law as an Integrated System
 

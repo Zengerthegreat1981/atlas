@@ -25,7 +25,7 @@ gaps:
 ---
 # Mustafa Ahmad al-Zarqa
 
-A Syrian jurist, one of the most prominent Islamic jurists of the twentieth century in combining traditional Shariah training with modern legal education (he also held a law degree). He is regarded as one of the most important figures in restating **legal maxims (qawa'id fiqhiyya)** within a modern theoretical framework that can be directly compared with the general theory of obligations in civil law.
+A Syrian jurist, a prominent Islamic jurist of the twentieth century who combined traditional Shariah training with modern legal education (he also held a law degree). He is regarded as a leading figure in restating **legal maxims (qawa'id fiqhiyya)** within a modern theoretical framework that can be directly compared with the general theory of obligations in civil law.
 
 ## Life and context
 
@@ -51,11 +51,11 @@ Much of al-Zarqa's ability to build a bridge between fiqh and modern law is attr
 
 ## Impact and criticism
 
-Al-Zarqa is regarded as one of the most important bridges between classical Islamic jurisprudence and twentieth-century civil law, and his works are widely cited in the study of Islamic law and modern codification. Some scholars hold that his project in *al-Madkhal al-Fiqhi al-'Amm*, alongside that of al-Sanhuri, represents the clearest attempt to demonstrate that Islamic jurisprudence already contains an implicit 'general theory' that can be extracted and modernly organized. Critics, however, point out that this extraction is itself a modern process of reconstruction, imposing on the older jurisprudential material classifications that were not necessarily present in the minds of the earlier jurists themselves.
+Al-Zarqa is regarded as a major bridge between classical Islamic jurisprudence and twentieth-century civil law, and his works are widely cited in the study of Islamic law and modern codification. Some scholars hold that his project in *al-Madkhal al-Fiqhi al-'Amm*, alongside that of al-Sanhuri, represents a leading attempt to show that Islamic jurisprudence already contains an implicit 'general theory' that can be extracted and modernly organized. Critics, however, point out that this extraction is itself a modern process of reconstruction, imposing on the older jurisprudential material classifications that were not necessarily present in the minds of the earlier jurists themselves.
 
 ### His institutional role in the Islamic Fiqh Academy
 
-Al-Zarqa participated in founding and serving on modern collective jurisprudential bodies, most notably the International Islamic Fiqh Academy of the Organisation of Islamic Cooperation. These institutions sought to replace individual traditional fatwa-giving with an institutional mechanism of collective ijtihad, in which jurists from different schools and countries discuss emerging issues before issuing a joint decision. This is a relatively recent institutional model that reflects the twentieth-century evolution of how fatwas are produced, moving away from isolated individual ijtihad.
+Al-Zarqa served on modern collective jurisprudential bodies, most notably the International Islamic Fiqh Academy of the Organisation of Islamic Cooperation. These institutions sought to replace individual traditional fatwa-giving with an institutional mechanism of collective ijtihad, in which jurists from different schools and countries discuss emerging issues before issuing a joint decision. This is a relatively recent institutional model that reflects the twentieth-century evolution of how fatwas are produced, moving away from isolated individual ijtihad.
 
 ## Sources
 

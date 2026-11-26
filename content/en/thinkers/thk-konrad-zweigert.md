@@ -7,7 +7,7 @@ level: "متقدم"
 title: "Konrad Zweigert"
 en: "Konrad Zweigert"
 crumb: "Legal Theory ← Thinkers ← Konrad Zweigert"
-dates: "Professor of Private Law and Director of the Max Planck Institute for Foreign and International Private Law, Hamburg · 1911–1996"
+dates: "Tübingen, Hamburg · 1911–1996"
 country: "Germany"
 language: "German"
 legal_tradition: "Comparative law / private law"
@@ -18,12 +18,11 @@ edges:
 related:
 - id: "sch-civil-law-tradition", title: "Romano-Germanic Civil Law Tradition", type: "مدرسة"
 - id: "thk-rene-david", title: "René David", type: "مفكر"
-gaps:
-  - "Details of his institutional role at the Max Planck Institute in Hamburg: not yet covered."
+gaps: []
 ---
 # Konrad Zweigert
 
-**Konrad Zweigert** (1911–1996) was a German jurist, professor of comparative private law (at Tübingen from 1948, then Hamburg), judge of the Federal Constitutional Court (1951–56) and director of the Max Planck Institute for Foreign and International Private Law in Hamburg. Together with his co-author Hein Kötz, he is regarded as the author of one of the most influential and widely used works of comparative law in academic teaching worldwide, owing to his rigorous formulation of what is today known as the **functional method** in comparative legal studies.
+**Konrad Zweigert** (1911–1996) was a German jurist, professor of comparative private law (at Tübingen from 1948, then Hamburg), judge of the Federal Constitutional Court (1951–56) and director of the Max Planck Institute for Foreign and International Private Law in Hamburg. Together with his co-author Hein Kötz, he is regarded as the author of an influential and widely used work of comparative law in academic teaching, which popularized what is known as the **functional method** in comparative legal studies.
 
 ## The Functional Method: The "Supreme Principle" of Comparative Law
 
@@ -43,11 +42,11 @@ Zweigert directed the Max Planck Institute for Foreign and International Private
 
 ## Functionalism as an Educational Method
 
-The distinctive pedagogical approach of the Zweigert and Kötz book, which presents a single practical problem (such as compensation for psychological harm, or the voidness of a contract for error) and then surveys its actual solutions in several legal systems side by side, turned the teaching of comparative law from a static descriptive account of foreign legislation into a live analytical exercise that trains the student to think across legal boundaries. This pedagogical approach is precisely what made the book translated into dozens of languages and adopted as a core textbook in law faculties around the world.
+The distinctive pedagogical approach of the Zweigert and Kötz book, which presents a single practical problem (such as compensation for psychological harm, or the voidness of a contract for error) and then surveys its actual solutions in several legal systems side by side, turned the teaching of comparative law from a static descriptive account of foreign legislation into a live analytical exercise that trains the student to think across legal boundaries. This pedagogical approach is precisely what contributed to the book's translation into many languages and its adoption as a textbook in many law faculties.
 
 ## Legacy
 
-The Zweigert and Kötz book remains one of the most widely used texts for teaching comparative law worldwide to this day. Their functional method has influenced all subsequent comparative studies that seek to go beyond the barriers of local terminology.
+The Zweigert and Kötz book remains a widely used text for teaching comparative law. Their functional method has influenced all subsequent comparative studies that seek to go beyond the barriers of local terminology.
 
 ## Continuity of the Book across Generations
 

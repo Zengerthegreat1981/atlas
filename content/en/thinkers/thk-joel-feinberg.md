@@ -21,7 +21,7 @@ gaps: []
 ---
 # Joel Feinberg
 
-**Joel Feinberg** (1926–2004) was an American philosopher. Born in Detroit, he taught at Brown, Princeton, the Rockefeller University and UCLA before settling at the University of Arizona in 1977. He is regarded as the most important philosopher of the twentieth century to devote a complete project to defining **the legitimate limits of criminalization**: when may the state at all criminalize a particular conduct and punish it?
+**Joel Feinberg** (1926–2004) was an American philosopher. Born in Detroit, he taught at Brown, Princeton, the Rockefeller University and UCLA before settling at the University of Arizona in 1977. He is regarded as a leading philosopher of the twentieth century to devote a complete project to defining **the legitimate limits of criminalization**: when may the state at all criminalize a particular conduct and punish it?
 
 ## The major project: four volumes, four candidate principles
 
@@ -45,7 +45,7 @@ The large project was preceded by an influential early work, **Doing and Deservi
 
 ## Impact and critique
 
-Feinberg's project has become an essential reference in contemporary philosophy of criminal law. His analytical framework, which dismantles the four principles of criminalization and examines each separately, became a methodological model even for those who disagree with his final conclusions. Critics, particularly defenders of forms of legal moralism in the tradition of Patrick Devlin's earlier position, objected that the expanded "harm" criterion Feinberg proposes is loose enough to justify much of what he meant to exclude under the name of moralism. They also argued that the sharp separation between harm and pure immorality may be difficult to apply in practice in many cases where the two dimensions are intertwined. Nevertheless, his precise analytical method for dismantling principles of criminalization remains a model taught in philosophy of criminal law to this day.
+Feinberg's project has become a standard reference in contemporary philosophy of criminal law. His analytical framework, which dismantles the four principles of criminalization and examines each separately, became a methodological model even for those who disagree with his final conclusions. Critics, particularly defenders of forms of legal moralism in the tradition of Patrick Devlin's earlier position, objected that the expanded "harm" criterion Feinberg proposes is loose enough to justify much of what he meant to exclude under the name of moralism. They also argued that the sharp separation between harm and pure immorality may be difficult to apply in practice in many cases where the two dimensions are intertwined. Nevertheless, his precise analytical method for dismantling principles of criminalization remains a model taught in philosophy of criminal law to this day.
 
 ## Sources
 

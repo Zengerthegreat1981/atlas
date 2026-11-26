@@ -21,7 +21,7 @@ Socialist legal systems form an independent legal family that emerged after the 
 
 ## Origins: Marxism and the Soviet State
 
-The socialist jurisprudence drew on the thesis of **Marx and Engels** in *The German Ideology* (written 1845–46, first published in 1932) that law, like the state, is a superstructure that reflects the prevailing class relations of production and possesses no real normative independence from them. On this basis, after the Bolshevik Revolution, a project was launched to draft a new Soviet law that would serve the building of socialism, although this project remained strained between two internally opposed currents.
+The socialist jurisprudence drew on the thesis of **Marx and Engels** (in *The German Ideology*, written 1845–46 and first published in full in 1932, and in Marx's 1859 Preface to *A Contribution to the Critique of Political Economy*) that law, like the state, is tied to a superstructure that reflects the prevailing class relations of production and possesses no real normative independence from them. On this basis, after the Bolshevik Revolution, a project was launched to draft a new Soviet law that would serve the building of socialism, although this project remained strained between two internally opposed currents.
 
 ## The Two Internal Currents: Pashukanis versus Vyshinsky
 
@@ -41,7 +41,7 @@ With the collapse of the Soviet Union and the Eastern Bloc system between 1989 a
 
 ## The Position of Socialist Law within the Comparison of the Major Legal Families
 
-Comparative legal scholars (chief among them Konrad Zweigert and Hein Kötz in their classic reference work) have customarily placed the socialist family within a three- or four-part classification of the world's major legal families, alongside the Romano-Germanic civil law, the English common law, and religious law (such as Islamic sharia). This classification has provoked methodological debate. While socialist law formally retained many terms and procedural structures inherited from the Romano-Germanic tradition (especially in Russia and Eastern Europe, where European civil codes had been dominant before 1917), the essential difference was not in technical form but in **the ideological function of law** and in the degree of its independence from the political authority of the ruling party. This led some scholars to regard it as a genuinely independent family, while others saw it as merely a politically modified variant of the civil law family rather than a family in its own right.
+Comparative legal scholars (chief among them Konrad Zweigert and Hein Kötz in their classic reference work) have customarily treated the socialist family as a distinct legal family in their classification of the world's legal systems (which, in Zweigert and Kötz, also includes the Romanistic, Germanic, Anglo-American, Nordic, Far Eastern, Islamic and Hindu families). This classification has provoked methodological debate. While socialist law formally retained many terms and procedural structures inherited from the Romano-Germanic tradition (especially in Russia and Eastern Europe, where European civil codes had been dominant before 1917), the essential difference was not in technical form but in **the ideological function of law** and in the degree of its independence from the political authority of the ruling party. This led some scholars to regard it as a genuinely independent family, while others saw it as merely a politically modified variant of the civil law family rather than a family in its own right.
 
 ## Property and the Judiciary: Practical Applications
 
@@ -50,5 +50,5 @@ The structural differences of socialist law were most evident in two principal p
 ## Sources
 
 - Pashukanis, Evgeny B. *The General Theory of Law and Marxism*. 1924 (English translation by Barbara Einhorn as *Law and Marxism: A General Theory*, Ink Links, 1978).
-- Zweigert, Konrad, and Hein Kötz. *An Introduction to Comparative Law*. 3rd edition, Oxford University Press, 1998 (chapter on socialist legal systems).
+- Zweigert, Konrad, and Hein Kötz. *An Introduction to Comparative Law*. 3rd edition, Oxford University Press, 1998.
 - Quigley, John. "Socialist Law and the Civil Law Tradition." *American Journal of Comparative Law*, vol. 37, no. 4, 1989, pp. 781–808.

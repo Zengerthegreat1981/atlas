@@ -29,7 +29,7 @@ Modern labor law rests on the idea of the structural inequality between the two 
 
 ## Leading Thinkers
 
-Karl Marx is the most prominent theorist of the critique of capitalist relations of production, while Otto von Bismarck in Germany introduced the first comprehensive system of social insurance for workers in the 1880s. In contemporary Islamic jurisprudence, Yusuf al-Qaradawi, in his book *Dawr al-Qiyam wa al-Akhlaq fi al-Iqtisad al-Islami* (The Role of Values and Ethics in the Islamic Economy), discussed the place of ethical values in economic life, including fair dealing with workers, in light of the objectives of the Sharia.
+Karl Marx is a leading theorist of the critique of capitalist relations of production, while Otto von Bismarck in Germany introduced a national system of compulsory social insurance for workers in the 1880s. In contemporary Islamic jurisprudence, Yusuf al-Qaradawi, in his book *Dawr al-Qiyam wa al-Akhlaq fi al-Iqtisad al-Islami* (The Role of Values and Ethics in the Islamic Economy), discussed the place of ethical values in economic life, including fair dealing with workers, in light of the objectives of the Sharia.
 
 ## Impact and Application
 

@@ -20,14 +20,12 @@ related:
 - id: "con-qiyas-analogical-reasoning", title: "Qiyas (Analogical Reasoning in Sharia)", type: "مفهوم"
 - id: "thk-malik-ibn-anas", title: "Malik ibn Anas", type: "مفكر"
 - id: "thk-ahmad-ibn-hanbal", title: "Ahmad ibn Hanbal", type: "مفكر"
-gaps:
-  - "Sources differ on his exact place of birth (Gaza or Ascalon are the usual reports), with agreement that he grew up in Mecca."
-  - "The exact nature of his relationship with Ahmad ibn Hanbal (whether formal teacher and student, or senior scholar and attendee) is reported variously in the biographical tradition and is not settled here."
+gaps: []
 ---
 
 # Muhammad ibn Idris al-Shafi'i
 
-A jurist and traditionist from the Quraysh, regarded as the author of the first systematic methodological theory of Islamic legal theory (*usul al-fiqh*) in his book *al-Risala*, and the founder of the Shafi'i school, one of the four major Sunni schools of jurisprudence. He combined his training under Malik ibn Anas in Medina with his training under Iraqi Hanafi jurists, and sought to reconcile the methods of the "People of Hadith" and the "People of Opinion" by formulating explicit rules for the sources of legislation and their ordering.
+A jurist and traditionist from the Quraysh, regarded as the author of the earliest surviving systematic treatise on Islamic legal theory (*usul al-fiqh*), *al-Risala*, and the eponym of the Shafi'i school, one of the four major Sunni schools of jurisprudence. He combined his training under Malik ibn Anas in Medina with his training under Iraqi Hanafi jurists, and sought to reconcile the methods of the "People of Hadith" and the "People of Opinion" by formulating explicit rules for the sources of legislation and their ordering.
 
 ## Biography
 
@@ -37,7 +35,7 @@ Al-Shafi'i was born in 150 AH (the sources differ between Gaza and Ascalon as hi
 
 ### The Risala: Establishing the Discipline of Usul al-Fiqh
 
-*Al-Risala* is the earliest known Arabic work that treats the sources of Islamic legislation and the methods of inference as an independent theoretical subject, rather than directly within practical jurisprudence (*furu'*). In it al-Shafi'i arranged the sources of the legal ruling in a clear order: the Quran; then the Sunna (whose independent authority he established even in matters on which there is no explicit Quranic text, in response to those who restricted proof to the Quran alone); then consensus (*ijma'*); then analogy (*qiyas*). He treated in detail the rules of the general and the specific, abrogating and abrogated texts, the ambiguous and the explained, and the authority of solitary reports (*khabar al-ahad*).
+*Al-Risala* is the earliest surviving Arabic work that treats the sources of Islamic legislation and the methods of inference as an independent theoretical subject, rather than directly within practical jurisprudence (*furu'*). In it al-Shafi'i arranged the sources of the legal ruling in a clear order: the Quran; then the Sunna (whose independent authority he established even in matters on which there is no explicit Quranic text, in response to those who restricted proof to the Quran alone); then consensus (*ijma'*); then analogy (*qiyas*). He treated in detail the rules of the general and the specific, abrogating and abrogated texts, the ambiguous and the explained, and the authority of solitary reports (*khabar al-ahad*).
 
 ### Reconciling the People of Hadith and the People of Opinion
 
@@ -45,11 +43,11 @@ Al-Shafi'i sought to establish disciplined limits on analogy that prevent slippi
 
 ### Usul al-Fiqh as a Discipline Independent of the Branches
 
-Before al-Shafi'i, questions of inference (the authority of solitary reports, the status of analogy, the meaning of consensus) were discussed implicitly within books of practical jurisprudence or in scattered debates among jurists, without being formulated as an explicit theory independent of those branches. Al-Shafi'i's achievement in *al-Risala* was to extract these questions from their scattered practical context and make them the subject of a single integrated book, using defined terminology (the root and the branch, the effective cause, the ruling) and a clear logical order. This is what led modern historians of jurisprudence to regard him as the founder of the theoretical basis on which the discipline of usul al-fiqh was built as an independent specialization among the Islamic sciences.
+Before al-Shafi'i, questions of inference (the authority of solitary reports, the status of analogy, the meaning of consensus) were discussed implicitly within books of practical jurisprudence or in scattered debates among jurists, without being formulated as an explicit theory independent of those branches. Al-Shafi'i's achievement in *al-Risala* was to extract these questions from their scattered practical context and make them the subject of a single integrated book, using defined terminology (the root and the branch, the effective cause, the ruling) and a clear logical order. This is why many historians of jurisprudence regard him as central to the theoretical basis on which the discipline of usul al-fiqh was built as an independent specialization among the Islamic sciences.
 
 ## Impact
 
-Al-Shafi'i has long been regarded in Western and Islamic scholarship (for instance by Schacht) as the figure who transformed usul al-fiqh from a scattered implicit practice among early regional schools into an **independent science with its own subject and methodology**, although modern scholars differ over the extent of the "originality" of this founding compared with his role in codifying debates that were already ongoing among his contemporaries. He founded the Shafi'i school, which spread in Egypt, the Levant, the Hijaz, Yemen, East Africa and Southeast Asia, and *al-Risala* became a model whose general structure was drawn upon (though its details were debated) in later works of usul across the various schools.
+Al-Shafi'i has long been regarded in Western and Islamic scholarship (for instance by Schacht) as the figure who transformed usul al-fiqh from a scattered implicit practice among early regional schools into an **independent science with its own subject and methodology**, although modern scholars differ over the extent of the "originality" of this founding compared with his role in codifying debates that were already ongoing among his contemporaries. The Shafi'i school, named after him, spread in Egypt, the Levant, the Hijaz, Yemen, East Africa and Southeast Asia, and *al-Risala* became a model whose general structure was drawn upon (though its details were debated) in later works of usul across the various schools.
 
 ## Limitations
 
@@ -57,11 +55,11 @@ The difference between al-Shafi'i's "Old School" in Iraq and his "New School" in
 
 ### His Relations with Contemporaries: Malik, Abu Hanifa and Ibn Hanbal
 
-Al-Shafi'i represents, in the history of Islamic legislation, a link between three other founding figures: he studied under Malik ibn Anas in Medina and took the *Muwatta'* directly from him; he engaged in Iraq with the students of Abu Hanifa and inherited from them an understanding of the Iraqi method of opinion and analogy; and in Baghdad Ahmad ibn Hanbal attended his circle and held him in high esteem, though Ibn Hanbal later developed a distinct approach that relied more strictly on hadith reports and was less inclined to abstract theorization of usul. This overlap among the four figures in the late second and early third centuries AH partly explains how four distinct Sunni schools of jurisprudence crystallized within a relatively short period, despite their sharing many sources and teachers.
+Al-Shafi'i represents, in the history of Islamic legislation, a link between three other eponymous jurists: he studied under Malik ibn Anas in Medina and read the *Muwatta'* with him; he engaged in Iraq with the students of Abu Hanifa and inherited from them an understanding of the Iraqi method of opinion and analogy; and in Baghdad Ahmad ibn Hanbal attended his circle and held him in high esteem, though Ibn Hanbal later developed a distinct approach that relied more strictly on hadith reports and was less inclined to abstract theorization of usul. This overlap among the four figures in the late second and early third centuries AH partly explains how four distinct Sunni schools of jurisprudence crystallized within a relatively short period, despite their sharing many sources and teachers.
 
 ## His Principal Works
 
-- **Al-Risala**: The first systematic theoretical foundation of usul al-fiqh.
+- **Al-Risala**: The earliest surviving systematic treatise on usul al-fiqh.
 - **Al-Umm**: A large jurisprudential encyclopedia of the branches, representing essentially the New School.
 - **Ikhtilaf al-Hadith**: On dealing with conflicts among hadith reports.
 - **Jima' al-'Ilm**: A short treatise on the authority of the Sunna and the arguments of those who reject it or restrict it.
@@ -80,4 +78,4 @@ The distinction between the "Old School" (Iraqi) and the "New School" (Egyptian)
 - Khadduri, Majid (trans.). *Islamic Jurisprudence: Shafi'i's Risala*. Baltimore: Johns Hopkins University Press, 1961.
 - Schacht, Joseph. *The Origins of Muhammadan Jurisprudence*. Oxford: Clarendon Press, 1950.
 - Hallaq, Wael B. *A History of Islamic Legal Theories: An Introduction to Sunni Usul al-Fiqh*. Cambridge: Cambridge University Press, 1997.
-- Hallaq, Wael B. "Was al-Shafi'i the Master Architect of Islamic Jurisprudence?" *International Journal of Middle East Studies* 25, no. 4 (1993).
+- Hallaq, Wael B. "Was al-Shafi'i the Master Architect of Islamic Jurisprudence?" *International Journal of Middle East Studies* 25, no. 4 (1993): 587–605.

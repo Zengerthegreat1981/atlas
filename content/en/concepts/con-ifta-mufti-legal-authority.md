@@ -26,7 +26,7 @@ gaps:
 
 ## The Usuli Distinction between Fatwa and Judgment
 
-Many usuliyyun, first among them Shihab al-Din al-Qarafi in his book *al-Ihkam fi Tamyiz al-Fatawa 'an al-Ahkam*, drew a precise distinction between fatwa and judicial ruling. The fatwa is an **announcement** of God's ruling on the matter presented. It has no coercive force, although many jurists held that a layperson who lacks the ability to reason independently should follow a qualified mufti. The judicial ruling, by contrast, is an actual **binding** act in a specific dispute between two parties, in which the judge has the authority to enforce it by compulsion. This distinction makes the mufti's authority essentially a religious-epistemic authority rather than an executive one, unlike the authority of the judge.
+Many usuliyyun, notably Shihab al-Din al-Qarafi (d. 684/1285) in his book *al-Ihkam fi Tamyiz al-Fatawa 'an al-Ahkam*, drew a precise distinction between fatwa and judicial ruling. The fatwa is an **announcement** of God's ruling on the matter presented. It has no coercive force, although many jurists held that a layperson who lacks the ability to reason independently should follow a qualified mufti. The judicial ruling, by contrast, is an actual **binding** act in a specific dispute between two parties, in which the judge has the authority to enforce it by compulsion. This distinction makes the mufti's authority essentially a religious-epistemic authority rather than an executive one, unlike the authority of the judge.
 
 ## The Source of the Mufti's Authority
 

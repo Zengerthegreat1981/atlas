@@ -26,7 +26,7 @@ gaps:
 
 # Al-Ashbah wa al-Naza'ir
 
-A reference work on **legal maxims** (*qawa'id fiqhiyya*) by the Egyptian Hanafi jurist **Zayn al-Din ibn Ibrahim Ibn Nujaym** (d. 970 AH / 1563 CE). It is among the most important works of this genre in the Hanafi school. It bears the same title as an earlier Shafi'i work by Jalal al-Din al-Suyuti. Ibn Nujaym's book is generally understood to follow the genre and in part the arrangement of the Shafi'i works of this name (those of Taj al-Din al-Subki and al-Suyuti), but it is an independent work built on Hanafi branch rulings.
+A reference work on **legal maxims** (*qawa'id fiqhiyya*) by the Egyptian Hanafi jurist **Zayn al-Din ibn Ibrahim Ibn Nujaym** (d. 970 AH / 1563 CE). It is a major work of this genre in the Hanafi school. It bears the same title as an earlier Shafi'i work by Jalal al-Din al-Suyuti. Ibn Nujaym's book is generally understood to follow the genre and in part the arrangement of the Shafi'i works of this name (those of Taj al-Din al-Subki and al-Suyuti), but it is an independent work built on Hanafi branch rulings.
 
 ## General Structure
 
@@ -46,7 +46,7 @@ As is customary in this literature, Ibn Nujaym is careful to note that most of t
 
 ## Its Impact on the Majalla
 
-This book is among the most important textual sources drawn upon by the drafters of the Ottoman **Majallat al-Ahkam al-Adliyya** when they formulated its introductory part, which sets out ninety-nine overarching juristic maxims before entering into the substantive details. Ibn Nujaym's formulations were in several cases carried closely into a modern binding legal text, a clear example of the transfer of a classical juristic literature into a contemporary legislative form.
+This book is among the textual sources drawn upon by the drafters of the Ottoman **Majallat al-Ahkam al-Adliyya** when they formulated its introductory part, which sets out ninety-nine overarching juristic maxims before entering into the substantive details. Ibn Nujaym's formulations were in several cases carried closely into a modern binding legal text, a clear example of the transfer of a classical juristic literature into a contemporary legislative form.
 
 ## Juristic Puzzles and Pedagogical Function
 

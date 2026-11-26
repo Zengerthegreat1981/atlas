@@ -3,10 +3,10 @@
   "parse_warnings": 0,
   "parse_warning_examples": [],
   "flag_counts": {
-    "edge-target-by-name": 2430,
+    "edge-target-by-name": 2429,
     "pending": 63,
     "short": 54,
-    "declared-gaps": 357,
+    "declared-gaps": 355,
     "placeholder": 32,
     "no-title": 32,
     "part-not-explicit": 44,

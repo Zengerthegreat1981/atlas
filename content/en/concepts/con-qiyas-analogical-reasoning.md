@@ -41,7 +41,7 @@ The usuliyyun stipulated that the 'illa be a descriptive attribute that is deter
 
 ## Al-Shafi'i and the Place of Qiyas in al-Risala
 
-**Al-Shafi'i** is credited with the first systematic defence of qiyas as a source of proof in his *al-Risala*, in which he distinguished between explicit texts and independent reasoning by analogy in the absence of a text. In this way he laid the foundation on which later usuliyyun, chief among them al-Ghazali, built a complete methodological theory for regulating ijtihad and restricting its arbitrary expansion.
+**Al-Shafi'i** is credited with an early and influential systematic defence of qiyas as a source of proof in his *al-Risala*, in which he distinguished between explicit texts and independent reasoning by analogy in the absence of a text. In this way he laid the foundation on which later usuliyyun, chief among them al-Ghazali, built a complete methodological theory for regulating ijtihad and restricting its arbitrary expansion.
 
 ## Parallel with Analogical Reasoning in Western Law
 

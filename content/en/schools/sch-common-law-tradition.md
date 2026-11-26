@@ -28,7 +28,7 @@ The common law tradition rests on the principle of binding judicial precedent (*
 
 ## Leading Thinkers
 
-Sir Edward Coke, a leading judge and jurist of the early seventeenth century, defended the independence of the common law courts against royal claims. Sir William Blackstone, in his *Commentaries on the Laws of England*, provided the first comprehensive systematic organization of common law. In the nineteenth century, John Austin developed the early legal positivist theory that interpreted law as a command issued by a supreme sovereign authority, while in America Oliver Wendell Holmes approached law from a realist perspective linking it to the prediction of courts' behavior. In the twentieth century, H.L.A. Hart, in *The Concept of Law*, presented a developed positivist theory distinguishing between primary and secondary rules, which became a fundamental reference in Anglo-American legal philosophy.
+Sir Edward Coke, a leading judge and jurist of the early seventeenth century, defended the independence of the common law courts against royal claims. Sir William Blackstone, in his *Commentaries on the Laws of England*, provided an influential comprehensive and systematic account of English law (1765–1769). In the nineteenth century, John Austin developed the early legal positivist theory that interpreted law as a command issued by a supreme sovereign authority, while in America Oliver Wendell Holmes approached law from a realist perspective linking it to the prediction of courts' behavior. In the twentieth century, H.L.A. Hart, in *The Concept of Law*, presented a developed positivist theory distinguishing between primary and secondary rules, which became a fundamental reference in Anglo-American legal philosophy.
 
 ## Impact and Application
 

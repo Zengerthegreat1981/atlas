@@ -25,7 +25,7 @@ gaps: []
 
 # Hans Kelsen
 
-An Austrian jurist and philosopher of law (1881–1973), one of the most important theorists of legal positivism in the twentieth century and author of the **Pure Theory of Law** (*Reine Rechtslehre*). He worked as a professor in Vienna and took part in drafting the Austrian constitution of 1920 and designing one of the first modern European constitutional courts. After the rise of Nazism he was forced to leave Germany, as he was of Jewish origin, and finally settled in the United States, at the University of California, Berkeley.
+An Austrian jurist and philosopher of law (1881–1973), one of the leading theorists of legal positivism in the twentieth century and author of the **Pure Theory of Law** (*Reine Rechtslehre*). He worked as a professor in Vienna and took part in drafting the Austrian constitution of 1920 and designing one of the first modern European constitutional courts. After the rise of Nazism he was forced to leave Germany, as he was of Jewish origin, and finally settled in the United States, at the University of California, Berkeley.
 
 ## The Project: Purifying the Science of Law of Everything Non-Legal
 
@@ -49,11 +49,11 @@ One must distinguish Kelsen's positivism from simpler legal positivisms, such as
 
 ## The Echo of the Dispute with Carl Schmitt
 
-Among Kelsen's most notable intellectual exchanges was his dispute with Carl Schmitt over who should be the "guardian of the constitution." Schmitt argued that the Reich President, not a court, was best suited to be the guardian of the constitution. Kelsen defended his founding thesis: that specialized judicial review is more consistent with the idea of the rule of law than the delegation of exceptional power to an individual leader. The dispute acquired tragic dimensions given what followed in 1933.
+Among Kelsen's most notable intellectual exchanges was his dispute with Carl Schmitt over who should be the "guardian of the constitution." Schmitt argued that the Reich President, not a court, was best suited to be the guardian of the constitution. Kelsen defended the view that specialized judicial review is more consistent with the idea of the rule of law than the delegation of exceptional power to an individual leader. The dispute acquired tragic dimensions given what followed in 1933.
 
 ## His Relation to Comparisons with Islamic Jurisprudence
 
-Kelsen's analytical tools were sometimes used in comparative studies of Islamic usul al-fiqh. Some researchers noted a superficial structural resemblance between Kelsen's idea of normative hierarchy and the hierarchy of sources among the jurists of usul, such as the ordering of the sources of law (the Quran, the Sunna, consensus and analogy) set out in the tradition of usul al-fiqh from al-Shafi'i onward. The essential difference remains, however. The jurists' hierarchy derives its validity from a transcendent textual source (revelation), not from a purely methodological presupposition as in Kelsen. This difference makes the comparison analytically useful within its limits, but it precludes a complete identity between the two frameworks.
+Kelsen's analytical tools were sometimes used in comparative studies of Islamic usul al-fiqh. A superficial structural resemblance can be noted between Kelsen's idea of normative hierarchy and the hierarchy of sources among the jurists of usul, such as the ordering of the sources of law (the Quran, the Sunna, consensus and analogy) set out in the tradition of usul al-fiqh from al-Shafi'i onward. The essential difference remains, however. The jurists' hierarchy derives its validity from a transcendent textual source (revelation), not from a purely methodological presupposition as in Kelsen. This difference makes the comparison analytically useful within its limits, but it precludes a complete identity between the two frameworks.
 
 ## Sources
 

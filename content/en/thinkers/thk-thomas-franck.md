@@ -22,7 +22,7 @@ gaps:
 ---
 # Thomas M. Franck
 
-**Thomas Franck** (1931–2009), born in Europe and later a Canadian and American citizen, was a professor of international law at New York University. He is regarded as one of the most prominent theorists of **legitimacy and compliance** in contemporary international law, through his seminal book *The Power of Legitimacy Among Nations* (1990). That book posed a central question: why do states comply with international law despite the absence of a coercive central authority that imposes it on them?
+**Thomas Franck** (1931–2009), born in Europe and later a Canadian and American citizen, was a professor of international law at New York University. He is regarded as a prominent theorist of **legitimacy and compliance** in contemporary international law, through his seminal book *The Power of Legitimacy Among Nations* (1990). That book posed a central question: why do states comply with international law despite the absence of a coercive central authority that imposes it on them?
 
 ## Legitimacy as an independent source of binding force
 
@@ -40,17 +40,13 @@ In his influential article "The Emerging Right to Democratic Governance" (1992),
 
 Later, in *Fairness in International Law and Institutions* (1995), Franck drew a distinction between **procedural justice** (the integrity of the process by which international rules are themselves made) and **distributive justice** (the fairness of distributing resources and opportunities between rich and poor states). He argued that the sustainability of the international legal system requires addressing both dimensions together, rather than being satisfied with a merely formal procedural legitimacy that ignores the deep economic power differences among states.
 
-## A comparison with the concept of legitimacy in Islamic political jurisprudence
-
-Franck's analysis of legitimacy as an independent source of obedience can be compared with the concept of **legitimacy** in Islamic political jurisprudence (a comparison drawn by this atlas rather than by Franck). There, obedience to a ruler or commitment to a ruling is conditioned on requirements that go beyond mere coercive capacity, such as the ruler's conformity with the Sharia and the interest of the community. This reflects a shared concern across different intellectual traditions: that sustained obedience requires a normative foundation deeper than mere coercive force.
-
 ## Humanitarian intervention and the problem of legitimacy without explicit legality
 
-Franck boldly addressed the problem of unauthorized humanitarian military intervention, such as NATO's action over Kosovo in 1999 (not authorized by the Security Council), in his essays on the lessons of Kosovo. The formula that such an action may be "illegal but legitimate" is closely associated with the debate over Kosovo (notably the report of the Independent International Commission on Kosovo, 2000); Franck's discussion explored how far extreme moral necessity, such as preventing mass atrocity, could justify departing from the literal rules of the United Nations Charter, and what this does to the authority of those rules. This position provoked wide debate about the risks of weakening the authority of explicit formal rules in favor of loose moral judgments open to political misuse.
+Franck addressed the problem of unauthorized humanitarian military intervention, such as NATO's action over Kosovo in 1999 (not authorized by the Security Council), in his essays on the lessons of Kosovo. The formula that such an action may be "illegal but legitimate" is closely associated with the debate over Kosovo (notably the report of the Independent International Commission on Kosovo, 2000); Franck's discussion explored how far extreme moral necessity, such as preventing mass atrocity, could justify departing from the literal rules of the United Nations Charter, and what this does to the authority of those rules. This position provoked wide debate about the risks of weakening the authority of explicit formal rules in favor of loose moral judgments open to political misuse.
 
 ## Interdisciplinary method
 
-Franck's intellectual project was distinguished by its methodological openness to sociology, anthropology, and social psychology in analyzing legal compliance. He rejected confinement to purely formal legal tools that limit themselves to analyzing texts without examining the actual social and psychological dynamics that make a rule appear binding in the eyes of international actors. This approach paved the way for a later generation of interdisciplinary researchers in international law and international relations.
+Franck's intellectual project was distinguished by its methodological openness to sociology, anthropology, and social psychology in analyzing legal compliance. He rejected confinement to purely formal legal tools that limit themselves to analyzing texts without examining the actual social and psychological dynamics that make a rule appear binding in the eyes of international actors. This approach is associated with later interdisciplinary work in international law and international relations.
 
 ## Enduring legacy in the study of international legitimacy
 
@@ -58,7 +54,7 @@ Franck's theses on legitimacy have been widely used in analyzing later internati
 
 ## Impact and critique
 
-Franck's book brought about a methodological shift in the study of compliance with international law, moving beyond the realist and purely positivist reduction toward an analysis that combines law and social political science. Some scholars criticized it for the difficulty of measuring "legitimacy" empirically with sufficient precision, and because its four determinants may sometimes conflict with one another, with no clear criterion for weighting one over another when they clash. Others regarded it as a necessary bridge between pure legal theory and the actual international political reality.
+Franck's book contributed to the study of compliance with international law by moving beyond the realist and purely positivist reduction toward an analysis that combines law and social political science. Some scholars criticized it for the difficulty of measuring "legitimacy" empirically with sufficient precision, and because its four determinants may sometimes conflict with one another, with no clear criterion for weighting one over another when they clash. Others regarded it as a bridge between pure legal theory and the actual international political reality.
 
 ## Sources
 

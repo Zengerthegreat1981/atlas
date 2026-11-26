@@ -25,7 +25,7 @@ gaps:
 
 From its earliest centuries, Islamic jurisprudence developed a precise classification of crime and punishment that bears comparison with several themes of modern Western punishment theory. Sharia jurists divided crimes into **hudud** (fixed punishments prescribed by Sharia that the judge cannot modify, such as theft, unlawful sexual intercourse and false accusation of unchastity), **qisas and diyya** (crimes against the person and body, treated through the principle of equivalence in harm or through a fixed financial compensation), and **ta'zir** (discretionary punishments set by the ruler or judge according to the public interest, which is the broader domain in practice throughout the history of application). Jurists of usul al-fiqh, such as al-Mawardi in *al-Ahkam al-Sultaniyya* and Ibn Taymiyya in his theory of **siyasa shar'iyya** (governance in accordance with Sharia), discussed the limits of the ruler's power to criminalize and to impose ta'zir outside the texts of the fixed hudud. This debate parallels the modern discussion of the principle of legality in criminal law and the limits of legislative discretion.
 
-In the West, modern criminal law theory descends from the **Enlightenment** movement of the eighteenth century, whose pioneer was the Italian **Cesare Beccaria** in *On Crimes and Punishments* (1764). Beccaria attacked torture and arbitrary punishments, called for proportionality between punishment and crime, and for laws that are clear in advance (the principle of legality: no crime and no punishment without a law). Then came **Jeremy Bentham**, who founded the utilitarian theory of deterrence, describing punishment as an instrument for maximizing social utility at a cost lower than its harm.
+In the West, modern criminal law theory descends from the **Enlightenment** movement of the eighteenth century, whose pioneers included the Italian **Cesare Beccaria** in *On Crimes and Punishments* (1764). Beccaria attacked torture and arbitrary punishments, called for proportionality between punishment and crime, and for laws that are clear in advance (the principle of legality: no crime and no punishment without a law). Then came **Jeremy Bentham**, who developed the utilitarian theory of deterrence, describing punishment as an instrument for maximizing social utility at a cost lower than its harm.
 
 ## Central Ideas
 
@@ -51,4 +51,6 @@ Another branch of criminal law theory raises the question of the **limits of leg
 
 - Beccaria, Cesare. *On Crimes and Punishments*. Edited by Richard Bellamy, translated by Richard Davies, Cambridge University Press, 1995 (originally 1764).
 - Hart, H.L.A. *Punishment and Responsibility: Essays in the Philosophy of Law*. 2nd edition, Oxford University Press, 2008.
+- Foucault, Michel. *Discipline and Punish: The Birth of the Prison*. 1975 (French original *Surveiller et punir*).
+- Mill, John Stuart. *On Liberty*. 1859.
 - Becker, Gary S. "Crime and Punishment: An Economic Approach." *Journal of Political Economy*, vol. 76, no. 2, 1968, pp. 169–217.

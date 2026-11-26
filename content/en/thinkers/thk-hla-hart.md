@@ -29,7 +29,7 @@ gaps: []
 ---
 # H.L.A. Hart
 
-**Herbert Lionel Adolphus Hart** (1907–1992), Professor of Jurisprudence at the University of Oxford, and the most prominent theorist of legal positivism in the English-speaking world in the twentieth century. He practiced as a lawyer before entering academia. He was influenced by the philosophy of ordinary language then dominant at Oxford, and applied its analytical tools to the basic concepts of law.
+**Herbert Lionel Adolphus Hart** (1907–1992), Professor of Jurisprudence at the University of Oxford, and a leading theorist of legal positivism in the English-speaking world in the twentieth century. He practiced as a lawyer before entering academia. He was influenced by the philosophy of ordinary language then dominant at Oxford, and applied its analytical tools to the basic concepts of law.
 
 **Two Austins**: the jurist **John Austin** (1790-1859), author of the command theory that Hart criticized, is a different person from the Oxford philosopher **J.L. Austin** (1911-1960), author of speech act theory, who was Hart's colleague and friend. Hart acknowledged the influence of J.L. Austin's attention to ordinary usage on his own analysis of legal concepts; this entry treats Hart the jurist.
 
@@ -43,7 +43,7 @@ Hart proposes an alternative: a mature legal system is a union of **primary rule
 
 ## His major debates
 
-Hart engaged in three central debates that shaped English-speaking jurisprudence for decades. The first was his debate with **Lon Fuller** (1958) on whether law has an "internal morality" that goes beyond strict positivist separation. The second was his debate with **Patrick Devlin** on society's right to enforce its public morality through the criminal law, following the Wolfenden Report of 1957 and the case of criminalizing homosexuality. The third was his debate with his successor in the Oxford chair, **Ronald Dworkin** on the nature of rules and principles in hard cases. The last two debates are treated in separate entries; the Devlin debate is summarized below.
+Hart engaged in three central debates that shaped English-speaking jurisprudence for decades. The first was his debate with **Lon Fuller** (1958) on whether law has an "internal morality" that goes beyond strict positivist separation. The second was his debate with **Patrick Devlin** on society's right to enforce its public morality through the criminal law, following the Wolfenden Report of 1957 and the case of criminalizing homosexuality. The third was his debate with his successor in the Oxford chair, **Ronald Dworkin** on the nature of rules and principles in hard cases. The Hart-Devlin debate is summarized below.
 
 In his well-known article "Positivism and the Separation of Law and Morals" (1958), Hart defended a methodological separation between what is law and what ought to be. He stressed that this separation does not necessarily mean indifference to justice, but only a refusal to make legal validity conditional on moral correctness.
 
@@ -55,7 +55,7 @@ The Wolfenden Report (1957) recommended that consensual homosexual acts between 
 
 Setting Hart's project against the heritage of Islamic usul al-fiqh helps highlight the distinctiveness of both. Whereas Hart seeks a **purely social criterion** (the rule of recognition) that determines the validity of a legal rule independently of its moral content, Islamic usul al-fiqh (as in al-Shafi'i's *al-Risala*, al-Ghazali's *al-Mustasfa*, and al-Shatibi's *al-Muwafaqat*) starts from the opposite premise: that the validity and authority of a legal ruling cannot be separated from its divine source and its moral objectives (the five great objectives, according to al-Ghazali and al-Shatibi).
 
-Nevertheless, there is a striking intersection. Hart's idea of the "rule of recognition" as an implicit social standard shared by the members of a legal system resembles, from a distance, the idea of **consensus** (ijma') in usul al-fiqh: a social standard (the agreement of the jurists) by which a legal ruling is established, not by the text alone. Likewise, Hart's distinction between rules that impose duties and rules that **empower** (such as the rules of marriage and wills) corresponds to the jurists' distinction between the **normative rulings** (obligation, prohibition) and the **declaratory rulings** (validity, nullity, causation), as elaborated in later usul theory by al-Qarafi in *al-Furuq*.
+Nevertheless, there is a striking intersection. Hart's idea of the "rule of recognition" as an implicit social standard shared by the members of a legal system resembles, from a distance, the idea of **consensus** (ijma') in usul al-fiqh: a social standard (the agreement of the jurists) by which a legal ruling is established, not by the text alone. Likewise, Hart's distinction between rules that impose duties and rules that **empower** (such as the rules of marriage and wills) corresponds to the jurists' distinction between the **normative rulings** (obligation, prohibition) and the **declaratory rulings** (validity, nullity, causation), as elaborated in later usul theory, including by al-Qarafi in *al-Furuq*.
 
 ## Personal life and career
 
@@ -63,7 +63,7 @@ Before being appointed professor at Oxford in 1952, Hart practiced as a barriste
 
 ## Later impact and critique
 
-Hart's analytical project shaped much of subsequent English-language philosophy of law. His student **Joseph Raz** developed "exclusive positivism" in response to Hart's position on the rule of recognition. **Ronald Dworkin**, Hart's successor in the Oxford chair, mounted a radical critique of the idea that law is merely a system of rules, insisting on the presence of non-rule "principles" in judicial reasoning. Hart was also criticized from the standpoint of American legal realism for having kept, despite his declared realism, a somewhat formalist picture of how courts actually work. His book *The Concept of Law* (1961) remains the primary reference taught in legal theory courses in Western universities to this day, and it has been translated into most major academic languages.
+Hart's analytical project shaped much of subsequent English-language philosophy of law. His student **Joseph Raz** developed "exclusive positivism" in response to Hart's position on the rule of recognition. **Ronald Dworkin**, Hart's successor in the Oxford chair, mounted a radical critique of the idea that law is merely a system of rules, insisting on the presence of non-rule "principles" in judicial reasoning. Hart was also criticized from the standpoint of American legal realism for having kept, despite his declared realism, a somewhat formalist picture of how courts actually work. His book *The Concept of Law* (1961) remains a standard reference taught in legal theory courses in Western universities to this day, and it has been translated into many languages.
 
 ## Sources
 

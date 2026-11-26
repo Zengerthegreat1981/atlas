@@ -21,15 +21,15 @@ gaps: []
 ---
 # Duncan Kennedy
 
-An American law professor (born 1942) at Harvard University, one of the founders of **Critical Legal Studies** and among its most influential theorists in shaping its analytic tools.
+An American law professor (born 1942) at Harvard University, one of the founders of **Critical Legal Studies** and an influential theorist of the movement.
 
 ## 'Form and Substance in Private Law Adjudication' (1976)
 
-In his founding article *Form and Substance in Private Law Adjudication* (1976), Kennedy analyzes how adjudication in private law (contracts and torts) oscillates between **rules**, which are applied mechanically regardless of the fairness of the outcome in the individual case, and **standards**, which permit the assessment of fairness in each case. He shows that the choice between the two forms is not a neutral technical matter but reflects an implicit ideological commitment: a tendency toward **individualism** or toward **altruism/solidarity**.
+In his influential article *Form and Substance in Private Law Adjudication* (1976), Kennedy analyzes how adjudication in private law (contracts and torts) oscillates between **rules**, which are applied mechanically regardless of the fairness of the outcome in the individual case, and **standards**, which permit the assessment of fairness in each case. He shows that the choice between the two forms is not a neutral technical matter but reflects an implicit ideological commitment: a tendency toward **individualism** or toward **altruism/solidarity**.
 
 ## The thesis of 'fundamental contradiction'
 
-In *Form and Substance* and then, more fully, in *The Structure of Blackstone's Commentaries* (1979), Kennedy develops a deeper thesis: that modern liberal legal thought is built on a **fundamental contradiction** that cannot be ultimately resolved. Our relations with others are necessary for our individual freedom and at the same time conflict with it: the other is necessary for the realization of the self, but is also a source of threat to its autonomy. According to Kennedy, this contradiction is what makes the resolution of many legal questions (such as the limits of freedom of contract versus the protection of the weaker party) **logically indeterminate in the end**, however precisely the rule is formulated. In the Blackstone article he reads the structure of Blackstone's *Commentaries* as an attempt to manage this contradiction. See **legal indeterminacy**.
+In *Form and Substance* and then, more fully, in *The Structure of Blackstone's Commentaries* (1979), Kennedy develops a deeper thesis: that modern liberal legal thought is built on a **fundamental contradiction** that cannot be ultimately resolved. Our relations with others are necessary for our individual freedom and at the same time conflict with it: the other is necessary for the realization of the self, but is also a source of threat to its autonomy. According to Kennedy, this contradiction is what makes the resolution of many legal questions (such as the limits of freedom of contract versus the protection of the weaker party) **logically indeterminate in the end**, however precisely the rule is formulated. In the Blackstone article he reads the structure of Blackstone's *Commentaries* as an attempt to manage this contradiction.
 
 ## His life and intellectual path
 

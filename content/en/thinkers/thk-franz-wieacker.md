@@ -24,7 +24,7 @@ gaps:
 
 # Franz Wieacker
 
-**Franz Wieacker** (1908–1994) was a German legal historian and professor at the University of Göttingen, regarded as the most important historian of European private law in the twentieth century. In his landmark work he offered a comprehensive narrative of the development of continental private law, from the reception of Roman law in the late Middle Ages to the modern civil codes and the twentieth century (*Privatrechtsgeschichte der Neuzeit*, 1952; 2nd ed. 1967), focusing on the relationship between the intellectual structure of law and its broader social and intellectual context.
+**Franz Wieacker** (1908–1994) was a German legal historian and professor at the University of Göttingen, regarded as a leading historian of European private law in the twentieth century. In his landmark work he offered a comprehensive narrative of the development of continental private law, from the reception of Roman law in the late Middle Ages to the modern civil codes and the twentieth century (*Privatrechtsgeschichte der Neuzeit*, 1952; 2nd ed. 1967), focusing on the relationship between the intellectual structure of law and its broader social and intellectual context.
 
 ## The Project of the "Social History of Private Law"
 
@@ -52,7 +52,7 @@ Wieacker stresses that what unites the different continental European legal trad
 
 ## Impact and Criticism
 
-Wieacker's book remains a foundational reference in teaching the history of European private law. His method influenced later generations of legal historians in connecting the history of law with general intellectual history, among them Peter Stein and Reinhard Zimmermann. He has been criticized for focusing almost exclusively on the German and continental tradition, with relative neglect of parallel developments in English law and non-European legal traditions. Wieacker belonged to the Kiel and Leipzig law faculties in the Nazi period and was a member of the Nazi Party, and some of his writings of those years adopted the vocabulary of the regime. German legal historians have discussed this at length, and Wieacker himself later reflected critically on the period; the debate has not stopped scholars from continuing to rely on his post-war history of private law.
+Wieacker's book remains a foundational reference in teaching the history of European private law. His method influenced later generations of legal historians in connecting the history of law with general intellectual history, among them Peter Stein and Reinhard Zimmermann. He has been criticized for focusing almost exclusively on the German and continental tradition, with relative neglect of parallel developments in English law and non-European legal traditions. Wieacker held university posts (including at Leipzig) during the Nazi period and was a member of the Nazi Party, and some of his writings of those years adopted the vocabulary of the regime. German legal historians have discussed this at length, and Wieacker himself later reflected critically on the period; the debate has not stopped scholars from continuing to rely on his post-war history of private law.
 
 ## Sources
 

@@ -30,7 +30,7 @@ Ottoman codification followed two parallel paths that differed according to the 
 
 ## The Ottoman Law of Family Rights (1917)
 
-A further important step in this path was the **Ottoman Law of Family Rights** (1917), the first codification of family provisions (marriage, divorce and maintenance) in modern Islamic history. It differed from the Majalla al-Ahkam al-Adliyya in adopting the method of **selection** (*takhayyur*) among the four schools, rather than restricting itself to the Hanafi school alone. In each issue it selected the opinion best suited to the conditions of the age from any school. For example, it adopted a Maliki opinion expanding a wife's right to seek separation for harm.
+A further important step in this path was the **Ottoman Law of Family Rights** (1917), an early codification of family provisions (marriage, divorce and maintenance) in modern Islamic history. It differed from the Majalla al-Ahkam al-Adliyya in adopting the method of **selection** (*takhayyur*) among the four schools, rather than restricting itself to the Hanafi school alone. In each issue it selected the opinion best suited to the conditions of the age from any school. For example, it adopted a Maliki opinion expanding a wife's right to seek separation for harm.
 
 ## Its Extended Impact after the Fall of the Ottoman State
 

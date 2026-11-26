@@ -22,7 +22,7 @@ gaps: []
 
 # Ahmad ibn Hanbal
 
-A Baghdadi hadith scholar and jurist, founder of the Hanbali school, one of the four major Sunni schools of law, and author of the **Musnad**, one of the largest collections of Prophetic hadith, arranged by the names of the Companions who transmitted them. He is historically known for his steadfastness in refusing to say that the Qur'an was created, during the **mihna** (inquisition) imposed by the Abbasid state under al-Ma'mun, al-Mu'tasim and al-Wathiq. Among the Sunnis he became a symbol of resistance to forcing a theological doctrine by political power.
+A Baghdadi hadith scholar and jurist, eponym of the Hanbali school, one of the four major Sunni schools of law, and author of the **Musnad**, one of the largest collections of Prophetic hadith, arranged by the names of the Companions who transmitted them. He is historically known for his steadfastness in refusing to say that the Qur'an was created, during the **mihna** (inquisition) imposed by the Abbasid state under al-Ma'mun, al-Mu'tasim and al-Wathiq. Among the Sunnis he became a symbol of resistance to forcing a theological doctrine by political power.
 
 ## Biography
 
@@ -68,7 +68,7 @@ In his youth in Baghdad, Ahmad ibn Hanbal associated with the circle of Muhammad
 
 ### His image in later Sunni memory
 
-Ahmad ibn Hanbal's standing in later popular Sunni consciousness went beyond his role as the founding jurist of a school. He became a symbolic figure as "imam of the People of the Sunna and the Community", facing the theological strife. This image was consolidated by later biographical writings, such as Ibn al-Jawzi's *Manaqib Ahmad ibn Hanbal*, which portrayed him as a model of steadfastness on religious principle in the face of direct political pressure. This symbolic image, though largely built on well-documented historical events (his imprisonment and flogging under al-Mu'tasim), has had devotional elements and narrative exaggerations added over the centuries. Contemporary historians distinguish these from the core of events documented in multiple independent sources.
+Ahmad ibn Hanbal's standing in later popular Sunni consciousness went beyond his role as the eponymous jurist of a school. He became a symbolic figure as "imam of the People of the Sunna and the Community", facing the theological strife. This image was consolidated by later biographical writings, such as Ibn al-Jawzi's *Manaqib Ahmad ibn Hanbal*, which portrayed him as a model of steadfastness on religious principle in the face of direct political pressure. This symbolic image, though largely built on well-documented historical events (his imprisonment and flogging under al-Mu'tasim), has had devotional elements and narrative exaggerations added over the centuries. Contemporary historians distinguish these from the core of events documented in multiple independent sources.
 
 ## Sources
 

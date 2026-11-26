@@ -24,7 +24,7 @@ gaps:
 ---
 # Islamic Criminal Legislation Compared with Positive Law
 
-An encyclopedic jurisprudential-legal work by the Egyptian judge and lawyer **Abd al-Qadir Awda** (1906–1954), who was a leading figure in the Muslim Brotherhood and was executed in 1954. It is regarded as among the most important modern Arabic works that attempted to present Islamic criminal jurisprudence with a contemporary legal methodology, one that allows direct dialogue with the concepts of positive criminal law. It draws on its author's dual formation between modern positive legal culture and in-depth study of classical Islamic jurisprudence.
+An encyclopedic jurisprudential-legal work by the Egyptian judge and lawyer **Abd al-Qadir Awda** (1906–1954), who was a leading figure in the Muslim Brotherhood and was executed in 1954. It is regarded as an influential modern Arabic work that attempted to present Islamic criminal jurisprudence with a contemporary legal methodology, one that allows direct dialogue with the concepts of positive criminal law. It draws on its author's dual formation between modern positive legal culture and in-depth study of classical Islamic jurisprudence.
 
 ## Motives for writing and context
 
@@ -48,7 +48,7 @@ Awda's analysis follows an organized comparative method that presents each issue
 
 ## Impact
 
-This book is among the most frequently cited modern Arabic works in any contemporary debate on applying Islamic hudud or comparing Islamic criminal jurisprudence with positive law. It has been cited both by supporters of applying the Islamic criminal Sharia, who invoke its strict procedural guarantees, and by academic researchers interested in studying comparative Islamic criminal jurisprudence from a neutral perspective. Its influence has continued in Arabic and Islamic legal and jurisprudential literature throughout the decades following its publication, as a pioneering attempt to present Islamic criminal jurisprudence in a modern legal form suitable for comparative academic teaching.
+This book is frequently cited in contemporary debate on applying Islamic hudud or comparing Islamic criminal jurisprudence with positive law. It has been cited both by supporters of applying the Islamic criminal Sharia, who invoke its strict procedural guarantees, and by academic researchers interested in studying comparative Islamic criminal jurisprudence from a neutral perspective. Its influence has continued in Arabic and Islamic legal and jurisprudential literature throughout the decades following its publication, as an attempt to present Islamic criminal jurisprudence in a modern legal form suitable for comparative academic teaching.
 
 ## Its place in the debate on applying hudud
 
@@ -59,4 +59,3 @@ The book occupies a central place in the continuing intellectual and political d
 - Awda, Abd al-Qadir. *Al-Tashri' al-Jina'i al-Islami Muqaranan bi-l-Qanun al-Wad'i*. Beirut: Mu'assasat al-Risala (various editions).
 - Peters, Rudolph. *Crime and Punishment in Islamic Law: Theory and Practice from the Sixteenth to the Twenty-First Century*. Cambridge University Press, 2005.
 - Rabb, Intisar A. *Doubt in Islamic Law: A History of Legal Maxims, Interpretation, and Islamic Criminal Law*. Cambridge University Press, 2015.
-- Zaman, Muhammad Qasim. *Modern Islamic Thought in a Radical Age*. Cambridge University Press, 2012.

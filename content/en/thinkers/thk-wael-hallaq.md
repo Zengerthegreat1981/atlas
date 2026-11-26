@@ -23,7 +23,7 @@ gaps: []
 
 # Wael B. Hallaq
 
-A Palestinian-born historian of Islamic law (born 1955), formerly of McGill University and long associated with Columbia University, and the leading contemporary researcher on the history and theory of **Islamic legal theory (usul al-fiqh)**. He is the author of the most-cited academic reference in this field, *A History of Islamic Legal Theories* (1997), which this section of the Atlas has drawn on repeatedly.
+A Palestinian-born historian of Islamic law (born 1955), formerly of McGill University and long associated with Columbia University, and a leading contemporary researcher on the history and theory of **Islamic legal theory (usul al-fiqh)**. He is the author of the widely cited reference *A History of Islamic Legal Theories* (1997).
 
 ## "Was the Gate of Ijtihad Closed?" (1984): Dismantling an Established Orientalist Thesis
 
@@ -39,7 +39,7 @@ Hallaq's critique does not stop at refuting the closing-of-the-gate thesis. In l
 
 ## Standing Compared with Other Historians of Islamic Law
 
-Hallaq is distinguished from earlier Western historians of Islamic law, such as Goldziher and Schacht, whose accounts stressed the late origin of usul theory and its gap with early judicial practice. He stresses the **continuity and internal logical development** of the discipline over its long history. He holds that usul theory is not a formal construction detached from actual judicial practice; rather, it was a living methodological tool that responded to the challenges of each era.
+Hallaq is distinguished from earlier Western historians of Islamic law, such as Joseph Schacht, whose accounts stressed the late origin of usul theory and its gap with early judicial practice. He stresses the **continuity and internal logical development** of the discipline over its long history. He holds that usul theory is not a formal construction detached from actual judicial practice; rather, it was a living methodological tool that responded to the challenges of each era.
 
 ## Reception and Criticism
 
@@ -47,7 +47,7 @@ Hallaq's arguments have been widely welcomed in Western Islamic studies as a nec
 
 ## His Academic Career
 
-Hallaq was born in Nazareth in 1955. He studied at the Hebrew University of Jerusalem and completed his doctorate at the University of Washington, then became one of the most rigorous critics of the earlier Western scholarly approach to Islamic law. He taught for many years at McGill University in Canada, where he was associated with the Institute of Islamic Studies, before moving to Columbia University, and he continues to write.
+Hallaq was born in Nazareth in 1955. He studied at the Hebrew University of Jerusalem and completed his doctorate at the University of Washington, then became a prominent critic of earlier Western scholarly approaches to Islamic law. He taught for many years at McGill University in Canada, where he was associated with the Institute of Islamic Studies, before moving to Columbia University, and he continues to write.
 
 ## Sources
 

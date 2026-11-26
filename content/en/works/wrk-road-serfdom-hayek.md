@@ -14,7 +14,7 @@ gaps: []
 
 # The Road to Serfdom
 
-**Friedrich von Hayek**'s best-known work for the general public, published in 1944 in the midst of the Second World War. It is regarded as the most influential argument of the twentieth century against central economic planning, presented not merely as an economic critique but as a warning about the trajectory of political planning towards despotism.
+**Friedrich von Hayek**'s best-known work for the general public, published in 1944 in the midst of the Second World War. It is regarded as an influential argument of the twentieth century against central economic planning, presented not merely as an economic critique but as a warning about the trajectory of political planning towards despotism.
 
 ## The Central Argument: From Planning to Despotism
 
@@ -36,13 +36,9 @@ The book met with sharply contradictory reception on publication. Conservatives 
 
 The book was written as a direct response to the rise of Nazism and Fascism in Europe, and specifically as a warning addressed to British intellectuals whom Hayek saw as increasingly inclined to adopt comprehensive economic planning on the Soviet model without sufficient awareness of its underlying political dangers. He held that Nazism and communism were two faces of a single phenomenon (the swelling of the state and the concentration of power), rather than opposites as was commonly believed.
 
-## A Resonance in the Concept of Hisba and Siyasa Shar'iyya
-
-This comparison is drawn by this atlas, not by Hayek. Hayek's discussion of the limits of government intervention can be placed in a comparative perspective with the heritage of **siyasa shar'iyya and hisba** in Islamic jurisprudence, which posed a parallel question from the earliest times: how far may the ruler intervene in markets and prices? It is well known that the Prophet ﷺ refused to fix prices of goods when they rose in Medina. Later jurists (such as Ibn Taymiyya in his book *al-Hisba*) relied on this to establish that the default is to leave the market to operate freely within the limits of the sharia, and that compulsory price-fixing should be resorted to only exceptionally, in cases of monopoly and gross injustice. This balance between market freedom and exceptional intervention to avert harm corresponds loosely to Hayek's distinction between planning that serves the mechanism of competition and planning that eliminates it, although the foundation differs: a sharia-based public-interest foundation for the jurists, and a consequentialist foundation concerning political liberty for Hayek.
-
 ## Influence
 
-The book became a central reference of classical liberal economic thought in the twentieth century. It was closely tied to the founding of the Mont Pèlerin Society in 1947, which Hayek founded and which brought together prominent economists and thinkers (among them Milton Friedman, who attended the founding meeting), and it paved the way intellectually for the policies of Margaret Thatcher and Ronald Reagan in the 1980s. The book was criticized from the left for exaggerating the link between any government intervention and an inevitable path towards despotism, and by some liberals themselves for failing to offer a clear criterion separating "safe" intervention from "dangerous" intervention. Nevertheless, decades after its publication, the book remains a living reference, invoked in every contemporary debate on the limits of the state and the relationship between economic freedom and political freedom.
+The book became an important reference of classical liberal economic thought in the twentieth century. It was closely tied to the founding of the Mont Pèlerin Society in 1947, which Hayek founded and which brought together prominent economists and thinkers (among them Milton Friedman, who attended the founding meeting), and it is often cited as an intellectual influence on the economic policies of Margaret Thatcher and Ronald Reagan in the 1980s. The book was criticized from the left for exaggerating the link between any government intervention and an inevitable path towards despotism, and by some liberals themselves for failing to offer a clear criterion separating "safe" intervention from "dangerous" intervention. Nevertheless, decades after its publication, the book remains widely invoked in contemporary debates on the limits of the state and the relationship between economic freedom and political freedom.
 
 ## Sources
 

@@ -20,13 +20,12 @@ related:
 - id: "thk-al-shafii", title: "Muhammad ibn Idris al-Shafi'i", type: "مفكر"
 - id: "thk-abd-al-razzaq-al-sanhuri", title: "Abd al-Razzaq Ahmad al-Sanhuri", type: "مفكر"
 gaps:
-  - "His precise role as an envoy and political intermediary between the Abbasid caliph and the Buyid and Seljuk amirs is documented with varying degrees of precision across the historical sources."
-  - "The relationship between his book on the Sultanic ordinances and a book of the same title by the Hanbali Abu Ya'la al-Farra (a notable structural similarity) has not been analyzed here in detail."
+  - "Details of his diplomatic missions between the caliph and the Buyid and Seljuk amirs: not yet covered"
 ---
 
 # Abu al-Hasan Ali ibn Muhammad al-Mawardi
 
-A Shafi'i jurist, judge and diplomat from the scholars of Baghdad in the fifth century AH, regarded as the founder of the field of **al-Ahkam al-Sultaniyya** (Sultanic ordinances) as an independent branch of jurisprudence concerned with the theory of governance, the imamate, and the public institutions of the Islamic state, and as the closest classical Islamic text to a theory of **public law** in the modern sense.
+A Shafi'i jurist, judge and diplomat from the scholars of Baghdad in the fifth century AH, regarded as a leading early author in the field of **al-Ahkam al-Sultaniyya** (Sultanic ordinances) as an independent branch of jurisprudence concerned with the theory of governance, the imamate, and the public institutions of the Islamic state, and his best-known book is often compared to a theory of **public law** in the modern sense.
 
 ## Biography and Context
 
@@ -36,7 +35,7 @@ Al-Mawardi was born in Basra, where he studied Shafi'i jurisprudence under its s
 
 ### The Sultanic Ordinances: Founding the Theory of the Imamate and Public Institutions
 
-In his pivotal book *al-Ahkam al-Sultaniyya wa al-Wilayat al-Diniyya* (The Sultanic Ordinances and Religious Authorities), al-Mawardi offered the first systematic jurisprudential treatment of the theory of the **contract of the imamate**: the conditions of the imam (such as justice, knowledge and capacity), the manner in which the imamate is established (by selection by the people of binding and loosing, or by appointment by a preceding imam), and the causes of its termination. He also elaborated the theory of **delegation of authority**, distinguishing between the "ministry of delegation" (in which the vizier is empowered with broad, almost executive powers) and the "ministry of execution" (in which the vizier's role is limited to carrying out the imam's directives without independence in decision-making). He discussed the system of regional governorships, the judiciary, *hisba* and land tax (*kharaj*), in an exposition approaching a comprehensive theory of the structure and public functions of the state.
+In his pivotal book *al-Ahkam al-Sultaniyya wa al-Wilayat al-Diniyya* (The Sultanic Ordinances and Religious Authorities), al-Mawardi offered an early and influential systematic jurisprudential treatment of the theory of the **contract of the imamate**: the conditions of the imam (such as justice, knowledge and capacity), the manner in which the imamate is established (by selection by the people of binding and loosing, or by appointment by a preceding imam), and the causes of its termination. He also elaborated the theory of **delegation of authority**, distinguishing between the "ministry of delegation" (in which the vizier is empowered with broad, almost executive powers) and the "ministry of execution" (in which the vizier's role is limited to carrying out the imam's directives without independence in decision-making). He discussed the system of regional governorships, the judiciary, *hisba* and land tax (*kharaj*), in an exposition approaching a comprehensive theory of the structure and public functions of the state.
 
 ### Political Realism Within the Legal Framework
 
@@ -52,7 +51,11 @@ Alongside his contribution to political jurisprudence, al-Mawardi was a major Sh
 
 ## Impact and Criticism
 
-The *Sultanic Ordinances* is the most important foundational text in the history of Islamic political and constitutional thought, and it remained a fundamental reference that everyone who wrote on the theory of the caliphate subsequently invoked, including Abd al-Razzaq al-Sanhuri in his Parisian dissertation on the caliphate in the twentieth century, when he analyzed the outcomes of this theory after the fall of the Ottoman caliphate. Contemporary scholars (among them Patricia Crone in her studies of Islamic political thought) have observed that al-Mawardi's political realism, specifically his justification of legitimizing seizure of power by force, shows that his book is closer to an attempt at a legal adaptation to a declining political reality than to a purely normative theory, although this reading is not shared by all researchers to the same degree.
+The *Sultanic Ordinances* is a foundational text in the history of Islamic political thought, and it remained a fundamental reference that everyone who wrote on the theory of the caliphate subsequently invoked, including Abd al-Razzaq al-Sanhuri in his Parisian dissertation on the caliphate in the twentieth century, when he analyzed the outcomes of this theory after the fall of the Ottoman caliphate. Contemporary scholars (among them Patricia Crone in her studies of Islamic political thought) have observed that al-Mawardi's political realism, specifically his justification of legitimizing seizure of power by force, shows that his book is closer to an attempt at a legal adaptation to a declining political reality than to a purely normative theory, although this reading is not shared by all researchers to the same degree.
+
+## A Work of the Same Title: Abu Ya'la al-Farra'
+
+A book with the same title was written by the Hanbali jurist Abu Ya'la al-Farra' (d. 458 AH / 1066 CE). The two works are strikingly similar in structure and content, and scholars have discussed their relationship.
 
 ## His Language and Method of Exposition
 

@@ -18,7 +18,7 @@ related:
 - id: "thk-mustafa-al-zarqa", title: "Mustafa Ahmad al-Zarqa", type: "مفكر"
 gaps:
   - "The number of the 'five major maxims' generally agreed upon, and their detailed exceptions within each school, vary across the different books of maxims; a full comparative survey: not yet covered."
-  - "The precise distinction between legal maxims (qawa'id) and narrower controls (dawabit), the latter limited to a single chapter, distinction between qawa'id and dawabit: not yet covered in depth."
+  - "The precise distinction between legal maxims (qawa'id) and narrower controls (dawabit), the latter limited to a single chapter of law: not yet covered in depth."
 ---
 # Qawa'id Fiqhiyya (Islamic Legal Maxims)
 

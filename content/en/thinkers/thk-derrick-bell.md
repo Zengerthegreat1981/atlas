@@ -23,7 +23,7 @@ gaps: []
 
 # Derrick Bell
 
-An American jurist (1930–2011), the first Black professor to be granted tenure at Harvard Law School (1971), and widely considered the intellectual father of **critical race theory**.
+An American jurist (1930–2011), the first Black professor to be granted tenure at Harvard Law School (1971), and and widely regarded as a foundational figure of **critical race theory**.
 
 ## A Comparative Jurisprudential Context: Justice and the Consequences of Rulings
 
@@ -31,11 +31,11 @@ Bell's central concern, that the validity of a legal ruling is not measured by i
 
 ## From Civil Rights to a Critique of Gradual Reform
 
-Bell worked as a lawyer in the NAACP Legal Defense Fund in the 1950s and 1960s, taking part in dozens of cases to end school segregation. This direct experience later led him, as an academic, to question the **effectiveness of gradual legal reform alone**. He observed that many civil rights gains were effectively eroded over subsequent decades, even as the legal texts remained in force.
+Bell worked as a civil rights lawyer, first at the US Department of Justice and then at the NAACP Legal Defense Fund in the 1960s, taking part in dozens of cases to end school segregation. This direct experience later led him, as an academic, to question the **effectiveness of gradual legal reform alone**. He observed that many civil rights gains were effectively eroded over subsequent decades, even as the legal texts remained in force.
 
 ## The Thesis of "Interest Convergence" (1980)
 
-In his pivotal article *Brown v. Board of Education and the Interest-Convergence Dilemma* (1980), Bell offers a radical explanation of the ruling in *Brown v. Board of Education* (1954). He argues that the Supreme Court did not end racial segregation merely because of its moral injustice, which had existed for decades without judicial change. It did so because ending it at that particular moment **coincided with a broader White American interest**: improving the international image of the United States during the Cold War, when Soviet propaganda exploited American racial segregation. See **interest convergence** for a detailed account of this thesis.
+In his pivotal article *Brown v. Board of Education and the Interest-Convergence Dilemma* (1980), Bell offers a radical explanation of the ruling in *Brown v. Board of Education* (1954). He argues that the Supreme Court did not end racial segregation merely because of its moral injustice, which had existed for decades without judicial change. It did so because ending it at that particular moment **coincided with a broader White American interest**: improving the international image of the United States during the Cold War, when Soviet propaganda exploited American racial segregation.
 
 ## The Method of Counter-Narrative
 

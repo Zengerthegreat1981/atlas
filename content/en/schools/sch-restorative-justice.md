@@ -20,7 +20,7 @@ gaps: []
 
 ## Historical Context
 
-From its inception, Islamic jurisprudence recognized an advanced form of restorative justice within the system of "reconciliation" (*sulh*) and "pardon in retribution" (*al-afw an al-qisas*). Jurists distinguished between the right of God and the right of the individual in crimes against persons, and the Quran gave the heir of the victim a choice between retaliation (*qisas*), pardon, or accepting blood money (*diya*). This is attested in the verse: "But whoever is pardoned [by] his brother [i.e., the victim's heir] in any [degree], then grant [of blood money] should be followed with fairness and payment to him with good conduct" (Quran 2:178). Jurists elaborated extensively in the chapter on "offenses" (*al-janayat*) on the rules of blood money, reconciliation and pardon, considering that the aim of punishment is not mere revenge but the repair of harm and the restoration of harmony between people. This was reflected in the institution of "reconciliation," led by tribal and clan notables to settle disputes outside the official judicial framework. Ibn al-Qayyim, in *al-Turuq al-Hukmiyya*, also discussed the objectives of Islamic criminal policy, which balance deterrence and mercy.
+Classical Islamic jurisprudence contains elements that resemble restorative justice within the system of "reconciliation" (*sulh*) and "pardon in retribution" (*al-afw an al-qisas*). Jurists distinguished between the right of God and the right of the individual in crimes against persons, and the Quran gave the heir of the victim a choice between retaliation (*qisas*), pardon, or accepting blood money (*diya*). This is reflected in Quran 2:178, which allows the victim's kin to forgo retaliation, with blood money then to be paid fairly and in good conduct. Jurists elaborated extensively in the chapter on "offenses" (*al-janayat*) on the rules of blood money, reconciliation and pardon, considering that the aim of punishment is not mere revenge but the repair of harm and the restoration of harmony between people. This was reflected in the institution of "reconciliation," led by tribal and clan notables to settle disputes outside the official judicial framework. Ibn al-Qayyim, in *al-Turuq al-Hukmiyya*, also discussed judicial method and the purposes of governance and punishment.
 
 As an institutional concept in its modern sense, restorative justice emerged in the West during the 1970s as a critical reaction to the failure of the traditional penal system to achieve rehabilitation. It drew partly on the customary justice practices of Indigenous peoples in New Zealand and Canada, notably Maori practice in New Zealand (which informed the family group conferences introduced in 1989) and First Nations peacemaking and sentencing circles in Canada.
 
@@ -30,7 +30,7 @@ Restorative justice is founded on redefining crime as a violation of human relat
 
 ## Key Thinkers
 
-**Howard Zehr** is among the most prominent theorists of modern restorative justice. In his book *Changing Lenses* he presented a comprehensive theoretical framework that redefines criminal justice from the perspective of needs rather than punishment. **John Braithwaite**, through his theory of "reintegrative shaming," explained how social confrontation can rehabilitate the offender without rejecting them. In the Islamic jurisprudential heritage, **Ibn al-Qayyim al-Jawziyya** wrote influentially on the purposes of Islamic criminal policy, which balance deterrence, mercy and public interest.
+**Howard Zehr** is among the most prominent theorists of modern restorative justice. In his book *Changing Lenses* he presented a comprehensive theoretical framework that redefines criminal justice from the perspective of needs rather than punishment. **John Braithwaite**, through his theory of "reintegrative shaming," explained how social confrontation can rehabilitate the offender without rejecting them. In the Islamic jurisprudential heritage, **Ibn al-Qayyim al-Jawziyya** wrote on the purposes of governance and punishment, including the relation of justice to the public interest.
 
 ## Impact and Application
 
@@ -42,6 +42,6 @@ It should also be noted that the academic expansion of the concept of restorativ
 
 ## Sources
 
-- Ibn al-Qayyim al-Jawziyya, Muhammad ibn Abi Bakr. *al-Turuq al-Hukmiyya fi al-Siyasa al-Shariyya*. 
+- Ibn al-Qayyim al-Jawziyya, Muhammad ibn Abi Bakr. *al-Turuq al-Hukmiyya fi al-Siyasa al-Shar'iyya*. (d. 751 AH / 1350 CE).
 - Zehr, Howard. *Changing Lenses: A New Focus for Crime and Justice*. Herald Press, 1990.
 - Braithwaite, John. *Crime, Shame and Reintegration*. Cambridge University Press, 1989.

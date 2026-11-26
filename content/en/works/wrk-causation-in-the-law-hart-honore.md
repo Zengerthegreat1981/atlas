@@ -26,7 +26,7 @@ gaps:
 
 # Causation in the Law
 
-The joint book of **H.L.A. Hart** and **Tony Honoré**, published in 1959 (with a second edition, again co-authored, in 1985), is regarded as the most important reference work on the analysis of the concept of **legal causation** in the tradition of Anglo-American analytical legal philosophy. It offers a methodological framework that has been cited in judicial practice.
+The joint book of **H.L.A. Hart** and **Tony Honoré**, published in 1959 (with a second edition, again co-authored, in 1985), is regarded as a leading reference work on the analysis of the concept of **legal causation** in the tradition of Anglo-American analytical legal philosophy. It offers a methodological framework that has been cited in judicial practice.
 
 ## Factual Causation versus Legal Causation
 
@@ -48,21 +48,17 @@ Hart and Honoré reject attempts to reduce legal causation entirely to purely po
 
 The book adopts an analytical method inspired by the Oxford ordinary language philosophy, which influenced Hart in his broader project of legal positivism. It seeks to extract the underlying conceptual structure of causation through a precise analysis of how ordinary and judicial language uses concepts such as "cause," "result" and "intervention," rather than imposing a prior abstract philosophical definition on these varied uses.
 
-## A Comparison with Causation Rules in Islamic Criminal Jurisprudence
-
-(This comparison is drawn by this atlas, not by Hart and Honoré.) The distinction between direct causation and causation through the intervention of a third party finds a resonance in Islamic criminal jurisprudence, which distinguishes between *mubasharah* (directly bringing about the harmful act, such as killing with a weapon) and *tasabbub* (causing indirectly, such as digging a well into which someone later falls), with precise jurisprudential rules that determine the liability of the one who causes indirectly when a subsequent act intervenes in the causal chain. The parallel with the analysis of Hart and Honoré is suggestive, although the two traditions developed independently and their categories are not identical.
-
 ## Applications Across Different Branches of Law
 
 The book is distinguished by applying its analytical framework across multiple branches of law, not only criminal law. It extends to civil liability in tort (Tort Law) and contract law, explaining how the same causal concepts are used in substantially similar ways even though the procedural details differ between these branches. This reflects the authors' ambition to offer a general theory of legal causation that goes beyond the boundaries of any single branch of law to cover the common conceptual structure of the law as a whole.
 
 ## The Book's Place in Hart's Intellectual Career
 
-This book represents a less famous aspect of Hart's output compared with his best-known work *The Concept of Law* (1961), but it reflects Hart's same methodological commitment to applying the tools of analytical philosophy of language to central legal concepts. Hart and Honoré combined Hart's general analytical philosophical background with Honoré's specialized expertise in comparative Roman law to produce a work that combines philosophical rigor with deep practical legal knowledge of actual judicial precedents.
+This book represents a less famous aspect of Hart's output compared with his best-known work *The Concept of Law* (1961), but it reflects Hart's same methodological commitment to applying the tools of analytical philosophy of language to central legal concepts. Hart and Honoré combined Hart's general analytical philosophical background with Honoré's specialized expertise in Roman law to produce a work that combines philosophical rigor with deep practical legal knowledge of actual judicial precedents.
 
 ## Impact and Criticism
 
-The book is a foundational reference indispensable in teaching the theory of legal causation, and it has been cited in English and other common-law judicial decisions. Later philosophers, such as Michael Moore, criticized it for relying excessively on ordinary linguistic intuition without a sufficient metaphysical grounding of the concept of causation itself. Nevertheless, its analytical framework remained a dominant practical reference in actual judicial practice for decades despite this continuing philosophical criticism.
+The book is a standard reference in teaching the theory of legal causation, and it has been cited in English and other common-law judicial decisions. Later philosophers, such as Michael Moore, criticized it for relying excessively on ordinary linguistic intuition without a sufficient metaphysical grounding of the concept of causation itself. Nevertheless, its analytical framework has remained widely cited in judicial practice despite this continuing philosophical criticism.
 
 ## Sources
 

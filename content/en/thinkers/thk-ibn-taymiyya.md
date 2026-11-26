@@ -25,7 +25,7 @@ gaps:
 ---
 # Ibn Taymiyya
 
-A Hanbali jurist, traditionist, and theologian, born in Harran in 661 AH / 1263 CE, who moved with his family to Damascus as a child to escape the Mongol invasion. He is among the most influential scholars of the Hanbali school in the history of Islamic thought, known for his sharp critical positions toward philosophy, Sufi philosophical currents, and kalam, and for his contributions to usul al-fiqh, Islamic governance (siyasa shar'iyya), and creed.
+A Hanbali jurist, traditionist, and theologian, born in Harran in 661 AH / 1263 CE, who moved with his family to Damascus as a child to escape the Mongol invasion. He is among the influential scholars of the Hanbali school in the history of Islamic thought, known for his sharp critical positions toward philosophy, Sufi philosophical currents, and kalam, and for his contributions to usul al-fiqh, Islamic governance (siyasa shar'iyya), and creed.
 
 ## Life
 

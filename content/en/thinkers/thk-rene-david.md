@@ -27,7 +27,7 @@ gaps:
 
 # René David
 
-**René David** (1906–1990) was a French jurist, professor of comparative law at the University of Paris, and one of the most important founders of modern **comparative law** as an academic discipline of global scope, thanks to his ambitious project of classifying the world's contemporary legal systems into major "families" amenable to systematic comparative study, and his treatment of **Islamic law** and other non-Western systems as independent legal systems within this global classification.
+**René David** (1906–1990) was a French jurist, professor of comparative law at the University of Paris, and a leading figure in modern **comparative law** as an academic discipline of global scope, known for his ambitious project of classifying the world's contemporary legal systems into major "families" amenable to systematic comparative study, and his treatment of **Islamic law** and other non-Western systems as independent legal systems within this global classification.
 
 ## Major Contemporary Legal Systems: The Classification of Families
 
@@ -35,7 +35,7 @@ In his foundational work *Les grands systèmes de droit contemporains* (Major Co
 
 ## Islamic Law in Global Comparative Classification
 
-David's most notable contribution, from the perspective of this project, is his serious treatment of Islamic law as an independent legal system with its own internal logic, based on religious sources (the Quran and the Sunna) and on jurisprudential interpretive mechanisms distinct from both the Romano-Germanic and the common law logic. He rejected treating it as a marginal "exception" or a primitive version of Western law. David also addressed the phenomenon of **mixed legal systems** in the Arab and Islamic world, which combine civil laws derived from French or European models with rulings from Islamic law (especially in personal status matters), a phenomenon that remains central to the study of contemporary Arab legal systems.
+One of David's notable contributions is his serious treatment of Islamic law as an independent legal system with its own internal logic, based on religious sources (the Quran and the Sunna) and on jurisprudential interpretive mechanisms distinct from both the Romano-Germanic and the common law logic. He rejected treating it as a marginal "exception" or a primitive version of Western law. David also addressed the phenomenon of **mixed legal systems** in the Arab and Islamic world, which combine civil laws derived from French or European models with rulings from Islamic law (especially in personal status matters), a phenomenon that remains central to the study of contemporary Arab legal systems.
 
 ## Practical Undertaking: Drafting the Ethiopian Civil Code
 
@@ -51,7 +51,7 @@ David explains that classifying a legal system within a particular family requir
 
 ## Legacy
 
-David's classification of legal families, despite later criticism by jurists such as H. Patrick Glenn, who considered it at times excessively simplifying of the diversity of non-Western systems, remains a mandatory starting point for every academic teaching of comparative law. The book was later revised in collaboration with Camille Jauffret-Spinosi, and appeared in English as *Major Legal Systems in the World Today*, co-authored with John E. C. Brierley.
+David's classification of legal families, despite later criticism by jurists such as H. Patrick Glenn, who considered it at times excessively simplifying of the diversity of non-Western systems, remains a common starting point in the teaching of comparative law. The book was later revised in collaboration with Camille Jauffret-Spinosi, and appeared in English as *Major Legal Systems in the World Today*, co-authored with John E. C. Brierley.
 
 ## Sources
 

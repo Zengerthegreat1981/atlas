@@ -23,7 +23,7 @@ gaps:
 ---
 # Model Penal Code
 
-A model legislative text (not binding law in itself) drafted by the **American Law Institute** in 1962 with the aim of unifying and organizing American criminal law, which was then scattered across fifty states with conflicting rules. Most states later adopted it in similar forms, and it became **the most influential de facto reference** in shaping contemporary American criminal law.
+A model legislative text (not binding law in itself) drafted by the **American Law Institute** in 1962 with the aim of unifying and organizing American criminal law, which was then scattered across fifty states with conflicting rules. Many states later revised their criminal codes under its influence, and it became a highly influential reference in shaping contemporary American criminal law.
 
 ## The Methodological Contribution: Organizing Mens Rea
 
@@ -35,7 +35,7 @@ In section 4.01, the Code proposes an intermediate standard for the insanity def
 
 ## Impact
 
-The Code's influence has gone beyond American borders to become a comparative reference cited in debates on criminal law reform worldwide, and a model for how the analytical principles of criminal law theory (such as the precise classification of levels of intent) can be turned into a practical legislative text that can be directly applied.
+The Code's influence has extended beyond American borders as a comparative reference in criminal law reform debates, and it serves as a model for how the analytical principles of criminal law theory (such as the precise classification of levels of intent) can be turned into a practical legislative text that can be directly applied.
 
 ## The Historical Context of Its Drafting
 
@@ -48,10 +48,6 @@ The Code consists of four main parts. Part I sets out general provisions (the de
 ## Reception and Criticism
 
 The Code received wide positive reception from academic and judicial circles, and a majority of American states revised their criminal codes in the following decades under its influence, adopting its provisions to varying degrees. It nonetheless did not escape criticism. The standard of "substantial capacity" in the insanity defence was regarded as vague, and was said to have expanded the scope of exemption from liability. After the attempted assassination of President Reagan in 1981 and the acquittal of John Hinckley, Congress passed the Insanity Defense Reform Act of 1984, which narrowed the federal standard and dropped the volitional prong. Some of its provisions on sexual violence offences were also criticized as outdated, which led the Institute later to undertake a partial revision of those provisions. Nevertheless, its most important achievement remains the imposition of a unified analytical language (particularly the hierarchy of criminal intent), which has become an integral part of the teaching of criminal law in American universities to this day.
-
-## A Comparative Note
-
-Unlike many texts of legal theory that intersect with Islamic jurisprudence on questions of intent and responsibility (such as the jurists' distinction between deliberate killing, mistaken killing and quasi-deliberate killing in the chapter on homicide and injuries), the Model Penal Code is a purely American text that arose within the common law tradition. It has no known direct engagement with the sources of Islamic jurisprudence or usul al-fiqh. The two classifications of degrees of culpability (deliberate, mistaken and quasi-deliberate on one side; purposely, knowingly, recklessly and negligently on the other) are not equivalent, but they can serve as a point of comparison in comparative studies of criminal law. This comparison is drawn by this atlas, not by the Code's drafters.
 
 ## Strict Liability and the Rejection of Crimes without Mens Rea
 

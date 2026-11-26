@@ -25,7 +25,7 @@ gaps:
 
 # Majallat al-Ahkam al-Adliyya (The Mecelle)
 
-The first modern attempt to codify Hanafi jurisprudence in the form of numbered legal articles on the European pattern. It was drafted by an Ottoman committee chaired by **Ahmed Cevdet Pasha** between 1869 and 1876, within the framework of the Ottoman **Tanzimat** reforms, and it became the first codified Islamic civil code in the modern sense of the term.
+An influential modern attempt to codify Hanafi jurisprudence in the form of numbered legal articles on the European pattern. It was drafted by an Ottoman committee chaired by **Ahmed Cevdet Pasha** between 1869 and 1876, within the framework of the Ottoman **Tanzimat** reforms, and it is often described as the first codified Islamic civil code in the modern sense of the term.
 
 ## Historical Context: The Ottoman Tanzimat
 
@@ -33,7 +33,7 @@ The Majalla came in the context of a broad wave of Ottoman reforms known as the 
 
 ## The Jurisprudential Sources of the Majalla
 
-In selecting the rulings to be formulated as articles, the drafting committee drew on the accumulated heritage of Hanafi jurisprudence, especially Ibn Abidin's commentary *Radd al-Muhtar ala al-Durr al-Mukhtar*, which was regarded as a reliable summary of what the school had practically settled on by the late Ottoman period. It also drew on the Hanafi literature of legal maxims, most prominently Ibn Nujaym's *al-Ashbah wa al-Naza'ir*, from which, together with other Hanafi works, the introductory articles of the Majalla (article 1 defines fiqh; articles 2–100 set out ninety-nine maxims) drew in large part. These articles set out a number of overarching juristic maxims before entering into the substantive details of contracts, obligations, and property.
+In selecting the rulings to be formulated as articles, the drafting committee drew on the accumulated heritage of Hanafi jurisprudence, including standard late Hanafi works such as the commentary tradition on *al-Durr al-Mukhtar*. It also drew on the Hanafi literature of legal maxims, most prominently Ibn Nujaym's *al-Ashbah wa al-Naza'ir*, from which, together with other Hanafi works, the introductory articles of the Majalla (article 1 defines fiqh; articles 2–100 set out ninety-nine maxims) drew in large part. These articles set out a number of overarching juristic maxims before entering into the substantive details of contracts, obligations, and property.
 
 ## Structure and Content
 
@@ -49,11 +49,11 @@ A notable methodological feature of the committee's work is that it did not mere
 
 ## A Critical Note
 
-Historians of codification observe that transforming a flexible, cumulative Hanafi jurisprudence, which allowed multiple adopted views depending on time, place, and the jurist, into a single binding legal text reduced the room for traditional interpretive flexibility. On the other hand, it supplied legal certainty and procedural clarity that were not as easily available in the traditional, uncodified system of fatwa and adjudication. This trade-off recurs in all subsequent modern projects to codify Islamic jurisprudence.
+Historians of codification observe that transforming a flexible, cumulative Hanafi jurisprudence, which allowed multiple adopted views according to time, place, and the jurist, into a single binding legal text reduced the room for traditional interpretive flexibility. On the other hand, it supplied legal certainty and procedural clarity that were not as easily available in the traditional, uncodified system of fatwa and adjudication. This trade-off recurs in all subsequent modern projects to codify Islamic jurisprudence.
 
 ## Ahmed Cevdet Pasha's Standing
 
-Ahmed Cevdet Pasha (1822–1895) was the central figure in this project. He was a religious scholar, jurist, and prominent Ottoman historian who held high judicial and ministerial posts. He combined a deep traditional juristic formation with broad familiarity with European legal systems, which qualified him to lead a project seeking to reconcile Hanafi juristic authenticity with modern legal drafting. In his time he opposed calls within the Ottoman state to adopt the French Civil Code in full instead of codifying Hanafi jurisprudence locally. His project succeeded in preserving an Islamic reference for civil legislation despite the rising Westernizing pressure of that period.
+Ahmed Cevdet Pasha (1822–1895) chaired the drafting committee. He was a jurist and prominent Ottoman historian who held high judicial and ministerial posts. He combined a deep traditional juristic formation with broad familiarity with European legal systems, which qualified him to lead a project seeking to reconcile Hanafi juristic authenticity with modern legal drafting. In his time he opposed calls within the Ottoman state to adopt the French Civil Code in full instead of codifying Hanafi jurisprudence locally. His project kept an Islamic reference for civil legislation at a time of growing pressure to adopt European codes.
 
 ## Sources
 

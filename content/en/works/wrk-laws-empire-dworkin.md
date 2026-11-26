@@ -24,7 +24,7 @@ gaps: []
 ---
 # Law's Empire
 
-Ronald Dworkin's most mature work, published in 1986, in which he presents the full statement of his theory of **law as integrity**.
+Ronald Dworkin's major work of legal theory, published in 1986, in which he presents the full statement of his theory of **law as integrity**.
 
 ## The Starting Point: Genuine Judicial Disagreement
 
@@ -49,10 +49,6 @@ Dworkin proposes a model of constructive interpretation that passes through thre
 ## Impact
 
 The book provoked a direct, though incomplete, response from **Hart**, published posthumously as a postscript to the second edition of *The Concept of Law* (1994); see **the Hart–Dworkin debate**. Since its appearance, the book has remained a basic reference in discussions of constitutional and judicial interpretation in the Anglo-American legal tradition.
-
-## A Comparison with Interpretive Method in Usul al-Fiqh
-
-This comparison is drawn by this atlas and not by Dworkin. Dworkin's idea of the "best possible justification" of legal practice can be compared with the method of reasoning from the **objectives of the Shari'a** (maqasid al-shari'a) in usul al-fiqh, in which the jurist interprets partial texts in light of the overall purposes of legislation (as in al-Shatibi). He neither stops at literalism nor escapes the text on the pretext of public interest. The difference is that Dworkin grounds his justification in a general secular moral philosophy that he assumes members of the political community can share regardless of their religious beliefs, whereas the Shari'a objectives derive their criterion from the purposes of the Lawgiver as inferred from the totality of the texts. This is a fundamental difference in the source of interpretive authority, even though the mechanism of reconciling the particular and the general is similar.
 
 ## Criticism from Positivists and Realists
 

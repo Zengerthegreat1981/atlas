@@ -44,10 +44,10 @@ Georg Jellinek, in *Allgemeine Staatslehre* (General Theory of the State, 1900),
 
 ## Contemporary Challenges: Beyond the Human and the Corporation
 
-The concept of legal personality faces new questions today, with proposals to grant legal personality to unconventional entities, such as rivers (for example, New Zealand's Te Awa Tupua (Whanganui River Claims Settlement) Act 2017), and, in speculative debate, advanced artificial intelligence systems. Courts in India declared the Ganges and Yamuna legal persons in 2017, but the Supreme Court of India stayed that decision. These developments reopen the fundamental question: is legal personality a purely technical fiction that can be extended without theoretical limit to any entity for any practical purpose, or is it tied to a minimum set of attributes (such as will or consciousness) that cannot be crossed arbitrarily?
+The concept of legal personality faces new questions today, with proposals to grant legal personality to unconventional entities, such as rivers (for example, New Zealand's Te Awa Tupua (Whanganui River Claims Settlement) Act 2017), and, in speculative debate, advanced artificial intelligence systems. In 2017 the Uttarakhand High Court in India declared the Ganges and Yamuna legal persons, but the Supreme Court of India stayed that decision. These developments reopen the fundamental question: is legal personality a purely technical fiction that can be extended without theoretical limit to any entity for any practical purpose, or is it tied to a minimum set of attributes (such as will or consciousness) that cannot be crossed arbitrarily?
 
 ## Sources
 
-- Jellinek, Georg. *Allgemeine Staatslehre*. 3rd ed. Berlin: Julius Springer, 1914 (1st ed. 1900).
+- Jellinek, Georg. *Allgemeine Staatslehre*. 3rd ed. Berlin, 1914 (1st ed. 1900).
 - Salomon v. A. Salomon & Co. Ltd [1897] AC 22 (House of Lords).
 - Dewey, John. "The Historic Background of Corporate Legal Personality." *Yale Law Journal*, vol. 35, no. 6, 1926, pp. 655–673.

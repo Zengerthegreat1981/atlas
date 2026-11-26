@@ -49,5 +49,6 @@ This debate is the axis around which analytical philosophy of law split into two
 
 - Dworkin, Ronald. "The Model of Rules." *University of Chicago Law Review*, vol. 35, 1967 (revised in *Taking Rights Seriously*, Harvard University Press, 1977).
 - Dworkin, Ronald. *Taking Rights Seriously*. Harvard University Press, 1977.
+- Dworkin, Ronald. *A Matter of Principle*. Harvard University Press, 1985.
 - Dworkin, Ronald. *Law's Empire*. Harvard University Press, 1986.
 - Hart, H.L.A. *The Concept of Law*. 2nd edition with Postscript, edited by Penelope A. Bulloch and Joseph Raz, Oxford University Press, 1994.

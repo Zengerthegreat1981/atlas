@@ -23,7 +23,7 @@ gaps:
 ---
 # Al-Hidaya Sharh Bidayat al-Mubtadi
 
-A central reference work of the Hanafi school by the jurist Burhan al-Din al-Marghinani (d. 593 AH / 1197 CE). It is one of the most widely circulated, commented upon and taught Islamic legal books of all time, and its influence extended from Transoxiana to the Indian subcontinent and the Ottoman state.
+A central reference work of the Hanafi school by the jurist Burhan al-Din al-Marghinani (d. 593 AH / 1197 CE). It is one of the most widely circulated, commented upon and taught Hanafi legal books, and its influence extended from Transoxiana to the Indian subcontinent and the Ottoman state.
 
 ## The Origin of the Book: From Text to Commentary
 
@@ -39,15 +39,15 @@ According to the tradition, Marghinani first composed a concise text entitled *B
 
 ## Its Transfer to the British Colonial Context
 
-One of the most important chapters in the book's history is its transfer to a legal context entirely different from that of its original composition. The British orientalist Charles Hamilton published an English version of *Al-Hidaya* in 1791 under the title *The Hedaya*, made from a Persian translation of the Arabic text commissioned under Warren Hastings, for use by the judges of the British East India Company in applying what became known as "Anglo-Muhammadan law" in the courts of British India. This transfer represents an early and striking case of turning a classical legal text into "applied law" in a colonial bureaucratic setting radically different from the original context of jurisprudential teaching for which it was written.
+One notable chapter in the book's history is its transfer to a legal context entirely different from that of its original composition. The British orientalist Charles Hamilton published an English version of *Al-Hidaya* in 1791 under the title *The Hedaya*, made from a Persian translation of the Arabic text commissioned under Warren Hastings, for use by the judges of the British East India Company in applying what became known as "Anglo-Muhammadan law" in the courts of British India. This transfer represents an early and striking case of turning a classical legal text into "applied law" in a colonial bureaucratic setting radically different from the original context of jurisprudential teaching for which it was written.
 
 ## Its Contemporary Standing
 
-*Al-Hidaya* is still taught today in the religious institutes and universities that follow the Hanafi school, especially in South Asia, Turkey and Central Asia. It is one of the first books that a student of specialized Hanafi jurisprudence encounters. It also remains a basic academic reference in orientalist and historical studies of the development of Hanafi jurisprudence and its transmission across different geographical and political contexts.
+*Al-Hidaya* is still taught today in the religious institutes and universities that follow the Hanafi school, especially in South Asia, Turkey and Central Asia. It is a standard text in the later stages of traditional Hanafi study. It also remains a basic academic reference in orientalist and historical studies of the development of Hanafi jurisprudence and its transmission across different geographical and political contexts.
 
 ## Its Place Among Other Hanafi Texts
 
-*Al-Hidaya* occupies a distinctive position among the many Hanafi texts composed over the centuries, from *Mukhtasar al-Quduri* to later texts such as al-Nasafi's *Al-Kanz* and Ibrahim al-Halabi's *Al-Multaqa* in the Ottoman period. Scholars distinguish between the functions of these texts. Some were formulated for pure memorization without argument, while others combined brevity with sufficient argument, as Marghinani did. This explains why *Al-Hidaya* remains the most widely used and famous of them all, despite the existence of other texts that are more concise or more recent. The book strikes a skilful balance between the beginner's need for brevity and the need to understand the basis of a ruling rather than merely memorize it.
+*Al-Hidaya* occupies a distinctive position among the many Hanafi texts composed over the centuries, from *Mukhtasar al-Quduri* to later texts such as al-Nasafi's *Al-Kanz* and Ibrahim al-Halabi's *Al-Multaqa* in the Ottoman period. Scholars distinguish between the functions of these texts. Some were formulated for pure memorization without argument, while others combined brevity with sufficient argument, as Marghinani did. This helps explain why *Al-Hidaya* remained widely used despite the existence of other texts that are more concise or more recent. The book strikes a skilful balance between the beginner's need for brevity and the need to understand the basis of a ruling rather than merely memorize it.
 
 ## Its Importance for Nineteenth-Century Orientalist Studies
 
@@ -61,4 +61,4 @@ Beyond Hamilton's translation, *Al-Hidaya* was a principal source for a number o
 
 - Al-Marghinani, Burhan al-Din Ali ibn Abi Bakr. *Al-Hidaya Sharh Bidayat al-Mubtadi* (various editions).
 - Hamilton, Charles (trans.). *The Hedaya, or Guide: A Commentary on the Mussulman Laws*. 4 vols., London, 1791.
-- Hallaq, Wael B. *Shari'a: Theory, Practice, Transformations* (2009).
+- Hallaq, Wael B. *Shari'a: Theory, Practice, Transformations*. Cambridge University Press, 2009.

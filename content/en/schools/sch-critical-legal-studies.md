@@ -18,8 +18,7 @@ edges:
 related:
 - id: "sch-american-legal-realism", title: "American Legal Realism", type: "مدرسة"
 - id: "thk-duncan-kennedy", title: "Duncan Kennedy", type: "مفكر"
-gaps:
-  - "Critical Race Theory (CRT) and feminist legal theory, both of which partly branched off from CLS while criticizing its neglect specifically of race and gender: not yet covered. They are two separate items in the backlog."
+gaps: []
 ---
 # Critical Legal Studies (CLS)
 

@@ -33,7 +33,7 @@ Joel Feinberg, in his expansive project *The Moral Limits of the Criminal Law* (
 
 ## The communicative and collective dimension in Duff
 
-Antony Duff, together with Lindsay Farmer, Sandra Marshall, Massimo Renzo and Victor Tadros, developed in *Criminalization: The Political Morality of the Criminal Law* (2014) an approach that links the justification of criminalization to the idea of public wrongs and to membership in a shared political community. It builds on Duff's communicative theory of punishment in *Answering for Crime* (2007). This adds a communicative dimension to the debate that goes beyond the abstract calculation of harm and benefit, toward a deeper question about the legitimacy of holding an individual accountable before the community that the criminal law addresses.
+Antony Duff, together with Lindsay Farmer, Sandra Marshall, Massimo Renzo and Victor Tadros (co-editors of the collective volume *Criminalization: The Political Morality of the Criminal Law*, 2014), has developed an approach that links the justification of criminalization to the idea of public wrongs and to membership in a shared political community. It builds on Duff's communicative theory of punishment in *Answering for Crime* (2007). This adds a communicative dimension to the debate that goes beyond the abstract calculation of harm and benefit, toward a deeper question about the legitimacy of holding an individual accountable before the community that the criminal law addresses.
 
 ## A comparison with the principle of benefit and harm in usul al-fiqh
 
@@ -52,4 +52,4 @@ Criminalization theory has become an independent and influential research field 
 - Packer, Herbert L. *The Limits of the Criminal Sanction*. Stanford University Press, 1968.
 - Husak, Douglas. *Overcriminalization: The Limits of the Criminal Law*. Oxford University Press, 2008.
 - Feinberg, Joel. *The Moral Limits of the Criminal Law*. 4 vols. Oxford University Press, 1984-1988.
-- Duff, R. A., Lindsay Farmer, S. E. Marshall, Massimo Renzo and Victor Tadros. *Criminalization: The Political Morality of the Criminal Law*. Oxford University Press, 2014.
+- Duff, R. A., Lindsay Farmer, S. E. Marshall, Massimo Renzo and Victor Tadros, eds. *Criminalization: The Political Morality of the Criminal Law*. Oxford University Press, 2014.

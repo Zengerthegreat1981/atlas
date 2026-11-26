@@ -52,7 +52,7 @@ Other figures from CRT's founding generation developed distinctive methodologica
 
 ## Criticism of CRT
 
-CRT has faced sharp criticism from several currents. Liberal opponents (such as Randall Kennedy, despite his partial sympathy with it) argue that it weakens the principle of formal equality before the law as a shared goal, replacing it with a group analysis that may entrench racial classification rather than transcend it. Conservative critics (such as Richard Posner) argue that the methodology of "counter-narrative," using personal stories instead of traditional logical argument, lacks rigorous academic standards of verification. Nevertheless, CRT has remained, despite these criticisms and the broad political controversy it provoked in the 2010s over its teaching in American schools, an influential framework in legal, educational and public policy studies.
+CRT has faced sharp criticism from several currents. Liberal opponents (such as Randall Kennedy, despite his partial sympathy with it) argue that it weakens the principle of formal equality before the law as a shared goal, replacing it with a group analysis that may entrench racial classification rather than transcend it. Other critics (such as the jurist and judge Richard Posner) argue that the methodology of "counter-narrative," using personal stories instead of traditional logical argument, lacks rigorous academic standards of verification. Nevertheless, CRT has remained, despite these criticisms and the broad political controversy it provoked in the early 2020s over its teaching in American schools, an influential framework in legal, educational and public policy studies.
 
 ## Sources
 

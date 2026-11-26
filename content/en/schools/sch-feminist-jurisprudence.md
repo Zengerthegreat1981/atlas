@@ -22,7 +22,7 @@ gaps: []
 ---
 # Feminist Jurisprudence
 
-A critical branch of **critical legal studies**, arising from an observation similar to the one that produced **critical race theory**: that CLS, despite its radical critique of law's neutrality, neglected **gender** as an independent axis requiring special analysis that cannot be reduced to a general class analysis. Earlier feminist legal waves (the late 1960s and early 1970s) had focused mainly on formal equality before the law (the right to vote, the right to work, the prohibition of direct discrimination). From the late 1970s, feminist jurisprudence developed toward a deeper critique, asking whether legal "neutrality" is possible at all in a system whose basic rules were historically formulated in the absence of women from the positions where law is made.
+A critical current that developed partly in dialogue with **critical legal studies**, prompted by an observation similar to the one that produced **critical race theory**: that CLS, despite its radical critique of law's neutrality, neglected **gender** as an independent axis requiring special analysis that cannot be reduced to a general class analysis. Earlier feminist legal waves (the late 1960s and early 1970s) had focused mainly on formal equality before the law (the right to vote, the right to work, the prohibition of direct discrimination). From the late 1970s, feminist jurisprudence developed toward a deeper critique, asking whether legal "neutrality" is possible at all in a system whose basic rules were historically formulated in the absence of women from the positions where law is made.
 
 ## Anticipation from Islamic jurisprudence: the specificity of women's rulings and the ijtihad of jurists
 
@@ -34,7 +34,7 @@ In *Toward a Feminist Theory of the State* (1989), **Catharine MacKinnon** devel
 
 ## West: critique of the assumption of "separation" in legal theory
 
-In her seminal article *Jurisprudence and Gender* (1988), **Robin West** advanced a different critique. The major Western theories of law, both liberal and critical, rest on an implicit assumption about the **separate, independent self**. West argues that this model reflects a stereotypically male experience more than a universal human reality, neglecting the experiences of **connection and relation** characteristic of many women's lives (such as pregnancy and motherhood).
+In her influential article "Jurisprudence and Gender" (1988), **Robin West** advanced a different critique. The major Western theories of law, both liberal and critical, rest on an implicit assumption about the **separate, independent self**. West argues that this model reflects a stereotypically male experience more than a universal human reality, neglecting the experiences of **connection and relation** characteristic of many women's lives (such as pregnancy and motherhood).
 
 ## Concrete legal applications
 

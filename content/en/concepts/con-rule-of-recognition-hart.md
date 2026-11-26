@@ -16,8 +16,7 @@ related:
 - id: "thk-hla-hart", title: "H.L.A. Hart", type: "مفكر"
 - id: "wrk-the-concept-of-law-hart", title: "The Concept of Law", type: "عمل / كتاب"
 - id: "con-grundnorm-basic-norm-kelsen", title: "Grundnorm (Basic Norm)", type: "مفهوم"
-gaps:
-  - "Detailed comparison with Kelsen's Grundnorm: not yet covered; only broad outlines are given."
+gaps: []
 ---
 
 # Rule of Recognition

@@ -23,9 +23,7 @@ gaps: []
 ---
 # Richard A. Posner
 
-An American judge and jurist (born 1939), who served on the U.S. Court of Appeals for the Seventh Circuit from 1981 until 2017, and the most prominent theorist of the **economic analysis of law** after **Ronald Coase**.
-
-**Note**: He is not related to Michael I. Posner, the cognitive neuroscientist whose entry is in the psychology section of the atlas; the two share only a surname.
+An American judge and jurist (born 1939), who served on the U.S. Court of Appeals for the Seventh Circuit from 1981 until 2017, and a leading theorist of the **economic analysis of law**, building on the work of **Ronald Coase**.
 
 ## "Economic Analysis of Law" (1973): Efficiency as a Comprehensive Standard
 
@@ -41,7 +39,7 @@ Posner's theses have been criticized from several directions: by **critical lega
 
 ## Practical Adjudication and the Application of Economic Analysis
 
-Posner is distinguished from many purely academic theorists of law and economics by having actually practised his theory from the bench for more than three decades on the Seventh Circuit Court of Appeals. His opinions became well known for applying economic analysis directly to justify judicial decisions, particularly in antitrust, contract and intellectual property cases, in an explicit manner rarely adopted by other judges with such methodological clarity. This combination of academic theorizing with actual judicial practice made him a unique figure in the history of modern American law: he not only proposed a descriptive theory of precedent's tendency towards efficiency, but also contributed personally to advancing that tendency through his opinions.
+Posner is distinguished from many purely academic theorists of law and economics by having actually practised his theory from the bench for more than three decades on the Seventh Circuit Court of Appeals. His opinions became well known for applying economic analysis directly to justify judicial decisions, particularly in antitrust, contract and intellectual property cases, in an explicit manner. This combination of academic theorizing with actual judicial practice made him a distinctive figure in modern American law: he not only proposed a descriptive theory of precedent's tendency towards efficiency, but also contributed personally to advancing that tendency through his opinions.
 
 ## Intellectual Development: From Pure Efficiency to Pragmatism
 
@@ -49,7 +47,7 @@ Posner's thought underwent a notable evolution over his career. Whereas his earl
 
 ## Legacy and Influence
 
-Despite criticism, Posner remains one of the most influential and prolific American jurists of the twentieth century. Together with Coase and Calabresi he established a complete academic field that changed the teaching method of law in major American universities, and his book *Economic Analysis of Law* became the standard textbook for generations of law students. He also founded the *Journal of Legal Studies* (1972), a leading academic platform for the field, and was a senior lecturer and professor at the University of Chicago Law School before his appointment to the bench.
+Despite criticism, Posner remains one of the most influential and prolific American jurists of recent decades. Together with Coase and Calabresi he helped establish law and economics as an academic field, and his book *Economic Analysis of Law* became a widely used textbook. He also founded the *Journal of Legal Studies* (1972), a leading academic platform for the field, and was a senior lecturer and professor at the University of Chicago Law School before his appointment to the bench.
 
 ## Antitrust Law as a Model Field of Application
 

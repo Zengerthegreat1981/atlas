@@ -24,11 +24,11 @@ gaps: []
 
 # Georg Jellinek
 
-**Georg Jellinek** was a German public-law scholar and professor at the University of Heidelberg. He is one of the most important theorists of the **state and of general public legal personality** in the German positivist tradition. He framed a systematic theoretical account of the state that remained a basic reference for decades, before the later pure positivism of Hans Kelsen went beyond it and engaged with it critically.
+**Georg Jellinek** was a German public-law scholar and professor at the University of Heidelberg. He is a leading theorist of the **state and of general public legal personality** in the German positivist tradition. He framed a systematic theoretical account of the state that remained a basic reference for decades, before the later pure positivism of Hans Kelsen went beyond it and engaged with it critically.
 
 ## The Three-Element Theory of the State
 
-In his central work *Allgemeine Staatslehre* (General Theory of the State, 1900), Jellinek established what is known as the **three-element theory** (*Drei-Elemente-Lehre*): the state is a legal entity formed of three indispensable elements, namely territory (*Staatsgebiet*), people (*Staatsvolk*), and organized political authority (*Staatsgewalt*). This analytical definition, which separates the state from any particular moral or teleological content, became a normative basis repeatedly used in public international law to determine the conditions for the existence of a state. Similar criteria were drawn from it in the Montevideo Convention of 1933 on the Rights and Duties of States.
+In his central work *Allgemeine Staatslehre* (General Theory of the State, 1900), Jellinek established what is known as the **three-element theory** (*Drei-Elemente-Lehre*): the state is a legal entity formed of three indispensable elements, namely territory (*Staatsgebiet*), people (*Staatsvolk*), and organized political authority (*Staatsgewalt*). This analytical definition, which separates the state from any particular moral or teleological content, became a normative basis repeatedly used in public international law to determine the conditions for the existence of a state. Similar criteria appear in the Montevideo Convention of 1933 on the Rights and Duties of States.
 
 ## Methodological Duality: The State Between Social Fact and Legal Concept
 
@@ -60,7 +60,7 @@ Kelsen criticized Jellinek's two-sides theory, most directly in *Der soziologisc
 
 ## His Role in the Emergence of Constitutional Law as an Independent Discipline
 
-Jellinek is credited with a founding role in separating the general **theory of the state** (*Allgemeine Staatslehre*) from both abstract political philosophy and narrow positive constitutional law that merely interprets the text of a single constitution. He sought to build a general theoretical framework applicable to analyzing any state in any political system, independent of the peculiarities of one national constitution. This made his book a reference taught in theory-of-the-state curricula across continental Europe, regardless of the differing national constitutional systems of its students.
+Jellinek is credited with a major role in separating the general **theory of the state** (*Allgemeine Staatslehre*) from both abstract political philosophy and narrow positive constitutional law that merely interprets the text of a single constitution. He sought to build a general theoretical framework applicable to analyzing any state in any political system, independent of the peculiarities of one national constitution. This made his book a reference taught in theory-of-the-state curricula across continental Europe, regardless of the differing national constitutional systems of its students.
 
 ## Sources
 

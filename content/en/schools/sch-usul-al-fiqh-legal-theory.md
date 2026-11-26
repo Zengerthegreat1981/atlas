@@ -7,7 +7,7 @@ level: "متوسط"
 title: "Islamic Legal Theory (Usul al-Fiqh)"
 en: "Islamic Legal Theory (Usul al-Fiqh)"
 crumb: "Legal Theory ← Schools ← Islamic Legal Theory (Usul al-Fiqh)"
-dates: "Islamic world · from around the 2nd century AH / 8 CE to the present"
+dates: "Islamic world · from around the 8th century CE (2nd century AH) to the present"
 country: "Iraq, the Hijaz, al-Andalus, Egypt and others"
 language: "Arabic"
 legal_tradition: "Islamic usul al-fiqh"
@@ -39,14 +39,14 @@ gaps: []
 - **Fiqh** (substantive law): the body of detailed practical rulings (prayer, sale, divorce, and so on).
 - **Usul al-fiqh** (legal theory / methodology): the methodological rules by which fiqh is derived from its sources: the Qur'an, the Sunna, consensus (ijma'), analogy (qiyas), and the disputed proofs that branch from them (juristic preference (istihsan), unregulated public interest (maslaha mursala), blocking the means (sadd al-dhara'i), and presumption of continuity (istishab)).
 
-This distinction is what makes usul al-fiqh a subject of the **legal theory** section of this atlas rather than of a fiqh section (which does not exist here at all). It is comparable to the way Hart's legal positivism or Kelsen's pure theory of law are studied as questions about **the criterion for the validity of a legal rule**, rather than about the content of any particular rule.
+This distinction is what makes usul al-fiqh a subject of the **legal theory** section of this atlas rather than of a section on substantive law. It is comparable to the way Hart's legal positivism or Kelsen's pure theory of law are studied as questions about **the criterion for the validity of a legal rule**, rather than about the content of any particular rule.
 
 ## Brief Historical Course
 
 1. **The Shafi'i foundation**: the first complete systematic codification of the field is attributed to **al-Shafi'i** (d. 204 AH) in his *al-Risala*, where he set out a hierarchy of proofs (Qur'an, then Sunna, then consensus, then analogy) and established the concept of **bayan** (explanation and clarification).
 2. **Classical expansion of usul**: several schools followed (Hanafi, Maliki, Hanbali, Zahiri), differing over the status of analogy, juristic preference and unregulated public interest. They produced a vast body of usul literature (al-Juwayni, al-Ghazali, al-Amidi, Ibn al-Hajib).
-3. **The maqasidi turn**: this reached its height with **Abu Ishaq al-Shatibi** (d. 790 AH) in *al-Muwafaqat*, who shifted the question from "what is the particular proof for this ruling" to **"what are the overall aims for which the rulings were established" (maqasid al-shari'ah)**. Some contemporary scholars compare this move to the transition from literal to purposive (teleological) interpretation in modern legal theory.
-4. **Contemporary continuation**: contemporary thinkers (such as Taha Jabir al-Alwani and Jasser Auda) have reapplied the maqasidi framework to debates on human rights and contemporary legislation. This lies outside the scope of this foundational file and is left for later entries.
+3. **The maqasidi turn**: this was developed most fully by **Abu Ishaq al-Shatibi** (d. 790 AH) in *al-Muwafaqat*, who shifted the question from "what is the particular proof for this ruling" to **"what are the overall aims for which the rulings were established" (maqasid al-shari'ah)**. Some contemporary scholars compare this move to the transition from literal to purposive (teleological) interpretation in modern legal theory.
+4. **Contemporary continuation**: contemporary thinkers (such as Taha Jabir al-Alwani and Jasser Auda) have reapplied the maqasidi framework to debates on human rights and contemporary legislation.
 
 ## Why Is This Classified as Legal Theory and Not Fiqh?
 

@@ -27,11 +27,11 @@ gaps:
 ---
 # Al-Mustasfa min 'Ilm al-Usul
 
-The best-known usulist treatise of Abu Hamid **al-Ghazali**, written late in his life, and regarded as one of the most logically organized books of usul al-fiqh. Al-Ghazali employed his logical tools (he is the author of *Mi'yar al-'Ilm* in logic) to formulate the sections of the field in a rigorously inferential manner.
+The best-known usulist treatise of Abu Hamid **al-Ghazali**, written late in his life, and regarded as a logically organized book of usul al-fiqh. Al-Ghazali employed his logical tools (he is the author of *Mi'yar al-'Ilm* in logic) to formulate the sections of the field in a rigorously inferential manner.
 
 ## Structure and content
 
-After the logical introduction, the book divides usul al-fiqh into four major parts (called *aqtab*, "poles"): **the rulings** (their definition and divisions), **the evidences** (the Book, the Sunna, consensus, and then **analogy** in broad detail), **the manner of deduction** (ijtihad and the conflict of evidences), and **the questioner and the mufti**. The section on analogy is the most influential in later literature.
+After the logical introduction, the book divides usul al-fiqh into four major parts (called *aqtab*, "poles"): **the rulings** (their definition and divisions), **the evidences** (the Book, the Sunna, consensus, and then **analogy** in broad detail), **the manner of deduction** (ijtihad and the conflict of evidences), and **the one who derives rulings (the mujtahid)**. The section on analogy is the most influential in later literature.
 
 ## Context: between al-Juwayni and the accumulation of usul knowledge
 
@@ -41,7 +41,7 @@ Al-Ghazali had earlier compiled notes drawing on the usul teaching of his teache
 
 One of *al-Mustasfa*'s most notable contributions is its treatment of **unrestricted public interest** (al-maslaha al-mursala) within a broader theory of the **objectives of the Sharia** (maqasid al-shari'a). Al-Ghazali divides benefits by rank into the **necessities** (preservation of religion, life, progeny, property and intellect), then the **needs**, then the **embellishments**. He thereby establishes a preferential hierarchy that, in cases of conflict, gives priority to preserving the necessary over the needed and the embellishing.
 
-This five-part division of necessities later became the foundation on which Abu Ishaq al-Shatibi built his complete theory of objectives in *al-Muwafaqat*. Al-Ghazali is thus regarded as the first founding link of the science of objectives as a distinct branch within usul al-fiqh. His use of benefit, however, is more cautious than that of the later Najm al-Din al-Tufi, who gave benefit precedence over the text in cases of speculative conflict.
+This five-part division of necessities later became the foundation on which Abu Ishaq al-Shatibi built his complete theory of objectives in *al-Muwafaqat*. Al-Ghazali is thus regarded as an early and influential contributor to the theory of objectives within usul al-fiqh. His use of benefit, however, is more cautious than that of the later Najm al-Din al-Tufi, who gave benefit precedence over the text in cases of speculative conflict.
 
 ## His position on istihsan
 
@@ -53,11 +53,11 @@ The book devotes its section on the "manner of deduction" to the rules of **pref
 
 ## Language and semantic indications
 
-Al-Ghazali devotes a broad section to questions of words and their indications: the literal and the figurative, the general and the particular, the absolute and the restricted, the explicit and the implicit, and command and prohibition with what they entail of obligation, recommendation or prohibition. These are presented as a prerequisite for understanding the textual sources before deducing rulings from them. In this section he drew on the science of language and Arabic rhetoric as much as on the speech of the theologians. His treatment of words is among the most precise written in its field, and it prepared the ground for what came after it in al-Amidi's *al-Ihkam* and Ibn al-Hajib's *Muntaha al-Sul wa al-Amal*.
+Al-Ghazali devotes a broad section to questions of words and their indications: the literal and the figurative, the general and the particular, the absolute and the restricted, the explicit and the implicit, and command and prohibition with what they entail of obligation, recommendation or prohibition. These are presented as a prerequisite for understanding the textual sources before deducing rulings from them. In this section he drew on the science of language and Arabic rhetoric as much as on the speech of the theologians. His treatment of words influenced what came after it in al-Amidi's *al-Ihkam* and Ibn al-Hajib's *Muntaha al-Sul wa al-Amal*.
 
 ## Reception and impact
 
-*Al-Mustasfa* has been regarded since its publication as among the most precise and widely studied usulist treatises. Fakhr al-Din al-Razi drew on it, along with al-Juwayni's *al-Burhan* and Abu al-Husayn al-Basri's *al-Mu'tamad*, in composing his *al-Mahsul*, and Shihab al-Din al-Qarafi benefited from it in his *Sharh Tanqih al-Fusul*. Its use of Greek logic as a usulist tool and its reserved stance on Hanafi istihsan were not accepted by all jurists. Nevertheless, Ibn Khaldun, in the *Muqaddima*, counts it among the four principal works of the theologians' method (with Abd al-Jabbar's *al-'Umad*, Abu al-Husayn al-Basri's *al-Mu'tamad* and al-Juwayni's *al-Burhan*), and its standing in the usul tradition has remained firmly established.
+*Al-Mustasfa* has long been regarded as a major and widely studied usulist treatise. Fakhr al-Din al-Razi drew on it, along with al-Juwayni's *al-Burhan* and Abu al-Husayn al-Basri's *al-Mu'tamad*, in composing his *al-Mahsul*, and Shihab al-Din al-Qarafi benefited from it in his *Sharh Tanqih al-Fusul*. Its use of Greek logic as a usulist tool and its reserved stance on Hanafi istihsan were not accepted by all jurists. Nevertheless, Ibn Khaldun, in the *Muqaddima*, counts it among the four principal works of the theologians' method (with Abd al-Jabbar's *al-'Umad*, Abu al-Husayn al-Basri's *al-Mu'tamad* and al-Juwayni's *al-Burhan*), and its standing in the usul tradition has remained firmly established.
 
 ## Its place among comparable works
 

@@ -1,0 +1,95 @@
+con-civil-law-codification: Majalla described as 'first official attempt' softened to 'landmark official attempt'
+con-criminalization-theory: 2014 Criminalization volume (Duff et al.) corrected to a co-edited collective volume, in text and Sources
+con-ifta-mufti-legal-authority: removed 'first among them' overclaim for al-Qarafi; added his death date
+con-insanity-defense-mnaghten: Tindal's title corrected to Chief Justice of the Court of Common Pleas (was 'Lord Chief Justice')
+con-legal-personality: removed wrong publisher (Springer) for Jellinek 3rd ed.; Ganges/Yamuna ruling attributed to Uttarakhand High Court (not 'courts in India')
+con-maqasid-al-shariah-shatibi: removed duplicated 'purposive coherence' gloss and the translator-style 'analytical note' label; reworded comparison as a modern scholars' gloss
+con-mens-rea-criminal-intent: threefold homicide division re-attributed (Hanafis recognise additional sub-categories, so not simply 'Hanafis and Shafi'is')
+con-hukm-taklifi-wadi-usul: typo makruh tanzihan
+con-ottoman-codification-tanzimat-law: 1917 Family Rights Law 'first codification' softened to 'an early codification'
+con-qiyas-analogical-reasoning: al-Shafi'i 'first systematic defence' softened to 'an early and influential' defence
+con-qada-judgeship-islamic-law: removed duplicated phrase in gaps
+con-qawaid-fiqhiyya-legal-maxims: cleaned garbled/duplicated gap wording
+con-rule-of-recognition-hart: removed gap (Kelsen comparison is covered in body)
+con-siyasa-shariyya-ibn-taymiyya: softened "clearly distinguishes" (fiqh/siyasa framing is interpretive); added CE dates; grammar fix
+dbt-hart-dworkin-rules-principles: added A Matter of Principle (1985), cited in text, to Sources
+dbt-hart-fuller-law-morality-debate: softened "most famous" superlative
+fld-comparative-islamic-law: added Hallaq 2005 (cited in text) to Sources
+fld-legal-reasoning-interpretation: added cited works (Holmes, Llewellyn, Frank, Sunstein, Strauss) to Sources
+sch-american-legal-realism: Realists attacked legal formalism, not classical positivism; corrected Hart's critique to Concept of Law (1961) rule-skepticism argument
+sch-civil-law-tradition: Savigny no longer 'founder' (leading figure); Savigny-Thibaut dispute dated 1814
+sch-common-law-tradition: Blackstone 'first' overclaim softened
+sch-constitutional-law-theory: softened Montesquieu 'founding principle' formulation
+sch-criminal-law-philosophy-responsibility: removed unsupported attribution of ahliyya wujub/ada' to al-Ghazali/al-Qarafi (and Furuq source); removed speculative classical-jurist time-of-act claim; Hart's no-punishment-without-responsibility is a fairness constraint not retributive desert
+sch-criminal-law-theory: Bentham 'founded' -> 'developed'; Beccaria 'the pioneer' softened; added Foucault and Mill to Sources
+sch-critical-legal-studies: removed gap (CRT/feminist branching covered in body)
+sch-critical-race-theory-law: Posner no longer labelled 'conservative'; CRT school-teaching controversy dated early 2020s (not 2010s)
+sch-customary-law-indigenous: Hoebel 'established' softened; Mabo case citation corrected to Mabo (No 2)
+sch-feminist-jurisprudence: no longer 'a branch of CLS' (overclaim; now 'developed partly in dialogue with'); West article title as article not book
+sch-labor-law-justice: softened Marx 'most prominent' and Bismarck 'first comprehensive' claims
+sch-law-society-studies: Cheyenne Way 'established' softened; added Moore 1973 (cited) to Sources
+sch-legal-history-non-western: Shafi'i 'founder'/'first' -> traditionally credited; Islamic law 'the broadest' and Schacht 'most prominent' softened
+sch-legal-pluralism: corrected attribution of ikhtilaf tanawwu'/tadadd distinction (classical, not 'contemporary scholars later')
+sch-modern-natural-law-social-contract: Grotius 'founder' softened
+sch-philosophy-of-law: al-Shatibi 'methodological peak' softened; Ibn Hazm's rejection of analogy noted; unsupported Arab codification claim removed
+sch-restorative-justice: garbled Quran 2:178 quotation replaced by paraphrase; 'advanced restorative justice' and Ibn al-Qayyim 'criminal policy' claims softened
+sch-scandinavian-legal-realism: false 'evolved_from American realism' edge removed (contradicted body); Hagerstrom 'founded' softened; tu-tu essay dated 1951 Danish / 1957 English; speculative Islamic-law sentence removed
+sch-socialist-legal-systems: Marx/Engels superstructure attribution corrected (1859 Preface); Zweigert-Kotz classification misdescribed, corrected to their eight families
+sch-twail-postcolonial-international-law: Abi-Saab title completed ('An Outline'); Anghie 'most influential' softened
+sch-usul-al-fiqh-legal-theory: garbled dates field fixed; meta/'later entries' remarks removed
+thk-abd-al-qadir-awda: 'most important/most widely cited' and 'surpass' claims softened
+thk-abd-al-razzaq-al-sanhuri: 'most important/most prominent/most influential' softened
+thk-abu-yusuf: 'first qadi al-qudat' and 'first major' fiscal work claims softened; 'most important by far' removed
+thk-ahmad-ibn-hanbal: 'founder' -> eponym
+thk-al-mawardi: 'founder'/'first'/'most important' softened; gaps resolved (added Abu Ya'la al-Farra' note), diplomacy gap reformatted
+thk-al-shafii: 'first systematic'/'founder' softened; Hallaq 1993 article pages added; birth-place and Ibn Hanbal gaps removed (covered in body)
+thk-al-shatibi: Masud book date corrected to 1977; 'not anticipated' softened; birth-uncertainty gap folded into body
+thk-alexander-bickel: 'most important/indispensable/mandatory' softened
+thk-carl-schmitt: meta-commentary and dangling cross-references removed; 'second most influential' fixed; causal claim re 1933 softened
+thk-derrick-bell: 'intellectual father' softened; NAACP LDF career corrected (DOJ then LDF in 1960s); cross-reference removed
+thk-duncan-kennedy: 'founding article' softened; cross-reference removed
+thk-franz-wieacker: 'most important historian' softened; unverified Kiel/Leipzig faculties claim generalized
+thk-friedrich-carl-von-savigny: 'founder' of historical school softened
+thk-georg-jellinek: 'one of the most important' softened; Montevideo wording and 'founding role' softened
+thk-hans-kelsen: 'most important' softened; unattributed 'some researchers' claim rephrased
+thk-herbert-packer: 'most influential/comparative' claim corrected
+thk-hersch-lauterpacht: 'most important' softened
+thk-hla-hart: 'most prominent' softened; garbled 'last two debates' sentence fixed; translation/primary-reference overclaims softened
+thk-ibn-hazm: 'most prominent/most important' softened; al-Hajjaj saying re-attributed to critics
+thk-ibn-taymiyya: 'most influential' softened
+thk-joel-feinberg: 'most important philosopher' softened
+thk-john-austin-jurisprudence: lectures began 1829 (not 1828); 'academic founder' softened
+thk-joseph-raz: 'most prominent' softened; cross-reference removed
+thk-karl-llewellyn: 'the leading' softened; unsupported comparative sentence removed
+thk-konrad-zweigert: garbled dates field fixed; functional-method attribution softened (popularized); gap removed (body covers)
+thk-lon-fuller: 'foremost critic' softened; atlas meta-remark and dangling cross-references removed
+thk-malik-ibn-anas: 'founder'/'oldest' softened (eponym; among the oldest); '60 years' and 'few thousand texts' made consistent with ~1,700 hadiths
+thk-mustafa-al-zarqa: superlatives softened; 'participated in founding' Fiqh Academy softened to 'served on'
+thk-oliver-wendell-holmes-jr: 'intellectual father' softened to precursor; unsupported claim on Civil War effects softened; meta-remark removed
+thk-rene-david: 'one of the most important founders' softened; 'this project' meta removed; 'mandatory starting point' softened
+thk-richard-posner-law-economics: 'most prominent'/'unique'/'established a complete field' softened; Michael Posner meta-note removed
+thk-ronald-coase: 'one of the founders' softened; unsupported colleagues-praised passage removed
+thk-ronald-dworkin: 'most prominent critic' softened; garbled parenthetical in moral-reading passage fixed
+thk-rudolf-von-jhering: 'intellectual father'/'most paved' softened; unverifiable German quotation removed; BGB 'enactment in 1900' corrected to entry into force 1900
+thk-shams-al-aimma-al-sarakhsi: double comma fixed; superlatives softened; prison dictation attributed to tradition; Hallaq attribution toned down
+thk-shihab-al-din-al-qarafi: 'most original'/'founded' softened; unsupported 'religiously plural' remark removed
+thk-thomas-franck: section comparing Franck to Islamic political jurisprudence removed (atlas-drawn, unsupported); superlatives softened
+thk-wael-hallaq: 'the leading'/'most-cited' softened; atlas meta-remark removed; Goldziher dropped from attribution
+wrk-al-ashbah-wa-al-nazair-ibn-nujaym: 'most important' softened
+wrk-al-bahr-al-muhit-zarkashi: superlatives and 'later Shafi'i usulis relied' softened
+wrk-al-hidaya-marghinani: 'of all time'/'most widely used of them all' softened; contradictory 'first book a student encounters' corrected; Hallaq 2009 publisher added
+wrk-al-ihkam-al-amidi: superlatives softened; unsupported 'Amidi drew on Mahsul' and Weiss 'peak' attribution removed
+wrk-al-mustasfa-ghazali: fourth qutb corrected (mujtahid/deriver of rulings, not 'questioner and mufti'); 'first founding link' of maqasid and superlatives softened
+wrk-al-muwafaqat-shatibi: 'greatest work' and 'most influential section' softened
+wrk-al-risala-shafii: 'first ... complete codification' softened to earliest surviving systematic treatment; superlatives softened; criticism sentence fixed
+wrk-al-tashri-al-jinai-al-islami-awda: superlatives softened; Zaman source removed (could not confirm relevance; title truncated)
+wrk-causation-in-the-law-hart-honore: atlas-drawn Islamic-law comparison section removed; 'most important'/'dominant' softened; Honore 'comparative Roman law' -> Roman law
+wrk-democracy-and-distrust-ely: 'most influential/most cited' softened; Tribe page range added (89 Yale L.J. 1063)
+wrk-kitab-al-kharaj-abu-yusuf: 'major share in codifying', 'most important', 'unique' softened
+wrk-laws-empire-dworkin: atlas-drawn usul al-fiqh comparison section removed; 'most mature' softened
+wrk-majallat-al-ahkam-al-adliyya: 'first' softened; unsupported 'especially Radd al-Muhtar' source claim replaced with generic; 'central figure'/'succeeded' toned down
+wrk-model-penal-code: atlas-drawn Islamic-law comparative note removed; 'most influential de facto'/'most states adopted' softened
+wrk-punishment-and-responsibility-hart: atlas-drawn Islamic-law parallel section removed; 'the reference work' softened
+wrk-pure-theory-of-law-kelsen: 'unprecedented' softened
+wrk-road-serfdom-hayek: atlas-drawn hisba/siyasa shar'iyya comparison section removed (incl. unsourced Ibn Taymiyya al-Hisba claim); 'most influential'/'paved the way for Thatcher and Reagan' softened
+wrk-the-concept-of-law-hart: misleading 'Final Chapter' heading renamed; 'most important of three rules'/'most debates' softened

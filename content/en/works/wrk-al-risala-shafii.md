@@ -28,7 +28,7 @@ gaps:
 
 # Al-Risala fi Usul al-Fiqh
 
-The foundational work of **al-Shafi'i** (150–204 AH), regarded as the **first systematic, organized and complete methodological codification** of the field of **usul al-fiqh** in the history of Islamic thought, although earlier scattered studies on partial usuli questions existed among the jurists of the early schools, they did not reach the degree of comprehensive methodological organization achieved by *al-Risala*.
+The foundational work of **al-Shafi'i** (150–204 AH), regarded as the earliest surviving **systematic methodological treatment** of the field of **usul al-fiqh**. Earlier scattered discussions of partial usuli questions existed among the jurists of the early schools, but they did not reach the degree of methodological organization found in *al-Risala*.
 
 ## Context: The Crisis of Methodological Plurality in the Second Century AH
 
@@ -36,7 +36,7 @@ Al-Shafi'i wrote his *Risala* in a period when juristic reasoning was marked by 
 
 ## The Project: Resolving the Dispute Between the People of Hadith and the People of Opinion
 
-In *al-Risala*, al-Shafi'i confronts a sharp methodological division between two juristic currents: a Hijazi school (the People of Hadith) that relies exclusively on the transmitted text and is wary of exercising opinion, and an Iraqi school (the Hanafis, the People of Opinion) that makes greater use of **analogy** (*qiyas*) and juristic preference (*istihsan*). Al-Shafi'i proposes an explicit and binding **methodological hierarchy** of proofs that resolves this dispute methodologically: first the Quran, then the Sunna (which specifies and explains the general meaning of the Quran and which, for al-Shafi'i, holds the same standing as the Quran in terms of authority since it too is revelation), then consensus (*ijma'*), and finally analogy when no direct text exists. This explicit ordering is what distinguished al-Shafi'i's work from that of his predecessors, who did not state a methodological hierarchy with such clarity.
+In *al-Risala*, al-Shafi'i confronts a sharp methodological division between two juristic currents: a Hijazi school (the People of Hadith) that relies exclusively on the transmitted text and is wary of exercising opinion, and an Iraqi school (the Hanafis, the People of Opinion) that makes greater use of **analogy** (*qiyas*) and juristic preference (*istihsan*). Al-Shafi'i proposes an explicit and binding **methodological hierarchy** of proofs that resolves this dispute methodologically: first the Quran, then the Sunna (which specifies and explains the general meaning of the Quran and which, for al-Shafi'i, holds the same standing as the Quran in terms of authority since it too is revelation), then consensus (*ijma'*), and finally analogy when no direct text exists. This explicit ordering is a distinctive feature of al-Shafi'i's work.
 
 ## The Theory of Bayan: Kinds of Textual Clarification
 
@@ -44,11 +44,11 @@ Al-Shafi'i devotes an important section to classifying the types of ***bayan*** 
 
 ## Al-Shafi'i's Position on Solitary Reports and Analogy
 
-Among the most prominent contributions of *al-Risala* is its detailed defense of the authority of **solitary reports** (*khabar al-ahad*), a hadith transmitted through a single chain that does not reach the level of mass transmission, as a binding legal proof, against those who questioned its sufficiency for establishing rulings. Al-Shafi'i also set methodological conditions for regulating **analogy** that prevent its random expansion, unlike the later accusation by the Zahiris (foremost among them Ibn Hazm) that analogy in its essence is a speculative guess that does not rise to the level of the certainty of religious law that is required.
+Among the notable contributions of *al-Risala* is its detailed defense of the authority of **solitary reports** (*khabar al-ahad*), a hadith transmitted through a single chain that does not reach the level of mass transmission, as a binding legal proof, against those who questioned its sufficiency for establishing rulings. Al-Shafi'i also set methodological conditions for regulating **analogy** that prevent its random expansion, unlike the later accusation by the Zahiris (foremost among them Ibn Hazm) that analogy in its essence is a speculative guess that does not rise to the level of the certainty of religious law that is required.
 
 ## Foundational Impact and Critical Reception
 
-*Al-Risala* influenced nearly all subsequent juristic schools, even those that disagreed with al-Shafi'i on the details of his position (such as the Hanafis on the question of *istihsan*), and the sequence he proposed for the proofs (the Book, the Sunna, consensus, analogy) became the framework most widely followed in the presentation of usul al-fiqh. Nevertheless, the *Risala* faced later criticism from two directions: from the Zahiris, who rejected analogy itself entirely, contrary to al-Shafi'i's codification of it; while later works, such as al-Shatibi's *al-Muwafaqat*, went beyond the regulation of individual proofs to develop a systematic theory of the objectives of the Sharia, which later became an independent usuli subject in its own right.
+*Al-Risala* influenced many subsequent juristic discussions, even those that disagreed with al-Shafi'i on the details of his position (such as the Hanafis on the question of *istihsan*), and the sequence he proposed for the proofs (the Book, the Sunna, consensus, analogy) became the framework most widely followed in the presentation of usul al-fiqh. Nevertheless, the *Risala* faced later criticism from two directions: from the Zahiris, who rejected analogy itself entirely, contrary to al-Shafi'i's codification of it, and from later works, such as al-Shatibi's *al-Muwafaqat*, went beyond the regulation of individual proofs to develop a systematic theory of the objectives of the Sharia, which later became an independent usuli subject in its own right.
 
 ## The Old and the New: The Development of al-Shafi'i's Method Between Iraq and Egypt
 

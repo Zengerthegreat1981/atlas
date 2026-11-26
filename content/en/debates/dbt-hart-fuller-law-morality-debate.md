@@ -20,7 +20,7 @@ gaps: []
 ---
 # The Hart–Fuller Debate (Law and Morality)
 
-The most famous debate in twentieth-century Anglo-American philosophy of law, conducted between **H.L.A. Hart** and **Lon L. Fuller** through two successive articles in the *Harvard Law Review* in 1958, and continued in their later books (Hart's *The Concept of Law*, 1961, and Fuller's *The Morality of Law*, 1964).
+One of the best-known debates in twentieth-century Anglo-American philosophy of law, conducted between **H.L.A. Hart** and **Lon L. Fuller** through two successive articles in the *Harvard Law Review* in 1958, and continued in their later books (Hart's *The Concept of Law*, 1961, and Fuller's *The Morality of Law*, 1964).
 
 ## The Flashpoint: Laws of the Nazi Regime
 

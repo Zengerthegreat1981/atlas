@@ -24,7 +24,7 @@ gaps:
 ---
 # Herbert L. Packer
 
-**Herbert Packer** (1925-1972) was an American law professor at Stanford University. He is the author of one of the most influential frameworks for understanding comparative American criminal procedure: his distinction between the **crime control model** and the **due process model**, presented in his influential 1964 article and later developed in his major book *The Limits of the Criminal Sanction* (1968).
+**Herbert Packer** (1925-1972) was an American law professor at Stanford University. He is the author of an influential framework for understanding American criminal procedure: his distinction between the **crime control model** and the **due process model**, presented in his 1964 article "Two Models of the Criminal Process" and later developed in his book *The Limits of the Criminal Sanction* (1968).
 
 ## The two competing models: crime control versus due process
 

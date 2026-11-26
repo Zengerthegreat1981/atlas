@@ -30,7 +30,7 @@ It is worth recalling that the idea of grounding political and legal association
 
 ## Grotius: Natural Law Apart from Theology
 
-**Hugo Grotius** is considered the founder of this shift. In *On the Law of War and Peace* (1625), he proposes that the basic principles of natural law (such as the duty to keep promises) hold **even if we assume, for the sake of argument, that God does not exist** (*etiamsi daremus*). This separates natural law from its direct divine condition and paves the way for establishing **international law** as an independent field.
+**Hugo Grotius** is often regarded as a foundational figure of this shift. In *On the Law of War and Peace* (1625), he proposes that the basic principles of natural law (such as the duty to keep promises) hold **even if we assume, for the sake of argument, that God does not exist** (*etiamsi daremus*). This separates natural law from its direct divine condition and paves the way for establishing **international law** as an independent field.
 
 ## Hobbes: Civil Law from the Womb of the Contract, Not Nature
 

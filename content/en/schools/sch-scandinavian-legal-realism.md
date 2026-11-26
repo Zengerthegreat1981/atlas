@@ -13,8 +13,7 @@ language: "Swedish, Danish, English"
 legal_tradition: "Scandinavian Legal Realism"
 active_start: 1908
 active_end: 1960
-edges:
-- rel: "evolved_from", target: "American Legal Realism", target_type: "مدرسة"
+edges: []
 related:
 - id: "sch-american-legal-realism", title: "American Legal Realism", type: "مدرسة"
 gaps: []
@@ -26,11 +25,11 @@ A philosophical-legal current that emerged in Sweden and Denmark in the first ha
 
 ## The Philosophical Root: Hägerström's Critique of Legal Metaphysics
 
-The Swedish philosopher Axel Hägerström (1868–1939) founded this current with a radical philosophical critique of basic legal concepts such as "right," "duty," and "ownership." He held that these concepts **do not refer to real, empirically observable facts**. Rather, they are remnants of a magical-religious mode of thought that projects non-existent hidden forces onto ordinary social relations. For example, one might imagine that "ownership" is a mysterious power attached to the owned object, rather than merely organized social expectations about who is permitted to do what.
+The Swedish philosopher Axel Hägerström (1868–1939) initiated this current with a radical philosophical critique of basic legal concepts such as "right," "duty," and "ownership." He held that these concepts **do not refer to real, empirically observable facts**. Rather, they are remnants of a magical-religious mode of thought that projects non-existent hidden forces onto ordinary social relations. For example, one might imagine that "ownership" is a mysterious power attached to the owned object, rather than merely organized social expectations about who is permitted to do what.
 
-## Alf Ross: The Most Internationally Influential Methodological Development
+## Alf Ross: Legal Methodology and the Tû-Tû Concept
 
-The Danish thinker **Alf Ross** developed this philosophical critique into an integrated legal methodology that had greater influence in international academic circles. This is especially evident in his book *On Law and Justice* (1958) and in his well-known essay on the **"tû-tû" concept**, which explains the function of concepts that are apparently empty. Ross holds that expressions such as "ownership has passed" do not describe a metaphysical fact. They are a technical tool for linking a set of conditions (sale, delivery) to a set of consequences (the right to sell, the right to possession) without needing to repeat the full list of conditions and consequences each time. "Ownership," in other words, is a short inferential link rather than a real entity, much like the word "tû-tû" in Ross's fictitious example of a tribe whose members believe it names a dangerous supernatural force, where in fact it works only as a device for linking conditions to consequences. Ross first published the essay in 1957.
+The Danish thinker **Alf Ross** developed this philosophical critique into an integrated legal methodology that was widely read internationally. This is especially evident in his book *On Law and Justice* (1958) and in his well-known essay on the **"tû-tû" concept**, which explains the function of concepts that are apparently empty. Ross holds that expressions such as "ownership has passed" do not describe a metaphysical fact. They are a technical tool for linking a set of conditions (sale, delivery) to a set of consequences (the right to sell, the right to possession) without needing to repeat the full list of conditions and consequences each time. "Ownership," in other words, is a short inferential link rather than a real entity, much like the word "tû-tû" in Ross's fictitious example of a tribe whose members believe it names a dangerous supernatural force, where in fact it works only as a device for linking conditions to consequences. The essay first appeared in Danish in 1951 and in English in 1957.
 
 ## Karl Olivecrona: Law as a Psychological and Social Fact
 
@@ -38,7 +37,7 @@ The Swede **Karl Olivecrona**, in *Law as Fact* (first edition 1939, revised sec
 
 ## General Approach: Opposition to Legal Metaphysics
 
-Despite differences in the details of their positions, the Scandinavian realists share a commitment to an **empirical, anti-metaphysical** method. They reject any explanation of law that invokes entities or forces not open to empirical observation (such as "right" or "duty" understood as independent essences). They insist on reducing legal phenomena to concrete psychological and social facts that can be studied with the tools of the social sciences. In this respect they partly converge with American legal realism in its empirical orientation, but they surpass it in philosophical depth and systematic conceptual analysis. The Americans focused more on the study of actual judicial behavior and the prediction of decisions.
+Despite differences in the details of their positions, the Scandinavian realists share a commitment to an **empirical, anti-metaphysical** method. They reject any explanation of law that invokes entities or forces not open to empirical observation (such as "right" or "duty" understood as independent essences). They insist on reducing legal phenomena to concrete psychological and social facts that can be studied with the tools of the social sciences. In this respect they partly converge with American legal realism in its empirical orientation, but they pursue more systematic philosophical and conceptual analysis. The Americans focused more on the study of actual judicial behavior and the prediction of decisions.
 
 ## Internal Debate and Tension with Philosophy of Language
 
@@ -50,7 +49,7 @@ Scandinavian realism had a profound influence on analytical philosophy of law in
 
 ## Comparison with Islamic Legal Theory
 
-Contrasting Scandinavian realism with Islamic legal theory offers a useful perspective on the limits of Scandinavian reductionism. When Muslim jurists inquire into the nature of a legal ruling, they do not deny the objective existence of obligation as Hägerström did. Rather, they connect it to the discourse of the lawgiver and its objectives (as in al-Shatibi's theory of *maqasid*). In their view, the legal rule thus retains a normative reference that goes beyond purely psychological and social facts. This may explain why no reductionist movement comparable to the realism of Hägerström, Ross, and Olivecrona arose in Islamic jurisprudence, despite the shared interest of both traditions in analyzing how legal concepts function.
+Contrasting Scandinavian realism with Islamic legal theory offers a useful perspective on the limits of Scandinavian reductionism. When Muslim jurists inquire into the nature of a legal ruling, they do not deny the objective existence of obligation as Hägerström did. Rather, they connect it to the discourse of the lawgiver and its objectives (as in al-Shatibi's theory of *maqasid*). In their view, the legal rule thus retains a normative reference that goes beyond purely psychological and social facts.
 
 ## Criticism
 

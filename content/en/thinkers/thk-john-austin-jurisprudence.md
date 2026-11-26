@@ -25,7 +25,7 @@ gaps: []
 
 # John Austin (Legal Positivist, Command Theory)
 
-An English jurist (1790–1859), a friend and follower of **Jeremy Bentham** and deeply influenced by him, who is considered the academic founder of legal positivism as a distinct, methodical field of study in the English-speaking world, through his book *The Province of Jurisprudence Determined* (1832).
+An English jurist (1790–1859), a friend and follower of **Jeremy Bentham** and deeply influenced by him, who is considered a founder of legal positivism as a distinct, methodical field of study in the English-speaking world, through his book *The Province of Jurisprudence Determined* (1832).
 
 ## Command Theory of Law
 
@@ -33,7 +33,7 @@ Austin defines law as a **general command** issued by a **political sovereign**:
 
 ## His Life and Academic Project
 
-Austin was born in Suffolk in 1790. He served in the army (1806-1812) before studying law and being called to the bar in 1818. He was not successful in practice, so he turned to academia. In 1826 he was appointed professor of jurisprudence at the newly founded University of London (later University College London), and spent time in Bonn studying German law before beginning his lectures in 1828. His lectures did not attract many students, he stopped lecturing in 1832, and he resigned the chair in 1835. *The Province of Jurisprudence Determined* (1832) grew out of the first part of the course. The scale of his influence was recognized mainly after his death in 1859, when his wife Sarah Austin edited his lectures and published them as *Lectures on Jurisprudence* (1863). That work restored the standing of his project and established it as a basic reference in teaching general jurisprudence at British universities throughout the nineteenth and early twentieth centuries.
+Austin was born in Suffolk in 1790. He served in the army (1806-1812) before studying law and being called to the bar in 1818. He was not successful in practice, so he turned to academia. In 1826 he was appointed professor of jurisprudence at the newly founded University of London (later University College London), and spent time in Bonn studying German law before beginning his lectures in 1829. His lectures did not attract many students, he stopped lecturing in 1832, and he resigned the chair in 1835. *The Province of Jurisprudence Determined* (1832) grew out of the first part of the course. The scale of his influence was recognized mainly after his death in 1859, when his wife Sarah Austin edited his lectures and published them as *Lectures on Jurisprudence* (1863). That work restored the standing of his project and established it as a basic reference in teaching general jurisprudence at British universities throughout the nineteenth and early twentieth centuries.
 
 ## A Comparison with the Theory of Ruling in Usul al-Fiqh
 

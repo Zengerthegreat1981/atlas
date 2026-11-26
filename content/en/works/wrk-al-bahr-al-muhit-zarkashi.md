@@ -24,7 +24,7 @@ gaps:
 ---
 # Al-Bahr al-Muhit fi Usul al-Fiqh
 
-A vast encyclopedic work on the principles of jurisprudence (usul al-fiqh) by Badr al-Din Muhammad ibn Bahadur al-Zarkashi (d. 794 AH / 1392 CE), the Egyptian Shafi'i jurist also known for his works on the sciences of the Qur'an (such as *Al-Burhan fi Ulum al-Quran*), hadith and jurisprudence. *Al-Bahr al-Muhit* is one of the broadest and most comprehensive works written on usul al-fiqh, in its absorption of several centuries of earlier usuli debate. It became a reference to which later scholars turned to learn the views of earlier usulis when their original sources were lost or difficult to reach.
+A vast encyclopedic work on the principles of jurisprudence (usul al-fiqh) by Badr al-Din Muhammad ibn Bahadur al-Zarkashi (d. 794 AH / 1392 CE), the Egyptian Shafi'i jurist also known for his works on the sciences of the Qur'an (such as *Al-Burhan fi Ulum al-Quran*), hadith and jurisprudence. *Al-Bahr al-Muhit* is one of the broadest works written on usul al-fiqh, in its absorption of several centuries of earlier usuli debate. It became a reference to which later scholars turned to learn the views of earlier usulis when their original sources were lost or difficult to reach.
 
 ## The Encyclopedic Character
 
@@ -48,11 +48,11 @@ Among the notable features of Zarkashi's method is that he does not confine hims
 
 ## The Late Scholarly Edition of the Book
 
-*Al-Bahr al-Muhit* received a complete scholarly edition and wide publication only in the later decades of the twentieth century (a multi-volume Kuwaiti edition appeared from the late 1980s), unlike other earlier usuli works that were printed much sooner (such as al-Mustasfa and al-Ihkam). This partly explains the limited use Western scholars made of its rich material before that date, compared with other usuli works made available to orientalist scholars earlier. Its internal documentary value is no less important than those works, however, and at times surpasses them in the abundance of historical quotations preserved in it alone.
+*Al-Bahr al-Muhit* received a complete scholarly edition and wide publication only in the later decades of the twentieth century (a multi-volume Kuwaiti edition appeared from the late 1980s), unlike other earlier usuli works that were printed much sooner (such as al-Mustasfa and al-Ihkam). This partly explains the limited use Western scholars made of its rich material before that date, compared with other usuli works made available to orientalist scholars earlier. Its internal documentary value is no less important than those works, however, and is notable for the many earlier quotations preserved in it.
 
 ## Its Later Influence
 
-Many later Shafi'i usulis in the following centuries relied on *Al-Bahr al-Muhit* as a basic reference source. It has also been widely cited in modern orientalist and academic studies of the history of usul al-fiqh because of the richness of its historical and documentary material. It nonetheless remains less known among general students than shorter and more widely circulated usuli works used in traditional teaching, such as *Jam al-Jawami* or al-Juwayni's *Al-Waraqat*.
+Later scholars have drawn on *Al-Bahr al-Muhit* as a reference source. It has also been widely cited in modern orientalist and academic studies of the history of usul al-fiqh because of the richness of its historical and documentary material. It nonetheless remains less known among general students than shorter and more widely circulated usuli works used in traditional teaching, such as *Jam al-Jawami* or al-Juwayni's *Al-Waraqat*.
 
 ## Sources
 

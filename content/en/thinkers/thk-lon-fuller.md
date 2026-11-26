@@ -24,15 +24,15 @@ gaps: []
 
 # Lon L. Fuller
 
-An American jurist (1902–1978), professor at Harvard Law School from 1940, and the foremost critic of modern legal positivism in the mid-twentieth century. He was not himself a positivist; he is placed beside the positivists in this atlas because his debate with Hart historically marks the limits of modern positivism. He wrote from the standpoint of **procedural natural law**, a position that does not ground law in a divine or metaphysical source of natural law (unlike the Thomist tradition), but in the idea that law has an **internal procedural structure** that must be respected for a system to count as a legal system at all.
+An American jurist (1902–1978), professor at Harvard Law School from 1940, and a leading critic of modern legal positivism in the mid-twentieth century. He was not himself a positivist; his debate with Hart historically marks the limits of modern positivism. He wrote from the standpoint of **procedural natural law**, a position that does not ground law in a divine or metaphysical source of natural law (unlike the Thomist tradition), but in the idea that law has an **internal procedural structure** that must be respected for a system to count as a legal system at all.
 
 ## The Central Thesis: The "Internal Morality of Law"
 
-In his book *The Morality of Law* (1964), Fuller argues that there are **eight procedural conditions** that any system deserving the name "law" must satisfy. See **Internal Morality of Law**. A system that fails to meet them grossly (such as the Nazi system) fails to be law in the full sense, not merely a law that is unjust.
+In his book *The Morality of Law* (1964), Fuller argues that there are **eight procedural conditions** that any system deserving the name "law" must satisfy. A system that fails to meet them grossly (such as the Nazi system) fails to be law in the full sense, not merely a law that is unjust.
 
 ## The Debate with Hart
 
-Fuller engaged in a famous debate with **Hart**, published in the *Harvard Law Review* in 1958, which continued in their later books. See **The Hart–Fuller Debate**. The question was whether the positivist separation of law and morality is methodologically sound, or whether it conceals a structural moral condition inherent in the very idea of law.
+Fuller engaged in a famous debate with **Hart**, published in the *Harvard Law Review* in 1958, which continued in their later books. The question was whether the positivist separation of law and morality is methodologically sound, or whether it conceals a structural moral condition inherent in the very idea of law.
 
 ## The Example of King Rex: Teaching the Eight Conditions
 

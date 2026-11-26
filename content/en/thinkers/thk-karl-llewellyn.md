@@ -23,7 +23,7 @@ gaps: []
 
 # Karl N. Llewellyn
 
-An American law professor (1893–1962) who taught at Yale, Columbia (1925-51) and Chicago (from 1951), and the leading academic theorist of **American legal realism**.
+An American law professor (1893–1962) who taught at Yale, Columbia (1925-51) and Chicago (from 1951), and a leading academic theorist of **American legal realism**.
 
 ## "The Bramble Bush": Law as Practiced, Not as Taught
 
@@ -35,7 +35,7 @@ Later, in responding to critics who accused realism of absolute anarchy, Llewell
 
 ## Chief Reporter of the Uniform Commercial Code (UCC)
 
-Beyond his academic contribution, Llewellyn served as Chief Reporter for drafting the **Uniform Commercial Code** (UCC), specifically its Article 2 on sales. This legislative project (first promulgated in 1952) unified commercial transaction rules across most American states from the 1950s and 1960s onward. The drafting reflects his realist philosophy. Rather than rigid, detailed rules that attempt to cover every possibility, the Code adopted relatively flexible standards such as "good faith," "commercial reasonableness," and "usage of trade," leaving courts a wide interpretive margin that adapts to the variety of actual commercial practices rather than imposing a single rigid textual template. This practical effect is among Llewellyn's most durable and directly influential achievements, and it remains in force in American law today. It far exceeds the resonance of his purely academic writings.
+Beyond his academic contribution, Llewellyn served as Chief Reporter for drafting the **Uniform Commercial Code** (UCC), specifically its Article 2 on sales. This legislative project (first promulgated in 1952) unified commercial transaction rules across most American states from the 1950s and 1960s onward. The drafting reflects his realist philosophy. Rather than rigid, detailed rules that attempt to cover every possibility, the Code adopted relatively flexible standards such as "good faith," "commercial reasonableness," and "usage of trade," leaving courts a wide interpretive margin that adapts to the variety of actual commercial practices rather than imposing a single rigid textual template. This practical effect is among Llewellyn's most durable and directly influential achievements, and it remains in force in American law today.
 
 ## Difference from Frank: Rule-Based Realism, Not Purely Individual
 

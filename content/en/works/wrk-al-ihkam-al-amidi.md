@@ -26,7 +26,7 @@ gaps:
 
 # Al-Ihkam fi Usul al-Ahkam
 
-One of the major classical works of usul al-fiqh in the method of the theologians (alongside al-Ghazali's *al-Mustasfa* and al-Razi's *al-Mahsul*). It was written by Sayf al-Din al-Amidi (d. 631 AH / 1233 CE), and it is regarded as one of the most precisely organized usul texts and one of the most comprehensive in its survey of the opinions of the various schools.
+One of the major classical works of usul al-fiqh in the method of the theologians (alongside al-Ghazali's *al-Mustasfa* and al-Razi's *al-Mahsul*). It was written by Sayf al-Din al-Amidi (d. 631 AH / 1233 CE), and it is regarded as a carefully organized usul text and a comprehensive survey of the opinions of the various schools.
 
 ## Method: Logical Rigor in the Formulation of Usul Questions
 
@@ -34,7 +34,7 @@ Amidi is distinguished by applying strict logical tools (precise definitions, di
 
 ## The Study of the Signification of Words: His Best-Known Contribution
 
-Amidi devotes an extensive section to classifying the types of **signification of legal words over their meanings** (the explicit meaning of the text, its implied meanings, and its necessary entailments, among other categories) with an analytical precision that became a standard reference for later usul scholars. This section is among the most precise classical treatments of the question of **how a jurist derives a ruling from a text that does not state the ruling directly**. This question roughly parallels the study of **implicit meaning** in modern legal interpretation theory.
+Amidi devotes an extensive section to classifying the types of **signification of legal words over their meanings** (the explicit meaning of the text, its implied meanings, and its necessary entailments, among other categories) with an analytical precision that became a standard reference for later usul scholars. This section is a detailed classical treatment of the question of **how a jurist derives a ruling from a text that does not state the ruling directly**. This question roughly parallels the study of **implicit meaning** in modern legal interpretation theory.
 
 ## Impact
 
@@ -58,7 +58,7 @@ One of the most subtle theological-usul questions Amidi treats at the start of t
 
 ## Comparison with His Contemporaries and Successors
 
-Al-Ihkam differs from al-Ghazali's *al-Mustasfa* by its broader presentation of the views and arguments of opponents before weighing them. It differs from al-Razi's *al-Mahsul* (a work Amidi drew on among his sources) by greater precision in logical formulation and in the ordering of questions. Modern scholars (including Bernard Weiss) have observed that al-Ihkam represents the peak of the mature **method of the theologians** in usul, before the later works that sought to combine the two methods (such as Ibn al-Sa'ati's *Badi' al-Nizam*).
+Al-Ihkam differs from al-Ghazali's *al-Mustasfa* by its broader presentation of the views and arguments of opponents before weighing them. It differs from al-Razi's *al-Mahsul* by greater precision in logical formulation and in the ordering of questions. Modern scholars have regarded al-Ihkam as a mature expression of the **method of the theologians** in usul, before the later works that sought to combine the two methods (such as Ibn al-Sa'ati's *Badi' al-Nizam*).
 
 ## Its Standing in Modern Western and Academic Studies
 

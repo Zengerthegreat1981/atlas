@@ -21,15 +21,15 @@ gaps:
 
 # Al-Siyasa al-Shar'iyya (Sharia-Compliant Governance) and the Fiqh/Law Distinction
 
-A central concept developed by **Ibn Taymiyya** (661–728 AH) in his book *al-Siyasa al-shar'iyya*. It defines the limits of the ruler's legitimate discretionary authority to issue **administrative and regulatory decisions** that are not derived directly from a particular juristic text, but from the **general objectives of the Sharia** and the welfare of the subjects.
+A central concept developed by **Ibn Taymiyya** (661–728 AH / 1263–1328 CE) in his book *al-Siyasa al-shar'iyya*. It defines the limits of the ruler's legitimate discretionary authority to issue **administrative and regulatory decisions** that are not derived directly from a particular juristic text, but from the **general objectives of the Sharia** and the welfare of the subjects.
 
 ## The Core Difference: Fiqh Is Derived Text, Siyasa Is Discretionary Management
 
-Ibn Taymiyya clearly distinguishes between two domains. **Fiqh** consists of the rulings derived from specific legal evidence (a text, analogy, or consensus) on a particular question. **Siyasa shar'iyya**, by contrast, is the domain in which the ruler (*wali al-amr*, the governor or the judge) holds **broad discretionary authority** to take regulatory, administrative, and punitive measures. Examples include setting discretionary penalties (ta'zir) for which no specific text exists, organizing markets, or arranging the army. These measures aim at **justice and the public interest**, provided they **do not contradict an explicit, definitive legal text**. This distinction is what makes the concept material for legal theory in particular, since it examines **the scope of legitimate legislative discretion** rather than the content of a particular juristic ruling.
+Ibn Taymiyya's discussion can be read as distinguishing between two domains. **Fiqh** consists of the rulings derived from specific legal evidence (a text, analogy, or consensus) on a particular question. **Siyasa shar'iyya**, by contrast, is the domain in which the ruler (*wali al-amr*, the governor or the judge) holds **broad discretionary authority** to take regulatory, administrative, and punitive measures. Examples include setting discretionary penalties (ta'zir) for which no specific text exists, organizing markets, or arranging the army. These measures aim at **justice and the public interest**, provided they **do not contradict an explicit, definitive legal text**. This distinction is what makes the concept material for legal theory in particular, since it examines **the scope of legitimate legislative discretion** rather than the content of a particular juristic ruling.
 
 ## Justice and Public Interest as Governing Aims
 
-Ibn Taymiyya presents the purpose of appointing rulers is **the reform of people's religion and their worldly affairs**, and any measure that achieves justice and averts harm falls within the general purpose of the Sharia, even if no specific text addresses it, on condition that it does not contradict a definitive text. His student Ibn al-Qayyim al-Jawziyya (d. 751 AH) later developed the idea in *al-Turuq al-hukmiyya fi al-siyasa al-shar'iyya*.
+Ibn Taymiyya presents the purpose of appointing rulers as **the reform of people's religion and their worldly affairs**, and any measure that achieves justice and averts harm falls within the general purpose of the Sharia, even if no specific text addresses it, on condition that it does not contradict a definitive text. His student Ibn al-Qayyim al-Jawziyya (d. 751 AH) later developed the idea in *al-Turuq al-hukmiyya fi al-siyasa al-shar'iyya*.
 
 ## Its Importance in Comparative Legal Theory
 

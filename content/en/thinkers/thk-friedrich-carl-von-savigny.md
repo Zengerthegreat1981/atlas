@@ -24,7 +24,7 @@ gaps:
 ---
 # Friedrich Carl von Savigny
 
-**Friedrich Carl von Savigny** (1779–1861) was a German jurist and, from 1810, one of the first professors at the newly founded University of Berlin. He is regarded as the founder of the **historical school of law** (*Historische Rechtsschule*), which for decades was the dominant trend in German jurisprudence. It paved the way, though in an apparently paradoxical manner, for the highly systematic formulation of the German Civil Code (BGB).
+**Friedrich Carl von Savigny** (1779–1861) was a German jurist and, from 1810, one of the first professors at the newly founded University of Berlin. He is regarded as the leading figure of the **historical school of law** (*Historische Rechtsschule*), which for decades was the dominant trend in German jurisprudence. It paved the way, though in an apparently paradoxical manner, for the highly systematic formulation of the German Civil Code (BGB).
 
 ## The Debate with Thibaut: Against Immediate Codification
 

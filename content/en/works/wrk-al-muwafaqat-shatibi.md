@@ -25,11 +25,11 @@ gaps:
 
 # Al-Muwafaqat fi Usul al-Shari'ah
 
-Al-Shatibi's greatest work in usul, in which he formulated his theory of the **objectives of Sharia** in a complete methodological form. Its full title is sometimes rendered "al-Muwafaqat fi Usul al-Ahkam" or "al-Muwafaqat fi Usul al-Shari'a." The latter is the most prominent in contemporary academic usage.
+Al-Shatibi's principal work in usul, in which he formulated his theory of the **objectives of Sharia** in a complete methodological form. Its full title is sometimes rendered "al-Muwafaqat fi Usul al-Ahkam" or "al-Muwafaqat fi Usul al-Shari'a." The latter is the most prominent in contemporary academic usage.
 
 ## General Structure
 
-The book is distributed over major sections dealing with: the introductions (the definition of Sharia and its foundations), the Sharia rulings and their division (rulings of obligation, *taklifi*, and declaratory rulings, *wad'i*), the **objectives** (the most famous and most influential section), the Sharia evidences, and juristic reasoning and imitation. The section on objectives is the one on which a whole intellectual field was later built, known today as "maqasid studies."
+The book is distributed over major sections dealing with: the introductions (the definition of Sharia and its foundations), the Sharia rulings and their division (rulings of obligation, *taklifi*, and declaratory rulings, *wad'i*), the **objectives** (its best-known section), the Sharia evidences, and juristic reasoning and imitation. The section on objectives is the one on which a whole intellectual field was later built, known today as "maqasid studies."
 
 ## The Central Thesis
 

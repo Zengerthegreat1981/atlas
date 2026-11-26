@@ -23,11 +23,11 @@ gaps: []
 
 # Joseph Raz
 
-An Israeli-British jurist (1939–2022), born in Mandatory Palestine, who studied law at the Hebrew University of Jerusalem before moving to Oxford to pursue a doctorate under the supervision of **H.L.A. Hart** in the 1960s. He later became a fellow of Balliol College and Professor of the Philosophy of Law at Oxford, and also held posts at Columbia University in New York and King's College London. He was co-editor, with Penelope Bulloch, of the Postscript to *The Concept of Law* after Hart's death (1994 edition), and the most prominent theorist of **exclusive legal positivism** in the generation after Hart.
+An Israeli-British jurist (1939–2022), born in Mandatory Palestine, who studied law at the Hebrew University of Jerusalem before moving to Oxford to pursue a doctorate under the supervision of **H.L.A. Hart** in the 1960s. He later became a fellow of Balliol College and Professor of the Philosophy of Law at Oxford, and also held posts at Columbia University in New York and King's College London. He was co-editor, with Penelope Bulloch, of the Postscript to *The Concept of Law* after Hart's death (1994 edition), and a leading theorist of **exclusive legal positivism** in the generation after Hart.
 
 ## The Sources Thesis: The Validity of Law Is Known by Its Source Alone
 
-In *The Authority of Law* (1979), Raz develops a strict position known as the **Sources Thesis**. The existence and validity of a legal rule can be verified **by reference to its social source alone** (who enacted it, and under what procedure), with no need to refer to moral arguments. This leads him to reject what Hart allowed in his Postscript: that the rule of recognition may include a moral criterion among the conditions of validity. See **exclusive and inclusive positivism** for a detailed account of this dispute.
+In *The Authority of Law* (1979), Raz develops a strict position known as the **Sources Thesis**. The existence and validity of a legal rule can be verified **by reference to its social source alone** (who enacted it, and under what procedure), with no need to refer to moral arguments. This leads him to reject what Hart allowed in his Postscript: that the rule of recognition may include a moral criterion among the conditions of validity.
 
 ## Why Exclusivity Matters: The Argument from Authority
 

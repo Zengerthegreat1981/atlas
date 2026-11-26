@@ -22,7 +22,7 @@ gaps: []
 ---
 # Oliver Wendell Holmes Jr.
 
-An American jurist and legal theorist (1841–1935), who served as an associate justice of the U.S. Supreme Court from 1902 until 1932. He is regarded as the intellectual father of **American legal realism**, although his founding essay predates the organized movement by decades.
+An American jurist and legal theorist (1841–1935), who served as an associate justice of the U.S. Supreme Court from 1902 until 1932. He is often regarded as an intellectual precursor of **American legal realism**, although his key writings predate the organized movement by decades.
 
 ## 'The Path of the Law' (1897): a critique of legal formalism
 
@@ -34,7 +34,7 @@ Holmes proposed that we view the law from the standpoint of the **'bad man'**, w
 
 ## From the Civil War to the Supreme Court
 
-Holmes was born in Boston in 1841 into a prominent literary family (his father was the physician and writer Oliver Wendell Holmes Sr.). He served as a soldier in the American Civil War, where he was wounded three times. The experience later shaped in him a severely realist attitude toward abstract ideas: he came to see absolute philosophical certainty as a dangerous illusion that can lead to disaster when translated into rigid political doctrine. He served on the Supreme Judicial Court of Massachusetts from 1883 before his appointment to the U.S. Supreme Court in 1902, where he served until 1932. He became known as 'The Great Dissenter' for his many dissenting opinions, many of which later became the position of the majority in subsequent judicial generations, especially in cases of free speech.
+Holmes was born in Boston in 1841 into a prominent literary family (his father was the physician and writer Oliver Wendell Holmes Sr.). He served as a soldier in the American Civil War, where he was wounded three times. The experience is often said to have shaped his skeptical attitude toward abstract certainty. He served on the Supreme Judicial Court of Massachusetts from 1883 before his appointment to the U.S. Supreme Court in 1902, where he served until 1932. He became known as 'The Great Dissenter' for his many dissenting opinions, many of which later became the position of the majority in subsequent judicial generations, especially in cases of free speech.
 
 ## His early book: *The Common Law* (1881)
 
@@ -42,7 +42,7 @@ Holmes's first book, *The Common Law* (1881), preceded his famous essay 'The Pat
 
 ## His founding influence on legal realism
 
-Although Holmes never formally belonged to the American legal realist movement (which took shape in the 1920s and 1930s), **Karl Llewellyn** and **Jerome Frank** regarded him as a spiritual father of the movement. They took from him directly the idea that the law in practice is what the courts actually decide, not what the statutory texts state in their abstract literal wording, and that understanding the law requires studying actual judicial behavior with empirical tools closer to science than to pure formal logic.
+Although Holmes never formally belonged to the American legal realist movement (which took shape in the 1920s and 1930s), **Karl Llewellyn** and **Jerome Frank** treated him as a forerunner of the movement. They took from him directly the idea that the law in practice is what the courts actually decide, not what the statutory texts state in their abstract literal wording, and that understanding the law requires studying actual judicial behavior with empirical tools closer to science than to pure formal logic.
 
 ## A critical note on his judicial record
 
@@ -54,7 +54,7 @@ The prediction theory has been criticized on the ground that reducing law to pre
 
 ## His legacy on free speech
 
-Although this entry is limited to his foundational theoretical contribution, it is worth noting that in his opinion in *Schenck v. United States* (1919) Holmes formulated the **'clear and present danger'** test for restricting freedom of speech. A few months later, in his dissent in *Abrams v. United States* (1919), he developed a more liberal view that compares freedom of expression to a **'free trade in ideas'** (the image later popularized as the 'marketplace of ideas'), in which the best test of truth is the power of a thought to get itself accepted in competition with others. This rapid intellectual development reflects his empirical method itself: refusing to hold a single rigid position if the practical experience of cases shows a need to revise it.
+In his opinion in *Schenck v. United States* (1919) Holmes formulated the **'clear and present danger'** test for restricting freedom of speech. A few months later, in his dissent in *Abrams v. United States* (1919), he developed a more liberal view that compares freedom of expression to a **'free trade in ideas'** (the image later popularized as the 'marketplace of ideas'), in which the best test of truth is the power of a thought to get itself accepted in competition with others. This rapid intellectual development reflects his empirical method itself: refusing to hold a single rigid position if the practical experience of cases shows a need to revise it.
 
 ## His influence on contemporary analytic philosophy of law
 

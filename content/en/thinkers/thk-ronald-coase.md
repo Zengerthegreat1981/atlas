@@ -23,7 +23,7 @@ gaps: []
 ---
 # Ronald H. Coase
 
-A British-American economist (1910–2013) who worked as a professor at the University of Chicago Law School. He was one of the founders of the **economic analysis of law** despite not being trained as a lawyer, and he was awarded the Nobel Prize in Economic Sciences in 1991 "for his discovery and clarification of the significance of transaction costs and property rights for the institutional structure and the functioning of the economy".
+A British-American economist (1910–2013) who worked as a professor at the University of Chicago Law School. He was a foundational figure in the **economic analysis of law** despite not being trained as a lawyer, and he was awarded the Nobel Prize in Economic Sciences in 1991 "for his discovery and clarification of the significance of transaction costs and property rights for the institutional structure and the functioning of the economy".
 
 ## "The Problem of Social Cost" (1960)
 
@@ -43,11 +43,11 @@ Coase also applied his analysis to concrete regulatory questions. Most notable w
 
 ## Institutional Influence: The Chicago School of Law and Economics
 
-Coase's work, together with the *Journal of Law and Economics* which he edited for nearly two decades at the University of Chicago, established a complete academic field that became known as **the economic analysis of law**. It was developed systematically by his intellectual descendant, **Richard Posner**, who extended the application of economic tools to almost all branches of law (contracts, criminal law, family law, and procedure). Coase himself, however, remained cautious about some of Posner's generalizations. In later articles he stressed that his theory was an analytical tool for understanding the effect of transaction costs, not a call to reduce all law to pure economic calculation. This warning against misunderstanding recurs in the critical literature on the Chicago school.
+Coase's work, together with the *Journal of Law and Economics* which he edited for nearly two decades at the University of Chicago, helped establish a field that became known as **the economic analysis of law**. It was developed systematically by his intellectual descendant, **Richard Posner**, who extended the application of economic tools to almost all branches of law (contracts, criminal law, family law, and procedure). Coase himself, however, remained cautious about some of Posner's generalizations. He stressed that his theory was an analytical tool for understanding the effect of transaction costs, not a call to reduce all law to pure economic calculation. This warning against misunderstanding recurs in the critical literature on the Chicago school.
 
 ## Academic Biography: From London to Chicago
 
-Coase was born in London in 1910 and studied at the London School of Economics (LSE), under the influence of Arnold Plant and the British tradition of institutional analysis. He moved to the United States in 1951, taught at the University at Buffalo and the University of Virginia, and joined the University of Chicago in 1964, where he spent the rest of his academic career. It is notable that Coase published his most famous article, "The Problem of Social Cost", twenty-three years after his first article on the nature of the firm. This long interval of quiet reflection, away from the pressure of rapid publication, was a rare intellectual pattern, and many colleagues praised it: throughout his life Coase preferred quality and depth over quantity in his scientific output.
+Coase was born in London in 1910 and studied at the London School of Economics (LSE), under the influence of Arnold Plant and the British tradition of institutional analysis. He moved to the United States in 1951, taught at the University at Buffalo and the University of Virginia, and joined the University of Chicago in 1964, where he spent the rest of his academic career. It is notable that Coase published his most famous article, "The Problem of Social Cost", twenty-three years after his first article on the nature of the firm. Coase was known for a small published output relative to his influence.
 
 ## Criticism of Coase's Theory
 

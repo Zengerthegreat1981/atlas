@@ -20,7 +20,7 @@ related:
 - id: "wrk-majallat-al-ahkam-al-adliyya", title: "Majallat al-Ahkam al-Adliyya (The Ottoman Civil Code)", type: "عمل / كتاب"
 gaps:
   - "The precise historical details of the emergence of the office of 'chief judge' (the context of the appointment of Abu Yusuf as the first chief judge in the Abbasid era) are presented only briefly: not yet covered in fuller detail."
-  - "Differences in the precise conditions and powers of judgeship among the four Sunni schools among the four Sunni schools: not yet covered."
+  - "Differences in the precise conditions and powers of judgeship among the four Sunni schools: not yet covered."
 ---
 # Qada' (The Institution of the Islamic Judge)
 

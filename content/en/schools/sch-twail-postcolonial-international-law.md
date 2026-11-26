@@ -33,7 +33,7 @@ TWAIL theorists reject the traditional narrative that presents international law
 
 ## Anghie: Sovereignty as a Product of the Colonial Encounter, Not Its Prior Condition
 
-**Antony Anghie** presents the most influential formulation of this thesis in his book *Imperialism, Sovereignty and the Making of International Law* (2005), showing how European international law scholars in the nineteenth century developed the standards of "sovereignty" and "civilization" specifically **to justify excluding** non-European societies from full legal protection, rather than to describe a neutral legal reality that existed beforehand.
+**Antony Anghie** presents a leading formulation of this thesis in his book *Imperialism, Sovereignty and the Making of International Law* (2005), showing how European international law scholars in the nineteenth century developed the standards of "sovereignty" and "civilization" specifically **to justify excluding** non-European societies from full legal protection, rather than to describe a neutral legal reality that existed beforehand.
 
 ## Rajagopal: Development as a New Instrument of Domination
 
@@ -55,4 +55,4 @@ TWAIL's analytical tools have inspired contemporary debates on the justice of th
 
 - Anghie, Antony. *Imperialism, Sovereignty and the Making of International Law*. Cambridge University Press, 2005.
 - Rajagopal, Balakrishnan. *International Law from Below: Development, Social Movements and Third World Resistance*. Cambridge University Press, 2003.
-- Abi-Saab, Georges. "The Newly Independent States and the Rules of International Law." *Howard Law Journal*, vol. 8, no. 2, 1962, pp. 95–121.
+- Abi-Saab, Georges. "The Newly Independent States and the Rules of International Law: An Outline." *Howard Law Journal*, vol. 8, no. 2, 1962, pp. 95–121.

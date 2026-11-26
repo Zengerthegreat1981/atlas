@@ -71,5 +71,6 @@ This is theory and scholarship, not legal or religious advice. Comparative gener
 - Joseph Schacht, An Introduction to Islamic Law (1964)
 - Wael B. Hallaq, A History of Islamic Legal Theories (1997)
 - Wael B. Hallaq, An Introduction to Islamic Law (2009)
+- Wael B. Hallaq, The Origins and Evolution of Islamic Law (2005)
 - Mohammad Hashim Kamali, Principles of Islamic Jurisprudence (1991)
 - Alan Watson, Legal Transplants (1974)

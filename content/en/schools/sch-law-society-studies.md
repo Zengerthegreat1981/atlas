@@ -28,7 +28,7 @@ The field distinguishes between "law in books" and "law in action," holding that
 
 ## Key Thinkers
 
-**Max Weber** offered an analytical framework for types of legitimate authority (traditional, charismatic, and rational-legal), holding that modern law is an expression of the rationalization of Western bureaucratic society specifically. **Karl Llewellyn**, although originally aligned with legal realism, made a central contribution to this field through his joint anthropological research with E. Adamson Hoebel on dispute-resolution practices among the Cheyenne people, published as *The Cheyenne Way* (1941). This work established an empirical method for studying "law" in societies outside the formal Western framework.
+**Max Weber** offered an analytical framework for types of legitimate authority (traditional, charismatic, and rational-legal), holding that modern law is an expression of the rationalization of Western bureaucratic society specifically. **Karl Llewellyn**, although originally aligned with legal realism, made a central contribution to this field through his joint anthropological research with E. Adamson Hoebel on dispute-resolution practices among the Cheyenne people, published as *The Cheyenne Way* (1941). This work is a landmark of the empirical method for studying "law" in societies outside the formal Western framework.
 
 ## Impact and Application
 
@@ -50,4 +50,5 @@ Researchers in this field tend to use field tools (interviews, participant obser
 
 - Weber, Max. *Economy and Society*. Edited by Guenther Roth and Claus Wittich, University of California Press, 1978 (German original, 1922).
 - Llewellyn, Karl N., and E. Adamson Hoebel. *The Cheyenne Way: Conflict and Case Law in Primitive Jurisprudence*. University of Oklahoma Press, 1941.
+- Moore, Sally Falk. "Law and Social Change: The Semi-Autonomous Social Field as an Appropriate Subject of Study." *Law & Society Review* 7 (1973): 719–746.
 - Friedman, Lawrence M. *The Legal System: A Social Science Perspective*. Russell Sage Foundation, 1975.

@@ -24,7 +24,7 @@ gaps: []
 
 # Shams al-A'imma Muhammad ibn Ahmad al-Sarakhsi
 
-A Hanafi jurist and usulist, a native of Sarakhs in Khurasan, active in Transoxiana in the fifth century AH (eleventh century CE),, famous for his vast juristic encyclopedia *al-Mabsut*, which according to the biographical tradition he dictated from memory while imprisoned in a well (pit) for political reasons. He is considered one of the most important representatives of the Hanafi "method of the jurists" in the codification of usul al-fiqh.
+A Hanafi jurist and usulist, a native of Sarakhs in Khurasan, active in Transoxiana in the fifth century AH (eleventh century CE), famous for his vast juristic encyclopedia *al-Mabsut*, which according to the biographical tradition he dictated from memory while imprisoned in a well (pit) for political reasons. He is considered a major representative of the Hanafi "method of the jurists" in the codification of usul al-fiqh.
 
 ## Biography and Context
 
@@ -34,7 +34,7 @@ Reliable details of Sarakhsi's early life are scarce. The sources agree that he 
 
 ### Al-Mabsut: Dictation from Memory in Confinement
 
-*Al-Mabsut*, which runs to some thirty volumes, is the largest and most detailed Hanafi juristic encyclopedia. It is especially thorough in presenting the internal disagreements among the school's jurists (Abu Hanifa, Abu Yusuf and Muhammad ibn al-Hasan al-Shaybani), in giving reasons for them, and in preferring some of them, alongside discussion of the evidence and the rationales on which the derivative rulings are built. What is singular about the circumstances of its composition is that Sarakhsi completed it by dictation from memory in prison, without recourse to written sources. His *al-Mabsut* is in form an extended commentary on *al-Kafi* of al-Hakim al-Shahid, a digest of the works of al-Shaybani. This is considered testimony to the depth of his command of his school's tradition.
+*Al-Mabsut*, which runs to some thirty volumes, is one of the largest and most detailed Hanafi juristic encyclopedias. It is especially thorough in presenting the internal disagreements among the school's jurists (Abu Hanifa, Abu Yusuf and Muhammad ibn al-Hasan al-Shaybani), in giving reasons for them, and in preferring some of them, alongside discussion of the evidence and the rationales on which the derivative rulings are built. According to the biographical tradition, Sarakhsi dictated it from memory in prison, without recourse to written sources. His *al-Mabsut* is in form an extended commentary on *al-Kafi* of al-Hakim al-Shahid, a digest of the works of al-Shaybani. This is considered testimony to the depth of his command of his school's tradition.
 
 ### Sarakhsi's Usul: A Mature Representation of the Method of the Jurists
 
@@ -42,15 +42,15 @@ In his book ***Usul al-Sarakhsi***, the author represented the "method of the ju
 
 ### Legal Capacity: An Early and Detailed Hanafi Grounding
 
-Among the most important features of Sarakhsi's usul is his theoretical elaboration of the concept of **ahliyya** (eligibility to hold rights and obligations and to perform them). He sharply distinguishes between capacity of obligation (*ahliyyat al-wujub*), which a human being holds merely by virtue of human life, and in part even the fetus does, and capacity of performance (*ahliyyat al-ada'*), which is tied to discernment, puberty and reason. He enumerates the heavenly impediments to capacity (such as insanity and minority) and the acquired ones (such as intoxication and coercion). This is among the most precise elaborations of this subject in the Hanafi heritage.
+A notable feature of Sarakhsi's usul is his theoretical elaboration of the concept of **ahliyya** (eligibility to hold rights and obligations and to perform them). He sharply distinguishes between capacity of obligation (*ahliyyat al-wujub*), which a human being holds merely by virtue of human life, and in part even the fetus does, and capacity of performance (*ahliyyat al-ada'*), which is tied to discernment, puberty and reason. He enumerates the heavenly impediments to capacity (such as insanity and minority) and the acquired ones (such as intoxication and coercion). This is a detailed elaboration of the subject in the Hanafi heritage.
 
 ### Other Works and His Place in Hanafi Political Jurisprudence
 
-Alongside *al-Mabsut* and *Usul*, Sarakhsi wrote a large commentary (*Sharh al-Siyar al-Kabir*) on *al-Siyar al-Kabir* by Muhammad ibn al-Hasan al-Shaybani, one of the most important sources of the law of international relations and of war and peace in the early Hanafi tradition. This reveals his interest also in questions of external Sharia-based governance, not only individual rulings. It makes him a pivotal figure in any history of early Islamic international law, alongside his purely usuli contribution.
+Alongside *al-Mabsut* and *Usul*, Sarakhsi wrote a large commentary (*Sharh al-Siyar al-Kabir*) on *al-Siyar al-Kabir* by Muhammad ibn al-Hasan al-Shaybani, one of the most important sources of the law of international relations and of war and peace in the early Hanafi tradition. This reveals his interest also in questions of external Sharia-based governance, not only individual rulings. It gives him a place in the history of early Islamic international law, alongside his usuli contribution.
 
 ## Impact and Criticism
 
-Sarakhsi, alongside his contemporary Fakhr al-Islam al-Bazdawi (died 482 AH / 1089 CE, author of the usul work *Kanz al-Wusul ila Ma'rifat al-Usul*, later commented on by Abd al-Aziz al-Bukhari), is considered among the most important representatives of the Hanafi jurists' method in usul al-fiqh. His two books, *al-Mabsut* and *Usul al-Sarakhsi*, remained basic references within the Hanafi school into the modern era. Wael Hallaq's survey of usul al-fiqh treats the jurists' method represented by Sarakhsi as revealing an organic relationship between usuli theory and the actual juristic practice of the school more clearly than the more abstract method of the theologians does. This does not mean that the jurists' method is free of prior theoretical assumptions, as its description as purely "inductive" sometimes implies.
+Sarakhsi, alongside his contemporary Fakhr al-Islam al-Bazdawi (died 482 AH / 1089 CE, author of the usul work *Kanz al-Wusul ila Ma'rifat al-Usul*, later commented on by Abd al-Aziz al-Bukhari), is considered a major representative of the Hanafi jurists' method in usul al-fiqh. His two books, *al-Mabsut* and *Usul al-Sarakhsi*, remained basic references within the Hanafi school into the modern era. Wael Hallaq's survey of usul al-fiqh discusses the jurists' method represented by Sarakhsi as closely tied to the substantive law of the school, in contrast to the more abstract method of the theologians. This does not mean that the jurists' method is free of prior theoretical assumptions, as its description as purely "inductive" sometimes implies.
 
 Sarakhsi's biography, with its striking human paradox (dictating one of the largest juristic encyclopedias from memory inside a prison), is evidence of the place of memorization and oral transmission in the system of producing juristic knowledge before the spread of printing. It also shows the ability of Muslim scholars of that era to continue scholarly production even under the harshest political conditions.
 

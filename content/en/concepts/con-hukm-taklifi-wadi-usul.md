@@ -29,7 +29,7 @@ Most usulists divide the normative ruling into five categories. The **obligatory
 
 This five-part classification is the direct framework by which the obligated individual is addressed in his daily conduct. It roughly corresponds to the function of Hart's "primary rules", which directly govern conduct, although the usulists did not think in those terms.
 
-The Hanafi school divides the categories more finely. It distinguishes the **fard** (established by decisive proof) from the **wajib** (established by probable proof), whereas the other schools generally treat the two terms as synonyms (with exceptions in some Hanbali and Shafi'i opinions on particular matters). The Hanafis also distinguish between a prohibition of strong force (*makruh tahriman*) and a mild disapproval (*makruh tanziihan*).
+The Hanafi school divides the categories more finely. It distinguishes the **fard** (established by decisive proof) from the **wajib** (established by probable proof), whereas the other schools generally treat the two terms as synonyms (with exceptions in some Hanbali and Shafi'i opinions on particular matters). The Hanafis also distinguish between a prohibition of strong force (*makruh tahriman*) and a mild disapproval (*makruh tanzihan*).
 
 ## The declaratory ruling: cause, condition and impediment
 
