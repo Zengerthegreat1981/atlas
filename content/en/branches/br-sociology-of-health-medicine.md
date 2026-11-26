@@ -29,7 +29,7 @@ The field's modern origins lie in Talcott Parsons's analysis of the sick role in
 
 ## Key Figures
 
-Talcott Parsons supplied the field's founding framework with the sick role, even as later scholars criticised it for assuming a passive patient. Michel Foucault remains a central theorist of medical power and the clinical gaze. Eliot Freidson is the leading analyst of medical professionalism and the sociology of occupations, while Irving Kenneth Zola studied how culture shapes responses to symptoms and later the medicalisation of everyday life, and Howard Becker's *Boys in White* (1961, with co-authors) examined the socialisation of medical students. Peter Conrad became the field's authority on medicalisation, documenting its expansion into ever more areas of life. Arthur Kleinman, a psychiatrist-anthropologist, gave the field its richest account of how illness is experienced and narrated across cultures. Michael Marmot, an epidemiologist, demonstrated the gradient linking social position to health across entire populations. Bryan S. Turner, in *Medical Power and Social Knowledge* (1987), synthesised the field's theoretical traditions with particular attention to the body. Together these figures span the field's range, from the consulting room to the global health system.
+Talcott Parsons supplied an early framework for the field with the sick role, even as later scholars criticised it for assuming a passive patient. Michel Foucault remains a central theorist of medical power and the clinical gaze. Eliot Freidson is the leading analyst of medical professionalism and the sociology of occupations, while Irving Kenneth Zola studied how culture shapes responses to symptoms and later the medicalisation of everyday life, and Howard Becker's *Boys in White* (1961, with co-authors) examined the socialisation of medical students. Peter Conrad became the field's authority on medicalisation, documenting its expansion into ever more areas of life. Arthur Kleinman, a psychiatrist-anthropologist, gave the field its richest account of how illness is experienced and narrated across cultures. Michael Marmot, an epidemiologist, demonstrated the gradient linking social position to health across entire populations. Bryan S. Turner, in *Medical Power and Social Knowledge* (1987), synthesised the field's theoretical traditions with particular attention to the body. Together these figures span the field's range, from the consulting room to the global health system.
 
 ## Method
 
@@ -42,6 +42,7 @@ The sociology of health and medicine has shaped health policy, medical education
 ## Sources
 
 - Parsons, Talcott. *The Social System*. 1951.
+- Becker, Howard S., Blanche Geer, Everett C. Hughes, and Anselm L. Strauss. *Boys in White: Student Culture in Medical School*. 1961.
 - Foucault, Michel. *The Birth of the Clinic: An Archaeology of Medical Perception*. 1963.
 - Freidson, Eliot. *Profession of Medicine: A Study of the Sociology of Applied Knowledge*. 1970.
 - Illich, Ivan. *Medical Nemesis: The Expropriation of Health*. 1975.

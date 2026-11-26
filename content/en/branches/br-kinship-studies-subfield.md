@@ -21,7 +21,7 @@ One of the oldest and most methodologically rigorous subfields of social anthrop
 
 ## Lewis Henry Morgan and Classificatory Terms
 
-The early American anthropologist Lewis Henry Morgan is effectively the founder of this subfield. In his book *Systems of Consanguinity and Affinity* (1871), he presented the first broad comparative survey of kinship terminology across many cultures. He distinguished between "descriptive" systems, which give each degree of kinship its own precise name (such as the distinction between "brother" and "cousin" in English), and "classificatory" systems, which group several different biological degrees of kinship under a single term (such as calling a cousin "brother," as in many systems). This opened the way to studying kinship as a logical system in its own right, rather than as a literal reflection of biological ties.
+The early American anthropologist Lewis Henry Morgan is widely regarded as a founder of this subfield. In his book *Systems of Consanguinity and Affinity* (1871), he presented the first broad comparative survey of kinship terminology across many cultures. He distinguished between "descriptive" systems, which give each degree of kinship its own precise name (such as the distinction between "brother" and "cousin" in English), and "classificatory" systems, which group several different biological degrees of kinship under a single term (such as calling a cousin "brother," as in many systems). This opened the way to studying kinship as a logical system in its own right, rather than as a literal reflection of biological ties.
 
 ## Descent Theory versus Alliance Theory
 
@@ -33,7 +33,7 @@ David Schneider launched a radical critique of the foundations of the entire fie
 
 ## New Kinship: Reproductive Technologies and Gay Families
 
-The field has recently expanded, through researchers such as Marilyn Strathern and Janet Carsten, to study how assisted reproductive technologies (such as artificial insemination and surrogacy) and same-sex families are reshaping the meaning of "fatherhood" and "motherhood" themselves beyond the traditional direct biological tie. This raises entirely new questions about the boundaries of kinship in an era in which the technical separation between biological pregnancy and social parenthood, legally and culturally recognized, is increasingly possible.
+The field has recently expanded, through researchers such as Marilyn Strathern, Janet Carsten and Kath Weston, to study how assisted reproductive technologies (such as artificial insemination and surrogacy) and same-sex families are reshaping the meaning of "fatherhood" and "motherhood" themselves beyond the traditional direct biological tie. This raises entirely new questions about the boundaries of kinship in an era in which the technical separation between biological pregnancy and social parenthood, legally and culturally recognized, is increasingly possible.
 
 ## Sources
 
@@ -41,3 +41,4 @@ The field has recently expanded, through researchers such as Marilyn Strathern a
 - Schneider, David M. *A Critique of the Study of Kinship*. University of Michigan Press, 1984.
 - Lévi-Strauss, Claude. *The Elementary Structures of Kinship*. 1949. Translated by James Harle Bell, John Richard von Sturmer and Rodney Needham, Beacon Press, 1969.
 - Carsten, Janet. *After Kinship*. Cambridge University Press, 2004.
+- Weston, Kath. *Families We Choose: Lesbians, Gays, Kinship*. Columbia University Press, 1991.

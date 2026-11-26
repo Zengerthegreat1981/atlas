@@ -18,7 +18,7 @@ sociological_paradigm: micro-macro
 ---
 # Interview: The Conversation as a Method of Knowing
 
-An **interview** is a purposeful conversation in which a researcher asks questions in order to learn how people understand their lives, their work, and their world. It is the most widely used method in qualitative social research, and one of the oldest: the life-history interview, the ethnographic conversation, and the survey interview all share the same basic form — one person speaking, another listening and asking — but they differ profoundly in what they assume about knowledge, truth, and the relationship between researcher and researched. The interview is not simply a way of collecting facts; it is a social encounter in which meaning is made together.
+An **interview** is a purposeful conversation in which a researcher asks questions in order to learn how people understand their lives, their work, and their world. It is among the most widely used methods in qualitative social research: the life-history interview, the ethnographic conversation, and the survey interview all share the same basic form — one person speaking, another listening and asking — but they differ profoundly in what they assume about knowledge, truth, and the relationship between researcher and researched. The interview is not simply a way of collecting facts; it is a social encounter in which meaning is made together.
 
 ## Definition and Development
 
@@ -28,7 +28,7 @@ The method was professionalized in the second half of the century. Survey resear
 
 ## Key Theoretical Contributions
 
-Steinar Kvale, in *InterViews: An Introduction to Qualitative Research Interviewing* (1996), gave the method its most influential theoretical account. Kvale distinguished two metaphors for the interviewer: the miner, who digs out nuggets of knowledge that are already there, waiting to be extracted; and the traveller, who journeys with the respondent and comes home with a story co-authored in conversation. The traveller metaphor, Kvale argued, better captures what actually happens: knowledge is not collected but constructed in the interaction between interviewer and interviewee, and the quality of the interview depends on the quality of that relationship.
+Steinar Kvale, in *InterViews: An Introduction to Qualitative Research Interviewing* (1996), gave the method an influential theoretical account. Kvale distinguished two metaphors for the interviewer: the miner, who digs out nuggets of knowledge that are already there, waiting to be extracted; and the traveller, who journeys with the respondent and comes home with a story co-authored in conversation. The traveller metaphor, Kvale argued, better captures what actually happens: knowledge is not collected but constructed in the interaction between interviewer and interviewee, and the quality of the interview depends on the quality of that relationship.
 
 James Spradley, in *The Ethnographic Interview* (1979), showed how the interview works in anthropology. The ethnographic interview is a series of friendly conversations into which the researcher gradually introduces ethnographic questions — descriptive questions about what people do, structural questions about how they organize their experience, and contrast questions about how they distinguish one thing from another. Spradley's point was that the interview is a skill: the researcher must learn to ask questions that make sense in the respondent's world, not only in the researcher's.
 

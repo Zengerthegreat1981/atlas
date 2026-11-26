@@ -27,7 +27,7 @@ Modernity, by contrast, was the project of the Enlightenment: reason, science, a
 
 ## Origins and Development
 
-The term entered academic debate with Jean-François Lyotard's *The Postmodern Condition* (1979; English translation 1984), a report on knowledge in advanced societies. Lyotard defined the postmodern as "incredulity toward metanarratives" — disbelief in the great legitimating stories of modernity, whether the Marxist story of emancipation through class struggle or the liberal story of progress through science and markets. Knowledge, he argued, was increasingly legitimated by performativity: what works, what sells, what can be computed.
+The term had earlier uses, but it gained wide academic currency with Jean-François Lyotard's *The Postmodern Condition* (1979; English translation 1984), a report on knowledge in advanced societies. Lyotard defined the postmodern as "incredulity toward metanarratives" — disbelief in the great legitimating stories of modernity, whether the Marxist story of emancipation through class struggle or the liberal story of progress through science and markets. Knowledge, he argued, was increasingly legitimated by performativity: what works, what sells, what can be computed.
 
 Jean Baudrillard's *Simulacra and Simulation* (1981) pushed the argument further. In a media-saturated society, he claimed, signs no longer refer to a reality behind them; they refer only to other signs, producing simulations — copies without originals — that people experience as more real than reality itself. David Harvey's *The Condition of Postmodernity* (1989) gave the idea a materialist grounding: postmodern culture reflected a new regime of "flexible accumulation," with just-in-time production, global finance, and the compression of time and space. Fredric Jameson's *Postmodernism, or, The Cultural Logic of Late Capitalism* (1991) synthesised these themes, reading postmodern art and architecture as the cultural expression of a new stage of capitalism. Zygmunt Bauman's *Intimations of Postmodernity* (1992) added a sociological dimension, describing a world of fluid identities, consumer freedom, and moral uncertainty.
 
@@ -41,12 +41,13 @@ A third debate is anthropological. Ethnography itself came under postmodern scru
 
 ## Contemporary Relevance
 
-Postmodernity's moment as a fashionable term has passed, but its questions have not. The "post-truth" politics of the twenty-first century — the circulation of conspiracy theories, the distrust of experts, the fragmentation of shared reality across media bubbles — is postmodernity's legacy in a new key. So is the politics of identity, in which claims to recognition and representation challenge universalist models of citizenship. Whether we call our condition postmodern, late modern, or something else entirely, the diagnosis remains relevant: we live in a world where authority is contested, images mediate experience, and no single story commands assent. Postmodernity named that condition first, and the name still usefully marks the distance between the modern project and the world it produced.
+Postmodernity's moment as a fashionable term has passed, but its questions have not. The "post-truth" politics of the twenty-first century — the circulation of conspiracy theories, the distrust of experts, the fragmentation of shared reality across media bubbles — is postmodernity's legacy in a new key. So is the politics of identity, in which claims to recognition and representation challenge universalist models of citizenship. Whether we call our condition postmodern, late modern, or something else entirely, the diagnosis remains relevant: we live in a world where authority is contested, images mediate experience, and no single story commands assent. Postmodernity gave that condition a name, and the name still usefully marks the distance between the modern project and the world it produced.
 
 ## Sources
 
 - Jean-François Lyotard, *The Postmodern Condition: A Report on Knowledge* (1979)
 - Jean Baudrillard, *Simulacra and Simulation* (1981)
+- James Clifford and George E. Marcus, eds., *Writing Culture: The Poetics and Politics of Ethnography* (1986)
 - David Harvey, *The Condition of Postmodernity* (1989)
 - Fredric Jameson, *Postmodernism, or, The Cultural Logic of Late Capitalism* (1991)
 - Zygmunt Bauman, *Intimations of Postmodernity* (1992)

@@ -14,24 +14,21 @@ edges:
   - rel: "influenced", target: "Comparative Mythology", target_type: "مفهوم"
 related:
   - id: "con-structural-analysis", title: "Structural Analysis in Anthropology", type: "مفهوم"
-  - id: "con-binary-oppositions", title: "Binary Oppositions and Classification", type: "مفهوم"
-  - id: "thk-a-r-radcliffe-brown", title: "A.R. Radcliffe-Brown", type: "مفكر"
   - id: "thk-edmund-leach", title: "Edmund Leach", type: "مفكر"
 gaps:
-  - "Engagement with non-European structural systems"
-  - "Critiques of Eurocentrism in structuralism"
-  - "Contemporary applications in digital/AI anthropology"
+  - "Engagement with non-European structural systems: not yet covered"
+  - "Contemporary applications in digital/AI anthropology: not yet covered"
 ---
 
 # Claude Lévi-Strauss: Structural Anthropology and Mythological Analysis
 
-Claude Lévi-Strauss (1908–2009) stands as one of the most influential thinkers in twentieth-century anthropology and intellectual history, establishing **structural anthropology** as a dominant framework for understanding human thought and culture. His revolutionary approach to analyzing myths, kinship systems, and classifications—treating them as expressions of underlying universal structures organizing human cognition—transformed anthropological method and theory. His *The Elementary Structures of Kinship* (1949) and *Mythologiques* (1964-1971) demonstrated that diverse cultures express fundamental structural principles through different content, suggesting that human mind works through universal cognitive structures operating beneath the diversity of cultural expression. His method of binary opposition analysis—examining how cultures organize meaning through fundamental contrasts (nature/culture, raw/cooked, self/other)—provided anthropologists with systematic tools for analyzing cultural systems. While his work has been extensively critiqued for universalism and Eurocentrism, his structuralist legacy remains foundational to anthropology, literary theory, and cognitive science.
+Claude Lévi-Strauss (1908–2009) stands as one of the most influential thinkers in twentieth-century anthropology and intellectual history, establishing **structural anthropology** as a dominant framework for understanding human thought and culture. His revolutionary approach to analyzing myths, kinship systems, and classifications—treating them as expressions of underlying universal structures organizing human cognition—transformed anthropological method and theory. His *The Elementary Structures of Kinship* (1949) and *Mythologiques* (1964-1971) argued that diverse cultures express fundamental structural principles through different content, suggesting that human mind works through universal cognitive structures operating beneath the diversity of cultural expression. His method of binary opposition analysis—examining how cultures organize meaning through fundamental contrasts (nature/culture, raw/cooked, self/other)—provided anthropologists with systematic tools for analyzing cultural systems. While his work has been extensively critiqued for universalism and Eurocentrism, his structuralist legacy remains foundational to anthropology, literary theory, and cognitive science.
 
 ## Biographical Context and Intellectual Formation
 
-Claude Lévi-Strauss was born in Brussels, Belgium, in 1908, but spent his career primarily in France. He studied philosophy at the Sorbonne and taught secondary school philosophy before conducting fieldwork among the Bororo and Caduveo peoples of Brazil (1935-1939). This fieldwork proved transformative, generating the ethnographic observations from which his theoretical innovations emerged. He held positions at the École Pratique des Hautes Études and later at the Collège de France, where he became a towering intellectual figure.
+Claude Lévi-Strauss was born in Brussels, Belgium, in 1908, but spent his career primarily in France. He studied law and philosophy in Paris and taught secondary school philosophy before moving in 1935 to the University of São Paulo; from Brazil he conducted fieldwork among the Caduveo and Bororo (1935-1936) and the Nambikwara and neighbouring groups (1938). This fieldwork proved transformative, generating the ethnographic observations from which his theoretical innovations emerged. After wartime exile in New York, he held positions at the École Pratique des Hautes Études and, from 1959, at the Collège de France, where he became a towering intellectual figure.
 
-Lévi-Strauss's intellectual formation combined French philosophical traditions (particularly Descartes and Rousseau) with engagement with linguistics, especially the structural linguistics of Roman Jakobson. Jakobson's structural analysis of language deeply influenced Lévi-Strauss's approach to analyzing culture: just as language has underlying structures producing diverse utterances, culture might have underlying structures producing diverse practices and representations.
+Lévi-Strauss's intellectual formation combined French philosophical traditions (including Rousseau and the Durkheimian school of Marcel Mauss) with engagement with linguistics, especially the structural linguistics of Roman Jakobson. Jakobson's structural analysis of language deeply influenced Lévi-Strauss's approach to analyzing culture: just as language has underlying structures producing diverse utterances, culture might have underlying structures producing diverse practices and representations.
 
 ## Methodological Innovations: Structural Analysis and Comparative Method
 
@@ -45,9 +42,9 @@ Lévi-Strauss's approach emphasized that anthropological knowledge required unde
 
 Lévi-Strauss's publications established structural anthropology as a dominant paradigm:
 
-- **The Elementary Structures of Kinship** (1949, revised 1967) — His foundational work demonstrating that diverse kinship systems express underlying structural principles and that the incest taboo establishes exchange relations between families. Established that anthropologists could analyze kinship structurally rather than genealogically.
+- **The Elementary Structures of Kinship** (1949, revised 1967) — His foundational work arguing that diverse kinship systems express underlying structural principles and that the incest taboo establishes exchange relations between families. Established that anthropologists could analyze kinship structurally rather than genealogically.
 
-- **Mythologiques** (1964-1971, four volumes: The Raw and the Cooked; From Honey to Ashes; The Origin of Table Manners; The Naked Man) — His monumental analysis of South American mythology. Demonstrated how myths from hundreds of diverse cultures could be analyzed as variations expressing underlying logical structures through different content.
+- **Mythologiques** (1964-1971, four volumes: The Raw and the Cooked; From Honey to Ashes; The Origin of Table Manners; The Naked Man) — His monumental analysis of mythology of South and North America. Showed how myths from hundreds of diverse cultures could be analyzed as variations expressing underlying logical structures through different content.
 
 - **The Savage Mind** (1962) — Analysis of classification systems in non-Western societies, demonstrating sophisticated logical operations organizing plants, animals, and natural phenomena into meaningful categories. Challenged the notion that non-literate peoples think differently from Westerners.
 
@@ -59,7 +56,7 @@ These works established that structural analysis could reveal universal logical 
 
 ## Fieldwork Practice: Brazil and Comparative Analysis
 
-Lévi-Strauss's fieldwork among Bororo and Caduveo peoples in Brazil (1935-1939) was relatively brief but proved intellectually generative. Rather than emphasizing extended immersion, his fieldwork generated observations he subsequently analyzed structurally. He paid attention to myths, kinship systems, art, and body decoration, analyzing them not as isolated customs but as expressions of underlying logic.
+Lévi-Strauss's fieldwork among Caduveo, Bororo, Nambikwara and other peoples in Brazil (1935-1938) was relatively brief but proved intellectually generative. Rather than emphasizing extended immersion, his fieldwork generated observations he subsequently analyzed structurally. He paid attention to myths, kinship systems, art, and body decoration, analyzing them not as isolated customs but as expressions of underlying logic.
 
 Notably, much of his subsequent work involved comparative analysis of published ethnographies rather than original fieldwork. He analyzed myths collected by other anthropologists, studied kinship terminologies recorded by researchers, and examined classifications documented in ethnographic literature. This comparative method allowed him to identify structures across cultures and continents—patterns that might not be evident from single-site ethnography.
 
@@ -93,27 +90,17 @@ Lévi-Strauss's structuralism has been partly superseded by approaches emphasizi
 
 His work on cognition and symbolic systems has influenced cognitive anthropology and evolutionary approaches to understanding human mind. Contemporary scholars studying classification systems, narrative structure, and symbolic meaning often work within or against frameworks he established.
 
-Contemporary applications extend his insights to new domains—analyzing digital systems, artificial intelligence, and other contemporary phenomena through structural analysis. His emphasis on identifying underlying logic and binary operations has relevance for understanding technological systems.
-
 ## Major Works
 
 - **The Elementary Structures of Kinship** (1949, revised 1967) — Foundational structural analysis of kinship systems
-- **Mythologiques** (1964-1971, 4 volumes) — Comprehensive structural analysis of South American mythology
+- **Mythologiques** (1964-1971, 4 volumes) — Structural analysis of mythology of the Americas
 - **The Savage Mind** (1962) — Analysis of classification systems and logical thought in non-literate societies
 - **Structural Anthropology** (1958) — Essays establishing theoretical framework
-
-## Selected Quotations
-
-> "The goal of anthropology is to reveal the universal structures of human thought underlying the diversity of cultures." — *Structural Anthropology* (1958)
-
-> "Myths operate through a logic that is intellectual rather than emotional or social, and this intellectual logic is universal to humanity." — On mythological analysis
-
-> "Culture is simultaneously natural and artificial, universal and particular. Structure reveals how both are possible." — On structural analysis
 
 ## Sources
 
 - Lévi-Strauss, Claude. *The Elementary Structures of Kinship*. Beacon Press, 1969.
-- Lévi-Strauss, Claude. *Mythologiques* (4 volumes, 1964-1971). University of Chicago Press editions, 1969-1981.
+- Lévi-Strauss, Claude. *Mythologiques* (4 volumes, 1964-1971). English translation by John and Doreen Weightman, Harper & Row, 1969-1981.
 - Lévi-Strauss, Claude. *The Savage Mind*. University of Chicago Press, 1966.
 - Lévi-Strauss, Claude. *Structural Anthropology*. Basic Books, 1963.
 - Leach, Edmund. *Claude Lévi-Strauss*. Viking Press, 1970.

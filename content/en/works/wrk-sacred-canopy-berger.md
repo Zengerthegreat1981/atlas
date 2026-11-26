@@ -41,7 +41,7 @@ This book became a classic reference in the social-constructionist sociology of 
 
 ## Sociology and Theology
 
-Berger himself, who was a Lutheran with a lifelong interest in theology, noticed a methodological problem raised by this analysis: does treating religion as a purely social construct necessarily negate any actual transcendent reality to which this construct points? Berger took care to distinguish between his "methodological" position as a sociologist (what he called methodological atheism) (who brackets the question of religion's truth and treats it as a social phenomenon open to empirical analysis) and his personal position as a believer (who may see in the social construction itself a historical human means of responding to an actual transcendent reality). He refused to reduce either position to the other, and developed the theological side separately, for example in *A Rumor of Angels* (1969).
+Berger himself, who was a Lutheran with a lifelong interest in theology, noticed a methodological problem raised by this analysis: does treating religion as a purely social construct necessarily negate any actual transcendent reality to which this construct points? Berger took care to distinguish between his "methodological" position as a sociologist (what he called methodological atheism, which brackets the question of religion's truth and treats religion as a social phenomenon open to empirical analysis) and his personal position as a believer (who may see in the social construction itself a historical human means of responding to an actual transcendent reality). He refused to reduce either position to the other, and developed the theological side separately, for example in *A Rumor of Angels* (1969).
 
 ## Social Theodicy
 

@@ -24,7 +24,7 @@ Cultivation practices are the organised ways in which people grow plants for foo
 
 Anthropologists distinguish several broad types of cultivation. Shifting cultivation, also called swidden or slash-and-burn, involves clearing a patch of forest, growing crops for a few years, and then letting it return to fallow while the cultivator moves on. Intensive cultivation, by contrast, works the same land year after year, using irrigation, terracing, manuring, and careful rotation to sustain fertility. Horticulture, in the anthropological sense, is small-scale gardening with hand tools, while agriculture proper is usually taken to involve the plough, draft animals, and larger fields.
 
-These types are not stages on a ladder of progress. Shifting cultivation, long dismissed as primitive and wasteful, is in many environments the most sustainable and productive way to farm, and its practitioners possess detailed knowledge of forest ecology. Harold Conklin's study of Hanunoo agriculture in the Philippines, published in 1957, showed that shifting cultivators could name hundreds of plants, distinguish dozens of soil types, and manage a complex rotation of crops and fallow — a system as intricate as any modern agronomy.
+These types are not stages on a ladder of progress. Shifting cultivation, long dismissed as primitive and wasteful, is in many environments the most sustainable and productive way to farm, and its practitioners possess detailed knowledge of forest ecology. Harold Conklin's study of Hanunoo agriculture in the Philippines, published in 1957, showed that shifting cultivators could name hundreds of plants, distinguish many soil types, and manage a complex rotation of crops and fallow — a system as intricate as any modern agronomy.
 
 ## Origins and Development
 
@@ -38,7 +38,7 @@ James C. Scott, in *The Art of Not Being Governed* (2009), added a political dim
 
 One major debate concerns the relationship between cultivation and social organisation. Does intensive agriculture produce hierarchy, as early theorists argued, because irrigation and stored surpluses require managers and chiefs? Or can intensive cultivation be organised egalitarianly, as Robert McC. Netting showed in *Smallholders, Householders* (1993), where smallholder farming sustained stable, household-based societies without centralised power? The evidence suggests that cultivation enables hierarchy but does not determine it: the same technique can serve a chiefdom or a commune.
 
-A second debate concerns gender. In many societies, women do most of the cultivation — clearing, planting, weeding, harvesting — while men control the land and the crop. Boserup was among the first to document this systematically, showing that development projects which gave land, credit, and training to men often undermined women's livelihoods. The gender division of cultivation remains a central concern of anthropology and development.
+A second debate concerns gender. In many societies, women do most of the cultivation — clearing, planting, weeding, harvesting — while men control the land and the crop. Boserup was among the first to document this systematically, in *Woman's Role in Economic Development* (1970), showing that development projects which gave land, credit, and training to men often undermined women's livelihoods. The gender division of cultivation remains a central concern of anthropology and development.
 
 A third dimension is knowledge. Cultivation depends on what is now called traditional ecological knowledge: the accumulated understanding of soils, weather, pests, and varieties that farmers have built up over generations. This knowledge is increasingly recognised as a scientific resource in its own right — in the breeding of resilient crops, in agroforestry, and in the adaptation to climate change — and its loss, as rural populations shrink and seeds are replaced by commercial varieties, is a matter of global concern.
 
@@ -53,5 +53,6 @@ The critique of cultivation studies has also been important. Early anthropology 
 - Conklin, Harold C. *Hanunoo Agriculture: A Report on an Integral System of Shifting Cultivation in the Philippines*. 1957.
 - Geertz, Clifford. *Agricultural Involution: The Processes of Ecological Change in Indonesia*. 1963.
 - Boserup, Ester. *The Conditions of Agricultural Growth: The Economics of Agrarian Change under Population Pressure*. 1965.
+- Boserup, Ester. *Woman's Role in Economic Development*. 1970.
 - Netting, Robert McC. *Smallholders, Householders: Farm Families and the Ecology of Intensive, Sustainable Agriculture*. 1993.
 - Scott, James C. *The Art of Not Being Governed: An Anarchist History of Upland Southeast Asia*. 2009.

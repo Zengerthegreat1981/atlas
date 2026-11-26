@@ -7,27 +7,23 @@ level: "متوسط"
 title: "Abdalla M. Salem"
 en: "Abdalla M. Salem"
 crumb: "Anthropology ← Thinkers ← Abdalla M. Salem"
-dates: "Egypt · 1945-"
+dates: "Egypt"
 edges:
   - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
 related:
   []
 gaps:
-  []
+  - "Biography, contributions, and works: not yet covered"
 ---
 
-# Abdullah Muhammad Salem
+# Abdalla M. Salem
 
-[Brief description in Arabic for translator reference]
-
-## The Main Branch
-
-[Key section in Arabic]
+Abdalla M. Salem is listed in this atlas as an Egypt-associated thinker in the field of anthropology. No biographical details, dates, or works could be verified for this entry, so none are stated here.
 
 ## Contributions
 
-[Contributions in Arabic]
+Not yet covered.
 
-## Gaps and Developments
+## Sources
 
-[Gaps in Arabic]
+No verifiable sources have been identified for this entry.

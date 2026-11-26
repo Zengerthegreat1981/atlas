@@ -13,19 +13,18 @@ edges:
 - rel: "belongs_to", target: "Ethnography of Communication", target_type: "مدرسة"
 related:
 - id: "con-communicative-competence-hymes", title: "Hymes's Communicative Competence", type: "مفهوم"
-gaps:
-  - "It has not been verified that an independent school node titled \"Ethnography of Communication\" exists in the Atlas; the belongs-to link was kept, and tied only to the available concept if that node could not be located."
+gaps: []
 ---
 
 # Dell Hymes
 
-American linguistic anthropologist, one of the founders of the **Ethnography of Communication**, and author of the concept of **communicative competence**, which transformed the course of sociolinguistics and educational linguistics. He received his PhD from Indiana University in 1955, taught at Harvard, the University of California at Berkeley, the University of Pennsylvania (where he was also dean of the Graduate School of Education) and the University of Virginia, and helped found the journal *Language in Society*.
+American linguistic anthropologist, one of the founders of the **Ethnography of Communication**, and author of the concept of **communicative competence**, which reshaped the course of sociolinguistics and educational linguistics. He received his PhD from Indiana University in 1955, taught at Harvard, the University of California at Berkeley, the University of Pennsylvania (where he was also dean of the Graduate School of Education) and the University of Virginia, and helped found the journal *Language in Society*.
 
 ## What He Contributed
 
 ### Ethnography of Speaking / Ethnography of Communication
 
-In his foundational article "The Ethnography of Speaking" (1962, later developed intellectually together with John Gumperz), Hymes called for the study of speech as a **cultural event** with social structure and rules, rather than as a mere realization of an abstract linguistic system as conceived by Noam Chomsky's generative linguistics. He proposed an analytical framework summarized by the acronym **SPEAKING**: Setting and scene, Participants, Ends, Act sequence, Key, Instrumentalities, Norms, and Genres. The framework became a standard tool for studying speech events across cultures.
+In his foundational article "The Ethnography of Speaking" (1962, later developed intellectually together with John Gumperz), Hymes called for the study of speech as a **cultural event** with social structure and rules, rather than as a mere realization of an abstract linguistic system as conceived by Noam Chomsky's generative linguistics. He later elaborated an analytical framework summarized by the acronym **SPEAKING**: Setting and scene, Participants, Ends, Act sequence, Key, Instrumentalities, Norms, and Genres. The framework became a standard tool for studying speech events across cultures.
 
 ### Communicative Competence
 
@@ -63,16 +62,17 @@ Hymes distinguished between three overlapping levels: the speech situation (such
 
 ## Language, Education and Equity
 
-In the 1970s and 1980s Hymes turned to the analysis of schooling. He argued that the mismatch between the norms of speech in a child's home and their norms in the classroom is a major cause of the failure of minority children, rather than their language being deficient. His book *Reinventing Anthropology* (Pantheon, 1972) gathered critical essays arguing that anthropology owes a debt to the people it studies, and calling for it to become a discipline more committed to justice. From this line of work branched ethnographic educational studies, inspired by Shirley Brice Heath and others. Hymes also served as president of several learned societies, including the American Folklore Society, the Linguistic Society of America and the American Anthropological Association.
+In the 1970s and 1980s Hymes turned to the analysis of schooling. He argued that the mismatch between the norms of speech in a child's home and their norms in the classroom is an important source of school failure among minority children, and that their language is not deficient. His book *Reinventing Anthropology* (Pantheon, 1972) gathered critical essays arguing that anthropology owes a debt to the people it studies, and calling for it to become a discipline more committed to justice. From this line of work branched ethnographic educational studies, inspired by Shirley Brice Heath and others. Hymes also served as president of several learned societies, including the American Folklore Society, the Linguistic Society of America and the American Anthropological Association.
 
 ## Continuing Debate
 
-Debate continues over the suitability of the concept of the speech community for today's mobile and multilingual societies, where it is no longer clear where one community ends and another begins. Later performance-oriented approaches have emphasised that speakers help create the situation itself rather than simply applying prior rules to it. His lasting contribution, however, is that he made the question of the social appropriateness of speech a scientific question.
+Debate continues over the suitability of the concept of the speech community for today's mobile and multilingual societies, where it is no longer clear where one community ends and another begins. Later performance-oriented approaches have emphasised that speakers help create the situation itself rather than simply applying prior rules to it. His lasting contribution, however, is that he made the social appropriateness of speech a central object of systematic study.
 
 ## Sources
 
 - Hymes, Dell. "The Ethnography of Speaking." In *Anthropology and Human Behavior*, ed. Thomas Gladwin and William C. Sturtevant. Washington, DC: Anthropological Society of Washington, 1962.
 - Hymes, Dell. "On Communicative Competence." In *Sociolinguistics: Selected Readings*, ed. J. B. Pride and Janet Holmes. Harmondsworth: Penguin, 1972.
+- Hymes, Dell. "Introduction: Toward Ethnographies of Communication." *American Anthropologist* 66(6), part 2, 1964.
 - Gumperz, John J., and Dell Hymes, eds. *Directions in Sociolinguistics: The Ethnography of Communication*. New York: Holt, Rinehart and Winston, 1972.
 - Hymes, Dell, ed. *Reinventing Anthropology*. New York: Pantheon Books, 1972.
 - Hymes, Dell. *Foundations in Sociolinguistics: An Ethnographic Approach*. Philadelphia: University of Pennsylvania Press, 1974.

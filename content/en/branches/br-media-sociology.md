@@ -35,9 +35,9 @@ The 1970s transformed the field. Newsroom ethnographies by Gaye Tuchman and othe
 
 ## Key Figures and Works
 
-Lazarsfeld founded the empirical study of media effects and the two-step flow of communication. Tuchman's Making News (1978) remains the classic ethnography of news production, showing how the routines of journalism construct the reality they claim to report. Gitlin's The Whole World Is Watching (1980) demonstrated that media framing can make or break a movement, and that movements adapt their tactics to the demands of coverage.
+Lazarsfeld was a pioneer of the empirical study of media effects and, with colleagues, of the two-step flow model of communication. Tuchman's Making News (1978) is a classic ethnography of news production, showing how the routines of journalism construct the reality they claim to report. Gitlin's The Whole World Is Watching (1980) demonstrated that media framing can make or break a movement, and that movements adapt their tactics to the demands of coverage.
 
-Herman and Chomsky's propaganda model offered the most systematic account of structural bias in news, identifying filters that keep coverage within acceptable bounds. Thompson broadened the field's scope, arguing that media create new forms of interaction — mediated quasi-interaction — that stretch social relations across time and space. Robert McChesney's Rich Media, Poor Democracy (1999) carried the political economy argument into the era of deregulation and conglomeration, warning that concentrated commercial media were eroding the public sphere. Nick Couldry's later work on voice and media power asks whose accounts of the world are recognised as legitimate.
+Herman and Chomsky's propaganda model offered a systematic account of structural bias in news, identifying filters that keep coverage within acceptable bounds. Thompson broadened the field's scope, arguing that media create new forms of interaction — mediated quasi-interaction — that stretch social relations across time and space. Robert McChesney's Rich Media, Poor Democracy (1999) carried the political economy argument into the era of deregulation and conglomeration, warning that concentrated commercial media were eroding the public sphere. Nick Couldry's later work on voice and media power asks whose accounts of the world are recognised as legitimate.
 
 ## Methods
 
@@ -52,6 +52,7 @@ The field's central debates have been recast by digital platforms. Ownership is 
 ## Sources
 
 - Lazarsfeld, Paul F., and Robert K. Merton. "Mass Communication, Popular Taste and Organized Social Action." 1948.
+- Hall, Stuart. "Encoding and Decoding in the Television Discourse." Centre for Contemporary Cultural Studies, 1973.
 - Tuchman, Gaye. *Making News: A Study in the Construction of Reality*. Free Press, 1978.
 - Gitlin, Todd. *The Whole World Is Watching: Mass Media in the Making and Unmaking of the New Left*. University of California Press, 1980.
 - Herman, Edward S., and Noam Chomsky. *Manufacturing Consent: The Political Economy of the Mass Media*. Pantheon, 1988.

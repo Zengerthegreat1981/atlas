@@ -60,6 +60,7 @@ Three themes now cut across the field. Algorithmic management, in which software
 - Braverman, Harry. *Labor and Monopoly Capital: The Degradation of Work in the Twentieth Century*. Monthly Review Press, 1974.
 - Burawoy, Michael. *Manufacturing Consent: Changes in the Labor Process under Monopoly Capitalism*. University of Chicago Press, 1979.
 - Hochschild, Arlie Russell. *The Managed Heart: Commercialization of Human Feeling*. University of California Press, 1983.
+- Freidson, Eliot. *Profession of Medicine: A Study of the Sociology of Applied Knowledge*. 1970.
 - Sennett, Richard. *The Corrosion of Character: The Personal Consequences of Work in the New Capitalism*. Norton, 1998.
 - Kalleberg, Arne L. *Good Jobs, Bad Jobs: The Rise of Polarized and Precarious Employment Systems in the United States, 1970s to 2000s*. Russell Sage Foundation, 2011.
 - Kellogg, Katherine C., Melissa A. Valentine, and Angele Christin. "Algorithms at Work: The New Contested Terrain of Control." *Academy of Management Annals* 14(1), 2020.

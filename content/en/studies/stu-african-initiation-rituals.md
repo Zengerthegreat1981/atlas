@@ -8,9 +8,9 @@ title: African Initiation Rituals and Life Transitions
 en: African Initiation Rituals – Ethnographies of Rites of Passage and Social Transformation
 ar: طقوس البدء الأفريقية - دراسات إثنوغرافية للانتقالات الاجتماعية
 crumb: Anthropology ← Symbolic Anthropology ← Ritual and Initiation
-dates: 1990
-active_start: 1970
-active_end: 1989
+dates: 1909–1994
+active_start: 1909
+active_end: 1994
 edges: []
 related:
   - id: con-rite-of-passage
@@ -53,3 +53,13 @@ Because of restrictions on access, ethnographers, who are often outsiders of dif
 ## Change, Critique, and Contemporary Value
 
 Initiation practices have been reshaped by colonial rule, missionary Christianity, schooling, urbanization, and national and international policy. In some places the ritual has been shortened or moved to school holidays, or elements have been dropped. Female genital cutting, which is part of some initiation traditions, has become the subject of intense debate among activists, governments, health agencies, and scholars, who disagree about the weight to be given to cultural meaning, health, bodily integrity, and women's agency. Postcolonial critics have also noted that early ethnographies sometimes presented initiation as timeless tradition, although communities have continued to adapt it. Despite these debates, the ethnography of initiation remains a central source for understanding how societies make persons, transmit knowledge, and mark social change.
+
+## Sources
+
+- van Gennep, A. (1909). Les rites de passage. Paris: Émile Nourry.
+- Kenyatta, J. (1938). Facing Mount Kenya: The Tribal Life of the Gikuyu. London: Secker and Warburg.
+- Richards, A. I. (1956). Chisungu: A Girl's Initiation Ceremony among the Bemba of Northern Rhodesia. London: Faber and Faber.
+- Turner, V. (1967). The Forest of Symbols: Aspects of Ndembu Ritual. Ithaca: Cornell University Press.
+- Bloch, M. (1986). From Blessing to Violence: History and Ideology in the Circumcision Ritual of the Merina of Madagascar. Cambridge: Cambridge University Press.
+- La Fontaine, J. S. (1985). Initiation: Ritual Drama and Secret Knowledge across the World. Harmondsworth: Penguin.
+- Kratz, C. A. (1994). Affecting Performance: Meaning, Movement, and Experience in Okiek Women's Initiation. Washington, DC: Smithsonian Institution Press.

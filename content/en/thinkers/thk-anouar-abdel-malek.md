@@ -36,9 +36,9 @@ Born in Egypt into a Coptic family, Abdel-Malek was active in Egyptian politics 
 
 ## Major Works
 
-- *Egypte, societe militaire* (1962)
+- *Égypte, société militaire* (1962)
 - "Orientalism in Crisis," *Diogenes* (1963)
-- *La pensee politique arabe contemporaine* (1970)
+- *La pensée politique arabe contemporaine* (1970)
 - *Social Dialectics*, vol. 1 *Civilizations and Social Theory* and vol. 2 *Nation and Revolution* (1981)
 
 ## Method
@@ -52,6 +52,6 @@ His critique of Orientalism helped open the way for postcolonial studies, althou
 ## Sources
 
 - Abdel-Malek, Anouar. "Orientalism in Crisis." *Diogenes* (1963).
-- Abdel-Malek, Anouar. *Egypte, societe militaire* (1962).
+- Abdel-Malek, Anouar. *Égypte, société militaire* (1962).
 - Abdel-Malek, Anouar. *Social Dialectics* (1981).
 - Said, Edward W. *Orientalism* (1978).

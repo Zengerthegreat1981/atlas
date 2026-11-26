@@ -19,7 +19,7 @@ gaps: []
 
 # The Aging Theory Debate: Cumming's Functionalist Disengagement Theory vs. Elder's Life Course Perspective
 
-The shift from the functionalist "disengagement theory" to the "life course perspective" is one of the most important theoretical transformations in the sociology of aging, turning the question from "what is the social function of aging?" to "how is the life course shaped by the interaction of historical context, social ties and individual agency?" The two works are not a direct exchange of replies; the debate is a reconstruction of a broader movement in the field.
+The shift from the functionalist "disengagement theory" to the "life course perspective" is a significant theoretical transformation in the sociology of aging, turning the question from "what is the social function of aging?" to "how is the life course shaped by the interaction of historical context, social ties and individual agency?" The two works are not a direct exchange of replies; the debate is a reconstruction of a broader movement in the field.
 
 ## Cumming's Disengagement Theory
 

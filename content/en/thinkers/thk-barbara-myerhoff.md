@@ -60,4 +60,4 @@ Myerhoff helped establish the study of aging as a subject for anthropology and w
 - Myerhoff, Barbara G. *Number Our Days*. E. P. Dutton, 1978.
 - Myerhoff, Barbara G. *Remembered Lives: The Work of Ritual, Storytelling, and Growing Older*. University of Michigan Press, 1992.
 - Moore, Sally Falk, and Barbara G. Myerhoff, eds. *Secular Ritual*. Van Gorcum, 1977.
-- Myerhoff, Barbara G. "Rites of Passage: Processes and Paradoxes." In *Celebration: Studies in Festivity and Ritual*, edited by Victor Turner. Smithsonian Institution Press, 1982.
+- Myerhoff, Barbara G. "Rites of Passage: Process and Paradox." In *Celebration: Studies in Festivity and Ritual*, edited by Victor Turner. Smithsonian Institution Press, 1982.

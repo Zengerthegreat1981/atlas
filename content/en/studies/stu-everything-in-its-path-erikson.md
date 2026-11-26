@@ -19,7 +19,7 @@ gaps: []
 
 # Everything in Its Path
 
-An ethnographic and legal study by Kai Erikson (published 1976), which documented the social (and not only material) destruction caused by the collapse of a coal-waste dam in the Buffalo Creek valley in West Virginia in 1972. The flood submerged adjoining mining villages entirely within minutes.
+An ethnographic and legal study by Kai Erikson (published 1976), which documented the social (and not only material) destruction caused by the collapse of a coal-waste dam in the Buffalo Creek valley in West Virginia in 1972. The flood devastated the mining communities strung along the valley.
 
 ## Method and Content
 
@@ -31,7 +31,7 @@ This study is a classic of the sociology of disasters and gave the influential c
 
 ## Context and Background
 
-The disaster occurred on 26 February 1972, when a slag-heap dam owned by the Pittston Coal Company collapsed in the Buffalo Creek valley in West Virginia. It released a wave of water and coal waste that submerged 16 adjoining mining villages within a few minutes, killing 125 people and displacing thousands of survivors. Contrary to the common image of mining communities as poor, socially disintegrated areas, these communities were densely tied neighborhood networks formed over generations of shared work in the mines, intermarriage and daily mutual support. It was this living social bond whose sudden disintegration Erikson documented. The survivors' suit was settled out of court, with financial compensation for the survivors. But Erikson emphasized that the most precious thing he documented was not the material loss but the loss, impossible to compensate financially, of an entire social fabric.
+The disaster occurred on 26 February 1972, when a coal-waste impoundment dam operated by a subsidiary of the Pittston Coal Company collapsed in the Buffalo Creek valley in West Virginia. It released a wave of water and coal waste that swept through some sixteen small mining communities, killing 125 people and displacing thousands of survivors. Contrary to the common image of mining communities as poor, socially disintegrated areas, these communities were densely tied neighborhood networks formed over generations of shared work in the mines, intermarriage and daily mutual support. It was this living social bond whose sudden disintegration Erikson documented. The survivors' suit was settled out of court, with financial compensation for the survivors. But Erikson emphasized that the most precious thing he documented was not the material loss but the loss, impossible to compensate financially, of an entire social fabric.
 
 ## Sources
 

@@ -28,7 +28,7 @@ A critical current within anthropology itself, crystallized in the 1970s. It exa
 
 ## Historical Context
 
-Talal Asad (born 1932), a British anthropologist born in Medina to an Austrian-Jewish convert to Islam (Muhammad Asad) and a Saudi mother, who studied at Edinburgh and Oxford, published in 1973 his edited volume *Anthropology and the Colonial Encounter*. It gathered essays by several researchers who analyzed how the British anthropological field took shape historically in close connection with colonial administration: fieldwork was funded by colonial institutions, access to "the field" was facilitated through the colonial administrative network itself, and the researcher's epistemic superiority over the non-European "object" of study was implicitly assumed. This work was followed a few years later by Edward Said's *Orientalism* (1978), which offered a parallel critique from the standpoint of literary criticism. Together, the two currents prepared the intellectual ground for a broader wave of self-critique within the discipline that extended through the 1980s.
+Talal Asad (born 1932), an anthropologist born in Medina to an Austrian-Jewish convert to Islam (Muhammad Asad) and a Saudi mother, who studied at Edinburgh and Oxford, published in 1973 his edited volume *Anthropology and the Colonial Encounter*. It gathered essays by several researchers who examined, from differing standpoints, the connections between anthropology (especially British social anthropology) and colonial rule, raising issues such as how fieldwork could be funded by colonial institutions, access to "the field" was facilitated through the colonial administrative network itself, and the researcher's epistemic superiority over the non-European "object" of study could be implicitly assumed. This work was followed a few years later by Edward Said's *Orientalism* (1978), which offered a parallel critique from the standpoint of literary criticism. Together, the two currents prepared the intellectual ground for a broader wave of self-critique within the discipline that extended through the 1980s.
 
 ## Main Ideas and Method
 
@@ -44,7 +44,7 @@ Talal Asad's edited volume *Anthropology and the Colonial Encounter* (1973) rema
 
 This critique paved the way for the wave of the "crisis of representation" in the 1980s, which culminated in James Clifford and George Marcus's edited volume *Writing Culture* (1986). It shifted anthropology toward methodological reflexivity, meaning the anthropologist's awareness of their own position and of their influence on the knowledge they produce about the Other. It became a basic reference for all later postcolonial anthropology around the world, from Africa to Latin America to East Asia.
 
-Some critics, however, observed that although this critique is historically valid in general terms, it sometimes overstates the portrayal of all classical anthropology as a pliant colonial tool. It overlooks individual anthropologists who actually criticized colonial policies in their own time, such as some students of Franz Boas. This distinction is subtle and worth preserving, to avoid a crude generalization that would drain the critique of its precise analytical force.
+Some critics, however, observed that although this critique is historically valid in general terms, it sometimes overstates the portrayal of all classical anthropology as a pliant colonial tool. It can overlook the varied positions of individual anthropologists, some of whom criticized colonial policies in their own time. This distinction is subtle and worth preserving, to avoid a crude generalization that would drain the critique of its precise analytical force.
 
 ## Connection to the Arab-Islamic Heritage
 
@@ -54,4 +54,8 @@ This critique is of particular importance given Talal Asad's partly Arab roots. 
 
 - Asad, Talal (Ed.). *Anthropology and the Colonial Encounter*. Ithaca Press, 1973.
 - Asad, Talal. *Genealogies of Religion: Discipline and Reasons of Power in Christianity and Islam*. Johns Hopkins University Press, 1993.
+- Asad, Talal. *Formations of the Secular: Christianity, Islam, Modernity*. Stanford University Press, 2003.
+- Said, Edward W. *Orientalism*. Pantheon, 1978.
+- Clifford, James, and George E. Marcus, eds. *Writing Culture*. University of California Press, 1986.
+- Herzfeld, Michael. *Anthropology through the Looking-Glass: Critical Ethnography in the Margins of Europe*. Cambridge University Press, 1987.
 - Ferguson, James. *The Anti-Politics Machine: Development, Depoliticization, and Bureaucratic Power in Lesotho*. Cambridge University Press, 1990.

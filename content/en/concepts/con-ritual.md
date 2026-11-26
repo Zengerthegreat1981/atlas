@@ -30,7 +30,7 @@ Unlike mere habit or routine, ritual is fundamentally *social*—its efficacy an
 
 The anthropological study of ritual emerged as a disciplinary focus in the late 19th and early 20th centuries. Early evolutionary anthropology (Tylor, Frazer) treated rituals as expressive of primitive beliefs—survivals of magical thinking in modern societies. This approach, embedded in colonial evolutionism, treated ritual as symptomatic rather than constitutive.
 
-By mid-century, structural-functionalist perspectives (Radcliffe-Brown, Malinowski) reframed ritual as a mechanism for social integration and anxiety management. Rituals were analyzed for their social function: they bound communities together, reinforced norms, and managed collective psychological stress. This marked a crucial shift from treating ritual as failed technology toward recognizing it as successful social practice.
+From the 1920s to the mid-century, functionalist and structural-functionalist perspectives (Radcliffe-Brown, Malinowski) reframed ritual as a mechanism for social integration and anxiety management. Rituals were analyzed for their social function: they bound communities together, reinforced norms, and managed collective psychological stress. This marked a crucial shift from treating ritual as failed technology toward recognizing it as successful social practice.
 
 The disciplinary maturation came through symbolic and interpretive approaches (particularly Victor Turner and Clifford Geertz in the 1960s-1970s), which emphasized ritual as a *semiotic* system—a complex ensemble of symbols encoding cultural meaning. Ritual became recognized as the primary arena where culture is performed, contested, created, and transmitted. Turner's work particularly established ritual as the locus where societies stage themselves and work through contradiction.
 
@@ -61,7 +61,7 @@ Across culturally diverse rituals, certain patterns emerge:
 
 **Symbolic Condensation**: Rituals consistently employ *condensation*—complex meanings compressed into minimal symbolic forms (colors, objects, gestures). A color (white = purity, death, initiation across diverse African, Asian, and Oceanic contexts), a gesture (circumambulation across Hindu, Buddhist, and Islamic traditions), or an object (the fire altar in Hindu and Zoroastrian traditions) carries multiple, layered meanings. This symbolic density enables rituals to communicate meanings that might be contentious, dangerous, or impossible to express discursively.
 
-**Efficacy Through Proper Form**: Across religious and secular rituals, participants often believe that efficacy comes through *proper execution* rather than through supernatural force. Catholic Mass efficacy derives from proper priestly authority and form; Hindu *yajna* (sacrifice) efficacy derives from correct mantra recitation and offering sequence; a court's legitimacy derives from proper procedure. This suggests ritual efficacy is simultaneously real and socially constructed—proper form creates real social effects (legitimacy, transformation, solidarity) without requiring magical causation.
+**Efficacy Through Proper Form**: Across religious and secular rituals, efficacy is often tied to *proper execution*, not only to the intentions of participants. In Catholic teaching the validity of the Mass depends on an ordained priest and correct form (alongside belief in divine grace); in Vedic *yajna* (sacrifice) correct mantra recitation and offering sequence are essential; a court's legitimacy derives from proper procedure. This suggests ritual efficacy is simultaneously real and socially constructed—proper form creates real social effects (legitimacy, transformation, solidarity), whatever participants also believe about divine or other agency.
 
 **Community Construction**: Rituals consistently construct or reinforce community boundaries and identity. Participation in shared ritual practice creates *we-ness*. This is evident whether analyzing indigenous Australian corroboree, Jewish Passover seder, Islamic *hajj*, or Christian Easter observance. Rituals that fail to include all members (or that explicitly exclude certain groups) often become sites of social conflict—as seen in debates over women's ordination, LGBTQ+ inclusion, or caste participation in Indian ritual contexts.
 
@@ -104,7 +104,9 @@ Ritual is not confined to religion: Sally Falk Moore and Barbara Myerhoff, in *S
 - Geertz, Clifford. *The Interpretation of Cultures: Selected Essays*. Basic Books, 1973.
 - Leach, Edmund R. *Culture and Communication: The Logic by Which Symbols Are Connected*. Cambridge University Press, 1976.
 - Turner, Victor W. *The Ritual Process: Structure and Anti-Structure*. Aldine, 1969.
+- Turner, Victor W. *The Forest of Symbols: Aspects of Ndembu Ritual*. Cornell University Press, 1967.
 - Turner, Victor W. *The Drums of Affliction*. Clarendon Press, 1968.
+- Douglas, Mary. *Purity and Danger: An Analysis of Concepts of Pollution and Taboo*. Routledge and Kegan Paul, 1966.
 - Evans-Pritchard, E. E. *Witchcraft, Oracles and Magic among the Azande*. Clarendon Press, 1937.
 - Geertz, Clifford. *Negara: The Theatre State in Nineteenth-Century Bali*. Princeton University Press, 1980.
 - Bell, Catherine. *Ritual Theory, Ritual Practice*. Oxford University Press, 1992.

@@ -22,11 +22,11 @@ Performance is the enactment of social life before an audience, whether that aud
 
 ## Origins and Development
 
-The modern study of performance began with the observation that rituals do things rather than merely say things. Victor Turner argued in *The Ritual Process*, published in 1969, that ritual creates a liminal space — a threshold between ordinary states — in which normal rules are suspended and new identities and relationships become possible. Initiation rites, healing ceremonies, and festivals do not simply represent the social order; they remake it, and they do so through embodied action: movement, song, costume, and the manipulation of sacred objects. Turner's later work on social drama extended the idea to conflict itself, treating disputes as performances with recognisable phases of breach, crisis, redress, and either reintegration or schism.
+The modern study of performance began with the observation that rituals do things rather than merely say things. Victor Turner argued in *The Ritual Process*, published in 1969, that ritual creates a liminal space — a threshold between ordinary states — in which normal rules are suspended and new identities and relationships become possible. Initiation rites, healing ceremonies, and festivals do not simply represent the social order; they remake it, and they do so through embodied action: movement, song, costume, and the manipulation of sacred objects. Turner's concept of social drama, first developed in *Schism and Continuity in an African Society* (1957), applied a related idea to conflict itself, treating disputes as processes with recognisable phases of breach, crisis, redress, and either reintegration or schism.
 
 Erving Goffman brought performance into everyday life. In *The Presentation of Self in Everyday Life* (1956), he argued that social interaction is like theatre: people manage impressions, control the setting, and use props and manners to present a credible self to others. A waiter, a doctor, and a mourner are all performers, and social life depends on audiences accepting their performances. Goffman's insight was that this is not deception: performance is how social reality is made, and a convincing performance is a genuine social achievement.
 
-Richard Schechner, a theatre director and scholar, founded performance studies as a field. In *Essays on Performance Theory, 1970-1976* (1977), he treated ritual, play, sport, and theatre as a single continuum of restored behaviour — behaviour that is rehearsed, repeated, and learned, and therefore available for analysis. Richard Bauman, in *Verbal Art as Performance* (1977), applied the same thinking to language, showing that storytelling, joking, and oratory are performances in which speakers display skill and invite evaluation. A story is not only its content; it is the way it is told, the timing, the voice, and the response of the listeners.
+Richard Schechner, a theatre director and scholar, was a leading figure in establishing performance studies as a field. In *Essays on Performance Theory, 1970-1976* (1977) and later works, he related ritual, play, sport, and theatre to one another; in *Between Theater and Anthropology* (1985) he described performance as restored behaviour — behaviour that is rehearsed, repeated, and learned, and therefore available for analysis. Richard Bauman, in *Verbal Art as Performance* (1977), applied the same thinking to language, showing that storytelling, joking, and oratory are performances in which speakers display skill and invite evaluation. A story is not only its content; it is the way it is told, the timing, the voice, and the response of the listeners.
 
 ## Key Debates
 
@@ -34,7 +34,7 @@ One central debate concerns the relationship between performance and sincerity. 
 
 A second debate concerns efficacy. How does a performance do what it claims to do — heal the sick, marry a couple, install a chief? J. L. Austin's philosophy of speech acts, which distinguishes utterances that describe the world from those that change it, has been influential here: a wedding vow or a curse is effective because it is spoken in the right context by the right person in the right form. Anthropologists add that efficacy also depends on the audience: a ritual fails if the community does not accept it, however correctly it is performed. Performance is therefore a social accomplishment, not a mechanical technique.
 
-A third debate concerns the boundary between ritual and theatre. Turner and Schechner argued that the two share a common structure, and that modern theatre grew out of ritual. Others insist on the difference: ritual participants believe in what they do, while theatre audiences know they are watching fiction. The debate matters for how anthropologists study both, and for the ethics of ethnography itself, since fieldwork has been described as a performance in which the anthropologist plays a role for the community being studied.
+A third debate concerns the boundary between ritual and theatre. Turner and Schechner stressed the continuities between the two and the movement of practices from one to the other. Others insist on the difference: ritual participants believe in what they do, while theatre audiences know they are watching fiction. The debate matters for how anthropologists study both, and for the ethics of ethnography itself, since fieldwork has been described as a performance in which the anthropologist plays a role for the community being studied.
 
 ## Contemporary Relevance
 
@@ -44,6 +44,9 @@ Performance is now a central concept across the human sciences. It is used to an
 
 - Erving Goffman, *The Presentation of Self in Everyday Life*, 1956.
 - Victor Turner, *The Ritual Process: Structure and Anti-Structure*, 1969.
+- Victor Turner, *Schism and Continuity in an African Society*, 1957.
+- J. L. Austin, *How to Do Things with Words*, 1962.
 - Richard Schechner, *Essays on Performance Theory, 1970-1976*, 1977.
+- Richard Schechner, *Between Theater and Anthropology*, 1985.
 - Richard Bauman, *Verbal Art as Performance*, 1977.
 - Judith Butler, *Gender Trouble: Feminism and the Subversion of Identity*, 1990.

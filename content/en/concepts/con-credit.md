@@ -42,7 +42,7 @@ Credit systems are at the centre of contemporary economic life. Microcredit prog
 
 ## Sources
 
-- Marcel Mauss, "Essai sur le don," *L'Année sociologique*, 1923-24 (published as a book in 1925); English translation, *The Gift: The Form and Reason for Exchange in Archaic Societies*.
+- Marcel Mauss, "Essai sur le don," *L'Année sociologique*, 1923-24 (volume issued 1925); English translation, *The Gift: The Form and Reason for Exchange in Archaic Societies*.
 - Karl Polanyi, *The Great Transformation: The Political and Economic Origins of Our Time*, 1944.
 - Chris Gregory, *Gifts and Commodities*, 1982.
 - David Graeber, *Debt: The First 5,000 Years*, 2011.

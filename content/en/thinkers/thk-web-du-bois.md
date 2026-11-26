@@ -7,7 +7,7 @@ level: متوسط
 title: W.E.B. Du Bois
 en: W.E.B. Du Bois
 crumb: "Sociology ← W.E.B. Du Bois"
-dates: International · 1868-1963
+dates: United States · 1868-1963
 active_start: 1868
 active_end: 1963
 edges: []

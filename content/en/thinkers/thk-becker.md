@@ -18,7 +18,7 @@ gaps:
 
 # Ernest Becker
 
-Ernest Becker (1924–1974) was an American cultural anthropologist whose short, restless career produced one of the most widely read arguments in twentieth-century anthropology: that human culture is, at bottom, a shared defence against the knowledge of death. His book *The Denial of Death* (1973) won the Pulitzer Prize two months after his death from cancer at the age of forty-nine, and its ideas went on to shape social psychology, the psychology of religion, and the anthropology of violence long after Becker himself had been forgotten by the discipline that trained him.
+Ernest Becker (1924–1974) was an American cultural anthropologist whose short, restless career produced one of the most widely read arguments in twentieth-century anthropology: that human culture is, at bottom, a shared defence against the knowledge of death. His book *The Denial of Death* (1973) won the Pulitzer Prize two months after his death from cancer at the age of forty-nine, and its ideas went on to shape social psychology, the psychology of religion, and the anthropology of violence although the discipline that trained him gave him comparatively little attention.
 
 ## Life and Career
 
@@ -38,13 +38,13 @@ Becker's central claim was simple and unsettling. Human beings, unlike other ani
 
 Becker drew heavily on Otto Rank's psychology of the hero and on Kierkegaard's account of despair, and he used Freud critically, arguing that Freud had mistaken the fear of death for the fear of sexuality. Where Freud saw repression of desire, Becker saw repression of mortality. The "immortality projects" through which people seek symbolic survival — children, art, nation, religion, scientific achievement — are, in this view, necessary illusions. They keep terror at bay, but they also generate conflict, because each group's immortality project must be defended against rival projects that threaten its claim to truth.
 
-In *Escape from Evil* he pushed the argument further: evil, he argued, is not a mysterious force but the ordinary by-product of the struggle for symbolic significance. People kill, he wrote, not only for material gain but to prove that their way of life is the real one, and that rival ways deserve to perish. Religion, in Becker's late work, became the one hero system that might honestly face death rather than deny it, because it acknowledges human finitude instead of disguising it.
+In *Escape from Evil* he pushed the argument further: evil, he argued, is not a mysterious force but the ordinary by-product of the struggle for symbolic significance. People kill, he wrote, not only for material gain but to prove that their way of life is the real one, and that rival ways deserve to perish. Becker's late work also gave serious attention to religion as a possible way of acknowledging human finitude.
 
 ## Influence and Critique
 
 Becker's influence was greatest after his death. In the 1980s, the social psychologists Jeff Greenberg, Sheldon Solomon, and Tom Pyszczynski built terror management theory on his work, turning his philosophical claims into hundreds of laboratory experiments showing that reminders of mortality strengthen attachment to cultural worldviews and hostility toward outsiders.
 
-Within anthropology itself his reception was cooler. Many anthropologists regarded his sweeping synthesis as too speculative, too dependent on European philosophy, and too thin on ethnographic evidence. He generalised from a small canon of Western thinkers and offered little fieldwork of his own, and his account of culture as a single defensive mechanism struck critics as reductionist, flattening the diversity of human societies into one psychological drama. Feminist and postcolonial critics later added that his "universal" human was implicitly a Western, male subject.
+Within anthropology itself his reception was cooler. Many anthropologists regarded his sweeping synthesis as too speculative, too dependent on European philosophy, and too thin on ethnographic evidence. He generalised from a small canon of Western thinkers and offered little fieldwork of his own, and his account of culture as a single defensive mechanism struck critics as reductionist, flattening the diversity of human societies into one psychological drama. His portrait of a universal human condition can also be questioned for drawing mainly on Western, male thinkers.
 
 Yet the power of Becker's question has outlasted these objections. By asking what human beings do with the knowledge that they will die, he connected anthropology to the oldest questions of philosophy and religion, and he gave later generations a language — denial, hero systems, immortality projects — for talking about why cultures matter so fiercely to those who live inside them.
 

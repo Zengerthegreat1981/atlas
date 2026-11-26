@@ -44,7 +44,7 @@ Scholars continue to debate the editorial history of the text: how far the arran
 
 ## Sources
 
-- Weber, Max. *Wirtschaft und Gesellschaft: Grundriss der verstehenden Soziologie*. Tübingen: Mohr, 1922.
+- Weber, Max. *Wirtschaft und Gesellschaft* (Grundriss der Sozialökonomik, III. Abteilung). Tübingen: Mohr (Siebeck), 1921-22.
 - Weber, Max. *Economy and Society: An Outline of Interpretive Sociology*. Edited by Guenther Roth and Claus Wittich. Berkeley: University of California Press, 1978.
 - Weber, Max. *The Theory of Social and Economic Organization*. Translated by A. M. Henderson and Talcott Parsons. New York: Oxford University Press, 1947.
 - Weber, Max. "Die protestantische Ethik und der Geist des Kapitalismus." *Archiv für Sozialwissenschaft und Sozialpolitik* 20-21 (1904-05).

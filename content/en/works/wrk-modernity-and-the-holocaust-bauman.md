@@ -13,13 +13,12 @@ edges:
 - rel: "belongs_to", target: "Bauman's Postmodern Ethics and Wasted Lives", target_type: "مدرسة"
 related:
 - id: "thk-zygmunt-bauman", title: "Zygmunt Bauman", type: "مفكر"
-gaps:
-  - "Comparison with other interpretations of the Holocaust (intentionalist and functionalist debates): not yet covered"
+gaps: []
 ---
 
 # Modernity and the Holocaust
 
-Zygmunt Bauman's shocking thesis, published in 1989 and winner of the European Amalfi Prize, that the Nazi extermination was not a barbaric relapse into pre-modernity but a direct product of the instruments of rational modernity itself.
+*Modernity and the Holocaust* (1989), winner of the European Amalfi Prize for sociology, sets out Zygmunt Bauman's provocative thesis that the Nazi extermination was not a barbaric relapse into pre-modernity but a direct product of the instruments of rational modernity itself.
 
 ## Context
 
@@ -36,6 +35,10 @@ This work is a cornerstone of Bauman's wider critique of modernity, which he lat
 ## Impact and Critique
 
 This analysis offered a radical critique of the narrative of linear modernist "progress," and deeply influenced the sociology of organized mass violence, of bureaucracy, and comparative genocide studies. It was criticized by historians who saw that it neglects the ideological and historical specificity of anti-Semitism in the Nazi case in favor of an excessive structural generalization that may erase the historical differences between different cases of extermination, and it was also sometimes considered exaggerated in the inevitability of the link between bureaucracy and extermination, despite the existence of modern bureaucracies that did not produce similar exterminations.
+
+## Intentionalism and Functionalism
+
+Historians of the Holocaust have distinguished, in terms popularised by Tim Mason, between "intentionalist" accounts, which trace the genocide to Hitler's long-held aims and ideology (for example Lucy Dawidowicz and Eberhard Jäckel), and "functionalist" or structuralist accounts, which stress improvisation, rivalry among agencies and cumulative radicalisation within the Nazi state (notably Hans Mommsen and Martin Broszat). Bauman did not write as a party to this historians' dispute, but his emphasis on bureaucratic process and divided responsibility stands closer to the functionalist side. Later work, including Christopher Browning's *Ordinary Men* (1992) and Daniel Goldhagen's *Hitler's Willing Executioners* (1996), reopened the questions of face-to-face killing and of antisemitic motivation, which a primarily bureaucratic explanation addresses less fully.
 
 ## Ethics as Resistance to the System
 
@@ -59,4 +62,6 @@ Bauman closed the book with an explicit warning against regarding the Holocaust 
 - Arendt, Hannah. *Eichmann in Jerusalem: A Report on the Banality of Evil*. Viking Press, 1963.
 - Hilberg, Raul. *The Destruction of the European Jews*. Chicago: Quadrangle Books, 1961.
 - Milgram, Stanley. "Behavioral Study of Obedience." *Journal of Abnormal and Social Psychology* 67, no. 4 (1963): 371-378.
+- Browning, Christopher R. *Ordinary Men: Reserve Police Battalion 101 and the Final Solution in Poland*. New York: HarperCollins, 1992.
+- Goldhagen, Daniel Jonah. *Hitler's Willing Executioners: Ordinary Germans and the Holocaust*. New York: Alfred A. Knopf, 1996.
 - Bauman, Zygmunt. *Wasted Lives: Modernity and Its Outcasts*. Polity Press, 2004.

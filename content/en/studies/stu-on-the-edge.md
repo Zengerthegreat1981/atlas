@@ -29,7 +29,7 @@ Gans's method was participant observation of an immersive kind. He and his wife 
 
 The first finding was that the West End possessed a dense and functioning social system. Families were large and close, neighbours knew one another well, and the street, the church and the corner store provided a web of support that residents valued highly. Gans argued that the problems of the area — low incomes, poor housing and some crime — did not stem from the neighbourhood's social life, as the planners claimed, but from poverty and from residents' position in the wider society. The second finding was that the label "slum" was an administrative and political judgement rather than a description of social life: planners equated physical deterioration with social pathology and did not seek residents' views of their neighbourhood.
 
-A third finding concerned the human cost of renewal. The dispersal of the West Enders broke up social networks on which they depended, and the psychologist Marc Fried, studying relocated residents, found that many experienced grief comparable to bereavement for a lost home. Gans's book thus became one of the earliest and most powerful statements of a principle that shaped urban sociology: that a neighbourhood is a social system, not a collection of buildings. A fourth finding was about class. Gans showed that the West Enders were working-class people whose culture was coherent on its own terms, and he rejected the middle-class assumption, common among reformers, that their way of life was a problem to be solved by moving them into better housing.
+A third finding concerned the human cost of renewal. The dispersal of the West Enders broke up social networks on which they depended, and the psychologist Marc Fried, studying relocated residents, found that many experienced grief comparable to bereavement for a lost home. Gans's book thus became an influential statement of a principle that shaped urban sociology: that a neighbourhood is a social system, not a collection of buildings. A fourth finding was about class. Gans showed that the West Enders were working-class people whose culture was coherent on its own terms, and he rejected the middle-class assumption, common among reformers, that their way of life was a problem to be solved by moving them into better housing.
 
 ## Reception and Influence
 
@@ -41,7 +41,7 @@ Gans went on to teach sociology and planning at Columbia University. His later b
 
 - Gans, Herbert J. *The Urban Villagers: Group and Class in the Life of Italian-Americans*. Free Press, 1962.
 - Gans, Herbert J. *The Levittowners: Ways of Life and Politics in a New Suburban Community*. Pantheon, 1967.
-- Gans, Herbert J. "Planning for People, Not Buildings." *Environment and Planning A* 1, no. 1 (1969): 33–46.
+- Gans, Herbert J. "Planning for People, Not Buildings." *Environment and Planning* 1, no. 1 (1969): 33–46.
 - Gans, Herbert J. *People, Plans, and Policies: Essays on Poverty, Racism, and Other National Urban Problems*. Columbia University Press and Russell Sage Foundation, 1991.
 - Jacobs, Jane. *The Death and Life of Great American Cities*. Random House, 1961.
 - Fried, Marc. "Grieving for a Lost Home." In *The Urban Condition*, edited by Leonard J. Duhl. Basic Books, 1963.

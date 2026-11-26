@@ -57,11 +57,12 @@ In his opening chapter Asad critiques Clifford Geertz's definition of religion a
 
 ## Asad's Personal Background
 
-Asad's method was influenced by his unique personal path. He was born in 1932 in Medina to an Austrian-born father of Jewish background who converted to Islam (Muhammad Asad, translator of the Qur'an and author of *The Road to Mecca*), and he grew up in Pakistan and was educated in Britain. This biography is often mentioned in discussions of his work, although his arguments stand on their own scholarly grounds.
+Asad's method was influenced by his unique personal path. He was born in 1932 in Medina to an Austrian-born father of Jewish background who converted to Islam (Muhammad Asad, translator of the Qur'an and author of *The Road to Mecca*), and he grew up in India and Pakistan and was educated in Britain. This biography is often mentioned in discussions of his work, although his arguments stand on their own scholarly grounds.
 
 ## Sources
 
 - Asad, Talal. *Genealogies of Religion: Discipline and Reasons of Power in Christianity and Islam*. Johns Hopkins University Press, 1993.
 - Asad, Talal. *Formations of the Secular: Christianity, Islam, Modernity*. Stanford University Press, 2003.
+- Asad, Talal. *The Idea of an Anthropology of Islam*. Occasional Paper Series, Center for Contemporary Arab Studies, Georgetown University, 1986.
 - Said, Edward. *Orientalism*. Pantheon Books, 1978.
 - Mahmood, Saba. *Politics of Piety: The Islamic Revival and the Feminist Subject*. Princeton University Press, 2005.

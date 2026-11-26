@@ -28,11 +28,11 @@ The field matured in the 1980s alongside the new cultural history and the anthro
 
 ## Key Figures
 
-Eric Wolf (1923–1999), an Austrian-born American anthropologist, gave the field its program: to write the history of the world's peoples as participants in global processes rather than as isolated "cultures." Sidney Mintz (1922–2015) pioneered the anthropology of commodities and of the Caribbean plantation world. Marshall Sahlins (1930–2021) developed the theory of the "structure of the conjuncture" — the idea that historical events are structured by cultural categories and that cultural categories are transformed by events. Bernard Cohn (1928–2003) founded the historical anthropology of colonial India, showing how colonial knowledge produced the very societies it claimed to describe. Jean Comaroff (born 1946) and John Comaroff (born 1945) developed the study of colonialism, Christianity, and consciousness in southern Africa, combining ethnography with archival research. William H. Sewell Jr. (born 1940), a historian working close to anthropology, supplied the influential theory of events and structures that many historical anthropologists still use.
+Eric Wolf (1923–1999), an Austrian-born American anthropologist, gave the field its program: to write the history of the world's peoples as participants in global processes rather than as isolated "cultures." Sidney Mintz (1922–2015) pioneered the anthropology of commodities and of the Caribbean plantation world. Marshall Sahlins (1930–2021) developed the theory of the "structure of the conjuncture" — the idea that historical events are structured by cultural categories and that cultural categories are transformed by events. Bernard Cohn (1928–2003) was a pioneer of the historical anthropology of colonial India, showing how colonial knowledge produced the very societies it claimed to describe. Jean Comaroff (born 1946) and John Comaroff (born 1945) developed the study of colonialism, Christianity, and consciousness in southern Africa, combining ethnography with archival research. William H. Sewell Jr. (born 1940), a historian working close to anthropology, supplied the influential theory of events and structures that many historical anthropologists still use.
 
 ## Key Works
 
-The landmarks are Wolf's *Europe and the People Without History* (1982), Mintz's *Sweetness and Power: The Place of Sugar in Modern History* (1985), and Sahlins's *Islands of History* (1985) — three books that defined the field's ambitions. Cohn's *An Anthropologist Among the Historians and Other Essays* (1987) collected his studies of colonial knowledge in India. The Comaroffs' *Ethnography and the Historical Imagination* (1992) set out a method for joining ethnography and history. Evans-Pritchard's "Anthropology and History" (1961) remains the founding statement of the kinship between the two disciplines. Together these works established a shared premise: that culture is historical through and through, and that history is cultural through and through.
+The landmarks are Wolf's *Europe and the People Without History* (1982), Mintz's *Sweetness and Power: The Place of Sugar in Modern History* (1985), and Sahlins's *Islands of History* (1985) — three books that defined the field's ambitions. Cohn's *An Anthropologist Among the Historians and Other Essays* (1987) collected his studies of colonial knowledge in India. The Comaroffs' *Ethnography and the Historical Imagination* (1992) set out a method for joining ethnography and history. Evans-Pritchard's "Anthropology and History" (1961) remains a classic statement of the kinship between the two disciplines. Together these works established a shared premise: that culture is historical through and through, and that history is cultural through and through.
 
 ## Method
 
@@ -46,9 +46,10 @@ Debates persist. Some ask how far cultural categories can explain historical cha
 
 ## Sources
 
-- Evans-Pritchard, E. E. "Anthropology and History." Manchester University Press. 1961.
+- Evans-Pritchard, E. E. *Anthropology and History*. Manchester University Press, 1961.
 - Wolf, Eric R. *Europe and the People Without History*. 1982.
 - Mintz, Sidney W. *Sweetness and Power: The Place of Sugar in Modern History*. 1985.
 - Sahlins, Marshall. *Islands of History*. 1985.
 - Cohn, Bernard S. *An Anthropologist Among the Historians and Other Essays*. 1987.
 - Comaroff, John, and Jean Comaroff. *Ethnography and the Historical Imagination*. 1992.
+- Sewell, William H., Jr. *Logics of History: Social Theory and Social Transformation*. 2005.

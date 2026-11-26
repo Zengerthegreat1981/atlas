@@ -21,7 +21,7 @@ gaps: []
 ---
 # Boasian Cultural Relativism & Historical Particularism
 
-The school that founded academic American cultural anthropology under Franz Boas, from his department at Columbia University beginning in the late nineteenth century. It marked a decisive methodological break with classical British evolutionism.
+A school central to the formation of academic American cultural anthropology, led by Franz Boas from his department at Columbia University beginning in the late nineteenth century. It marked a methodological break with nineteenth-century unilinear evolutionism.
 
 ## Core Idea
 
@@ -40,11 +40,11 @@ Boas and his students opposed, on scientific grounds, the theories of racial det
 
 ## Historical and Institutional Context
 
-Franz Boas emigrated from Germany to the United States in the 1880s after initial training in physics and geography. A field expedition to Baffin Island and then to the northwest Pacific coast (among the Kwakwaka'wakw and Tlingit peoples) convinced him that European evolutionary classifications of cultures could not withstand the actual diversity he observed in the field. Boas began teaching anthropology at Columbia University in 1896, became professor there in 1899, built its department, and trained a generation of the most prominent American anthropologists there, including Ruth Benedict, Margaret Mead, Edward Sapir and Alfred Kroeber. His institutional influence thus exceeds that of any other anthropological theorist in the history of the American field.
+Franz Boas emigrated from Germany to the United States in the 1880s after initial training in physics and geography. A field expedition to Baffin Island and then to the northwest Pacific coast (among the Kwakwaka'wakw and Tlingit peoples) convinced him that European evolutionary classifications of cultures could not withstand the actual diversity he observed in the field. Boas began teaching anthropology at Columbia University in 1896, became professor there in 1899, built its department, and trained a generation of the most prominent American anthropologists there, including Ruth Benedict, Margaret Mead, Edward Sapir and Alfred Kroeber. His institutional influence on American anthropology was exceptionally wide.
 
 ## Major Works and Representatives
 
-Ruth Benedict applied Boas's principles in her influential book *Patterns of Culture* (1934), which compared the Pueblo, Kwakwaka'wakw and Dobu cultures of Melanesia. She treated each culture as an integrated "personality" with a distinctive pattern that could not be judged by the standards of another culture. Margaret Mead applied the same approach in her well-known study *Coming of Age in Samoa* (1928), comparing adolescence in Samoa with its American counterpart. Her aim was to challenge the assumption that adolescent turmoil is a universal biological given rather than a product of a particular culture, in this case modern American society.
+Ruth Benedict applied Boas's principles in her influential book *Patterns of Culture* (1934), which compared the Zuni (a Pueblo people), the Dobu of Melanesia and the Kwakwaka'wakw. She treated each culture as an integrated "personality" with a distinctive pattern that could not be judged by the standards of another culture. Margaret Mead applied the same approach in her well-known study *Coming of Age in Samoa* (1928), comparing adolescence in Samoa with its American counterpart. Her aim was to challenge the assumption that adolescent turmoil is a universal biological given rather than a product of a particular culture, in this case modern American society.
 
 ## Impact and Critique
 
@@ -52,15 +52,15 @@ The school later gave rise to the "culture and personality" school (Benedict, Me
 
 ## Relation to the Arab-Islamic Heritage
 
-The principle of cultural relativism intersects with the classical juristic debate over *'urf* (customary practice) as a legitimate source of law that takes account of the particularity of each society, as discussed by the Hanafi and Maliki jurists. However, this consideration remained bounded by the fixed principles of the Sharia, unlike modern anthropological relativism, which does not presuppose a universal moral standard above cultures.
+The principle of cultural relativism can be loosely compared with the classical juristic debate over *'urf* (customary practice) as a legitimate source of law that takes account of the particularity of each society, as discussed by the Hanafi and Maliki jurists. However, this consideration remained bounded by the fixed principles of the Sharia, unlike modern anthropological relativism, which does not presuppose a universal moral standard above cultures.
 
 ## The Four Fields of Anthropology
 
-Boas established a comprehensive vision of the discipline resting on four integrated fields that the researcher should master together: cultural anthropology (the study of customs, beliefs and social organization), anthropological linguistics (documenting endangered languages and analyzing their internal structure), archaeology (the study of material remains to understand cultural history) and biological anthropology (the study of human physical diversity, detached from any racial hierarchy). This four-part integration, rare worldwide in such a coherent institutional form, distinguished the American academic tradition from its British counterpart, which concentrated more on social structure and function, and from the French tradition, which tended toward structural and sociological analysis.
+Boas established a comprehensive vision of the discipline resting on four integrated fields that the researcher should master together: cultural anthropology (the study of customs, beliefs and social organization), anthropological linguistics (documenting endangered languages and analyzing their internal structure), archaeology (the study of material remains to understand cultural history) and biological anthropology (the study of human physical diversity, detached from any racial hierarchy). This four-part integration distinguished the American academic tradition from its British counterpart, which concentrated more on social structure and function, and from the French tradition, which tended toward structural and sociological analysis.
 
 ## Collecting Original Texts
 
-Boas became known for his rigorous method of recording oral texts verbatim in their original language before translating them. He held that any immediate translation into English loses the subtle semantic distinctions carried by the local language. He thereby collected thousands of pages of myths, ritual texts and other material in the Kwakwaka'wakw language. This archive, left behind, is still used today by descendants of those peoples themselves to revitalize their endangered languages, an early example of how an anthropological archive can return direct benefit to the community that documented it.
+Boas became known for his rigorous method of recording oral texts verbatim in their original language before translating them. He regarded such texts as necessary because translation alone can lose distinctions carried by the original language. Working closely with George Hunt, he published thousands of pages of myths, ritual texts and other material in Kwak'wala, the language of the Kwakwaka'wakw. This archive, left behind, has been drawn on by descendants of those peoples themselves to revitalize their endangered languages, an early example of how an anthropological archive can return direct benefit to the community that documented it.
 
 ## Sources
 

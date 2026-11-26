@@ -18,7 +18,7 @@ gaps:
 
 # Aihwa Ong
 
-Aihwa Ong (born 1950) is a Malaysian-born American anthropologist at the University of California, Berkeley, and one of the most influential theorists of globalisation, citizenship, and neoliberalism. Across several books she combined close ethnographic fieldwork with critical theory, moving from factory women in Malaysia to transnational Chinese elites, Southeast Asian refugees in California, and the biotechnology hubs of Singapore. Her concepts of "flexible citizenship" and "neoliberalism as exception" reshaped how anthropologists, geographers, and migration scholars think about sovereignty and belonging in a globalised world.
+Aihwa Ong (born 1950) is a Malaysian-born American anthropologist at the University of California, Berkeley, and an influential theorist of globalisation, citizenship, and neoliberalism. Across several books she combined close ethnographic fieldwork with critical theory, moving from factory women in Malaysia to transnational Chinese elites, Southeast Asian refugees in California, and the biotechnology hubs of Singapore. Her concepts of "flexible citizenship" and "neoliberalism as exception" reshaped how anthropologists, geographers, and migration scholars think about sovereignty and belonging in a globalised world.
 
 ## Life and Career
 

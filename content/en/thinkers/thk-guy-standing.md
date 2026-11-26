@@ -23,7 +23,7 @@ gaps: []
 
 # Guy Standing
 
-A British economist and researcher, research professor at SOAS, University of London, who popularized the term "precariat" with which he described an emerging global social class that lives and works under permanent job and social insecurity, thereby making a cross-disciplinary contribution at the heart of the sociology of contemporary classes.
+A British economist and researcher, professorial research associate at SOAS, University of London, who popularized the term "precariat" with which he described an emerging global social class that lives and works under permanent job and social insecurity, thereby making a cross-disciplinary contribution at the heart of the sociology of contemporary classes.
 
 ## The Central Idea
 
@@ -39,7 +39,7 @@ Standing distinguished the precariat from the traditional industrial working cla
 
 ## Major Works or Representatives
 
-His book *The Precariat: The New Dangerous Class* (2011) is the most important founding work, followed by his book *A Precariat Charter* (2014), in which he proposed specific policy reforms, and the book *The Corruption of Capitalism* (2016), which broadened his analysis of contemporary economic rent. Standing engaged with Richard Sennett in his analysis of the erosion of stable occupational identity, and with Arne Kalleberg, who documented quantitatively the rise of "Bad Jobs" in the American economy, and he co-founded the Basic Income Earth Network to defend his main policy proposal.
+His book *The Precariat: The New Dangerous Class* (2011) is the most important founding work, followed by his book *A Precariat Charter* (2014), in which he proposed specific policy reforms, and the book *The Corruption of Capitalism* (2016), which broadened his analysis of contemporary economic rent. His analysis is often read alongside Richard Sennett's account of the erosion of stable occupational identity and the work of Arne Kalleberg, who documented quantitatively the rise of "Bad Jobs" in the American economy, and he co-founded the Basic Income Earth Network to defend his main policy proposal.
 
 ## Impact and Critique
 

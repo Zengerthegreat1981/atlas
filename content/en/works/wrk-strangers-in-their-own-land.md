@@ -18,11 +18,11 @@ gaps:
 
 # Strangers in Their Own Land
 
-Arlie Russell Hochschild's *Strangers in Their Own Land: Anger and Mourning on the American Right* (2016) is an ethnographic study of Tea Party supporters in Louisiana, written in the months before Donald Trump's election to the presidency. Over five years, Hochschild travelled to Lake Charles and the surrounding parishes, attending rallies, church services and kitchen-table conversations, trying to understand what she calls the "Great Paradox": why do some of the poorest and most polluted communities in the United States vote for politicians who oppose environmental regulation and cuts to the very programmes they depend on? The book was a finalist for the National Book Award in 2016, and it became one of the most widely discussed sociological studies of the American right.
+Arlie Russell Hochschild's *Strangers in Their Own Land: Anger and Mourning on the American Right* (2016) is an ethnographic study of Tea Party supporters in Louisiana, researched and published before Donald Trump's election to the presidency. Over five years, Hochschild travelled to Lake Charles and the surrounding parishes, attending rallies, church services and kitchen-table conversations, trying to understand what she calls the "Great Paradox": why do some of the poorest and most polluted communities in the United States vote for politicians who oppose environmental regulation and favour cuts to the very programmes they depend on? The book was a finalist for the National Book Award in 2016, and it became one of the most widely discussed sociological studies of the American right.
 
 ## Historical Context and Publication
 
-Hochschild, a professor emerita at the University of California, Berkeley, and the author of *The Managed Heart* (1983), began the research after noticing that she and her liberal colleagues could not explain the appeal of the Tea Party. Louisiana was a deliberate choice: the state ranks near the bottom of the United States in income and health, and near the top in industrial pollution, yet it votes reliably Republican. The book was published in September 2016, two months before the presidential election, and its account of the emotional life of the right was read — after Trump's victory — as a prophecy. Hochschild returned to the subject in *Stolen Pride: Loss, Shame, and the Rise of the Right* (2024), which extended the analysis to Appalachia.
+Hochschild, a professor emerita at the University of California, Berkeley, and the author of *The Managed Heart* (1983), began the research after noticing that she and her liberal colleagues could not explain the appeal of the Tea Party. Louisiana was a deliberate choice: the state ranks near the bottom of the United States in income and health, and near the top in industrial pollution, yet it votes reliably Republican. The book was published in September 2016, two months before the presidential election, and its account of the emotional life of the right was widely read after Trump's victory as helping to explain it. Hochschild returned to the subject in *Stolen Pride: Loss, Shame, and the Rise of the Right* (2024), which extended the analysis to Appalachia.
 
 ## The Great Paradox and the Deep Story
 
@@ -42,7 +42,7 @@ The book was praised as a model of empathetic ethnography and became a key text 
 
 ## Critical Assessments and Limitations
 
-Critics have argued that the book is too sympathetic to its subjects, and that by bracketing judgement it understates the role of racism in the politics it describes. Others note that the deep story, while evocative, is difficult to test: it is a reconstruction of feelings rather than a falsifiable claim. Some scholars of the American right argue that Hochschild's focus on emotion neglects the role of organised interests — the fossil fuel industry, conservative media and political donors — in shaping the views of her informants. Hochschild herself has acknowledged these limits, while insisting that understanding how people feel is a necessary condition for any political response, whether that response is persuasion, opposition or reform.
+Critics have argued that the book is too sympathetic to its subjects, and that by bracketing judgement it understates the role of racism in the politics it describes. Others note that the deep story, while evocative, is difficult to test: it is a reconstruction of feelings rather than a falsifiable claim. Some scholars of the American right argue that Hochschild's focus on emotion neglects the role of organised interests — the fossil fuel industry, conservative media and political donors — in shaping the views of her informants. In defence of the approach, understanding how people feel can be treated as a precondition for political response, whether persuasion, opposition or reform.
 
 ## Sources
 
@@ -51,5 +51,5 @@ Critics have argued that the book is too sympathetic to its subjects, and that b
 - Arlie Russell Hochschild, *Stolen Pride: Loss, Shame, and the Rise of the Right* (2024).
 - Katherine J. Cramer, *The Politics of Resentment: Rural Consciousness in Wisconsin and the Rise of Scott Walker* (2016).
 - Thomas Frank, *What's the Matter with Kansas? How Conservatives Won the Heart of America* (2004).
-- Robert Wuthnow, *The Left Behind: Decline and Rage in Small-Town America* (2018).
+- Robert Wuthnow, *The Left Behind: Decline and Rage in Rural America* (2018).
 - Jennifer Silva, *We're Still Here: Pain and Politics in the Heart of America* (2019).

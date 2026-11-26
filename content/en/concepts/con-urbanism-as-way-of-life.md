@@ -28,7 +28,7 @@ In his central essay *Urbanism as a Way of Life* (1938), Wirth identified three 
 
 ## Historical Context
 
-Louis Wirth (1897-1952), a German-Jewish-born immigrant who joined the Chicago school of urban ecology, wrote this thesis in the context of his direct observation of the enormous transformation that the city of Chicago itself had undergone through waves of European and internal migration in the early twentieth century. He drew on Georg Simmel's analyses of the mental life of the metropolis and on Ferdinand Tönnies's distinction between "community" and "society," and sought to formulate a precise scientific sociological definition of the city that goes beyond the abstract demographic definition based on population size alone.
+Louis Wirth (1897-1952), a German-born Jewish immigrant to the United States who joined the Chicago school of urban ecology, wrote this thesis in the context of his direct observation of the enormous transformation that the city of Chicago itself had undergone through waves of European and internal migration in the early twentieth century. He drew on Georg Simmel's analyses of the mental life of the metropolis and on Ferdinand Tönnies's distinction between "community" and "society," and sought to formulate a precise scientific sociological definition of the city that goes beyond the abstract demographic definition based on population size alone.
 
 ## Later Alternative Theories
 

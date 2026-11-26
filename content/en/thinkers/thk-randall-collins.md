@@ -7,7 +7,7 @@ level: متوسط
 title: Randall Collins
 en: Randall Collins
 crumb: "Sociology ← Randall Collins"
-dates: International · 1941-present
+dates: United States · 1941-present
 active_start: 1941
 active_end: مستمر
 edges: []

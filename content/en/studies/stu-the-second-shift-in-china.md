@@ -34,6 +34,6 @@ The Chinese case shows that high female employment under a state committed to ge
 
 ## Sources
 
-- Hochschild, Arlie, with Anne Machung. *The Second Shift: Working Families and the Revolution at Home*. Viking, 1989.
+- Hochschild, Arlie, with Anne Machung. *The Second Shift: Working Parents and the Revolution at Home*. Viking, 1989.
 - Stacey, Judith. *Patriarchy and Socialist Revolution in China*. University of California Press, 1983.
 - Zuo, Jiping, and Yanjie Bian. "Gendered Resources, Division of Housework, and Perceived Fairness: A Case in Urban China." *Journal of Marriage and Family* 63, no. 4 (2001): 1122–1133.

@@ -37,7 +37,7 @@ Conrad distinguished between different levels of medicalization: the conceptual 
 
 ## Prominent Works and Figures
 
-Peter Conrad (1945–2020), an American sociologist at Brandeis University, was known for his pioneering study of the medicalization of hyperactivity in children (*Identifying Hyperactive Children*, 1976) and later *The Medicalization of Society* (2007). Nikolas Rose (born 1947), a British sociologist and professor at King's College London, developed a sophisticated Foucauldian analysis of psychology, psychiatry and the genome within his broader project on "Governing the Soul" and contemporary "biopower."
+Peter Conrad, an American sociologist at Brandeis University, was known for his study of the medicalization of hyperactivity in children (*Identifying Hyperactive Children*, 1976) and later *The Medicalization of Society* (2007). Nikolas Rose (born 1947), a British sociologist who has held professorships at the London School of Economics and King's College London, developed a sophisticated Foucauldian analysis of psychology, psychiatry and the genome within his broader project on "Governing the Soul" and contemporary "biopower."
 
 ## Impact and Critique
 
@@ -48,4 +48,9 @@ This current provided an influential critical analytic tool for understanding th
 - Conrad, Peter. "Medicalization and Social Control." *Annual Review of Sociology*, vol. 18, 1992, pp. 209–232.
 - Rabinow, Paul. "Artificiality and Enlightenment: From Sociobiology to Biosociality." In *Incorporations*, ed. Jonathan Crary and Sanford Kwinter. Zone, 1992.
 - Rose, Nikolas. *The Politics of Life Itself: Biomedicine, Power, and Subjectivity in the Twenty-First Century*. Princeton University Press, 2007.
+- Zola, Irving K. "Medicine as an Institution of Social Control." *Sociological Review*, 1972.
+- Conrad, Peter. *Identifying Hyperactive Children*. Lexington Books, 1976.
+- Conrad, Peter. *The Medicalization of Society*. Johns Hopkins University Press, 2007.
+- Rose, Nikolas, and Carlos Novas. "Biological Citizenship." In *Global Assemblages*, ed. Aihwa Ong and Stephen J. Collier. Blackwell, 2005.
+- Rose, Nikolas. *Governing the Soul*. Routledge, 1989.
 - Conrad, Peter, and Joseph W. Schneider. *Deviance and Medicalization: From Badness to Sickness*. C.V. Mosby, 1980.

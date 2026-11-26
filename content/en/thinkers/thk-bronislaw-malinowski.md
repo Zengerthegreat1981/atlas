@@ -28,7 +28,7 @@ A Polish-British anthropologist (born in Kraków in 1884, died in New Haven in 1
 
 ## The Fieldwork Turn
 
-Because the First World War broke out while he was an Austro-Hungarian subject in Australia (an enemy state), Malinowski, then a lecturer at the London School of Economics, was unable to return to Europe and carried out fieldwork in Papua between 1914 and 1918, including two extended stays in the Trobriand Islands (1915–1916 and 1917–1918). There he lived among the population directly, learned their language, and took part in their daily lives, rather than relying on interpreters and intermediaries as was common at the time. This experience made participant observation the gold standard of ethnographic research throughout the twentieth century.
+Because the First World War broke out while he was an Austro-Hungarian subject in Australia (an enemy state), Malinowski, who had been studying and lecturing at the London School of Economics, was unable to return to Europe and carried out fieldwork between 1914 and 1918, first among the Mailu of Papua and then in two extended stays in the Trobriand Islands (1915–1916 and 1917–1918). There he lived among the population directly, learned their language, and took part in their daily lives, rather than relying on interpreters and intermediaries as was common at the time. This experience made participant observation the gold standard of ethnographic research throughout the twentieth century.
 
 ## Central Work
 
@@ -44,17 +44,17 @@ Malinowski developed a functional model linking cultural institutions (magic, my
 
 ## Impact and Criticism
 
-Despite the controversy aroused by his personal diaries, Malinowski remains a globally recognized founder of the modern fieldwork method in social anthropology. His works on the Trobriands (*Argonauts*, *The Sexual Life of Savages*, *Magic, Science and Religion*) are taught in every introductory anthropology program around the world as a classic model of deep, analytical descriptive ethnography.
+Despite the controversy aroused by his personal diaries, Malinowski remains a globally recognized founder of the modern fieldwork method in social anthropology. His works on the Trobriands (*Argonauts*, *The Sexual Life of Savages*, *Magic, Science and Religion*) are widely taught in anthropology programmes as classic models of deep, analytical descriptive ethnography.
 
 After his death, his personal fieldwork diary (*A Diary in the Strict Sense of the Term*, 1967) was published. It revealed intense personal tensions and included derogatory remarks about the people he studied. This sparked a broad debate about the gap between the declared scientific objectivity of the field and the subjective experience of the ethnographer. It later became a key reference in the critique of classical anthropology (the crisis of representation and reflexivity).
 
 ## Connection to the Arab-Islamic Heritage
 
-Malinowski conducted no fieldwork in the Arab-Islamic world, since his main research was concentrated in the Trobriand Islands in the Pacific Ocean. However, his method of "participant observation" and long-term immersion in the local population's language deeply influenced a later generation of anthropologists who studied Arab and Islamic societies in the field. Examples include Ernest Gellner in his study of the Moroccan Atlas and E. E. Evans-Pritchard in his work on the Sanusiyya of Cyrenaica. They applied the fieldwork standards associated with Malinowski (intensive, long-term fieldwork) to Arab and Islamic contexts that Malinowski himself never visited.
+Malinowski conducted no fieldwork in the Arab-Islamic world, since his main research was concentrated in the Trobriand Islands in the Pacific Ocean. However, his method of "participant observation" and long-term immersion in the local population's language deeply influenced a later generation of anthropologists who studied Arab and Islamic societies in the field. Examples include Ernest Gellner in his study of the Moroccan Atlas who carried intensive fieldwork into a Muslim society. E. E. Evans-Pritchard, who had attended Malinowski's seminar but later distanced himself from him, wrote *The Sanusi of Cyrenaica* (1949), largely a historical study informed by his wartime service in Libya.
 
 ## Sources
 
-- Malinowski, Bronisław. *Argonauts of the Western Pacific*. Routledge & Kegan Paul, 1922.
+- Malinowski, Bronisław. *Argonauts of the Western Pacific*. George Routledge & Sons, 1922.
 - Malinowski, Bronisław. *A Diary in the Strict Sense of the Term*. Trans. Norbert Guterman, Harcourt, Brace & World, 1967.
 - Young, Michael W. *Malinowski: Odyssey of an Anthropologist, 1884–1920*. Yale University Press, 2004.
 - Raymond Firth (ed.), *Man and Culture: An Evaluation of the Work of Bronislaw Malinowski*, 1957.

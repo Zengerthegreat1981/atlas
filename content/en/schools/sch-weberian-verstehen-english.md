@@ -11,7 +11,7 @@ en: Weberian Interpretive Sociology
 crumb: Sociology ← Verstehen and Interpretation
 dates: Germany · 1905-1920
 active_start: 1905
-active_end: مستمر
+active_end: 1920
 edges: []
 related: []
 gaps:

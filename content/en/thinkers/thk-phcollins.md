@@ -7,7 +7,7 @@ level: متوسط
 title: Patricia Hill Collins
 en: Patricia Hill Collins
 crumb: "Sociology ← Patricia Hill Collins"
-dates: International · 1948-present
+dates: United States · 1948-present
 active_start: 1948
 active_end: مستمر
 edges: []

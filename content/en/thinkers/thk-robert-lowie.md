@@ -18,7 +18,7 @@ gaps:
 
 # Robert H. Lowie
 
-Robert Harry Lowie (1883–1957) was an Austrian-born American anthropologist and a leading figure of the second generation of the Boasian school. A student of Franz Boas at Columbia University, he carried out his principal fieldwork among the Crow Indians of the northern Plains and spent most of his career at the University of California, Berkeley, alongside Alfred L. Kroeber. His book *Primitive Society* (1920) delivered the most systematic critique of classical evolutionism yet written, and his careful comparative method helped establish historical particularism as the standard approach of American anthropology.
+Robert Harry Lowie (1883–1957) was an Austrian-born American anthropologist and a leading figure of the second generation of the Boasian school. A student of Franz Boas at Columbia University, he carried out his principal fieldwork among the Crow Indians of the northern Plains and spent most of his career at the University of California, Berkeley, alongside Alfred L. Kroeber. His book *Primitive Society* (1920) delivered a systematic critique of classical evolutionism, and his careful comparative method helped establish historical particularism as the standard approach of American anthropology.
 
 ## Life and Career
 
@@ -28,9 +28,9 @@ Lowie began his fieldwork among the Crow of Montana in 1907 and returned to them
 
 ## Key Works
 
-Lowie's central work is *Primitive Society* (1920). Drawing on wide comparative ethnographic evidence, above all from the Crow, he attacked the unilinear evolutionism of Lewis Henry Morgan and his successors, in particular the assumption of a fixed universal sequence of stages in kinship, marriage, and property. The actual diversity of kinship, property, and political systems among so-called primitive peoples, he showed, supported no single linear evolutionary sequence, but rather multiple independent historical paths.
+Lowie's central work is *Primitive Society* (1920). Drawing on wide comparative ethnographic evidence, including his own Crow research, he attacked the unilinear evolutionism of Lewis Henry Morgan and his successors, in particular the assumption of a fixed universal sequence of stages in kinship, marriage, and property. The actual diversity of kinship, property, and political systems among so-called primitive peoples, he showed, supported no single linear evolutionary sequence, but rather multiple independent historical paths.
 
-*Primitive Religion* (1924) approached religious phenomena with the same descriptive, comparative method, avoiding evolutionary generalisations. *The Crow Indians* (1935) presented a comprehensive ethnography of Crow social life, including his detailed study of the military societies — voluntary associations based on personal achievement in war and hunting rather than on birth, which offered an alternative path to status outside the kinship system. His historical and historical survey, *The History of Ethnological Theory* (1937), traced the development of anthropological theory since the nineteenth century with a critical eye and remains a useful history of the discipline.
+*Primitive Religion* (1924) approached religious phenomena with the same descriptive, comparative method, avoiding evolutionary generalisations. *The Crow Indians* (1935) presented a comprehensive ethnography of Crow social life, including his detailed study of the military societies — voluntary associations based on personal achievement in war and hunting rather than on birth, which offered an alternative path to status outside the kinship system. His historical survey, *The History of Ethnological Theory* (1937), traced the development of anthropological theory since the nineteenth century with a critical eye and remains a useful history of the discipline.
 
 ## Main Ideas and Contributions
 

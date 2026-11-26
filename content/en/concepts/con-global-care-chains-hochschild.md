@@ -40,3 +40,5 @@ This analysis linked the field of the sociology of emotions, to which Hochschild
 - Hochschild, Arlie Russell. "Global Care Chains and Emotional Surplus Value." In *On the Edge: Living with Global Capitalism*, edited by Will Hutton and Anthony Giddens, Jonathan Cape, 2000.
 - Hochschild, Arlie Russell. *The Managed Heart: Commercialization of Human Feeling*. University of California Press, 1983.
 - Parreñas, Rhacel Salazar. *Servants of Globalization: Women, Migration, and Domestic Work*. Stanford University Press, 2001.
+- Anderson, Bridget. *Doing the Dirty Work? The Global Politics of Domestic Labour*. Zed Books, 2000.
+- Fraser, Nancy. "Contradictions of Capital and Care." *New Left Review* 100, 2016.

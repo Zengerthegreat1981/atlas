@@ -40,4 +40,5 @@ Monotheism remains the dominant religious form for more than half the world's po
 - Durkheim, Émile. *The Elementary Forms of Religious Life*. 1912.
 - Freud, Sigmund. *Moses and Monotheism*. 1939.
 - Boyer, Pascal. *Religion Explained: The Evolutionary Origins of Religious Thought*. 2001.
+- Assmann, Jan. *Moses the Egyptian: The Memory of Egypt in Western Monotheism*. 1997.
 - Assmann, Jan. *Of God and Gods: Egypt, Israel, and the Rise of Monotheism*. 2008.

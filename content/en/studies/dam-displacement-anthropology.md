@@ -35,7 +35,7 @@ Many anthropologists, including some who worked directly within institutions suc
 
 ## Impact
 
-Cernea's research and that of his colleagues contributed to reforming compensation and resettlement policies at major international financing institutions (the World Bank and regional development banks). They subsequently required internationally funded projects to draw up more comprehensive "resettlement plans" that account for social rather than purely economic dimensions.
+Cernea's research and that of his colleagues contributed to developing and reforming compensation and resettlement policies at international financing institutions (the World Bank, which adopted a resettlement policy in 1980, and later regional development banks). These policies require funded projects that displace people to prepare "resettlement plans" that address social as well as purely economic dimensions.
 
 ## Limitations
 

@@ -31,7 +31,7 @@ An American sociologist (1910–1989), a professor at Harvard University for man
 
 ## His Place in the Current
 
-Homans was one of the first and most outspoken methodological critics of Parsonian structural functionalism, accusing it of being merely a descriptive classificatory system without real causal explanatory power. He founded a whole current in American sociology ("exchange theory") that Peter Blau later developed in a more structural direction, restoring the importance of the influence of social structures on the conditions of exchange itself, and his propositions were a point of reference for later sociological rational choice theory, such as that of James Coleman.
+Homans was an outspoken methodological critic of Parsonian structural functionalism, accusing it of being merely a descriptive classificatory system without real causal explanatory power. He founded a whole current in American sociology ("exchange theory") that Peter Blau later developed in a more structural direction, restoring the importance of the influence of social structures on the conditions of exchange itself, and his propositions were a point of reference for later sociological rational choice theory, such as that of James Coleman.
 
 ## The Rationality Proposition
 
@@ -39,7 +39,7 @@ Homans also formulated the "rationality proposition" that unifies the logic of h
 
 ## Academic Career
 
-Homans was born in Boston into a wealthy family whose ancestry included the Adams family of Massachusetts, and studied English literature before turning to sociology by joining the informal "Pareto circle" at Harvard University during the 1930s, a discussion group around L. J. Henderson that also drew Talcott Parsons and Elton Mayo, influenced by the ideas of the Italian sociologist Vilfredo Pareto on elites and non-logical action. In *The Human Group* (1950) Homans reanalyzed material from the Hawthorne studies of the Western Electric plant, among other field studies, which formed an early empirical basis for his later ideas on small-scale social exchange within work groups. He spent most of his career as a professor at Harvard University, where for decades he worked in the same department that Parsons dominated intellectually, despite the radical theoretical disagreement between them over the nature of correct sociological explanation.
+Homans was born in Boston into a wealthy family whose ancestry included the Adams family of Massachusetts, and studied English literature before turning to sociology by joining the informal "Pareto circle" at Harvard University during the 1930s, a discussion group around L. J. Henderson that also drew other Harvard scholars, influenced by the ideas of the Italian sociologist Vilfredo Pareto on elites and non-logical action. In *The Human Group* (1950) Homans reanalyzed material from the Hawthorne studies of the Western Electric plant, among other field studies, which formed an early empirical basis for his later ideas on small-scale social exchange within work groups. He spent most of his career as a professor at Harvard University, where for decades he worked in the same department that Parsons dominated intellectually, despite the radical theoretical disagreement between them over the nature of correct sociological explanation.
 
 ## Elementary Behavior as an Explanatory Foundation
 

@@ -18,7 +18,7 @@ gaps:
 ---
 # Structural Violence
 
-A concept formulated by the political scientist Johan Galtung in 1969 and developed anthropologically by Paul Farmer to analyze global health and inequality.
+A concept formulated by the Norwegian sociologist and peace researcher Johan Galtung in 1969 and developed anthropologically by Paul Farmer to analyze global health and inequality.
 
 ## Central Idea
 
@@ -46,6 +46,7 @@ The concept of structural violence intersects with the notion of "social justice
 
 ## Sources
 
+- Farmer, Paul. *Infections and Inequalities: The Modern Plagues*. University of California Press, 1999.
 - Farmer, Paul. *Pathologies of Power: Health, Human Rights, and the New War on the Poor*. University of California Press, 2003.
 - Galtung, Johan. "Violence, Peace, and Peace Research." *Journal of Peace Research*, vol. 6, no. 3, 1969, pp. 167–191.
 - Galtung, Johan. "Cultural Violence." *Journal of Peace Research*, vol. 27, no. 3, 1990, pp. 291–305.

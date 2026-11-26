@@ -29,7 +29,7 @@ In *Human Nature and the Social Order* (1902), Cooley formulated the idea that t
 
 ## Impact
 
-This concept formed a direct basis on which George Herbert Mead later built his more detailed and abstract theory of the emergence of the self through the process of "taking the role of the other" and the formation of the "Generalized Other," and it thereby became one of the direct theoretical foundations of Blumer's symbolic interactionism. The concept remains an analytical tool in use today in social psychology and the sociology of the self and identity.
+This concept was one of the influences on George Herbert Mead's more detailed and abstract theory of the emergence of the self through the process of "taking the role of the other" and the formation of the "Generalized Other," and it thereby became one of the theoretical sources of Blumer's symbolic interactionism. The concept remains an analytical tool in use today in social psychology and the sociology of the self and identity.
 
 ## Cooley's Intellectual Context
 

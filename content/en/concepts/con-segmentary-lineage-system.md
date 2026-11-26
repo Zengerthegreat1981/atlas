@@ -29,11 +29,11 @@ This system replaces the central state in regulating conflict, distributing reso
 
 ## Impact
 
-The concept became an analytical model that influenced the study of stateless tribal societies around the world (especially in the Middle East and Africa). Later, however, it was criticized, notably by Marshall Sahlins (1961) and Adam Kuper (1982), and from the situational perspective associated with the Manchester School, for exaggerating structural order and neglecting actual conflict and history.
+The concept became an analytical model that influenced the study of stateless tribal societies around the world (especially in the Middle East and Africa). Later, however, it was reinterpreted by Marshall Sahlins (1961) and criticized, notably by Adam Kuper (1982) and from the situational perspective associated with the Manchester School, with critics charging that it exaggerated structural order and neglected actual conflict and history.
 
 ## The Arab-Islamic Heritage
 
-Ibn Khaldun anticipated Evans-Pritchard by centuries in analyzing similar dynamics through the concept of *ʿaṣabiyya* in the *Muqaddimah* (1377). He described how kinship bonds among members of a tribe strengthen as their connection to a common ancestor becomes closer, how branches of closely related descent allied against more distant branches, and how strong tribal *ʿaṣabiyya* becomes the foundation for the emergence of states when multiple tribes unite behind a single leadership. He also described how this *ʿaṣabiyya* gradually weakens with urban settlement and luxury. This thesis intersects deeply with the logic of the shifting segmentary lineages in Evans-Pritchard's account, although the historical and methodological context of the two differs.
+Centuries before Evans-Pritchard, Ibn Khaldun analyzed related dynamics through the concept of *ʿaṣabiyya* in the *Muqaddimah* (1377). He described how kinship bonds among members of a tribe strengthen as their connection to a common ancestor becomes closer, how branches of closely related descent allied against more distant branches, and how strong tribal *ʿaṣabiyya* becomes the foundation for the emergence of states when multiple tribes unite behind a single leadership. He also described how this *ʿaṣabiyya* gradually weakens with urban settlement and luxury. This thesis intersects deeply with the logic of the shifting segmentary lineages in Evans-Pritchard's account, although the historical and methodological context of the two differs.
 
 ## Critiques
 

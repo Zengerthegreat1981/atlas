@@ -33,7 +33,7 @@ These approaches share a rejection of primordialism, the view that ethnic ties a
 
 ## Ethnographic Examples
 
-Ethnography shows ethnicity in many guises. In the Balkans, neighbours who share a language, a cuisine, and a history have maintained distinct Serb, Croat, and Bosniak identities through religion, script, and historical memory — and those distinctions have been mobilised, at terrible cost, in war. In Malaysia, the state's classification of its population into Malay, Chinese, and Indian has shaped politics, education, and economic policy, turning ethnic categories into the framework of national life. In the cities of West Africa, migrants maintain ethnic associations that provide housing, credit, and burial, while also adopting the languages and styles of their hosts — living, as Cohen showed, in two worlds at once.
+Ethnography shows ethnicity in many guises. In the Balkans, neighbours who share a language, a cuisine, and a history have maintained distinct Serb, Croat, and Bosniak identities through religion, script, and historical memory — and those distinctions have been mobilised, at terrible cost, in war. In Malaysia, the state's classification of its population into Malay, Chinese, and Indian has shaped politics, education, and economic policy, turning ethnic categories into the framework of national life. In the cities of West Africa, migrants maintain ethnic associations that provide housing, credit, and burial, while also adopting the languages and styles of their hosts.
 
 In Latin America, indigenous ethnicity has become a basis for political mobilisation: Quechua, Aymara, and Maya movements have claimed recognition, land, and language rights, turning an identity once stigmatised into a source of political power.
 

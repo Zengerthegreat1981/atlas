@@ -32,7 +32,7 @@ Gilbert Rouget's *Music and Trance* (1985, English translation of the 1980 Frenc
 
 ## Key Debates
 
-The first debate concerns the relationship between trance and pathology. Western psychiatry has often treated trance-like states as symptoms of dissociation or hysteria. Anthropologists have countered that trance is usually a controlled, valued, and socially useful capacity: the medium enters trance at the appointed time and place, performs a recognised role, and returns to ordinary life. The distinction between a religious virtuoso and a psychiatric patient, they argue, is not in the state itself but in its cultural framing and its consequences. Tanya Luhrmann's *When God Talks Back* (2012), a study of American evangelicals who train themselves to hear God's voice, showed that even in a modern, literate society, trance-like absorption can be learned, practised, and experienced as real — and that the boundary between religious experience and mental illness is negotiated, not given.
+The first debate concerns the relationship between trance and pathology. Western psychiatry has often treated trance-like states as symptoms of dissociation or hysteria. Anthropologists have countered that trance is usually a controlled, valued, and socially useful capacity: the medium enters trance at the appointed time and place, performs a recognised role, and returns to ordinary life. The distinction between a religious virtuoso and a psychiatric patient, they argue, is not in the state itself but in its cultural framing and its consequences. Tanya Luhrmann's *When God Talks Back* (2012), a study of American evangelicals who train themselves to hear God's voice, indicated that even in a modern, literate society, trance-like absorption can be learned, practised, and experienced as real — and that the boundary between religious experience and mental illness is negotiated, not given.
 
 A second debate concerns agency: who is acting in trance? In possession, the answer is the spirit; in the shaman's journey, it is the shaman's soul. But anthropologists increasingly attend to the social work trance does: it redistributes authority, heals affliction, resolves conflict, and gives voice to the otherwise voiceless. Whether the spirit is "real" is, for the anthropologist, less important than what the state accomplishes in the community.
 
@@ -46,7 +46,7 @@ For anthropology, trance remains a test case for the study of consciousness. It 
 
 ## Sources
 
-- Lewis, I. M. *Ecstatic Religion: A Study of Shamanism and Spirit Possession*. 1971.
+- Lewis, I. M. *Ecstatic Religion: An Anthropological Study of Spirit Possession and Shamanism*. 1971.
 - Bourguignon, Erika, ed. *Religion, Altered States of Consciousness, and Social Change*. 1973.
 - Bourguignon, Erika. *Possession*. 1976.
 - Rouget, Gilbert. *Music and Trance: A Theory of the Relations between Music and Possession*. 1985.

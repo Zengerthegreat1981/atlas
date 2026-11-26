@@ -33,7 +33,7 @@ Butler's method is philosophical and textual: a close, critical reading of canon
 
 ## Key Concepts
 
-Several concepts from the book have entered the core vocabulary of sociology and cultural studies. "Performativity," adapted from J. L. Austin's theory of speech acts, names the process by which repeated acts bring into being what they name. The "heterosexual matrix" describes the cultural logic that makes only certain combinations of sex, gender, and desire intelligible. "Gender trouble" itself names both the book's topic and its political strategy: to make trouble for the categories that regulate identity. "Abject bodies" refers to those lives that fall outside intelligibility and are therefore unliveable or ungrievable. These concepts gave sociologists new tools for studying how identities are made and unmade, and they shaped the development of queer theory, transgender studies, and the sociology of the body.
+Several concepts from the book have entered the core vocabulary of sociology and cultural studies. "Performativity," adapted from J. L. Austin's theory of speech acts, names the process by which repeated acts bring into being what they name. The "heterosexual matrix" describes the cultural logic that makes only certain combinations of sex, gender, and desire intelligible. "Gender trouble" itself names both the book's topic and its political strategy: to make trouble for the categories that regulate identity. "Abject bodies" refers to those lives that fall outside intelligibility and are therefore treated as unlivable. These concepts gave sociologists new tools for studying how identities are made and unmade, and they shaped the development of queer theory, transgender studies, and the sociology of the body.
 
 ## Reception and Influence
 

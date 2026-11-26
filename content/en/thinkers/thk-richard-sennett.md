@@ -43,7 +43,7 @@ In *The Corrosion of Character: The Personal Consequences of Work in the New Cap
 
 ## Recognition
 
-Sennett has received several honours, among them the Hegel Prize (2006) and the Prince of Asturias Award for the Social Sciences (2010).
+Sennett has received several honours, among them the Hegel Prize (2006).
 
 ## Critique and Assessment
 

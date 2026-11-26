@@ -29,7 +29,7 @@ Strauss was born in New York City in 1916 and trained at the University of Chica
 - **Negotiated order:** Strauss argued that organizations such as hospitals are not run only by fixed rules and hierarchy. Order is continually produced through negotiation among staff, patients, and others, who bargain over tasks, meanings, and rules.
 - **Grounded theory:** theory should be developed from systematic analysis of data rather than only tested against pre-existing grand theories. This involves constant comparison, coding, and theoretical sampling.
 - **Trajectory and illness work:** with Juliet Corbin he described chronic illness as a trajectory shaped by the work done by patients, families, and staff.
-- **Awareness contexts:** in studies of dying he showed how what the dying person, staff, and family know about impending death structures their interaction.
+- **Awareness contexts:** in studies of dying he showed how what the dying person, staff, and family know about approaching death structures their interaction.
 - **Social worlds and arenas:** he analyzed how groups organized around shared activities and commitments negotiate within wider arenas.
 
 ## Major Works

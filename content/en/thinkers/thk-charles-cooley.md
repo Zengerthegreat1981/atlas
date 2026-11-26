@@ -25,7 +25,7 @@ Charles Horton Cooley (1864-1929) was an American sociologist who helped found t
 
 ## Life and Context
 
-Cooley was born in Ann Arbor, Michigan, and spent nearly his whole career at the University of Michigan, where he studied and then taught. He trained first in engineering and economics, and his doctoral work dealt with the theory of transportation. He turned to sociology and developed a psychological and organic view of society. He was a president of the American Sociological Association.
+Cooley was born in Ann Arbor, Michigan, and spent nearly his whole career at the University of Michigan, where he studied and then taught. He trained first in engineering and economics, and his doctoral work dealt with the theory of transportation. He turned to sociology and developed a psychological and organic view of society. He served as president of the American Sociological Society, later renamed the American Sociological Association, in 1918.
 
 ## Main Ideas
 

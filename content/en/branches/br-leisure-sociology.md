@@ -35,9 +35,9 @@ Institutionalisation followed: the Journal of Leisure Research was founded in 19
 
 ## Key Figures and Works
 
-Veblen established the link between leisure and status that still frames the field. Dumazedier provided its most influential definition and its first systematic sociology, treating leisure as a democratic achievement of industrial society. De Grazia supplied the philosophical counterweight, warning that mass amusement was replacing true leisure. Parker mapped the field's early research agenda, connecting leisure to work, family, and community.
+Veblen established the link between leisure and status that still frames the field. Dumazedier provided an influential definition and an early systematic sociology, treating leisure as a democratic achievement of industrial society. De Grazia supplied the philosophical counterweight, warning that mass amusement was replacing true leisure. Parker mapped the field's early research agenda, connecting leisure to work, family, and community.
 
-Stebbins is the field's most productive theorist. In Amateurs, Professionals, and Serious Leisure (1992) he distinguished serious leisure — systematic, committed pursuits such as amateur astronomy, volunteering, or playing in an orchestra — from casual leisure, the immediately rewarding but fleeting pleasures of watching television or chatting with friends. Rojek's Decentring Leisure (1995) challenged the field's assumptions, arguing that leisure is not a separate realm of freedom but is woven into capitalism, consumer culture, and power. Feminist work, notably by Rosemary Deem, showed that leisure time is gendered: women's free time is more interrupted, more domestic, and more burdened by the expectation of caring for others.
+Stebbins is a prolific theorist in the field. In Amateurs, Professionals, and Serious Leisure (1992) he distinguished serious leisure — systematic, committed pursuits such as amateur astronomy, volunteering, or playing in an orchestra — from casual leisure, the immediately rewarding but fleeting pleasures of watching television or chatting with friends. Rojek's Decentring Leisure (1995) challenged the field's assumptions, arguing that leisure is not a separate realm of freedom but is woven into capitalism, consumer culture, and power. Feminist work, notably by Rosemary Deem, showed that leisure time is gendered: women's free time is more interrupted, more domestic, and more burdened by the expectation of caring for others.
 
 ## Methods
 
@@ -54,6 +54,7 @@ Current debates cluster around four questions. First, digital leisure: gaming, s
 - Veblen, Thorstein. *The Theory of the Leisure Class*. Macmillan, 1899.
 - De Grazia, Sebastian. *Of Time, Work and Leisure*. Twentieth Century Fund, 1962.
 - Dumazedier, Joffre. *Toward a Society of Leisure*. Free Press, 1967.
+- Deem, Rosemary. *All Work and No Play? The Sociology of Women and Leisure*. Open University Press, 1986.
 - Parker, Stanley. *The Sociology of Leisure*. Allen and Unwin, 1976.
 - Stebbins, Robert A. *Amateurs, Professionals, and Serious Leisure*. McGill-Queen's University Press, 1992.
 - Rojek, Chris. *Decentring Leisure: Rethinking Leisure Theory*. Sage, 1995.

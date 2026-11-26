@@ -26,7 +26,7 @@ Ralf Dahrendorf (1929-2009) was a German-British sociologist, political thinker 
 
 ## Life and Context
 
-Born in Hamburg, Dahrendorf studied philosophy, classical philology and sociology in Hamburg and then at the London School of Economics. He taught at several German universities, including Tubingen and Konstanz, and sat briefly in the West German parliament and served as a European Commissioner in the early 1970s. He directed the London School of Economics from 1974 to 1984 and later led St Antony's College, Oxford. He became a British citizen and a member of the House of Lords.
+Born in Hamburg, Dahrendorf studied philosophy, classical philology and sociology in Hamburg and then at the London School of Economics. He taught at several German universities, including Tübingen and Konstanz, and sat briefly in the West German parliament and served as a European Commissioner in the early 1970s. He directed the London School of Economics from 1974 to 1984 and later led St Antony's College, Oxford. He became a British citizen and a member of the House of Lords.
 
 ## Main Ideas
 

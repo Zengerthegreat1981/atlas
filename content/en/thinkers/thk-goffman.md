@@ -62,5 +62,5 @@ His concepts are applied to workplaces, online self-presentation, and health ins
 - Goffman, E. (1959). *The Presentation of Self in Everyday Life*. Doubleday.
 - Goffman, E. (1961). *Asylums*. Doubleday.
 - Goffman, E. (1963). *Stigma*. Prentice-Hall.
-- Goffman, E. (1974). *Frame Analysis*. Harvard University Press.
+- Goffman, E. (1974). *Frame Analysis*. Harper & Row.
 - Goffman, E. (1983). "The Interaction Order." *American Sociological Review* 48(1).

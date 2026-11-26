@@ -31,7 +31,7 @@ Swidler directed her critique squarely at the Parsonian model, which assumes tha
 
 ## Impact
 
-This framework became one of the most widely used conceptual tools in contemporary sociology of culture, and it deeply influenced studies of identity, social movements and religion. Later researchers extended it, such as Omar Lizardo, who distinguished explicit cultural knowledge that can be consciously verbalized from implicit, unconscious bodily skills, and Wendy Griswold, who placed it within her more comprehensive "cultural diamond" framework to locate cultural tools within the full cycle of the production and reception of meaning.
+This framework became one of the most widely used conceptual tools in contemporary sociology of culture, and it deeply influenced studies of identity, social movements and religion. Later work has debated and refined it; Omar Lizardo and Michael Strand (2010), for example, compared the toolkit approach with accounts that stress implicit, embodied cognition.
 
 ## Field Applications
 

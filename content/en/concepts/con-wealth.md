@@ -28,7 +28,7 @@ Thorstein Veblen, writing about industrial America, offered a contrasting theory
 
 ## Key Debates
 
-One central debate concerns the relationship between wealth and inequality. In societies organised by kinship, wealth is often widely shared through obligations of reciprocity, and the accumulation of large personal fortunes is prevented by the demand to give. In stratified societies, wealth concentrates, and the concentration is legitimised by ideologies of merit, divine favour or market efficiency. A second debate asks whether wealth corrupts social relations: does the introduction of money and markets dissolve the bonds of reciprocity, as Mauss feared, or do people incorporate money into existing moral economies, using it for gifts, bridewealth and ritual as readily as for purchase? Ethnography shows both: money can corrode relationships, but it can also be domesticated, as when wages are shared with kin or remittances sustain households across continents. A third debate concerns the measurement of wealth: development economists measure it in income and assets, while anthropologists insist that security, status, leisure and social standing are also forms of wealth, and that a society rich in relationships may be poor in cash without being poor in any meaningful sense.
+One central debate concerns the relationship between wealth and inequality. In societies organised by kinship, wealth is often widely shared through obligations of reciprocity, and the accumulation of large personal fortunes is prevented by the demand to give. In stratified societies, wealth concentrates, and the concentration is legitimised by ideologies of merit, divine favour or market efficiency. A second debate asks whether wealth corrupts social relations: does the introduction of money and markets dissolve the bonds of reciprocity, as many classical social theorists feared, or do people incorporate money into existing moral economies, using it for gifts, bridewealth and ritual as readily as for purchase? Ethnography shows both: money can corrode relationships, but it can also be domesticated, as when wages are shared with kin or remittances sustain households across continents. A third debate concerns the measurement of wealth: development economists measure it in income and assets, while anthropologists insist that security, status, leisure and social standing are also forms of wealth, and that a society rich in relationships may be poor in cash without being poor in any meaningful sense.
 
 ## Contemporary Relevance and Critique
 
@@ -40,4 +40,5 @@ Wealth is at the centre of contemporary anthropology. Ethnographers study billio
 - Malinowski, Bronisław. *Argonauts of the Western Pacific*. 1922.
 - Mauss, Marcel. *The Gift*. 1925.
 - Sahlins, Marshall. *Stone Age Economics*. 1972.
-- Bourdieu, Pierre. *Distinction: A Social Critique of the Judgement of Taste*. 1979.
+- Bourdieu, Pierre. *Distinction: A Social Critique of the Judgement of Taste*. 1984. First published in French, 1979.
+- Bourdieu, Pierre. "The Forms of Capital." In *Handbook of Theory and Research for the Sociology of Education*, edited by John G. Richardson. 1986.

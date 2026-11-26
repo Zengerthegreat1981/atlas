@@ -7,7 +7,7 @@ title: "Luc Boltanski"
 en: "Luc Boltanski"
 crumb: "Sociology ← Thinkers ← Luc Boltanski"
 dates: "France · born 1940"
-active_start: 1991
+active_start: 1966
 active_end: "مستمر"
 country: "France"
 language: "French"
@@ -24,7 +24,7 @@ A French sociologist, one of the founders of "pragmatic sociology" (or the socio
 
 ## Central Idea
 
-With Laurent Thévenot, in *On Justification: Economies of Worth* (De la justification: Les économies de la grandeur, 1991), Boltanski developed a theoretical framework alternative to Bourdieu's critical sociology. It assumes that social actors are not merely passive bearers of a class habitus but are capable of critical justification and of entering disputes about "justice" by appealing to multiple "worlds" or "cities" (Cités) for evaluating worth (civic, industrial, market, domestic, fame, inspiration). Later, with Ève Chiapello in *The New Spirit of Capitalism* (1999), he analyzed how capitalism absorbed the artistic and social critique directed at it after 1968 by adopting a new "projective city" (rendered in the English edition as a "connexionist world") that justifies the flexibility and instability of work in the name of the very values that had criticized it.
+With Laurent Thévenot, in *On Justification: Economies of Worth* (De la justification: Les économies de la grandeur, 1991), Boltanski developed a theoretical framework alternative to Bourdieu's critical sociology. It assumes that social actors are not merely passive bearers of a class habitus but are capable of critical justification and of entering disputes about "justice" by appealing to multiple "worlds" or "cities" (Cités) for evaluating worth (civic, industrial, market, domestic, fame, inspiration). Later, with Ève Chiapello in *The New Spirit of Capitalism* (1999), he analyzed how capitalism absorbed the artistic and social critique directed at it after 1968 by adopting a new "projective city", suited to a "connexionist" world, that justifies the flexibility and instability of work in the name of the very values that had criticized it.
 
 ## Historical Context
 
@@ -44,7 +44,7 @@ Critics from the Bourdieusian tradition and other critical theorists treated thi
 
 ## Major Works
 
-Besides *On Justification* (1991) and *The New Spirit of Capitalism* (1999), Boltanski wrote other prominent works over his long career, including *Love and Justice as Competences* (L'Amour et la justice comme compétences, 1990), which analyzes the logic of love as an order of worth independent in itself and not subject to the logic of public justification, and *On Critique: A Sociology of Emancipation*, which represents his most mature attempt to synthesize his entire intellectual project. His work is widely cited in French and international economic and political sociology as an attempt to move beyond deterministic structural critique without abandoning sociology's critical ambition.
+Besides *On Justification* (1991) and *The New Spirit of Capitalism* (1999), Boltanski wrote other prominent works over his long career, including *Love and Justice as Competences* (L'Amour et la justice comme compétences, 1990), which analyzes the logic of love as a regime of action (agape) that lies outside the logic of public justification, and *On Critique: A Sociology of Emancipation*, which represents his most mature attempt to synthesize his entire intellectual project. His work is widely cited in French and international economic and political sociology as an attempt to move beyond deterministic structural critique without abandoning sociology's critical ambition.
 
 ## Sources
 

@@ -36,6 +36,7 @@ Critics have argued that Weber's model neglects the informal organization, confl
 
 - Weber, Max. *Economy and Society*. Edited by Guenther Roth and Claus Wittich. University of California Press, 1978 (German original 1922).
 - Merton, Robert K. "Bureaucratic Structure and Personality." *Social Forces* 18(4), 1940, pp. 560–568.
+- Michels, Robert. *Political Parties*. German original 1911.
 - Selznick, Philip. *TVA and the Grass Roots*. University of California Press, 1949.
 - Gouldner, Alvin W. *Patterns of Industrial Bureaucracy*. Free Press, 1954.
 - Blau, Peter M. *The Dynamics of Bureaucracy*. University of Chicago Press, 1955.
@@ -43,3 +44,4 @@ Critics have argued that Weber's model neglects the informal organization, confl
 - Lipsky, Michael. *Street-Level Bureaucracy*. Russell Sage Foundation, 1980.
 - Bauman, Zygmunt. *Modernity and the Holocaust*. Cornell University Press, 1989.
 - Du Gay, Paul. *In Praise of Bureaucracy*. Sage, 2000.
+- Graeber, David. *The Utopia of Rules*. Melville House, 2015.

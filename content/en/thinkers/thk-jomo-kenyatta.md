@@ -38,7 +38,7 @@ The book's method was as significant as its argument. Colonial ethnography had b
 
 ## Influence and Critique
 
-*Facing Mount Kenya* is now taught as a founding text of African anthropology and of the anthropology of decolonisation. It showed that an African scholar could master the discipline's methods and turn them against the colonial order that had produced them,, and it anticipated later arguments for African authorship of African anthropology. The book's defence of Kikuyu land rights also became a reference point in Kenyan political debate, and its account of Kikuyu society remains a key source for historians of Kenya.
+*Facing Mount Kenya* is now taught as a founding text of African anthropology and of the anthropology of decolonisation. It showed that an African scholar could master the discipline's methods and turn them against the colonial order that had produced them, and it anticipated later arguments for African authorship of African anthropology. The book's defence of Kikuyu land rights also became a reference point in Kenyan political debate, and its account of Kikuyu society remains a key source for historians of Kenya.
 
 Its defence of female initiation, including the practice of clitoridectomy, has been especially controversial. Critics have also noted that Kenyatta's portrait of Kikuyu society is idealised: he presents a unified, harmonious culture and says little about internal inequality, conflict, or the extensive adaptations Kikuyu society had already made to European presence. The book's defensive purpose — to vindicate Kikuyu institutions against colonial attack — led him to smooth over diversity and change. Later readers have also noted the tension between the book's celebration of Kikuyu particularity and Kenyatta's later presidential rhetoric of Kenyan national unity, which sometimes sat uneasily with the ethnic loyalties his early work had defended.
 
@@ -47,8 +47,8 @@ These criticisms do not diminish the book's historical importance. *Facing Mount
 ## Sources
 
 - Kenyatta, Jomo. *Facing Mount Kenya: The Tribal Life of the Gikuyu*. Secker and Warburg, 1938.
-- Kenyatta, Jomo. *My People of Kikuyu and the Life of Chief Wangombe*. London, 1942.
-- Malinowski, Bronisław. Preface to Kenyatta, *Facing Mount Kenya*. Secker and Warburg, 1938.
+- Kenyatta, Jomo. *My People of Kikuyu and the Life of Chief Wangombe*. United Society for Christian Literature, 1942.
+- Malinowski, Bronisław. Introduction to Kenyatta, *Facing Mount Kenya*. Secker and Warburg, 1938.
 - Murray-Brown, Jeremy. *Kenyatta*. George Allen and Unwin, 1972.
 - Berman, Bruce, and John Lonsdale. *Unhappy Valley: Conflict in Kenya and Africa*. James Currey, 1992.
 - Ogot, Bethwell A., and William R. Ochieng', eds. *Decolonization and Independence in Kenya, 1940–93*. James Currey, 1995.

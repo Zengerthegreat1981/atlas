@@ -24,11 +24,11 @@ gaps: []
 
 # The Gift: Forms and Functions of Exchange in Archaic Societies
 
-Marcel Mauss's *Essay on the Gift* stands as the foundational text for economic anthropology and a profound challenge to Western assumptions about exchange, value, and social obligation. Originally published in French in 1923-24 (*Essai sur le don*), it became the intellectual bedrock for understanding how non-market societies structure economic relations through gift-giving. Mauss demonstrated that gift exchange is not an economic transaction divorced from social relations—it is the mechanism through which societies reproduce kinship, alliance, status, and political power.
+Marcel Mauss's *Essay on the Gift* stands as the foundational text for economic anthropology and a profound challenge to Western assumptions about exchange, value, and social obligation. Originally published in French in 1923-24 (*Essai sur le don*), it became the intellectual bedrock for understanding how non-market societies structure economic relations through gift-giving. Mauss argued that gift exchange is not an economic transaction divorced from social relations—it is the mechanism through which societies reproduce kinship, alliance, status, and political power.
 
 ## Publication & Context
 
-Mauss published the original "Essai sur le don" in 1923-24 in the *Année Sociologique* (new series, vol. 1), responding to debates within Durkheimian sociology about the nature of reciprocity and obligation. The English translation by Ian Cunnison (1954) made the work accessible to Anglophone anthropology, where it profoundly influenced the theoretical direction of the discipline. Mauss wrote in the context of early British and French ethnography—particularly Malinowski's studies of the Kula exchange and Boas's work on the potlatch. His essay synthesized evidence from multiple ethnographic areas (Polynesia, Melanesia, Northwest Coast North America) and from ancient Roman, Indian and Germanic law to argue that gift exchange embodies a social logic different from that of market exchange. The work emerged during a period when economic anthropology was nascent, and Mauss sought to demonstrate that economics cannot be understood apart from kinship, ritual, and politics.
+Mauss published the original "Essai sur le don" in 1923-24 in the *Année Sociologique* (new series, vol. 1), responding to debates within Durkheimian sociology about the nature of reciprocity and obligation. The English translation by Ian Cunnison (1954) made the work accessible to Anglophone anthropology, where it profoundly influenced the theoretical direction of the discipline. Mauss wrote in the context of the ethnography of his time—particularly Malinowski's studies of the Kula exchange and Boas's work on the potlatch. His essay synthesized evidence from multiple ethnographic areas (Polynesia, Melanesia, Northwest Coast North America) and from ancient Roman, Indian and Germanic law to argue that gift exchange embodies a social logic different from that of market exchange. The work emerged during a period when economic anthropology was nascent, and Mauss sought to demonstrate that economics cannot be understood apart from kinship, ritual, and politics.
 
 ## Main Arguments & Thesis
 
@@ -44,7 +44,7 @@ Mauss demonstrates this through analysis of potlatch among Northwest Coast peopl
 
 **Total Prestation**: Mauss argues that gifts are "total"—they engage the entire person and society, not just economic exchange. A gift includes the giver's honor, spiritual force, and kinship status. This holistic view challenges economic reductionism and has become foundational to practice theory and theories of personhood in anthropology.
 
-**Hau (Maori concept of gift essence)**: Mauss relied on an account recorded by the ethnographer Elsdon Best, in which the Maori informant Tamati Ranaipiri explained that the *hau* (spirit) of a gift obliges the recipient to return something. Marshall Sahlins ("The Spirit of the Gift", 1972) and others have argued that Mauss misread this text, and the interpretation remains debated.
+**Hau (Maori concept of gift essence)**: Mauss relied on an account recorded by the ethnographer Elsdon Best, in which the Maori informant Tamati Ranapiri explained that the *hau* (spirit) of a gift obliges the recipient to return something. Marshall Sahlins ("The Spirit of the Gift", 1972) and others have argued that Mauss misread this text, and the interpretation remains debated.
 
 ## Ethnographic & Theoretical Evidence
 
@@ -54,7 +54,7 @@ He also analyzes Polynesian and Melanesian gift exchange systems, including Samo
 
 ## Impact on Anthropology
 
-Mauss's *Essay on the Gift* became the foundational text for economic anthropology and influenced every subsequent theoretical development in the field. Marshall Sahlins drew on Mauss in his work on reciprocity in *Stone Age Economics* (1972), where he distinguishes generalized, balanced and negative reciprocity, and which also contains his critical essay on the hau. The substantivist tradition associated with Karl Polanyi likewise stressed that economic life in many societies is embedded in social relations.
+Mauss's *Essay on the Gift* became the foundational text for economic anthropology and has had a lasting influence on the field. Marshall Sahlins drew on Mauss in his work on reciprocity in *Stone Age Economics* (1972), where he distinguishes generalized, balanced and negative reciprocity, and which also contains his critical essay on the hau. The substantivist tradition associated with Karl Polanyi likewise stressed that economic life in many societies is embedded in social relations.
 
 The work profoundly influenced kinship theory: Lévi-Strauss developed Mauss's insights into a theory of marriage as exchange in *Elementary Structures of Kinship*, arguing that women are the supreme gift in kinship systems and that marriage rules are forms of generalized gift exchange. Contemporary feminist anthropology has critiqued this reduction of women to gifts, but the fundamental insight that kinship involves obligatory exchange derives from Mauss.
 

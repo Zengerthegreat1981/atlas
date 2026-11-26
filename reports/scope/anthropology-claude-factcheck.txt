@@ -1,0 +1,452 @@
+br-anthropology-of-religion-subfield: Durkheim relied on published ethnography, not own study of Australians; Balinese cockfight no longer presented as a religious ritual
+br-economic-anthropology-subfield: ethnography of financial markets: added Chicago and named Zaloom and Ho with sources
+br-kinship-studies-subfield: softened Morgan as 'effectively the founder'; credited Kath Weston for work on gay and lesbian kinship
+br-political-anthropology-subfield: Leach's affiliation wording fixed; Gupta essay formatted as article; added missing cited works to Sources; softened 'founded the field'
+br-urban-anthropology-subfield: attributed 'global city' to Sassen; 'refutes' softened; added source
+con-adaptation: Steward's cultural ecology and irrigation comparison reworded as his argument, not demonstrated fact
+con-age-grade: term corrected to ilmurran/moran; universality claim softened; added Gulliver's Turkana age-organisation article
+con-age-set: Nuer age-sets do not move through warrior/elder grades; The Family Herds is about livestock rights, not age-set division of labour; moran term
+con-animism: Hallowell's Ojibwe were on the Berens River, Manitoba, not the Great Lakes; jaguar/manioc beer example attributed to Viveiros de Castro's perspectivism
+con-animism-tylor: softened claims that Tylor 'replaced' Müller and founded armchair anthropology
+con-architecture: Bourdieu's Kabyle house essay dated (written before Outline)
+con-asymmetric-alliance: Needham 'Prescription' is Oceania vol. 43; removed unsupported claim about Leach's later position; added Needham 1962
+con-asymmetric-alliance: covered gap on Weil's algebraic appendix
+con-assimilation: covered gap on assimilation and religious identity
+con-barter-trade: softened unsupported claim that development projects often fail
+con-belief-system: Azande publisher corrected to Clarendon Press
+con-bilateral-kinship: corrected account of Schneider's American Kinship (substance and code; diffuse enduring solidarity)
+con-biogenetic-versus-cultural-kinship: corrected American Kinship's law/code category, conception-belief example, scope of milk kinship; softened 'revolution'
+con-biogenetic-versus-cultural-kinship: covered gap on Schneider's Yap fieldwork
+con-blessing: removed unsupported attributions to Durkheim and Mauss about blessings
+con-brideprice: Goody's bridewealth/dowry contrast restated in terms of agricultural systems; Fortes title fixed
+con-brideservice: Lee's 1984 book title corrected to The Dobe !Kung; Murdock residence claim softened
+con-chieftaincy: corrected wording of Ghana 1992 constitutional guarantee; noted replacement of South African 2003 Act
+con-citizenship: Acts of Citizenship identified as a volume edited by Isin and Nielsen
+con-citizenship: covered gap on digital citizenship and data rights
+con-clan: corrected Nuer segmentary account (territorial segments, not clans, as political units); diacritics
+con-classification: restored diacritics in Lévi-Strauss and Émile Durkheim
+con-cognatic: corrected claim that Lévi-Strauss's Elementary Structures theorised cognatic descent; trimmed unsupported gloss on Schneider
+con-colonialism-psychology: Fanon wrote Black Skin, White Masks before moving to Algeria; publication details of Fanon's books fixed; softened 'the founding text'
+con-colonialism: covered gap on colonialism and the environment
+con-communitas: Turner did not coin the Latin word communitas (adopted it); softened claim that he acknowledged a debt to Durkheim's collective effervescence
+con-conflict: Rituals of Rebellion is a single Frazer Lecture (delivered 1952), not collected essays; Simmel source given as 'Der Streit' in Soziologie
+con-consensus: Freeman essay publication fixed (Berkeley Journal of Sociology 1972; Ms. version 1973); softened claim attributing a consensus requirement to Clastres
+con-cosmology: corrected title/publisher of Eliade's 1954 English edition
+con-craft: repaired garbled sentence on gendered control of commercialised crafts
+con-credit: corrected publication history of Mauss's essay
+con-creolization: softened claim that creole languages simply combine African grammars with European vocabularies
+con-cultivation: corrected summary of Conklin's Hanunóo findings; tied gender argument to Boserup's 1970 book and added it to Sources
+con-cultural-pluralism: Kallen's 1915 essay did not coin the term (first used in print 1924); orchestra metaphor belongs to 1915 essay; removed claim of Boas as Kallen's foundation (William James added); fixed Taylor edition note
+con-cultural-relativism-boas: softened overclaims about Boas as 'founder' and 'founding text'
+con-cultural-resistance: softened position attributed to Duncombe
+con-culture-nature: corrected Lévi-Strauss on the incest taboo (universality plus rule, not 'universal aversion'; from Elementary Structures, added to Sources); softened overclaims
+con-currency: clarified Tiv sphere of rights in people; removed invented banknote/bride example and restated Parry and Bloch's two transactional orders; adjusted claim about Dalton's reader
+con-curse: added Douglas's 1970 edited volume to Sources
+con-dance: softened unsupported specific positions attributed to Royce, Kaeppler and Turner
+con-decolonial-data-sovereignty: corrected original publisher of Walter and Andersen, Indigenous Statistics
+con-democracy-direct: repaired garbled sentence on Athenian exclusions; restated Ober's argument; softened claim on prevalence from Altman
+con-democracy: corrected 'segmentary councils of the Tallensi'; softened claim on pre-state democracy
+con-descent-theory: separated Leach's empirical critique (Pul Eliya 1961, added to Sources) from alliance theorists; restated Kuper 1982 conclusion; removed duplicated alliance paragraph; 'a founding text'
+con-diaspora: Gulf migration is later than the late-19th-century Arab emigration; wording fixed
+con-disability-anthropology: softened 'leading figures', 'three decades' and description of Kasnitz and Shuttleworth 2001
+con-divination: Ndembu divination study is Turner's 'Ndembu Divination' (1961), not The Forest of Symbols; Sources updated
+con-divorce: corrected overgeneralisation on divorce in Christian Europe (Catholic indissolubility; English parliamentary divorce before 1857); softened no-fault spread
+con-domestication: separated later dating of independent domestication from Childe's account; softened summary of Zeder 2008
+con-dowry: corrected Stein 1988 article title; removed invented-looking claim that Miller called dowry an unbreakable cycle; softened attributions to Stein and on origins of dahej
+con-ecstasy: Bourguignon's 488-society figure belongs to her 1973 edited volume, not Possession (1976); Sources updated; softened Pentecostal growth claim
+con-endogamy: removed unsupported specific argument attributed to Béteille
+con-epistemology: noted that the Latin formula cogito ergo sum is not from the Meditations
+con-descent-theory: active_end changed from ongoing to 1970, matching the period the entry describes
+con-ethnicity: removed misattribution to Cohen of the claim about West African migrants "living in two worlds"
+con-exogamy: corrected origin of comparative study of exogamy (McLennan coined the term, 1865) and added source
+con-exogamy: softened account of Needham's 1971 edited volume
+con-fishing: gave correct fieldwork dates for Firth's Malay study (1939-40)
+con-fishing: corrected archaeological chronology of middens, hooks and nets
+con-fishing: softened claim that fishery resources belong in law to no one
+con-fostering: removed unsupported claim about circulation between chiefly and commoner families
+con-fostering: fixed redundant list of regions
+con-gender-kinship-intersection: corrected inaccurate criticism that early theorizing focused on Western societies
+con-gender-kinship-intersection: added Carsten source cited in text
+con-genocide: corrected scope of Fein's Accounting for Genocide (Jewish victimisation across European states, not twentieth-century case comparison)
+con-gift-economy: fixed garbled opening sentence on Mauss
+con-gift-economy: fixed garbled sentence on named kula valuables
+con-gift-economy: corrected account of Weiner (own Trobriand fieldwork; keeping-while-giving, not a claim that Mauss missed the picture)
+con-gift-economy: softened Graeber summary
+con-gift-economy: removed unsupported attribution of colonial critique to Global South researchers
+con-gift: removed spurious argument drawn from the French title of Mauss's essay
+con-globalization: corrected Sassen birth year (1947, not 1949)
+con-globalization: added The Global City source
+con-gossip: corrected material Gluckman drew on (review of Colson's Makah study, not southern African fieldwork)
+con-healing: repaired truncated disease/illness distinction; dissociated 'sickness' formulation from Kleinman's two-term distinction
+con-healing: corrected Azande location
+con-hegemony: corrected claim that Orientalism argued anthropology built the hegemony
+con-hegemony: added sources for works cited in text (Said 1989, Scott 1990)
+con-herbalism: removed overclaim that Schultes established ethnobotany; widened scope of Plants of the Gods
+con-herbalism: corrected summary of Hsu (modes of transmission, not lineage differences over a plant)
+con-herding: softened summary of Humphrey and Sneath
+con-heritage: dated Highland dress and ceremonial inventions to eighteenth and nineteenth centuries
+con-heritage: corrected paraphrase of Smith (discourse about heritage, not about the past)
+con-heritage: Parthenon Marbles were removed under Ottoman, not colonial, rule
+con-hierarchy: softened claim that Fried tied hierarchy to settled agriculture
+con-history-collective: replaced 'founded' with accurate attribution of the concept to Halbwachs
+con-history-collective: removed Rwanda from truth-and-reconciliation commission example
+con-homeland: noted that Anderson's census/map/museum discussion belongs to the 1991 revised edition
+con-honor: corrected field sites represented in Peristiany's volume (no Italy); softened 'founded'
+con-honor: corrected Stewart's theory (honor as a right to respect, drawing on Sinai Bedouin)
+con-hunting: fixed implication that dogs were introduced by colonial contact
+con-identity-politics: described Combahee River Collective accurately (Black feminists, many lesbian); intersectionality precursor rather than founding text
+con-identity-politics: softened attribution to Bernstein's review
+con-imperialism: softened overgeneralisation on colonial funding of ethnography
+con-imperialism: softened claim that Gallagher and Robinson shaped anthropologists' views
+con-informal-economy: specified Hart's fieldwork (Frafra migrants in Accra, 1960s) and 1971 conference paper
+con-inheritance-property: corrected claim that Goody founded the anthropology of inheritance
+con-inheritance: reworded Morgan's contribution and added Ancient Society
+con-inheritance: corrected Fortes's Tallensi fieldwork dates (1934-37) and removed incorrect claim of gradual transfer to sons
+con-inheritance: repaired run-on sentence contrasting Africa and Eurasia
+con-integration: described anomie as weakening of normative regulation rather than of integration
+con-integration: corrected dating of Parsons's four functional problems (1950s AGIL work, not The Social System) and added source
+con-integration: softened overclaims on research findings about migrant integration
+con-justice: softened overclaim on prevalence of informal justice systems
+con-kinship-political-economy: removed 'women as economic burden' wording attributed to Boserup; stated her contrast in terms of women's field labour
+con-kinship-theory: removed claim that Morgan was the sole starting point
+con-kinship-theory: corrected garbled account of Radcliffe-Brown and Fortes
+con-kinship-theory: softened 'reciprocal marriage' wording
+con-kinship-theory: corrected Leach's argument (Pul Eliya) and added source
+con-kinship-theory: relabelled Barth's critique as transactionalist and separated his general argument from its application to kinship
+con-kinship-theory: removed 'postmodern' label from Carsten
+con-kinship-universals: added Roman Egypt exception to sibling-marriage statement
+con-kinship-universals: reworded Passmore and Jordan finding
+con-kinship: removed overclaim that kinship study founded modern anthropology
+con-kinship: corrected summary of Schneider's American Kinship symbols
+con-kinship: removed Radcliffe-Brown from claim that kinship was assumed to rest on biology
+con-informal-economy: active_start corrected from 2010 to 1971 (Hart's paper)
+con-kula-exchange: 'first documented' softened; potlatch/kula 'cooperative vs competitive' contrast corrected; Mauss framing and overclaims toned down; Halls translation title fixed; added short later-research section (Weiner, Leach & Leach, Munn); doubtful Godelier gap wording fixed
+con-labor-division: softened claims on earliest societies and African farming
+con-land-tenure: removed unsupported 'much rarer' claim
+con-law: softened unverifiable 'most disputes' claim
+con-levirate: Nuer levirate corrected (widow remains wife of the dead man); levirate vs widow inheritance distinction was reversed/garbled, fixed; softened Murdock association
+con-liberation: Freire publication date clarified
+con-liminality-communitas: added Turner's third form (ideological communitas); softened 'corresponds precisely' on hajj
+con-liminality: quotation attribution fixed ('neither here nor there' is from The Ritual Process); liminoid distinction attributed to 1974 essay and From Ritual to Theatre (1982)
+con-lineage: attributed 'matrilineal puzzle' formulation to Audrey Richards (1950)
+con-magic: Frazer no longer called 'founding' theory; Azande granary explanation attributed to witchcraft (magic/oracles as response)
+con-marriage-rules: exogamy moved from positive to negative rules (endogamy added); Needham's prescriptive/preferential argument re-attributed to Structure and Sentiment (1962), 1971 volume described correctly
+con-material-agency: removed 'social biography' (Kopytoff's idea) from Gell; stated Gell's primary/secondary agent distinction
+con-matrilineal: added Kathleen Gough as co-editor in body
+con-mestizaje: removed unneeded birth year for Wade; softened 'demonstrated'; narrowed description of Miller's 2004 book
+con-metalwork: softened claims on independent origins and revised early metallurgy dates
+con-modernity: Holocaust argument re-attributed to Modernity and the Holocaust (1989); 'reflexive modernity' no longer attributed to Habermas; 'multiple modernities' attribution clarified
+con-moiety: softened priority claim and over-general funeral rule
+con-moka-hagen-exchange: 'dividual' credited to McKim Marriott, adopted by Strathern
+con-monarchy: Shilluk regicide: noted Evans-Pritchard's doubt; devaraja description corrected
+con-monogamy: definition no longer limited to one man and one woman; Murdock proportion corrected (under a fifth) and unsupported attribution removed; Goody thesis restated; Henrich et al. argument no longer presented as a revival of paternity-certainty theory
+con-monotheism: added source for Assmann's 'Mosaic distinction' (Moses the Egyptian, 1997)
+con-multiculturalism: Canada policy date added; Kymlicka's national minority vs immigrant rights distinction corrected; date of European 'failure' statements refined
+con-narrative: softened Kaluli genre claim to what the ethnography supports
+con-nationalism: invention-of-tradition examples attributed to Trevor-Roper and Cannadine chapters; date range corrected for tartans
+con-neocolonialism: removed unverified claim that Nkrumah drew on Prebisch/dependency theory; restated as parallel
+con-oral-tradition: Vansina's work on oral history dated from 1961 (French) and 1965 (English), not only 1985
+con-oratory: Rosaldo's Ilongot oratory article is Language in Society 2 (1973), not 11 (1982); softened Pacific generalisation; attributed Merina argument to Bloch
+con-patrilineal-descent: corrected claim that a wife loses membership in her father's group; Murphy and Kasdan analysed rather than documented FBD marriage; softened Needham/Leach claim; added cited sources
+con-patrilineal: cognatic descent is not a unilineal principle
+con-peace-building: Galtung not sole founder; structural violence and positive peace dated to 1969; post-liberal peace attributed to Richmond's 2011 book rather than 2005
+con-peace: Galtung's 1969 essay did not found peace research; removed !Kung as a nonviolence example (homicide documented ethnographically)
+con-performance: social drama dates to Turner 1957, not later work; "restored behaviour" is Schechner 1985; softened founder claim and ritual-origin-of-theatre claim; added cited sources
+con-phratry: clan defined by claimed (not necessarily traced) ancestry; Fison and Howitt's Australian divisions are mainly moiety-type; Iroquois condolence performed by the non-mourning phratry
+con-poetry: naqa'id identified as the classical (Umayyad-era) exchanges of Jarir and al-Farazdaq, not a general present-day Arab practice
+con-polyandry: evolutionary-survival view belongs to McLennan, not Westermarck; corrected Starkweather and Hames findings and the role of monasticism
+con-polygyny: female-farming thesis attributed to Boserup with Goody's qualification; corrected White and Burton (1988) findings
+con-polytheism: removed overattribution to Durkheim about pantheons; Frazer removed from animism-polytheism-monotheism sequence; softened 'fullest account' and Hinduism characterisation
+con-postmarital-residence: Trobriand residence corrected (boys grow up in father's village, married men usually move avunculocally); softened Murdock founder claim
+con-postmodernity: term predates Lyotard; removed 'named that condition first'; added Writing Culture source
+con-potlatch: added Kwakwaka'wakw name; museums returned confiscated items to communities and their cultural centres, not original families
+con-pottery: potter's wheel dated to fourth millennium BCE rather than c. 5,000 years ago; softened definition claim
+con-practice-theory-anthropology: added cited Giddens 1979 to Sources
+con-prayer: removed claims that Durkheim made prayer central and called private prayer a residue of collective ritual; marked Malinowski, Geertz and Asad applications to prayer as extensions; softened survey claim
+con-profane: corrected misreading of Douglas (pig anomaly is not 'profane'); rewrote Asad paragraph to his actual arguments; removed unsupported Benedict claim on Japanese work/ritual; tightened Ndembu and Bali examples
+con-property: softened claim that Hann volume's ethnographers collectively showed post-socialist privatisation confusion
+con-protest: softened origin claim about the modern study of protest
+con-public-sphere: removed claim that Habermas's book was largely ignored outside Germany before 1989
+con-reconciliation: Rwanda did not adopt the South African TRC model; removed it from the list
+con-revolution: Brinton 1938 publisher corrected to W. W. Norton
+con-ritual: corrected efficacy paragraph that misrepresented Catholic and Hindu understandings; redated functionalism; added Forest of Symbols to Sources
+con-sacred: softened overclaims (Western epistemology consensus, Eliade scope, postcolonial 'shown'); added cited Negara and Forest of Symbols to Sources
+con-sacrifice: Hubert and Mauss essay dated 1899 (English 1964), not 1898
+con-savings: removed unsupported attribution to Boserup about stored food; tightened Scott's subsistence-ethic claim
+con-secret-societies: removed claim misattributed to Mary Douglas about restricted knowledge
+con-segmentary-lineage-system: Sahlins 1961 described as reinterpretation rather than critique of structural order; softened Ibn Khaldun 'anticipated' claim
+con-segregation: Schelling no longer grouped as anthropologist/sociologist
+con-sensory-anthropology: softened founder/founding-text/most-important claims and unverified design influence
+con-shamanism: Shipibo kene designs attributed to women artists, not painted visions of the shaman
+con-shamanism: softened placebo/founding-text claim; added Hamayon 1990 to Sources
+con-social-movements: Snow et al. 1986 restated as frame-alignment analysis rather than a demonstrated success condition
+con-social-network: softened Milgram small-world finding
+con-social-reproduction: dated English translation of Bourdieu and Passeron (1977)
+con-sorcery: Azande location made precise; softened oracle and 'the model' claims
+con-sororate: softened 'first described systematically' and generalisation that sororate is usually a right
+con-state: corrected Service 1975 account (sequence predates it; irrigation emphasis removed); softened 'most influential' Carneiro
+con-structural-opposition: replaced examples attributed to Derrida's Of Grammatology with ones he actually analyses
+con-structural-violence-definition: Galtung described as sociologist/peace researcher, not political scientist
+con-structural-violence-definition: added Farmer, Infections and Inequalities (1999)
+con-symbol: corrected Turner mudyi meanings; condensation attributed to Turner after Sapir (removed muddled sign/symbol contrast)
+con-symbol: softened evolutionist and 'demonstrated' overclaims; dated Geertz essay 1966; added Durkheim to Sources
+con-syncretism: Bastide 1960 given its French title; English title dated 1978
+con-taboo: corrected account of Steiner's Taboo (1956)
+con-theocracy: removed theocracy/hierocracy definitions and theocratic-formation claim over-attributed to Weber
+con-tool: Leroi-Gourhan French publication 1964–65
+con-totemism: corrected Frazer's position (he held totemism and exogamy distinct in origin); added McLennan as early theorist
+con-tradition-innovation: corrected Dorson's position on fakelore
+con-tradition-innovation: kilt invention dated from eighteenth century onward
+con-tradition: kilt invention dated from eighteenth century onward; softened 'fullest treatment'
+con-trance: Lewis 1971 subtitle corrected to first-edition form
+con-universal-particular: removed duplicated name 'Franz Franz Boas'
+con-universal-particular: corrected Geertz 1984 argument (not a reply to Herskovits); Herskovits relativism linked to Man and His Works (1948), added to Sources
+con-usufruct: corrected origin of 'bundle of rights' view
+con-usufruct: added Netting, Balancing on an Alp (1981), cited in text, to Sources
+con-violence: softened 'central example' and 'introduced' continuum-of-violence claims
+con-visual-art: Way of the Masks dated French 1975 / English 1982
+con-visual-art: Parthenon sculptures no longer described as taken under colonial rule only
+con-voting: corrected 2011 UK referendum (alternative vote, not proportional representation)
+con-voting: Lijphart 1984 consensus examples corrected to Switzerland and Belgium; Duverger English date 1954
+con-voting: fixed implausible seats-votes example
+con-war: corrected Keeley's argument; 'war made the state' formula dated to Tilly 1975 and added to Sources
+con-wealth: removed unsupported attribution of fear about money to Mauss
+con-wealth: dated English Distinction (1984); added Bourdieu 'The Forms of Capital' (1986) to Sources
+con-weaving: softened earliest-weaving and Luddite claims
+con-witchcraft: corrected Lévy-Bruhl (philosopher; 'pre-logical' referred to 'primitive' thought generally); softened 'demolished'
+dbt-anthropology-militarization: HTS dated mid-2000s to 2014; softened 'contemporary peak'
+dbt-care-work-value-capitalism-recognition: added short section on domestic labour debate and care pay penalty, with sources
+dbt-development-anthropology-critique: named Thaba-Tseka project; softened superlative
+dbt-positionality-reflexivity-fieldwork: softened overgeneralised claims
+dbt-substantivism-formalism-economic-anthropology: George Dalton identified as economist
+con-division-labor: replaced placeholder template (translator notes) with a concise sourced entry; gap covered
+thk-abdalla-salem: removed placeholder template and unverifiable birth year; made explicit stub
+thk-akira-fujii: removed placeholder template and unverifiable birth year; made explicit stub
+fld-anthropology: Kuper Anthropology and Anthropologists dated to 1983 revised edition (not 1973)
+sch-anthropological-political-economy: Mexico research was not part of the Steward Puerto Rico project; softened world-system link
+sch-applied-anthropology-development: corrected Ferguson project description (not a solely World Bank livestock project); added Colson; softened Cernea causal claim
+sch-applied-anthropology-expanded: Fox Project dated from late 1940s; softened overclaim
+sch-boasian-cultural-relativism: fixed garbled Benedict comparison (Zuni, Dobu, Kwakwakawakw); credited George Hunt and named Kwakwala; softened overclaims
+sch-british-functionalism: softened founder and superlative claims
+sch-classical-evolutionism: corrected Morgan fieldwork note; softened Darwin dependence and overclaims
+sch-cognitive-anthropology: corrected Goodenough quotation; removed unsupported Chomsky-Boas synthesis claim; added sources
+sch-cultural-ecology: Evolution and Culture is an edited volume; fixed Steward career sequence; Harris not described as Steward student; added sources
+sch-descent-theory: added Fortes 1949 to Sources
+sch-digital-anthropology: removed Horst from UCL programme association; softened superlative
+sch-economic-anthropology-expanded: softened first/founder claims
+sch-ethnography-of-communication: removed doubtful claim about North American case base; added Bauman and Sherzer to Sources
+sch-feminist-anthropology: added cited works to Sources; softened superlative
+sch-kinship-systems-comparative: fixed pronoun for Fortes and Evans-Pritchard; added cited works to Sources
+sch-linguistic-anthropology-expanded: softened claims; added cited works to Sources
+sch-malinowskian-functionalism: corrected wartime-confinement account and 1922 publisher; removed unsupported term functional holism
+sch-manchester-school: removed Worsley from central African fieldworkers; added Malawi; corrected RLI note; credited van Gennep for liminality; softened overclaims
+sch-medical-anthropology: softened origin account and superlative; added cited works to Sources
+sch-ontological-turn: corrected term attributed to Holbraad and framing of Todd critique; removed unverifiable claim; added sources
+sch-postcolonial-critique-anthropology: removed British nationality label and unsupported Boas-students example; qualified description of 1973 volume; added sources
+sch-psychological-anthropology: corrected subtitle of Children of Six Cultures; added Wikan to Sources
+sch-queer-anthropology: corrected Gay Archipelago subtitle; softened founding and superlative claims; added sources
+sch-radcliffe-brown-structural-functionalism: dated Andaman and Western Australia fieldwork in correct order; Evans-Pritchard and Fortes not described as Radcliffe-Brown direct students
+sch-structural-violence-health: Scheper-Hughes not co-developer of structural violence; Farmer co-founded Partners In Health; softened unverified claims
+sch-urban-anthropology-expanded: Park's 'The City' dated to 1915 (revised 1925); softened first-synthesis and multi-sited-invention claims; added Simone and Pink to Sources
+sch-writing-culture-crisis: Geertz's 1988 book followed Writing Culture, so 'paved the way' changed to 'reinforced'; added Abu-Lughod to Sources
+scl-aging-anthropology: Keith's Old People, New Lives studies a French (not US) retirement residence; Clark and Anderson is a San Francisco study, not cross-societal; Danely topic and de Beauvoir English date corrected
+scl-archaeology-anthropology: Renfrew died 2024; softened Pitt Rivers 'established stratigraphic excavation' and Childe 'first theory'
+scl-biocultural-anthropology: Gravlee's blood-pressure fieldwork was in Puerto Rico, not among African Americans; high-altitude volume scope corrected
+scl-childhood-anthropology: removed unsupported claim that anthropology of childhood supplied arguments for the 1989 Convention; Ariès restated as argument; added cited works to Sources
+scl-cognitive-anthropology: start date corrected to 1950s; consensus analysis co-authors added; softened Levinson claim
+scl-colonial-anthropology: corrected Radcliffe-Brown's South African and fieldwork account; softened 'founded' and 'did most' claims; added cited works to Sources
+scl-ecological-anthropology: Tsembaga ritual cycle described as timing warfare and truce, not ending warfare; Steward irrigation comparison reworded
+scl-education-anthropology: Ogbu's 1978 book used caste-like/immigrant minorities (voluntary/involuntary terms later); Wolcott's fieldwork was one year; removed unconfirmed John Whiting attendance; credited Fordham for 'acting white'
+scl-environmental-anthropology: softened overclaims on local knowledge and textbook status; added Blaikie and Brookfield to Sources
+scl-ethnoarchaeology: softened 'founding text'; corrected description of Gould's fieldwork base
+scl-ethnoastronomy: Skywatchers (2001) identified as revised edition of the 1980 book, not a separate work; UNESCO claim made precise
+scl-ethnobiology: softened Ellen 'most sustained critique'; added Posey to Sources
+scl-ethnoecology: Toledo's framework restated as kosmos-corpus-praxis; Posey forest-island claim noted as debated
+scl-ethnomedicine: Kleinman credited with developing (not introducing) disease/illness distinction; added Lock to Sources
+scl-foodways-anthropology: Lévi-Strauss Plon 1964 cited under French title; added Douglas source
+scl-forensic-anthropology: softened 'founded' and 'pioneered' claims
+scl-historical-anthropology: softened Cohn 'founded' and E-P 'founding statement'; added Sewell to Sources
+scl-indigenous-anthropology: Deloria's law degree postdates the 1969 book; softened TallBear, ethics-board and closing claims
+scl-internet-anthropology: softened Rheingold 'named' and Boellstorff 'proved'; Digital Anthropology publisher given as Berg
+scl-kinship-anthropology: softened overclaims (Schneider 'destroyed', kinship 'invented' methods); dated developmental-cycle volume
+scl-maritime-anthropology: Finney's Voyage of Rediscovery covers the 1985-87 voyage, not 1976; 1976 voyage navigated by Mau Piailug (Carolinian); softened conservation claims
+scl-media-anthropology: Larkin study located in Kano (radio, cinema, video); softened Spitulnik 'defined the field'
+scl-migration-anthropology: softened founding-text claim; named Besteman's study; added cited works to Sources
+scl-postcolonial-anthropology: softened Abu-Lughod 'pioneered'
+scl-postmodern-anthropology: removed unsupported 'armchair anthropology' quotation; softened absolute claim
+scl-religious-anthropology: liminality credited to van Gennep (Turner developed it); Durkheim 1912 cited under French title; added cited works to Sources
+scl-sports-anthropology: softened 'defined the field'
+scl-structural-anthropology: restated 'demonstration' of universal mental structure as the school's argument
+scl-tourism-anthropology: Nash 1996 is a single-authored book, not an edited volume; start date corrected to 1970s; softened overclaims
+scl-visual-anthropology: softened SAVICOM founding year and 'founding text'; added Leviathan to Sources
+asylum-anthropology-borders: De León's forensic work used pig-carcass experiments; policy conclusion attributed to De León
+dam-displacement-anthropology: World Bank resettlement policy (1980) predates the IRR model; chronology of resettlement-plan requirement corrected
+gain-of-function-ethics: 2014 funding pause described accurately (resumed 2017); Lakoff traces preparedness to Cold War civil defence
+stu-african-initiation-rituals: date range aligned with works covered (1909–1994); added Sources section
+stu-african-political-systems: removed non-existent Anuak and Swazi (Hilda Kuper) chapters; added Nadel (Kede) and Wagner (Kavirondo) contributions; active_end 1940
+stu-african-political-systems: added Sources section to body
+stu-argonauts-western-pacific: publisher corrected to George Routledge and Sons; island location and colonial territory name fixed; added Sources section
+stu-asad-morocco-fieldwork: removed editorial note about file name; fieldwork in early 1960s was after (not during) the Anglo-Egyptian Condominium
+stu-balinese-theater-geertz: removed unsupported later return to Bali; author name Beryl de Zoete
+stu-boas-ethnographic-methods: dating of Hunt collaboration made precise; removed 'Pioneering' overclaim from title
+stu-dumont-south-asian-kinship: corrected direction of influence: Lévi-Strauss's alliance theory (1949) preceded Dumont's South Indian work
+stu-evans-pritchard-azande-witchcraft: witchcraft substance is inherited in same-sex line, not patrilineally; added short section on oracles
+stu-evans-pritchard-the-nuer: fieldwork was several short visits (not three periods or years of residence); leopard-skin chief mediates homicide feuds, not all disputes; Peters was a critic of the segmentary model; softened overclaims; added Lewis and Peters to Sources
+stu-fortes-tallensi-descent: Fortes co-edited (not merely contributed to) African Political Systems
+stu-geertz-balinese-cockfight: Shankman 1984 is a critique of the interpretive programme, not an empirical rebuttal of the betting account; added Roseberry 1982; side bets described correctly
+stu-indigenous-community-based-research: active_end set to ongoing for a continuing research movement
+stu-interpretation-of-cultures-geertz: corrected description of Shankman 1984
+stu-labor-migration-ethnography: 'global care chain' is Hochschild's concept, not introduced by Parreñas; added Hochschild 2000
+stu-leach-political-systems-highlands-burma: original 1954 publisher is G. Bell and Sons (LSE monograph no. 44 is the 1964 reissue); covered gap on Kachin and later responses; removed unsupported 'recent ethnography' claim; softened overclaims
+stu-malinowski-kula-ring-exchange: publisher corrected to George Routledge and Sons; Munn and Leach volume attributed correctly; added Munn 1986
+stu-melanesian-cosmology: Daribi fieldwork began in the early 1960s in Chimbu Province (not 1966-68, Southern Highlands); Strathern's 1988 book preceded the 1991 fractal-person essay; added Munn
+stu-nuer-evans-pritchard: corrected Kelly's argument (social organization explains expansion, not the reverse); ghost-marriage wording; fieldwork visits
+stu-ochs-samoan-language-socialization: removed unverified birth year; corrected account of caregiver responses to unclear speech; Ochs did not co-edit Rethinking Context with Duranti
+stu-potlatch-kwakwakawakw: removed doubtful attribution to Wilson Duff
+stu-ritual-process-turner: Ndembu fieldwork dates 1950-54; counterculture discussion is in The Ritual Process itself
+stu-samoan-kinship-mead: Mead's age and length of stay in Manu'a corrected
+stu-strathern-hagen-ceremonial-exchange: distinguished LiPuma's position from Mosko's; corrected title of Halls translation of Mauss
+stu-tonga-kinship-gifford: only the Tu'i Tonga was the sacred paramount; later lines were secular
+stu-turner-schism-continuity: Sandombu was an aspirant, not Mukanza's headman; Isoma is analysed in The Ritual Process, not Drums of Affliction; softened overclaims
+stu-yanomami-ethnography-chagnon: added that AAA members voted in 2005 to rescind the task force report
+thk-aihwa-ong: softened superlative
+thk-alessandro-duranti: Duranti is not a founder of the ethnography of communication (Hymes and Gumperz); removed unsupported criticism and supervision claim
+thk-alfred-gell: 'The Gods at Play' is a 1980 article, not a book; trap idea is from 'Vogel's Net' (1996); removed speculative Islamic-art section; added sources
+thk-alfred-kroeber: critic of the superorganic corrected (Sapir; Leslie White supported the idea); Ishi repatriation corrected (no descendants, 2000); department/doctorate wording
+thk-anna-tsing: Friction publication year 2005; Aarhus professorship put in past tense
+thk-appadurai: PhD was from Chicago's Committee on Social Thought; academic posts ordered correctly
+thk-arnold-van-gennep: uncertain parentage claim reworded; the Revue des études ethnographiques et sociologiques predates 1915
+thk-arthur-kleinman: no 'Fung Chair in medical anthropology' (Fung directorship was of the Asia Center); Rabb Professorship; removed unverified emeritus status; added sources
+thk-arjun-appadurai: birth year corrected 1956 to 1949; removed false USC post and 'globalAnthropology' garble
+thk-arjun-appadurai: removed two invented quotations and unsupported fieldwork on Muslim identity/pilgrimage/Islamic revivalism
+thk-arjun-appadurai: Worship and Conflict is a temple study; 'Grassroots Globalization' is an essay, not an edited book; rewritten and gaps reduced
+thk-barbara-myerhoff: corrected chapter title to 'Rites of Passage: Process and Paradox'
+thk-becker: softened overclaims and removed unattributed feminist/postcolonial critique and religion claim
+thk-franz-boas: softened 'revolutionized'/'architect'; restored published title of Jacknis book (Kwakiutl Art); fixed George Hunt sentence
+thk-boas: removed invented quotations section
+thk-boas: fixed doctorate (Kiel 1881 physics, not Baffin dissertation), universities, US arrival and AMNH dates
+thk-boas: Henry Tate was Tsimshian; Hunt's parentage corrected
+thk-boas: restored 1897 monograph title; Handbook parts; Cole and Chaikin co-authorship; Stocking publisher; Jacknis title
+thk-boas: softened pioneer/revolutionized/anti-colonial claims
+thk-boas: added section on race research and Scientists as Spies; resolved two gaps
+thk-bronislaw-malinowski: clarified 1914 status and Mailu fieldwork; fixed claim that Sanusi of Cyrenaica applied Malinowskian fieldwork; softened teaching overclaim; Argonauts publisher
+thk-bruno-latour: death in 2022 recorded (was 'present')
+thk-bruno-latour: corrected education (not Ecole Polytechnique; Tours doctorate), Salk dates and posts
+thk-bruno-latour: removed nonexistent 'The Trouble with Standards'; added Reassembling the Social and Modes of Existence
+thk-bruno-latour: removed invented quotations; softened overclaims; credited Callon and Law
+thk-clifford-geertz: corrected Antioch years (1946-50, after Navy)
+thk-clifford-geertz: Works and Lives subjects: Levi-Strauss, not Margaret Mead
+thk-clifford-geertz: fixed erroneous Hindu-Buddhist-Islamic description of Balinese religion; removed 'Sabungan'
+thk-clifford-geertz: softened overstated positions attributed to Geertz
+thk-david-schneider: corrected career (left Chicago for UC Santa Cruz; 1950s posts)
+thk-david-schneider: softened 'revolutionary' and 'purely American' claim; added editors to Gender and Kinship
+thk-deepak-mehta: removed unverified 'decade' and specific findings (gang rivalries, stories to children); chapter author order Chatterji, Mehta
+thk-dell-hymes: removed internal editorial note from gaps; softened overclaims; SPEAKING grid dated as later elaboration
+thk-haraway: softened overclaims
+thk-donna-haraway: corrected Situated Knowledges date (1988) and Cyborg Manifesto publication (Socialist Review 1985; book 1991) and Sources
+thk-donna-haraway: corrected education (Colorado College; Yale PhD 1972) and posts
+thk-donna-haraway: removed unsupported laboratory/hospital fieldwork claims and paraphrase presented as quotation
+thk-donna-haraway: body aligned with the checked thk-haraway entry (duplicate page)
+thk-edmund-leach: China posting from 1933
+thk-edmund-leach: corrected account of Pul Eliya's argument and of 'Animal Categories'
+thk-edmund-leach: softened claims on colonial analysis; noted loss of Kachin notes; added cited works to Sources
+thk-eduardo-viveiros-de-castro: spelling Araweté; jaguar example and cannibalism reading corrected; softened conclusion
+thk-edward-tylor: softened overclaim
+thk-elinor-ochs: softened founder claim; Ochs founded and directed CELF
+thk-elizabeth-A-povinelli: softened overclaim and removed unverified attributed reply to critics
+thk-eric-wolf: removed false AAA presidency; added MacArthur 1990
+thk-eric-wolf: Envisioning Power was not posthumous; named its three cases
+thk-eric-wolf: Puerto Rico study was of a coffee-growing community, not sugar
+thk-eric-wolf: softened overattributed claims
+thk-evans-pritchard: corrected Nuer segmentary levels (territorial sections vs lineages)
+thk-evans-pritchard: posts expanded; Anuak study not comparative; noted government commission; Sanusi book added to Sources
+thk-fei-xiaotong: Earthbound China compares three Yunnan villages, not two
+thk-fei-xiaotong: corrected Tanner Lecture title; softened 'founder'; added China's Gentry to Sources
+thk-franz-steiner: doctorate was from Prague (not Hebrew University); moved to England 1936 (not 1939)
+thk-franz-steiner: removed unverified book title; slavery thesis was completed (DPhil 1949); rephrased taboo argument; softened Douglas claim
+thk-fredrik-barth: Eriksen described as biographer rather than 'notable student'; softened 'revolutionary'
+thk-gbateson: Hawaii post was at the Oceanic Institute; separated memoir from Angels Fear
+thk-george-marcus: added Tonga research; removed unsupported description of multi-site/laboratory fieldwork; softened attributed admissions and overclaim; added Para-Sites to Sources
+thk-graeber: fieldwork dated 1989-91; Goldsmiths from 2007; replaced doubtful examples in value theory book; softened overclaims
+thk-henrietta-moore: William Wyse chair from 2008, not 2009
+thk-hortense-powdermaker: Lesu fieldwork 1929-30; removed unsupported publishing/reception claims; softened founder claim
+thk-isak-dinesen: corrected publishers of Seven Gothic Tales and Shadows on the Grass
+thk-james-clifford: corrected false claim that Writing Culture had no women contributors (Mary Louise Pratt)
+thk-james-clifford: cleaned Sources entry; softened overclaim
+thk-jean-john-comaroff: Jean Comaroff was born in Edinburgh, not South Africa (body corrected)
+thk-jomo-kenyatta: Malinowski's contribution is an introduction (Sources); added 1942 publisher; punctuation
+thk-karen-ho: 2009 article is in American Anthropologist 111(2), subtitle 'Corporate America' (was American Ethnologist)
+thk-karen-ho: removed unverified dissertation title and attributed self-assessment; softened founder claims
+thk-dell-hymes: added cited 1964 article to Sources
+thk-laura-bohannan: removed doubtful Gollancz 1956 edition from Sources
+thk-leacock: removed unverified claim that Julian Steward supervised her doctorate
+thk-leacock: corrected content of 1954 memoir (hunting territories; egalitarian gender argument belongs to later essays)
+thk-leacock: softened founder/first claims
+thk-levistrauss: removed 'Selected Quotations' section (invented quotations)
+thk-levistrauss: corrected Brazil fieldwork dates and peoples, biography, Mythologiques scope and English publisher; cleaned gaps
+thk-lewis-henry-morgan: softened founder overclaim
+thk-lindatuhiwai: softened overclaims
+thk-linda-tuhiwai-smith: birth year 1957 corrected to 1950; removed false Otago/'Maori Education Development centre' biography
+thk-linda-tuhiwai-smith: removed invented works (Indigenous and Decolonial Futures..., Theorizing Indigenous Methodologies), invented Sources (Dewes, Todd, Routledge chapter), invented quotations and attributed 'good ally'/'decolonial washing' positions
+thk-linda-tuhiwai-smith: body replaced with checked text of duplicate page thk-lindatuhiwai
+thk-lila-abu-lughod: 'third major work' corrected to second monograph; added Nakba co-editor and Source
+thk-lucy-mair: removed unconfirmed birthplace; softened founder/pioneer claims
+thk-malinowski: removed 'Founder' from title; softened claim of participation in kula transactions; fixed publisher of Crime and Custom
+thk-marcel-mauss: sacrifice essay dated 1899; Lévi-Strauss introduced (not edited) Sociologie et anthropologie and was not trained by Mauss; techniques of the body lecture 1934, published 1935
+thk-margaret-mead: softened superlative
+thk-marshall-sahlins: removed unverified claim of support for Native Hawaiian sovereignty movements; softened overclaim
+thk-marvin-harris: active_start 1968 changed to 1953 (doctorate); softened claim of public confrontations with Geertz
+thk-mary-douglas: Dame date corrected (CBE 1992, DBE 2007)
+thk-max-gluckman: corrected Oxford supervision claim and Lozi fieldwork dating; director date softened
+thk-meyer-fortes: removed unconfirmed family origin; softened founder claim
+thk-nancy-scheper-hughes: replaced doubtful critic attribution (Claudia Fonseca) with Nations and Rebhun 1988
+thk-paul-farmer: softened founder claim; added cited books to Sources
+thk-paul-rabinow: death year added (1944-2021) and tense fixed
+thk-paul-rabinow: Designing Human Practices co-author corrected to Gaymon Bennett (was Stavrianakis); ARC co-founded; softened pioneer claims
+thk-philippe-bourgois: "intimate apartheid" attributed correctly to Righteous Dopefiend (homeless drug users)
+thk-radcliffe-brown: softened dominance claim; removed unsupported claim of influence on behavioural ecology and overstated Douglas/Turner position
+thk-robert-lowie: softened superlative and Crow emphasis; fixed garbled phrase
+thk-roberto-damatta: fixed chronology of racial-democracy debate; attributed critique; softened pioneer claim
+thk-roger-bastide: corrected post-Brazil career (not Sorbonne until death); Brancos e Negros title dates to 1959 reissue; softened initiation and 'first' claims
+thk-ruth-benedict: corrected claim that she succeeded Boas as department head
+thk-shulamit-reinharz: added co-author Lynn Davidman in Key Works; tense of Brandeis post softened
+thk-stathis-gourgouris: removed unverified upbringing claim
+thk-talal-asad: added Khartoum post; added Kababish Arabs and Idea of an Anthropology of Islam to Sources
+thk-terence-turner: emeritus post corrected to Chicago; Video Project dated 1990; Defiant Images issue corrected to 8(6)
+thk-ulf-hannersson: replaced unsupported claim about Cayman offshore-finance study with Caymanian Politics (1974); softened founder claim
+thk-victor-turner: corrected anthropology training (UCL, then Manchester); corrected content of Dramas, Fields, and Metaphors and of Ashley volume (about Turner, not his writings); softened overclaims
+thk-ward-goodenough: removed false AAA presidency (1971), replaced with AES and SfAA
+thk-ward-goodenough: reframed navigation section around Native Astronomy in the Central Carolines (1953); removed doubtful father distinction; softened founder claim; added Sources
+thk-william-rivers: corrected claim that he led the expedition's ethnographic work; softened founder claim
+thk-zora-neale-hurston: Mule Bone dated to 1930 composition (not 1931); softened Eatonville 'first', founder and 'unmatched' claims
+wrk-african-political-systems-fortes-evans-pritchard: IIALC publisher sponsor name corrected; Wagner chapter is on Bantu of Kavirondo; Tallensi had chiefs (balance of chiefs and earth priests); removed attributed 'wrote' paraphrase; softened founding claim
+wrk-anthropology-now: book has three parts (not two); fieldwork was after, not during, the 1915-1934 occupation; softened founding claim
+wrk-argonauts-western-pacific-malinowski: Trobriand stay corrected to about two years; softened founding claims and Weiner summary
+wrk-coming-of-age-samoa-mead: sample corrected to 68 girls in three villages; Mead lodged with an American family, not in a Samoan household/village; removed nonsensical 'male perspective' claim; softened superlatives
+wrk-cultural-critique: Rosaldo chapter corrected (Evans-Pritchard and Le Roy Ladurie, not Ilongot); removed Geertz from colonial-era examples; contributor list closed
+wrk-debt-first-5000-years-graeber: periodisation completed (capitalist empires 1450-1971); removed unsupported specialist objection tied to Hudson and Van De Mieroop
+wrk-elementary-structures: revision date corrected (1967; English 1969); removed claim that the book was foundational to structural linguistics
+wrk-empire: corrected anachronism: Zerubavel's Hidden Rhythms (1981) predates the book
+wrk-forest-of-symbols-turner: Forest of Symbols contents corrected (Chihamba and Isoma are treated in other Turner works); softened 'demonstrated'
+wrk-forest-symbols: essay contents corrected (Chihamba and divination studies were published separately)
+wrk-gender-of-the-gift-strathern: attributed only 'dividual' to Marriott
+wrk-genealogies-of-religion-asad: upbringing corrected to India and Pakistan; added cited 1986 essay to Sources
+wrk-interpretation-of-cultures-geertz: softened 'revolutionized'/'demonstrated'
+wrk-kinship-and-marriage: Sahlins article title corrected; corrected claim that Fox did not state male control (it is one of his basic principles)
+wrk-kung-bushmen: softened 'revolutionized'
+wrk-mind-of-primitive-man-boas: corrected publisher of 1912 immigrant study; softened founding claims
+wrk-patterns-of-culture-benedict: frontmatter Stocking publisher corrected to Free Press; fixed source list indent
+wrk-precariat-standing: Bourdieu essay title corrected; Neilson and Rossiter reframed; three factions dated to later work
+wrk-primitive-culture-tylor: softened 'for the first time' claim
+wrk-primitive-society: corrected reference myth M1 (jaguar and cooking fire belong to Ge versions, not Bororo M1); removed honey/tobacco from this volume's oppositions; scope of Mythologiques
+wrk-purity-and-danger-douglas: Lele fieldwork dates corrected to 1949-50 and 1953; removed redundant clause
+wrk-ritual-process-turner: removed doubtful quoted phrase; softened claim about Muslim Travellers volume; liminoid dated to 1970s essays
+wrk-savage-mind: softened 'demonstrated'
+wrk-sexual-life: corrected anachronism (book could not influence Mead 1928); clarified baloma/spirit child
+wrk-structure-function-primitive-society-radcliffe-brown: Kuper title edition year corrected to 1983 (1973 original had a different title)
+wrk-the-gift: informant name corrected to Tamati Ranapiri; softened overclaims
+wrk-tiwi: removed claim that Hart returned to the field; Pilling's 1953-54 fieldwork stated
+wrk-totemism: clarified that Lévi-Strauss draws on as well as criticises earlier authors
+wrk-tristes-tropiques: corrected Goncourt account (jury regretted non-fiction ineligibility); US Weightman edition dated 1974; removed redundant "(Kawahib)"
+wrk-urban-culture: Park's "The City" first published 1915; removed unverified regional coverage claim; softened textbook-use and influence claims
+wrk-works-lives: Benedict chapter also covers The Chrysanthemum and the Sword (added to Sources); noted Malinowski chapter's later ethnographers; author-saturated distinction placed in opening chapter; thick description credited to Ryle; softened overclaims

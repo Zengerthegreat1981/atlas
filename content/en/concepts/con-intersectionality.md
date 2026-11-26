@@ -8,7 +8,7 @@ title: Intersectionality
 en: Intersectionality
 crumb: Sociology ← Intersectionality
 dates: ''
-active_start: 1900
+active_start: 1989
 active_end: مستمر
 edges: []
 related: []
@@ -22,9 +22,9 @@ Intersectionality is the idea that systems of inequality — race, gender, class
 
 ## Origins and Development
 
-The term was coined by the legal scholar Kimberlé Crenshaw in "Demarginalizing the Intersection of Race and Sex" (1989). Her starting point was a court case, *DeGraffenreid v. General Motors* (1976), in which Black women workers alleged discrimination in hiring. The court dismissed the claim: General Motors employed women (who were white) and Black people (who were men), so no discrimination could be shown against Black women as such. The legal framework, Crenshaw argued, could recognise race discrimination and sex discrimination, but not the intersection of the two — leaving Black women in a gap that neither anti-racist nor feminist law could see.
+The term was coined by the legal scholar Kimberlé Crenshaw in "Demarginalizing the Intersection of Race and Sex" (1989). Her starting point was a court case, *DeGraffenreid v. General Motors* (1976), in which Black women alleged that GM's seniority-based layoffs perpetuated its past discrimination against them. The court rejected a combined claim: because General Motors had hired women (largely white) and Black employees (largely men), it would not treat Black women as a distinct protected class. The legal framework, Crenshaw argued, could recognise race discrimination and sex discrimination, but not the intersection of the two — leaving Black women in a gap that neither anti-racist nor feminist law could see.
 
-The insight had earlier roots. Anna Julia Cooper wrote in *A Voice from the South* (1892) of the Black woman's position at the crossroads of race and gender, and the Combahee River Collective's statement (1977) described interlocking systems of oppression decades before the term existed. bell hooks' *Ain't I a Woman* (1981) developed the same critique within feminism, arguing that a movement speaking for women in general too often spoke only for white, middle-class women. Crenshaw gave the idea a name and a precise analytical form, extending it in "Mapping the Margins" (1991) to violence against women of colour. Patricia Hill Collins then broadened it sociologically in *Black Feminist Thought* (1990), developing the concept of a "matrix of domination" in which intersecting systems of power organise social life as a whole.
+The insight had earlier roots. Anna Julia Cooper wrote in *A Voice from the South* (1892) of the distinct position of Black women, shaped by both race and gender, and the Combahee River Collective's statement (1977) described interlocking systems of oppression decades before the term existed. bell hooks' *Ain't I a Woman* (1981) developed the same critique within feminism, arguing that a movement speaking for women in general too often spoke only for white, middle-class women. Crenshaw gave the idea a name and a precise analytical form, extending it in "Mapping the Margins" (1991) to violence against women of colour. Patricia Hill Collins then broadened it sociologically in *Black Feminist Thought* (1990), developing the concept of a "matrix of domination" in which intersecting systems of power organise social life as a whole.
 
 ## Key Debates and Dimensions
 
@@ -43,6 +43,7 @@ Other criticisms come from different directions. Some liberal critics argue that
 - Kimberlé Crenshaw — "Demarginalizing the Intersection of Race and Sex: A Black Feminist Critique of Antidiscrimination Doctrine, Feminist Theory and Antiracist Politics," *University of Chicago Legal Forum*, 1989.
 - Kimberlé Crenshaw — "Mapping the Margins: Intersectionality, Identity Politics, and Violence against Women of Color," *Stanford Law Review*, 1991.
 - Patricia Hill Collins — *Black Feminist Thought*, Unwin Hyman, 1990.
+- Anna Julia Cooper — *A Voice from the South*, 1892.
 - Combahee River Collective — "A Black Feminist Statement," 1977.
 - bell hooks — *Ain't I a Woman: Black Women and Feminism*, South End Press, 1981.
 - Catharine A. MacKinnon — "Intersectionality as Method: A Note," *Signs*, 2013.

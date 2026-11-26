@@ -7,7 +7,7 @@ level: متوسط
 title: Talcott Parsons
 en: Talcott Parsons
 crumb: "Sociology ← Talcott Parsons"
-dates: International · 1902-1979
+dates: United States · 1902-1979
 active_start: 1902
 active_end: 1979
 edges: []
@@ -44,7 +44,7 @@ Parsons was born in Colorado Springs in 1902. He studied at Amherst College, the
 
 ## Applications
 
-Parsons applied the scheme to concrete domains. In "Illness and the Role of Medicine" (1951, in *The Social System*) he described the "sick role": exemption from normal obligations, an obligation to want to get well, and an obligation to seek competent help. With Robert Bales and others he analysed the nuclear family and socialization (*Family, Socialization and Interaction Process*, 1955), and with Gerald Platt he studied higher education (*The American University*, 1973). *Economy and Society* (1956) treated the economy as a subsystem of society exchanging with the polity, the integrative system and the pattern-maintenance system. *The Structure of Social Action* drew together Alfred Marshall, Vilfredo Pareto, Emile Durkheim and Max Weber as converging on a voluntaristic theory of action.
+Parsons applied the scheme to concrete domains. In *The Social System* (1951), in the chapter on modern medical practice, he described the "sick role": exemption from normal obligations, an obligation to want to get well, and an obligation to seek competent help. With Robert Bales and others he analysed the nuclear family and socialization (*Family, Socialization and Interaction Process*, 1955), and with Gerald Platt he studied higher education (*The American University*, 1973). *Economy and Society* (1956) treated the economy as a subsystem of society exchanging with the polity, the integrative system and the pattern-maintenance system. *The Structure of Social Action* drew together Alfred Marshall, Vilfredo Pareto, Emile Durkheim and Max Weber as converging on a voluntaristic theory of action.
 
 ## Method
 

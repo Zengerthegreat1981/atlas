@@ -15,9 +15,9 @@ related:
   - id: "wrk-coming-of-age-samoa-mead", title: "Coming of Age in Samoa", type: "عمل"
 sources:
   - Benedict, Ruth. Patterns of Culture. Houghton Mifflin, 1934.
-  - Stocking, George W. Jr. Race, Culture, and Evolution: Essays in the History of Anthropology. University of Chicago Press, 1968.
+  - Stocking, George W. Jr. Race, Culture, and Evolution: Essays in the History of Anthropology. Free Press, 1968.
   - Fortune, Reo F. *Sorcerers of Dobu*. Routledge, 1932.
-- Lapsley, Hilary. Margaret Mead and Ruth Benedict: The Kinship of Women. University of Massachusetts Press, 1999.
+  - Lapsley, Hilary. Margaret Mead and Ruth Benedict: The Kinship of Women. University of Massachusetts Press, 1999.
 gaps: []
 ---
 

@@ -23,7 +23,7 @@ Unlike biocultural anthropology, which studies the body through biological measu
 
 ## History
 
-The field has older roots in ethnographies of shamans, herbalists, and curing rituals, but it emerged as a named subdiscipline in the United States in the 1960s. Two pressures drove its formation. First, American physicians working in international development and in the community mental health programmes created by the Community Mental Health Act of 1963 found that clinical knowledge was not enough: patients understood illness differently and organised care through family and community rather than through the clinic. Second, anthropologists argued that healing systems in Latin America, Africa, and Asia had their own logic.
+The field has older roots in ethnographies of shamans, herbalists, and curing rituals, but it emerged as a named subdiscipline in the United States in the 1960s. Two pressures drove its formation. First, applied work in international health and, in the United States, community mental health programmes (expanded after the Community Mental Health Act of 1963) showed that clinical knowledge was not enough: patients understood illness differently and organised care through family and community rather than through the clinic. Second, anthropologists argued that healing systems in Latin America, Africa, and Asia had their own logic.
 
 Organized in the late 1960s, the Society for Medical Anthropology became a section of the American Anthropological Association in the early 1970s. Its journal, Medical Anthropology Quarterly, began in 1983. Norman Scotch's 1963 review helped define the field's scope, and George Foster and Barbara Anderson's Medical Anthropology (1978) gave it its first textbook synthesis.
 
@@ -31,7 +31,7 @@ In the 1980s the field split into two orientations that still structure it. The 
 
 ## Key Figures
 
-Arthur Kleinman, psychiatrist and anthropologist at Harvard, is the field's most influential theorist. His work in Taiwan and China showed that patients, families, and doctors hold different explanatory models of the same illness, and that failing to negotiate between them causes clinical breakdown. Byron Good extended this programme in studies of illness narratives, including research in Iran, arguing that biomedicine itself is a cultural system, not a view from nowhere.
+Arthur Kleinman, psychiatrist and anthropologist at Harvard, is among the field's most influential theorists. His work in Taiwan and China showed that patients, families, and doctors hold different explanatory models of the same illness, and that failing to negotiate between them causes clinical breakdown. Byron Good extended this programme in studies of illness narratives, including research in Iran, arguing that biomedicine itself is a cultural system, not a view from nowhere.
 
 Nancy Scheper-Hughes brought a critical and moral edge to the field. Her ethnography of a shantytown in northeast Brazil documented how mothers living amid chronic hunger and high infant mortality came to regard some infants as unlikely to survive and to withhold intensive care from them, and she later documented the global trade in human organs. Margaret Lock showed that even death is culturally constructed: her comparison of brain death in Japan and North America revealed that what counts as a dead body depends on law, religion, and medical practice as much as on biology. Paul Farmer, physician-anthropologist and co-founder of Partners In Health, became the field's most public voice. His work in Haiti showed how tuberculosis and AIDS followed the fault lines of poverty, racism, and foreign intervention.
 
@@ -63,6 +63,12 @@ In the first area, Kleinman's work on neurasthenia and depression in China (*Soc
 ## Sources
 
 - Scotch, Norman A. "Medical Anthropology." In Biennial Review of Anthropology, edited by Bernard J. Siegel, 1963.
+- Kleinman, Arthur. Social Origins of Distress and Disease: Depression, Neurasthenia, and Pain in Modern China. New Haven: Yale University Press, 1986.
+- Luhrmann, T. M. Of Two Minds: The Growing Disorder in American Psychiatry. New York: Knopf, 2000.
+- Lock, Margaret. Twice Dead: Organ Transplants and the Reinvention of Death. Berkeley: University of California Press, 2002.
+- Lakoff, Andrew. Pharmaceutical Reason: Knowledge and Value in Global Psychiatry. Cambridge: Cambridge University Press, 2005.
+- Petryna, Adriana. When Experiments Travel: Clinical Trials and the Global Search for Human Subjects. Princeton: Princeton University Press, 2009.
+- Luhrmann, T. M. When God Talks Back: Understanding the American Evangelical Relationship with God. New York: Knopf, 2012.
 - Foster, George M., and Barbara G. Anderson. Medical Anthropology. New York: John Wiley and Sons, 1978.
 - Kleinman, Arthur. Patients and Healers in the Context of Culture: An Exploration of the Borderland Between Anthropology, Medicine, and Psychiatry. Berkeley: University of California Press, 1980.
 - Kleinman, Arthur. The Illness Narratives: Suffering, Healing, and the Human Condition. New York: Basic Books, 1988.

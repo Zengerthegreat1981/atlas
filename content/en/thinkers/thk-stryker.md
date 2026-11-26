@@ -40,11 +40,11 @@ Stryker's orientation toward measurable approaches had a precursor in the sociol
 
 ## Identity Verification in Peter Burke
 
-Peter Burke, a long-time associate of Stryker at Indiana University, developed "Identity Verification Theory" as a direct extension of Stryker's identity theory, adding a precise psychological-social mechanism: the individual constantly compares the "meaning" of his or her identity as subjectively conceived with the actual reactions of others toward him or her in interaction, and any contradiction between the two (the identity's not being socially "verified") produces psychological distress that drives the individual to modify his or her behaviour or interpretation of the situation in order to restore consistency, in a circular feedback loop model that can be tested empirically and rigorously.
+Peter Burke, a sociologist closely associated with Stryker's research program, developed "identity control" or identity verification theory as a related branch of identity theory, adding a precise psychological-social mechanism: the individual constantly compares the "meaning" of his or her identity as subjectively conceived with the actual reactions of others toward him or her in interaction, and any contradiction between the two (the identity's not being socially "verified") produces psychological distress that drives the individual to modify his or her behaviour or interpretation of the situation in order to restore consistency, in a circular feedback loop model that can be tested empirically and rigorously.
 
 ## Academic Biography
 
-Sheldon Stryker (1924-2016) took his doctorate at Cornell University and spent most of his career as a professor of sociology at Indiana University. His early formation was in classical symbolic interactionism; he later developed a structural version that borrowed measurement concerns from empirical social psychology. An early statement is his 1968 article "Identity Salience and Role Performance".
+Sheldon Stryker (1924-2016) spent most of his career as a professor of sociology at Indiana University. His early formation was in classical symbolic interactionism; he later developed a structural version that borrowed measurement concerns from empirical social psychology. An early statement is his 1968 article "Identity Salience and Role Performance".
 
 ## Applications of Identity Theory
 

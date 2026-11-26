@@ -33,7 +33,7 @@ Ferdinand Tönnies, in *Community and Society* (1887; English edition 1957), dre
 
 Talcott Parsons, in *The Social System* (1951), treated society as a system of interlocking institutions — family, economy, polity, religion — each performing functions that keep the whole working. His account stressed integration: norms are internalized through socialization, and institutions fit together into a stable order. Parsons's society is a system that tends toward equilibrium, and his critics would later attack exactly that image of harmony.
 
-Anthony Giddens, in *The Constitution of Society* (1984), offered the most influential alternative. Society, for Giddens, is not a thing standing over individuals; it is produced and reproduced by what people do. His theory of structuration holds that structure — rules and resources — both constrains action and is the product of action: every time people follow a rule, they keep the rule alive, and every time they break or reinterpret it, they change it. Society is therefore neither a machine nor a mere aggregate of individuals but an ongoing process of structuration, stretched across time and space.
+Anthony Giddens, in *The Constitution of Society* (1984), offered an influential alternative. Society, for Giddens, is not a thing standing over individuals; it is produced and reproduced by what people do. His theory of structuration holds that structure — rules and resources — both constrains action and is the product of action: every time people follow a rule, they keep the rule alive, and every time they break or reinterpret it, they change it. Society is therefore neither a machine nor a mere aggregate of individuals but an ongoing process of structuration, stretched across time and space.
 
 ## Examples
 

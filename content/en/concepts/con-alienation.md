@@ -49,6 +49,9 @@ Louis Althusser argued that the humanist concept of alienation belongs to the ea
 - Lukacs, Georg. *History and Class Consciousness*. 1923.
 - Fromm, Erich. *The Sane Society*. 1955.
 - Seeman, Melvin. "On the Meaning of Alienation." *American Sociological Review* 24(6), 1959.
+- Marcuse, Herbert. *One-Dimensional Man*. 1964.
+- Burawoy, Michael. *Manufacturing Consent*. 1979.
+- Hochschild, Arlie Russell. *The Managed Heart*. 1983.
 - Blauner, Robert. *Alienation and Freedom: The Factory Worker and His Industry*. 1964.
 - Braverman, Harry. *Labor and Monopoly Capital*. 1974.
 - Rosa, Hartmut. *Resonance: A Sociology of Our Relationship to the World*. 2016 (English translation 2019).

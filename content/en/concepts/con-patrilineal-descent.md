@@ -28,15 +28,15 @@ E. E. Evans-Pritchard, in *The Nuer* (1940), offered the most influential study 
 
 ## Social and Economic Functions
 
-In patrilineal systems, inheritance, affiliation, and collective responsibility (such as participation in blood money or vengeance) are determined through the male line. A woman typically moves at marriage to her husband's clan (patrilocal residence), and thus loses, in formal descent terms, full membership in her father's clan. She keeps emotional ties and specific obligations toward it, however. Meyer Fortes described this, in his study of the Tallensi of Ghana, as "complementary filiation": the bond with the mother and her relatives remains socially and emotionally significant even though it does not determine formal membership.
+In patrilineal systems, inheritance, affiliation, and collective responsibility (such as participation in blood money or vengeance) are determined through the male line. A woman often moves at marriage to her husband's household or community (patrilocal residence). In formal descent terms she usually remains a member of her father's group, while her children belong to her husband's, although the degree to which her natal ties persist varies between societies. Meyer Fortes, drawing on his study of the Tallensi of Ghana, used the term "complementary filiation" for a child's tie through the mother: the bond with the mother and her relatives remains socially and emotionally significant even though it does not determine formal membership.
 
 ## Parallel-Cousin Marriage and Lineage Cohesion
 
-Patrilineal descent is closely linked to the preference for **parallel-cousin marriage** (marriage to a father's brother's daughter) in many Arab and Middle Eastern societies. This pattern keeps property and women within the same patrilineal group rather than dispersing them through outside marriage. The pattern was documented by Robert Murphy and Leonard Kasdan (1959) and by Fredrik Barth in his study of the Kurds of Iraq (1953). Ernest Gellner also studied how, among the tribes of the Moroccan Atlas, patrilineal descent intersects with the segmentary tribal system to produce a flexible political order that expands and contracts according to military and economic need.
+Patrilineal descent is closely linked to the preference for **parallel-cousin marriage** (marriage to a father's brother's daughter) in many Arab and Middle Eastern societies. This pattern keeps property and women within the same patrilineal group rather than dispersing them through outside marriage. The pattern was analysed by Robert Murphy and Leonard Kasdan (1959) and documented by Fredrik Barth in his study of the Kurds of Iraq (1953). Ernest Gellner also studied how, among the tribes of the Moroccan Atlas, patrilineal descent intersects with the segmentary tribal system to produce a flexible political order that expands and contracts according to military and economic need.
 
 ## Criticism and Ethnographic Complexity
 
-Rodney Needham and Edmund Leach showed that the "pure" theoretical models of patrilineal descent rarely match actual practice. People on the ground use pragmatic flexibility in explaining their descent to serve immediate interests, such as acquiring land, avoiding an obligation, or supporting an ally. As a result, the "declared descent" becomes a tool of social negotiation rather than a literal reflection of a documented biological genealogy. David Schneider also argued that the assumption of a biological link underlying the concept of patrilineal descent may itself be a Western projection that not all cultures share.
+Critics such as Rodney Needham and Edmund Leach questioned how far the "pure" theoretical models of descent match actual practice. People on the ground use pragmatic flexibility in explaining their descent to serve immediate interests, such as acquiring land, avoiding an obligation, or supporting an ally. As a result, the "declared descent" becomes a tool of social negotiation rather than a literal reflection of a documented biological genealogy. David Schneider also argued that the assumption of a biological link underlying the concept of patrilineal descent may itself be a Western projection that not all cultures share.
 
 ## Sources
 
@@ -44,3 +44,6 @@ Rodney Needham and Edmund Leach showed that the "pure" theoretical models of pat
 - Fortes, Meyer. *The Web of Kinship among the Tallensi*. London: Oxford University Press, 1949.
 - Barth, Fredrik. *Principles of Social Organization in Southern Kurdistan*. Oslo: Universitetets Etnografiske Museum, 1953.
 - Murphy, Robert F., and Leonard Kasdan. "The Structure of Parallel Cousin Marriage." *American Anthropologist* 61, no. 1 (1959).
+- Leach, Edmund R. *Pul Eliya, a Village in Ceylon*. Cambridge University Press, 1961.
+- Gellner, Ernest. *Saints of the Atlas*. Weidenfeld and Nicolson, 1969.
+- Schneider, David M. *A Critique of the Study of Kinship*. University of Michigan Press, 1984.

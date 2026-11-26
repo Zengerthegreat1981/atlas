@@ -24,7 +24,7 @@ Divination is the practice of seeking knowledge of hidden things — the future,
 
 The anthropological study of divination began with E. E. Evans-Pritchard's *Witchcraft, Oracles and Magic Among the Azande*, published in 1937. Evans-Pritchard showed that Zande divination was not irrational superstition but a rational system: the Azande consulted the poison oracle — feeding poison to a chicken and reading whether it lived or died — to answer questions about witchcraft, illness, and the future, and they had elaborate rules for checking, cross-checking, and explaining away contradictory results. Divination, he argued, was a way of making decisions under uncertainty, and its logic was internally consistent even if its premises differed from those of Western science.
 
-Later work extended this insight. Victor Turner, in *The Forest of Symbols* (1967), studied divination among the Ndembu of Zambia, where diviners used baskets of objects — each symbolising an ancestor, a spirit, or a social relationship — to diagnose illness and misfortune. The diviner's task was not only to reveal a hidden cause but to bring the patient's social conflicts into the open, so that divination became a form of therapy and social mediation. Philip Peek's edited volume *African Divination Systems* (1991) documented the variety of African practices — Ifa among the Yoruba, bone-throwing in Southern Africa, and many others — and argued that divination is a mode of knowing, a way of thinking about causality, responsibility, and the future that deserves to be studied on its own terms rather than as a failed science.
+Later work extended this insight. Victor Turner, in *Ndembu Divination: Its Symbolism and Techniques* (1961), studied divination among the Ndembu of Zambia, where diviners used baskets of objects — each symbolising an ancestor, a spirit, or a social relationship — to diagnose illness and misfortune. The diviner's task was not only to reveal a hidden cause but to bring the patient's social conflicts into the open, so that divination became a form of therapy and social mediation. Philip Peek's edited volume *African Divination Systems* (1991) documented the variety of African practices — Ifa among the Yoruba, bone-throwing in Southern Africa, and many others — and argued that divination is a mode of knowing, a way of thinking about causality, responsibility, and the future that deserves to be studied on its own terms rather than as a failed science.
 
 The comparative study of divination has also drawn on history. In ancient China, oracle bones were used to consult ancestors; in ancient Greece, oracles at Delphi gave answers to cities and individuals; in Rome, augurs read the flight of birds before public decisions. These cases show that divination has been practised at the highest levels of state power as well as in village life.
 
@@ -43,7 +43,7 @@ Divination remains widespread. Astrology columns, tarot readings, and fortune-te
 ## Sources
 
 - E. E. Evans-Pritchard, *Witchcraft, Oracles and Magic Among the Azande*, 1937.
-- Victor Turner, *The Forest of Symbols: Aspects of Ndembu Ritual*, 1967.
+- Victor Turner, *Ndembu Divination: Its Symbolism and Techniques* (Rhodes-Livingstone Paper 31), 1961.
 - Philip Peek (ed.), *African Divination Systems: Ways of Knowing*, 1991.
 - George Park, "Divination and Its Social Context", *Journal of the Royal Anthropological Institute*, 1963.
 - Michael Winkelman and Philip Peek (eds.), *Divination and Healing: Potent Vision*, 2004.

@@ -32,7 +32,7 @@ In *States and Social Revolutions* (1979), Skocpol systematically compared three
 
 ## Comparative Methodology and the Influence of Barrington Moore
 
-Skocpol drew methodologically on the tradition of her teacher Barrington Moore Jr. in his seminal book *Social Origins of Dictatorship and Democracy* (1966), which compared the paths of political modernization in England, France, America, Japan, China and India, concluding that the nature of the alliances among social classes (especially the stance of the landed agrarian class and the peasants toward industrialization) largely determines whether a national path ends in liberal democracy, fascism or communism. Skocpol developed this comparative-historical tradition, but focused more precisely on the state as an independent actor with its own interests (not a mere reflection of the balance of class forces), and on international geopolitical pressure (wars, military competition among states) as a decisive factor in weakening the old state's capacity to withstand the revolutionary crisis.
+Skocpol drew methodologically on the work of Barrington Moore Jr., above all his book *Social Origins of Dictatorship and Democracy* (1966), which compared the paths of political modernization in England, France, America, Japan, China and India, concluding that the nature of the alliances among social classes (especially the stance of the landed agrarian class and the peasants toward industrialization) largely determines whether a national path ends in liberal democracy, fascism or communism. Skocpol developed this comparative-historical tradition, but focused more precisely on the state as an independent actor with its own interests (not a mere reflection of the balance of class forces), and on international geopolitical pressure (wars, military competition among states) as a decisive factor in weakening the old state's capacity to withstand the revolutionary crisis.
 
 ## William Sewell's Critique and the Missing Cultural Dimension
 
@@ -40,7 +40,7 @@ The historian William Sewell directed an influential critique at Skocpol's model
 
 ## Impact
 
-This work established "comparative and historical sociology" as an independent research method in American sociology, and it shaped later debates about revolutions, including the Iranian revolution of 1979, despite later criticisms of its neglect of the role of ideology and conscious human agency. Her rigorous comparative method, based on systematically comparing successful and failed cases instead of being content with the study of a single case, is still taught as a basic model of the methodology of comparative historical social science.
+This work helped consolidate comparative-historical sociology in American sociology, and it shaped later debates about revolutions, including the Iranian revolution of 1979, despite later criticisms of its neglect of the role of ideology and conscious human agency. Her rigorous comparative method, based on systematically comparing successful and failed cases instead of being content with the study of a single case, is still taught as a basic model of the methodology of comparative historical social science.
 
 ## Criteria for Distinguishing Social Revolution from Political Coup
 
@@ -56,4 +56,5 @@ The debate between her structural explanation and Sewell's cultural one remains 
 
 - Skocpol, Theda. *States and Social Revolutions: A Comparative Analysis of France, Russia, and China*. Cambridge University Press, 1979.
 - Goldstone, Jack A. "Theories of Revolution: The Third Generation." *World Politics*, vol. 32, no. 3, 1980, pp. 425–453.
+- Sewell, William H., Jr. "Ideologies and Social Revolutions: Reflections on the French Case." *Journal of Modern History*, vol. 57, no. 1, 1985, pp. 57–85.
 - Moore, Barrington, Jr. *Social Origins of Dictatorship and Democracy: Lord and Peasant in the Making of the Modern World*. Beacon Press, 1966.

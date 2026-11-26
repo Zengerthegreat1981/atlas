@@ -10,7 +10,7 @@ ar: البحث المجتمعي القائم على الشعوب الأصلية 
 crumb: Anthropology ← Methods and Epistemology ← Collaborative Research
 dates: 2010
 active_start: 1990
-active_end: 2009
+active_end: مستمر
 edges: []
 related:
 gaps: []

@@ -9,11 +9,11 @@ level: "متقدم"
 title: "Tilly & Tarrow's Contentious Politics & Social Movements"
 en: "Tilly & Tarrow's Contentious Politics & Social Movements"
 crumb: "Sociology ← Schools ← Tilly & Tarrow's Contentious Politics & Social Movements"
-dates: "United States · 1978 to 1998"
+dates: "United States · 1978 to the present"
 country: "United States"
 language: "English"
 active_start: 1978
-active_end: 1998
+active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "Skocpol's Comparative-Historical Analysis of Revolutions", target_type: "مدرسة"
 related:
@@ -50,4 +50,6 @@ This framework offered general analytical tools that influenced the study of soc
 
 - Tilly, Charles. *From Mobilization to Revolution*. Addison-Wesley, 1978.
 - McAdam, Doug, Sidney Tarrow, and Charles Tilly. *Dynamics of Contention*. Cambridge University Press, 2001.
+- McCarthy, John D., and Mayer N. Zald. "Resource Mobilization and Social Movements: A Partial Theory." *American Journal of Sociology*, vol. 82, no. 6, 1977, pp. 1212–1241.
+- Eisinger, Peter K. "The Conditions of Protest Behavior in American Cities." *American Political Science Review*, vol. 67, no. 1, 1973, pp. 11–28.
 - Tarrow, Sidney. *Power in Movement: Social Movements and Contentious Politics*. Cambridge University Press, 1994.

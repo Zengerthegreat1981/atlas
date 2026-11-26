@@ -24,7 +24,7 @@ Peace building is the set of activities undertaken to prevent the recurrence of 
 
 The term peacebuilding came into wide use after the Cold War, when the United Nations began to undertake complex missions in countries emerging from civil war. The UN Secretary-General Boutros Boutros-Ghali defined it in *An Agenda for Peace* (1992) as action to identify and support structures that tend to strengthen and solidify peace in order to avoid a relapse into conflict. This definition marked a shift from peacekeeping — the monitoring of ceasefires by neutral forces — to a more ambitious agenda of rebuilding states and societies.
 
-The intellectual foundations of peace building reach further back. Johan Galtung, the founder of peace research, argued in "Three Approaches to Peace: Peacekeeping, Peacemaking and Peacebuilding" (1976) that lasting peace requires more than the absence of direct violence: it requires the removal of structural violence — the poverty, inequality, and exclusion that generate conflict — and the building of what he called positive peace. Galtung's distinction between negative peace (the absence of war) and positive peace (the presence of justice and well-being) remains the conceptual backbone of the field, and his later work, *Peace by Peaceful Means* (1996), elaborated the approach in detail.
+The intellectual foundations of peace building reach further back. Johan Galtung, a founding figure of peace research, argued in "Violence, Peace, and Peace Research" (1969) that peace requires more than the absence of direct violence: it also requires the removal of structural violence — such as poverty, inequality, and exclusion — and he called this wider condition positive peace. In "Three Approaches to Peace: Peacekeeping, Peacemaking and Peacebuilding" (1976) he argued that peacebuilding should create structures that address the causes of war. Galtung's distinction between negative peace (the absence of war) and positive peace (the presence of justice and well-being) remains the conceptual backbone of the field, and his later work, *Peace by Peaceful Means* (1996), elaborated the approach in detail.
 
 ## Approaches and Practice
 
@@ -34,7 +34,7 @@ In practice, peace building missions have included the disarmament, demobilisati
 
 ## Key Debates
 
-One debate concerns the liberal peace model: the assumption, dominant in the 1990s and 2000s, that peace building should promote democracy, market economics, and the rule of law, on the grounds that liberal states do not go to war with one another. Roland Paris, in *At War's End: Building Peace After Civil Conflict* (2004), argued that rapid liberalisation could itself destabilise fragile societies, and that peace building should proceed gradually, building effective institutions before introducing competitive elections and free markets. Oliver Richmond, in *The Transformation of Peace* (2005), went further, arguing for a "post-liberal" peace that takes local practices, identities, and conceptions of peace seriously rather than treating them as obstacles to be overcome.
+One debate concerns the liberal peace model: the assumption, dominant in the 1990s and 2000s, that peace building should promote democracy, market economics, and the rule of law, on the grounds that liberal states do not go to war with one another. Roland Paris, in *At War's End: Building Peace After Civil Conflict* (2004), argued that rapid liberalisation could itself destabilise fragile societies, and that peace building should proceed gradually, building effective institutions before introducing competitive elections and free markets. Oliver Richmond, who examined competing conceptions of peace in *The Transformation of Peace* (2005), later argued in *A Post-Liberal Peace* (2011) for an approach that takes local practices, identities, and conceptions of peace seriously rather than treating them as obstacles to be overcome.
 
 A related debate concerns the role of external actors. Critics argue that international peace building can amount to a new form of trusteeship, in which foreign experts and organisations govern post-conflict societies in the name of peace. Defenders argue that many post-conflict states lack the capacity to rebuild on their own and need sustained external support. Anthropologists have contributed to this debate by documenting both the achievements of peace building missions and their unintended consequences — the dependency they can create, the local elites they can empower, and the resentments they can generate.
 
@@ -45,8 +45,10 @@ Peace building remains a pressing concern in the twenty-first century, as confli
 ## Sources
 
 - Boutros Boutros-Ghali, *An Agenda for Peace: Preventive Diplomacy, Peacemaking and Peace-keeping* (1992).
+- Johan Galtung, "Violence, Peace, and Peace Research," *Journal of Peace Research* (1969).
 - Johan Galtung, "Three Approaches to Peace: Peacekeeping, Peacemaking and Peacebuilding," in *Peace, War and Defense: Essays in Peace Research*, vol. 2 (1976).
 - Johan Galtung, *Peace by Peaceful Means: Peace and Conflict, Development and Civilization* (1996).
 - John Paul Lederach, *Building Peace: Sustainable Reconciliation in Divided Societies* (1997).
 - Roland Paris, *At War's End: Building Peace After Civil Conflict* (2004).
 - Oliver P. Richmond, *The Transformation of Peace* (2005).
+- Oliver P. Richmond, *A Post-Liberal Peace* (2011).

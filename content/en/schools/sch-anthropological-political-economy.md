@@ -35,13 +35,13 @@ This school rejects the assumption that the societies studied by classical anthr
 
 ## Historical Context
 
-This school took shape within a broad American anthropological critique of the "ethnographic present" convention that prevailed in structural-functionalist studies, which described the societies under study apart from their actual history. Eric Wolf worked in Mexico and Puerto Rico within Julian Steward's ecological anthropology project, and then gradually moved toward a broader Marxist synthesis that linked anthropology to world economic history, in dialogue with Marxist historiography and with world-system theory, which Immanuel Wallerstein formulated in the 1970s.
+This school took shape within a broad American anthropological critique of the "ethnographic present" convention that prevailed in structural-functionalist studies, which described the societies under study apart from their actual history. Eric Wolf took part in Julian Steward's Puerto Rico project, later carried out research in Mexico, and gradually moved toward a broader Marxist synthesis that linked anthropology to world economic history, in dialogue with Marxist historiography and with world-system theory, which Immanuel Wallerstein formulated in the 1970s.
 
 Alongside Eric Wolf, the school includes Sidney Mintz, who studied the history of sugar, slavery and capitalism in the Caribbean in his book *Sweetness and Power* (1985), showing how a single commodity, sugar, formed a worldwide network of enslavement and consumption linking Africa, the Americas and Europe. Wolf's work also intersected with Maurice Godelier and Claude Meillassoux in France, within what became known as "structural Marxism", which analysed pre-capitalist modes of production, drawing on Meillassoux's work among the Gouro of Côte d'Ivoire and Godelier's among the Baruya of New Guinea.
 
 ## Impact and Criticism
 
-This school linked anthropology to world-system theory (Immanuel Wallerstein) and to world economic history, and established an anthropological tradition that refuses to study "cultures" apart from their global economic and political context. The approach has sometimes been criticised for its tendency to explain every local phenomenon by reference to a large global economic structure, which may weaken attention to specific local cultural meanings that cannot be fully reduced to relations of production and exchange.
+This school brought anthropology into dialogue with world-system theory (Immanuel Wallerstein) and world economic history, and established an anthropological tradition that refuses to study "cultures" apart from their global economic and political context. The approach has sometimes been criticised for its tendency to explain every local phenomenon by reference to a large global economic structure, which may weaken attention to specific local cultural meanings that cannot be fully reduced to relations of production and exchange.
 
 ## Key Concepts
 

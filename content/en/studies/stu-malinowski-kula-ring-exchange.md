@@ -65,7 +65,7 @@ The study was one of the principal ethnographic examples used by **Marcel Mauss*
 
 ## Later Reassessments
 
-Malinowski's account has been revised. Annette Weiner, who worked in the Trobriands in the 1970s, showed that his picture centred on men's exchange and neglected women's wealth (banana-leaf bundles and skirts distributed at mortuary ceremonies), which she argued were essential to Trobriand matrilineal social reproduction. Nancy Munn and Jerry and Edmund Leach (*The Kula: New Perspectives on Massim Exchange*, 1983) examined Kula on other islands, emphasizing local meaning and value. Malinowski's posthumously published diary (1967) also prompted debate about the relationship between his fieldwork and his published ethnography.
+Malinowski's account has been revised. Annette Weiner, who worked in the Trobriands in the 1970s, showed that his picture centred on men's exchange and neglected women's wealth (banana-leaf bundles and skirts distributed at mortuary ceremonies), which she argued were essential to Trobriand matrilineal social reproduction. Nancy Munn (*The Fame of Gawa*, 1986) and the contributors to *The Kula: New Perspectives on Massim Exchange* (1983), edited by Jerry and Edmund Leach, examined Kula on other islands, emphasizing local meaning and value. Malinowski's posthumously published diary (1967) also prompted debate about the relationship between his fieldwork and his published ethnography.
 
 ## From Ethnographic Description to General Economic Theory
 
@@ -73,9 +73,10 @@ The economic historian Karl Polanyi drew on Malinowski's material on the Kula in
 
 ## Sources
 
-- Malinowski, Bronislaw. *Argonauts of the Western Pacific*. London: Routledge and Kegan Paul, 1922.
+- Malinowski, Bronislaw. *Argonauts of the Western Pacific*. London: George Routledge and Sons, 1922.
 - Mauss, Marcel. "Essai sur le don." *L'Année Sociologique*, n.s. 1 (1923–24).
 - Weiner, Annette B. *Women of Value, Men of Renown: New Perspectives in Trobriand Exchange*. University of Texas Press, 1976.
 - Leach, Jerry W. and Edmund Leach (eds). *The Kula: New Perspectives on Massim Exchange*. Cambridge University Press, 1983.
 - Malinowski, Bronislaw. *A Diary in the Strict Sense of the Term*. London: Routledge and Kegan Paul, 1967.
+- Munn, Nancy D. *The Fame of Gawa*. Cambridge University Press, 1986.
 - Polanyi, Karl. *The Great Transformation*. New York: Farrar and Rinehart, 1944.

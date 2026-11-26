@@ -28,9 +28,9 @@ Classification is both cognitive and social. It is cognitive because it reflects
 
 ## Origins and Development
 
-The anthropology of classification begins with Emile Durkheim and Marcel Mauss's *Primitive Classification* (1903), which argued that the categories of thought — genus and species, space and time — were not given by nature but derived from social organisation. In the societies they studied, the classification of the natural world mirrored the classification of the clan: just as the tribe was divided into clans, so the world was divided into classes of animals, plants, and spirits, each belonging to a clan. Thought, in this view, was social through and through.
+The anthropology of classification begins with Émile Durkheim and Marcel Mauss's *Primitive Classification* (1903), which argued that the categories of thought — genus and species, space and time — were not given by nature but derived from social organisation. In the societies they studied, the classification of the natural world mirrored the classification of the clan: just as the tribe was divided into clans, so the world was divided into classes of animals, plants, and spirits, each belonging to a clan. Thought, in this view, was social through and through.
 
-Claude Levi-Strauss revived this tradition in *The Savage Mind* (1962), arguing that so-called primitive thought was not a lesser form of reasoning but a different one: a science of the concrete, which used the sensible qualities of things — the colour of a flower, the cry of a bird — to build systems of classification as rigorous as any science. For Levi-Strauss, a totemic classification, in which each clan is identified with an animal or plant, was not a confusion of nature and society but a way of thinking about social differences through natural differences.
+Claude Lévi-Strauss revived this tradition in *The Savage Mind* (1962), arguing that so-called primitive thought was not a lesser form of reasoning but a different one: a science of the concrete, which used the sensible qualities of things — the colour of a flower, the cry of a bird — to build systems of classification as rigorous as any science. For Lévi-Strauss, a totemic classification, in which each clan is identified with an animal or plant, was not a confusion of nature and society but a way of thinking about social differences through natural differences.
 
 Mary Douglas, in *Purity and Danger* (1966), added that classification is also a matter of order and disorder. Things that do not fit their category — the pig, which is cloven-hoofed but does not chew the cud; the pangolin, which is neither fish nor beast — are experienced as anomalous, dangerous, or sacred, and societies respond to them with taboo, ritual, or reverence. Dirt, for Douglas, was simply matter out of place: a sign that a classification had been violated.
 
@@ -50,8 +50,8 @@ The critique of classification also warns against its dangers. To classify is to
 
 ## Sources
 
-- Durkheim, Emile, and Marcel Mauss. *Primitive Classification*. 1903.
-- Levi-Strauss, Claude. *The Savage Mind*. 1962.
+- Durkheim, Émile, and Marcel Mauss. *Primitive Classification*. 1903.
+- Lévi-Strauss, Claude. *The Savage Mind*. 1962.
 - Douglas, Mary. *Purity and Danger: An Analysis of Concepts of Pollution and Taboo*. 1966.
 - Foucault, Michel. *The Order of Things: An Archaeology of the Human Sciences*. 1966.
 - Berlin, Brent, Dennis E. Breedlove, and Peter H. Raven. "General Principles of Classification and Nomenclature in Folk Biology." *American Anthropologist*, vol. 75, no. 1, 1973.

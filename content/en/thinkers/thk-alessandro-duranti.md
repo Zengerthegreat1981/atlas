@@ -23,11 +23,11 @@ gaps: []
 
 ## Definition
 
-Alessandro Duranti (born 1950 in Italy) is a linguistic anthropologist and professor at the University of California, Los Angeles (UCLA). He is one of the leading founders of the field of "ethnography of communication" (contemporary linguistic anthropology), and is known for his field research in Samoa and for his work on language, agency and intentionality.
+Alessandro Duranti (born 1950 in Italy) is a linguistic anthropologist and professor at the University of California, Los Angeles (UCLA). He is a leading figure in contemporary linguistic anthropology, working in the line of the ethnography of communication, and is known for his field research in Samoa and for his work on language, agency and intentionality.
 
 ## Historical Context
 
-Duranti has held senior academic positions at UCLA, including service as dean of the Division of Social Sciences, and he has been active in the Society for Linguistic Anthropology. He has supervised a large number of doctoral dissertations that extended the application of his methods to languages and cultural contexts beyond Samoa alone.
+Duranti has held senior academic positions at UCLA, including service as dean of the Division of Social Sciences, and he has been active in the Society for Linguistic Anthropology. 
 
 He trained academically between Italy and the United States, influenced by the ethnography of communication developed by Dell Hymes and John Gumperz and by conversation analysis, and he worked closely with Elinor Ochs. His main field research was carried out in Western Samoa from the late 1970s onward, in a village where he studied political and ritual discourse in the traditional councils (*fono*), as well as other speech events.
 
@@ -45,7 +45,7 @@ Among his most important works are *From Grammar to Politics: Linguistic Anthrop
 
 ## Impact and Critique
 
-Duranti is among the leading figures of linguistic anthropology after the generation of Hymes and Gumperz, and his textbooks are widely used in teaching. Some researchers in Oceanic studies have criticized his model of traditional Samoa for possibly exaggerating the uniformity of political discourse practice in the *fono*, overlooking tensions and historical changes introduced by colonialism and Christian missions into these structures.
+Duranti is among the leading figures of linguistic anthropology after the generation of Hymes and Gumperz, and his textbooks are widely used in teaching.
 
 Duranti also worked with Elinor Ochs on Samoan language and on the study of context, and his work is related to the language socialization tradition developed by Ochs and Bambi Schieffelin.
 
@@ -55,6 +55,6 @@ Duranti also worked with Elinor Ochs on Samoan language and on the study of cont
 - Alessandro Duranti, *Linguistic Anthropology*. Cambridge University Press, 1997.
 - Alessandro Duranti (ed.), *A Companion to Linguistic Anthropology*. Blackwell, 2004.
 - Alessandro Duranti, "Politics and Grammar: Agency in Samoan Political Discourse." *American Ethnologist* 17(4), 1990.
-- Alessandro Duranti, *The Anthropology of Intentions: Language in a World of Others*, 2015.
+- Alessandro Duranti, *The Anthropology of Intentions: Language in a World of Others*. Cambridge University Press, 2015.
 - John Gumperz, *Discourse Strategies*, 1982.
 - Elinor Ochs and Bambi Schieffelin, "Language Acquisition and Socialization: Three Developmental Stories and Their Implications." In *Culture Theory*, Cambridge University Press, 1984.

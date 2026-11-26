@@ -12,8 +12,7 @@ edges:
   - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
 related:
   []
-gaps:
-  - "Colonialism and the environment: not yet covered"
+gaps: []
 ---
 
 # Colonialism: Domination, Extraction, and Rule
@@ -46,9 +45,15 @@ Colonialism also shaped the conditions of anthropological fieldwork itself. Earl
 
 Current scholarship debates whether colonialism is past or ongoing. Settler colonial studies argues that in places such as the United States, Canada, Australia, and Israel/Palestine, colonialism is a structure rather than an event — the elimination or marginalization of indigenous peoples continues through land policy, law, and settlement. Others emphasize neocolonialism: economic dependence, debt, and the power of international institutions that reproduce colonial inequalities without formal rule. For anthropology, the enduring lesson is that colonialism must be studied not only as conquest but as a durable system of classification, extraction, and representation whose effects still shape the world ethnographers inhabit.
 
+## Colonialism and the Environment
+
+Colonial rule also transformed landscapes. Alfred Crosby's *Ecological Imperialism* (1986) showed how crops, animals, weeds, and diseases that travelled with Europeans aided settlement in temperate regions, with devastating consequences for many indigenous populations. Plantations, mines, and commercial forestry reorganized land and labour, while colonial game and forest reserves often restricted local hunting, grazing, and cultivation. The record is not uniform: Richard Grove's *Green Imperialism* (1995) traced early environmentalist thought to colonial island and tropical settings. Anthropologists continue to examine how these arrangements shape present disputes over land, conservation, and resource extraction.
+
 ## Sources
 
 - Césaire, Aimé. *Discours sur le colonialisme*. Paris: Éditions Réclame, 1950; English translation, *Discourse on Colonialism*, Monthly Review Press, 1972.
 - Memmi, Albert. *Portrait du colonisé, précédé du portrait du colonisateur*. Paris: Corréa, 1957; English translation, *The Colonizer and the Colonized*, Beacon Press, 1967.
 - Fanon, Frantz. *Les damnés de la terre*. Paris: Maspero, 1961; English translation, *The Wretched of the Earth*, Grove Press, 1963.
 - Said, Edward W. *Orientalism*. Pantheon Books, 1978.
+- Crosby, Alfred W. *Ecological Imperialism: The Biological Expansion of Europe, 900–1900*. Cambridge University Press, 1986.
+- Grove, Richard H. *Green Imperialism: Colonial Expansion, Tropical Island Edens and the Origins of Environmentalism, 1600–1860*. Cambridge University Press, 1995.

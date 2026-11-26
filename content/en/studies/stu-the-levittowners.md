@@ -16,7 +16,7 @@ gaps: []
 ---
 # The Levittowners
 
-*The Levittowners: Ways of Life and Politics in a New Suburban Community* (1967), by the sociologist Herbert J. Gans, is the classic ethnographic study of American suburban life. Gans set out to test the sweeping criticisms of the suburbs that dominated the 1950s — that they bred conformity, emptiness, and a rootless mass culture — and found something very different. The Levittowners he lived among were ordinary, pragmatic people building a community from scratch, and his book reshaped how sociologists think about suburbs, class, and community.
+*The Levittowners: Ways of Life and Politics in a New Suburban Community* (1967), by the sociologist Herbert J. Gans, is a classic ethnographic study of American suburban life. Gans set out to test the sweeping criticisms of the suburbs that dominated the 1950s — that they bred conformity, emptiness, and a rootless mass culture — and found something very different. The Levittowners he lived among were ordinary, pragmatic people building a community from scratch, and his book influenced how sociologists think about suburbs, class, and community.
 
 ## The Setting
 
@@ -36,7 +36,7 @@ Gans was also candid about what his study could not show. Levittown's population
 
 ## Reception and Influence
 
-*The Levittowners* became a landmark in urban sociology and suburban studies. It undercut the "suburban myth" — the idea, promoted by writers such as William H. Whyte (The Organization Man) and David Riesman, that suburban life produced a homogeneous mass culture — and it helped establish the participant-observation study of ordinary communities as a central sociological method. A second edition, published in 1982, added a new preface in which Gans reflected on how Levittown had changed. The book remains a standard reference in courses on urban sociology and community studies, and its argument that place matters less than the class and culture people carry into it continues to shape research on suburbs, neighbourhoods, and community life.
+*The Levittowners* became a landmark in urban sociology and suburban studies. It undercut the "suburban myth" — the idea, often associated with writers such as William H. Whyte (The Organization Man) and David Riesman, that suburban life produced a homogeneous mass culture — and it helped strengthen the participant-observation study of ordinary communities as a sociological method. A Columbia University Press Morningside edition, published in 1982, added a new preface in which Gans reflected on how Levittown had changed. The book remains a standard reference in courses on urban sociology and community studies, and its argument that place matters less than the class and culture people carry into it continues to shape research on suburbs, neighbourhoods, and community life.
 
 ## Sources
 

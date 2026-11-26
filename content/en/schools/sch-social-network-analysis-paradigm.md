@@ -43,7 +43,7 @@ Granovetter later developed an influential parallel concept, "embeddedness". He 
 
 ## Wellman's Structural Method
 
-Barry Wellman championed structural analysis as a methodological stance: he rejected explaining any social behaviour by reference to the "attributes" of isolated individuals (such as income, level of education or even "personality") as sufficient independent variables, insisting that the individual's position within the structure of his or her actual social network (centrality, density of ties, diversity of circles) is the deeper explanatory variable. He applied this method in his well-known study *The Community Question* (1979), which showed that the residents of the urban area of Toronto had not lost their intimate networks of social support, as pessimistic modernization theories had predicted, but had reorganized them geographically across wider distances (the "Liberated Community") instead of relying on the narrow traditional spatial neighbourhood alone.
+Barry Wellman championed structural analysis as a methodological stance: he rejected explaining any social behaviour by reference to the "attributes" of isolated individuals (such as income, level of education or even "personality") as sufficient independent variables, insisting that the individual's position within the structure of his or her actual social network (centrality, density of ties, diversity of circles) is the deeper explanatory variable. He applied this method in his well-known study *The Community Question* (1979), which showed that the residents of East York, in Toronto, had not lost their intimate networks of social support, as pessimistic modernization theories had predicted, but had reorganized them geographically across wider distances (the "Liberated Community") instead of relying on the narrow traditional spatial neighbourhood alone.
 
 ## Mathematical Tools
 
@@ -57,4 +57,5 @@ Social network analysis became an independent quantitative method in its own rig
 
 - Granovetter, Mark S. "The Strength of Weak Ties." *American Journal of Sociology*, vol. 78, no. 6, 1973, pp. 1360–1380.
 - Wellman, Barry. "The Community Question: The Intimate Networks of East Yorkers." *American Journal of Sociology*, vol. 84, no. 5, 1979, pp. 1201–1231.
+- Granovetter, Mark S. *Getting a Job: A Study of Contacts and Careers*. Harvard University Press, 1974.
 - Granovetter, Mark S. "Economic Action and Social Structure: The Problem of Embeddedness." *American Journal of Sociology*, vol. 91, no. 3, 1985, pp. 481–510.

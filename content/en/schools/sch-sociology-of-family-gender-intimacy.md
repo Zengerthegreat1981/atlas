@@ -39,7 +39,7 @@ A pivotal historical event is linked to this shift: the US Supreme Court decisio
 
 ## Prominent Figures
 
-Alongside Giddens, scholars such as Arlie Hochschild (who studied the "Second Shift", the double burden of housework that falls on the working woman after she returns from her formal job) and Judith Stacey (who studied the diversity of postmodern, non-nuclear family forms) helped extend this field toward a more complex analysis of the persistence of real gender inequality despite the official discourse of the egalitarian "pure relationship" in Giddens.
+Alongside Giddens, scholars such as Arlie Hochschild (who studied the "Second Shift", the double burden of housework that falls on the working woman after she returns from her formal job) and Judith Stacey (who studied the diversity of postmodern, non-nuclear family forms) helped extend this field. Hochschild's work, which preceded Giddens's book, and later research point to persistent gender inequality that an account centred on the egalitarian "pure relationship" may understate.
 
 ## Impact and Critique
 
@@ -48,5 +48,6 @@ These two successive frameworks presented a picture of a radical transformation 
 ## Sources
 
 - Parsons, Talcott, and Robert F. Bales. *Family, Socialization and Interaction Process*. Free Press, 1955.
+- Stacey, Judith. *Brave New Families: Stories of Domestic Upheaval in Late Twentieth Century America*. Basic Books, 1990.
 - Giddens, Anthony. *The Transformation of Intimacy: Sexuality, Love and Eroticism in Modern Societies*. Polity Press, 1992.
 - Hochschild, Arlie Russell, with Anne Machung. *The Second Shift: Working Parents and the Revolution at Home*. Viking, 1989.

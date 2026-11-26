@@ -48,7 +48,7 @@ The volume contains essays on religion ("Religion as a Cultural System"; "Ethos,
 
 ## Reception and Critique
 
-The book had a major influence on cultural anthropology and on the humanities, and helped to prepare the "writing culture" debates of the 1980s. Critics have argued that it underplays power, material conditions and history; that its notion of culture as a coherent text is too integrated; that its interpretive claims are hard to test (see Shankman 1984 on the cockfight and the "thin" side of thick description); and that it neglects women and conflict. Marxist and feminist anthropologists and postcolonial critics have made versions of these objections. The collection remains a standard text on method and on the concept of culture.
+The book had a major influence on cultural anthropology and on the humanities, and helped to prepare the "writing culture" debates of the 1980s. Critics have argued that it underplays power, material conditions and history; that its notion of culture as a coherent text is too integrated; that its interpretive claims are hard to test (see Shankman 1984, a critique of the explanatory value of the interpretive programme); and that it neglects women and conflict. Marxist and feminist anthropologists and postcolonial critics have made versions of these objections. The collection remains a standard text on method and on the concept of culture.
 
 ## Sources
 

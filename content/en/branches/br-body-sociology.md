@@ -8,7 +8,7 @@ title: Body Sociology
 en: Body Sociology
 crumb: Sociology ← Branches ← Body Sociology
 dates: contemporary
-active_start: 1970
+active_start: 1984
 active_end: مستمر
 edges: []
 related: []
@@ -27,11 +27,11 @@ The field covers embodiment — how people live in and through their bodies — 
 
 ## History
 
-The field's roots lie in Marcel Mauss's essay "Techniques of the Body" (1935), which showed that even apparently natural acts — walking, swimming, sleeping — are learned socially and vary between cultures. Michel Foucault's *Discipline and Punish* (1975) and *The History of Sexuality* (1976) showed how modern power works on and through bodies, producing docile, self-monitoring subjects. Pierre Bourdieu's *Distinction* (1979) analysed bodily taste — posture, accent, ways of eating — as markers of class, and his concept of habitus located social structure in the body itself. Bryan Turner established the field as a sociological specialty with *The Body and Society* (1984), arguing that sociology had neglected the body despite its centrality to social life. Chris Shilling's *The Body and Social Theory* (1993) systematised the field, arguing that in late modernity the body has become a project — something individuals are expected to work on and manage. Loic Wacquant's *Body and Soul: Notebooks of an Apprentice Boxer* (2004) demonstrated the power of ethnography that takes the researcher's own body as an instrument of knowledge.
+The field's roots lie in Marcel Mauss's essay "Techniques of the Body" (1935), which showed that even apparently natural acts — walking, swimming, sleeping — are learned socially and vary between cultures. Michel Foucault's *Discipline and Punish* (1975) and *The History of Sexuality* (1976) showed how modern power works on and through bodies, producing docile, self-monitoring subjects. Pierre Bourdieu's *Distinction* (1979) analysed bodily taste — posture, accent, ways of eating — as markers of class, and his concept of habitus located social structure in the body itself. Bryan Turner helped establish the field as a sociological specialty with *The Body and Society* (1984), arguing that sociology had neglected the body despite its centrality to social life. Chris Shilling's *The Body and Social Theory* (1993) systematised the field, arguing that in late modernity the body has become a project — something individuals are expected to work on and manage. Loic Wacquant's *Body and Soul: Notebooks of an Apprentice Boxer* (2004) demonstrated the power of ethnography that takes the researcher's own body as an instrument of knowledge.
 
 ## Key Figures and Works
 
-Mauss (1935) founded the study of bodily techniques. Foucault (1975, 1976) showed how power is exercised through the body. Bourdieu (1979) connected bodily dispositions to class. Turner (1984) gave the field its institutional identity and its historical account of why sociology had neglected the body. Shilling later described the body as an "absent presence" in the discipline's classical theory. Mike Featherstone, Mike Hepworth, and Bryan Turner edited *The Body: Social Process and Cultural Theory* (1991), a landmark collection. Shilling (1993) provided the field's most influential synthesis, arguing that the body has become central to identity in consumer society. Wacquant (2004) turned boxing into a study of embodied craft, race, and masculinity in the Chicago ghetto. Feminist scholars have been central throughout: the study of beauty norms, eating disorders, reproductive politics, and the sexualised body has been driven largely by feminist sociology.
+Mauss (1935) opened the study of bodily techniques. Foucault (1975, 1976) showed how power is exercised through the body. Bourdieu (1979) connected bodily dispositions to class. Turner (1984) gave the field its institutional identity and its historical account of why sociology had neglected the body. Shilling later described the body as an "absent presence" in the discipline's classical theory. Mike Featherstone, Mike Hepworth, and Bryan Turner edited *The Body: Social Process and Cultural Theory* (1991), a landmark collection. Shilling (1993) provided the field's most influential synthesis, arguing that the body has become central to identity in consumer society. Wacquant (2004) turned boxing into a study of embodied craft, race, and masculinity in the Chicago ghetto. Feminist scholars have been central throughout: the study of beauty norms, eating disorders, reproductive politics, and the sexualised body has been driven largely by feminist sociology.
 
 ## Methods
 

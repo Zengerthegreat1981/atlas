@@ -31,7 +31,7 @@ The book emerged in a context in which British anthropology was moving away from
 
 ## Main Ideas and Method
 
-The book analyzes Ndembu rituals (including the girls' puberty rite *Nkang'a*, the *Chihamba* ritual and rituals of affliction such as *Isoma*), developing an innovative method for analyzing ritual symbols based on investigating three distinct levels of meaning for each symbol: the "exegetical" or "indigenous" meaning (as informants themselves interpret it when asked directly); the "operational" meaning (how the symbol is actually used in the context of performing the ritual, regardless of what informants say); and the "positional" meaning (the symbol's relationship to other symbols within the broader ritual system). Turner analyzes in detail the *mudyi* tree, whose sap is milky white, showing how multiple meanings (mother's milk, the breast, matriliny and the unity of Ndembu society) condense in it at once. He calls this "multivocality" of the ritual symbol. The book also provides the ethnographic foundation on which Turner later built his concepts of "liminality" and "communitas" in his subsequent book *The Ritual Process* (1969).
+The book analyzes Ndembu rituals (including the girls' puberty rite *Nkang'a*, the boys' circumcision rite *Mukanda*, hunting ritual and healing practice), developing an innovative method for analyzing ritual symbols based on investigating three distinct levels of meaning for each symbol: the "exegetical" or "indigenous" meaning (as informants themselves interpret it when asked directly); the "operational" meaning (how the symbol is actually used in the context of performing the ritual, regardless of what informants say); and the "positional" meaning (the symbol's relationship to other symbols within the broader ritual system). Turner analyzes in detail the *mudyi* tree, whose sap is milky white, showing how multiple meanings (mother's milk, the breast, matriliny and the unity of Ndembu society) condense in it at once. He calls this "multivocality" of the ritual symbol. The book also provides the ethnographic foundation on which Turner later built his concepts of "liminality" and "communitas" in his subsequent book *The Ritual Process* (1969).
 
 ## Key Works and Figures
 
@@ -51,7 +51,7 @@ Within each symbol, Turner distinguishes between a "sensory" (or orectic) pole (
 
 ## The Nkang'a Rite
 
-Turner also analyzes the *Nkang'a* rite, a girls' puberty ritual among the Ndembu, showing how the novice girl is covered with a blanket and made to lie motionless at the foot of a *mudyi* tree, an episode interpreted as the symbolic death of the girl as a child before her emergence as a woman ready for marriage and childbearing. It is a clear example of the triadic liminal structure (separation, liminality and reintegration) that Turner borrowed from van Gennep and demonstrated ethnographically in precise detail.
+Turner also analyzes the *Nkang'a* rite, a girls' puberty ritual among the Ndembu, showing how the novice girl is covered with a blanket and made to lie motionless at the foot of a *mudyi* tree, an episode interpreted as the symbolic death of the girl as a child before her emergence as a woman ready for marriage and childbearing. It is a clear example of the triadic liminal structure (separation, liminality and reintegration) that Turner borrowed from van Gennep and documented ethnographically in detail.
 
 ## Sources
 

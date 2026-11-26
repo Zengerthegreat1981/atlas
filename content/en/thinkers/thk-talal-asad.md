@@ -24,7 +24,7 @@ Talal Asad (born 1932) is one of the most influential critical theorists in mode
 
 Asad was born in Medina in 1932. His father, Muhammad Asad — born Leopold Weiss, an Austrian Jewish journalist who converted to Islam and became the author of *The Road to Mecca* and a translation of the Qur'an — was one of the most prominent European Muslim intellectuals of the twentieth century. Asad grew up partly in Pakistan and studied anthropology in Britain, at the Universities of Edinburgh and Oxford. His early fieldwork was among the Kababish nomads of Sudan, in the classical descriptive tradition of British social anthropology.
 
-From the late 1960s onward, Asad's work turned increasingly critical. He taught at the University of Hull, later at the New School for Social Research and Johns Hopkins University, and then at the Graduate Center of the City University of New York, where he became a central figure in the postcolonial critique of anthropology and in the interdisciplinary study of religion and secularism. His arguments have been taken up in fields ranging from the anthropology of Islam to the study of human rights and liberalism.
+From the late 1960s onward, Asad's work turned increasingly critical. After teaching at the University of Khartoum, he taught at the University of Hull, later at the New School for Social Research and Johns Hopkins University, and then at the Graduate Center of the City University of New York, where he became a central figure in the postcolonial critique of anthropology and in the interdisciplinary study of religion and secularism. His arguments have been taken up in fields ranging from the anthropology of Islam to the study of human rights and liberalism.
 
 ## Key Works
 
@@ -46,6 +46,8 @@ His influence has also invited debate. Some critics argue that his emphasis on a
 
 ## Sources
 
+- Asad, Talal. *The Kababish Arabs: Power, Authority and Consent in a Nomadic Tribe*. C. Hurst, 1970.
+- Asad, Talal. "The Idea of an Anthropology of Islam." Occasional Papers Series, Center for Contemporary Arab Studies, Georgetown University, 1986.
 - Asad, Talal, ed. *Anthropology and the Colonial Encounter*. Ithaca Press, 1973.
 - Asad, Talal. *Genealogies of Religion: Discipline and Reasons of Power in Christianity and Islam*. Johns Hopkins University Press, 1993.
 - Asad, Talal. *Formations of the Secular: Christianity, Islam, Modernity*. Stanford University Press, 2003.

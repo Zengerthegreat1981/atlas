@@ -27,9 +27,9 @@ The concept is closely tied to recognition, the idea, developed by Charles Taylo
 
 ## Origins and Development
 
-Multiculturalism emerged as official policy in Canada and Australia in the 1970s, where governments adopted it as a framework for managing immigration and Indigenous diversity. In Canada, the policy was formalised in the Multiculturalism Act of 1988. In Britain, the Netherlands, and other European countries, multicultural policies developed more informally, through local government, education, and anti-discrimination law.
+Multiculturalism emerged as official policy in Canada (announced in 1971) and Australia (in the 1970s), where governments adopted it as a framework for addressing cultural diversity, especially that arising from immigration. In Canada, the policy was given statutory form in the Multiculturalism Act of 1988. In Britain, the Netherlands, and other European countries, multicultural policies developed more informally, through local government, education, and anti-discrimination law.
 
-The philosophical case for multiculturalism was made most influentially by Charles Taylor in "The Politics of Recognition" (1992), which argued that liberal societies must recognise the equal worth of different cultures, not merely tolerate them. Will Kymlicka, in *Multicultural Citizenship* (1995), developed a liberal theory of group-differentiated rights, arguing that national minorities and immigrant groups have legitimate claims to cultural accommodation, such as language rights and self-government, within a liberal framework. Bhikhu Parekh, in *Rethinking Multiculturalism* (2000), argued that cultures are not fixed essences but open, evolving traditions, and that multicultural societies should foster dialogue between them rather than merely managing their coexistence.
+The philosophical case for multiculturalism was made most influentially by Charles Taylor in "The Politics of Recognition" (1992), which argued that liberal societies must recognise the equal worth of different cultures, not merely tolerate them. Will Kymlicka, in *Multicultural Citizenship* (1995), developed a liberal theory of group-differentiated rights, distinguishing the claims of national minorities, which may include self-government and language rights, from those of immigrant groups, which chiefly concern accommodation within the wider society. Bhikhu Parekh, in *Rethinking Multiculturalism* (2000), argued that cultures are not fixed essences but open, evolving traditions, and that multicultural societies should foster dialogue between them rather than merely managing their coexistence.
 
 ## Key Debates and Dimensions
 
@@ -37,7 +37,7 @@ One debate concerns the tension between group rights and individual rights. Crit
 
 A second debate concerns national unity. Critics argue that multiculturalism fragments societies, encouraging people to identify with their group rather than with the nation, and that it has failed to foster integration. Defenders reply that recognition fosters belonging rather than undermining it, and that the failures attributed to multiculturalism often reflect discrimination, poverty, and segregation rather than the policy itself. Tariq Modood, in *Multiculturalism* (2007), argued for a civic multiculturalism that combines respect for diversity with a shared national identity and common citizenship.
 
-A third dimension is the distinction between multiculturalism as policy and as lived practice. Even where official multiculturalism has been declared dead, as several European leaders did around 2010, everyday multiculturalism persists in cities, schools, and families, where people navigate difference without official guidance.
+A third dimension is the distinction between multiculturalism as policy and as lived practice. Even where official multiculturalism has been declared dead, as several European leaders did in 2010 and 2011, everyday multiculturalism persists in cities, schools, and families, where people navigate difference without official guidance.
 
 ## Contemporary Relevance and Critique
 

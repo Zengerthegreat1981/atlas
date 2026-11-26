@@ -9,11 +9,11 @@ level: "متقدم"
 title: "Wallerstein's World-Systems Analysis"
 en: "Wallerstein's World-Systems Analysis"
 crumb: "Sociology ← Schools ← Wallerstein's World-Systems Analysis"
-dates: "United States, France · 1974"
+dates: "United States, France · 1974 to the present"
 country: "United States"
 language: "English"
 active_start: 1974
-active_end: 1989
+active_end: "مستمر"
 edges: []
 related:
 - id: "sch-latin-american-dependency-theory", title: "Latin American Sociological Dependency Theory", type: "مدرسة"
@@ -27,11 +27,11 @@ The framework of Immanuel Wallerstein (1930–2019), which made the whole "world
 
 ## The Central Idea
 
-In *The Modern World-System* (Volume I, 1974), Wallerstein argued that capitalism, since its emergence in sixteenth-century Europe, produced a single interconnected world economy structurally divided into three functional zones: the "core" (Core), the advanced industrial states that monopolize high-value-added production and capital; the "periphery" (Periphery), the states that produce raw materials and cheap labor and are economically exploited for the benefit of the core; and the "semi-periphery" (Semi-Periphery), an intermediate zone combining characteristics of the two categories, which plays a stabilizing role by absorbing tensions between the two poles. In contrast to Parsonian modernization theory, which assumes that each state develops in isolation from the others through successive linear stages, Wallerstein argued that the "underdevelopment" of the periphery and the "development" of the core are inseparable products of a single exploitative relationship within one system, so that neither can be understood in isolation from the other.
+In *The Modern World-System* (Volume I, 1974), Wallerstein argued that capitalism, since its emergence in sixteenth-century Europe, produced a single interconnected world economy structurally divided into three functional zones: the "core" (Core), the advanced industrial states that monopolize high-value-added production and capital; the "periphery" (Periphery), the states that produce raw materials and cheap labor and are economically exploited for the benefit of the core; and the "semi-periphery" (Semi-Periphery), an intermediate zone combining characteristics of the two categories, which plays a stabilizing role by absorbing tensions between the two poles. In contrast to modernization theory, which assumes that each state develops in isolation from the others through successive linear stages, Wallerstein argued that the "underdevelopment" of the periphery and the "development" of the core are inseparable products of a single exploitative relationship within one system, so that neither can be understood in isolation from the other.
 
 ## Intellectual Context: From African History to Universal Theory
 
-Immanuel Wallerstein began his academic career as a specialist in the history of colonial Africa and African nationalist movements. This direct field background led him to feel personally the limits of the modernization theory dominant in the 1950s and 1960s (developed by Talcott Parsons and Walt Rostow), which assumed that every "developing" state inevitably follows a single linear path toward industrialization and modernization similar to the West's, ignoring the colonial legacy and the actual relations of economic exploitation between states. Wallerstein was also influenced by the French "Annales" school of history (especially Fernand Braudel and his concept of the "long duration," Longue Durée), in adopting a historical perspective of wide scope spanning centuries instead of focusing on short isolated time segments.
+Immanuel Wallerstein began his academic career as a specialist in the history of colonial Africa and African nationalist movements. This direct field background led him to feel personally the limits of the modernization theory dominant in the 1950s and 1960s (associated with writers such as Walt Rostow and informed by Parsonian theory), which assumed that every "developing" state inevitably follows a single linear path toward industrialization and modernization similar to the West's, ignoring the colonial legacy and the actual relations of economic exploitation between states. Wallerstein was also influenced by the French "Annales" school of history (especially Fernand Braudel and his concept of the "long duration," Longue Durée), in adopting a historical perspective of wide scope spanning centuries instead of focusing on short isolated time segments.
 
 ## The Historical Development of the World-System
 
@@ -59,4 +59,6 @@ World-systems analysis remains today a living reference in studies of contempora
 
 - Wallerstein, Immanuel. *The Modern World-System I: Capitalist Agriculture and the Origins of the European World-Economy in the Sixteenth Century*. Academic Press, 1974.
 - Wallerstein, Immanuel. *World-Systems Analysis: An Introduction*. Duke University Press, 2004.
+- Brenner, Robert. "The Origins of Capitalist Development: A Critique of Neo-Smithian Marxism." *New Left Review*, no. 104, 1977, pp. 25–92.
+- Skocpol, Theda. "Wallerstein's World Capitalist System: A Theoretical and Historical Critique." *American Journal of Sociology*, vol. 82, no. 5, 1977, pp. 1075–1090.
 - Frank, Andre Gunder. *Capitalism and Underdevelopment in Latin America*. Monthly Review Press, 1967.

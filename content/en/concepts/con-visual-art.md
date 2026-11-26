@@ -28,7 +28,7 @@ Franz Boas set the agenda in *Primitive Art* (1927), arguing against the then-co
 
 The anthropology of art grew out of the museum. Nineteenth-century collections of masks, carvings, and textiles, gathered under colonial conditions, posed an unavoidable question: what were these objects, and how should they be understood? Early answers treated them as illustrations of evolutionary stages or as "primitive" precursors of Western art. By the mid-twentieth century, ethnographers working in the field — studying how objects were made, used, exchanged, and discarded — replaced that framework with a functional one: art as something embedded in ritual, politics, and everyday life.
 
-Claude Lévi-Strauss's *The Way of the Masks* (1975) marked a turning point. Studying the carved masks of the Pacific Northwest coast, he showed that their forms could only be understood in relation to one another: the masks of neighbouring peoples were transformations of a shared system of myths and social distinctions, and their meaning emerged from the differences between them. Art was not a reflection of society, in this account, but a way of thinking — a visual language through which people reasoned about kinship, rank, and the cosmos.
+Claude Lévi-Strauss's *The Way of the Masks* (French original 1975; English 1982) was an important contribution. Studying the carved masks of the Pacific Northwest coast, he showed that their forms could only be understood in relation to one another: the masks of neighbouring peoples were transformations of a shared system of myths and social distinctions, and their meaning emerged from the differences between them. Art was not a reflection of society, in this account, but a way of thinking — a visual language through which people reasoned about kinship, rank, and the cosmos.
 
 The most influential recent theory is Alfred Gell's *Art and Agency* (1998). Gell argued that art objects are not primarily symbols to be decoded but agents: they act on people, enchanting, intimidating, or persuading them. A carved prow board, a painted shield, or a cult image does things in the world — it protects a canoe, shames an enemy, or makes a god present. Gell shifted attention from what art means to what art does, and to the networks of makers, patrons, and viewers in which objects circulate. Robert Layton's *The Anthropology of Art* (1981; second edition 1991) offered a complementary synthesis, insisting that art must be studied as a social process: production, exchange, and reception together, rather than the finished object alone.
 
@@ -42,14 +42,14 @@ A third debate concerns appropriation and ownership. As Indigenous art has enter
 
 ## Contemporary Relevance
 
-Visual art is now one of anthropology's most active frontiers. The study of museums has become a subfield in its own right: who curates, who is represented, and what should be returned. Repatriation claims for objects taken under colonial rule — the Benin Bronzes, the Parthenon sculptures, sacred items held in European and American museums — have made the anthropology of art directly relevant to international law and cultural policy.
+Visual art is now one of anthropology's most active frontiers. The study of museums has become a subfield in its own right: who curates, who is represented, and what should be returned. Repatriation claims for objects taken under colonial or imperial rule — the Benin Bronzes, the Parthenon sculptures, sacred items held in European and American museums — have made the anthropology of art directly relevant to international law and cultural policy.
 
 Meanwhile, new visual forms demand attention: photography and video as ethnographic methods, street art as political speech, and digital images circulating on social media. In a world saturated with images, the anthropological approach to visual art offers a way of understanding how seeing itself is socially shaped: what people notice, what they value, and what images are allowed to do to them.
 
 ## Sources
 
 - Boas, Franz. *Primitive Art*. 1927.
-- Lévi-Strauss, Claude. *The Way of the Masks*. 1975.
+- Lévi-Strauss, Claude. *The Way of the Masks*. Translated by Sylvia Modelski. University of Washington Press, 1982. First published in French, 1975.
 - Layton, Robert. *The Anthropology of Art*. 2nd ed. Cambridge University Press, 1991.
 - Morphy, Howard. "The Anthropology of Art." In *Companion Encyclopedia of Anthropology*, edited by Tim Ingold. 1994.
 - Gell, Alfred. *Art and Agency: An Anthropological Theory*. 1998.

@@ -35,7 +35,7 @@ Despite this criticism, the concept of animism has remained in use as a descript
 
 ## Tylor's Broader Theory
 
-Animism is part of Tylor's broader evolutionary project, set out in *Primitive Culture*: a conception of the development of human culture through broad stages from "savage" through "barbarous" to "civilized" life. In explaining the origin of religion, it replaced the earlier mythological theory of Friedrich Max Müller, who traced myth to a "disease of language" and solar imagery. Within this scheme, religious beliefs also run parallel to the sequence, from simple animism to organized polytheism and then monotheism. Tylor thus laid the basis for "armchair anthropology," which relied on comparing the reports of missionaries and travelers about geographically distant peoples to derive general evolutionary laws, without direct fieldwork by the researcher.
+Animism is part of Tylor's broader evolutionary project, set out in *Primitive Culture*: a conception of the development of human culture through broad stages from "savage" through "barbarous" to "civilized" life. In explaining the origin of religion, it challenged the mythological theory of Friedrich Max Müller, who traced myth to a "disease of language" and solar imagery. Within this scheme, religious beliefs also run parallel to the sequence, from simple animism to organized polytheism and then monotheism. Tylor's work on this theme is an example of what was later called "armchair anthropology", which relied on comparing the reports of missionaries and travelers about geographically distant peoples to derive general evolutionary laws, largely without systematic fieldwork by the researcher.
 
 ## The Concept of "Survivals"
 

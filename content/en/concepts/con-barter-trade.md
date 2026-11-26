@@ -44,7 +44,7 @@ A third question is how networks change. Roads, mobile phones, and cash cropping
 
 ## Contemporary Relevance and Critique
 
-Barter trade networks remain a live reality in many parts of the world, from the highland trade routes of Papua New Guinea to the cross-border markets of West Africa, where goods move through chains of partners, brokers, and credit relationships that no formal market can fully describe. Development planners who ignore these networks — building roads that bypass established meeting places, or introducing cash crops that undercut barter partnerships — often find their projects fail.
+Barter trade networks remain a live reality in many parts of the world, from the highland trade routes of Papua New Guinea to the cross-border markets of West Africa, where goods move through chains of partners, brokers, and credit relationships that no formal market can fully describe. Development planners who ignore these networks — building roads that bypass established meeting places, or introducing cash crops that undercut barter partnerships — risk damaging exchange relationships on which people depend.
 
 David Graeber's *Debt* (2011) gave the study of exchange networks a wider audience, arguing that credit and obligation, not barter, were the foundation of early economies, and that networks of debt and reciprocity preceded coinage. The lesson for anthropology is that trade is never only about goods: a barter trade network is a map of who trusts whom, who owes whom, and how far a community's relationships reach.
 

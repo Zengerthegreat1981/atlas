@@ -39,7 +39,7 @@ In *Black Skin, White Masks*, Fanon analyzed how racism shapes the psychology of
 
 ## Case Studies
 
-In *A Dying Colonialism* Fanon examined how the Algerian revolution changed everyday practices, including the changing meaning of the veil, the role of the radio (the Voice of Algeria) and relations between Algerian patients and French medicine. The final chapter of *The Wretched of the Earth*, "Colonial War and Mental Disorders," presents clinical cases of Algerian and French patients affected by the violence of the war, drawn from his psychiatric practice.
+In *A Dying Colonialism* Fanon examined how the Algerian revolution changed everyday practices, including the changing meaning of the veil, the role of the radio (the Voice of Algeria) and relations between Algerian patients and French medicine. The chapter "Colonial War and Mental Disorders" in *The Wretched of the Earth* presents clinical cases of Algerian and French patients affected by the violence of the war, drawn from his psychiatric practice.
 
 ## Method
 

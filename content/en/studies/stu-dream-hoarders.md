@@ -16,7 +16,7 @@ gaps: []
 ---
 # Dream Hoarders
 
-*Dream Hoarders: How the American Upper Middle Class Is Leaving Everyone Else in the Dust, Why That Is a Problem, and What to Do About It* (2017), by Richard V. Reeves, is a study of the class that sits just below the very rich — and, Reeves argues, does the most to keep everyone else down. Reeves, a senior fellow at the Brookings Institution, argues that the American conversation about inequality has been distracted by the top 1 percent, while a larger and more consequential divide has opened between the upper middle class and the rest of society.
+*Dream Hoarders: How the American Upper Middle Class Is Leaving Everyone Else in the Dust, Why That Is a Problem, and What to Do About It* (2017), by Richard V. Reeves, is a study of the class that sits just below the very rich — and, Reeves argues, does the most to keep everyone else down. Reeves, then a senior fellow at the Brookings Institution, argues that the American conversation about inequality has been distracted by the top 1 percent, while a larger and more consequential divide has opened between the upper middle class and the rest of society.
 
 ## The Argument
 

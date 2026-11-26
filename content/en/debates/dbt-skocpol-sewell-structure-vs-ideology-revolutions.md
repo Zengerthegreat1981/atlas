@@ -35,7 +35,7 @@ Skocpol replied in the same issue, "Cultural Idioms and Political Ideologies in 
 
 ## Impact
 
-The exchange belongs to the broader "cultural turn" in comparative and historical sociology, in which attention to meaning, discourse and ideology was combined with structural analysis. Sewell developed his own position further in later work on how events can transform structures, collected in *Logics of History* (2005), and Skocpol's later *Social Revolutions in the Modern World* (1994) paid more attention to ideology and leadership.
+The exchange belongs to the broader "cultural turn" in comparative and historical sociology, in which attention to meaning, discourse and ideology was combined with structural analysis. Sewell developed his own position further in later work on how events can transform structures, collected in *Logics of History* (2005), and Skocpol's essays, including those on ideology and revolution, were later collected in *Social Revolutions in the Modern World* (1994).
 
 ## Sources
 
@@ -43,4 +43,5 @@ The exchange belongs to the broader "cultural turn" in comparative and historica
 - Sewell, William H., Jr. "Ideologies and Social Revolutions: Reflections on the French Case." *The Journal of Modern History*, vol. 57, no. 1, 1985, pp. 57–85.
 - Skocpol, Theda. "Cultural Idioms and Political Ideologies in the Revolutionary Reconstruction of State Power: A Rejoinder to Sewell." *The Journal of Modern History*, vol. 57, no. 1, 1985, pp. 86–96.
 - Skocpol, Theda. *Social Revolutions in the Modern World*. Cambridge University Press, 1994.
+- Skocpol, Theda. "Rentier State and Shi'a Islam in the Iranian Revolution." *Theory and Society*, 11(3), 1982.
 - Sewell, William H., Jr. *Logics of History: Social Theory and Social Transformation*. University of Chicago Press, 2005.

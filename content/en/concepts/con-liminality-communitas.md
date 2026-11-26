@@ -26,7 +26,7 @@ Two central concepts developed by Victor Turner, drawing on the early work of Ar
 
 ## Communitas
 
-"Communitas" is the profound sense of solidarity and human equality that arises among participants in the liminal state, independent of the usual social hierarchy (status, wealth, authority) that governs their daily lives outside the ritual. Turner distinguishes between "spontaneous communitas" (arising spontaneously in exceptional moments) and "normative communitas" (organized and institutionalized, as in some monastic religious communities).
+"Communitas" is the profound sense of solidarity and human equality that arises among participants in the liminal state, independent of the usual social hierarchy (status, wealth, authority) that governs their daily lives outside the ritual. Turner distinguishes three forms: "spontaneous communitas" (arising in immediate, unplanned encounters), "ideological communitas" (utopian models built on reflection about that experience), and "normative communitas" (the attempt to organize and sustain it, as in the early Franciscan order).
 
 ## Impact
 
@@ -38,7 +38,7 @@ Arnold van Gennep preceded Turner by six decades in his book *Les Rites de passa
 
 ## Connection to the Arab-Islamic Heritage
 
-The Islamic pilgrimage (*ḥajj*) can be read through this framework. The pilgrim enters the state of *iḥrām* wearing a uniform garment that cancels the class and national distinctions among pilgrims, and is temporarily freed from the marks of his ordinary social status. Among the pilgrims there arises a deep sense of equality and solidarity during the circumambulation (*ṭawāf*) and the standing at ʿArafa. This corresponds precisely to Turner's concepts of liminality and communitas, although Turner's own pilgrimage studies (with Edith Turner, *Image and Pilgrimage in Christian Culture*, 1978) concentrated on Christian pilgrimage.
+The Islamic pilgrimage (*ḥajj*) can be read through this framework. The pilgrim enters the state of *iḥrām* wearing a uniform garment that cancels the class and national distinctions among pilgrims, and is temporarily freed from the marks of his ordinary social status. Among the pilgrims there arises a deep sense of equality and solidarity during the circumambulation (*ṭawāf*) and the standing at ʿArafa. This closely parallels Turner's concepts of liminality and communitas, although Turner's own pilgrimage studies (with Edith Turner, *Image and Pilgrimage in Christian Culture*, 1978) concentrated on Christian pilgrimage.
 
 ## Later Critique
 

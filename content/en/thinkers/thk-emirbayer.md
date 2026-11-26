@@ -28,7 +28,7 @@ In his landmark article "Manifesto for a Relational Sociology" (1997), Emirbayer
 
 ## Historical Context
 
-Emirbayer wrote his landmark article in an American academic context that in the 1990s had seen a growing accumulation of diverse research currents, all of which shared, without an organized awareness of it, an anti-substantialist tendency: the quantitative social network analysis developed by Harrison White and his students (among them Emirbayer himself, who completed his doctoral dissertation under White's supervision at Harvard); classical American pragmatism (John Dewey, George Herbert Mead), which stressed that the meaning of any action is determined by its changing interactional context rather than by essential properties prior to it; and the sociology of Pierre Bourdieu, which sought to transcend the structure/agency dualism through the concepts of "habitus" and "field." Emirbayer saw that these scattered currents needed an explicit unifying manifesto that would gather them under a single self-aware theoretical-methodological umbrella.
+Emirbayer wrote his landmark article in an American academic context that in the 1990s had seen a growing accumulation of diverse research currents, all of which shared, without an organized awareness of it, an anti-substantialist tendency: the quantitative social network analysis developed by Harrison White and his students; classical American pragmatism (John Dewey, George Herbert Mead), which stressed that the meaning of any action is determined by its changing interactional context rather than by essential properties prior to it; and the sociology of Pierre Bourdieu, which sought to transcend the structure/agency dualism through the concepts of "habitus" and "field." Emirbayer saw that these scattered currents needed an explicit unifying manifesto that would gather them under a single self-aware theoretical-methodological umbrella.
 
 ## Main Ideas and Method
 
@@ -36,7 +36,7 @@ Emirbayer, drawing on Dewey and Arthur Bentley's *Knowing and the Known* (1949),
 
 ## Key Works and Representatives
 
-Mustafa Emirbayer is a professor of sociology at the University of Wisconsin-Madison, and a direct student of Harrison White, one of the founders of modern structural social network analysis at Harvard. Other researchers such as François Dépelteau later helped develop a broader research current under the name "relational sociology," notably through edited volumes such as *The Palgrave Handbook of Relational Sociology* (2018).
+Mustafa Emirbayer is a professor of sociology at the University of Wisconsin-Madison. Harrison White, whose work in structural network analysis informed this current, was among its important predecessors. Other researchers such as François Dépelteau later helped develop a broader research current under the name "relational sociology," notably through edited volumes such as *The Palgrave Handbook of Relational Sociology* (2018).
 
 ## Impact and Critique
 

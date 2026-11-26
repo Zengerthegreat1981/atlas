@@ -5,7 +5,7 @@ type: دراسة
 part: anthropology
 level: متقدم
 title: Boas's Ethnographic Methods and Fieldwork Practice
-en: Boas's Ethnographic Methods – Pioneering Language Learning and Fieldwork Practice
+en: Boas's Ethnographic Methods – Language Study and Fieldwork Practice
 ar: طرق بواس الإثنوغرافية - تطوير تعلم اللغة وممارسة العمل الميداني
 crumb: Anthropology ← Methods and Epistemology ← Ethnographic Practice
 dates: 1886-1942
@@ -28,7 +28,7 @@ sources:
   - Stocking, G. W. (1974). The Shaping of American Anthropology 1883-1911: A Franz Boas Reader. Basic Books.
 ---
 
-# Boas's Ethnographic Methods: Pioneering Language Learning and Fieldwork Practice
+# Boas's Ethnographic Methods: Language Study and Fieldwork Practice
 
 Franz Boas (1858-1942) did not write a single synthetic monograph on the Northwest Coast comparable to Malinowski's treatment of the Kula, but over decades of work from 1886 onward he developed a method of ethnography, centred on texts, languages and collaboration with Indigenous experts, that shaped the professional practice of American anthropology. His largest body of material concerns the Kwakwaka'wakw (formerly called Kwakiutl) of northern Vancouver Island and the adjacent mainland, documented in collaboration with George Hunt.
 
@@ -41,7 +41,7 @@ Boas, trained in physics and geography in Germany, first did fieldwork among the
 Boas' working principles included the following.
 
 - **Texts and language.** He insisted that culture should be documented in the words of its bearers. He recorded narratives, ceremonial speeches and descriptions in the original language, with translation and linguistic analysis. He did not become a fluent speaker of Kwak'wala, but he worked to learn its structure and transcription, and his phonetic and grammatical work is a foundation of descriptive linguistics in North America.
-- **Collaboration.** From 1893 Boas worked with George Hunt (1854-1933), who was raised at Fort Rupert in a Kwakwaka'wakw community, was fluent in Kwak'wala, and took part in ceremonial life. Hunt wrote texts, recorded ceremonies, explained their meanings and collected objects; much of the material published under Boas' name rests on Hunt's writing and interpretation. The relationship, which was also paid employment and unequal in academic credit, has been a subject of later scholarship.
+- **Collaboration.** Boas met George Hunt in 1888 and worked closely with him from the early 1890s. Hunt (1854-1933) was raised at Fort Rupert in a Kwakwaka'wakw community, was fluent in Kwak'wala, and took part in ceremonial life. He wrote texts, recorded ceremonies, explained their meanings and collected objects; much of the material published under Boas' name rests on Hunt's writing and interpretation. The relationship, which was also paid employment and unequal in academic credit, has been a subject of later scholarship.
 - **Systematic documentation.** Boas combined text collection with genealogies, measurements, photography, wax-cylinder recordings and material culture collection, intending that primary material should be preserved for later reinterpretation.
 - **Historical particularism.** Rejecting unilinear evolutionary schemes, he held that each culture must be understood through its own history and context, and that generalization should follow, not precede, detailed empirical work.
 

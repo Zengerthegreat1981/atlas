@@ -7,7 +7,7 @@ title: "Eugen Ehrlich"
 en: "Eugen Ehrlich"
 crumb: "Sociology ← Thinkers ← Eugen Ehrlich"
 dates: "Austria-Hungary (Bukovina) · 1862–1922"
-active_start: 1913
+active_start: 1893
 active_end: 1922
 country: "Austria-Hungary"
 language: "German"

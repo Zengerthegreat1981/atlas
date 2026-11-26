@@ -8,7 +8,7 @@ title: Criminal Sociology
 en: Criminal Sociology
 crumb: Sociology ← Branches ← Criminal Sociology
 dates: contemporary
-active_start: 1970
+active_start: 1893
 active_end: مستمر
 edges: []
 related: []
@@ -29,7 +29,7 @@ It also studies distribution. Crime rates vary by age, gender, class, neighbourh
 
 ## History
 
-Émile Durkheim founded the sociological approach to crime. In The Division of Labor in Society (1893) he argued that crime is normal — present in every society — and functional: it provokes collective outrage that reaffirms shared values and marks the boundaries of acceptable conduct. A society without crime, he suggested, would be one without moral boundaries at all. Robert Merton's strain theory, first published as "Social Structure and Anomie" (1938), explained high crime rates as a product of the gap between culturally approved goals, such as material success, and the legitimate means available to achieve them, especially for the poor.
+Émile Durkheim founded the sociological approach to crime. In The Division of Labor in Society (1893) he defined crime as an act that offends the collective conscience, whose punishment reaffirms shared values. In The Rules of Sociological Method (1895) he argued that crime is normal, present in every society, and even useful to social change; even a community of saints, he suggested, would treat minor faults as grave offences. Robert Merton's strain theory, first published as "Social Structure and Anomie" (1938), explained high crime rates as a product of the gap between culturally approved goals, such as material success, and the legitimate means available to achieve them, especially for the poor.
 
 Edwin Sutherland's theory of differential association, presented in Principles of Criminology (1939), argued that criminal behaviour is learned in interaction with others, like any other behaviour — a direct challenge to theories of innate criminality. In the 1960s, labelling theory, above all Howard Becker's Outsiders (1963), shifted attention from the causes of deviance to the social reaction that creates deviants: being caught and labelled changes a person's identity, opportunities, and associations, sometimes producing the very behaviour the label claims to describe. Stanley Cohen's Folk Devils and Moral Panics (1972) showed how media and moral entrepreneurs amplify deviance into public panic. Michel Foucault's Discipline and Punish (1975) recast the prison as a technique of power, while David Garland's Punishment and Modern Society (1990) synthesised the classical tradition, and Loïc Wacquant's Punishing the Poor (2009) linked mass incarceration to neoliberal social policy.
 
@@ -37,7 +37,7 @@ Edwin Sutherland's theory of differential association, presented in Principles o
 
 Durkheim established that crime is a social fact with social functions. Merton connected crime to the structure of opportunity and the pressure of cultural goals. Sutherland made learning central and insisted that white-collar crime, committed by respectable people, belongs in the same analysis as street crime. Becker showed that deviance is a process of labelling and that deviant careers, like other careers, develop through stages.
 
-Cohen's concept of moral panic explains how societies periodically fasten on folk devils — mods and rockers, drug users, gangs — and how the reaction often does more social damage than the behaviour itself. Foucault showed that punishment shifted from public spectacle to discipline of the body and soul, and that the prison produces delinquency as much as it contains it. Garland argued that punishment expresses cultural sensibilities as well as controlling crime, and Wacquant demonstrated that the penal state has grown alongside the retrenchment of welfare, managing poverty through incarceration rather than support.
+Cohen's concept of moral panic explains how societies periodically fasten on folk devils — mods and rockers, drug users, gangs — and how the reaction can do more social damage than the behaviour itself. Foucault showed that punishment shifted from public spectacle to discipline of the body and soul, and that the prison produces delinquency as much as it contains it. Garland argued that punishment expresses cultural sensibilities as well as controlling crime, and Wacquant demonstrated that the penal state has grown alongside the retrenchment of welfare, managing poverty through incarceration rather than support.
 
 ## Methods
 
@@ -56,6 +56,7 @@ Live debates include whether mass incarceration reduces crime or reproduces it; 
 ## Sources
 
 - Durkheim, Émile. *The Division of Labor in Society*. 1893.
+- Durkheim, Émile. *The Rules of Sociological Method*. 1895.
 - Merton, Robert K. "Social Structure and Anomie." *American Sociological Review*, 1938.
 - Sutherland, Edwin H. *Principles of Criminology*. Lippincott, 1939.
 - Becker, Howard S. *Outsiders: Studies in the Sociology of Deviance*. Free Press, 1963.
@@ -64,5 +65,6 @@ Live debates include whether mass incarceration reduces crime or reproduces it; 
 - Garland, David. *Punishment and Modern Society: A Study in Social Theory*. University of Chicago Press, 1990.
 - Wacquant, Loïc. *Punishing the Poor: The Neoliberal Government of Social Insecurity*. Duke University Press, 2009.
 - Braithwaite, John. *Crime, Shame and Reintegration*. Cambridge University Press, 1989.
+- Zehr, Howard. *Changing Lenses: A New Focus for Crime and Justice*. 1990.
 - Western, Bruce. *Punishment and Inequality in America*. Russell Sage Foundation, 2006.
 - Clear, Todd R. *Imprisoning Communities: How Mass Incarceration Makes Disadvantaged Neighborhoods Worse*. Oxford University Press, 2007.

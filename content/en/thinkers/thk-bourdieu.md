@@ -26,7 +26,7 @@ Pierre Bourdieu (1930-2002) was a French sociologist and one of the most influen
 
 ## Life and Context
 
-Born in Denguin in southwestern France to a family of modest means, Bourdieu studied philosophy at the Ecole Normale Superieure in Paris. During military service in Algeria in the late 1950s he turned to ethnography, studying Kabyle society. He later directed the Centre de sociologie europeenne and held a chair at the College de France from 1981. In his final years he became a public critic of neoliberalism.
+Born in Denguin in southwestern France to a family of modest means, Bourdieu studied philosophy at the École Normale Supérieure in Paris. During military service in Algeria in the late 1950s he turned to ethnography, studying Kabyle society. He later directed the Centre de sociologie européenne and held a chair at the Collège de France from 1981. In his final years he became a public critic of neoliberalism.
 
 ## Main Ideas
 
@@ -58,4 +58,4 @@ His concepts are used across the sociology of education, culture, class and stra
 - Pierre Bourdieu, *Outline of a Theory of Practice*, 1972.
 - Pierre Bourdieu, *The Logic of Practice*, 1980.
 - Pierre Bourdieu and Jean-Claude Passeron, *Reproduction in Education, Society and Culture*, 1970.
-- Pierre Bourdieu and Loic Wacquant, *An Invitation to Reflexive Sociology*, 1992.
+- Pierre Bourdieu and Loïc Wacquant, *An Invitation to Reflexive Sociology*, 1992.

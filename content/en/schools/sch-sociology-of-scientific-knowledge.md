@@ -27,11 +27,11 @@ A subfield that examines the social roots of knowledge itself, rather than being
 
 ## Definition
 
-The "sociology of knowledge and science" is a field that studies how human knowledge, including apparently "objective" scientific knowledge, is shaped by social and historical factors, extending from the classical foundation in Karl Mannheim in Weimar Germany to the radical "Strong Programme" in British science studies in the late 1970s.
+The "sociology of knowledge and science" is a field that studies how human knowledge, including apparently "objective" scientific knowledge, is shaped by social and historical factors, extending from the classical foundation in Karl Mannheim in Weimar Germany to the radical "Strong Programme" in British science studies in the 1970s.
 
 ## Historical Context
 
-The field arose in two phases distinct historically and geographically. The first was German, between the wars, when the Hungarian-German sociologist Karl Mannheim (1893–1947) put forward his project in an intellectual climate dominated by Marxism and the critique of ideology. The second was British, arising in the "Edinburgh School" at the University of Edinburgh in the late 1970s, within a department then newly established for science studies, in a context of rising doubts about the simple cumulative, progressive picture of science after Thomas Kuhn's *The Structure of Scientific Revolutions* (1962). That work argued that shifts between scientific "paradigms" are not purely logical processes, but involve historical, psychological and communal factors within the scientific community.
+The field arose in two phases distinct historically and geographically. The first was German, between the wars, when the Hungarian-German sociologist Karl Mannheim (1893–1947) put forward his project in an intellectual climate dominated by Marxism and the critique of ideology. The second was British, arising in the "Edinburgh School" at the University of Edinburgh in the 1970s, around the Science Studies Unit established there in the 1960s, in a context of rising doubts about the simple cumulative, progressive picture of science after Thomas Kuhn's *The Structure of Scientific Revolutions* (1962). That work argued that shifts between scientific "paradigms" are not purely logical processes, but involve historical, psychological and communal factors within the scientific community.
 
 ## Main Ideas or Method
 
@@ -49,4 +49,7 @@ The "Strong Programme" provoked a sharp controversy later known as the "Science 
 
 - Mannheim, Karl. *Ideologie und Utopie*. Verlag von Friedrich Cohen, 1929.
 - Bloor, David. *Knowledge and Social Imagery*. Routledge & Kegan Paul, 1976.
+- Barnes, Barry. *Scientific Knowledge and Sociological Theory*. Routledge & Kegan Paul, 1974.
+- Collins, H. M. *Changing Order: Replication and Induction in Scientific Practice*. Sage, 1985.
+- Latour, Bruno, and Steve Woolgar. *Laboratory Life*. Sage, 1979.
 - Kuhn, Thomas S. *The Structure of Scientific Revolutions*. University of Chicago Press, 1962.

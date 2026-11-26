@@ -11,7 +11,7 @@ en: Simmelian Formal Sociology
 crumb: Sociology ← Formal Sociology
 dates: Germany · 1890-1918
 active_start: 1890
-active_end: مستمر
+active_end: 1918
 edges: []
 related: []
 gaps:
@@ -20,7 +20,7 @@ gaps:
 ---
 # Simmelian Formal Sociology
 
-## The Outsider Who Founded a Discipline
+## An Outsider Among the Founders
 
 Georg Simmel (1858–1918) was one of the founding figures of sociology, and one of its strangest. A brilliant lecturer in Berlin whose courses drew hundreds of students, he was denied a full professorship for most of his career, held back by anti-Semitism and by academic suspicion of his essayistic style. He finally received a chair at Strasbourg in 1914, four years before his death. Instead of a grand system comparable to those of Marx, Durkheim or Weber, he produced penetrating essays and books — *The Problems of the Philosophy of History* (1892), *The Philosophy of Money* (1900), *The Metropolis and Mental Life* (1903) and *Sociology: Investigations on the Forms of Sociation* (1908) — that dissected the smallest forms of social life: the secret, the lie, the stranger, the meal and the letter. His question was deceptively simple: what is society? His answer was that society is not a thing but a process — "sociation" — the sum of the interactions through which individuals become connected to one another.
 
@@ -42,7 +42,7 @@ Two of Simmel's most original arguments concern conflict and secrecy. Against th
 
 ## Influence and Criticism
 
-Simmel's influence has been wide but indirect. In Germany he was overshadowed by Weber, who admired him but found his work unsystematic; in America his essays, translated by Kurt Wolff (1950), shaped symbolic interactionism, small-group sociology and network analysis. Lewis Coser's theory of the functions of social conflict (1956) and Erving Goffman's studies of interaction both carry Simmel's imprint, and Robert Park, who had heard Simmel lecture in Berlin, carried his ideas about the city and the stranger into the Chicago School. The criticisms are equally persistent. His formal sociology can seem to float free of history and power: the form of domination looks the same in a family and in a dictatorship, but the difference matters. His writing is unsystematic, and his concepts — form, sociation, the tragedy of culture — are suggestive rather than precise. Yet Simmel's achievement remains distinctive: he showed that the microscopic texture of interaction — a glance, a secret, a third person entering a conversation — is not decoration on the surface of society but its very substance, and that the modern world can be understood through the forms in which people meet, compete, confide and part.
+Simmel's influence has been wide but indirect. In Germany he was overshadowed by Weber, who respected him but had reservations about his method; in America his essays, translated by Kurt Wolff (1950), shaped symbolic interactionism, small-group sociology and network analysis. Lewis Coser's theory of the functions of social conflict (1956) and Erving Goffman's studies of interaction both carry Simmel's imprint, and Robert Park, who had heard Simmel lecture in Berlin, carried his ideas about the city and the stranger into the Chicago School. The criticisms are equally persistent. His formal sociology can seem to float free of history and power: the form of domination looks the same in a family and in a dictatorship, but the difference matters. His writing is unsystematic, and his concepts — form, sociation, the tragedy of culture — are suggestive rather than precise. Yet Simmel's achievement remains distinctive: he showed that the microscopic texture of interaction — a glance, a secret, a third person entering a conversation — is not decoration on the surface of society but its very substance, and that the modern world can be understood through the forms in which people meet, compete, confide and part.
 
 ## Sources
 

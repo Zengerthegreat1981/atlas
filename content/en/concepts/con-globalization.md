@@ -33,7 +33,7 @@ Anthropology's contribution has been to insist that globalization is not a steam
 
 **Arjun Appadurai** (born 1949) mapped globalization as overlapping landscapes of flow in *Modernity at Large* (1996): ethnoscapes of moving people, mediascapes of circulating images, technoscapes of technology, financescapes of capital, and ideoscapes of political ideas. These flows move at different speeds and along different routes, and their disjunctures — the gaps between them — produce the tensions of the contemporary world. Appadurai's framework gave ethnographers a way to study globalization without reducing it to economics alone.
 
-**Saskia Sassen** (born 1949) showed in *Globalization and Its Discontents* (1998) that globalization is produced in particular places, above all in global cities such as New York, London, and Tokyo, where finance, law, and corporate services concentrate. Globalization, she argued, does not make the state or the city disappear; it reorganizes them, creating new forms of inequality within cities as well as between countries, as high-paid professionals and low-paid service workers inhabit the same urban space under sharply different conditions.
+**Saskia Sassen** (born 1947) showed in *The Global City* (1991) and *Globalization and Its Discontents* (1998) that globalization is produced in particular places, above all in global cities such as New York, London, and Tokyo, where finance, law, and corporate services concentrate. Globalization, she argued, does not make the state or the city disappear; it reorganizes them, creating new forms of inequality within cities as well as between countries, as high-paid professionals and low-paid service workers inhabit the same urban space under sharply different conditions.
 
 ## Ethnographic Examples
 
@@ -50,4 +50,5 @@ Scholars now debate whether globalization is retreating. Trade wars, pandemic bo
 - Harvey, David. *The Condition of Postmodernity: An Enquiry into the Origins of Cultural Change*. Blackwell, 1989.
 - Robertson, Roland. *Globalization: Social Theory and Global Culture*. Sage, 1992.
 - Appadurai, Arjun. *Modernity at Large: Cultural Dimensions of Globalization*. University of Minnesota Press, 1996.
+- Sassen, Saskia. *The Global City: New York, London, Tokyo*. Princeton University Press, 1991.
 - Sassen, Saskia. *Globalization and Its Discontents: Essays on the New Mobility of People and Money*. New Press, 1998.

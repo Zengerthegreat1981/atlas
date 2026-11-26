@@ -20,7 +20,7 @@ gaps: []
 ---
 # Ward Goodenough
 
-An American anthropologist, one of the most important founders of **cognitive anthropology**. He carried out his fieldwork chiefly in the Truk (Chuuk) Islands in Micronesia.
+An American anthropologist, a leading figure in the development of **cognitive anthropology**. He carried out his fieldwork chiefly in the Truk (Chuuk) Islands in Micronesia.
 
 ## Defining Culture Cognitively
 
@@ -32,15 +32,15 @@ Alongside Harold Conklin and the linguist Floyd Lounsbury, Goodenough helped dev
 
 ## Kinship in Truk
 
-In his central fieldwork on the Truk Islands in Micronesia, Goodenough applied his componential analytical method to systems of kinship and local property. He showed how kinship terms among the people of Truk organise rights to land and collective belonging in ways radically different from Western kinship categories (such as the distinction between the biological "father" and the social "father"). This work helped renew the anthropological debate about the nature of kinship itself, as a classificatory cultural construction rather than a simple biological given that translates directly into social institutions.
+In his central fieldwork on the Truk Islands in Micronesia, Goodenough applied his componential analytical method to systems of kinship and local property. He showed how kinship terms among the people of Truk organise rights to land and collective belonging in ways that differ markedly from Western kinship categories. This work helped renew the anthropological debate about the nature of kinship itself, as a classificatory cultural construction rather than a simple biological given that translates directly into social institutions.
 
 ## The Culture as Knowledge versus Practice Debate
 
 Goodenough's definition of culture as purely mental knowledge provoked a continuing theoretical debate with other anthropological approaches (such as Marxism and the practice theory of Pierre Bourdieu), which held that confining culture to mental knowledge neglects the material, power-related and unconscious dimensions of social action. Nevertheless, his model remained deeply influential in the development of cognitive sociology and cross-cultural psychology.
 
-## Language of Navigation and Traditional Navigation
+## Micronesian Astronomy and Navigation
 
-Among Goodenough's important field contributions is his study of traditional maritime navigation systems among the Carolinian sailors in Micronesia, who undertake long open-sea voyages relying on traditional knowledge (the positions of stars, patterns of waves, the flight of birds), without modern navigational instruments. He showed that this cognitive system represents a highly systematic body of knowledge with its own internal standards, which supports his general thesis that culture is an organised cognitive system.
+Goodenough also wrote on indigenous astronomy in *Native Astronomy in the Central Carolines* (1953). Carolinian navigators undertake open-sea voyages relying on knowledge of star positions, wave patterns and the flight of birds, without modern instruments; such systematic bodies of knowledge accord with a view of culture as organised knowledge.
 
 ## Comparative Religion and Belief Systems
 
@@ -48,7 +48,7 @@ Goodenough also wrote on religion, notably in his study of pre-Christian religio
 
 ## Professional Leadership
 
-Goodenough spent much of his career at the University of Pennsylvania and was president of the American Anthropological Association (1971). His definition of culture is still widely cited in introductions to the theory of culture, despite decades of debate and revision.
+Goodenough spent much of his career at the University of Pennsylvania and served as president of the American Ethnological Society and of the Society for Applied Anthropology. His definition of culture is still widely cited in introductions to the theory of culture, despite decades of debate and revision.
 
 ## Impact
 
@@ -58,5 +58,7 @@ Cognitive anthropology established a rigorous methodological tradition that late
 
 - Goodenough, Ward H. "Cultural Anthropology and Linguistics." *Report of the Seventh Annual Round Table Meeting on Linguistics and Language Study*, Georgetown University Press, 1957, pp. 167–173.
 - Goodenough, Ward H. *Property, Kin, and Community on Truk*. Yale University Publications in Anthropology 46, 1951.
+- Goodenough, Ward H. *Native Astronomy in the Central Carolines*. University of Pennsylvania, University Museum, 1953.
+- Goodenough, Ward H. *Under Heaven's Brow: Pre-Christian Religious Tradition in Chuuk*. American Philosophical Society, 2002.
 - Goodenough, Ward H. *Description and Comparison in Cultural Anthropology*. Aldine, 1970.
 - Tyler, Stephen A. (ed). *Cognitive Anthropology*. Holt, Rinehart and Winston, 1969.

@@ -30,7 +30,7 @@ In *Class, Codes and Control* (a series of studies published from the 1960s and 
 
 ## Historical Context
 
-Basil Bernstein (1924–2000) developed this theory at the London Institute of Education. He started from field observations of differing speech patterns among pupils from different class backgrounds in British state schools in the 1960s. The theory arose amid a broad British political debate about why the attainment gap between working-class and middle-class children persisted despite the expansion of free education after the Second World War.
+Basil Bernstein (1924–2000) developed this theory at the London Institute of Education. He started from research on differences in speech among young people from different class backgrounds, begun in the late 1950s. The theory arose amid a broad British political debate about why the attainment gap between working-class and middle-class children persisted despite the expansion of free education after the Second World War.
 
 ## Main Ideas and Method
 

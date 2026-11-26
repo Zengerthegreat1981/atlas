@@ -40,7 +40,7 @@ Dell Hymes remains the founding name, with his article "On Communicative Compete
 
 ## Impact and Criticism
 
-The current developed out of the tradition of Sapir and Whorf in linguistic anthropology, shifting the focus from the influence of language structure on thought to the study of socio-cultural variation in language use. It has deeply influenced contemporary sociolinguistics, discourse analysis and conversation analysis, and the SPEAKING framework has become a standard teaching tool in sociolinguistics curricula. Critics have argued that the category of "speech community" may presuppose an exaggerated internal homogeneity that does not always reflect the real diversity and inequality within multilingual societies. Later researchers have also noted that the framework was developed mainly from North American case studies, and that it needs further comparative ethnographic testing in non-Western contexts.
+The current developed out of the tradition of Sapir and Whorf in linguistic anthropology, shifting the focus from the influence of language structure on thought to the study of socio-cultural variation in language use. It has deeply influenced contemporary sociolinguistics, discourse analysis and conversation analysis, and the SPEAKING framework has become a standard teaching tool in sociolinguistics curricula. Critics have argued that the category of "speech community" may presuppose an exaggerated internal homogeneity that does not always reflect the real diversity and inequality within multilingual societies. Its categories also need to be tested comparatively and adapted to each setting rather than applied as a fixed checklist.
 
 ## Relation to the Arab-Islamic Heritage
 
@@ -51,4 +51,5 @@ The framework connects from a distance with the heritage of classical Arabic rhe
 - Hymes, Dell. "Toward Ethnographies of Communication." *American Anthropologist* 66 (6, Part 2), 1964, pp. 1–34.
 - Hymes, Dell. "The Ethnography of Speaking." In *Anthropology and Human Behavior*, eds. T. Gladwin & W. C. Sturtevant, Anthropological Society of Washington, 1962, pp. 13–53.
 - Hymes, Dell. "On Communicative Competence." In *Sociolinguistics: Selected Readings*, eds. J.B. Pride & J. Holmes, Penguin, 1972, pp. 269–293.
+- Bauman, Richard, & Sherzer, Joel (Eds.). *Explorations in the Ethnography of Speaking*. Cambridge University Press, 1974.
 - Gumperz, John J., & Hymes, Dell (Eds.). *Directions in Sociolinguistics: The Ethnography of Communication*. Holt, Rinehart and Winston, 1972.

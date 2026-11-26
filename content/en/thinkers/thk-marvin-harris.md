@@ -10,7 +10,7 @@ en: "Marvin Harris"
 crumb: "Anthropology ← Thinkers ← Marvin Harris"
 dates: "1927 – 2001"
 birth_country: "United States"
-active_start: 1968
+active_start: 1953
 active_end: 2001
 edges:
 - rel: "belongs_to", target: "Cultural Materialism", target_type: "مدرسة"
@@ -44,7 +44,7 @@ Harris received his doctorate from Columbia University in 1953 and taught there 
 
 ## Cultural Wars between Cultural Materialism and Interpretive Anthropology
 
-Harris engaged in sharp, public intellectual confrontations with Clifford Geertz and his interpretive school during the 1970s and 1980s. He argued that excessive focus on the internal "meaning" of culture risks sliding into an unlimited relativism, in which it becomes impossible to build a comparative, empirically testable science of human culture. He insisted that the aim of a scientific anthropology must remain the explanation of cultural patterns through material causes that can be measured and compared across cultures, rather than being satisfied with the "thick description" of unique local meanings that are difficult to generalize.
+Harris sharply criticised Clifford Geertz and the interpretive school during the 1970s and 1980s. He argued that excessive focus on the internal "meaning" of culture risks sliding into an unlimited relativism, in which it becomes impossible to build a comparative, empirically testable science of human culture. He insisted that the aim of a scientific anthropology must remain the explanation of cultural patterns through material causes that can be measured and compared across cultures, rather than being satisfied with the "thick description" of unique local meanings that are difficult to generalize.
 
 ## Emic and Etic
 

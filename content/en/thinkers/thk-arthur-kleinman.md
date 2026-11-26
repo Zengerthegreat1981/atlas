@@ -16,7 +16,7 @@ gaps: []
 ---
 # Arthur Kleinman
 
-An American psychiatrist and medical anthropologist born in 1941. He is Professor Emeritus at Harvard University, where throughout his academic career he combined psychiatry and medical anthropology. He held the Fung Chair in medical anthropology and headed the Department of Social Medicine at Harvard Medical School. He is considered one of the founding fathers of contemporary medical anthropology, and is known for distinguishing between disease and illness, for the model of explanatory models, and for his long fieldwork in Taiwan and China.
+An American psychiatrist and medical anthropologist born in 1941. At Harvard University he has combined psychiatry and medical anthropology as Esther and Sidney Rabb Professor of Anthropology; he also chaired the Department of Social Medicine at Harvard Medical School and directed the Harvard University Asia Center. He is considered a leading figure in contemporary medical anthropology, and is known for distinguishing between disease and illness, for the model of explanatory models, and for his long fieldwork in Taiwan and China.
 
 ## Training and Context
 
@@ -69,4 +69,6 @@ Over the last two decades Kleinman has turned to the question of ethics and care
 - Kleinman, Arthur. *The Illness Narratives: Suffering, Healing, and the Human Condition*. New York: Basic Books, 1988.
 - Kleinman, Arthur, Leon Eisenberg, and Byron Good. "Culture, Illness, and Care: Clinical Lessons from Anthropologic and Cross-Cultural Research." *Annals of Internal Medicine* 88, no. 2 (1978): 251-258.
 - Kleinman, Arthur. *Writing at the Margin: Discourse Between Anthropology and Medicine*. Berkeley: University of California Press, 1995.
+- Kleinman, Arthur. *What Really Matters: Living a Moral Life Amidst Uncertainty and Danger*. Oxford University Press, 2006.
+- Kleinman, Arthur. *The Soul of Care*. Viking, 2019.
 - Das, Veena, Arthur Kleinman, and Margaret Lock, eds. *Social Suffering*. Berkeley: University of California Press, 1997.

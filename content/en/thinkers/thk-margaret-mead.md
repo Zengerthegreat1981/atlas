@@ -18,7 +18,7 @@ gaps:
 
 # Margaret Mead
 
-Margaret Mead (1901–1978) was the most famous anthropologist of the twentieth century. Her first book, *Coming of Age in Samoa* (1928), made her a public figure at twenty-six and made cultural relativism a household idea. Over a career of fifty years she wrote more than twenty books, advised governments, appeared on television, and became the public face of anthropology in the United States. She was also one of the most contested figures in the discipline: her Samoan research was challenged after her death in one of anthropology's fiercest controversies, and her later career as a public intellectual drew criticism from colleagues who thought she had traded scholarship for celebrity.
+Margaret Mead (1901–1978) was probably the most widely known anthropologist of the twentieth century. Her first book, *Coming of Age in Samoa* (1928), made her a public figure at twenty-six and made cultural relativism a household idea. Over a career of fifty years she wrote more than twenty books, advised governments, appeared on television, and became the public face of anthropology in the United States. She was also one of the most contested figures in the discipline: her Samoan research was challenged after her death in one of anthropology's fiercest controversies, and her later career as a public intellectual drew criticism from colleagues who thought she had traded scholarship for celebrity.
 
 ## Life and Career
 

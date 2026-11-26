@@ -30,7 +30,7 @@ Oral traditions are not fixed texts. Each performance is a new creation, shaped 
 
 The study of oral tradition was transformed in the 1930s by Milman Parry and Albert Lord, who studied the epic singers of Yugoslavia to solve the riddle of Homer. Parry showed that the repeated phrases of the *Iliad* and the *Odyssey* were the formulas of an oral composer, and Lord's *The Singer of Tales* (1960) demonstrated that oral epic was a living art, not a primitive stage of literature. The Homeric poems, on this view, were not written by a single author but composed in performance by generations of singers.
 
-Jan Vansina's *Oral Tradition as History* (1985) gave oral tradition a new standing as a historical source. Working in Africa, Vansina showed that oral traditions — genealogies, king lists, foundation stories — could be used to reconstruct the past, provided the historian understood how they were transmitted, how they changed, and what their purpose was. A tradition that telescopes several kings into one, or that invents a founding ancestor, is not a failed history but a different kind of history, one that tells us what a society needed to remember.
+Jan Vansina, first in *De la tradition orale* (1961; English translation *Oral Tradition*, 1965) and later in *Oral Tradition as History* (1985), did much to establish oral tradition as a historical source. Working in Africa, Vansina showed that oral traditions — genealogies, king lists, foundation stories — could be used to reconstruct the past, provided the historian understood how they were transmitted, how they changed, and what their purpose was. A tradition that telescopes several kings into one, or that invents a founding ancestor, is not a failed history but a different kind of history, one that tells us what a society needed to remember.
 
 Ruth Finnegan's *Oral Literature in Africa* (1970) widened the field further, documenting the extraordinary variety of African oral genres — from the praise poetry of the Zulu to the riddles of the Yoruba — and arguing against the idea that oral literature was simple or unsophisticated. Walter Ong, in *Orality and Literacy* (1982), argued that writing changes thought itself, fostering abstract, analytical reasoning, while oral cultures think in formulas, stories, and vivid images.
 
@@ -54,4 +54,5 @@ The critique of the field has also been important. Early collectors often treate
 - Finnegan, Ruth. *Oral Literature in Africa*. 1970.
 - Goody, Jack. *The Domestication of the Savage Mind*. 1977.
 - Ong, Walter J. *Orality and Literacy: The Technologizing of the Word*. 1982.
+- Vansina, Jan. *De la tradition orale*. 1961.
 - Vansina, Jan. *Oral Tradition as History*. 1985.

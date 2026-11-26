@@ -19,7 +19,7 @@ gaps: []
 
 *Squeezed: Why Our Families Can't Afford America* (2018), by the journalist Alissa Quart, is a work of reportage on the American middle class in the years after the 2008 financial crisis. Quart, who is executive director of the Economic Hardship Reporting Project, interviewed families across the United States whose incomes were too high for most public assistance yet too low to pay for housing, child care, health care and education without strain. Her central claim is that middle-class life has become structurally unaffordable, that the shortfall is bridged by debt, second jobs and constant improvisation, and that the resulting insecurity is a condition produced by an economy that has shifted risk from employers and the state onto families, not a personal failing.
 
-The book is journalism rather than academic sociology, but it is widely read in sociology courses on inequality, work and family because it describes in concrete cases how structural pressures reach households.
+The book is journalism rather than academic sociology, but it is relevant to the sociology of inequality, work and family because it describes in concrete cases how structural pressures reach households.
 
 ## Method
 

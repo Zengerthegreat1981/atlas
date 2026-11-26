@@ -7,7 +7,7 @@ level: "متقدم"
 title: "Paul Rabinow: Reflexive Anthropology, Ethics, and the Study of Human Practices"
 en: "Paul Rabinow"
 crumb: "Anthropology ← Methods & Epistemology ← Paul Rabinow"
-dates: "USA · 1944–present"
+dates: "USA · 1944–2021"
 edges:
   - rel: "belongs_to", target: "Reflexive Anthropology", target_type: "مدرسة"
   - rel: "developed_method", target: "Ethical Ethnography", target_type: "مفهوم"
@@ -23,11 +23,11 @@ gaps:
 
 # Paul Rabinow: Reflexive Anthropology, Ethics, and the Study of Human Practices
 
-Paul Rabinow (b. 1944) pioneered **reflexive anthropology**, an approach that makes explicit the relationship between the anthropologist and those being studied, examining how fieldwork relationships shape knowledge production. His *Reflections on Fieldwork in Morocco* (1977), an innovative ethnographic account that foregrounds the ethnographer's emotional experiences and ethical dilemmas, transformed how anthropologists understood fieldwork and representation. Beyond reflexivity, Rabinow has developed a distinctive approach to studying human practices and ethics, particularly in science, medicine, and technology, arguing that anthropology should examine how people constitute themselves as ethical subjects and how they engage with systems of knowledge and power. His emphasis on the "contemporary" as a distinct anthropological domain—the present lived experiences of human beings navigating complex systems—offers an alternative to historical or purely comparative anthropology.
+Paul Rabinow (1944–2021) was a prominent exponent of **reflexive anthropology**, an approach that makes explicit the relationship between the anthropologist and those being studied, examining how fieldwork relationships shape knowledge production. His *Reflections on Fieldwork in Morocco* (1977), an innovative ethnographic account that foregrounds the ethnographer's emotional experiences and ethical dilemmas, influenced how anthropologists understood fieldwork and representation. Beyond reflexivity, Rabinow developed a distinctive approach to studying human practices and ethics, particularly in science, medicine, and technology, arguing that anthropology should examine how people constitute themselves as ethical subjects and how they engage with systems of knowledge and power. His emphasis on the "contemporary" as a distinct anthropological domain—the present lived experiences of human beings navigating complex systems—offers an alternative to historical or purely comparative anthropology.
 
 ## Biographical Context and Intellectual Formation
 
-Paul Rabinow, born in 1944, studied at the University of Chicago, where he received his doctorate in anthropology (he was associated with Clifford Geertz's Moroccan research). He was strongly influenced by Michel Foucault, with whom he became closely associated: he co-authored with Hubert Dreyfus *Michel Foucault: Beyond Structuralism and Hermeneutics* (1982) and edited *The Foucault Reader* (1984). Foucault's work on genealogy, ethics, and the constitution of subjects shaped Rabinow's approach. He is a professor at the University of California, Berkeley, where he founded the Anthropology of the Contemporary Research Collaboratory (ARC) and became a leading figure in anthropological engagement with ethics, science, and the contemporary.
+Paul Rabinow, born in 1944, studied at the University of Chicago, where he received his doctorate in anthropology (he was associated with Clifford Geertz's Moroccan research). He was strongly influenced by Michel Foucault, with whom he became closely associated: he co-authored with Hubert Dreyfus *Michel Foucault: Beyond Structuralism and Hermeneutics* (1982) and edited *The Foucault Reader* (1984). Foucault's work on genealogy, ethics, and the constitution of subjects shaped Rabinow's approach. He was a professor at the University of California, Berkeley, where he co-founded the Anthropology of the Contemporary Research Collaboratory (ARC) and became a leading figure in anthropological engagement with ethics, science, and the contemporary.
 
 Rabinow's intellectual formation combined anthropological fieldwork with philosophical engagement with ethics, epistemology, and the question of human freedom, and his work draws on French intellectual traditions from Foucault to the history and philosophy of science.
 
@@ -55,19 +55,19 @@ Rabinow's publications established reflexive and ethical anthropology as central
 
 - **Marking Time: On the Anthropology of the Contemporary** (2008) — Essays setting out his programme for an anthropology of the contemporary.
 
-- **Designing Human Practices: An Experiment with Synthetic Biology** (2012, with Anthony Stavrianakis) — An account of an experimental collaboration with a synthetic biology laboratory.
+- **Designing Human Practices: An Experiment with Synthetic Biology** (2012, with Gaymon Bennett) — An account of an experimental collaboration within a synthetic biology research centre.
 
 These works established reflexive and ethical anthropology as essential approaches to anthropological practice.
 
 ## Fieldwork Practice: Morocco and Contemporary Scientific Practice
 
-Rabinow's fieldwork in Morocco in the late 1960s exemplified his reflexive approach. Rather than claiming to have achieved objective understanding through immersion and observation, Rabinow's account foregrounded the formation of fieldwork relationships, the emotions these generated, and the ethical dilemmas they raised. He discussed his frustrations, his attractions to and repulsions from research subjects, his failure to fully understand Moroccan culture, the ambivalence of fieldwork relationships. This honesty transformed how anthropologists understood fieldwork—revealing it not as a transparent means of accessing cultural knowledge but as an emotionally charged, ethically complex social relationship.
+Rabinow's fieldwork in Morocco in the late 1960s exemplified his reflexive approach. Rather than claiming to have achieved objective understanding through immersion and observation, Rabinow's account foregrounded the formation of fieldwork relationships, the emotions these generated, and the ethical dilemmas they raised. He discussed his frustrations, his attractions to and repulsions from research subjects, his failure to fully understand Moroccan culture, the ambivalence of fieldwork relationships. This candour influenced how anthropologists understood fieldwork—revealing it not as a transparent means of accessing cultural knowledge but as an emotionally charged, ethically complex social relationship.
 
 His later work on science and technology involved fieldwork in laboratories, hospitals, and scientific institutions, studying how scientific practices are constituted, how scientists understand their work ethically, and how scientific knowledge shapes human experience. This work examined not culture in traditional sense but contemporary practices through which people engage with knowledge systems and constitute themselves as ethical subjects.
 
 ## Theoretical Impact: Reflexivity, Ethics, and the Contemporary
 
-Rabinow's epistemological contribution positioned reflexivity and ethics as central to anthropological knowledge production. Rather than treating reflexivity as a methodological problem or a form of self-indulgence, he demonstrated that examining the relationship between researcher and researched was essential to understanding how knowledge is produced and what responsibilities knowledge production entails.
+Rabinow's epistemological contribution positioned reflexivity and ethics as central to anthropological knowledge production. Rather than treating reflexivity as a methodological problem or a form of self-indulgence, he argued that examining the relationship between researcher and researched was essential to understanding how knowledge is produced and what responsibilities knowledge production entails.
 
 His emphasis on ethics—on understanding how people constitute themselves as ethical subjects and on anthropology's responsibility to support human flourishing—offered a distinctive vision of anthropological purpose. Rather than producing objective knowledge about culture, anthropology should examine how people engage with ethical questions and how anthropology can contribute to human freedom and dignity.
 
@@ -93,7 +93,7 @@ Rabinow's reflexive and ethical approach has become foundational to contemporary
 
 Contemporary anthropologists engaging with artificial intelligence, biotechnology, medical practices, and digital systems build on frameworks Rabinow established. His insistence that anthropology should examine contemporary human practices and ethical dilemmas, rather than focusing only on the past or the exotic, has proven durably influential.
 
-Questions remain about how reflexive and ethical anthropology can operate at scale in globally networked research, how it can address structural power inequalities beyond individual relationship ethics, and how it engages with non-Western ethical frameworks. Rabinow's later work continues to explore these questions.
+Questions remain about how reflexive and ethical anthropology can operate at scale in globally networked research, how it can address structural power inequalities beyond individual relationship ethics, and how it engages with non-Western ethical frameworks. These questions remain open for those who build on his work.
 
 ## Major Works
 

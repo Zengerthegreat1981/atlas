@@ -28,7 +28,7 @@ In *Political Parties* (1911), Michels drew on his study of the German Social De
 
 ## The Psychological and Social Roots of the Phenomenon in Michels
 
-Michels was not content with the structural organizational explanation but added a complementary psychological-social dimension. He observed that the rank and file itself often looks forward to the existence of a strong leadership and feels a psychological need to be led by it and to trust in its wisdom, which he called the "psychological need for organization and leadership" among unorganized masses, so that oligarchy is not imposed only from above through the monopoly of technical knowledge, but is partly summoned from below through a mass desire for guidance and decisive leadership. Michels drew in this idea on his reading of the collective psychology of Gustave Le Bon and on the influence of the elitist inclination of his contemporaries Vilfredo Pareto and Gaetano Mosca.
+Michels was not content with the structural organizational explanation but added a complementary psychological-social dimension. He observed that the rank and file itself often looks forward to the existence of a strong leadership and feels a psychological need to be led by it and to trust in its wisdom, so that oligarchy is not imposed only from above through the monopoly of technical knowledge, but is partly summoned from below through a mass desire for guidance and decisive leadership. Michels drew in this idea on his reading of the collective psychology of Gustave Le Bon and on the influence of the elitist inclination of his contemporaries Vilfredo Pareto and Gaetano Mosca.
 
 ## Michels's Relation to Elite Theory
 

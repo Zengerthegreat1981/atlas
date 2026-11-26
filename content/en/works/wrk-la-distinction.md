@@ -28,7 +28,7 @@ Bourdieu's central claim is that taste classifies, and it classifies the classif
 
 ## Structure and Method
 
-The book is organised into three parts, preceded by a long introduction that sets out Bourdieu's theory of social space. The first part analyses the social critique of the judgement of taste, showing how aesthetic preferences correspond to class position. The second examines the economy of practices, including the distribution of cultural capital and the strategies by which different classes maintain or improve their position. The third explores class tastes and lifestyles, from food and clothing to sport and politics. Bourdieu's method combines statistical analysis — notably correspondence analysis, which maps the relationships between social positions and cultural practices — with ethnographic observation and the interpretation of interviews.
+The book is organised into three parts, preceded by an introduction that frames the argument about taste and class. The first part analyses the social critique of the judgement of taste, showing how aesthetic preferences correspond to class position. The second examines the economy of practices, including the distribution of cultural capital and the strategies by which different classes maintain or improve their position. The third explores class tastes and lifestyles, from food and clothing to sport and politics. Bourdieu's method combines statistical analysis — notably correspondence analysis, which maps the relationships between social positions and cultural practices — with ethnographic observation and the interpretation of interviews.
 
 ## Key Concepts
 

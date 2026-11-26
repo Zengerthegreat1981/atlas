@@ -23,7 +23,7 @@ gaps: []
 
 # Berger & Luckmann's Social Constructionism
 
-The most influential work of Peter Berger and Thomas Luckmann in the history of the sociology of knowledge, which laid the conceptual foundation for all later "social constructionist" theory across the social sciences.
+The approach set out by Peter Berger and Thomas Luckmann in the sociology of knowledge, a major reference point for later "social constructionist" theory across the social sciences.
 
 ## The Central Idea
 
@@ -31,7 +31,7 @@ In *The Social Construction of Reality* (1966), Berger and Luckmann argued that 
 
 ## Intellectual Context: Schutz and the Sociology of Knowledge
 
-Berger and Luckmann wrote their work in the context of an attempt to redirect the "sociology of knowledge" founded by Karl Mannheim away from its confinement to the analysis of ideologies and "grand" (philosophical and political) ideas, toward the study of everyday "common-sense knowledge" by which ordinary people live their lives without theoretical reflection. Methodologically they drew on the social phenomenology of Alfred Schutz, a student of Edmund Husserl who emigrated to America and developed a careful analysis of how the everyday "life-world" (Lebenswelt) and its subjective self-evidence are formed for social actors. Luckmann himself was a direct student of Schutz, and after Schutz's death he completed his unfinished work, published as *The Structures of the Life-World* (Schutz and Luckmann, 1973 and 1983), which explains the depth of the phenomenological foundation of their joint book.
+Berger and Luckmann wrote their work in the context of an attempt to redirect the "sociology of knowledge" associated with Max Scheler and Karl Mannheim away from its confinement to the analysis of ideologies and "grand" (philosophical and political) ideas, toward the study of everyday "common-sense knowledge" by which ordinary people live their lives without theoretical reflection. Methodologically they drew on the social phenomenology of Alfred Schutz, who drew on Edmund Husserl's phenomenology, emigrated to America and developed a careful analysis of how the everyday "life-world" (Lebenswelt) and its subjective self-evidence are formed for social actors. Luckmann himself was a direct student of Schutz, and after Schutz's death he completed his unfinished work, published as *The Structures of the Life-World* (Schutz and Luckmann; German 1975 and 1984, English translation 1973 and 1989), which explains the depth of the phenomenological foundation of their joint book.
 
 ## The Three-Part Elaboration: Externalization, Objectivation and Internalization
 
@@ -39,7 +39,7 @@ Each term of the three-part dialectic deserves elaboration. In the phase of "ext
 
 ## Impact and Critique
 
-This work became the foundational reference text for all "social constructionism" in contemporary social science, influencing many fields from the sociology of knowledge to gender, identity and religion studies. It is often placed alongside, though intellectually distinct from, Michel Foucault's analyses of discourse and power. Nevertheless, the work was criticized from two opposing directions. On the one hand, Marxist critics saw that the analysis neglects structures of power and material class conflict and settles for a relatively abstract cognitive-cultural analysis. On the other hand, some advocates of critical realism saw that the exclusive focus on the social "construction" of reality could be wrongly understood as denying the existence of real objective constraints (biological, material, environmental) that go beyond mere social agreement on naming and interpreting them.
+This work became a standard reference text for "social constructionism" in contemporary social science, influencing many fields from the sociology of knowledge to gender, identity and religion studies. It is often placed alongside, though intellectually distinct from, Michel Foucault's analyses of discourse and power. Nevertheless, the work was criticized from two opposing directions. On the one hand, Marxist critics saw that the analysis neglects structures of power and material class conflict and settles for a relatively abstract cognitive-cultural analysis. On the other hand, some advocates of critical realism saw that the exclusive focus on the social "construction" of reality could be wrongly understood as denying the existence of real objective constraints (biological, material, environmental) that go beyond mere social agreement on naming and interpreting them.
 
 ## Major Works
 
@@ -56,5 +56,7 @@ It is worth noting that Berger, despite his fame as one of the fathers of social
 ## Sources
 
 - Berger, Peter L., and Thomas Luckmann. *The Social Construction of Reality: A Treatise in the Sociology of Knowledge*. Doubleday, 1966.
+- Berger, Peter L. *The Sacred Canopy: Elements of a Sociological Theory of Religion*. Doubleday, 1967.
+- Schutz, Alfred, and Thomas Luckmann. *The Structures of the Life-World*. 2 vols. Northwestern University Press, 1973 and 1989.
 - Berger, Peter L. *Invitation to Sociology: A Humanistic Perspective*. Doubleday, 1963.
 - Luckmann, Thomas. *The Invisible Religion: The Problem of Religion in Modern Society*. Macmillan, 1967.

@@ -20,7 +20,7 @@ gaps:
 ---
 # Comtean Positivism
 
-## The Founder of Sociology
+## Naming a New Science
 
 Auguste Comte (1798–1857) invented the word "sociology" and gave the discipline its first systematic programme. Writing in France after the Revolution, he believed that European society was in a profound crisis of order and ideas: the old theological and feudal order had collapsed, and nothing had yet replaced it. His answer was a new science of society, modelled on the natural sciences, which would discover the laws of social life just as astronomy and physics had discovered the laws of nature. That science, first called "social physics" and then sociology, would guide the rational reorganisation of society. Comte's positivism is therefore both a theory of knowledge and a political project: only knowledge based on observed facts, he argued, can end the anarchy of opinions and restore social order.
 

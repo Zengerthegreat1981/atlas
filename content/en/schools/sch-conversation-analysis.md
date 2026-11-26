@@ -8,7 +8,7 @@ title: Conversation Analysis
 en: Conversation Analysis
 crumb: Sociology ← Branches ← Conversation Analysis
 dates: contemporary
-active_start: 1970
+active_start: 1964
 active_end: مستمر
 edges: []
 related: []
@@ -35,7 +35,7 @@ The field's founding statement was Sacks, Emanuel Schegloff, and Gail Jefferson'
 
 ## Key Figures and Works
 
-Garfinkel provided the philosophical foundation: social order is produced by members' methods, and those methods are available for study. Sacks invented the field, showing that recordings of ordinary talk contain a hidden order worth describing in detail, and that a single episode can reveal general machinery. Schegloff systematised that machinery, above all in the study of repair and sequence, and insisted on grounding every claim in the participants' own displayed understanding.
+Garfinkel provided the philosophical foundation: social order is produced by members' methods, and those methods are available for study. Sacks is generally regarded as the originator of the field, showing that recordings of ordinary talk contain a hidden order worth describing in detail, and that a single episode can reveal general machinery. Schegloff systematised that machinery, above all in the study of repair and sequence, and insisted on grounding every claim in the participants' own displayed understanding.
 
 Jefferson, who developed the transcription system that renders pauses, overlap, and intonation visible on the page, made the field's data analysable — her conventions are now widely used across the field. Heritage connected conversation analysis to ethnomethodology and to the study of institutions, showing how medical consultations and political interviews have their own interactional fingerprints. Hutchby and Wooffitt consolidated the field as a teachable method with applications across sociology, psychology, linguistics, and communication.
 

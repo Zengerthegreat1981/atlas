@@ -7,7 +7,7 @@ title: "Robert Wuthnow"
 en: "Robert Wuthnow"
 crumb: "Sociology ← Thinkers ← Robert Wuthnow"
 dates: "United States · 1946–"
-active_start: 1988
+active_start: 1976
 active_end: "مستمر"
 country: "United States"
 language: "English"

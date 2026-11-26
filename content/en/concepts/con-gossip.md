@@ -33,7 +33,7 @@ Niko Besnier, in *Gossip and the Everyday Production of Politics* (2009), studie
 
 ## Ethnographic Examples
 
-Ethnography is full of gossip in action. Gluckman, drawing on his work in southern Africa and on English and other cases, treated gossip and scandal as a means by which groups assert their values and exclude outsiders. Among the Tzotzil-speaking people of Zinacantan, Haviland showed that gossip is shaped by the social relations of the community and bears directly on reputation. In Tuvalu, Besnier showed how gossip, in a small face-to-face community, shapes how people's conduct and standing are judged and thereby feeds into local politics.
+Ethnography is full of gossip in action. Gluckman, drawing on Elizabeth Colson's study of the Makah of the north-west coast of North America and on other cases, treated gossip and scandal as a means by which groups assert their values and exclude outsiders. Among the Tzotzil-speaking people of Zinacantan, Haviland showed that gossip is shaped by the social relations of the community and bears directly on reputation. In Tuvalu, Besnier showed how gossip, in a small face-to-face community, shapes how people's conduct and standing are judged and thereby feeds into local politics.
 
 Gossip also has its genres and its etiquette. In many societies there are recognised ways of starting gossip — a raised eyebrow, a "did you hear?", a story told as a joke — and recognised ways of denying it or passing it on without taking responsibility for it. Some gossip is praise, not blame: talk about someone's generosity or courage builds their reputation just as surely as scandal destroys it.
 

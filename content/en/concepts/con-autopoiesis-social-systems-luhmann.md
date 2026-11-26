@@ -44,4 +44,5 @@ Luhmann treats consciousness ("psychic systems") and society as two distinct aut
 - Luhmann, Niklas. *Social Systems*. Translated by John Bednarz Jr. with Dirk Baecker. Stanford University Press, 1995.
 - Maturana, Humberto R., and Francisco J. Varela. *Autopoiesis and Cognition: The Realization of the Living*. D. Reidel, 1980.
 - Habermas, Jürgen, and Niklas Luhmann. *Theorie der Gesellschaft oder Sozialtechnologie*. Suhrkamp, 1971.
+- Habermas, Jürgen. *The Philosophical Discourse of Modernity*. 1985 (English translation 1987).
 - Teubner, Gunther. *Law as an Autopoietic System*. Blackwell, 1993.

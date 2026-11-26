@@ -4,9 +4,9 @@ id: SOC-14313
 type: عمل
 part: sociology
 level: متوسط
-title: "On Suicide: The Strategic Meanings of Self-Destruction"
-en: On Suicide
-crumb: "Sociology ← Works ← On Suicide"
+title: "Suicides (Les Suicides)"
+en: Suicides
+crumb: "Sociology ← Works ← Suicides"
 dates: Jean Baechler · 1975
 active_start: 1975
 active_end: مستمر
@@ -16,13 +16,13 @@ gaps:
 - Detailed empirical case studies: not yet covered
 ---
 
-# On Suicide: The Strategic Meanings of Self-Destruction
+# Suicides (Les Suicides)
 
-*On Suicide* is Jean Baechler's study of suicide as meaningful human conduct, published in French as *Les Suicides* (Paris: Calmann-Lévy, 1975) and in English as *Suicides* (New York: Basic Books, 1979). It originated in Baechler's doctoral work in France, and it is one of the best-known sociological challenges to Durkheim's *Suicide*. Where Durkheim treated suicide as a social fact to be explained by rates and currents, Baechler treats it as a behaviour to be understood by the meaning the actor gives it — a strategic response to a problem the person cannot otherwise solve.
+*Les Suicides* is Jean Baechler's study of suicide as meaningful human conduct, published in French as *Les Suicides* (Paris: Calmann-Lévy, 1975) and in English as *Suicides* (New York: Basic Books, 1979). It is one of the best-known sociological challenges to Durkheim's *Suicide*. Where Durkheim treated suicide as a social fact to be explained by rates and currents, Baechler treats it as a behaviour to be understood by the meaning the actor gives it — a strategic response to a problem the person cannot otherwise solve.
 
 ## The Strategic Approach
 
-Baechler's starting point is a definition. Suicide, for him, is not an act but a behaviour: any behaviour that seeks and finds the solution to an existential problem by making an attempt on the life of the subject. The distinction matters, because it shifts the question from "why did he die?" to "what problem was he trying to solve?" Suicide is a means, not an end in itself, and it must be understood through the actor's own logic — what the sociologist of action calls the *in order to* motive, the purpose the act is meant to serve, rather than the *because* motive, the past causes that pushed the person toward it. Baechler's method follows from this: he works from case histories, coroners' reports, and clinical accounts, reconstructing the internal logic of each case and building a typology in the spirit of Max Weber's ideal types. The approach owes as much to Alfred Schutz's phenomenology of motives as to Durkheim, and it deliberately reverses Durkheim's procedure: instead of aggregating cases into rates, it disaggregates them into meanings.
+Baechler's starting point is a definition. Suicide, for him, is not an act but a behaviour: any behaviour that seeks and finds the solution to an existential problem by making an attempt on the life of the subject. The distinction matters, because it shifts the question from "why did he die?" to "what problem was he trying to solve?" Suicide is a means, not an end in itself, and it must be understood through the actor's own logic: the purpose the act is meant to serve, and not only the past causes that pushed the person toward it. Baechler's method follows from this: he works from case material, reconstructing the internal logic of each case and building a typology in the spirit of Max Weber's ideal types. The approach reverses Durkheim's procedure: instead of aggregating cases into rates, it disaggregates them into meanings.
 
 ## The Typology: Four Types, Eleven Meanings
 
@@ -30,11 +30,11 @@ From his cases Baechler derives a typology of the typical meanings suicide can c
 
 ## The Critique of Durkheim
 
-Baechler's critique of Durkheim is direct and damaging. He argues that Durkheim's correlation between religion and suicide does not hold: the differences in suicide rates between religious groups cannot be explained simply by the degree of cohesion of the community, and that religion is a weaker factor than Durkheim supposed. More broadly, he argues that Durkheim's rates explain nothing about any particular suicide: a rate is an aggregate that conceals the very phenomenon it claims to explain. The criticism does not abolish Durkheim — Baechler keeps the sociological question — but it relocates it: the sociology of suicide must begin from the meaning of the act for the actor, and only then ask how social conditions shape the problems to which suicide is a response.
+Baechler's critique of Durkheim is direct. A central point is that explanations of rates do not by themselves explain any particular suicide: a rate is an aggregate that leaves out the situation and intentions of the people counted in it. The criticism does not abolish Durkheim — Baechler keeps the sociological question — but it relocates it: the sociology of suicide must begin from the meaning of the act for the actor, and only then ask how social conditions shape the problems to which suicide is a response.
 
 ## Reception and Influence
 
-The book was received as a major contribution to suicidology and to the sociology of action, and it remains the standard reference for the typological approach to suicidal behaviour. Its emphasis on the meaning of suicide for the actor has been discussed in suicidology alongside other approaches, such as Jack Douglas's *The Social Meanings of Suicide* (1967). Critics have argued that the typology is difficult to apply reliably, since the actor's meaning must often be inferred from others after the death, and that the case material, drawn largely from European sources, limits its generality. Others note that the book's focus on meaning leaves the social distribution of suicide — Durkheim's question — unanswered, and that a complete sociology of suicide needs both the meanings Baechler maps and the rates Durkheim measured. That is the book's lasting position: not a replacement for Durkheim but the necessary complement to him, the study that insists that behind every rate there are people solving problems, in the only way they can see, with their own deaths.
+The book was received as a major contribution to suicidology and to the sociology of action, and it is a frequently cited example of the typological approach to suicidal behaviour. Its emphasis on the meaning of suicide for the actor has been discussed in suicidology alongside other approaches, such as Jack Douglas's *The Social Meanings of Suicide* (1967). Critics have argued that the typology is difficult to apply reliably, since the actor's meaning must often be inferred from others after the death, and that selected case material limits its generality. Others note that the book's focus on meaning leaves the social distribution of suicide — Durkheim's question — unanswered, and that a complete sociology of suicide needs both the meanings Baechler maps and the rates Durkheim measured. That is the book's lasting position: not a replacement for Durkheim but the necessary complement to him, the study that insists that behind every rate there are people solving problems, in the only way they can see, with their own deaths.
 
 ## Sources
 

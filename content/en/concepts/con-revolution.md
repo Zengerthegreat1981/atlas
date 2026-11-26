@@ -46,7 +46,7 @@ Current scholarship debates whether the age of revolution is over. Some argue th
 
 ## Sources
 
-- Brinton, Crane. *The Anatomy of Revolution*. Prentice-Hall, 1938.
+- Brinton, Crane. *The Anatomy of Revolution*. W. W. Norton, 1938.
 - Goldstone, Jack A. *Revolution and Rebellion in the Early Modern World*. University of California Press, 1991.
 - Huntington, Samuel P. *Political Order in Changing Societies*. Yale University Press, 1968.
 - Skocpol, Theda. *States and Social Revolutions: A Comparative Analysis of France, Russia, and China*. Cambridge University Press, 1979.

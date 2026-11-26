@@ -37,7 +37,7 @@ Jacobs, an activist and writer rather than an academic by formal training, criti
 
 ## Major Works and Extensions
 
-Jacobs developed her thesis further in later works such as *The Economy of Cities* (1969), in which she elaborated an economic vision of cities as the primary engine of historical economic growth in place of agriculture. Herbert Gans's field study *The Urban Villagers* (1962), on Boston's Italian-American neighborhood (the West End), empirically supported Jacobs's thesis from a different angle. It showed how the neighborhood, apparently "poor" in the eyes of planners, actually sheltered a rich and cohesive social network that its demolition for "urban renewal" destroyed. This actual destruction of neighborhoods was later summed up in the slogan "urban renewal is Negro removal" (associated with James Baldwin in 1963), reflecting its disproportionate effect on poor and Black neighborhoods.
+Jacobs developed her thesis further in later works such as *The Economy of Cities* (1969), in which she argued that cities are the main engines of economic growth and, controversially, that agriculture itself first developed out of urban economies. Herbert Gans's field study *The Urban Villagers* (1962), on Boston's Italian-American neighborhood (the West End), complemented Jacobs's argument from a different angle. It showed how the neighborhood, apparently "poor" in the eyes of planners, actually sheltered a rich and cohesive social network that its demolition for "urban renewal" destroyed. This actual destruction of neighborhoods was later summed up in the slogan "urban renewal is Negro removal" (associated with James Baldwin in 1963), reflecting its disproportionate effect on poor and Black neighborhoods.
 
 ## Impact and Critique
 

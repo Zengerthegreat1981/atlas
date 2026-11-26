@@ -35,7 +35,7 @@ In the post-war decades the field broadened: Robert Escarpit studied reading pub
 
 ## Key Figures and Ideas
 
-Georg Lukacs remains the field's founding theorist: his claim that literary form carries historical meaning set the agenda for a century of work. Lucien Goldmann refined this into a method, reading novels as expressions of a class worldview and treating the author's consciousness as a collective structure rather than a purely individual gift. Ian Watt showed how to connect genre history to social history, tracing the novel's realism to the material conditions of eighteenth-century print culture and middle-class life.
+Georg Lukacs remains a foundational theorist of the field: his claim that literary form carries historical meaning set the agenda for a century of work. Lucien Goldmann refined this into a method, reading novels as expressions of a class worldview and treating the author's consciousness as a collective structure rather than a purely individual gift. Ian Watt showed how to connect genre history to social history, tracing the novel's realism to the material conditions of eighteenth-century print culture and middle-class life.
 
 Pierre Bourdieu supplied the field's central institutional vocabulary. In his account, the literary field is relatively autonomous: it has its own rules, prizes, and forms of prestige, but it is also shaped by economic power and political interference. Writers occupy positions in the field — consecrated, avant-garde, commercial — and their aesthetic choices are also position-takings in a struggle for recognition. Janice Radway showed that romance readers actively use supposedly escapist novels as a resource for everyday emotional life.
 

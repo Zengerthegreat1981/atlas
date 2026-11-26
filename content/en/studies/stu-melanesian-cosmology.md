@@ -9,7 +9,7 @@ en: Melanesian Cosmology and Exchange Systems – Wagner on Person, Relation, an
 ar: الكونية الميلانيزية وأنظمة التبادل - دراسة واغنر للشخص والعلاقة والمعنى
 crumb: Anthropology ← Symbolic Anthropology ← Melanesian Knowledge
 dates: 1972-1991
-active_start: 1966
+active_start: 1963
 active_end: 1991
 edges: []
 related:
@@ -28,7 +28,7 @@ sources:
 
 # Melanesian Cosmology and Exchange Systems: Wagner on Person, Relation, and Meaning
 
-Roy Wagner is an American anthropologist known for his work on Melanesian religion and exchange and for an unusual theory of culture as invention. He did fieldwork among the Daribi of Mount Karimui in the Southern Highlands of Papua New Guinea (1966-68), producing *Habu: The Innovation of Meaning in Daribi Religion* (1972), and later among the Usen Barok of New Ireland, producing *Asiwinarong* (1986). His book *The Invention of Culture* (1975; revised 1981) and the essay "The Fractal Person" (1991) are central to this entry.
+Roy Wagner (1938-2018) was an American anthropologist known for his work on Melanesian religion and exchange and for an unusual theory of culture as invention. He did fieldwork among the Daribi of the Mount Karimui area in Chimbu (Simbu) Province, Papua New Guinea, from the early 1960s, producing *Habu: The Innovation of Meaning in Daribi Religion* (1972), and later among the Usen Barok of New Ireland, producing *Asiwinarong* (1986). His book *The Invention of Culture* (1975; revised 1981) and the essay "The Fractal Person" (1991) are central to this entry.
 
 ## Daribi Habu and the Invention of Culture
 
@@ -36,11 +36,11 @@ Wagner's Daribi material shows exchange and ritual as ways in which people conti
 
 ## Asiwinarong
 
-*Asiwinarong* studied the Usen Barok of New Ireland (in the Bismarck Archipelago, not the Rai Coast of mainland New Guinea). As its subtitle indicates, the book is a study of ethos, image and social power among the Barok, using their ritual imagery and cosmology, in particular the symbolism of their ceremonial life, to analyze how people produce standing and influence.
+*Asiwinarong* studied the Usen Barok of New Ireland (in the Bismarck Archipelago). As its subtitle indicates, the book is a study of ethos, image and social power among the Barok, using their ritual imagery and cosmology, in particular the symbolism of their ceremonial life, to analyze how people produce standing and influence.
 
 ## The Fractal Person
 
-In "The Fractal Person" (1991), Wagner argued that Melanesian persons should not be seen as individuals set against a collective society, but as "fractal": a person is never a unit or a plurality in relation to something larger, but always an entity with relationships integrally implicated in it, so that the same pattern (person with relations) recurs at every scale. This idea of non-bounded, relational personhood influenced Marilyn Strathern's *The Gender of the Gift* (1988), which analyzed Melanesian persons as "dividual" or composite, constituted by the relations and gifts that pass through them, and which criticized Western assumptions of the autonomous individual in analyses of gift exchange. Wagner's work and Strathern's belong to a broader rethinking of Melanesian exchange (see also the work on Kula in the Massim by Munn and by the Leaches).
+In "The Fractal Person" (1991), Wagner argued that Melanesian persons should not be seen as individuals set against a collective society, but as "fractal": a person is never a unit or a plurality in relation to something larger, but always an entity with relationships integrally implicated in it, so that the same pattern (person with relations) recurs at every scale. This idea of non-bounded, relational personhood built on and converged with Marilyn Strathern's earlier *The Gender of the Gift* (1988), which analyzed Melanesian persons as "dividual" or composite, constituted by the relations and gifts that pass through them, and which criticized Western assumptions of the autonomous individual in analyses of gift exchange. Wagner's work and Strathern's belong to a broader rethinking of Melanesian exchange (see also the work on Kula in the Massim by Munn and in the volume edited by the Leaches).
 
 ## Reception and Critique
 
@@ -52,5 +52,6 @@ Wagner's writing is philosophical and often difficult; some critics found it mor
 - Wagner, R. (1981). *The Invention of Culture* (rev. ed.). University of Chicago Press. (First edition 1975, Prentice-Hall.)
 - Wagner, R. (1986). *Asiwinarong: Ethos, Image, and Social Power among the Usen Barok of New Ireland*. Princeton University Press.
 - Wagner, R. (1991). The fractal person. In M. Godelier & M. Strathern (eds), *Big Men and Great Men*. Cambridge University Press.
+- Munn, N. D. (1986). *The Fame of Gawa*. Cambridge University Press.
 - Strathern, M. (1988). *The Gender of the Gift*. University of California Press.
 - Leach, J. W. & Leach, E. (eds) (1983). *The Kula: New Perspectives on Massim Exchange*. Cambridge University Press.

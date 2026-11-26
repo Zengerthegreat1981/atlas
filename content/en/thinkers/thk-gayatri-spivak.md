@@ -35,7 +35,7 @@ Spivak was born in Calcutta in 1942 and studied there before moving to the Unite
 
 ## Major Works
 
-- Translator's preface to Jacques Derrida, Of Grammatology (1976)
+- Translation of, and translator's preface to, Jacques Derrida, Of Grammatology (1976)
 - In Other Worlds: Essays in Cultural Politics (1987)
 - "Can the Subaltern Speak?" (1988)
 - Selected Subaltern Studies (co-edited with Ranajit Guha, 1988)
@@ -45,7 +45,7 @@ Spivak was born in Calcutta in 1942 and studied there before moving to the Unite
 
 ## Case Studies
 
-"Can the Subaltern Speak?" discusses the debate on the abolition of widow immolation (sati) in colonial India and the case of Bhuvaneswari Bhaduri, a young woman who took her own life in 1926, to examine how the subaltern woman's act was interpreted by others. Spivak has also translated the fiction of the Bengali writer Mahasweta Devi, including *Imaginary Maps* (1995) and *Breast Stories* (1997).
+"Can the Subaltern Speak?" discusses the debate on the abolition of widow immolation (sati) in colonial India and the case of Bhubaneswari Bhaduri, a young woman who took her own life in 1926, to examine how the subaltern woman's act was interpreted by others. Spivak has also translated the fiction of the Bengali writer Mahasweta Devi, including *Imaginary Maps* (1995) and *Breast Stories* (1997).
 
 ## Method
 

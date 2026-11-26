@@ -4,7 +4,7 @@ id: "ANT-13010"
 type: "مفكر"
 part: "anthropology"
 level: "متقدم"
-title: "Bronislaw Malinowski: Founder of Modern Ethnographic Fieldwork"
+title: "Bronislaw Malinowski: Modern Ethnographic Fieldwork"
 en: "Bronislaw Malinowski"
 crumb: "Anthropology ← Methods & Epistemology ← Bronislaw Malinowski"
 dates: "Poland-UK · 1884-1942"
@@ -20,7 +20,7 @@ gaps:
   - "Gender bias in his ethnographic accounts: not yet covered"
 ---
 
-# Bronislaw Malinowski: Founder of Modern Ethnographic Fieldwork
+# Bronislaw Malinowski: Modern Ethnographic Fieldwork
 
 Bronislaw Malinowski (1884–1942) is recognized as the architect of participant observation and long-term intensive fieldwork—the methodological foundation of twentieth-century anthropology. His revolutionary approach transformed ethnography from armchair speculation and brief survey visits into a disciplined practice of sustained immersion, direct observation, and intimate knowledge of living communities. His *Argonauts of the Western Pacific* (1922) established the modern standard for ethnographic authority and set the template for professional anthropological monographs that endures today.
 
@@ -62,7 +62,7 @@ Each work established new standards for data presentation, contextual detail, an
 
 Malinowski's actual fieldwork practice in the Trobriand Islands (1915–1918) exemplified his methodological principles. He learned the Kiriwinian language sufficiently to conduct interviews and understand daily conversation without interpretation. He participated in community activities—ceremonies, economic exchanges, meals, leisure activities—and maintained detailed daily notes on observations, conversations, and contextual details.
 
-Crucially, Malinowski did not isolate himself in a European compound but embedded himself within community life, though always as a recognized outsider. His fieldwork generated intimate knowledge of particular individuals and their relationships, which he recorded in his monographs through detailed case studies and examples. He documented the kula exchange system through direct observation and participation in actual transactions, recording not merely the formal rules but the emotional investments, strategic negotiations, and personal rivalries driving the system.
+Crucially, Malinowski did not isolate himself in a European compound but embedded himself within community life, though always as a recognized outsider. His fieldwork generated intimate knowledge of particular individuals and their relationships, which he recorded in his monographs through detailed case studies and examples. He documented the kula exchange system through close observation of actual transactions, recording not merely the formal rules but the emotional investments, strategic negotiations, and personal rivalries driving the system.
 
 His approach generated both depth of knowledge and significant ethical complications. His personal diaries reveal that he experienced profound isolation, sexual frustration, and racist disdain for his informants—emotional realities that complicate the image of the detached observer. Yet these diaries also demonstrate the psychological intensity required to maintain ethnographic presence and the emotional labor of fieldwork itself.
 
@@ -113,7 +113,7 @@ Multi-sited ethnography, collaborative methodologies, and indigenous-led researc
 ## Sources
 
 - Malinowski, Bronislaw. *Argonauts of the Western Pacific: An Account of Native Enterprise and Adventure in the Archipelagoes of Melanesian New Guinea*. Routledge, 1922.
-- Malinowski, Bronislaw. *Crime and Custom in Savage Society*. International Library of Psychology, Philosophy and Scientific Method, 1926.
+- Malinowski, Bronislaw. *Crime and Custom in Savage Society*. Kegan Paul, Trench, Trubner, 1926.
 - Malinowski, Bronislaw. *A Diary in the Strict Sense of the Term*. Translated by Norbert Guterman. Routledge and Kegan Paul, 1967.
 - Firth, Raymond, ed. *Man and Culture: An Evaluation of the Work of Bronislaw Malinowski*. Routledge and Kegan Paul, 1957.
 - Young, Michael W. *Malinowski's Kiriwina: Fieldwork Photography 1915-1918*. University of Chicago Press, 1998.

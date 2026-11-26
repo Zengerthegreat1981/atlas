@@ -21,7 +21,7 @@ gaps:
 
 ## Historical Context and Publication
 
-Bauman wrote *Liquid Modernity* at the turn of the millennium, after a long career that had already produced major works on class, the Holocaust, and postmodern ethics. Born in Poznań in 1925, Bauman fled Poland in 1968 after an antisemitic campaign and taught at the University of Leeds, where he became one of the most prolific sociologists of his generation. The book appeared in a decade of deregulation, privatisation, and the rise of the internet, when the certainties of the post-war settlement — secure employment, the welfare state, lifelong marriage — were visibly dissolving. Bauman's earlier *Modernity and the Holocaust* (1989) had argued that the Holocaust was a product of modern rationality rather than its breakdown; *Liquid Modernity* extended his diagnosis of modernity into a new phase.
+Bauman wrote *Liquid Modernity* at the turn of the millennium, after a long career that had already produced major works on class, the Holocaust, and postmodern ethics. Born in Poznań in 1925, Bauman was forced to leave Poland in 1968 during an antisemitic campaign and later taught at the University of Leeds, where he became one of the most prolific sociologists of his generation. The book appeared in a decade of deregulation, privatisation, and the rise of the internet, when the certainties of the post-war settlement — secure employment, the welfare state, lifelong marriage — were visibly dissolving. Bauman's earlier *Modernity and the Holocaust* (1989) had argued that the Holocaust was a product of modern rationality rather than its breakdown; *Liquid Modernity* extended his diagnosis of modernity into a new phase.
 
 ## Thesis and Core Argument
 

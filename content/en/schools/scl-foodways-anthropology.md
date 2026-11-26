@@ -40,7 +40,8 @@ The anthropology of food has reshaped how the social sciences think about consum
 
 ## Sources
 
-- Lévi-Strauss, Claude. The Raw and the Cooked. Paris: Plon, 1964.
+- Lévi-Strauss, Claude. Le Cru et le cuit. Paris: Plon, 1964 (English: The Raw and the Cooked, 1969).
+- Douglas, Mary. "Deciphering a Meal." Daedalus 101, no. 1 (1972): 61–81.
 - Harris, Marvin. Cows, Pigs, Wars, and Witches: The Riddles of Culture. New York: Random House, 1974.
 - Goody, Jack. Cooking, Cuisine and Class: A Study in Comparative Sociology. Cambridge: Cambridge University Press, 1982.
 - Mintz, Sidney W. Sweetness and Power: The Place of Sugar in Modern History. New York: Viking, 1985.

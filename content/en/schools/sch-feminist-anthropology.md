@@ -31,7 +31,7 @@ Michelle Zimbalist Rosaldo (1944–1981) co-edited the founding volume and wrote
 
 ## Key Works
 
-Rosaldo and Lamphere's Woman, Culture, and Society (1974) is the founding collection. Reiter's Toward an Anthropology of Women (1975) is its companion volume. Rubin's "The Traffic in Women: Notes on the 'Political Economy' of Sex" (1975) remains a foundational theoretical text. Rosaldo's Knowledge and Passion: Ilongot Notions of Self and Social Life (1980) is the classic feminist ethnography of emotion. Abu-Lughod's Veiled Sentiments: Honor and Poetry in a Bedouin Society (1986) showed how poetry carried women's unspoken feelings. Strathern's "An Awkward Relationship: The Case of Feminism and Anthropology" (1987) argued that feminist anthropology had been accommodated as a niche rather than transforming the discipline. Her The Gender of the Gift: Problems with Women and Problems with Society in Melanesia (1988) is the school's most sustained critique of cross-cultural comparison.
+Rosaldo and Lamphere's Woman, Culture, and Society (1974) is the founding collection. Reiter's Toward an Anthropology of Women (1975) is its companion volume. Rubin's "The Traffic in Women: Notes on the 'Political Economy' of Sex" (1975) remains a foundational theoretical text. Rosaldo's Knowledge and Passion: Ilongot Notions of Self and Social Life (1980) is the classic feminist ethnography of emotion. Abu-Lughod's Veiled Sentiments: Honor and Poetry in a Bedouin Society (1986) showed how poetry carried women's unspoken feelings. Strathern's "An Awkward Relationship: The Case of Feminism and Anthropology" (1987) argued that feminist anthropology had been accommodated as a niche rather than transforming the discipline. Her The Gender of the Gift: Problems with Women and Problems with Society in Melanesia (1988) offers a sustained critique of the assumptions behind cross-cultural comparison.
 
 ## Method
 
@@ -53,6 +53,9 @@ Two further developments widened the field. First, non-Western and postcolonial 
 - Abu-Lughod, Lila. Veiled Sentiments: Honor and Poetry in a Bedouin Society. Berkeley: University of California Press, 1986.
 - Strathern, Marilyn. "An Awkward Relationship: The Case of Feminism and Anthropology." Signs 12, no. 2 (1987): 276–292.
 - Strathern, Marilyn. The Gender of the Gift: Problems with Women and Problems with Society in Melanesia. Berkeley: University of California Press, 1988.
+- Nanda, Serena. Neither Man nor Woman: The Hijras of India. Belmont, CA: Wadsworth, 1990.
+- Oyěwùmí, Oyèrónkẹ́. The Invention of Women: Making an African Sense of Western Gender Discourses. Minneapolis: University of Minnesota Press, 1997.
+- Roscoe, Will. Changing Ones: Third and Fourth Genders in Native North America. New York: St. Martin's Press, 1998.
 - Behar, Ruth, and Deborah A. Gordon, eds. Women Writing Culture. Berkeley: University of California Press, 1995.
 - Mahmood, Saba. Politics of Piety: The Islamic Revival and the Feminist Subject. Princeton: Princeton University Press, 2005.
 - Lewin, Ellen, ed. Feminist Anthropology: A Reader. Malden, MA: Blackwell, 2006.

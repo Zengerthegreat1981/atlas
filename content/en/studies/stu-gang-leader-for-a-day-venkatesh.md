@@ -32,10 +32,11 @@ Venkatesh, the son of middle-class Indian immigrants, began his research in the 
 
 ## Impact and Critique
 
-Through its unprecedented field immersion, the study offered an ethnographic window on the economic structure of the informal economy in poor American neighborhoods. It also provoked a methodological and ethical debate about the limits of the researcher's immersion in activities that may be illegal for research purposes, echoing earlier debates raised by Laud Humphreys's *Tearoom Trade* (1970). Some academic colleagues criticized Venkatesh for getting so close to his subject that analytical neutrality may be threatened, and for not reporting to official authorities criminal activities he witnessed directly. Venkatesh has argued that deep involvement was what made this documentation possible.
+Through prolonged field immersion, the study offered an ethnographic window on the economic structure of the informal economy in poor American neighborhoods. It also provoked a methodological and ethical debate about the limits of the researcher's immersion in activities that may be illegal for research purposes, echoing earlier debates raised by Laud Humphreys's *Tearoom Trade* (1970). Some academic colleagues criticized Venkatesh for getting so close to his subject that analytical neutrality may be threatened, and for not reporting to official authorities criminal activities he witnessed directly. Venkatesh has argued that deep involvement was what made this documentation possible.
 
 ## Sources
 
 - Venkatesh, Sudhir. *Gang Leader for a Day: A Rogue Sociologist Takes to the Streets*. Penguin Press, 2008.
+- Humphreys, Laud. *Tearoom Trade: Impersonal Sex in Public Places*. Aldine, 1970.
 - Levitt, Steven D., and Sudhir Venkatesh. "An Economic Analysis of a Drug-Selling Gang's Finances." *Quarterly Journal of Economics* 115, no. 3 (2000): 755–789.
 - Venkatesh, Sudhir, and Steven D. Levitt. "'Are We a Family or a Business?' History and Disjuncture in the Urban American Street Gang." *Theory and Society* 29, no. 4 (2000): 427–462.

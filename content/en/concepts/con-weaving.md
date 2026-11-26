@@ -28,9 +28,9 @@ But a technical definition misses what matters most to anthropologists. Weaving 
 
 ## Origins and Development
 
-The earliest evidence of weaving comes from the Palaeolithic: impressions of woven and twined fabrics in fired clay at Dolní Věstonice in Central Europe date to around 27,000 years ago. Loom weaving of linen from cultivated flax is attested in the Neolithic Near East, and by the Bronze Age, textile production was a major organised industry in Egypt, Mesopotamia, and the Aegean, employing large numbers of workers and supplying cloth for trade, tribute, and ritual.
+Some of the earliest evidence of woven fibre technology comes from the Palaeolithic: impressions of woven and twined fabrics in fired clay at Dolní Věstonice in Central Europe date to around 27,000 years ago. Loom weaving of linen from cultivated flax is attested in the Neolithic Near East, and by the Bronze Age, textile production was a major organised industry in Egypt, Mesopotamia, and the Aegean, employing large numbers of workers and supplying cloth for trade, tribute, and ritual.
 
-Different regions developed distinctive traditions. In the Andes, weavers achieved extraordinary complexity with the backstrap loom, producing textiles so valued that they were buried with the dead and offered to the gods. In West Africa, narrow-strip weaving produced the brilliant patterned cloths known as kente. In Europe and Asia, the treadle loom and later mechanisation transformed weaving from a household craft into a factory industry, a shift that reshaped whole economies and provoked resistance, most famously among the Luddites in early nineteenth-century England.
+Different regions developed distinctive traditions. In the Andes, weavers achieved extraordinary complexity with the backstrap loom, producing textiles so valued that they were buried with the dead and offered to the gods. In West Africa, narrow-strip weaving produced the brilliant patterned cloths known as kente. In Europe and Asia, the treadle loom and later mechanisation transformed weaving from a household craft into a factory industry, a shift that reshaped whole economies and provoked resistance, as in the Luddite protests of textile workers in early nineteenth-century England.
 
 ## Key Debates and Dimensions
 

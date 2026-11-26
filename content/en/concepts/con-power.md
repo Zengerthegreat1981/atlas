@@ -48,6 +48,7 @@ Power remains central to sociology and political science. It now frames research
 
 ## Sources
 
+- Bachrach, Peter, and Morton S. Baratz. "Two Faces of Power." *American Political Science Review*, vol. 56, no. 4, 1962, pp. 947–952.
 - Dahl, Robert A. "The Concept of Power." *Behavioral Science*, vol. 2, no. 3, 1957, pp. 201–215.
 - Foucault, Michel. *Discipline and Punish: The Birth of the Prison*. Allen Lane, 1977. First published in French, 1975.
 - Lukes, Steven. *Power: A Radical View*. Macmillan, 1974.

@@ -8,7 +8,7 @@ title: Disaster Sociology
 en: Disaster Sociology
 crumb: Sociology ← Branches ← Disaster Sociology
 dates: contemporary
-active_start: 1970
+active_start: 1920
 active_end: مستمر
 edges: []
 related: []
@@ -29,9 +29,9 @@ Afterwards, the field studies recovery: who returns, who rebuilds, and who is le
 
 ## History
 
-The field's founding study was Samuel Henry Prince's Catastrophe and Social Change (1920), based on the Halifax explosion of 1917, when a munitions ship detonated in the harbour, killing some two thousand people. Prince documented how the disaster disrupted social institutions and how new forms of organisation emerged, establishing that catastrophes could be studied sociologically.
+The field's founding study was Samuel Henry Prince's Catastrophe and Social Change (1920), based on the Halifax explosion of 1917, when a munitions ship caught fire after a collision in the harbour and exploded, killing some two thousand people. Prince documented how the disaster disrupted social institutions and how new forms of organisation emerged, establishing that catastrophes could be studied sociologically.
 
-Systematic research began after the Second World War, when the United States government funded studies of civilian behaviour under attack, and Charles Fritz led field teams that could be deployed rapidly to disaster sites. Fritz's chapter "Disaster" (1961) defined a disaster as an event concentrated in time and space that disrupts social structure, and his work challenged the assumption that disasters produce widespread psychological breakdown. The Disaster Research Center, founded at Ohio State University in 1963 by E. L. Quarantelli and Russell Dynes, institutionalised the field. Allen Barton's Communities in Disaster (1969) synthesised the early findings on collective stress.
+Systematic research began after the Second World War, when the United States government funded studies of civilian behaviour under attack, and Charles Fritz led field teams that could be deployed rapidly to disaster sites. Fritz's chapter "Disaster" (1961) defined a disaster as an event concentrated in time and space that disrupts social structure, and his work challenged the assumption that disasters produce widespread psychological breakdown. The Disaster Research Center, founded at Ohio State University in 1963 by E. L. Quarantelli, Russell Dynes, and J. Eugene Haas, institutionalised the field. Allen Barton's Communities in Disaster (1969) synthesised the early findings on collective stress.
 
 Kai Erikson's Everything in Its Path (1976), a study of the Buffalo Creek flood in West Virginia, showed that the destruction of community itself — the loss of neighbours, routines, and shared life — could be as traumatic as the physical damage. E. L. Quarantelli's edited volume What Is a Disaster? (1998) consolidated the field's hard-won consensus that disasters are social. Eric Klinenberg's Heat Wave (2002) demonstrated the argument in a single case: hundreds of Chicagoans died in the 1995 heat wave not because of the temperature alone but because of isolation, poverty, and the withdrawal of neighbourhood institutions. Kathleen Tierney's The Social Roots of Risk (2014) extended the analysis to the production of risk itself, showing that disasters are made by the same social processes that produce wealth and inequality.
 

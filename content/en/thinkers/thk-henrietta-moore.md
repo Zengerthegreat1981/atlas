@@ -24,7 +24,7 @@ Henrietta L. Moore (born 1957) is a British social anthropologist and one of the
 
 Moore was born on 18 May 1957. She graduated from Durham University with a degree in archaeology and anthropology in 1979, then continued her studies at Newnham College, Cambridge, completing a doctorate in anthropology in 1983 with a thesis on men, women, and the organisation of domestic space among the Marakwet of Kenya. Her long-term fieldwork in Africa grounded all her later theory in detailed ethnography of gender, livelihood, and social transformation.
 
-Her academic career moved between Britain's leading institutions. She taught at the London School of Economics, where she was director of the Gender Institute. In 2009 she succeeded Marilyn Strathern as William Wyse Professor of Social Anthropology at the University of Cambridge, holding the chair until 2014. She then moved to UCL, where she founded the Institute for Global Prosperity and holds the Chair in Culture, Philosophy and Design. She is a Fellow of the British Academy, a Fellow of the Royal Society of Arts, and an Academician of the Academy of Social Sciences,.
+Her academic career moved between Britain's leading institutions. She taught at the London School of Economics, where she was director of the Gender Institute. In 2008 she succeeded Marilyn Strathern as William Wyse Professor of Social Anthropology at the University of Cambridge, holding the chair until 2014. She then moved to UCL, where she founded the Institute for Global Prosperity and holds the Chair in Culture, Philosophy and Design. She is a Fellow of the British Academy, a Fellow of the Royal Society of Arts, and an Academician of the Academy of Social Sciences.
 
 ## Key Works
 

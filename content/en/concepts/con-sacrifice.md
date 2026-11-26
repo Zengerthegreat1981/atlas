@@ -22,7 +22,7 @@ Sacrifice is the ritual offering of something valuable — an animal, food, drin
 
 ## Origins and Development
 
-The classic theory of sacrifice was formulated by Henri Hubert and Marcel Mauss in *Sacrifice: Its Nature and Functions*, published in 1898. They argued that sacrifice works through consecration: an offering is made sacred, destroyed or consumed, and thereby creates a channel of communication between the human and the divine. The sacrificer gives something of value and receives something in return — blessing, protection, forgiveness, or communion — but the exchange is indirect, mediated by the victim. Sacrifice, in this view, is a form of communication, a way of speaking to powers that cannot be addressed directly.
+The classic theory of sacrifice was formulated by Henri Hubert and Marcel Mauss in their essay of 1899, translated into English as *Sacrifice: Its Nature and Functions* (1964). They argued that sacrifice works through consecration: an offering is made sacred, destroyed or consumed, and thereby creates a channel of communication between the human and the divine. The sacrificer gives something of value and receives something in return — blessing, protection, forgiveness, or communion — but the exchange is indirect, mediated by the victim. Sacrifice, in this view, is a form of communication, a way of speaking to powers that cannot be addressed directly.
 
 James George Frazer offered a different account in *The Golden Bough*, first published in 1890. Frazer saw sacrifice as an expression of magical thinking: primitive people believed they could influence the gods by offering them what they desired, or that a dying god embodied in a king or a victim could be killed and renewed to restore the fertility of the land. Frazer's evolutionary scheme, which placed magic before religion and religion before science, is now rejected, but his vast comparative collection of sacrificial practices remains a landmark of the field, and his attention to the killing of the god-king raised questions that later scholars returned to.
 
@@ -42,7 +42,7 @@ Sacrifice has not disappeared with secularisation. Animal sacrifice continues in
 
 ## Sources
 
-- Henri Hubert and Marcel Mauss, *Sacrifice: Its Nature and Functions*, 1898.
+- Henri Hubert and Marcel Mauss, "Essai sur la nature et la fonction du sacrifice," *L'Année sociologique*, 1899 (English translation, *Sacrifice: Its Nature and Functions*, 1964).
 - James George Frazer, *The Golden Bough: A Study in Magic and Religion*, 1890.
 - René Girard, *Violence and the Sacred*, 1972.
 - Walter Burkert, *Homo Necans: The Anthropology of Ancient Greek Sacrificial Ritual and Myth*, 1972.

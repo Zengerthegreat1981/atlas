@@ -24,13 +24,13 @@ gaps:
 ---
 # Fei Xiaotong
 
-A Chinese sociologist and anthropologist, regarded as the effective founder of academic sociology and anthropology in modern China. He was among the first to apply the methods of fieldwork-based anthropology to Chinese rural society itself rather than to distant "primitive societies," thereby helping to shift the subject of anthropology from the colonial "other" to the national society.
+A Chinese sociologist and anthropologist, regarded as one of the principal builders of sociology and anthropology in modern China. He was among the first to apply the methods of fieldwork-based anthropology to Chinese rural society itself rather than to distant "primitive societies," thereby helping to shift the subject of anthropology from the colonial "other" to the national society.
 
 ## Biography
 
 Fei Xiaotong was born in 1910 in Wujiang, Jiangsu Province, into a family of intellectuals. He studied sociology at Yenching University and anthropology at Tsinghua University, and then moved to the London School of Economics (LSE), where he was a student of Bronisław Malinowski, the leading proponent of long-term participant observation, and received his doctorate in 1938. Before travelling to London, Fei conducted fieldwork in the village of Kaixiangong in Jiangsu (known in his book by the name Jiangcun), which formed the material of his doctoral dissertation and then his first book. Earlier, in 1935, he had conducted fieldwork with his first wife, Wang Tonghui, among the Yao people in the mountains of Guangxi. During that research he was seriously injured, and his wife died in an accident. He then moved to Kaixiangong to recuperate, and there he gathered the material for his first book.
 
-After returning to China, he worked as a professor and researcher and helped establish the institutions of Chinese sociology and anthropology. With the founding of the People's Republic of China in 1949, he continued academic and administrative work, but the two fields he had established, sociology and anthropology, were formally abolished as independent academic disciplines in China in 1952 on the Soviet model and were denounced as "bourgeois pseudo-science." In the Anti-Rightist Campaign of 1957, Fei was labeled a "rightist" for defending the independence of sociology, and he was barred from teaching and publishing for roughly two decades. He suffered further marginalization during the Cultural Revolution. He was formally rehabilitated after 1979, with China's opening, and his scholarly and political standing was restored. He took part in rebuilding Chinese sociology and anthropology and held senior academic and political posts until his death in Beijing in 2005.
+After returning to China, he worked as a professor and researcher and helped establish the institutions of Chinese sociology and anthropology. With the founding of the People's Republic of China in 1949, he continued academic and administrative work, but sociology and anthropology, the fields in which he worked, were abolished as independent academic disciplines in China in 1952 on the Soviet model and were denounced as "bourgeois pseudo-science." In the Anti-Rightist Campaign of 1957, Fei was labeled a "rightist" for defending the independence of sociology, and he was barred from teaching and publishing for roughly two decades. He suffered further marginalization during the Cultural Revolution. He was formally rehabilitated after 1979, with China's opening, and his scholarly and political standing was restored. He took part in rebuilding Chinese sociology and anthropology and held senior academic and political posts until his death in Beijing in 2005.
 
 ## Key Contributions
 
@@ -40,7 +40,7 @@ This is the report of his dissertation on the village of Kaixiangong. It is rega
 
 ### *Earthbound China* (1945), with Chang Chih-I
 
-A comparative study of two Chinese villages that differ in their pattern of land use, in which Fei deepened the analysis of the relationship between economic structure and the structures of kinship and property.
+A comparative study of three villages in Yunnan that differ in their economies and patterns of land use, in which Fei deepened the analysis of the relationship between economic structure and the structures of kinship and property.
 
 ### *Xiangtu Zhongguo* (1947; published in English later as *From the Soil*)
 
@@ -66,13 +66,14 @@ Fei's work has been challenged on two main grounds. The first is methodological:
 - **Earthbound China** (with Chang Chih-I, 1945).
 - **Xiangtu Zhongguo / From the Soil** (1947): the foundations of Chinese society.
 - **China's Gentry** (1953).
-- **"Plurality and Unity in the Configuration of the Chinese Nation"** (1988, Tanner Lectures).
+- **"Plurality and Unity in the Configuration of the Chinese People"** (1988, Tanner Lecture).
 
 ## Sources
 
 - Fei, Hsiao-Tung (Fei Xiaotong). *Peasant Life in China: A Field Study of Country Life in the Yangtze Valley*. London: Routledge, 1939.
 - Fei, Hsiao-Tung, and Chih-I Chang. *Earthbound China: A Study of Rural Economy in Yunnan*. Chicago: University of Chicago Press, 1945.
 - Fei, Xiaotong. *From the Soil: The Foundations of Chinese Society*, translated by Gary G. Hamilton and Wang Zheng. Berkeley: University of California Press, 1992 (translation of *Xiangtu Zhongguo*, 1947).
-- Fei, Xiaotong. "Plurality and Unity in the Configuration of the Chinese Nationality," Tanner Lecture on Human Values, 1988.
+- Fei, Xiaotong. "Plurality and Unity in the Configuration of the Chinese People," Tanner Lecture on Human Values, Chinese University of Hong Kong, 1988.
+- Fei, Hsiao-Tung. *China's Gentry: Essays in Rural-Urban Relations*. Chicago: University of Chicago Press, 1953.
 - Arkush, R. David. *Fei Xiaotong and Sociology in Revolutionary China*. Cambridge, MA: Harvard University Press Council on East Asian Studies, 1981.
 - Guldin, Gregory Eliyu. *The Saga of Anthropology in China: From Malinowski to Moscow to Mao*. Armonk, NY: M. E. Sharpe, 1994.

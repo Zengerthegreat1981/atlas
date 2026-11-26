@@ -7,8 +7,8 @@ level: متوسط
 title: Saskia Sassen
 en: Saskia Sassen
 crumb: "Sociology ← Saskia Sassen"
-dates: International · 1949-present
-active_start: 1949
+dates: Netherlands / United States · 1947-present
+active_start: 1947
 active_end: مستمر
 edges: []
 related: []
@@ -19,7 +19,7 @@ sociological_paradigm: micro-macro
 
 # Saskia Sassen
 
-Saskia Sassen (born 1949) is a Dutch-American sociologist who popularized and developed the concept of the global city and has written widely on globalization, migration and the transformation of states and territory.
+Saskia Sassen (born 1947) is a Dutch-American sociologist who popularized and developed the concept of the global city and has written widely on globalization, migration and the transformation of states and territory.
 
 ## Life and Context
 

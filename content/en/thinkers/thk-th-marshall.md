@@ -28,7 +28,7 @@ In his landmark lecture "Citizenship and Social Class" (1949), Marshall proposed
 
 ## Context: Post-War Britain
 
-Marshall delivered his landmark lecture in 1949 at the University of Cambridge (the Alfred Marshall Lectures, named after the famous Cambridge economist), at a decisive historical moment: Britain had just established the comprehensive "welfare state" system after the Second World War (the Beveridge Report of 1942, the nationalization of the National Health Service, the NHS, in 1948). Marshall's theorizing came as a sociological-historical attempt to explain and justify this enormous institutional transformation as the logical completion of a long historical course of the expansion of citizenship, not a radical socialist rupture as its conservative opponents then described it.
+Marshall delivered his landmark lecture in 1949 at the University of Cambridge (the Alfred Marshall Lectures, named after the famous Cambridge economist), at a decisive historical moment: Britain had just established the comprehensive "welfare state" system after the Second World War (the Beveridge Report of 1942, the creation of the National Health Service in 1948). Marshall's theorizing came as a sociological-historical attempt to explain and justify this enormous institutional transformation as the logical completion of a long historical course of the expansion of citizenship, not a radical socialist rupture as its conservative opponents then described it.
 
 ## Further Detail: The Tension between Citizenship and Capitalism
 

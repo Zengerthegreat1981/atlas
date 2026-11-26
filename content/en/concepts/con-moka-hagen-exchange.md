@@ -57,7 +57,7 @@ Marilyn Strathern's work in Mount Hagen (notably *Women in Between*, 1972) and A
 
 ## Strathern's Critique of Western Individualism
 
-Marilyn Strathern used the study of the moka in *The Gender of the Gift* (1988) to offer a broader theoretical critique of the Western concept of the autonomous "individual." In its place she proposed the concept of the **"dividual"** person found among Melanesian peoples: a person constituted by multiple relationships with others (such as ancestors and relatives by marriage), in which part of these relationships is displayed and activated symbolically through the exchange of moka gifts themselves.
+Marilyn Strathern used the study of the moka in *The Gender of the Gift* (1988) to offer a broader theoretical critique of the Western concept of the autonomous "individual." In its place she drew on the idea of the **"dividual"** person (a term introduced by McKim Marriott in South Asian studies) to describe Melanesian personhood: a person constituted by multiple relationships with others (such as ancestors and relatives by marriage), with these relationships made visible and activated through exchanges such as moka.
 
 ## Broader Impact
 

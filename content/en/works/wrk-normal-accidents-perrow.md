@@ -29,7 +29,7 @@ Charles Perrow's pivotal book, published by Basic Books in 1984 (with an expande
 
 ## Context
 
-Perrow, a sociologist of organizations, studied the 1979 accident at the Three Mile Island nuclear plant in Pennsylvania, the most serious accident at a commercial nuclear plant in United States history, in connection with the presidential commission that investigated it. He noted that official accounts emphasised the accident on individual "human error" by the plant's workers and operators, whereas he saw the problem as structural: the design of the system itself produced conditions in which it is impossible for any human operator, however competent and well trained, to understand quickly enough what is actually happening inside the system during the crisis.
+Perrow, a sociologist of organizations, studied the 1979 accident at the Three Mile Island nuclear plant in Pennsylvania, the most serious accident at a commercial nuclear plant in United States history, in connection with the presidential commission that investigated it. He noted that official accounts placed heavy emphasis on individual "human error" by the plant's workers and operators, whereas he saw the problem as structural: the design of the system itself produced conditions in which it is impossible for any human operator, however competent and well trained, to understand quickly enough what is actually happening inside the system during the crisis.
 
 ## The Central Thesis
 
@@ -46,10 +46,6 @@ The book became a founding reference in the sociology of risk and technological 
 ## Later Applications and Widening Scope
 
 Later researchers extended the application of Perrow's framework to systems beyond purely industrial technology, such as complex, tightly coupled global financial systems (where some analysts have discussed the 2008 financial crisis in these terms), digital systems and large electrical power grids. Perrow added new material in the 1999 Princeton edition, including a postscript on the Y2K computer problem, and later turned to catastrophic risk more broadly in *The Next Catastrophe* (2007).
-
-## Perrow's Classification of Other Systems
-
-Perrow also applied his binary classification to less technological systems such as large dams and the space industry, explaining that even systems that seem simple in engineering terms may become extremely dangerous if complex interaction and tight coupling come together in them through organizational factors (such as the pressure of commercial schedules that drove NASA to ignore engineers' warnings about the Challenger shuttle in 1986), emphasizing that the risks do not stem from the physical technology alone but from its interaction with organizational and economic pressures that reduce the margin of safety available for timely human correction.
 
 ## The Limits of Predictive Capacity
 

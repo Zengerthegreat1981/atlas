@@ -25,7 +25,7 @@ In *Subculture: The Meaning of Style* (1979), Dick Hebdige offered a semiotic an
 
 ## Historical Context
 
-Hebdige wrote his work as a researcher at the Birmingham Centre for Contemporary Cultural Studies (CCCS), which was founded by Richard Hoggart and later directed by Stuart Hall, in the context of late-1970s Britain, which saw economic recession, high youth unemployment and racial tension over immigration from the Caribbean and South Asia. The punk movement (Sex Pistols, The Clash) emerged in this context as a frank expression of the anger of a young working class that felt its prospects of social mobility blocked, while earlier subcultures (Teddy Boys, Mods, Rockers, Skinheads) had emerged before it, each expressing in its own way specific local class and racial tensions; Phil Cohen's study of London's East End linked the Mods and other styles to the breakup of traditional working-class community.
+Hebdige's work grew out of the research of the Birmingham Centre for Contemporary Cultural Studies (CCCS), where he had studied and which was founded by Richard Hoggart and later directed by Stuart Hall, in the context of late-1970s Britain, which saw economic recession, high youth unemployment and racial tension over immigration from the Caribbean and South Asia. The punk movement (Sex Pistols, The Clash) emerged in this context as a frank expression of the anger of a young working class that felt its prospects of social mobility blocked, while earlier subcultures (Teddy Boys, Mods, Rockers, Skinheads) had emerged before it, each expressing in its own way specific local class and racial tensions; Phil Cohen's study of London's East End linked the Mods and other styles to the breakup of traditional working-class community.
 
 ## Method
 

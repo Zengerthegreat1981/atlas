@@ -29,7 +29,7 @@ Schutz's central claim is that every group lives by a "cultural pattern" — a b
 
 ## Structure and Method
 
-The essay proceeds by a careful phenomenological analysis rather than by empirical fieldwork. Schutz begins with the concept of the cultural pattern and the "thinking as usual" of the in-group, then introduces the stranger as the figure for whom this pattern fails. He traces the stages of the stranger's experience: the initial shock of finding familiar recipes useless, the attempt to learn the new group's pattern as an outsider, the gradual acquisition of its taken-for-granted knowledge, and the persistent insecurity that accompanies this learning, since knowledge acquired as an adult never has the self-evidence of knowledge absorbed in childhood. The essay closes by noting the difference between the stranger's position and that of the "homecomer," who returns to a group that has itself changed. Schutz's method is the description of the structures of the life-world, developed from Husserl's philosophy and applied to a concrete social situation.
+The essay proceeds by a careful phenomenological analysis rather than by empirical fieldwork. Schutz begins with the concept of the cultural pattern and the "thinking as usual" of the in-group, then introduces the stranger as the figure for whom this pattern fails. He traces the stages of the stranger's experience: the initial shock of finding familiar recipes useless, the attempt to learn the new group's pattern as an outsider, the gradual acquisition of its taken-for-granted knowledge, and the persistent insecurity that accompanies this learning, since knowledge acquired as an adult never has the self-evidence of knowledge absorbed in childhood. The companion essay on the "homecomer" contrasts this position with that of someone returning to a familiar group, where both have changed. Schutz's method is the description of the structures of the life-world, developed from Husserl's philosophy and applied to a concrete social situation.
 
 ## Key Concepts
 
@@ -37,7 +37,7 @@ The essay's concepts have become part of the standard vocabulary of interpretive
 
 ## Reception and Influence
 
-"The Stranger" has been extraordinarily influential for its brevity. It is a staple of courses on sociological theory, migration, and the sociology of everyday life, and it shaped the development of ethnomethodology: Garfinkel's studies of how people repair breaches in shared understanding owe a direct debt to Schutz's analysis of what happens when "thinking as usual" breaks down. The essay also influenced the sociology of migration, providing a framework for understanding assimilation, integration, and the experience of refugees that goes beyond economic or demographic indicators to capture the lived experience of not knowing how things are done.
+"The Stranger" has been highly influential despite its brevity. It is a staple of courses on sociological theory, migration, and the sociology of everyday life, and it shaped the development of ethnomethodology: Garfinkel's studies of how people repair breaches in shared understanding owe a direct debt to Schutz's analysis of what happens when "thinking as usual" breaks down. The essay also influenced the sociology of migration, providing a framework for understanding assimilation, integration, and the experience of refugees that goes beyond economic or demographic indicators to capture the lived experience of not knowing how things are done.
 
 ## Critical Assessments
 

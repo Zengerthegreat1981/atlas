@@ -21,7 +21,7 @@ gaps: []
 ---
 # Elinor Ochs
 
-An American linguistic anthropologist who carried out comparative ethnographic fieldwork in Madagascar, Western Samoa, and the United States. Together with Bambi Schieffelin, she is one of the founders of the field of language socialization.
+An American linguistic anthropologist who carried out comparative ethnographic fieldwork in Madagascar, Western Samoa, and the United States. Together with Bambi Schieffelin, she did much to establish the field of language socialization.
 
 ## Language Socialization
 
@@ -45,7 +45,7 @@ Ochs also led a large, long-term ethnographic project studying everyday life ins
 
 ## Academic Standing
 
-Ochs is a professor of anthropology at the University of California, Los Angeles, where she co-founded the Center on Everyday Lives of Families (CELF) and developed research combining linguistic anthropology, developmental psychology, and the study of autism. She also wrote widely on narrative, notably with Lisa Capps (*Living Narrative*, 2001).
+Ochs is a professor of anthropology at the University of California, Los Angeles, where she founded and directed the Center on Everyday Lives of Families (CELF) and developed research combining linguistic anthropology, developmental psychology, and the study of autism. She also wrote widely on narrative, notably with Lisa Capps (*Living Narrative*, 2001).
 
 ## Early Academic Training
 

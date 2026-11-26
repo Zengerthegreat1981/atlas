@@ -25,7 +25,7 @@ Dame Mary Douglas (1921–2007) was a British social anthropologist best known f
 
 Mary Tew was born in San Remo, Italy, in 1921, into an English family and was raised a Roman Catholic and educated at the Sacred Heart convent school at Roehampton. She studied philosophy, politics, and economics at Oxford University and then turned to social anthropology, working under **E. E. Evans-Pritchard** and taking her doctorate in 1951. She married the economist James Douglas in 1951.
 
-Her fieldwork among the **Lele** of the Kasai region of the Belgian Congo (now the Democratic Republic of the Congo) was carried out in two periods, in 1949–50 and 1953. From 1951 she taught at University College London, where she remained until 1977. She then worked in the United States, first at the Russell Sage Foundation in New York and from 1981 as professor of humanities at Northwestern University, later holding appointments at Princeton and the University of Virginia, before returning to Britain. She was made a Dame in 1992 and died in London in 2007. Her interests expanded beyond ethnography to consumption, risk, institutions, and the Hebrew Bible.
+Her fieldwork among the **Lele** of the Kasai region of the Belgian Congo (now the Democratic Republic of the Congo) was carried out in two periods, in 1949–50 and 1953. From 1951 she taught at University College London, where she remained until 1977. She then worked in the United States, first at the Russell Sage Foundation in New York and from 1981 as professor of humanities at Northwestern University, later holding appointments at Princeton and the University of Virginia, before returning to Britain. She was appointed CBE in 1992 and DBE in the 2007 New Year Honours, and died in London in 2007. Her interests expanded beyond ethnography to consumption, risk, institutions, and the Hebrew Bible.
 
 ## Purity, Pollution, and Order
 
@@ -55,7 +55,7 @@ The Lele were a Bantu-speaking people of the Kasai region who combined farming, 
 
 ## Influence and Critique
 
-Douglas transformed the anthropology of ritual, taboo, and religion, and her work influenced sociology, religious studies, and biblical scholarship, food studies, consumption studies, and the sociology of risk.
+Douglas had a major influence on the anthropology of ritual, taboo, and religion, and her work also influenced sociology, religious studies, and biblical scholarship, food studies, consumption studies, and the sociology of risk.
 
 Critics have argued that her framework risks circularity, since any purity concern can be read as an expression of social order; that it relies on binary oppositions and a strong assumption of societies as orderly wholes; that universal claims about classification may neglect history and power, including the colonial context in which her fieldwork took place; and that her reading of Leviticus was too neat, a point she accepted in her later work. Feminist scholars have also noted that her analysis of bodily purity gives limited weight to the ways in which pollution beliefs can constrain women.
 

@@ -42,4 +42,6 @@ This research offered testable predictions about the distribution of power in ne
 - Cook, Karen S., Richard M. Emerson, Mary R. Gillmore, and Toshio Yamagishi. "The Distribution of Power in Exchange Networks: Theory and Experimental Results." *American Journal of Sociology*, vol. 89, no. 2, 1983, pp. 275–305.
 - Cook, Karen S., and Toshio Yamagishi. "Power in Exchange Networks: A Power-Dependence Formulation." *Social Networks*, vol. 14, 1992, pp. 245–265.
 - Markovsky, Barry, David Willer, and Travis Patton. "Power Relations in Exchange Networks." *American Sociological Review*, vol. 53, no. 2, 1988, pp. 220–236.
+- Cook, Karen S., ed. *Trust in Society*. Russell Sage Foundation, 2001.
+- Cook, Karen S., Russell Hardin, and Margaret Levi. *Cooperation without Trust?* Russell Sage Foundation, 2005.
 - Emerson, Richard M. "Power-Dependence Relations." *American Sociological Review*, vol. 27, no. 1, 1962, pp. 31–41.

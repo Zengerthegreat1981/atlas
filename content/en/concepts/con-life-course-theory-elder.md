@@ -22,7 +22,7 @@ gaps: []
 
 # Life Course Theory in Elder
 
-The founding theoretical framework developed by Glen Elder beginning with his landmark study *Children of the Great Depression* (1974), helping to establish the field of "life-course sociology", whose basic principles were later formalised as four (Elder 1998).
+An influential theoretical framework developed by Glen Elder beginning with his landmark study *Children of the Great Depression* (1974), helping to establish the field of "life-course sociology", whose basic principles were later formalised as four (Elder 1998).
 
 ## The Four Principles
 
@@ -34,7 +34,7 @@ This work helped establish the field of "life-course sociology" (Life Course Soc
 
 ## The Children of the Great Depression Study
 
-Elder built his theory on rare longitudinal data originally collected in the "Oakland Growth Study", which followed a group of children born in the 1920s across decades of their lives. This allowed him to compare the life paths of those who suffered severe economic deprivation in childhood because of the Great Depression with those who did not, and, in the later Berkeley Guidance Study sample born around 1928–29, comparing younger children with the Oakland cohort. He found that the effect of economic deprivation varied with the child's age when the crisis occurred and with how the family responded to it, rather than being a uniform and inevitable effect for everyone. The influence of this founding work later extended to similar studies that tracked the effect of other historical events (war, migration, contemporary economic crises) on different generations, confirming the validity of its four principles across many historical contexts.
+Elder built his theory on rare longitudinal data originally collected in the "Oakland Growth Study", which followed a group of children born in 1920–21 across decades of their lives. This allowed him to compare the life paths of those whose families suffered severe economic deprivation during the Great Depression with those whose families did not. Later work compared them with a younger cohort born in 1928–29, drawn from the Berkeley Guidance Study. He found that the effect of economic deprivation varied with the child's age when the crisis occurred and with how the family responded to it, rather than being a uniform and inevitable effect for everyone. The influence of this founding work later extended to similar studies that tracked the effect of other historical events (war, migration, contemporary economic crises) on different generations, applying its principles to other historical contexts.
 
 ## Sources
 

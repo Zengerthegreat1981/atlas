@@ -26,13 +26,13 @@ A British businessman and social researcher (1840–1916), pioneer of the compre
 
 ## What He Contributed
 
-- **The comprehensive London survey**: Funding his own project, Booth conducted a field survey that covered almost every household in London over more than a decade, and published its results in the series *Life and Labour of the People in London* (17 volumes, 1889–1903).
+- **The comprehensive London survey**: Funding his own project, Booth directed a survey of poverty, industry and religious life in London over more than a decade, relying heavily on information about families with school-age children,, and published its results in the series *Life and Labour of the People in London* (17 volumes, 1889–1903).
 - **The eight-class classification of the population, and poverty**: He classified the people of London into eight socio-economic categories according to level of income and job stability, and concluded that roughly 30% of Londoners lived in poverty, a proportion that shocked Victorian public opinion, which had imagined poverty to be less widespread and more connected to individual moral failing than to structural conditions.
 - **Poverty maps**: He produced precise colored maps showing the geographic distribution of poverty street by street in London, a visual tool that anticipated the later urban social mapping of the Chicago school.
 
 ## His Place in the Current
 
-Booth, together with Seebohm Rowntree, who applied a similar method to the city of York, founded the tradition of the "Social Survey" as a free-standing applied sociological research tool, earlier in time than most tools of later American academic sociology (including the surveys of the Chicago school). His findings directly influenced the shaping of early British social-welfare policy (the Liberal reforms of 1906–1911).
+Booth and Seebohm Rowntree, who studied poverty in the city of York, are leading figures in the tradition of the "Social Survey" as a free-standing applied sociological research tool, earlier in time than most tools of later American academic sociology (including the surveys of the Chicago school). His findings directly influenced the shaping of early British social-welfare policy (the Liberal reforms of 1906–1911).
 
 ## Motives of the Project and the Victorian Context
 
@@ -40,7 +40,7 @@ Booth started his project in response to the claim, made in the mid-1880s by the
 
 ## The Collaborative Method
 
-In carrying out his survey Booth relied on a team of research assistants, among them Beatrice Webb (later the famous Fabian Beatrice Webb), who worked with him in the early stages before turning to her own socialist reform path. He adopted an innovative method combining analysis of official records (School Board visitors, who knew the circumstances of families with children in their districts) with direct field observation and interviews, in a research model that joined the rigor of quantitative statistics with the depth of qualitative description, decades before this combination became a standard method in academic sociology.
+In carrying out his survey Booth relied on a team of research assistants, among them Beatrice Potter (later the Fabian reformer Beatrice Webb), who worked with him in the early stages before turning to her own socialist reform path. He adopted an innovative method combining analysis of official records (School Board visitors, who knew the circumstances of families with children in their districts) with direct field observation and interviews, in a research model that joined the rigor of quantitative statistics with the depth of qualitative description, decades before this combination became a standard method in academic sociology.
 
 ## Limitation
 

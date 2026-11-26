@@ -47,4 +47,5 @@ Curses are not relics. Witchcraft accusations still lead to violence, exile and 
 - Malinowski, Bronislaw. *Magic, Science and Religion and Other Essays*. Boston: Beacon Press, 1948 (title essay first published 1925).
 - Evans-Pritchard, E. E. *Witchcraft, Oracles and Magic Among the Azande*. Oxford: Clarendon Press, 1937.
 - Douglas, Mary. *Purity and Danger: An Analysis of Concepts of Pollution and Taboo*. London: Routledge and Kegan Paul, 1966.
+- Douglas, Mary, ed. *Witchcraft Confessions and Accusations*. London: Tavistock, 1970.
 - Tambiah, Stanley J. *Magic, Science, Religion, and the Scope of Rationality*. Cambridge: Cambridge University Press, 1990.

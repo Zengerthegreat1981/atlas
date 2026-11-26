@@ -38,7 +38,7 @@ Besides *The Social Construction of Reality* (with Thomas Luckmann, 1966) and th
 
 ## Influence and Criticism
 
-This work became the cornerstone of the whole "social constructionism" current in the human sciences, and Berger's influence later extended to the sociology of religion and to studies of modernization and development. His later retreat from the theory of inevitable secularization deeply influenced the reformulation of the whole contemporary field of the sociology of religion toward more complex models that take into account the actual global diversity in the relation of religion to modernity (such as Peter Beyer's *Religion and Globalization*, 1994). The Berger-Luckmann social-constructionist framework was criticized for sometimes tending to portray the process of social "internalization" as almost automatic, which reduces the space for conscious individual resistance and agency toward imposed social structures. Approaches more concerned with agency, such as Anthony Giddens's structuration theory, sought to address this.
+This work became the cornerstone of the whole "social constructionism" current in the human sciences, and Berger's influence later extended to the sociology of religion and to studies of modernization and development. His later retreat from the theory of inevitable secularization deeply influenced the reformulation of the whole contemporary field of the sociology of religion toward more complex models that take into account the actual global diversity in the relation of religion to modernity. The Berger-Luckmann social-constructionist framework was criticized for sometimes tending to portray the process of social "internalization" as almost automatic, which reduces the space for conscious individual resistance and agency toward imposed social structures. Anthony Giddens's structuration theory offers a different treatment of the relation between agency and structure.
 
 Berger directed the Institute on Culture, Religion and World Affairs at Boston University and continued his work in the comparative sociology of religion until late in life, openly revising his earlier secularization thesis in light of new evidence. He also wrote on development and modernization, notably *Pyramids of Sacrifice: Political Ethics and Social Change* (1974), a critique of both capitalist and socialist development models, and *The Capitalist Revolution* (1986). He died in 2017.
 
@@ -46,3 +46,5 @@ Berger directed the Institute on Culture, Religion and World Affairs at Boston U
 
 - Berger, Peter L., and Thomas Luckmann. *The Social Construction of Reality: A Treatise in the Sociology of Knowledge*. Doubleday, 1966.
 - Berger, Peter L. *Invitation to Sociology: A Humanistic Perspective*. Doubleday, 1963.
+- Berger, Peter L. *The Sacred Canopy: Elements of a Sociological Theory of Religion*. Doubleday, 1967.
+- Berger, Peter L., ed. *The Desecularization of the World: Resurgent Religion and World Politics*. Eerdmans, 1999.

@@ -1,0 +1,452 @@
+br-american-pragmatist-sociology: active_start 1970 -> 1902 per body history
+br-american-pragmatist-sociology: softened superlative on Rorty
+br-body-sociology: active_start 1970 -> 1984
+br-body-sociology: softened founder claims
+br-comparative-historical-sociology: Moore's case studies corrected (Germany and Russia are not separate cases)
+br-comparative-historical-sociology: added Anderson 1974 to Sources; softened superlative
+br-criminal-sociology: Durkheim's normality-of-crime argument reassigned to Rules (1895)
+br-criminal-sociology: added Rules and Zehr to Sources; active_start 1970 -> 1893
+br-criminology: removed Suicide as source of crime-normality argument
+br-criminology: added Shaw/McKay and White Collar Crime to Sources; active_start 1970 -> 1876
+br-digital-sociology: Lupton Digital Sociology year 2014 -> 2015
+br-digital-sociology: softened 'first/founding/most' claims; active_start 1970 -> 2013
+br-disaster-sociology: Disaster Research Center co-founder Haas added; Halifax explosion sequence corrected; active_start 1970 -> 1920
+br-environmental-sociology: 1978 paradigm name corrected (new environmental, later ecological)
+br-environmental-sociology: added Bullard 1990 to Sources; active_start 1970 -> 1978
+br-criminal-sociology: softened moral-panic overclaim
+br-ethnomethodological-microsociology: Agnes description and Sacks relationship corrected (not Garfinkel's student)
+br-ethnomethodological-microsociology: corrected 'cultural dope' attribution to Parsons; active_start 1970 -> 1967
+br-evolutionary-sociology: softened superlative on Turner
+br-global-south-sociology: Quijano coloniality dated to early 1990s (not 2000)
+br-global-south-sociology: captive mind credited to Syed Hussein Alatas; Amin French original date added; softened superlatives
+br-goffmanian-microsociology: added 1956 first edition of Presentation of Self; active_start 1970 -> 1959
+br-leisure-sociology: softened superlatives; added Deem 1986 to Sources
+br-media-sociology: softened founder/superlative claims; added Hall 1973 to Sources
+br-medical-sociology: softened founder/superlative claims; active_start 1970 -> 1951
+br-migration-diaspora: Clifford 1994 argument corrected
+br-migration-diaspora: transnationalism co-authors added; softened founder claims
+br-military-sociology: wartime timing of American Soldier surveys corrected; added Moskos 1977 to Sources
+br-military-sociology: softened superlatives; active_start 1970 -> 1949
+br-network-sociology: added Wellman 1979 to Sources; active_start 1970 -> 1973
+br-phenomenological-sociology: Garfinkel no longer implied to be Schutz's student; Schutz description corrected
+br-phenomenological-sociology: active_start 1970 -> 1932
+br-popular-culture-studies: Ang study corrected (letters, not ethnography; Dutch 1982)
+br-popular-culture-studies: Storey 1993 original title corrected; added Hoggart 1957 to Sources; softened superlatives
+br-postcolonial-sociology: softened 'first systematic statement' on Go
+br-rational-choice-sociology: softened superlative; active_start 1970 -> 1961
+br-refugee-studies: Fiddian-Qasmiyeh argument corrected
+br-refugee-studies: removed dated 'record levels' claim; softened founder claim
+br-risk-sociology: added Luhmann German date; softened Beck founding claim; active_start 1970 -> 1982
+br-rural-sociology: Galpin community mapping attributed to 1915 study; 1978 subtitle removed from 1947 Goldschmidt
+br-rural-sociology: active_start 1970 -> 1915
+br-sexuality-studies: added Kinsey 1953 to Sources; active_start 1970 -> 1948
+br-aging-gerontology: rewritten from placeholder stub (concise established content, real sources); Arabic title/crumb to English; gaps closed; active_start 1961
+br-black-feminist-thought: rewritten from placeholder stub (concise established content, real sources); Arabic title/crumb to English; gaps closed; active_start 1970
+br-consumption-sociology: rewritten from placeholder stub (concise established content, real sources); Arabic title/crumb to English; gaps closed; active_start 1970
+br-conversation-analysis: rewritten from placeholder stub (concise established content, real sources); Arabic title/crumb to English; gaps closed; active_start 1964
+br-cyber-sociology: rewritten from placeholder stub (concise established content, real sources); Arabic title/crumb to English; gaps closed; active_start 1990
+br-economic-sociology: rewritten from placeholder stub (concise established content, real sources); Arabic title/crumb to English; gaps closed; active_start 1893
+br-feminist-sociology: rewritten from placeholder stub (concise established content, real sources); Arabic title/crumb to English; gaps closed; active_start 1970
+br-institutional-sociology: rewritten from placeholder stub (concise established content, real sources); Arabic title/crumb to English; gaps closed; active_start 1949
+br-organizational-sociology: rewritten from placeholder stub (concise established content, real sources); Arabic title/crumb to English; gaps closed; active_start 1911
+br-political-sociology: rewritten from placeholder stub (concise established content, real sources); Arabic title/crumb to English; gaps closed; active_start 1911
+br-public-sociology: rewritten from placeholder stub (concise established content, real sources); Arabic title/crumb to English; gaps closed; active_start 1988
+br-sociology-of-art: removed "first systematic synthesis" overclaim for Zolberg
+br-sociology-of-education: stub replaced with sourced entry; Arabic title/crumb translated; gaps cleared
+br-sociology-of-family: corrected claim that the nuclear household is a recent invention; softened overclaims (Parsons, Goode, Cherlin)
+br-sociology-of-gender: softened founder/established overclaims (Beauvoir, Connell)
+br-sociology-of-health-medicine: added cited Boys in White to Sources; softened founding claim
+br-sociology-of-law: softened claims about Ehrlich founding legal pluralism and Friedman
+br-sociology-of-literature: softened "the field's founding theorist" (Lukacs)
+br-sociology-of-religion: softened Durkheim founding claim; reworded "Durkheim's Australian aborigines"
+br-sociology-of-science-knowledge: softened founder claims (Mannheim, Merton); neutrino "discovery" corrected to solar neutrino detection
+br-sociology-of-work: added Freidson to Sources
+br-sports-sociology: corrected original names of ICSS and its journal; softened ICSS date; Carrington framing fixed
+br-sustainability-sociology: softened policy-influence and founding claims; fixed debate numbering
+br-urban-revitalization: corrected definition of the rent gap
+br-visual-sociology: softened founder/defining claims (Becker, Harper)
+br-world-systems-sociology: corrected coverage of Modern World-System vol. III; added vol. IV (2011)
+br-youth-sociology: softened claims that Hall invented adolescence and Hebdige established subculture style studies
+br-urban-sociology: stub replaced with sourced entry; Arabic title/crumb translated; gaps cleared
+con-agency-anthropology: added cited works to Sources
+con-alienation: added cited works to Sources
+con-agency: replaced generic filler with sourced content; Arabic title/crumb translated; gaps cleared
+con-anomie-durkheim: removed claim that 1893 was Durkheim's first use of "anomie"
+con-asabiyyah-ibn-khaldun: corrected interval between Ibn Khaldun and Comte
+con-autopoiesis-social-systems-luhmann: added cited Habermas work to Sources
+con-bureaucracy: added cited Michels and Graeber to Sources
+con-collective-action-frames-snow-benford: softened "third of three frameworks" claim; fixed run-on sentence
+con-color-blind-racism-bonilla-silva: removed invented-looking quotation; softened founding claims
+con-content-analysis: rewrote stub (body, Sources); gaps cleared; Arabic title/crumb translated
+con-cultural-relativism: rewrote stub; gaps cleared; Arabic title/crumb translated (overlaps con-cultural-relativism-boas)
+con-habitus: rewrote stub; gaps cleared; Arabic title/crumb translated (overlaps con-habitus-anthropology)
+con-cudos-norms-science: corrected false claim that Merton coined the CUDOS acronym (Ziman); softened title history
+con-culture-as-toolkit-swidler: removed inaccurate claims about Lizardo and Griswold extending the toolkit
+con-culture: added cited Bourdieu and Williams Keywords to Sources
+con-discourse-analysis: softened Foucault "central text" and Fairclough "founded CDA" claims
+con-face-work-goffman: corrected defensive/protective vs avoidance/corrective distinction
+con-generalization: set empty gaps field to []; added Yin to Sources
+con-global-care-chains-hochschild: added cited Anderson and Fraser to Sources
+con-group: added Tuckman and Jensen (1977) to Sources
+con-hermeneutics: added cited Dannhauer, Ast, Schafer, Spence to Sources
+con-historical-analysis: corrected list of countries compared by Barrington Moore
+con-institution: added cited Goffman and Acemoglu/Robinson to Sources
+con-intersectionality: corrected account of DeGraffenreid claim (seniority layoffs, not hiring); softened Cooper wording; active_start 1989
+con-interview: removed overclaims about the method and Kvale
+con-iron-cage-rationalization-weber: corrected attribution of translations of stahlhartes Gehaeuse (Baehr/Wells vs Kalberg); added both to Sources
+con-iron-law-of-oligarchy: removed unverified quoted phrase attributed to Michels
+con-labeling-theory-becker: corrected chronology: Lemert's primary/secondary deviance (1951) preceded Outsiders
+con-legitimacy: dated English translation of Habermas to 1975
+con-life-course-theory-elder: corrected Oakland cohort birth years and separated the later Berkeley comparison; removed overclaims
+con-looking-glass-self: softened claim that Mead built directly on the looking-glass self
+con-network-analysis: corrected Barnes field site and Granovetter finding
+con-network-exchange-power-dependence: attributed GPI to Markovsky, Willer and Patton (1988) and added source
+con-normal-distribution: corrected chronology of Quetelet's application of the error law
+con-norm: rewrote stub (Arabic title/crumb to English, expanded body, replaced placeholder sources, cleared gaps)
+con-observation: softened overclaim and unsupported remark on officials
+con-organization: added cited Selznick (1957) and Meyer/Rowan (1977) to Sources
+con-out-group: attributed random-assignment variant to Billig and Tajfel (1973); described Brewer 1979 as a review
+con-peer-group: moved primary-group argument to Cooley's Social Organization (1909) and added source
+con-performativity-of-economics-mackenzie: corrected garbled account of 1987 crash and volatility skew
+con-performativity-of-economics-mackenzie: removed unverified Zelizer book award claim; added Callon (1998)
+con-phenomenological-analysis: softened claim that IPA is the most widely used variant
+con-poverty-line-rowntree: corrected description of Rowntree's data collection; softened welfare-state causal claim
+con-power: added cited Bachrach and Baratz (1962) to Sources
+con-prejudice: corrected minimal group assignment methods (random variant is Billig and Tajfel 1973); Allport definition is of ethnic prejudice
+con-primary-group: removed term "we-feeling" wrongly attributed to Cooley; softened overclaims
+con-professional-dominance-freidson: reattributed economic/political/clinical autonomy typology to Elston (1991); removed garbled comparison with lawyers and engineers; added sources
+con-qualitative-research: corrected description of Denzin's Research Act; credited Ryle for thick description
+con-racism: corrected dating of blood-group/heredity arguments; softened Du Bois priority claim; added Bonilla-Silva (2003)
+con-rationalization: corrected Habermas citation to both English volumes (colonisation thesis is in vol. 2)
+con-reference-group: corrected Kitt and Rossi presented as two different co-authors
+con-regression-analysis: noted least squares predates Galton; removed undefined overclaim
+con-role: attributed role distance to Goffman's Encounters (1961); added sources
+con-sampling: removed overclaims about Kish, Cochran and Babbie
+con-secondary-group: attributed looking-glass self to Cooley 1902 and added source
+con-segmented-assimilation-portes: softened Alba and Nee claim and policy-impact claim; qualified Gans attribution of straight-line label
+con-sexism: removed overclaim that sociology of sexism begins with Beauvoir
+con-intersectionality: added cited Cooper (1892) to Sources
+con-quantitative-research: added cited Durkheim, Suicide (1897) to Sources
+con-social-control: replaced claim that Ross introduced the concept
+con-social-movement: softened Tilly overclaim; added Tilly 2004 (source of WUNC formulation) to Sources
+con-social-structure: clarified Bourdieu Outline dates (1972 French, 1977 English)
+con-socialization: softened absolute claim about Berger and Luckmann
+con-society: removed overclaim about Giddens
+con-sociological-imagination-mills: removed overclaims and "immediate sensation"; "On Intellectual Craftsmanship" is an appendix, not the final chapter; active_end set to 1959
+con-sociological-imagination: removed unattributable critique of Mills ascribed to Collins; corrected Mills's illustrative examples; softened overclaim
+con-sociological-theory: fixed garbled statement of Comte's law of three stages; softened Ritzer overclaim
+con-solidarity: corrected definition of fard kifaya; corrected Church's relation to Solidarnosc
+con-standard-deviation: qualified Pearson naming claim; marked Agresti and Finlay 1986 as 2nd edition
+con-statistical-analysis: softened Blalock overclaim; marked Agresti and Finlay 1986 as 2nd edition
+con-statistical-significance: corrected description of the 2016 ASA statement and softened consensus claim
+con-status: added Merton 1957 role-set article to Sources; softened Davis-Moore overclaim
+con-stratification: added works for cited Crenshaw and Goldthorpe to Sources
+con-strong-programme-ssk-bloor: moderated characterization of Merton's position; normalized gap wording
+con-structural-analysis: softened Giddens overclaim; clarified translation dates
+con-structure: corrected Sewell 1992 account of change; rephrased implied Bourdieu-to-Giddens lineage
+con-subcultural-style-resistance-hebdige: corrected Hebdige's relation to the CCCS (former student)
+con-survey: removed questions wrongly attributed to Likert; added cited Bourdieu 1973 essay to Sources
+con-symbolic-interactionism-premises: softened overstated claim that Blumer rejected all social structure; removed "every university course" overclaim
+con-urbanism-as-way-of-life: clarified Wirth's origin wording
+con-validity: softened claim that Cronbach and Meehl established validity
+con-variable: removed alienation example wrongly attributed to Lazarsfeld; removed unsupported claim attributed to Blalock
+con-verstehen-sociology: corrected dating of Dilthey's Verstehen/Erklaren contrast; noted Schutz English edition date
+con-verstehen: corrected dating of Dilthey's erklaeren/verstehen formula; aligned woodchopper motives with Weber's example; softened niyya parallel
+con-weak-ties-embeddedness-granovetter: expanded thin entry with triad argument, Getting a Job study and the 1985 under/oversocialized critique
+dbt-blumer-stryker-processual-structural-interactionism: removed "reply" framing; softened unverified claim about Blumer's criticism of the Iowa programme; corrected description of Burke and Stets 2009
+dbt-cumming-elder-disengagement-vs-life-course-aging: softened overclaim
+dbt-equilibrium-vs-change: fixed garbled sentence on Merton; noted Luhmann English edition date
+dbt-evolution-vs-revolution: softened overclaim on Skocpol; separated interpretive gloss from Streeck and Thelen's own argument
+dbt-authenticity-vs-constructedness: rewrote stub (positions, arguments, status, real sources); English title and crumb; gaps cleared
+dbt-determinism-vs-voluntarism: rewrote stub (positions, arguments, status, real sources); English title and crumb; gaps cleared
+con-weak-ties-embeddedness-granovetter: corrected Watts's role (small-world models do not themselves qualify the thesis)
+sch-sociology-school-11: unidentifiable placeholder; removed generic filler body and fake source descriptions, gaps record missing identification (candidate for deletion)
+sch-sociology-school-12: unidentifiable placeholder; removed generic filler body and fake source descriptions, gaps record missing identification (candidate for deletion)
+sch-sociology-school-13: unidentifiable placeholder; removed generic filler body and fake source descriptions, gaps record missing identification (candidate for deletion)
+sch-sociology-school-14: unidentifiable placeholder; removed generic filler body and fake source descriptions, gaps record missing identification (candidate for deletion)
+sch-sociology-school-15: unidentifiable placeholder; removed generic filler body and fake source descriptions, gaps record missing identification (candidate for deletion)
+sch-sociology-school-16: unidentifiable placeholder; removed generic filler body and fake source descriptions, gaps record missing identification (candidate for deletion)
+sch-sociology-school-17: unidentifiable placeholder; removed generic filler body and fake source descriptions, gaps record missing identification (candidate for deletion)
+sch-sociology-school-18: unidentifiable placeholder; removed generic filler body and fake source descriptions, gaps record missing identification (candidate for deletion)
+sch-sociology-school-19: unidentifiable placeholder; removed generic filler body and fake source descriptions, gaps record missing identification (candidate for deletion)
+sch-sociology-school-20: unidentifiable placeholder; removed generic filler body and fake source descriptions, gaps record missing identification (candidate for deletion)
+sch-sociology-school-21: unidentifiable placeholder; removed generic filler body and fake source descriptions, gaps record missing identification (candidate for deletion)
+sch-sociology-school-22: unidentifiable placeholder; removed generic filler body and fake source descriptions, gaps record missing identification (candidate for deletion)
+sch-sociology-school-23: unidentifiable placeholder; removed generic filler body and fake source descriptions, gaps record missing identification (candidate for deletion)
+sch-sociology-school-24: unidentifiable placeholder; removed generic filler body and fake source descriptions, gaps record missing identification (candidate for deletion)
+sch-sociology-school-25: unidentifiable placeholder; removed generic filler body and fake source descriptions, gaps record missing identification (candidate for deletion)
+sch-sociology-school-26: unidentifiable placeholder; removed generic filler body and fake source descriptions, gaps record missing identification (candidate for deletion)
+sch-sociology-school-27: unidentifiable placeholder; removed generic filler body and fake source descriptions, gaps record missing identification (candidate for deletion)
+sch-sociology-school-28: unidentifiable placeholder; removed generic filler body and fake source descriptions, gaps record missing identification (candidate for deletion)
+dbt-historical-vs-ahistorical: corrected Moore's coverage (no Germany case study); softened Merton claim; added Tilly to Sources
+dbt-integration-vs-fragmentation: corrected Habermas (rise and decline of bourgeois public sphere) and qualified Beck's thesis
+dbt-marx-weber-class-stratification: Wright's contradictory class locations predate the 1978 book; added it to Sources
+dbt-materialism-vs-idealism: Williams no longer presented as an idealist; added Bourdieu source
+dbt-new-social-movements-vs-resource-mobilization-theory: added cited works (Olson, McAdam, Snow et al.) to Sources
+dbt-objective-vs-subjective: softened Durkheim overclaim
+dbt-parsons-freidson-sick-role-vs-medical-dominance: fixed chronology (Foucault 1963 predates Freidson 1970); added Foucault and Zola to Sources
+dbt-positivism-vs-interpretivism: dated Dilthey's explain/understand formula; Bhaskar's social-science argument assigned to 1979 book; added cited works to Sources
+dbt-progress-vs-decline: refined Nisbet's position and HDI attribution; added Beck to Sources
+dbt-quantitative-vs-qualitative: gave first-edition date of Denzin's The Research Act
+dbt-rationality-vs-emotion: removed nurses from Hochschild's study population
+dbt-skocpol-sewell-structure-vs-ideology-revolutions: softened claim about the 1994 collection; added 1982 Iran essay to Sources
+dbt-structure-vs-agency: corrected portrayal of Parsons 1937 (voluntaristic theory); added Social System and Central Problems to Sources
+dbt-universalism-vs-particularism: corrected Merton reprint note
+dbt-universalism-vs-relativism: Rosaldo essay re-dated from 1984 to 2000; softened 1947 AAA Statement wording and Geertz paraphrase
+dbt-functionalism-vs-conflict: replaced misapplied 'interlocking directorate'
+dbt-modernization-vs-dependency: rewrote stub (positions, arguments, status, real sources); English title and crumb; active_start 1950; gaps cleared
+sch-sociology-school-29: unidentifiable placeholder; removed generic filler body and fake source descriptions, gaps record missing identification (candidate for deletion)
+sch-sociology-school-30: unidentifiable placeholder; removed generic filler body and fake source descriptions, gaps record missing identification (candidate for deletion)
+sch-sociology-school-31: unidentifiable placeholder; removed generic filler body and fake source descriptions, gaps record missing identification (candidate for deletion)
+sch-sociology-school-32: unidentifiable placeholder; removed generic filler body and fake source descriptions, gaps record missing identification (candidate for deletion)
+sch-sociology-school-33: unidentifiable placeholder; removed generic filler body and fake source descriptions, gaps record missing identification (candidate for deletion)
+sch-sociology-school-34: unidentifiable placeholder; removed generic filler body and fake source descriptions, gaps record missing identification (candidate for deletion)
+sch-sociology-school-35: unidentifiable placeholder; removed generic filler body and fake source descriptions, gaps record missing identification (candidate for deletion)
+sch-sociology-school-36: unidentifiable placeholder; removed generic filler body and fake source descriptions, gaps record missing identification (candidate for deletion)
+sch-sociology-school-37: unidentifiable placeholder; removed generic filler body and fake source descriptions, gaps record missing identification (candidate for deletion)
+sch-sociology-school-38: unidentifiable placeholder; removed generic filler body and fake source descriptions, gaps record missing identification (candidate for deletion)
+sch-sociology-school-39: unidentifiable placeholder; removed generic filler body and fake source descriptions, gaps record missing identification (candidate for deletion)
+sch-sociology-school-40: unidentifiable placeholder; removed generic filler body and fake source descriptions, gaps record missing identification (candidate for deletion)
+fld-sociology: fixed 'Later centuries added' to 'The twentieth century added'
+ins-content-analysis-method: softened overclaim; added first-edition year for Weber's Basic Content Analysis
+sch-appadurai-robertson-global-culture: Public Culture co-founded; institutional order corrected; removed 'first' overclaim
+sch-berger-luckmann-social-construction: corrected Schutz-Husserl relation and Life-World publication years; sociology of knowledge attribution; overclaims; sources
+sch-bourdieu-distinction-cultural-reproduction: added cited works to Sources
+sch-chicago-urban-ecology-english: removed overclaims (first department, first maps, founded urban sociology); softened Anderson and definition-of-situation attributions; added cited sources
+sch-chicago-urban-ecology: softened overclaims; added sources for cited works
+sch-complex-organizations-gouldner-blau: replaced inaccurate example from Blau (file exchange) with informal consultation; added Merton 1940 source
+sch-comtean-positivism: softened 'founder' heading
+sch-conversation-analysis: active_start set to 1964 (Sacks's lectures began); softened origin claim
+sch-comtean-positivism-english: replaced generic boilerplate and fake source descriptions with factual article; Arabic title/crumb translated; active_end 1857; gaps reworded (duplicate of sch-comtean-positivism)
+sch-du-boisian-sociology: corrected order of Penn survey and Atlanta post, Atlanta Conferences role, NAACP tenure; softened overclaims
+sch-durkheimian-sociology-of-religion: softened unsupported claims of scholarly applications and influence; added cited sources; removed substring 'pending' (spending)
+sch-durkheimian-structural-functionalism: active_end 1917; corrected Sorbonne chair; softened 'first' claims; fixed dangling sentence
+sch-durkheimian-functionalism-english: replaced generic boilerplate and fake source descriptions with factual article; Arabic title/crumb translated; active_end 1917; gaps reworded (duplicate of sch-durkheimian-structural-functionalism)
+sch-marxist-classical-sociology-english: replaced generic boilerplate and fake source descriptions with factual article; Arabic title/crumb translated; gaps reworded (duplicate of sch-marxist-classical-sociology)
+sch-environmental-sociology-metabolic-rift: softened overclaims; fixed garbled sentence on Marxists
+sch-goffmanian-dramaturgical-english: active_end 1983; corrected Sacks/CA and emotional-labour attributions; added cited sources
+sch-latin-american-dependency-theory: corrected ECLA origin claim and Frank/Cardoso contrast; added cited sources
+sch-marxist-classical-sociology: softened overclaims on influence and Durkheim/Weber; corrected dialectical materialism note and imprint
+sch-medicalization-biosociality: removed unverified death year for Conrad; corrected Rose affiliations; added cited sources
+sch-mertonian-sociology-of-science: softened founding claim; added cited sources
+sch-new-institutionalism-organizational: added cited source (Fligstein 1990)
+sch-parsonian-agil-english: replaced generic boilerplate and fake source descriptions with factual article; Arabic title/crumb translated; gaps reworded; active_end 1979 (duplicate of sch-parsonian-structural-functionalism-agil)
+sch-parsonian-structural-functionalism-agil: active_end 1979; softened overclaims
+sch-simmelian-formal-english: replaced generic boilerplate and fake source descriptions with factual article; Arabic title/crumb translated; gaps reworded; active_end 1918 (duplicate of sch-simmelian-formal-sociology)
+sch-simmelian-formal-sociology: active_end 1918; softened heading and Weber's judgement
+sch-skocpol-comparative-historical-revolutions: removed unconfirmed teacher claim about Moore; softened 'established'; added Sewell 1985 source
+sch-social-capital-civic: replaced misattributed 'Greatest Generation' label; corrected league-bowling claim; softened Tocqueville priority; added cited sources
+sch-social-network-analysis-paradigm: specified East York as Wellman's study area; added Getting a Job to sources
+sch-sociology-of-aging-life-course: generalised unconfirmed claim about Elder's war studies
+sch-sociology-of-family-gender-intimacy: fixed chronology of Hochschild versus Giddens; added Stacey source
+sch-sociology-of-law-social-control: added curvilinear form of Black's relational-distance proposition
+sch-sociology-of-culture-lifestyles: corrected target of Swidler's argument; removed unsupported claim about Griswold's model; added Peterson 1992
+sch-sociology-of-deviance-crime-justice: corrected Cohen's three elements of the media inventory
+sch-sociology-of-education-cultural-capital: revised unconfirmed description of Bernstein's initial research
+sch-sociology-of-migration-diaspora: corrected Portes biography; added cited Legacies
+sch-sociology-of-scientific-knowledge: corrected dating of Edinburgh School and Science Studies Unit; added cited sources
+sch-sociology-of-work-occupations: replaced speculative master-status claim with Hughes's 1945 argument; noted subject of 'Good People and Dirty Work'
+sch-subaltern-studies-guha-spivak: added Guha's death year; clarified sense of 'subaltern'
+sch-spencerian-evolutionism-english: corrected basis of Spencer's opposition to state intervention
+sch-weberian-verstehen-english: active_end 1920
+sch-tilly-tarrow-contentious-politics: corrected active_end/dates (framework continued past 1998); added cited sources
+sch-urban-sociology-spatial-planning: corrected thesis of The Economy of Cities; softened claim about Gans
+sch-wallerstein-world-systems: school marked ongoing; corrected attribution of modernization theory; added cited critiques to sources
+sch-weberian-religion-capitalism: removed predestination attribution to Methodists/Baptists; added Pietism; corrected location of comparative religion studies
+sch-whyte-participant-observation: removed unconfirmed childhood detail; corrected methodological influences and chronology of community studies; dated appendix
+stu-among-schoolchildren: removed unverified school year and invented-looking interview and child details; softened school-condition claims
+stu-bowling-alone-studies: removed claim that the 2000 benchmark survey answered critics
+stu-challenger-launch-decision-vaughan: fixed run-on sentence
+stu-children-and-society: corrected start of Corsaro's preschool ethnography to the 1970s; removed duplicated phrase
+stu-dream-hoarders: dated Reeves's Brookings affiliation
+stu-everything-in-its-path-erikson: corrected speed of the flood and dam ownership description
+stu-evicted-desmond: removed claim that evictions followed only slight delays; fixed grammar
+stu-evicted: softened claim about earlier sociology of housing
+stu-gang-leader-for-a-day-venkatesh: softened overclaim; added cited Humphreys source
+sch-weberian-religion-capitalism: removed substring 'pending' (spending)
+stu-among-schoolchildren: removed substring 'pending' (spending)
+stu-evicted: removed substring 'pending' (spending)
+stu-gang-leader-for-a-day: softened overclaims; Venkatesh did not reside in the projects; removed twenty-four-hour detail
+stu-in-search-of-respect-bourgois: removed unsupported methodological appendix and Galtung framing; fixed mistranslated wording
+stu-killers-of-the-flower-moon: John Wren was not Ponca; corrected scope of official death toll versus FBI investigation
+stu-manufacturing-consent-burawoy: added works cited in text to Sources
+stu-middletown-lynd: softened founding claim
+stu-middletown: softened superlatives
+stu-on-the-edge: corrected journal title for 1969 article (then Environment and Planning); softened overclaim
+stu-pinned-down: corrected year of Precarious Work volume
+stu-sidewalk-duneier: Duneier was not at Princeton when Sidewalk was written
+stu-squeezed: softened unverified course-adoption claim
+stu-strangers-in-their-own-land: removed unconfirmed "honor squeeze" term; corrected residence claim; softened overclaims
+stu-street-corner-society-whyte: title matched to actual subtitle; softened edition history; clarified Boelen timing
+stu-the-code-of-the-streets: title corrected to Code of the Street; Chestnut Hill is a Philadelphia neighbourhood, not a suburb; softened overclaims
+stu-the-dignity-deficit: replaced unconfirmed "honor squeeze" with Hochschild's "deep story"
+stu-the-levittowners: 1982 reissue was a Morningside edition, not a second edition; softened overclaims
+stu-the-meritocracy-trap: corrected Chetty comparison (top 1 percent vs bottom 60 percent) and added source
+stu-the-polish-peasant: corrected contents of volumes 4-5 and Znaniecki arrival; removed muddled SSRC remark; softened overclaims
+stu-the-second-shift-in-china: corrected 1989 subtitle of The Second Shift
+stu-the-second-shift: corrected 1989 subtitle; 15-hour figure comes from earlier time-use studies; completed Bittman citation; softened overclaims
+stu-the-unwinding: corrected publication details of Dos Passos U.S.A.
+stu-truly-disadvantaged-wilson: fixed garbled Moynihan passage and added source
+stu-urban-villagers: removed coinage and unsupported interview/duration claims; softened overclaims
+stu-whyte-street-corner-society: Cornerville was Whyte's pseudonym, not local usage; fixed Chicago-influence claim and patronage description; softened overclaims
+stu-yankee-city: removed unsupported team size and Lynd contrast; Hollingshead not presented as challenger
+thk-alejandro-portes: ASA presidency 1999 not 1998; corrected career and segmented-assimilation factors; active_start 1970; added cited sources
+thk-ali-shariati: doctorate field and chronology corrected; Rahnema is author not editor
+thk-alwardi: dates label corrected from International to Iraq
+thk-ann-swidler: active_start 1979; removed repeated Malawi passage and cited A Fraught Embrace
+stu-street-corner-society: rewrote stub (duplicate of other Whyte entries) with established content; English title; active years 1936-1943
+thk-ali-al-wardi: replaced contentless generic filler (duplicate of thk-alwardi) with established content; fixed dates, active_end, crumb, gaps
+stu-making-ends-meet-edin-lein: removed substring 'pending' (spending)
+stu-urban-villagers: removed substring 'pending' (spending)
+thk-anouar-abdel-malek: restored French accents in work titles
+thk-blumer: separated Kuhn's position from general structural criticisms
+thk-boltanski: active_start 1966; corrected projective city/connexionist wording and the account of agape in Love and Justice
+thk-booth: corrected survey coverage, Beatrice Potter name, softened founding claim
+thk-bourdieu: restored French accents
+thk-cardoso: active_start 1962; fixed election/office date; removed anachronistic 1970s claim for a 1969 book
+thk-charles-cooley: corrected society name and year of presidency
+thk-coleman: corrected title of 1982 book
+thk-dahrendorf: restored accent
+thk-david-bloor: removed unverified Martin Ohm and David Stove claims
+thk-dimaggio: softened co-founder claim; added cited 1982 article to Sources
+thk-dorothy-smith: removed vague unverified retraction claim
+thk-durkheim: corrected teaching career
+thk-e-p-thompson: removed false belongs_to edge to Althusserian Marxism (Thompson was its critic); active_start 1955; corrected NLR merger
+thk-eduardo-bonilla-silva: softened overclaims
+thk-elster: softened founder claim
+thk-emirbayer: removed unverified claim that Harrison White supervised his doctorate
+thk-eugen-ehrlich: active_start 1893 (publications predate 1913)
+thk-fanon: corrected chapter position (not the final section)
+thk-fatima-mernissi: softened doctorate year; reworded garbled criticism
+thk-anselm-l-strauss: replaced contentless generic filler (duplicate of thk-anselm-strauss); fixed active_end, crumb, gaps
+thk-arlie-russell-hochschild: replaced contentless generic filler (duplicate of thk-hochschild); fixed crumb, gaps
+thk-auguste-comte: replaced contentless generic filler (duplicate of thk-comte); fixed active_end, crumb, gaps
+thk-bell-hooks: replaced contentless generic filler (duplicate of thk-bhooks); fixed active_end, crumb, gaps
+thk-erving-goffman: replaced contentless generic filler (duplicate of thk-goffman); fixed active_end, crumb, gaps
+thk-émile-durkheim: replaced contentless generic filler (duplicate of thk-durkheim); fixed active_end, crumb, gaps
+thk-anselm-strauss: reworded to remove substring 'pending' (impending)
+thk-florian-znaniecki: replaced generic template stub (no facts, placeholder sources) with factual entry and real sources; gaps cleared; crumb translated; active_end set to 1958
+thk-frantz-fanon: replaced generic template stub (no facts, placeholder sources) with factual entry and real sources; gaps cleared; crumb translated; active_end set to 1961
+thk-georg-simmel: replaced generic template stub (no facts, placeholder sources) with factual entry and real sources; gaps cleared; crumb translated; active_end set to 1918
+thk-harriet-martineau: replaced generic template stub (no facts, placeholder sources) with factual entry and real sources; gaps cleared; crumb translated; active_end set to 1876
+thk-herbert-blumer: replaced generic template stub (no facts, placeholder sources) with factual entry and real sources; gaps cleared; crumb translated; active_end set to 1987
+thk-herbert-spencer: replaced generic template stub (no facts, placeholder sources) with factual entry and real sources; gaps cleared; crumb translated; active_end set to 1903
+thk-howard-s-becker: replaced generic template stub (no facts, placeholder sources) with factual entry and real sources; gaps cleared; crumb translated; active_end set to 2023
+thk-immanuel-wallerstein: replaced generic template stub (no facts, placeholder sources) with factual entry and real sources; gaps cleared; crumb translated; active_end set to 2019
+thk-james-s-coleman: replaced generic template stub (no facts, placeholder sources) with factual entry and real sources; gaps cleared; crumb translated; active_end set to 1995
+thk-judith-butler: replaced generic template stub (no facts, placeholder sources) with factual entry and real sources; gaps cleared; crumb translated
+thk-karl-marx: replaced generic template stub (no facts, placeholder sources) with factual entry and real sources; gaps cleared; crumb translated; active_end set to 1883
+thk-kimberlé-crenshaw: replaced generic template stub (no facts, placeholder sources) with factual entry and real sources; gaps cleared; crumb translated
+thk-max-weber: replaced generic template stub (no facts, placeholder sources) with factual entry and real sources; gaps cleared; crumb translated; active_end set to 1920
+thk-michel-foucault: replaced generic template stub (no facts, placeholder sources) with factual entry and real sources; gaps cleared; crumb translated; active_end set to 1984
+thk-james-s-coleman: death year corrected from 1992 to 1995
+thk-howard-s-becker: marked deceased (1928-2023), previously 'present'
+thk-howard-becker: marked deceased (died 2023); co-authors added for Making the Grade
+thk-margaret-archer: marked deceased (died 2023); softened overclaim and fractured-reflexivity gloss; corrected description of education research
+thk-gayatri-spivak: standardized spelling Bhubaneswari Bhaduri; Of Grammatology entry identified as translation
+thk-glaser: Corbin described as collaborator, not student
+thk-glen-elder: softened 'founder'; corrected age comparison (Oakland cohort was born 1920-21; younger comparison came from Berkeley cohort)
+thk-goffman: Frame Analysis publisher corrected to Harper & Row
+thk-granovetter: removed claim that he borrowed 'embeddedness' from Polanyi; softened 'founding father'
+thk-guy-standing: SOAS title corrected; softened claimed engagement with Sennett and Kalleberg
+thk-halim-barakat: mosaic model recast as an image he criticizes; corrected English titles of Six Days and Return of the Bird to the Sea (Days of Dust, not The Crane); alienation not confined to fiction
+thk-homans: removed unconfirmed Pareto circle membership; softened 'one of the first'
+thk-hsacks: removed 'random model' comparison, separate-journals claim and unsupported sample description
+thk-jennifer-silva: removed unverified birth year
+thk-lewis-coser: corrected greedy institutions versus total institutions; removed unverified attribution of criticism to Dahrendorf
+thk-parsons: dates field "International" replaced by United States
+thk-robert-merton: dates field "International" replaced by United States
+thk-phcollins: dates field "International" replaced by United States
+thk-raewyn-connell: dates field "International" replaced by Australia
+thk-randall-collins: dates field "International" replaced by United States
+thk-saskia-sassen: dates field "International" replaced by Netherlands / United States
+thk-simmel: dates field "International" replaced by Germany
+thk-spencer: dates field "International" replaced by Britain
+thk-ulrich-beck: dates field "International" replaced by Germany
+thk-wallerstein: dates field "International" replaced by United States
+thk-web-du-bois: dates field "International" replaced by United States
+thk-weber: dates field "International" replaced by Germany
+thk-william-f-whyte: dates field "International" replaced by United States
+thk-william-i-thomas: dates field "International" replaced by United States
+thk-znaniecki: dates field "International" replaced by Poland / United States
+thk-zygmunt-bauman: dates field "International" replaced by Poland / Britain
+thk-michels: removed doubtful 1928 date for joining the Fascist Party
+thk-nancy-fraser: active_start 2013 -> 1985; corrected chair title and venue of the Butler exchange
+thk-pareto: dated English translation of the Trattato (1935); corrected the 1923 senate nomination
+thk-parsons: removed wrong essay title for the sick role
+thk-peter-berger: removed misplaced Beyer example and Giddens attribution; added two sources
+thk-peter-blau: removed claim that Homans was his teacher; active_start -> 1955
+thk-raewyn-connell: corrected origin of hegemonic masculinity and title of Gender (2002)
+thk-richard-sennett: removed incorrect Prince of Asturias award
+thk-robert-park: softened superlatives
+thk-robert-wuthnow: active_start 1988 -> 1976
+thk-rputnam: added Don Cohen as co-author of Better Together; removed publication-delay claim
+thk-saskia-sassen: birth year 1949 -> 1947
+thk-skocpol: repaired garbled criticism passage; corrected paternalist/maternalist argument; removed duplicate APSA claim
+thk-stryker: removed wrong Cornell doctorate; softened Burke relationship
+thk-th-marshall: corrected NHS wording
+thk-veblen: repaired garbled opening sentence
+thk-walter-powell: doctorate Yale -> SUNY Stony Brook
+thk-weber: dated English collection of methodology essays
+thk-wi-thomas: active years 1918-1920 -> 1896-1947; softened co-founder claim
+thk-william-f-whyte: Middletown no longer assigned to Chicago School; corrected Boelen initials
+wrk-asylums: active_end -> 1961; refined account of the final essay
+thk-pierre-bourdieu: replaced generic template stub with factual entry; gaps cleared; crumb translated
+thk-ralf-dahrendorf: replaced generic template stub with factual entry; gaps cleared; crumb translated
+thk-talcott-parsons: replaced generic template stub with factual entry; gaps cleared; crumb translated
+thk-robert-k-merton: replaced generic template stub with factual entry; gaps cleared; crumb translated
+thk-patricia-hill-collins: replaced generic template stub with factual entry; gaps cleared; crumb translated
+wrk-bowling-alone: corrected claim that volunteering declined (Putnam reports a rise, notably among older Americans)
+wrk-capital: removed weak Durkheim claim and overclaim on value theory; "metabolic rift" attributed to Foster; German titles for vols 2-3
+wrk-economy-and-society-weber: fixed title/subtitle of 1921-22 first edition
+wrk-environmental-sociology-new-paradigm-catton-dunlap: fixed self-referential work title to 1980 American Behavioral Scientist article (added to Sources); DSP contrast attributed to Dunlap and Van Liere
+wrk-feminist-theory-from-margin-to-center: softened overclaims; corrected unsupported detail on the Friedan critique
+wrk-fighting-back: removed editorial note about file name, fixed crumb, expanded themes of Fighting Words
+wrk-gender-trouble: removed "ungrievable" (a concept of Butler's later work)
+wrk-global-cities: "coined" changed to "popularised"; softened founding/first claims
+wrk-goffman-presentation-self: softened overclaims
+wrk-great-transformation-polanyi: removed translation parentheticals; fixed double movement wording; softened Granovetter/welfare-state claims
+wrk-inequality-heterogeneity-blau: corrected "Primitive theorems" garble
+wrk-la-distinction: corrected description of the introduction
+wrk-liquid-modernity-bauman: Bauman was forced to leave Poland (not "fled")
+wrk-liquid-modernity: replaced generic template stub with factual entry; fake source list replaced; crumb translated; gaps reworded (duplicate of wrk-liquid-modernity-bauman)
+wrk-modernity-and-the-holocaust-bauman: fixed opening; added intentionalist/functionalist section and closed gap
+wrk-modernity-at-large: replaced unsupported diaspora case with census/violence chapters; fixed garbled sentence
+wrk-normal-accidents-perrow: fixed garbled sentence; removed section with unsupported application of the matrix (dams/Challenger)
+wrk-on-suicide: removed unattested English subtitle (work is Les Suicides / Suicides); removed unconfirmed Schutz, coroner-report, doctoral-origin and religion-critique claims
+wrk-orientalism-said: corrected chapter contents (Sacy, Renan in ch. 2; Lawrence in ch. 3)
+wrk-orientalism: replaced generic template stub with factual entry; fake source list replaced; crumb translated; gaps reworded (duplicate of wrk-orientalism-said)
+wrk-outline-theory-practice-bourdieu: corrected structure of French and English editions; softened overclaims
+wrk-outline-of-a-theory-of-practice: replaced generic template stub with factual entry; fake source list replaced; crumb translated; gaps reworded (duplicate of wrk-outline-theory-practice-bourdieu)
+wrk-patterns-of-culture: replaced generic template stub with factual entry; fake source list replaced; crumb translated; gaps reworded
+wrk-philosophical-investigations: noted third literary executor; softened ordinary-language founding/influence claim
+wrk-protestant-ethic-spirit-capitalism-weber: corrected timing relative to 1904 US journey; softened overclaims
+wrk-realist-social-theory-archer: removed unconfirmed section on Archer's language example; added 1979 work to Sources
+wrk-risk-society: "organised irresponsibility" marked as developed mainly in Beck's subsequent work
+wrk-sacred-canopy-berger: fixed garbled sentence on methodological atheism
+wrk-schooling-in-capitalist-america-bowles-gintis: fixed garbled sentence; removed unconfirmed concessions attributed to 2002 reassessment
+wrk-second-sex: softened unverified "denounced from the pulpit"; US edition of new translation dated 2010; French title for Sartre source
+wrk-sex-gender-society-oakley: softened founding/curriculum overclaims
+wrk-social-exchange-power-networks-cook: added two books cited in text to Sources
+wrk-social-system-parsons: corrected overstated Gouldner "funded" claim
+wrk-stigma: softened founding and "own" overstatements
+wrk-strangers-in-their-own-land: fixed Great Paradox wording; removed unconfirmed author acknowledgement and prophecy framing; corrected Wuthnow subtitle
+wrk-suicide-durkheim: softened first/most famous/founder claims
+wrk-suicide: Halbwachs described as younger Durkheimian; softened overclaims
+wrk-the-division-of-labor-in-society: softened founding overclaims; social facts defined after this book
+wrk-the-elementary-forms-of-religious-life: softened founding claims
+wrk-the-grounded-theory: softened claim about Charmaz version
+wrk-the-holy-family: corrected place of writing; removed unsupported Silesian weavers claim
+wrk-the-managed-heart: removed embellished childhood detail; softened research-support claim
+wrk-the-masters-tools: date corrected to 29 September 1979; parents Barbados and Grenada; anger argument attributed to "The Uses of Anger"; removed unconfirmed Lorde "resisted" claim
+wrk-the-polish-peasant: Culver gift not bequest; removed claim Znaniecki finished volumes alone; corrected publishers of volumes; softened Wladek detail
+wrk-the-poverty-of-philosophy: removed labour-voucher attribution; free trade address is separate 1848 text; corrected 1955 publisher and reception wording
+wrk-the-sociological-condition: Thinking Sociologically 1990 is Bauman alone (May co-author from 2001)
+wrk-the-stranger: essay does not close on the homecomer (separate 1945 essay)
+wrk-theory-of-leisure-class-veblen: removed "trickle-down" label; added 1923 book to Sources
+wrk-street-corner-society: replaced generic template stub with factual entry; fake source list replaced; crumb translated; gaps reworded
+wrk-the-protestant-ethic-and-the-spirit-of-capitalism: replaced generic template stub (duplicate of wrk-protestant-ethic-spirit-capitalism-weber); sources replaced
+wrk-the-sociological-imagination: replaced generic template stub; sources replaced
+wrk-the-presentation-of-self-in-everyday-life: replaced generic template stub (duplicate of wrk-goffman-presentation-self); sources replaced
+wrk-the-second-sex: replaced generic template stub (duplicate of wrk-second-sex); sources replaced
+wrk-the-social-system: replaced generic template stub (duplicate of wrk-social-system-parsons); sources replaced

@@ -49,4 +49,7 @@ Critics make several objections. Structural and Marxist critics argue that empha
 - Ortner, Sherry B. "Theory in Anthropology since the Sixties." *Comparative Studies in Society and History* 26(1), 1984.
 - Sewell, William H., Jr. "A Theory of Structure: Duality, Agency, and Transformation." *American Journal of Sociology* 98(1), 1992.
 - Emirbayer, Mustafa, and Ann Mische. "What Is Agency?" *American Journal of Sociology* 103(4), 1998.
+- Gell, Alfred. *Art and Agency: An Anthropological Theory*. 1998.
+- Bandura, Albert. "Social Cognitive Theory: An Agentic Perspective." *Annual Review of Psychology* 52, 2001.
+- Ortner, Sherry B. *Anthropology and Social Theory: Culture, Power, and the Acting Subject*. 2006.
 - Mahmood, Saba. *Politics of Piety: The Islamic Revival and the Feminist Subject*. 2005.

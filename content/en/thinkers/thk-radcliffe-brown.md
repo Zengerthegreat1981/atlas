@@ -21,7 +21,7 @@ gaps: []
 
 # A.R. Radcliffe-Brown: Structural Functionalism and Comparative Method
 
-Alfred Reginald Radcliffe-Brown (1881–1955) established structural functionalism as the dominant theoretical and methodological framework in mid-twentieth-century anthropology. Where Bronislaw Malinowski emphasized holistic description of particular societies, Radcliffe-Brown insisted on **comparative method**—analyzing structural patterns across societies to identify universal principles organizing social life. His epistemological vision positioned anthropology as a natural science, discovering laws of social structure analogous to laws of physics, in which particular institutions could be understood as functional solutions to universal problems of social integration and individual regulation. His theory emphasized that societies maintain cohesion through institutions that regulate kinship, ritual, and social relations—a structural vision that dominated professional anthropology from the 1930s through the 1960s.
+Alfred Reginald Radcliffe-Brown (1881–1955) was the leading theorist of structural functionalism, an influential framework in mid-twentieth-century British social anthropology. Where Bronislaw Malinowski emphasized holistic description of particular societies, Radcliffe-Brown insisted on **comparative method**—analyzing structural patterns across societies to identify universal principles organizing social life. His epistemological vision positioned anthropology as a natural science, discovering laws of social structure analogous to laws of physics, in which particular institutions could be understood as functional solutions to universal problems of social integration and individual regulation. His theory emphasized that societies maintain cohesion through institutions that regulate kinship, ritual, and social relations—a structural vision that dominated professional anthropology from the 1930s through the 1960s.
 
 ## Biographical Context and Career Formation
 
@@ -71,7 +71,7 @@ However, this epistemology also constrained what anthropologists could see. By f
 
 Structural functionalism faced significant criticism, particularly from the 1960s onward. Critics argued that synchronic analysis distorted understanding by treating societies as static wholes, ignoring historical change and cultural dynamics. The emphasis on integration and stability obscured power, conflict, and the perspectives of dominated groups. By treating kinship systems, rituals, and economic arrangements as "functional" for social integration, the approach implied a conservative bias toward existing arrangements.
 
-Later anthropologists (particularly political economists and Marxist anthropologists) argued that functionalism naturalized social inequality, treating hierarchies as "functional necessities" rather than contingent products of domination. Symbolic anthropologists (Victor Turner, Mary Douglas) challenged the claim that ritual functioned mechanically to integrate societies; instead, they insisted, rituals were vehicles for creative meaning-making and contestation.
+Later anthropologists (particularly political economists and Marxist anthropologists) argued that functionalism naturalized social inequality, treating hierarchies as "functional necessities" rather than contingent products of domination. Later students of ritual and symbolism, such as Victor Turner, gave greater weight to meaning, process, and conflict than a mechanical model of integration allows.
 
 ## Postcolonial Positioning and Colonial Fieldwork
 
@@ -87,7 +87,7 @@ Radcliffe-Brown's legacy in contemporary anthropology is complex. Structural fun
 
 Yet Radcliffe-Brown's insights remain valuable: social institutions do interrelate as systems; understanding one aspect of society requires grasping its connections to others; comparative analysis can reveal patterns invisible in single cases. Contemporary anthropologists studying kinship, ritual, or political organization often work within refined versions of his structural insights, though without his positivist confidence in universal laws.
 
-His emphasis on rigorous comparison and systematic analysis has influenced methodologically sophisticated comparative work. Evolutionary anthropology and behavioral ecology have built on his impulse to identify universal structural problems and solutions, though using different theoretical frameworks.
+His emphasis on rigorous comparison and systematic analysis has influenced methodologically sophisticated comparative work.
 
 ## Major Works
 

@@ -25,7 +25,7 @@ gaps: []
 
 # Paul DiMaggio
 
-An American sociologist (born 1951), long a professor at Princeton University and later at New York University, and a co-founder (with Walter Powell) of the "new institutionalism" in the sociology of organizations, explaining why organizations become structurally similar even when this similarity does not serve economic efficiency.
+An American sociologist (born 1951), long a professor at Princeton University and later at New York University, and, with Walter Powell, a leading figure in the "new institutionalism" in the sociology of organizations, which explains why organizations become structurally similar even when this similarity does not serve economic efficiency.
 
 ## What He Contributed
 
@@ -34,7 +34,7 @@ An American sociologist (born 1951), long a professor at Princeton University an
 
 ## His Place in the Current
 
-Thanks to this joint founding with Powell, the new institutionalism became a basic reference framework in contemporary organizational sociology. It explains widespread phenomena such as completely different companies and organizations adopting similar managerial, marketing or governance standards, even though their operating contexts and actual goals differ radically.
+Through this work with Powell and others, the new institutionalism became a basic reference framework in contemporary organizational sociology. It explains widespread phenomena such as completely different companies and organizations adopting similar managerial, marketing or governance standards, even though their operating contexts and actual goals differ radically.
 
 ## Work on Culture and the Arts
 
@@ -47,5 +47,6 @@ DiMaggio also made major contributions to the sociology of culture. His 1982 art
 
 ## Sources
 
+- DiMaggio, Paul. "Cultural Capital and School Success." *American Sociological Review* 47, no. 2 (1982).
 - DiMaggio, Paul J., and Walter W. Powell. "The Iron Cage Revisited: Institutional Isomorphism and Collective Rationality in Organizational Fields." *American Sociological Review* 48, no. 2 (1983): 147–160.
 - Powell, Walter W., and Paul J. DiMaggio, editors. *The New Institutionalism in Organizational Analysis*. University of Chicago Press, 1991.

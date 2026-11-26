@@ -8,7 +8,7 @@ title: "Descent Theory"
 en: "Descent Theory"
 crumb: "Anthropology ← Concepts ← Descent Theory"
 active_start: 1940
-active_end: "مستمر"
+active_end: 1970
 study_approach: "British structural functionalism"
 edges:
 - rel: "belongs_to", target: "Radcliffe-Brownian Structural Functionalism", target_type: "مدرسة"
@@ -27,7 +27,7 @@ Descent theory is an approach that dominated British anthropology between roughl
 
 A. R. Radcliffe-Brown set out key elements of the framework in his article "Patrilineal and Matrilineal Succession" (1935), and later in his introduction to *African Systems of Kinship and Marriage* (1950), drawing on his concept of "social structure" as a relatively enduring network of relations that can be described apart from the individuals who occupy it at any given moment. E. E. Evans-Pritchard developed this framework in practice in his classic study of the Nuer of Sudan (*The Nuer*, 1940), showing how a system of branching patrilineages organizes political relations among groups in the absence of any central authority, through the principle of **"complementary opposition"**: when conflict arises, each lineage group unites against a group that is more distant in branching from it, so that a politics "without government" emerges, yet is rigorously organized.
 
-Meyer Fortes developed the concept further in his study of the Tallensi of Ghana, introducing the concept of **"complementary filiation"**: even within a strict patrilineal system, ties to the mother and her relatives retain social and emotional significance, although they do not determine membership in the group. The general framework appeared in the joint volume edited by Fortes and Evans-Pritchard, *African Political Systems* (1940), which became the founding text of British political anthropology.
+Meyer Fortes developed the concept further in his study of the Tallensi of Ghana, introducing the concept of **"complementary filiation"**: even within a strict patrilineal system, ties to the mother and her relatives retain social and emotional significance, although they do not determine membership in the group. The general framework appeared in the joint volume edited by Fortes and Evans-Pritchard, *African Political Systems* (1940), which became a founding text of British political anthropology.
 
 ## Structure and Function
 
@@ -39,9 +39,7 @@ Descent theory distinguished between patrilineal systems (such as that of the Nu
 
 ## Critique
 
-Descent theory was subjected to sharp criticism from two directions. The first is **Alliance Theory**, put forward by Claude Lévi-Strauss and then developed by Rodney Needham and Louis Dumont, which holds that marriage and exchange between groups, rather than descent within a single group, is the fundamental structural driver of kinship systems. For them, descent is a later outcome of the rules of marital exchange rather than an independent cause. The second is an empirical critique offered by Rodney Needham and Edmund Leach, who showed that actual ethnographic cases rarely match the clean theoretical model of a "cohesive corporate descent group," and that people on the ground use rules of descent flexibly and pragmatically rather than adhering to them strictly. David Schneider advanced a deeper critique: the concept of "descent" itself implicitly assumes a universal biological or "natural" tie (blood, procreation), whereas, he argued, many cultures do not base kinship on a biological foundation at all, so the very notion of "descent" risks being a Western projection onto non-Western ethnographic material (*A Critique of the Study of Kinship*, 1984). Adam Kuper's later review (1982) argued that "lineage theory" had been largely abandoned by the end of the 1970s, though descent concepts remain in use in ethnographic description.
-
-Alliance theory, by contrast, traces back to Lévi-Strauss's *The Elementary Structures of Kinship* (1949), which treats the exchange of women (or spouses) between groups as the basis of kinship structure.
+Descent theory was subjected to sharp criticism from two directions. The first is **Alliance Theory**, put forward by Claude Lévi-Strauss and then developed by Rodney Needham and Louis Dumont, which holds that marriage and exchange between groups, rather than descent within a single group, is the fundamental structural driver of kinship systems. For them, descent is a later outcome of the rules of marital exchange rather than an independent cause. The second is an empirical critique, advanced by Edmund Leach in *Pul Eliya* (1961) and by others, who showed that actual ethnographic cases rarely match the clean theoretical model of a "cohesive corporate descent group," and that people on the ground use rules of descent flexibly and pragmatically rather than adhering to them strictly. David Schneider advanced a deeper critique: the concept of "descent" itself implicitly assumes a universal biological or "natural" tie (blood, procreation), whereas, he argued, many cultures do not base kinship on a biological foundation at all, so the very notion of "descent" risks being a Western projection onto non-Western ethnographic material (*A Critique of the Study of Kinship*, 1984). Adam Kuper's later review (1982) concluded that the lineage model had no value for anthropological analysis, though descent concepts remain in use in ethnographic description.
 
 ## Sources
 
@@ -49,6 +47,7 @@ Alliance theory, by contrast, traces back to Lévi-Strauss's *The Elementary Str
 - Evans-Pritchard, E. E. *The Nuer: A Description of the Modes of Livelihood and Political Institutions of a Nilotic People*. Oxford: Clarendon Press, 1940.
 - Fortes, Meyer, and E. E. Evans-Pritchard, eds. *African Political Systems*. Oxford: Oxford University Press, 1940.
 - Fortes, Meyer. "The Structure of Unilineal Descent Groups." *American Anthropologist* 55, no. 1 (1953).
+- Leach, E. R. *Pul Eliya, a Village in Ceylon: A Study of Land Tenure and Kinship*. Cambridge: Cambridge University Press, 1961.
 - Needham, Rodney, ed. *Rethinking Kinship and Marriage*. London: Tavistock, 1971.
 - Schneider, David M. *A Critique of the Study of Kinship*. Ann Arbor: University of Michigan Press, 1984.
 - Lévi-Strauss, Claude. *Les structures élémentaires de la parenté*. Paris: Presses Universitaires de France, 1949.

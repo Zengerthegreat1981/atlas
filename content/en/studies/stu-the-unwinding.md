@@ -38,7 +38,7 @@ The book's influence lies in the way it gave a name and a narrative to a process
 ## Sources
 
 - Packer, George. *The Unwinding: An Inner History of the New America*. Farrar, Straus and Giroux, 2013.
-- Dos Passos, John. *U.S.A.* (trilogy). Harcourt, Brace, 1930–1936.
+- Dos Passos, John. *U.S.A.* Harcourt, Brace, 1938 (collects novels first published 1930–1936).
 - Putnam, Robert D. *Bowling Alone: The Collapse and Revival of American Community*. Simon and Schuster, 2000.
 - Hochschild, Arlie Russell. *Strangers in Their Own Land: Anger and Mourning on the American Right*. The New Press, 2016.
 - Cramer, Katherine J. *The Politics of Resentment: Rural Consciousness in Wisconsin and the Rise of Scott Walker*. University of Chicago Press, 2016.

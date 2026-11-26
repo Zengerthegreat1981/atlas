@@ -11,7 +11,7 @@ en: Parsonian Structural Functionalism
 crumb: Sociology ← Functionalism and Systems
 dates: USA · 1951-1979
 active_start: 1951
-active_end: مستمر
+active_end: 1979
 edges: []
 related: []
 gaps:
@@ -23,7 +23,7 @@ gaps:
 
 ## The Architect of American Theory
 
-Talcott Parsons (1902–1979) dominated American sociology for a generation. From his base in Harvard's Department of Social Relations, which he helped to found in 1946, he built the most ambitious theoretical system sociology has produced: a general theory of action covering everything from a single act to whole civilisations. His project began with *The Structure of Social Action* (1937), a synthesis of Weber, Durkheim, Pareto and Marshall, and reached its mature form in *The Social System* (1951) and *Working Papers in the Theory of Action* (1953) with Robert F. Bales and Edward Shils, and in *Economy and Society* (1956) with Neil Smelser. Parsons's question was the classic Hobbesian problem of order: how is it that individuals, each pursuing their own ends, produce a stable, orderly society rather than a war of all against all? His answer was that order rests on shared norms and values, internalised through socialisation and enforced through social control, which align individual action with the needs of the system.
+Talcott Parsons (1902–1979) dominated American sociology for a generation. From his base in Harvard's Department of Social Relations, which he helped to found in 1946, he built a highly ambitious theoretical system: a general theory of action covering everything from a single act to whole civilisations. His project began with *The Structure of Social Action* (1937), a synthesis of Weber, Durkheim, Pareto and Marshall, and reached its mature form in *The Social System* (1951) and *Working Papers in the Theory of Action* (1953) with Robert F. Bales and Edward Shils, and in *Economy and Society* (1956) with Neil Smelser. Parsons's question was the classic Hobbesian problem of order: how is it that individuals, each pursuing their own ends, produce a stable, orderly society rather than a war of all against all? His answer was that order rests on shared norms and values, internalised through socialisation and enforced through social control, which align individual action with the needs of the system.
 
 ## The Theory of Action
 
@@ -43,7 +43,7 @@ One of Parsons's most widely used concepts is the sick role, introduced in *The 
 
 ## Criticism and Decline
 
-By the late 1960s Parsons's dominance had collapsed. Critics argued that functionalism was inherently conservative: by treating every institution as meeting a functional need, it legitimated the existing order and could not explain conflict or revolutionary change. C. Wright Mills had already attacked Parsons in *The Sociological Imagination* (1959) for "grand theory" — abstract, jargon-laden and detached from empirical research. Others argued that the AGIL scheme was a classificatory device rather than an explanatory theory, and feminist critics pointed to Parsons's account of the family, with the husband's instrumental role and the wife's expressive role treated as functional necessities, as an apology for gender inequality. Yet Parsons's defenders, and the neo-functionalists who followed Jeffrey Alexander in the 1980s, insist that his questions remain unavoidable: any sociology must explain how order is possible, how values are transmitted, and how the parts of a society hang together. Even his critics still use his vocabulary — system, function, role, socialisation — and the attempt to build a general theory of society that Parsons undertook has not been repeated at the same scale since.
+By the late 1960s Parsons's dominance had collapsed. Critics argued that functionalism was inherently conservative: by treating every institution as meeting a functional need, it legitimated the existing order and could not explain conflict or revolutionary change. C. Wright Mills had already attacked Parsons in *The Sociological Imagination* (1959) for "grand theory" — abstract, jargon-laden and detached from empirical research. Others argued that the AGIL scheme was a classificatory device rather than an explanatory theory, and feminist critics pointed to Parsons's account of the family, with the husband's instrumental role and the wife's expressive role treated as functional necessities, as an apology for gender inequality. Yet Parsons's defenders, and the neo-functionalists who followed Jeffrey Alexander in the 1980s, insist that his questions remain unavoidable: any sociology must explain how order is possible, how values are transmitted, and how the parts of a society hang together. Even his critics still use his vocabulary — system, function, role, socialisation — whether or not they accept his general theory.
 
 ## Sources
 

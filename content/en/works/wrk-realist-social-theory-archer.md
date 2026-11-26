@@ -38,19 +38,16 @@ This work offered one of the most methodologically rigorous solutions to the str
 
 ## Applications in the Sociology of Education
 
-Archer applied her morphogenetic framework in particular detail to analyzing the historical development of national education systems in her early work *Social Origins of Educational Systems* (1979). She showed how interactions among competing interest groups (the church, the state, economic elites) produce, over successive cycles of time, fundamentally distinct national educational structures (centralized in France, relatively decentralized in England). This was regarded as an early and convincing empirical application demonstrating the validity of her abstract theoretical framework on concrete historical material, chronologically preceding her full theoretical formulation of analytical dualism in this very book.
+Archer applied her morphogenetic framework in particular detail to analyzing the historical development of national education systems in her early work *Social Origins of Educational Systems* (1979). She showed how interactions among competing interest groups (the church, the state, economic elites) produce, over successive cycles of time, fundamentally distinct national educational structures (centralized in France, for example, and relatively decentralized in England). This was regarded as an early and convincing empirical application demonstrating the validity of her abstract theoretical framework on concrete historical material, chronologically preceding her full theoretical formulation of analytical dualism in this very book.
 
 ## Collective Agency and Individual Agency
 
 Archer also distinguished between "Primary Agents," ordinary individuals who are affected by the structure without conscious collective organization, and "Corporate Agents," organized groups conscious of their shared interests (such as unions and parties), able to voice explicit demands and to try to reshape the structure deliberately. She held that the distinction between these two levels of agency is necessary for understanding how some structural conditions turn into actual change while others remain fixed despite ordinary individuals' individual dissatisfaction with them in the absence of effective collective organization.
 
-## Archer's Critique of Giddens on Duality
-
-Archer directed a specific critique at Giddens's own illustrative examples of the "duality of structure," showing that even his favorite example of language (the individual uses already existing linguistic rules while his own use reproduces these rules) can be decomposed analytically into two clearly successive temporal phases. First the individual learns the linguistic rules (a prior structural condition shaped by earlier generations), then he actually uses them later in partly innovative ways that may gradually modify them over later generations. Even the clearest examples of simultaneous duality conceal, in her view, a real analytical temporal succession.
-
 ## Sources
 
 - Archer, Margaret S. *Realist Social Theory: The Morphogenetic Approach*. Cambridge University Press, 1995.
+- Archer, Margaret S. *Social Origins of Educational Systems*. London: Sage, 1979.
 - Archer, Margaret S. *Structure, Agency and the Internal Conversation*. Cambridge University Press, 2003.
 - Archer, Margaret S. "Morphogenesis versus Structuration: On Combining Structure and Action." *British Journal of Sociology* 33, no. 4 (1982): 455-483.
 - King, Anthony. "Against Structure: A Critique of Morphogenetic Social Theory." *Sociological Review* 47, no. 2 (1999): 199-227.

@@ -21,7 +21,7 @@ gaps:
 
 # The Performativity of Economics in MacKenzie
 
-A founding thesis formulated by Donald MacKenzie arguing that mathematical economic theories do not merely describe financial markets objectively from the outside (a "camera") but actually shape and produce them from within (an "engine").
+An influential thesis developed by Donald MacKenzie arguing that mathematical economic theories do not merely describe financial markets objectively from the outside (a "camera") but actually shape and produce them from within (an "engine").
 
 ## The Central Idea
 
@@ -29,14 +29,15 @@ Contrary to the common view that mathematical economic theories (such as the Bla
 
 ## Degrees of Performativity: From Generic to Counterperformativity
 
-MacKenzie later distinguished between varying degrees of the phenomenon of performativity. "Generic performativity" is when an economics is simply used in an actual economic practice. "Effective performativity" is when the use of the theory makes an actual difference in practice as a result of its use specifically. "Barnesian performativity" (self-fulfilling) is the strongest case, in which use of the theory makes reality closer to its assumptions (as in the case of Black-Scholes). Finally, "counterperformativity" is when the wide-scale use of a particular theory undermines the very conditions that it assumes, so that the theory invalidates itself by its spread (MacKenzie's standard example is the "volatility skew" that appeared in option prices after the October 1987 crash: the market stopped conforming to the Black-Scholes assumption of constant volatility, a pattern that earlier use of the model had helped to suppress).
+MacKenzie later distinguished between varying degrees of the phenomenon of performativity. "Generic performativity" is when an economics is simply used in an actual economic practice. "Effective performativity" is when the use of the theory makes an actual difference in practice as a result of its use specifically. "Barnesian performativity" (self-fulfilling) is the strongest case, in which use of the theory makes reality closer to its assumptions (as in the case of Black-Scholes). Finally, "counterperformativity" is when the wide-scale use of a particular theory undermines the very conditions that it assumes, so that the theory invalidates itself by its spread (MacKenzie's main illustration concerns the October 1987 crash, which portfolio insurance, a technique grounded in option theory, may have worsened; afterwards a "volatility skew" appeared in option prices that departed from the Black-Scholes-Merton assumption of constant volatility).
 
 ## Impact
 
-This thesis made a central foundational contribution to establishing the field of the "social studies of finance." It offered a deeply influential theoretical framework that changed the sociological understanding of the relation between economic theory and actual economic reality, from a neutral external descriptive relation to an active constitutive-productive one. The book that put it forward received the Viviana A. Zelizer Distinguished Book Award of the American Sociological Association's economic sociology section, and it influenced later research on the performativity of economic knowledge in other markets, such as carbon markets.
+This thesis made a major contribution to the field of the "social studies of finance." It offered a deeply influential theoretical framework that changed the sociological understanding of the relation between economic theory and actual economic reality, from a neutral external descriptive relation to an active constitutive-productive one. The thesis also influenced later research on the performativity of economic knowledge in other markets, such as carbon markets.
 
 ## Sources
 
+- Callon, Michel, editor. *The Laws of the Markets*. Blackwell, 1998.
 - MacKenzie, Donald. *An Engine, Not a Camera: How Financial Models Shape Markets*. MIT Press, 2006.
 - MacKenzie, Donald, and Yuval Millo. "Constructing a Market, Performing Theory: The Historical Sociology of a Financial Derivatives Exchange." *American Journal of Sociology* 109, no. 1 (2003): 107–145.
 - MacKenzie, Donald, Fabian Muniesa, and Lucia Siu, editors. *Do Economists Make Markets? On the Performativity of Economics*. Princeton University Press, 2007.

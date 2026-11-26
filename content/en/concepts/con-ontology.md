@@ -40,7 +40,7 @@ A third dimension is political. Ontological arguments have been taken up in deba
 
 The ontological turn has reshaped anthropology's relations with neighbouring disciplines — philosophy, science studies, and environmental humanities — and has influenced debates about climate change and the Anthropocene, where the agency of non-human beings can no longer be treated as metaphor. Its influence is also felt in archaeology and museum practice, where objects once classified as "artefacts" are now discussed as persons, ancestors, or relations.
 
-The sharpest critique remains that ontology can float free of history and power. Critics such as those writing in the wake of the turn insist that ontologies are not timeless worldviews but products of colonial encounter, missionisation, and state formation — and that any account of what exists must also ask who has the power to say so. The strongest contemporary work therefore pairs ontological attention with political economy, showing how ways of being are made, defended, and transformed under pressure.
+The sharpest critique remains that ontology can float free of history and power. Critics insist that ontologies are not timeless worldviews but products of colonial encounter, missionisation, and state formation — and that any account of what exists must also ask who has the power to say so. The strongest contemporary work therefore pairs ontological attention with political economy, showing how ways of being are made, defended, and transformed under pressure.
 
 ## Sources
 

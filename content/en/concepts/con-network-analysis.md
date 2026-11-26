@@ -28,7 +28,7 @@ The core premise of network analysis is that social structure is a pattern of re
 
 ## Origins and Development
 
-Network thinking has several independent roots. In psychology, Jacob Moreno invented sociometry in the 1930s, mapping the attractions and rejections within small groups in his book *Who Shall Survive?* (1934) and developing the sociogram, a diagram of who chooses whom. In anthropology, John Barnes's study of a Norwegian fishing village, published in 1954, introduced the term "social network" to describe the web of ties that cut across formal institutions such as the church and the workplace. In sociology, the Harvard school of the 1970s, led by Harrison White and his students, turned these ideas into a rigorous structural programme, arguing that social roles and categories emerge from patterns of ties rather than from the attributes of individuals. Mark Granovetter's "The Strength of Weak Ties" (1973) became one of the most cited articles in sociology by showing that job seekers most often found work through acquaintances rather than close friends. Stanley Wasserman and Katherine Faust's *Social Network Analysis* (1994) then systematised the mathematics, and Ronald Burt's *Structural Holes* (1992) connected network position to competitive advantage in organisations.
+Network thinking has several independent roots. In psychology, Jacob Moreno invented sociometry in the 1930s, mapping the attractions and rejections within small groups in his book *Who Shall Survive?* (1934) and developing the sociogram, a diagram of who chooses whom. In anthropology, John Barnes's study of a Norwegian island parish, published in 1954, introduced the term "social network" to describe the web of ties that cut across formal institutions such as the church and the workplace. In sociology, the Harvard school of the 1970s, led by Harrison White and his students, turned these ideas into a rigorous structural programme, arguing that social roles and categories emerge from patterns of ties rather than from the attributes of individuals. Mark Granovetter's "The Strength of Weak Ties" (1973) became one of the most cited articles in sociology by showing that people who found jobs through personal contacts more often learned of them from people they saw only occasionally or rarely than from those they saw often. Stanley Wasserman and Katherine Faust's *Social Network Analysis* (1994) then systematised the mathematics, and Ronald Burt's *Structural Holes* (1992) connected network position to competitive advantage in organisations.
 
 ## Key Debates and Dimensions
 
@@ -41,7 +41,7 @@ Network analysis has become one of the most influential approaches in the social
 ## Sources
 
 - Moreno, Jacob L. *Who Shall Survive?* 1934.
-- Barnes, John A. "Class and Committees in a Norwegian Island Parish." 1954.
+- Barnes, John A. "Class and Committees in a Norwegian Island Parish." *Human Relations*, 1954.
 - Granovetter, Mark S. "The Strength of Weak Ties." 1973.
 - Burt, Ronald S. *Structural Holes: The Social Structure of Competition*. 1992.
 - Wasserman, Stanley, and Katherine Faust. *Social Network Analysis: Methods and Applications*. 1994.

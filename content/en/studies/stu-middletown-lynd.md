@@ -19,7 +19,7 @@ gaps: []
 
 # Middletown: A Study in Modern American Culture
 
-A pioneering study by Robert Lynd and Helen Merrell Lynd, in which they applied a field-based, anthropological approach to a medium-sized American industrial city, helping to found the "community study" as a form of sociological research in the United States.
+A pioneering study by Robert Lynd and Helen Merrell Lynd, in which they applied a field-based, anthropological approach to a medium-sized American industrial city, helping to establish the "community study" as a form of sociological research in the United States.
 
 ## Method and Content
 
@@ -27,7 +27,7 @@ The Lynds chose Muncie, Indiana (about 35,000 to 38,000 people in the 1920s), wh
 
 ## Influence
 
-*Middletown* became the founding model of the "community study" as a way of understanding national social change (industrialisation, consumption, class) through the lens of a single community, and it paved the way for later studies such as W. Lloyd Warner's "Yankee City" series. The Lynds returned in 1935 and published *Middletown in Transition* (1937), which examined how the Great Depression had affected the town and its business-class leadership.
+*Middletown* became an influential model of the "community study" as a way of understanding national social change (industrialisation, consumption, class) through the lens of a single community, and it paved the way for later studies such as W. Lloyd Warner's "Yankee City" series. The Lynds returned in 1935 and published *Middletown in Transition* (1937), which examined how the Great Depression had affected the town and its business-class leadership.
 
 ## Background of the Project
 

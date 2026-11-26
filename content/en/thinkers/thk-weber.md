@@ -7,7 +7,7 @@ level: متوسط
 title: Max Weber
 en: Max Weber
 crumb: "Sociology ← Max Weber"
-dates: International · 1864-1920
+dates: Germany · 1864-1920
 active_start: 1864
 active_end: 1920
 edges: []
@@ -37,7 +37,7 @@ Weber was born in Erfurt in 1864 and trained in law, economics, and history, bec
 ## Major Works
 
 - *The Protestant Ethic and the Spirit of Capitalism* (1904-1905)
-- *The Methodology of the Social Sciences* (essays, 1904-1917)
+- *The Methodology of the Social Sciences* (essays, 1904-1917; English collection 1949)
 - *The Religion of China* (1915), *Ancient Judaism* (1917-1919), and *The Religion of India* (1916-1917)
 - "Science as a Vocation" and "Politics as a Vocation" (lectures, 1917 and 1919)
 - *Economy and Society* (posthumous, 1921-1922)

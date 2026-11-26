@@ -33,10 +33,12 @@ The branch has also been concerned with the study of "informal economies" that o
 
 ## Expansion into Late Capitalism
 
-Since the 1990s the branch has expanded to study financial capitalism and economic globalisation itself with ethnographic tools, such as the study of stock and derivatives markets and the culture of "traders" on the New York and London exchanges as cultural sites with their own rituals and beliefs, just like traditional markets. This has redefined the branch from the study of "primitive or non-Western economies" to the study of the economy as a cultural practice everywhere, including the very heart of global capitalism.
+Since the 1990s the branch has expanded to study financial capitalism and economic globalisation itself with ethnographic tools, such as the study of stock and derivatives markets and the culture of "traders" in places such as Chicago, London and Wall Street (for example in the work of Caitlin Zaloom and Karen Ho) as cultural sites with their own practices and beliefs, just like traditional markets. This has redefined the branch from the study of "primitive or non-Western economies" to the study of the economy as a cultural practice everywhere, including the very heart of global capitalism.
 
 ## Sources
 
 - Polanyi, Karl. *The Great Transformation*. Farrar & Rinehart, 1944.
+- Zaloom, Caitlin. *Out of the Pits: Traders and Technology from Chicago to London*. University of Chicago Press, 2006.
+- Ho, Karen. *Liquidated: An Ethnography of Wall Street*. Duke University Press, 2009.
 - Graeber, David. *Debt: The First 5,000 Years*. Melville House, 2011.
 - Mauss, Marcel. *The Gift: Forms and Functions of Exchange in Archaic Societies*. 1925. Translated by W. D. Halls, W. W. Norton, 1990.

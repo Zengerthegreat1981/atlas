@@ -34,7 +34,7 @@ Margaret Mead's *Coming of Age in Samoa* (1928) reported her fieldwork in the Ma
 
 ## Context
 
-Mead (1901-1978) studied with Franz Boas and Ruth Benedict at Columbia University, and Boas, who was engaged in debates against biological determinism, encouraged a study of whether adolescent turmoil appeared in another culture. Mead, aged 24, lived in Manu'a, chiefly on the island of Ta'u, for about nine months in 1925-26. She concentrated on adolescent girls in three villages, among whom she studied a group of about 68 young women, and also gathered material on social organization and rank. The islands were administered by the United States Navy. She learned some Samoan, relying heavily on interviews and on living in a household.
+Mead (1901-1978) studied with Franz Boas and Ruth Benedict at Columbia University, and Boas, who was engaged in debates against biological determinism, encouraged a study of whether adolescent turmoil appeared in another culture. Mead, aged 23 on arrival, spent about nine months in American Samoa in 1925-26, doing her main research in Manu'a on the island of Ta'u. She concentrated on adolescent girls in three villages, among whom she studied a group of about 68 girls and young women, and also gathered material on social organization and rank. The islands were administered by the United States Navy. She learned some Samoan, relying heavily on interviews and on living in a household.
 
 ## Samoan Social Organization
 

@@ -7,7 +7,7 @@ level: متوسط
 title: Zygmunt Bauman
 en: Zygmunt Bauman
 crumb: "Sociology ← Zygmunt Bauman"
-dates: International · 1925-2017
+dates: Poland / Britain · 1925-2017
 active_start: 1925
 active_end: 2017
 edges: []

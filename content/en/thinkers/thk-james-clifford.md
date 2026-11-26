@@ -21,7 +21,7 @@ gaps:
 
 # James Clifford: Ethnographic Authority and the Politics of Representation
 
-James Clifford (b. 1945) fundamentally transformed anthropological epistemology by demonstrating that ethnographic texts are not transparent windows onto reality but rather constructed artifacts shaped by literary choices, power relationships, and authorial voice. His collection *The Predicament of Culture* (1988) and co-edited volume *Writing Culture: The Poetics and Politics of Ethnography* (1986) exposed the politics of ethnographic representation, arguing that anthropological authority rested not on the anthropologist's direct access to reality but on narrative conventions and rhetorical strategies that construct ethnographic truths. His reflexive approach demanded that anthropologists acknowledge the constructed, partial, and political nature of their representations—that ethnography is not science discovering culture but a genre of writing producing representations of culture. This intervention fundamentally challenged assumptions about ethnographic objectivity that had structured the discipline since Malinowski.
+James Clifford (b. 1945) reshaped debates in anthropological epistemology by arguing that ethnographic texts are not transparent windows onto reality but rather constructed artifacts shaped by literary choices, power relationships, and authorial voice. His collection *The Predicament of Culture* (1988) and co-edited volume *Writing Culture: The Poetics and Politics of Ethnography* (1986) exposed the politics of ethnographic representation, arguing that anthropological authority rested not on the anthropologist's direct access to reality but on narrative conventions and rhetorical strategies that construct ethnographic truths. His reflexive approach demanded that anthropologists acknowledge the constructed, partial, and political nature of their representations—that ethnography is not science discovering culture but a genre of writing producing representations of culture. This intervention fundamentally challenged assumptions about ethnographic objectivity that had structured the discipline since Malinowski.
 
 ## Biographical Context and Intellectual Formation
 
@@ -71,7 +71,7 @@ This epistemological position supported collaborative and dialogical ethnographi
 
 ## Critics and Responses to Reflexivity
 
-Clifford's work has been critiqued from multiple directions. Some traditional anthropologists argued that excessive reflexivity about textual construction undermines the project of ethnography—if ethnographic texts are merely constructions, what knowledge do they produce? Others argued that Clifford's focus on Western ethnographic texts ignored the actual communities being studied. Feminist anthropologists also noted that *Writing Culture* included no women contributors and largely bypassed feminist ethnography, which had already questioned ethnographic authority.
+Clifford's work has been critiqued from multiple directions. Some traditional anthropologists argued that excessive reflexivity about textual construction undermines the project of ethnography—if ethnographic texts are merely constructions, what knowledge do they produce? Others argued that Clifford's focus on Western ethnographic texts ignored the actual communities being studied. Feminist anthropologists also noted that *Writing Culture* included no women anthropologists (its one woman contributor was the literary scholar Mary Louise Pratt) and largely bypassed feminist ethnography, which had already questioned ethnographic authority.
 
 However, Clifford's work has proven extraordinarily influential. The reflexive turn in anthropology, now widespread, builds on his insights about representation, authority, and textual practice. Contemporary anthropologists routinely engage with questions about how they represent communities, what authority they claim, and how they might write more dialogically.
 
@@ -104,5 +104,5 @@ However, questions remain about how reflexivity translates into practice. Some a
 - Clifford, James. *The Predicament of Culture: Twentieth-Century Ethnography, Literature, and Art*. Harvard University Press, 1988.
 - Clifford, James. *Routes: Travel and Translation in the Late Twentieth Century*. Harvard University Press, 1997.
 - Clifford, James. *Returns: Becoming Indigenous in the Twenty-First Century*. Harvard University Press, 2013.
-- Clifford, James. *The Predicament of Culture*, as above; see also Clifford, *Person and Myth: Maurice Leenhardt in the Melanesian World*. University of California Press, 1982.
+- Clifford, James. *Person and Myth: Maurice Leenhardt in the Melanesian World*. University of California Press, 1982.
 - Scholte, Bob. "Toward a Reflexive and Critical Anthropology." In *Reinventing Anthropology*, edited by Dell Hymes. Pantheon Books, 1972.

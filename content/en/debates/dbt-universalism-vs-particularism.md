@@ -38,7 +38,7 @@ The debate remains live because modern societies keep rediscovering that they ne
 
 - Tönnies, Ferdinand. *Community and Society*. 1887.
 - Weber, Max. *Economy and Society*. 1922.
-- Merton, Robert K. *Social Theory and Social Structure*. 1949 (the norms of science appear in a 1942 essay reprinted in later editions).
+- Merton, Robert K. *Social Theory and Social Structure*. 1949 (includes the 1942 essay on the normative structure of science).
 - Parsons, Talcott. *The Social System*. 1951.
 - Parsons, Talcott, and Edward A. Shils, eds. *Toward a General Theory of Action*. 1951.
 - Walzer, Michael. *Spheres of Justice: A Defense of Pluralism and Equality*. 1983.

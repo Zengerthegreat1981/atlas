@@ -37,7 +37,7 @@ In his study Hirschi used a self-report survey, a method that had developed sinc
 
 ## Moral Panic: The British Case Study
 
-Cohen based his analysis on a concrete case study: limited clashes between two British youth subcultures (the "Mods" and the "Rockers") at English seaside resorts in 1964, which the popular press inflated into an alleged existential threat to the entire British social order. Cohen analyzed the mechanism of this amplification in three stages: media prediction of events wider than what actually occurred; exaggerated stereotyping of the offenders as homogeneous, dangerous "folk devils"; and then a self-amplifying spiral in which the media coverage itself drew more curious young people to take part in future events, so that the media "prophecy" fulfilled itself.
+Cohen based his analysis on a concrete case study: limited clashes between two British youth subcultures (the "Mods" and the "Rockers") at English seaside resorts in 1964, which the popular press inflated into an alleged existential threat to the entire British social order. Cohen's analysis of the initial media coverage distinguished exaggeration and distortion, prediction of further trouble, and symbolisation, through which names, styles and places came to stand for the offenders as "folk devils". He argued that this reaction could amplify deviance, as publicity and tighter control drew more young people into later events and hardened group identities.
 
 ## Impact
 

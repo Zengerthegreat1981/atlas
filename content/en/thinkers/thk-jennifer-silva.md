@@ -6,7 +6,7 @@ level: "متقدم"
 title: "Jennifer M. Silva"
 en: "Jennifer M. Silva"
 crumb: "Sociology ← Thinkers ← Jennifer M. Silva"
-dates: "United States · 1981–"
+dates: "United States"
 active_start: 2013
 active_end: "مستمر"
 country: "United States"
@@ -24,7 +24,7 @@ gaps: []
 
 # Jennifer M. Silva
 
-A contemporary American sociologist (born 1981), who has held faculty positions including at Indiana University, known for her in-depth, methodologically careful ethnographic study of how American working-class young people deal with the complexities of the transition to adulthood in an age marked by the vanishing of stable jobs, rising education costs and the breakdown of family support networks.
+A contemporary American sociologist who has held faculty positions including at Indiana University, known for her in-depth, methodologically careful ethnographic study of how American working-class young people deal with the complexities of the transition to adulthood in an age marked by the vanishing of stable jobs, rising education costs and the breakdown of family support networks.
 
 ## The Central Idea
 

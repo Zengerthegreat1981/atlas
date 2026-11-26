@@ -30,7 +30,7 @@ The field expanded in the late 1990s and 2000s. Robert Sands's edited volume *An
 
 ## Key Figures and Works
 
-Guttmann (1978) supplied the field's historical framework, distinguishing modern sport from ritual play and tracing its rationalisation. MacAloon (1981) showed how the Olympics were invented as a cultural project and how ritual theory could illuminate a global spectacle. Blanchard and Cheska (1985) defined the field's scope, from children's games to professional leagues, and argued for the comparative study of play and sport.
+Guttmann (1978) supplied the field's historical framework, distinguishing modern sport from ritual play and tracing its rationalisation. MacAloon (1981) showed how the Olympics were invented as a cultural project and how ritual theory could illuminate a global spectacle. Blanchard and Cheska (1985) outlined the field's scope, from children's games to professional leagues, and argued for the comparative study of play and sport.
 
 Klein (1991) demonstrated how sport articulates with global inequality, as Dominican baseball players are recruited into an American system that profits from their labour. Brownell (1995) showed how the state disciplines bodies through sport and how athletes resist and reinterpret that discipline. Sands (1999) and Dyck (2000) broadened the ethnographic base, while Besnier, Brownell, and Carter (2018) brought the field into conversation with the anthropology of the body, of migration, and of biopolitics.
 

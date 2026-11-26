@@ -7,7 +7,7 @@ title: "Nancy Fraser"
 en: "Nancy Fraser"
 crumb: "Sociology ← Thinkers ← Nancy Fraser"
 dates: "United States · born 1947"
-active_start: 2013
+active_start: 1985
 active_end: "مستمر"
 country: "United States"
 language: "English"
@@ -44,7 +44,7 @@ This analysis offered an influential bridge between Marxist feminism and the con
 
 Fraser continues her active intellectual work, combining precise theoretical philosophical commitment with direct practical political engagement in contemporary feminist and left movements, constantly stressing the need to link any feminist critique of care to a deeper structural critique of capitalism itself, rather than settling for partial social-policy demands separate from it.
 
-Fraser holds the Henry A. and Louise Loeb chair in philosophy and politics at the New School. Her intellectual career has also been marked by public critical exchanges with other feminist thinkers (notably Judith Butler, in the 1997 exchange around "Merely Cultural" in *New Left Review*) over the priority of economic redistribution versus cultural recognition in the contemporary feminist agenda, always insisting on the need to combine the two dimensions rather than sacrificing one for the other.
+At the New School Fraser has held the title of Henry A. and Louise Loeb Professor of Political and Social Science and Professor of Philosophy. Her intellectual career has also been marked by public critical exchanges with other feminist thinkers (notably Judith Butler, in the exchange around "Merely Cultural", published in *Social Text* in 1997 and in *New Left Review* in 1998) over the priority of economic redistribution versus cultural recognition in the contemporary feminist agenda, always insisting on the need to combine the two dimensions rather than sacrificing one for the other.
 
 ## Sources
 

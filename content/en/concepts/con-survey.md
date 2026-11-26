@@ -46,11 +46,11 @@ Surveys also reveal their own limits in practice. Sensitive questions — about 
 
 Surveys have been criticized on several grounds. Pierre Bourdieu argued, in his 1973 essay "Public Opinion Does Not Exist", that opinion polls manufacture the public opinion they claim to measure, by asking people questions they have never considered and treating their answers as settled views. Others note that surveys flatten social life: they capture what people say, not what they do, and they struggle with meaning — the same answer can mean different things to different respondents. And falling response rates, as people grow wary of unsolicited calls and messages, threaten the representativeness on which the whole method depends.
 
-Surveys remain indispensable. They now frame research on digital life, where online panels and social media offer cheap samples of uncertain quality; on global health, where surveys track disease and well-being; and on the measurement of attitudes in societies where face-to-face interviewing is dangerous or impossible. The questions Likert posed in 1932 — how to ask, whom to ask, and what an answer means — are still the questions that decide whether a survey tells the truth.
+Surveys remain indispensable. They now frame research on digital life, where online panels and social media offer cheap samples of uncertain quality; on global health, where surveys track disease and well-being; and on the measurement of attitudes in societies where face-to-face interviewing is dangerous or impossible. How to ask, whom to ask, and what an answer means are still the questions that decide whether a survey tells the truth.
 
 ## Sources
 
-- Dillman, Don A. *Mail and Telephone Surveys: The Total Design Method*. Wiley, 1978.
+- Bourdieu, Pierre. "L'opinion publique n'existe pas." *Les Temps Modernes*, no. 318, 1973.\n- Dillman, Don A. *Mail and Telephone Surveys: The Total Design Method*. Wiley, 1978.
 - Fowler, Floyd J. *Survey Research Methods*. Sage, 1984.
 - Groves, Robert M., Floyd J. Fowler Jr., Mick P. Couper, James M. Lepkowski, Eleanor Singer, and Roger Tourangeau. *Survey Methodology*. Wiley, 2004.
 - Likert, Rensis. "A Technique for the Measurement of Attitudes." *Archives of Psychology*, vol. 22, no. 140, 1932, pp. 1–55.

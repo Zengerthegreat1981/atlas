@@ -31,7 +31,7 @@ In her pivotal article "Culture in Action" (1986), Ann Swidler argued that the t
 
 ## Historical Context
 
-Ann Swidler published "Culture in Action" in the *American Sociological Review* in 1986, where it became one of the most cited articles in the history of American sociology of culture. Her contribution came as a direct response to the French sociology of Pierre Bourdieu, which had dominated the field of culture and taste studies since the 1970s (especially *Distinction*, La Distinction, 1979), and which assumed that cultural taste is a nearly automatic reflection of class position (the "habitus"), working silently to reproduce the existing social hierarchy. Swidler held that this conception, relatively suited to the rigidly class-bound French context, does not explain well the cultural flexibility and mobility observed in the more class-fluid (at least on the surface) American society. In parallel, Richard Peterson (1932–2010), a sociologist of culture and music at Vanderbilt University, developed his observation of the "cultural omnivore" on the basis of actual American survey data on patterns of cultural consumption (attendance at arts events and musical tastes, from large national surveys of arts participation), which showed a decline in the classic "exclusive" class distinction in favour of a new distinction between the breadth and the narrowness of the culture consumed.
+Ann Swidler published "Culture in Action" in the *American Sociological Review* in 1986, where it became one of the most cited articles in the history of American sociology of culture. Her main target was the account, drawn from Max Weber and developed by Talcott Parsons, of values as the ends that guide action. Her approach is often compared with the French sociology of Pierre Bourdieu, which had become influential in the study of culture and taste from the 1970s (especially *Distinction*, La Distinction, 1979), and which assumed that cultural taste is a nearly automatic reflection of class position (the "habitus"), working silently to reproduce the existing social hierarchy. Later commentators have contrasted this emphasis on class dispositions with Swidler's emphasis on flexible repertoires. In parallel, Richard Peterson (1932–2010), a sociologist of culture and music at Vanderbilt University, developed his observation of the "cultural omnivore" on the basis of actual American survey data on patterns of cultural consumption (attendance at arts events and musical tastes, from large national surveys of arts participation), which showed a decline in the classic "exclusive" class distinction in favour of a new distinction between the breadth and the narrowness of the culture consumed.
 
 ## Main Ideas (in Detail)
 
@@ -39,7 +39,7 @@ Swidler elaborated the mechanism by which "cultural toolkits" work. In "settled 
 
 ## Impact
 
-These two frameworks offered an important correction to Bourdieu's French conception of taste when applied to the American context, influencing the sociology of contemporary cultural consumption. Swidler's "toolkit" and Peterson's "omnivore" became among the most widely used frameworks in later empirical research on culture, class and consumption, and were later integrated into the broader "cultural diamond" model developed by Wendy Griswold to organize the whole field of the sociology of culture.
+These two frameworks offered an important correction to Bourdieu's French conception of taste when applied to the American context, influencing the sociology of contemporary cultural consumption. Swidler's "toolkit" and Peterson's "omnivore" became among the most widely used frameworks in later empirical research on culture, class and consumption, and they are often taught alongside Wendy Griswold's "cultural diamond", a framework for relating cultural objects, creators, receivers and the social world.
 
 ## Criticism and Evaluation
 
@@ -49,4 +49,5 @@ Peterson's "omnivore" framework was criticized by researchers who held that wide
 
 - Swidler, Ann. "Culture in Action: Symbols and Strategies." *American Sociological Review*, vol. 51, no. 2, 1986, pp. 273–286.
 - Peterson, Richard A., and Roger M. Kern. "Changing Highbrow Taste: From Snob to Omnivore." *American Sociological Review*, vol. 61, no. 5, 1996, pp. 900–907.
+- Peterson, Richard A. "Understanding Audience Segmentation: From Elite and Mass to Omnivore and Univore." *Poetics*, vol. 21, no. 4, 1992, pp. 243–258.
 - Griswold, Wendy. *Cultures and Societies in a Changing World*. Pine Forge Press / SAGE, 1994.

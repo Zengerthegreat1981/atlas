@@ -8,7 +8,7 @@ title: Digital Sociology
 en: Digital Sociology
 crumb: Sociology ← Digital Sociology
 dates: contemporary
-active_start: 1970
+active_start: 2013
 active_end: مستمر
 edges: []
 related: []
@@ -21,15 +21,15 @@ Digital sociology is the study of how digital technologies reshape social life �
 
 ## History
 
-Digital sociology is young, but its roots reach back to the sociology of technology and to early studies of computer-mediated communication in the 1990s. As the internet moved from a specialist medium to the infrastructure of everyday life in the 2000s, sociologists began to study online dating, blogging, social networking, and virtual worlds, and to argue that the online and the offline could no longer be treated as separate realms. The field took institutional shape in the early 2010s. Deborah Lupton's *Digital Sociology* (2014) gave it its first textbook and a clear programme: digital technologies are not external tools that society uses, but part of the fabric of social relations. Kate Orton-Johnson and Nick Prior's edited collection *Digital Sociology: Critical Perspectives* (2013) mapped the field's debates. Noortje Marres's *Digital Sociology: The Reinvention of Social Research* (2017) argued that digital devices do not merely record social life but actively intervene in it, and that sociology must rethink its methods accordingly.
+Digital sociology is young, but its roots reach back to the sociology of technology and to early studies of computer-mediated communication in the 1990s. As the internet moved from a specialist medium to the infrastructure of everyday life in the 2000s, sociologists began to study online dating, blogging, social networking, and virtual worlds, and to argue that the online and the offline could no longer be treated as separate realms. The field took institutional shape in the early 2010s. Deborah Lupton's *Digital Sociology* (2015) gave it an early book-length introduction and a clear programme: digital technologies are not external tools that society uses, but part of the fabric of social relations. Kate Orton-Johnson and Nick Prior's edited collection *Digital Sociology: Critical Perspectives* (2013) mapped the field's debates. Noortje Marres's *Digital Sociology: The Reinvention of Social Research* (2017) argued that digital devices do not merely record social life but actively intervene in it, and that sociology must rethink its methods accordingly.
 
 ## Key Figures
 
-Deborah Lupton is the field's most influential systematiser, defining digital sociology as the study of digital technologies in their social contexts and of their use as research tools, and writing widely on self-tracking, health apps, and data. Noortje Marres has argued that digital methods are not neutral instruments but devices that participate in making the social worlds they study. Kate Orton-Johnson and Nick Prior helped establish the field's critical agenda, insisting that digital sociology must address power, inequality, and the political economy of platforms. danah boyd has studied how young people live their social lives through networked publics, and how the collapse of contexts online creates new pressures. Christian Fuchs has developed a critical, Marxist account of social media, emphasising digital labour and the exploitation built into platform capitalism.
+Deborah Lupton is one of the field's leading systematisers, defining digital sociology as the study of digital technologies in their social contexts and of their use as research tools, and writing widely on self-tracking, health apps, and data. Noortje Marres has argued that digital methods are not neutral instruments but devices that participate in making the social worlds they study. Kate Orton-Johnson and Nick Prior helped establish the field's critical agenda through their edited collection. danah boyd has studied how young people live their social lives through networked publics, and how the collapse of contexts online creates new pressures. Christian Fuchs has developed a critical, Marxist account of social media, emphasising digital labour and the exploitation built into platform capitalism.
 
 ## Key Works
 
-Orton-Johnson and Prior's *Digital Sociology: Critical Perspectives* (2013) is the field's founding collection. Lupton's *Digital Sociology* (2014) remains the standard introduction, covering digital selves, communities, and research methods. Rogers's *Digital Methods* (2013) is the key methodological text, arguing that researchers should follow the medium and use native digital objects as data. boyd's *It's Complicated: The Social Lives of Networked Teens* (2014) is the landmark ethnography of young people's networked lives, showing how teenagers use social media to carve out spaces of autonomy. Fuchs's *Social Media: A Critical Introduction* (2014) offers the most systematic critical theory of platforms, linking social media to capitalism, labour, and surveillance. Marres's *Digital Sociology* (2017) reframes the field around the question of method, arguing that digital research devices reshape the very phenomena they measure. Daniels, Gregory, and McMillan Cottom's *Digital Sociologies* (2017) brought race, gender, and inequality to the centre of the field, showing how digital technologies reproduce and reconfigure older forms of domination.
+Orton-Johnson and Prior's *Digital Sociology: Critical Perspectives* (2013) is an early collection in the field. Lupton's *Digital Sociology* (2015) is a widely used introduction, covering digital selves, communities, and research methods. Richard Rogers's *Digital Methods* (2013) is an influential methodological text, arguing that researchers should follow the medium and use natively digital objects as data. boyd's *It's Complicated: The Social Lives of Networked Teens* (2014) is an influential ethnography of young people's networked lives, showing how teenagers use social media to carve out spaces of autonomy. Fuchs's *Social Media: A Critical Introduction* (2014) offers a systematic critical theory of platforms, linking social media to capitalism, labour, and surveillance. Marres's *Digital Sociology* (2017) reframes the field around the question of method, arguing that digital research devices reshape the very phenomena they measure. Daniels, Gregory, and McMillan Cottom's *Digital Sociologies* (2017) brought race, gender, and inequality to the centre of the field, showing how digital technologies reproduce and reconfigure older forms of domination.
 
 ## Method
 
@@ -43,7 +43,7 @@ Digital sociology has moved quickly from the margins to the centre of the discip
 
 - Orton-Johnson, Kate, and Nick Prior, eds. (2013). *Digital Sociology: Critical Perspectives*. Palgrave Macmillan.
 - Rogers, Richard (2013). *Digital Methods*. MIT Press.
-- Lupton, Deborah (2014). *Digital Sociology*. Routledge.
+- Lupton, Deborah (2015). *Digital Sociology*. Routledge.
 - boyd, danah (2014). *It's Complicated: The Social Lives of Networked Teens*. Yale University Press.
 - Fuchs, Christian (2014). *Social Media: A Critical Introduction*. Sage.
 - Marres, Noortje (2017). *Digital Sociology: The Reinvention of Social Research*. Polity Press.

@@ -53,7 +53,7 @@ Bohannan's quieter legacy lies in her collaborative work with Paul Bohannan on t
 ## Sources
 
 - Bohannan, Laura, and Paul Bohannan. *The Tiv of Central Nigeria*. International African Institute, 1953.
-- Bowen, Elenore Smith (Laura Bohannan). *Return to Laughter: An Anthropological Novel*. Harper, 1954; Victor Gollancz, 1956; Doubleday Anchor, 1964.
+- Bowen, Elenore Smith (Laura Bohannan). *Return to Laughter: An Anthropological Novel*. Harper, 1954; Doubleday Anchor, 1964.
 - Bohannan, Paul. *Justice and Judgment among the Tiv*. Oxford University Press, 1957.
 - Bohannan, Laura. "Shakespeare in the Bush." *Natural History* 75, August–September 1966, pp. 28–33.
 - Bohannan, Paul, and Laura Bohannan. *Tiv Economy*. Northwestern University Press, 1968.

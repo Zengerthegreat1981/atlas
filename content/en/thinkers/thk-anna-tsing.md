@@ -18,11 +18,11 @@ gaps:
 
 # Anna Lowenhaupt Tsing
 
-Anna Lowenhaupt Tsing (born 1952) is an American anthropologist and one of the leading theoretical voices of contemporary anthropology. Professor of anthropology at the University of California, Santa Cruz, and Niels Bohr Professor at Aarhus University in Denmark, she is a leading figure in multispecies ethnography, practises multi-sited ethnography, and is a central figure in the study of the Anthropocene. Her three major books — on marginality in Indonesian Borneo, on the "friction" of global connection, and on the matsutake mushroom trade — each opened a new way of thinking about globalisation, capitalism, and life in a damaged planet.
+Anna Lowenhaupt Tsing (born 1952) is an American anthropologist and one of the leading theoretical voices of contemporary anthropology. Professor of anthropology at the University of California, Santa Cruz, and formerly Niels Bohr Professor at Aarhus University in Denmark, she is a leading figure in multispecies ethnography, practises multi-sited ethnography, and is a central figure in the study of the Anthropocene. Her three major books — on marginality in Indonesian Borneo, on the "friction" of global connection, and on the matsutake mushroom trade — each opened a new way of thinking about globalisation, capitalism, and life in a damaged planet.
 
 ## Life and Career
 
-Tsing was born in 1952 in the United States. She studied at Stanford University, where she earned her doctorate in anthropology in 1984, and went on to a career at the University of California, Santa Cruz, where she became professor of anthropology. She also holds the Niels Bohr Professorship at Aarhus University, where she has led collaborative research on the Anthropocene. Her fieldwork has taken her to the Meratus mountains of Kalimantan in Indonesian Borneo, to the rainforests of Southeast Asia, and to the mushroom forests of Oregon and Japan, following people, commodities, and ideas across continents.
+Tsing was born in 1952 in the United States. She studied at Stanford University, where she earned her doctorate in anthropology in 1984, and went on to a career at the University of California, Santa Cruz, where she became professor of anthropology. She also held a Niels Bohr Professorship at Aarhus University, where she led collaborative research on the Anthropocene. Her fieldwork has taken her to the Meratus mountains of Kalimantan in Indonesian Borneo, to the rainforests of Southeast Asia, and to the mushroom forests of Oregon and Japan, following people, commodities, and ideas across continents.
 
 Tsing's career spans the period in which anthropology moved from the study of single villages to the study of global connections, and from a human-centred discipline to one that takes other species seriously as participants in social life. She has been at the forefront of both moves, and her work is known for an experimental style that mixes reflective narrative with rigorous analysis.
 
@@ -30,7 +30,7 @@ Tsing's career spans the period in which anthropology moved from the study of si
 
 Tsing's first book, *In the Realm of the Diamond Queen: Marginality in an Out-of-the-Way Place* (1993), grew from fieldwork among the Meratus Dayak people of the mountains of Kalimantan. It studied how cultural and gendered marginality is produced in the view of the central Indonesian state, and it offered an early critique of the very idea of marginality, treating it as a relation of power rather than an intrinsic property of the people described.
 
-Her second book, *Friction: An Ethnography of Global Connection* (2004), proposed the metaphor of friction as an alternative to the common image of globalisation as a smooth spread or a clash of civilisations. Through a social drama around the Indonesian rainforests of the 1980s and 1990s — environmental activists, loggers, international funding agencies, and local communities — she showed how global change actually happens: in messy, unpredictable encounters between unequal forces that reshape both sides.
+Her second book, *Friction: An Ethnography of Global Connection* (2005), proposed the metaphor of friction as an alternative to the common image of globalisation as a smooth spread or a clash of civilisations. Through a social drama around the Indonesian rainforests of the 1980s and 1990s — environmental activists, loggers, international funding agencies, and local communities — she showed how global change actually happens: in messy, unpredictable encounters between unequal forces that reshape both sides.
 
 Her third and most famous book, *The Mushroom at the End of the World: On the Possibility of Life in Capitalist Ruins* (2015), followed the global commodity chain of the prized Japanese matsutake mushroom, which grows wild in ecologically disturbed forests, including forests replanted after industrial logging in Oregon. The book won major prizes and became a founding text of multispecies ethnography and Anthropocene studies. Tsing also co-authored "Gens: A Feminist Manifesto for the Study of Capitalism" (2015) with Laura Bear, Karen Ho, and Sylvia Yanagisako, and co-edited *Arts of Living on a Damaged Planet* (2017).
 
@@ -51,7 +51,7 @@ Her writing has also drawn criticism. Some colleagues find her experimental styl
 ## Sources
 
 - Tsing, Anna Lowenhaupt. *In the Realm of the Diamond Queen: Marginality in an Out-of-the-Way Place*. Princeton University Press, 1993.
-- Tsing, Anna Lowenhaupt. *Friction: An Ethnography of Global Connection*. Princeton University Press, 2004.
+- Tsing, Anna Lowenhaupt. *Friction: An Ethnography of Global Connection*. Princeton University Press, 2005.
 - Tsing, Anna Lowenhaupt. *The Mushroom at the End of the World: On the Possibility of Life in Capitalist Ruins*. Princeton University Press, 2015.
 - Bear, Laura, Karen Ho, Anna Lowenhaupt Tsing, and Sylvia Yanagisako. "Gens: A Feminist Manifesto for the Study of Capitalism." *Theorizing the Contemporary, Cultural Anthropology*, 2015.
 - Tsing, Anna Lowenhaupt, Heather Swanson, Elaine Gan, and Nils Bubandt, eds. *Arts of Living on a Damaged Planet: Ghosts and Monsters of the Anthropocene*. University of Minnesota Press, 2017.

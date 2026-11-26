@@ -31,13 +31,13 @@ The sacred/profane distinction is one of anthropology's most fundamental analyti
 
 This Durkheimian framework dominated mid-20th century anthropology but faced critique for treating sacred/profane as bounded categories when ethnographic evidence showed extensive overlap, contestation, and historical transformation. Sacred objects become profaned; profane objects become sacralized. Moreover, the framework embedded Christian-inflected assumptions about what constitutes "religion" that misfit indigenous religious systems with radically different ontologies.
 
-Contemporary approaches recognize the sacred/profane distinction as a **historically specific Western epistemology** (particularly Christian) rather than a universal analytical category. Many indigenous systems do not recognize such a division, operate with different cosmological principles, or understand the boundaries differently. Postcolonial anthropology thus interrogates rather than assumes this distinction.
+Many contemporary approaches treat the sacred/profane distinction as a **historically specific Western epistemology** (particularly Christian) rather than a universal analytical category. Many indigenous systems do not recognize such a division, operate with different cosmological principles, or understand the boundaries differently. Postcolonial anthropology thus interrogates rather than assumes this distinction.
 
 ## Key Theoretical Contributions
 
 **Émile Durkheim** (1858-1917) established that the sacred is fundamentally a *social category*. The sacred's power derives not from inherent supernatural property but from collective agreement and ritual enactment. In his analysis of Aboriginal Australian totem systems, Durkheim showed that totems concentrate group identity and solidarity. The prohibition against killing the totemic animal, the ritual gathering to invoke the totem, the decoration of the body with totemic symbols—all these practices constitute the animal as sacred by treating it distinctly from ordinary profane animals. Crucially, Durkheim recognized that worshipping the totem is worshipping society-to-itself—the totem stands for the group.
 
-**Mircea Eliade** (1907-1986) developed a phenomenological approach to the sacred, emphasizing **hierophany**—the manifestation of the sacred through concrete forms. In *The Sacred and the Profane* (1959), Eliade argued that humans everywhere experience reality as divided into sacred space (temple, mosque, church, mountaintop, forest clearing) and profane space (ordinary dwelling, market, street). Sacred time (ritual calendar, festival, pilgrimage) differs from profane time. This phenomenological distinction structures human consciousness and cosmological understanding. Eliade's work, though contested for universalizing, influenced comparative religious studies and emphasized that the sacred/profane distinction is existentially fundamental to human meaning-making.
+**Mircea Eliade** (1907-1986) developed a phenomenological approach to the sacred, emphasizing **hierophany**—the manifestation of the sacred through concrete forms. In *The Sacred and the Profane* (1959), Eliade argued that religious people experience reality as divided into sacred space (temple, mosque, church, mountaintop, forest clearing) and profane space (ordinary dwelling, market, street). Sacred time (ritual calendar, festival, pilgrimage) differs from profane time. This phenomenological distinction structures human consciousness and cosmological understanding. Eliade's work, though contested for universalizing, influenced comparative religious studies and emphasized that the sacred/profane distinction is existentially fundamental to human meaning-making.
 
 **Mary Douglas** (1921-2007) analyzed the sacred through the lens of purity, danger, and classification. In *Purity and Danger* (1966), Douglas showed that sacredness relates to maintaining categorical boundaries. Things are sacred because they mark important boundaries (between categories, between self and other, between order and chaos). Sacrilege consists of violating these boundaries—crossing from profane into sacred space, mixing foods from different categories, allowing polluting substances near sacred objects. Douglas's insight was that the sacred's regulatory function is inseparable from categorical ordering—attacking the sacred challenges the social order itself.
 
@@ -67,7 +67,7 @@ Contemporary approaches recognize the sacred/profane distinction as a **historic
 
 ## Postcolonial & Contemporary Critique
 
-Postcolonial scholars have shown how colonial projects involved **disenchanting the sacred**—delegitimizing indigenous sacred practices while protecting Christian sacred spaces and practices. Colonial anthropology's theory of the sacred embedded Christian assumptions about bounded religious domains, clerical authority, and monotheistic cosmology.
+Postcolonial scholars have argued that colonial projects involved **disenchanting the sacred**—delegitimizing indigenous sacred practices while protecting Christian sacred spaces and practices. Colonial anthropology's theory of the sacred embedded Christian assumptions about bounded religious domains, clerical authority, and monotheistic cosmology.
 
 **Indigenous scholars and advocates** emphasize that colonialism involved **desacralizing the land**—removing indigenous sacred geography significance to enable resource extraction. The sacred, in indigenous contexts, is intimately connected to land, kinship, and ecological relationship in ways the sacred/profane distinction misrepresents.
 
@@ -91,7 +91,7 @@ The sacred also structures **access and exclusion**. Who may enter sacred space,
 
 ## Current Challenges & Future Questions
 
-Contemporary sacred studies grapple with: How does the sacred persist and transform in secular modernity? What are the politics of sacred/profane maintenance in multicultural societies? How do indigenous and colonizing groups negotiate competing sacred geographies? How do postcolonial communities reclaim and reinvent sacredness after desacralization? What are the ecological implications of secular (vs. sacred) relationships to land?
+Current discussion of the sacred raises several questions: How does the sacred persist and transform in secular modernity? What are the politics of sacred/profane maintenance in multicultural societies? How do indigenous and colonizing groups negotiate competing sacred geographies? How do postcolonial communities reclaim and reinvent sacredness after desacralization? What are the ecological implications of secular (vs. sacred) relationships to land?
 
 ## Sources
 
@@ -101,3 +101,5 @@ Contemporary sacred studies grapple with: How does the sacred persist and transf
 - Eliade, Mircea. *The Sacred and the Profane: The Nature of Religion*. Translated by Willard R. Trask. Harcourt, 1959.
 - Evans-Pritchard, E.E. *Witchcraft, Oracles, and Magic among the Azande*. Clarendon Press, 1937.
 - Geertz, Clifford. *The Interpretation of Cultures: Selected Essays*. Basic Books, 1973.
+- Geertz, Clifford. *Negara: The Theatre State in Nineteenth-Century Bali*. Princeton University Press, 1980.
+- Turner, Victor W. *The Forest of Symbols: Aspects of Ndembu Ritual*. Cornell University Press, 1967.

@@ -11,11 +11,10 @@ en: "E. P. Thompson"
 dates: "Britain · 1924–1993"
 country: "Britain"
 language: "English"
-active_start: 1963
+active_start: 1955
 active_end: 1993
 crumb: "Sociology ← Thinkers ← E. P. Thompson"
-edges:
-- rel: "belongs_to", target: "Althusserian Structural Marxism", target_type: "مدرسة"
+edges: []
 related:
 gaps: []
 ---
@@ -35,7 +34,7 @@ In *The Making of the English Working Class*, which covers the period from the 1
 
 ## Career and Political Commitment
 
-Thompson came out of the ranks of the British Communist Party, which he left in 1956 in protest at the Soviet suppression of the Hungarian uprising, and became one of the founders of the British "New Left" and a co-editor (with John Saville) of the journal *The New Reasoner*, which merged in 1960 into *New Left Review*. For years (from 1948) he worked as a tutor in adult education extra-mural programs in Yorkshire, northern England, a direct experience with workers and their oral history that formed part of his inspiration for writing history "from below," recovering the voices of ordinary actors marginalized in the traditional official historical narratives that focus on elites, leaders and great events alone.
+Thompson came out of the ranks of the British Communist Party, which he left in 1956 in protest at the Soviet suppression of the Hungarian uprising, and became one of the founders of the British "New Left" and a co-editor (with John Saville) of the journal *The New Reasoner*, which merged with *Universities and Left Review* in 1960 to form *New Left Review*. For years (from 1948) he worked as a tutor in adult education extra-mural programs in Yorkshire, northern England, a direct experience with working adult students that formed part of his inspiration for writing history "from below," recovering the voices of ordinary actors marginalized in the traditional official historical narratives that focus on elites, leaders and great events alone.
 
 ## The Concept of the Moral Economy
 

@@ -39,5 +39,5 @@ Stratification research remains urgent because inequality has widened in many co
 - Karl Marx, *Capital, Volume I* (1867)
 - Max Weber, *Economy and Society* (1922)
 - Kingsley Davis and Wilbert E. Moore, "Some Principles of Stratification," *American Sociological Review* (1945)
-- Erik Olin Wright, *Class Counts: Comparative Studies in Class Analysis* (1997)
+- Kimberlé Crenshaw, "Demarginalizing the Intersection of Race and Sex," *University of Chicago Legal Forum* (1989)\n- Robert Erikson and John H. Goldthorpe, *The Constant Flux: A Study of Class Mobility in Industrial Societies* (1992)\n- Erik Olin Wright, *Class Counts: Comparative Studies in Class Analysis* (1997)
 - Thomas Piketty, *Capital in the Twenty-First Century* (French 2013; English 2014)

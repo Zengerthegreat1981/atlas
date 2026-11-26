@@ -66,7 +66,7 @@ related:
   - id: "thk-ulrich-beck", title: "Ulrich Beck", type: "مفكر"
   - id: "thk-manuel-castells", title: "Manuel Castells", type: "مفكر"
   - id: "sch-subaltern-studies-guha-spivak", title: "Subaltern Studies: Guha & Spivak", type: "مدرسة"
-  - id: "stu-street-corner-society-whyte", title: "Street Corner Society: The Social Structure of a Poor Italian Neighborhood", type: "دراسة وبحث"
+  - id: "stu-street-corner-society-whyte", title: "Street Corner Society: The Social Structure of an Italian Slum", type: "دراسة وبحث"
   - id: "stu-polish-peasant-thomas-znaniecki", title: "The Polish Peasant in Europe and America", type: "دراسة وبحث"
   - id: "stu-middletown-lynd", title: "Middletown: A Study in Modern American Culture", type: "دراسة وبحث"
   - id: "stu-evicted-desmond", title: "Evicted", type: "دراسة وبحث"
@@ -95,7 +95,7 @@ Modern sociology took shape in nineteenth- and early twentieth-century Europe an
 - **Georg Simmel** (1858-1918) studied forms of social interaction, the metropolis and money, as in *The Philosophy of Money* (1900) and *Sociology* (1908).
 - **W. E. B. Du Bois** (1868-1963) combined empirical fieldwork, as in *The Philadelphia Negro* (1899), with analysis of race and the "colour line" in *The Souls of Black Folk* (1903). His contribution was long under-recognised in disciplinary histories.
 
-Sociology became institutionalised through university departments, notably Bordeaux under Durkheim and Chicago from 1892, and through journals and professional associations. Later centuries added important traditions from Latin America (such as dependency theory, associated with Fernando Henrique Cardoso and Enzo Faletto, 1969), from the Arab world, South Asia and Africa, and critical work on the discipline's own Eurocentrism, for example by Syed Farid Alatas and Raewyn Connell (*Southern Theory*, 2007).
+Sociology became institutionalised through university departments, notably Bordeaux under Durkheim and Chicago from 1892, and through journals and professional associations. The twentieth century added important traditions from Latin America (such as dependency theory, associated with Fernando Henrique Cardoso and Enzo Faletto, 1969), from the Arab world, South Asia and Africa, and critical work on the discipline's own Eurocentrism, for example by Syed Farid Alatas and Raewyn Connell (*Southern Theory*, 2007).
 
 ## Main paradigms
 
@@ -209,7 +209,7 @@ Sociology is not the same as social work or socialism, and it is not merely comm
 7. Subaltern Studies: Guha & Spivak
 
 ### Landmark Studies
-1. Street Corner Society: The Social Structure of a Poor Italian Neighborhood
+1. Street Corner Society: The Social Structure of an Italian Slum
 2. The Polish Peasant in Europe and America
 3. Middletown: A Study in Modern American Culture
 4. Evicted

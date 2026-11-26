@@ -22,7 +22,7 @@ Healing practices are the organised ways in which societies respond to sickness,
 
 ## Definition
 
-A healing practice is more than a treatment. It involves a diagnosis, a healer, a sufferer, and a community, and it unfolds in a sequence of actions — consultation, ritual, remedy, recovery — that give meaning to the experience of illness. Arthur Kleinman, in *Patients and Healers in the Cultural Context* (1980), distinguished between disease, the biological malfunction as biomedicine understands it; illness, the lived experience of being unwell. Later formulations added sickness, the social meanings and roles attached to being ill. A healing practice may address all three at once, or it may address one while ignoring the others.
+A healing practice is more than a treatment. It involves a diagnosis, a healer, a sufferer, and a community, and it unfolds in a sequence of actions — consultation, ritual, remedy, recovery — that give meaning to the experience of illness. Arthur Kleinman, in *Patients and Healers in the Cultural Context* (1980), distinguished between disease, the biological malfunction as biomedicine understands it, and illness, the lived experience of being unwell. Other scholars, such as Allan Young, developed a third term, sickness, the social meanings and roles attached to being ill. A healing practice may address all three at once, or it may address one while ignoring the others.
 
 Healers take many forms: the herbalist who knows the properties of plants, the diviner who identifies the spirit or witch responsible, the shaman who journeys to retrieve a lost soul, the priest who prays, and the doctor who prescribes. In most societies these figures coexist and compete, and sufferers move between them, trying one remedy after another. Healing is therefore also a matter of choice, of trust, and of what a family can afford.
 
@@ -30,7 +30,7 @@ Healers take many forms: the herbalist who knows the properties of plants, the d
 
 The anthropology of healing begins with W. H. R. Rivers, whose *Medicine, Magic, and Religion* (1924) argued that in many societies illness was attributed to human, spiritual, or natural causes, and that each kind of cause called for a different kind of remedy. Rivers insisted that these ideas were rational within their own terms: given a belief in sorcery, it was reasonable to seek a diviner rather than a drug.
 
-E. E. Evans-Pritchard's *Witchcraft, Oracles and Magic Among the Azande* (1937) developed this insight into a classic. Among the Azande of Sudan, witchcraft explained why a particular person fell ill at a particular time, while natural causes explained how the illness worked. The two explanations were complementary, not contradictory, and the oracle — a poison test administered to a chicken — provided a way of resolving disputes and deciding what to do. Evans-Pritchard showed that a healing system is also a system of knowledge and of justice.
+E. E. Evans-Pritchard's *Witchcraft, Oracles and Magic Among the Azande* (1937) developed this insight into a classic. Among the Azande of what was then the Anglo-Egyptian Sudan (their homeland also extends into neighbouring countries), witchcraft explained why a particular person fell ill at a particular time, while natural causes explained how the illness worked. The two explanations were complementary, not contradictory, and the oracle — a poison test administered to a chicken — provided a way of resolving disputes and deciding what to do. Evans-Pritchard showed that a healing system is also a system of knowledge and of justice.
 
 In the second half of the twentieth century, medical anthropology became a field in its own right. Kleinman's work in Taiwan and China showed how patients and healers negotiate the meaning of illness across the boundaries of biomedicine and traditional medicine, and Thomas Csordas, in *The Sacred Self* (1994), showed how healing works through the body itself — through touch, breath, emotion, and the experience of the sacred — in charismatic Christian healing in North America.
 
@@ -54,4 +54,5 @@ Recent anthropology has also turned its attention to the suffering of the healer
 - Evans-Pritchard, E. E. *Witchcraft, Oracles and Magic Among the Azande*. 1937.
 - Frank, Jerome D. *Persuasion and Healing*. 1961.
 - Kleinman, Arthur. *Patients and Healers in the Cultural Context*. 1980.
+- Young, Allan. "The Anthropologies of Illness and Sickness." *Annual Review of Anthropology* 11. 1982.
 - Csordas, Thomas J. *The Sacred Self: A Cultural Phenomenology of Charismatic Healing*. 1994.

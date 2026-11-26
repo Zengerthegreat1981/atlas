@@ -22,7 +22,7 @@ Consensus decision-making is a process in which a group reaches a decision that 
 
 ## Definition
 
-Consensus differs from unanimity in an important respect. Unanimity requires that everyone actively agrees; consensus requires that no one blocks the decision, even if some members have reservations. In formal consensus process, a proposal is introduced, discussed, and modified in response to concerns. Participants may stand aside — declining to support a decision without blocking it — or block it, signalling that the proposal violates a core principle or would cause serious harm. A single block can stop a decision, which gives minorities real power but also makes consensus slow and demanding. Pierre Clastres, in his 1974 study of societies in South America, argued that many stateless societies actively prevent the concentration of power by requiring consensus: chiefs can persuade but not command, and decisions emerge from collective discussion. Consensus, in this view, is not the absence of politics but a political system in its own right, one that distributes authority across the whole group.
+Consensus differs from unanimity in an important respect. Unanimity requires that everyone actively agrees; consensus requires that no one blocks the decision, even if some members have reservations. In formal consensus process, a proposal is introduced, discussed, and modified in response to concerns. Participants may stand aside — declining to support a decision without blocking it — or block it, signalling that the proposal violates a core principle or would cause serious harm. A single block can stop a decision, which gives minorities real power but also makes consensus slow and demanding. Pierre Clastres, in his 1974 study of societies in South America, argued that many stateless societies actively prevent the concentration of power: chiefs can persuade but not command, and decisions emerge from collective discussion. Consensus, in this view, is not the absence of politics but a political system in its own right, one that distributes authority across the whole group.
 
 ## Origins and Development
 
@@ -38,7 +38,7 @@ Consensus decision-making is widely used today in contexts far beyond its origin
 
 ## Sources
 
-- Jo Freeman, "The Tyranny of Structurelessness" (written 1970; published in *Ms.* magazine, 1972)
+- Jo Freeman, "The Tyranny of Structurelessness" (written 1970; published in *Berkeley Journal of Sociology* 17, 1972; a version appeared in *Ms.* magazine, 1973)
 - Pierre Clastres, *La société contre l'État* (1974); English translation, *Society Against the State* (1977)
 - C. T. Butler and Amy Rothstein, *On Conflict and Consensus* (1987)
 - Elinor Ostrom, *Governing the Commons* (1990)

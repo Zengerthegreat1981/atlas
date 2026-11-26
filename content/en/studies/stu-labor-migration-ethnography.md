@@ -38,7 +38,7 @@ Early anthropological work on migration, much of it in Africa, often saw urban m
 ## Themes and Examples
 
 - **Households and remittances.** Studies in Latin America, South Asia and the Middle East show households as units that spread risk through migration. Katy Gardner's work on Sylheti migration to Britain from rural Bangladesh (1995) traced how overseas earnings changed local status, house-building and obligations.
-- **Gender and care.** Rhacel Parreñas (2001, 2005) studied Filipina domestic workers abroad and the children and families they leave behind, introducing the notion of "transnational families" and the "global care chain." Nicole Constable (1997) studied Filipina domestic workers in Hong Kong, examining their working conditions and social worlds, including weekend gatherings.
+- **Gender and care.** Rhacel Parreñas (2001, 2005) studied Filipina domestic workers abroad and the transnational families, including children, that they leave behind. This work is often discussed alongside the concept of the "global care chain" developed by Arlie Hochschild (2000). Nicole Constable (1997) studied Filipina domestic workers in Hong Kong, examining their working conditions and social worlds, including weekend gatherings.
 - **Masculinity and family in the Andes.** Jeffrey Pribilsky (2007) studied Ecuadorian migrants from the southern Andes to New York and their families at home, examining how migration reworked marital and gender relations.
 - **States and regulation.** Ethnographers have examined how visa regimes, recruitment agencies and bilateral agreements shape who can move and on what terms, and how migrant labour is made vulnerable.
 
@@ -57,6 +57,7 @@ Scholars have cautioned that emphasizing household strategy and migrant agency c
 - Marcus, G. E. (1995). Ethnography in/of the world system: the emergence of multi-sited ethnography. *Annual Review of Anthropology* 24:95-117.
 - Gardner, K. (1995). *Global Migrants, Local Lives: Travel and Transformation in Rural Bangladesh*. Clarendon Press.
 - Constable, N. (1997). *Maid to Order in Hong Kong: Stories of Filipina Workers*. Cornell University Press.
+- Hochschild, A. R. (2000). Global care chains and emotional surplus value. In W. Hutton and A. Giddens (eds), *On the Edge: Living with Global Capitalism*. Jonathan Cape.
 - Parreñas, R. S. (2001). *Servants of Globalization*. Stanford University Press.
 - Parreñas, R. S. (2005). *Children of Global Migration: Transnational Families and Gendered Woes*. Stanford University Press.
 - Pribilsky, J. (2007). *La Chulla Vida*. Syracuse University Press.

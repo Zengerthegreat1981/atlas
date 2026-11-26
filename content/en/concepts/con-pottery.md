@@ -22,7 +22,7 @@ Pottery — vessels and objects made from clay that is shaped, dried, and fired 
 
 ## Definition
 
-Anthropologists define pottery by its chaîne opératoire, the sequence of technical choices that turns raw clay into a finished vessel: selecting and preparing clay, adding temper such as sand or crushed shell, forming the pot by hand-building, coiling, or the wheel, decorating its surface, and firing it at a temperature that transforms soft clay into durable ceramic. Each step involves decisions that are learned within a community of practice, so that two villages making functionally identical cooking pots may use visibly different techniques. This is why archaeologists can trace cultural boundaries, trade routes, and learning networks from potsherds alone.
+Anthropologists often analyse pottery through its chaîne opératoire, the sequence of technical choices that turns raw clay into a finished vessel: selecting and preparing clay, adding temper such as sand or crushed shell, forming the pot by hand-building, coiling, or the wheel, decorating its surface, and firing it at a temperature that transforms soft clay into durable ceramic. Each step involves decisions that are learned within a community of practice, so that two villages making functionally identical cooking pots may use visibly different techniques. This is why archaeologists can trace cultural boundaries, trade routes, and learning networks from potsherds alone.
 
 Pottery is also defined by function. Vessels store grain and water, cook food over fire, serve meals, hold offerings, and carry goods to market. Function shapes form: a cooking pot needs walls that resist thermal shock, a storage jar needs a narrow mouth to keep contents dry, and a serving bowl needs a surface that displays decoration. Anthropologists therefore read pots as compromises between technical constraints, available materials, and social demands.
 
@@ -30,7 +30,7 @@ Pottery is also defined by function. Vessels store grain and water, cook food ov
 
 Pottery appears independently in several parts of the world. The earliest known ceramic vessels come from East Asia: fragments from Xianrendong cave in Jiangxi and Yuchanyan cave in Hunan, southern China, date to roughly 18,000-20,000 years ago, and the Jomon pottery of Japan, beginning at least 15,000 years ago, includes some of the most elaborately decorated early vessels. In the Near East pottery appeared around 8,000-9,000 years ago, alongside farming villages, while in the Americas it emerged independently in the Amazon and the Andes several thousand years ago.
 
-The spread of the potter's wheel, first used in Mesopotamia around 5,000 years ago, transformed production. Wheel-throwing allowed faster, more standardised vessels and supported the rise of specialist workshops and markets. Yet hand-building never disappeared: many societies kept coiling and paddle-and-anvil techniques for millennia, and potters' choices between wheel and hand often marked ethnic or gendered identities rather than simple technological progress.
+The spread of the potter's wheel, in use in Mesopotamia by the fourth millennium BCE, transformed production. Wheel-throwing allowed faster, more standardised vessels and supported the rise of specialist workshops and markets. Yet hand-building never disappeared: many societies kept coiling and paddle-and-anvil techniques for millennia, and potters' choices between wheel and hand often marked ethnic or gendered identities rather than simple technological progress.
 
 ## Key Debates and Dimensions
 

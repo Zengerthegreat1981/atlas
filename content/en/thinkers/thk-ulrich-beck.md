@@ -7,7 +7,7 @@ level: متوسط
 title: Ulrich Beck
 en: Ulrich Beck
 crumb: "Sociology ← Ulrich Beck"
-dates: International · 1944-2015
+dates: Germany · 1944-2015
 active_start: 1944
 active_end: 2015
 edges: []

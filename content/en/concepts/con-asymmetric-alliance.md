@@ -15,8 +15,7 @@ edges:
 related:
 - id: "con-kinship-theory", title: "Kinship Theory", type: "مفهوم"
 - id: "con-descent-theory", title: "Descent Theory", type: "مفهوم"
-gaps:
-  - "Mathematical formalisation of exchange cycles (André Weil's group-theoretic appendix to Lévi-Strauss): not yet covered"
+gaps: []
 ---
 # Asymmetric Alliance
 
@@ -42,13 +41,19 @@ Asymmetric alliance assumes, unlike symmetric exchange, a structurally **hierarc
 
 ## Limitations
 
-The debate between Lévi-Strauss and Needham over asymmetric alliance has never been fully resolved. Supporters of Lévi-Strauss argue that the structural model explains an underlying logic that goes beyond the awareness of the actors themselves, while his critics (Needham, Leach himself in later years, and proponents of "detailed ethnography") argue that imposing a universal mathematical model (the exchange cycle) on diverse ethnographic material imposes a formal regularity that may not correspond to regular behaviour on the ground, and that many "asymmetric systems" described theoretically dissolve, under precise empirical examination, into irregular marriage practices.
+The debate between Lévi-Strauss and Needham over asymmetric alliance has never been fully resolved. Supporters of Lévi-Strauss argue that the structural model explains an underlying logic that goes beyond the awareness of the actors themselves, while his critics (Needham among them, as well as advocates of close ethnographic analysis) argue that imposing a universal mathematical model (the exchange cycle) on diverse ethnographic material imposes a formal regularity that may not correspond to regular behaviour on the ground, and that many "asymmetric systems" described theoretically dissolve, under precise empirical examination, into irregular marriage practices.
+
+## Formal Models of Exchange
+
+The 1949 edition of Lévi-Strauss's book included a mathematical note by André Weil on certain marriage laws, taking the Australian Murngin system as its case. Weil treated marriage classes as elements and rules assigning the marriage class of children as operations on them, so that the theory of permutation groups could show which rules were mutually consistent and how the classes divided into linked cycles. Later work, notably Harrison White's *An Anatomy of Kinship* (1963), developed algebraic models of prescriptive systems. Such models clarify the logical implications of stated rules; they do not show that actual marriages conform to them.
 
 ## Sources
 
 - Lévi-Strauss, Claude. *Les Structures élémentaires de la parenté*. Paris: Presses Universitaires de France, 1949 (English translation: *The Elementary Structures of Kinship*, 1969).
 - Leach, Edmund. *Political Systems of Highland Burma: A Study of Kachin Social Structure*. London: G. Bell and Sons, 1954.
 - Leach, E. R. "The Structural Implications of Matrilateral Cross-Cousin Marriage." *Journal of the Royal Anthropological Institute* 81 (1951): 23–55.
-- Needham, Rodney. "Prescription." *Oceania* 42, no. 3 (1973): 166–181.
+- Needham, Rodney. "Prescription." *Oceania* 43, no. 3 (1973): 166–181.
+- Needham, Rodney. *Structure and Sentiment: A Test Case in Social Anthropology*. Chicago: University of Chicago Press, 1962.
 - Dumont, Louis. *Hierarchy and Marriage Alliance in South Indian Kinship*. London: Royal Anthropological Institute, 1957.
 - Dumont, Louis. *Affinity as a Value: Marriage Alliance in South India, with Comparative Essays on Australia*. Chicago: University of Chicago Press, 1983.
+- White, Harrison C. *An Anatomy of Kinship: Mathematical Models for Structures of Cumulated Roles*. Englewood Cliffs, NJ: Prentice-Hall, 1963.

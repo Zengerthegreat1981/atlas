@@ -38,10 +38,10 @@ Dinesen's influence on the popular image of Africa is immense: for millions of r
 
 ## Sources
 
-- Dinesen, Isak. *Seven Gothic Tales*. Random House, 1934.
-- Dinesen, Isak. *Out of Africa*. Putnam, 1937.
+- Dinesen, Isak. *Seven Gothic Tales*. Harrison Smith and Robert Haas, 1934.
+- Dinesen, Isak. *Out of Africa*. Putnam (London), 1937.
 - Dinesen, Isak. *Winter's Tales*. Random House, 1942.
 - Dinesen, Isak. *Anecdotes of Destiny*. Random House, 1958.
-- Dinesen, Isak. *Shadows on the Grass*. Random House, 1960.
+- Dinesen, Isak. *Shadows on the Grass*. Michael Joseph, 1960.
 - Thurman, Judith. *Isak Dinesen: The Life of a Storyteller*. St. Martin's Press, 1982.
 - Dinesen, Isak. *Letters from Africa, 1914–1931*. Edited by Frans Lasson. University of Chicago Press, 1981.

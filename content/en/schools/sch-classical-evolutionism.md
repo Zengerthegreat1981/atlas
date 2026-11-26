@@ -22,16 +22,16 @@ gaps: []
 ---
 # Classical Evolutionary Anthropology
 
-The first systematic anthropological school. It prevailed in Britain and the United States in the final decades of the nineteenth century, shaped by the Darwinian theory of biological evolution (1859) and by the wave of colonial exploration that made it possible to gather ethnographic reports on non-European peoples.
+An early systematic school of anthropology. It prevailed in Britain and the United States in the final decades of the nineteenth century, shaped by nineteenth-century evolutionary thought, including the debates around Darwin's theory of biological evolution (1859), and by the wave of colonial exploration that made it possible to gather ethnographic reports on non-European peoples.
 
 ## The Central Idea
 
-The school rested on a central assumption, "unilinear evolution": that all human societies follow the same evolutionary path from "primitive" to "civilized" stages, and that contemporary cultural differences among peoples do not reflect variation in paths but differences in position on one and the same evolutionary ladder. Its pioneers, led by Edward Tylor and Lewis Henry Morgan, used the "armchair comparative method": compiling reports by missionaries, traders and colonial administrators about scattered peoples and arranging them in a hypothetical evolutionary sequence, mostly without direct field observation (with the exception of Morgan, who lived near the Iroquois).
+The school rested on a central assumption, "unilinear evolution": that all human societies follow the same evolutionary path from "primitive" to "civilized" stages, and that contemporary cultural differences among peoples do not reflect variation in paths but differences in position on one and the same evolutionary ladder. Its pioneers, led by Edward Tylor and Lewis Henry Morgan, used the "armchair comparative method": compiling reports by missionaries, traders and colonial administrators about scattered peoples and arranging them in a hypothetical evolutionary sequence, mostly without direct field observation (a partial exception was Morgan, who worked closely with Seneca and other Haudenosaunee (Iroquois) people and made field trips among Native American peoples further west).
 
 ## Figures and Works
 
 - **Edward Tylor**: defined "culture" in an anthropologically foundational way in *Primitive Culture* (1871), and developed the concepts of "animism" and "survivals."
-- **Lewis Henry Morgan**: founded comparative kinship studies in *Systems of Consanguinity and Affinity* (1871), and in *Ancient Society* (1877) presented a three-stage evolutionary model (savagery, barbarism, civilization) that later influenced Engels.
+- **Lewis Henry Morgan**: established the comparative study of kinship terminology in *Systems of Consanguinity and Affinity* (1871), and in *Ancient Society* (1877) presented a three-stage evolutionary model (savagery, barbarism, civilization) that later influenced Engels.
 
 ## Critique
 
@@ -51,7 +51,7 @@ Edward Tylor developed an influential concept: "survivals," practices or beliefs
 
 ## Tylor's Foundational Definition of Culture
 
-Tylor's deepest contribution is his foundational definition of the concept of "culture" itself, in the opening of *Primitive Culture* (1871): "that complex whole which includes knowledge, belief, art, morals, law, custom, and any other capabilities and habits acquired by man as a member of society." This definition remained the basis for all later definitions of culture in the field, although Tylor himself used it in the service of a unilinear evolutionary project that later generations of anthropologists rejected sharply.
+One of Tylor's most lasting contributions is his definition of the concept of "culture" itself, in the opening of *Primitive Culture* (1871): "that complex whole which includes knowledge, belief, art, morals, law, custom, and any other capabilities and habits acquired by man as a member of society." This definition became a standard point of reference for later discussions of culture, although Tylor himself used it in the service of a unilinear evolutionary project that later generations of anthropologists rejected sharply.
 
 ## Diffusionism as a Rival Alternative
 

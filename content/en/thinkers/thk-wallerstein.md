@@ -7,7 +7,7 @@ level: متوسط
 title: Immanuel Wallerstein
 en: Immanuel Wallerstein
 crumb: "Sociology ← Immanuel Wallerstein"
-dates: International · 1930-2019
+dates: United States · 1930-2019
 active_start: 1930
 active_end: 2019
 edges: []

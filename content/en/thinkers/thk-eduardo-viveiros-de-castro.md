@@ -20,11 +20,11 @@ gaps: []
 ---
 # Eduardo Viveiros de Castro
 
-A Brazilian anthropologist who conducted his main fieldwork among the Arawété and other peoples of the Brazilian Amazon. He is a leading figure in the "ontological turn" in contemporary anthropology, and his Araweté ethnography was published as *From the Enemy's Point of View: Humanity and Divinity in an Amazonian Society* (1992).
+A Brazilian anthropologist who conducted his main fieldwork among the Araweté and other peoples of the Brazilian Amazon. He is a leading figure in the "ontological turn" in contemporary anthropology, and his Araweté ethnography was published as *From the Enemy's Point of View: Humanity and Divinity in an Amazonian Society* (1992).
 
 ## Amazonian Perspectivism
 
-In his seminal essay "Cosmological Deixis and Amerindian Perspectivism" (1998), Viveiros de Castro put forward a radical idea drawn from the mythology of Amazonian peoples. Contrary to the standard Western assumption of a single objective "nature" that humans interpret through multiple "cultures" (multiculturalism: many cultures over one nature), many Amazonian cosmologies conceive the relation as reversed. There is a single "culture" shared by all beings: humans, animals, and spirits all share being "persons" who see themselves as human and who observe rituals and social customs. But each kind of being sees the world from a different bodily perspective, which makes it perceive the same things in radically different forms. What the human sees as blood, the female jaguar sees as manioc beer. This is "multinaturalism over a single culture" (Multinaturalism), not the reverse.
+In his seminal essay "Cosmological Deixis and Amerindian Perspectivism" (1998), Viveiros de Castro put forward a radical idea drawn from the mythology of Amazonian peoples. Contrary to the standard Western assumption of a single objective "nature" that humans interpret through multiple "cultures" (multiculturalism: many cultures over one nature), many Amazonian cosmologies conceive the relation as reversed. There is a single "culture" shared by all beings: humans, animals, and spirits all share being "persons" who see themselves as human and who observe rituals and social customs. But each kind of being sees the world from a different bodily perspective, which makes it perceive the same things in radically different forms. What humans see as blood, jaguars see as manioc beer. This is "multinaturalism over a single culture" (Multinaturalism), not the reverse.
 
 ## Borrowing from Lévi-Strauss and Going Beyond Him
 
@@ -36,7 +36,7 @@ This proposal provoked a wide debate in contemporary anthropology over whether n
 
 ## Cannibal Metaphysics and Political Critique
 
-In *Cannibal Metaphysics* (published in French in 2009; English translation 2014), Viveiros de Castro extended his argument into an explicit political critique of Western anthropology itself. He called for "decolonizing thought" by taking indigenous concepts seriously as philosophical tools for rethinking basic Western notions such as the subject, the object, and nature. One example is the ritual cannibalism of the historical Tupinambá, which he reads as a metaphor for a metaphysical relationship to the Other, rather than merely a brutal practice as portrayed in colonial narratives.
+In *Cannibal Metaphysics* (published in French in 2009; English translation 2014), Viveiros de Castro extended his argument into an explicit political critique of Western anthropology itself. He called for "decolonizing thought" by taking indigenous concepts seriously as philosophical tools for rethinking basic Western notions such as the subject, the object, and nature. One example is the ritual cannibalism of the historical Tupinambá, in which he finds a way of constituting the self through the perspective of the enemy Other, rather than merely a brutal practice as portrayed in colonial narratives.
 
 ## The Debate over the Ontological Turn
 
@@ -56,7 +56,7 @@ Viveiros de Castro has publicly spoken in support of Indigenous peoples in Brazi
 
 ## Conclusion
 
-Viveiros de Castro remains one of the most influential and controversial contemporary anthropologists. He succeeded in repositioning Amazonian myths and cosmologies at the center of the global philosophical debate on the nature of reality and the relationship between humans and non-humans, reaching beyond the narrow boundaries of anthropological specialization.
+Viveiros de Castro remains one of the most influential and controversial contemporary anthropologists. His work has brought Amazonian myths and cosmologies prominently into philosophical debate on the nature of reality and the relationship between humans and non-humans, reaching beyond the narrow boundaries of anthropological specialization.
 
 ## Sources
 

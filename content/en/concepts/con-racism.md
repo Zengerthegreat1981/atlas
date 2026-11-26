@@ -23,9 +23,9 @@ sociological_paradigm: micro-macro
 
 ## Definition and Development
 
-The modern concept of race was created in the age of European colonialism and slavery. From the sixteenth century onward, and especially in the eighteenth and nineteenth centuries, European writers classified humanity into races, placed Europeans at the top, and used the classification to justify conquest, enslavement, and dispossession. The science of the nineteenth century gave racism a biological vocabulary — skull measurements and, later, blood-group studies and genetics — but the categories were social from the start: who counted as "white" or "Black" changed across time and place, and groups such as the Irish, Italians, and Jews were racialised differently in different periods.
+The modern concept of race was created in the age of European colonialism and slavery. From the sixteenth century onward, and especially in the eighteenth and nineteenth centuries, European writers classified humanity into races, placed Europeans at the top, and used the classification to justify conquest, enslavement, and dispossession. Science in the nineteenth and early twentieth centuries gave racism a biological vocabulary — skull measurements and, later, appeals to blood groups and heredity — but the categories were social from the start: who counted as "white" or "Black" changed across time and place, and groups such as the Irish, Italians, and Jews were racialised differently in different periods.
 
-W. E. B. Du Bois, in *The Souls of Black Folk* (1903), gave the first great sociological account of race as lived experience. Du Bois described "double consciousness": Black Americans saw themselves both through their own eyes and through the eyes of a white world that despised them, measuring their souls "by the tape of a world that looks on in amused contempt and pity." His famous prediction — that "the problem of the twentieth century is the problem of the color-line" — framed race not as a biological fact but as the central political division of modernity. Du Bois also insisted that race was a social and historical product, not a natural kind, an insight that sociology took decades to absorb fully.
+W. E. B. Du Bois, in *The Souls of Black Folk* (1903), gave an early and influential sociological account of race as lived experience. Du Bois described "double consciousness": Black Americans saw themselves both through their own eyes and through the eyes of a white world that despised them, measuring their souls "by the tape of a world that looks on in amused contempt and pity." His famous prediction — that "the problem of the twentieth century is the problem of the color-line" — framed race not as a biological fact but as the central political division of modernity. Du Bois also insisted that race was a social and historical product, not a natural kind, an insight that sociology took decades to absorb fully.
 
 ## Key Contributions: Racial Formation and Structural Racism
 
@@ -48,6 +48,7 @@ Contemporary research examines racism in new domains: algorithmic systems that r
 ## Sources
 
 - Bonilla-Silva, Eduardo. "Rethinking Racism: Toward a Structural Interpretation." *American Sociological Review* 62, no. 3 (1997): 465–480.
+- Bonilla-Silva, Eduardo. *Racism without Racists: Color-Blind Racism and the Persistence of Racial Inequality in the United States*. Rowman & Littlefield, 2003.
 - Du Bois, W. E. B. *The Souls of Black Folk*. A. C. McClurg, 1903.
 - Fredrickson, George M. *Racism: A Short History*. Princeton University Press, 2002.
 - Omi, Michael, and Howard Winant. *Racial Formation in the United States: From the 1960s to the 1980s*. Routledge & Kegan Paul, 1986. (Second edition, from the 1960s to the 1990s, Routledge, 1994.)

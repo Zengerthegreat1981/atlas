@@ -35,7 +35,7 @@ Meyer Fortes (1906-1983), a South African-born British social anthropologist who
 
 ## Context
 
-The fieldwork was supported by the International African Institute and carried out under British colonial administration; Fortes also contributed with Evans-Pritchard to the edited volume *African Political Systems* (1940), whose introduction set out the contrast between societies with centralized states and stateless societies ordered by lineage structures. The Tallensi, like the Nuer studied by Evans-Pritchard, were presented as a case of the latter, although Fortes also gave an account of the roles of chiefs of the Namoos (a chiefly category with origins in neighbouring kingdoms) alongside those of the indigenous Tale clans.
+The fieldwork was supported by the International African Institute and carried out under British colonial administration; Fortes also co-edited with Evans-Pritchard the volume *African Political Systems* (1940), whose introduction set out the contrast between societies with centralized states and stateless societies ordered by lineage structures. The Tallensi, like the Nuer studied by Evans-Pritchard, were presented as a case of the latter, although Fortes also gave an account of the roles of chiefs of the Namoos (a chiefly category with origins in neighbouring kingdoms) alongside those of the indigenous Tale clans.
 
 ## Social Organization
 

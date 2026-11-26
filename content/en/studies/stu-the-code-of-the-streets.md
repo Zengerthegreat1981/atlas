@@ -4,9 +4,9 @@ id: SOC-14484
 type: دراسة
 part: sociology
 level: متوسط
-title: The Code of the Streets
-en: The Code of the Streets
-crumb: Sociology ← The Code of the Streets
+title: Code of the Street
+en: Code of the Street
+crumb: Sociology ← Code of the Street
 dates: ''
 active_start: 1990
 active_end: 1999
@@ -15,13 +15,13 @@ related: []
 gaps: []
 ---
 
-# The Code of the Streets
+# Code of the Street
 
-In the poorest neighbourhoods of American cities, where police protection is unreliable and jobs have vanished, everyday life is governed by an unwritten set of rules that Elijah Anderson called the code of the street. The code demands that respect be publicly defended, that disrespect be answered, and that a reputation for toughness be maintained at all costs — because for people with no other reliable protection, reputation is protection. Anderson's study, published as Code of the Street: Decency, Violence, and the Moral Life of the Inner City (1999), is one of the most influential works of urban ethnography ever written. It showed that street violence is not random or senseless, but follows a moral logic of its own, produced by deindustrialisation, racial segregation, the withdrawal of public services, and the collapse of trust in the law.
+In the poorest neighbourhoods of American cities, where police protection is unreliable and jobs have vanished, everyday life is governed by an unwritten set of rules that Elijah Anderson called the code of the street. The code demands that respect be publicly defended, that disrespect be answered, and that a reputation for toughness be maintained at all costs — because for people with no other reliable protection, reputation is protection. Anderson's study, published as Code of the Street: Decency, Violence, and the Moral Life of the Inner City (1999), is an influential work of urban ethnography. It argued that street violence is not random or senseless, but follows a moral logic of its own, produced by deindustrialisation, racial segregation, the withdrawal of public services, and the collapse of trust in the law.
 
 ## The Researcher and the Setting
 
-Elijah Anderson, a sociologist then at the University of Pennsylvania (later at Yale), had already spent years studying Black urban life in Philadelphia for his earlier book Streetwise (1990). For Code of the Street he conducted several years of field research along Germantown Avenue, an eight-and-a-half-mile artery that runs from the affluent suburb of Chestnut Hill in the northwest down through the heart of inner-city Philadelphia. The avenue offered a cross-section of the city: wealthy white neighbourhoods, mixed middle-class areas, and deeply poor Black neighbourhoods where drugs and violence were part of daily life. Anderson worked in carry-outs, laundromats, taverns, playgrounds and street corners, and he conducted in-depth interviews with teenagers, young men (some incarcerated, some not), older men, teenage mothers and grandmothers.
+Elijah Anderson, a sociologist then at the University of Pennsylvania (later at Yale), had already spent years studying Black urban life in Philadelphia for his earlier book Streetwise (1990). For Code of the Street he conducted several years of field research along Germantown Avenue, an eight-and-a-half-mile artery that runs from the affluent neighbourhood of Chestnut Hill in the northwest down through the heart of inner-city Philadelphia. The avenue offered a cross-section of the city: wealthy white neighbourhoods, mixed middle-class areas, and deeply poor Black neighbourhoods where drugs and violence were part of daily life. Anderson worked in carry-outs, laundromats, taverns, playgrounds and street corners, and he conducted in-depth interviews with teenagers, young men (some incarcerated, some not), older men, teenage mothers and grandmothers.
 
 The study grew out of a puzzle. Why, in neighbourhoods where most residents were law-abiding and hardworking, did a small number of young men seem able to terrorise the streets, and why did so many ordinary residents feel compelled to adopt street behaviour themselves? Anderson's answer began with the observation that the civil law had lost credibility in these neighbourhoods. When the police are seen as absent, hostile or corrupt, people fall back on self-help: they must police themselves, and the code is the system by which they do it.
 

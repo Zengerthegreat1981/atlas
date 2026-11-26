@@ -41,11 +41,11 @@ The *ghinnawa* that Abu-Lughod studied are short lyric poems belonging to the wi
 
 ## Writing Women's Worlds
 
-In her third major work, *Writing Women's Worlds: Bedouin Stories* (1993), Abu-Lughod moved from explicit theoretical analysis to experimentation in ethnographic writing. She presented a collection of life stories narrated in the voices of Awlad 'Ali women themselves, with limited analytical commentary. Her aim was to dismantle the authority of a single analytical anthropological voice and to make room for a plurality of local female voices, in line with the debates of the "crisis of representation" in American anthropology in the 1980s.
+In her second monograph, *Writing Women's Worlds: Bedouin Stories* (1993), Abu-Lughod moved from explicit theoretical analysis to experimentation in ethnographic writing. She presented a collection of life stories narrated in the voices of Awlad 'Ali women themselves, with limited analytical commentary. Her aim was to dismantle the authority of a single analytical anthropological voice and to make room for a plurality of local female voices, in line with the debates of the "crisis of representation" in American anthropology in the 1980s.
 
 ## Impact
 
-Abu-Lughod is an important bridge between feminist anthropology and postcolonial criticism (in this she converges with Talal Asad and Edward Said). Her work has helped reshape academic and media debates about women, Islam, and Western intervention. She is professor of anthropology and gender studies at Columbia University, and her essay "Writing Against Culture" (1991) became a much-cited critique of the culture concept. She also co-edited *Nakba: Palestine, 1948, and the Claims of Memory* (2007). Her books are widely taught in Middle East studies and feminist anthropology programs around the world. She has also remained a critical voice in public debates about Palestine, Orientalism, and American policies toward the Muslim world.
+Abu-Lughod is an important bridge between feminist anthropology and postcolonial criticism (in this she converges with Talal Asad and Edward Said). Her work has helped reshape academic and media debates about women, Islam, and Western intervention. She is professor of anthropology and gender studies at Columbia University, and her essay "Writing Against Culture" (1991) became a much-cited critique of the culture concept. With Ahmad H. Sa'di she co-edited *Nakba: Palestine, 1948, and the Claims of Memory* (2007). Her books are widely taught in Middle East studies and feminist anthropology programs around the world. She has also remained a critical voice in public debates about Palestine, Orientalism, and American policies toward the Muslim world.
 
 ## Dramas of Nationhood: Television Politics in Egypt
 
@@ -63,3 +63,4 @@ Abu-Lughod received her PhD from Harvard University, taught at Princeton and New
 - Abu-Lughod, Lila. "Do Muslim Women Really Need Saving? Anthropological Reflections on Cultural Relativism and Its Others." *American Anthropologist* 104, no. 3 (2002): 783–790.
 - Abu-Lughod, Lila. *Do Muslim Women Need Saving?* Harvard University Press, 2013.
 - Abu-Lughod, Lila. "Writing Against Culture." In *Recapturing Anthropology*, edited by Richard G. Fox. School of American Research Press, 1991.
+- Sa'di, Ahmad H., and Lila Abu-Lughod, eds. *Nakba: Palestine, 1948, and the Claims of Memory*. Columbia University Press, 2007.

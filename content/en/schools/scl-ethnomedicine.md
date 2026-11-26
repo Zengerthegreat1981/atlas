@@ -32,7 +32,7 @@ The 1980s brought the interpretive turn. Arthur Kleinman's *Patients and Healers
 
 Rivers (1924) established the premise that healing beliefs are systematic. Ackerknecht (1971) made the case for the rationality of non-Western medicine and for the historical study of medical ideas. Foster (1976) supplied the personalistic-naturalistic typology that organised a generation of comparative research, and with Barbara Gallatin Anderson he wrote *Medical Anthropology* (1978), one of the field's first textbooks. Fabrega (1974) linked disease to social behaviour and to the cultural shaping of symptoms.
 
-Kleinman (1980, 1988) shifted attention from beliefs about disease to the lived experience of illness, introducing the concepts of explanatory models, illness narratives, and the distinction between disease, illness, and sickness. Good (1994) extended the analysis to biomedicine, showing how clinical reasoning, diagnostic categories, and the language of the body are culturally made. Later scholars such as Margaret Lock, in *Encounters with Aging* (1993), showed that even apparently universal biological processes such as menopause are experienced differently across cultures, while work on traditional medicine in Asia, Africa, and Latin America documented elaborate pharmacopoeias that continue to be tested by modern pharmacology.
+Kleinman (1980, 1988) shifted attention from beliefs about disease to the lived experience of illness, developing the concepts of explanatory models and illness narratives and elaborating the distinction between disease and illness. Good (1994) extended the analysis to biomedicine, showing how clinical reasoning, diagnostic categories, and the language of the body are culturally made. Later scholars such as Margaret Lock, in *Encounters with Aging* (1993), showed that even apparently universal biological processes such as menopause are experienced differently across cultures, while work on traditional medicine in Asia, Africa, and Latin America documented elaborate pharmacopoeias that continue to be tested by modern pharmacology.
 
 ## Method
 
@@ -55,4 +55,5 @@ The field also reshaped anthropology's own claims. By showing that biomedicine i
 - Foster, George M., and Barbara Gallatin Anderson (1978). *Medical Anthropology*. New York: Wiley.
 - Kleinman, Arthur (1980). *Patients and Healers in the Context of Culture: An Exploration of the Borderland between Anthropology, Medicine, and Psychiatry*. Berkeley: University of California Press.
 - Kleinman, Arthur (1988). *The Illness Narratives: Suffering, Healing, and the Human Condition*. New York: Basic Books.
+- Lock, Margaret (1993). *Encounters with Aging: Mythologies of Menopause in Japan and North America*. Berkeley: University of California Press.
 - Good, Byron J. (1994). *Medicine, Rationality, and Experience: An Anthropological Perspective*. Cambridge: Cambridge University Press.

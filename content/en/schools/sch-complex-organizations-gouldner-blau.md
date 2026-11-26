@@ -27,7 +27,7 @@ Careful field ethnographies of actual bureaucratic organizations, which revealed
 
 ## The Central Idea
 
-In *Patterns of Industrial Bureaucracy* (1954), Alvin Gouldner studied an American gypsum plant in the field. He showed how different patterns of compliance with bureaucratic rules arise according to their source and the meaning they have for the workers. In "mock bureaucracy," rules are imposed from outside (for example a no-smoking rule demanded by insurers) and everyone in practice ignores them by tacit agreement. In "representative bureaucracy," rules spring from real internal consensus and are applied seriously. In *The Dynamics of Bureaucracy* (1955), Peter Blau studied an American government office. He documented how employees in practice violate rigid official rules in order to achieve the organization's real goals more efficiently (for example, exchanging files between departments through informal channels). This reveals a structural contradiction between actual efficiency and literal compliance with the formal rules.
+In *Patterns of Industrial Bureaucracy* (1954), Alvin Gouldner studied an American gypsum plant in the field. He showed how different patterns of compliance with bureaucratic rules arise according to their source and the meaning they have for the workers. In "mock bureaucracy," rules are imposed from outside (for example a no-smoking rule demanded by insurers) and everyone in practice ignores them by tacit agreement. In "representative bureaucracy," rules spring from real internal consensus and are applied seriously. In *The Dynamics of Bureaucracy* (1955), Peter Blau studied an American government office. He documented how employees in practice violate rigid official rules in order to achieve the organization's real goals more efficiently (for example, officials consulting colleagues informally about difficult cases although the rules directed them to consult a supervisor). This reveals a structural contradiction between actual efficiency and literal compliance with the formal rules.
 
 ## Historical Context
 
@@ -49,4 +49,5 @@ Some later sociologists faulted the two studies for being limited to two narrow 
 
 - Gouldner, Alvin W. *Patterns of Industrial Bureaucracy*. Free Press, 1954.
 - Blau, Peter M. *The Dynamics of Bureaucracy: A Study of Interpersonal Relations in Two Government Agencies*. University of Chicago Press, 1955.
+- Merton, Robert K. "Bureaucratic Structure and Personality." *Social Forces*, 1940.
 - Gouldner, Alvin W. *The Coming Crisis of Western Sociology*. Basic Books, 1970.

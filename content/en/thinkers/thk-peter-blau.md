@@ -11,7 +11,7 @@ en: "Peter M. Blau"
 dates: "United States (of Austrian origin) · 1918–2002"
 country: "United States"
 language: "English"
-active_start: 1964
+active_start: 1955
 active_end: 2002
 crumb: "Sociology ← Thinkers ← Peter M. Blau"
 edges:
@@ -36,7 +36,7 @@ An American sociologist of Austrian origin (1918–2002) who emigrated to Americ
 
 ## His Place in the Current
 
-Blau's work represented a methodological and theoretical bridge between the microscopic exchange theory of his teacher Homans and the theory of large-scale social structure, and it deeply influenced the development of the sociology of organizations and, through its focus on relations among positions, later structural and network approaches to social structure.
+Blau's work represented a methodological and theoretical bridge between the microscopic exchange theory of George Homans and the theory of large-scale social structure, and it deeply influenced the development of the sociology of organizations and, through its focus on relations among positions, later structural and network approaches to social structure.
 
 ## Major Works
 

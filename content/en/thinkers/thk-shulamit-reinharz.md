@@ -18,7 +18,7 @@ gaps:
 
 # Shulamit Reinharz
 
-Shulamit Reinharz (born 1946) is an American sociologist and a leading figure in feminist methodology and Jewish women's studies. She is a professor of sociology at Brandeis University, where she founded the Women's Studies Research Center and the Hadassah-Brandeis Institute (1997). Her best-known book, *Feminist Methods in Social Research* (1992), became a standard text on how feminist commitments shape the practice of social science, and her later work turned to the history of Jewish women. Although she is a sociologist, her work on fieldwork, reflexivity, and qualitative method is widely read in anthropology.
+Shulamit Reinharz (born 1946) is an American sociologist and a leading figure in feminist methodology and Jewish women's studies. She became a professor of sociology at Brandeis University, where she founded the Women's Studies Research Center and the Hadassah-Brandeis Institute (1997). Her best-known book, *Feminist Methods in Social Research* (1992), became a standard text on how feminist commitments shape the practice of social science, and her later work turned to the history of Jewish women. Although she is a sociologist, her work on fieldwork, reflexivity, and qualitative method is widely read in anthropology.
 
 ## Life and Career
 
@@ -29,7 +29,7 @@ Her institutional work was as important as her writing. The Hadassah-Brandeis In
 ## Key Works
 
 - *On Becoming a Social Scientist: From Survey Research and Participant Observation to Experiential Analysis* (1979).
-- *Feminist Methods in Social Research* (1992).
+- *Feminist Methods in Social Research* (1992), with Lynn Davidman.
 - *American Jewish Women and the Zionist Enterprise* (2005), edited with Mark A. Raider.
 
 ## Main Ideas and Contributions

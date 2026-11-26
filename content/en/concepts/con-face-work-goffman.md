@@ -32,7 +32,7 @@ Goffman holds that every face-to-face interaction, however fleeting or trivial i
 
 ## The Difference between Protective and Corrective Work
 
-Goffman distinguished carefully between two complementary kinds of face-work: "defensive/protective practices", the anticipatory strategies an individual uses to protect his or her own face before any threat occurs (such as reticence in speaking about topics that might embarrass him or her, or choosing words carefully to avoid misunderstanding); and "corrective practices", the sequence of steps used after an actual threat has occurred: the challenge (drawing attention to the offence), the offering (providing an explanation or apology), the acceptance (the other party's acceptance of this explanation), and the thanks (ending the exchange with a symbolic sign of reconciliation that restores the shaken social balance).
+Goffman noted a defensive orientation toward saving one's own face and a protective orientation toward saving the face of others. He also distinguished two complementary kinds of face-work: avoidance practices, anticipatory strategies used before any threat occurs (such as reticence in speaking about topics that might embarrass him or her, or choosing words carefully to avoid misunderstanding); and "corrective practices", the sequence of steps used after an actual threat has occurred: the challenge (drawing attention to the offence), the offering (providing an explanation or apology), the acceptance (the other party's acceptance of this explanation), and the thanks (ending the exchange with a symbolic sign of reconciliation that restores the shaken social balance).
 
 ## Impact
 

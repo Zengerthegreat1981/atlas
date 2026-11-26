@@ -7,7 +7,7 @@ level: "متوسط"
 title: "Tourism Anthropology"
 en: "Tourism Anthropology"
 crumb: "Anthropology ← Schools ← Tourism Anthropology"
-dates: "International · 1990s-present"
+dates: "International · 1970s-present"
 edges:
   - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
 related:
@@ -24,15 +24,15 @@ Tourism anthropology is the study of tourism as a cultural and social phenomenon
 
 Anthropology long ignored tourism, regarding it as a shallow, commercial activity unworthy of ethnographic attention. The field took shape around two books of the mid-1970s. Dean MacCannell's *The Tourist: A New Theory of the Leisure Class* (1976) argued that tourism is a central feature of modern life: tourists travel in search of authenticity, of a real experience that modern life seems to deny them, and the tourist industry stages that authenticity for them. Nelson Graburn's edited volume *Ethnic and Tourist Arts: Cultural Expressions from the Fourth World* (1976) showed how indigenous peoples produce art for tourists and how that production reshapes tradition.
 
-Valene Smith's *Hosts and Guests: The Anthropology of Tourism* (1977) gave the field its name and its first synthesis. Smith's volume, based on a 1974 meeting of the American Anthropological Association, gathered ethnographic studies of tourism from around the world and proposed a typology of tourists, from explorers to mass tourists. Victor and Edith Turner's *Image and Pilgrimage in Christian Culture* (1978) connected tourism to pilgrimage, showing that travel has long been a ritual activity. A second edition of Smith's volume appeared in 1989, and *Hosts and Guests Revisited* (2001), edited by Smith and Maryann Brent, updated the field for a new century.
+Valene Smith's *Hosts and Guests: The Anthropology of Tourism* (1977) gave the field an early and influential synthesis. Smith's volume, based on a 1974 meeting of the American Anthropological Association, gathered ethnographic studies of tourism from around the world and proposed a typology of tourists, from explorers to mass tourists. Victor and Edith Turner's *Image and Pilgrimage in Christian Culture* (1978) connected tourism to pilgrimage, showing that travel has long been a ritual activity. A second edition of Smith's volume appeared in 1989, and *Hosts and Guests Revisited* (2001), edited by Smith and Maryann Brent, updated the field for a new century.
 
-The 1990s and 2000s saw rapid growth. Dennison Nash's edited *The Anthropology of Tourism* (1996) consolidated the field's theories, Michel Picard and Robert Wood's *Tourism, Ethnicity, and the State in Asian and Pacific Societies* (1997) examined how states use tourism to manage ethnic relations, and Edward Bruner's *Culture on Tour: Ethnographies of Travel* (2005) showed how tourist performances — from Maasai dances to American heritage sites — are co-produced by hosts and guests, and how they change over time.
+The 1990s and 2000s saw rapid growth. Dennison Nash's *Anthropology of Tourism* (1996) reviewed and consolidated the field's theories, Michel Picard and Robert Wood's *Tourism, Ethnicity, and the State in Asian and Pacific Societies* (1997) examined how states use tourism to manage ethnic relations, and Edward Bruner's *Culture on Tour: Ethnographies of Travel* (2005) showed how tourist performances — from Maasai dances to American heritage sites — are co-produced by hosts and guests, and how they change over time.
 
 ## Key Figures and Works
 
-MacCannell (1976) supplied the field's founding theory: the tourist's search for authenticity and the industry's staging of it, a framework still debated today. Graburn (1976) showed that tourist art is not a corruption of tradition but a creative adaptation, and that the market for ethnic art shapes what tradition becomes. Smith (1977) organised the field, giving it a typology of tourists and a comparative, ethnographic programme.
+MacCannell (1976) supplied the field's founding theory: the tourist's search for authenticity and the industry's staging of it, a framework still debated today. Graburn (1976) argued that tourist art is not a corruption of tradition but a creative adaptation, and that the market for ethnic art shapes what tradition becomes. Smith (1977) organised the field, giving it a typology of tourists and a comparative, ethnographic programme.
 
-Turner and Turner (1978) linked tourism to the older anthropology of pilgrimage, showing that the journey, the liminal experience, and the return are shared structures. Nash (1996) reviewed the field's theories, building on his earlier argument that tourism can be understood as a form of imperialism and as a development strategy. Picard and Wood (1997) showed how tourism is used by states to define national identity and to manage ethnic diversity. Bruner (2005) brought the field's ethnographic sophistication to its peak, showing that tourist sites are not fixed stages but ongoing performances, constantly revised by the people who inhabit them.
+Turner and Turner (1978) linked tourism to the older anthropology of pilgrimage, showing that the journey, the liminal experience, and the return are shared structures. Nash (1996) reviewed the field's theories; in an earlier chapter in *Hosts and Guests* he had argued that tourism can be understood as a form of imperialism. Picard and Wood (1997) showed how tourism is used by states to define national identity and to manage ethnic diversity. Bruner (2005) added rich ethnography, showing that tourist sites are not fixed stages but ongoing performances, constantly revised by the people who inhabit them.
 
 ## Method
 
@@ -53,7 +53,7 @@ The field's contemporary questions are urgent: overtourism and its effects on ci
 - Smith, Valene L., ed. (1977). *Hosts and Guests: The Anthropology of Tourism*. Philadelphia: University of Pennsylvania Press.
 - Turner, Victor, and Edith Turner (1978). *Image and Pilgrimage in Christian Culture: Anthropological Perspectives*. New York: Columbia University Press.
 - Smith, Valene L., ed. (1989). *Hosts and Guests: The Anthropology of Tourism*. 2nd edition. Philadelphia: University of Pennsylvania Press.
-- Nash, Dennison, ed. (1996). *The Anthropology of Tourism*. Oxford: Pergamon.
+- Nash, Dennison (1996). *Anthropology of Tourism*. Oxford: Pergamon.
 - Picard, Michel, and Robert E. Wood, eds. (1997). *Tourism, Ethnicity, and the State in Asian and Pacific Societies*. Honolulu: University of Hawai'i Press.
 - Smith, Valene L., and Maryann Brent, eds. (2001). *Hosts and Guests Revisited: Tourism Issues of the 21st Century*. New York: Cognizant Communication.
 - Bruner, Edward M. (2005). *Culture on Tour: Ethnographies of Travel*. Chicago: University of Chicago Press.

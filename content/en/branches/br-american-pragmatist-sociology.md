@@ -8,7 +8,7 @@ title: "American Pragmatist Sociology"
 en: American Pragmatist Sociology
 crumb: Sociology ← American Pragmatist Sociology
 dates: contemporary
-active_start: 1970
+active_start: 1902
 active_end: مستمر
 edges: []
 related: []
@@ -29,7 +29,7 @@ Pragmatism began as a philosophy in the 1870s with Charles Sanders Peirce, but i
 
 ## Key Figures
 
-Charles Sanders Peirce (1839–1914) founded pragmatism with his theory of inquiry and his maxim that the meaning of a concept lies in its practical consequences. William James (1842–1910) popularised the philosophy and developed its psychology of habit and its pluralist metaphysics. John Dewey (1859–1952) is the branch's central figure, whose philosophy of education, democracy, and public life remains its fullest statement. George Herbert Mead (1863–1931) supplied its social psychology of the self and the act. Jane Addams (1860–1935), founder of Hull-House, practised a pragmatist sociology of reform and was belatedly recognised as a sociological classic. Among contemporary figures, Hans Joas recovered pragmatism's theory of creative action for social theory, Mustafa Emirbayer developed a relational sociology drawing on Dewey and Mead, and Neil Gross, in *Richard Rorty: The Making of an American Philosopher* (2008), traced pragmatism's twentieth-century revival through its most influential public intellectual.
+Charles Sanders Peirce (1839–1914) founded pragmatism with his theory of inquiry and his maxim that the meaning of a concept lies in its practical consequences. William James (1842–1910) popularised the philosophy and developed its psychology of habit and its pluralist metaphysics. John Dewey (1859–1952) is the branch's central figure, whose philosophy of education, democracy, and public life remains its fullest statement. George Herbert Mead (1863–1931) supplied its social psychology of the self and the act. Jane Addams (1860–1935), founder of Hull-House, practised a pragmatist sociology of reform and was belatedly recognised as a sociological classic. Among contemporary figures, Hans Joas recovered pragmatism's theory of creative action for social theory, Mustafa Emirbayer developed a relational sociology drawing on Dewey and Mead, and Neil Gross, in *Richard Rorty: The Making of an American Philosopher* (2008), traced pragmatism's twentieth-century revival through one of its best-known later proponents.
 
 ## Method
 

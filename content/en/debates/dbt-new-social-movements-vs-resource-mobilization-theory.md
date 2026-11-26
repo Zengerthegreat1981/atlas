@@ -41,6 +41,9 @@ Later work drew elements from both sides and from other sources. The political p
 
 - Touraine, Alain. *La Voix et le regard*. Éditions du Seuil, 1978.
 - McCarthy, John D., and Mayer N. Zald. "Resource Mobilization and Social Movements: A Partial Theory." *American Journal of Sociology*, vol. 82, no. 6, 1977, pp. 1212–1241.
+- Olson, Mancur. *The Logic of Collective Action*. Harvard University Press, 1965.
+- McAdam, Doug. *Political Process and the Development of Black Insurgency, 1930–1970*. University of Chicago Press, 1982.
+- Snow, David A., E. Burke Rochford Jr., Steven K. Worden and Robert D. Benford. "Frame Alignment Processes, Micromobilization, and Movement Participation." *American Sociological Review*, 51(4), 1986.
 - Cohen, Jean L. "Strategy or Identity: New Theoretical Paradigms and Contemporary Social Movements." *Social Research*, vol. 52, no. 4, 1985, pp. 663–716.
 - Melucci, Alberto. *Nomads of the Present: Social Movements and Individual Needs in Contemporary Society*. Hutchinson Radius, 1989.
 - McAdam, Doug, John D. McCarthy, and Mayer N. Zald, eds. *Comparative Perspectives on Social Movements*. Cambridge University Press, 1996.

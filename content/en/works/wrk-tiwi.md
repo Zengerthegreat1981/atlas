@@ -20,7 +20,7 @@ gaps:
 
 ***The Tiwi of North Australia***, by **C. W. M. Hart** and **Arnold R. Pilling**, published in **1960**, is the classic ethnography of the Tiwi people of Melville and Bathurst Islands, off the north coast of Australia. It is famous for a single fact: Tiwi society was organised around a marriage system in which old men held a near-monopoly of wives, and young men could only obtain a wife by waiting, sometimes for decades, for an old man to die. The book used this striking arrangement to pose a general question — how does a society organise the distribution of its most valued resource, women in marriage, and what does that distribution do to politics, kinship, and everyday life?
 
-Hart had first studied the Tiwi in 1928-29, publishing his early findings in 1930, and he returned to the field in the 1950s with Pilling. The Tiwi, an Aboriginal people numbering roughly a thousand at the time, lived by hunting, fishing, and gathering in a tropical island environment and had no agriculture and no centralised political organisation. What they had was a complex social life, organised through kinship, marriage, and a rich ceremonial life of song, dance, and mortuary ritual.
+Hart had first studied the Tiwi in 1928-29, publishing his early findings in 1930, and the book combines this work with Pilling's fieldwork among the Tiwi in 1953-54. The Tiwi, an Aboriginal people numbering roughly a thousand at the time, lived by hunting, fishing, and gathering in a tropical island environment and had no agriculture and no centralised political organisation. What they had was a complex social life, organised through kinship, marriage, and a rich ceremonial life of song, dance, and mortuary ritual.
 
 ## Marriage and the Monopoly of Wives
 

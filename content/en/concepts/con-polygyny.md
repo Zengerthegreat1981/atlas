@@ -24,9 +24,9 @@ Polygyny is the marriage of one man to two or more wives at the same time. It is
 
 The comparative study of polygyny began with the early surveys of marriage systems. Murdock's cross-cultural data established that monogamy, though dominant in Europe and its settler societies, was a minority rule worldwide, and that polygyny was the preferred or permitted form in most of the societies then known to anthropology. The question then became why: what social and economic conditions favour plural wives, and what work does the institution do?
 
-Jack Goody offered the most influential answer. In *The Character of Kinship* (1973), he argued that polygyny is tied to systems of production in which women's labour is central — hoe agriculture in sub-Saharan Africa, for example, where additional wives mean additional cultivators and additional children. In such systems, wives are valued as workers as well as mothers, and a wealthy man converts surplus into wives, who in turn generate further wealth. Goody contrasted this with Eurasian societies, where land is scarce and must be transmitted intact to heirs, favouring monogamy and dowry.
+One influential answer came from the economist Ester Boserup, who in *Woman's Role in Economic Development* (1970) linked polygyny to hoe agriculture in sub-Saharan Africa, where women do much of the farming and additional wives mean additional cultivators and children. Jack Goody, in "Polygyny, Economy and the Role of Women" (in *The Character of Kinship*, 1973), tested and qualified this link, arguing that women's farm labour alone does not explain the distribution of polygyny and drawing attention to the later age at which men marry. In *Production and Reproduction* (1976) he contrasted African systems with Eurasian ones, where intensive agriculture, scarce land, and the transmission of property to children of both sexes, including through dowry, tend to favour monogamy.
 
-Douglas White and Michael Burton, in their article "Causes of Polygyny: Ecology, Economy, Kinship, and Warfare" (1988), tested these claims statistically across a worldwide sample. They found that polygyny is associated with several factors at once, including the female contribution to subsistence and patterns of warfare. No single cause suffices; the institution is over-determined, arising where demography, economy, and politics converge.
+Douglas White and Michael Burton, in their article "Causes of Polygyny: Ecology, Economy, Kinship, and Warfare" (1988), tested these claims statistically across a worldwide sample. They found that polygyny is associated with several factors at once, including fraternal interest groups, warfare involving plunder or the capture of women, and environmental conditions allowing expansion, while women's contribution to subsistence explained less than often assumed. No single cause suffices.
 
 ## Key Debates and Dimensions
 
@@ -45,7 +45,9 @@ Critics argue that anthropological attention to the "functions" of polygyny has 
 ## Sources
 
 - Murdock, George Peter. *Social Structure*. 1949.
-- Goody, Jack. *The Character of Kinship*. 1973.
+- Boserup, Ester. *Woman's Role in Economic Development*. 1970.
+- Goody, Jack, ed. *The Character of Kinship*. 1973.
+- Goody, Jack. *Production and Reproduction*. 1976.
 - Comaroff, John L., ed. *The Meaning of Marriage Payments*. 1980.
 - White, Douglas R., and Michael L. Burton. "Causes of Polygyny: Ecology, Economy, Kinship, and Warfare." *American Anthropologist* 90, no. 4 (1988).
 - Bledsoe, Caroline, and Gilles Pison, eds. *Nuptiality in Sub-Saharan Africa: Contemporary Anthropological and Demographic Perspectives*. 1994.

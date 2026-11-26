@@ -30,7 +30,7 @@ Coser left Germany after the Nazi rise to power, lived in Paris, and emigrated t
 - Functions of conflict: building on Georg Simmel, Coser argued that conflict is not always disruptive; it can define group boundaries, reinforce internal cohesion and bring about adaptation.
 - Realistic versus nonrealistic conflict: the former seeks specific goals, while the latter releases tension and is directed at whatever object is at hand.
 - Safety valves and flexibility: societies that tolerate conflict can adjust rather than accumulate pressure.
-- Greedy institutions: organizations such as sects and total institutions that demand exclusive commitment from members.
+- Greedy institutions: groups such as sects that demand exclusive and undivided commitment, relying mainly on voluntary compliance and symbolic boundaries, unlike the physical enclosure of Goffman's total institutions.
 - Sociology of intellectuals and ideas.
 
 ## Major Works
@@ -52,7 +52,7 @@ Coser worked through theoretical synthesis and historical-sociological interpret
 
 ## Influence and Criticism
 
-His work bridged functionalism and conflict theory and was important in textbooks and in the sociology of knowledge. Critics, among them Ralf Dahrendorf, argued that treating conflict through its social functions leaves out its coercive and structural sources, and that his account remains tied to functionalist assumptions of equilibrium.
+His work bridged functionalism and conflict theory and was important in textbooks and in the sociology of knowledge. Critics argued that treating conflict through its social functions underplays its coercive and structural sources, and that his account remains tied to functionalist assumptions of equilibrium. Ralf Dahrendorf's conflict theory, by contrast, centres on authority relations.
 
 ## Sources
 

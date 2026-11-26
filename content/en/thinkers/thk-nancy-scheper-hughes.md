@@ -48,7 +48,7 @@ Methodologically, her most controversial contribution was the call for a "milita
 
 Scheper-Hughes's influence on medical anthropology has been profound. The concept of mortal selective neglect became a standard reference in studies of motherhood, poverty, and infant mortality across cultures, and her work helped to drive international pressure to criminalise organ trafficking and tighten its regulation. Her defence of engaged ethnography reshaped debate about the anthropologist's role as witness and moral actor rather than detached observer.
 
-Her work has also drawn sustained criticism. Other researchers who worked in Brazil, among them Claudia Fonseca, questioned whether the pattern of maternal indifference she described could be generalised to other Brazilian contexts. Her investigative fieldwork on the organ trade, which relied on interviews and sources that were hard to verify independently because of the clandestine nature of the trade, was criticised as closer to investigative journalism than to conventional ethnography — a charge she answered by insisting that a hidden crime requires methods that go beyond the traditional ones. These debates remain unresolved, but they are themselves a measure of her importance: few anthropologists have forced the discipline to confront so directly the question of what ethnography owes to the people it describes.
+Her work has also drawn sustained criticism. Researchers who worked in north-east Brazil, among them Marilyn Nations and L. A. Rebhun, disputed the interpretation of maternal detachment and neglect that she had advanced. Her investigative fieldwork on the organ trade, which relied on interviews and sources that were hard to verify independently because of the clandestine nature of the trade, was criticised as closer to investigative journalism than to conventional ethnography — a charge she answered by insisting that a hidden crime requires methods that go beyond the traditional ones. These debates remain unresolved, but they are themselves a measure of her importance: few anthropologists have forced the discipline to confront so directly the question of what ethnography owes to the people it describes.
 
 ## Sources
 
@@ -57,5 +57,6 @@ Her work has also drawn sustained criticism. Other researchers who worked in Bra
 - Scheper-Hughes, Nancy. "The Primacy of the Ethical: Propositions for a Militant Anthropology." *Current Anthropology* 36, no. 3 (1995): 409–440.
 - Scheper-Hughes, Nancy. "The Global Traffic in Human Organs." *Current Anthropology* 41, no. 2 (2000): 191–224.
 - Scheper-Hughes, Nancy. "The Madness of Hunger: Sickness, Delirium, and Human Needs." *Culture, Medicine and Psychiatry* 12 (1988): 429–458.
+- Nations, Marilyn K., and L. A. Rebhun. "Angels with Wet Wings Won't Fly: Maternal Sentiment in Brazil and the Image of Neglect." *Culture, Medicine and Psychiatry* 12 (1988).
 - Scheper-Hughes, Nancy, and Loïc Wacquant, eds. *Commodifying Bodies*. London: SAGE, 2002.
 - Scheper-Hughes, Nancy, and Philippe Bourgois, eds. *Violence in War and Peace: An Anthology*. Oxford: Blackwell, 2004.

@@ -48,7 +48,9 @@ The concept remains indispensable. Contemporary research applies it to the cultu
 
 ## Sources
 
+- Bourdieu, Pierre. *Distinction: A Social Critique of the Judgement of Taste*. Harvard University Press, 1984.
 - Geertz, Clifford. *The Interpretation of Cultures: Selected Essays*. Basic Books, 1973.
 - Kroeber, Alfred L., and Clyde Kluckhohn. *Culture: A Critical Review of Concepts and Definitions*. Peabody Museum of American Archaeology and Ethnology, 1952.
 - Tylor, Edward Burnett. *Primitive Culture: Researches into the Development of Mythology, Philosophy, Religion, Art, and Custom*. John Murray, 1871.
 - Williams, Raymond. *Culture and Society, 1780–1950*. Chatto and Windus, 1958.
+- Williams, Raymond. *Keywords: A Vocabulary of Culture and Society*. Fontana, 1976.

@@ -12,7 +12,7 @@ active_start: 1900
 active_end: مستمر
 edges: []
 related: []
-gaps:
+gaps: []
 sociological_tradition: other
 sociological_paradigm: micro-macro
 ---
@@ -46,3 +46,4 @@ Generalization has become more contested as sociology has diversified its method
 - Barney G. Glaser and Anselm L. Strauss, *The Discovery of Grounded Theory* (1967)
 - W. S. Robinson, "Ecological Correlations and the Behavior of Individuals," *American Sociological Review* 15 (1950)
 - Bent Flyvbjerg, "Five Misunderstandings About Case-Study Research," *Qualitative Inquiry* (2006)
+- Robert K. Yin, *Case Study Research: Design and Methods* (1984)

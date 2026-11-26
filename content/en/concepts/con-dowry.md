@@ -21,7 +21,7 @@ Dowry is property — money, gold and jewellery, furniture, clothing or land —
 
 ## Definition and Historical Origins
 
-Dowry is an ancient practice, documented in classical Greece and the Roman Empire, in India, and across the Middle East. Dorothy Stein, in her 1988 study of dowry deaths in India, linked the practice to a patriarchal model of property in which a father marries off his daughter and transfers authority over her to her husband's family, the dowry being the material expression of that transfer. In the Indian context, dowry (*dahej*) developed out of a property system in which women did not inherit land; instead of a share of the family estate, a daughter received her portion in the form of a dowry at marriage.
+Dowry is an ancient practice, documented in classical Greece and the Roman Empire, in India, and across the Middle East. Dorothy Stein, in a 1988 article, discussed dowry deaths alongside widow burning in relation to the vulnerable position of daughters in India. In a common patriarchal pattern, a father marries off his daughter and authority over her passes to her husband's family, the dowry accompanying that transfer. In the Indian context, dowry (*dahej*) has often been explained in relation to a property system in which women did not customarily inherit land; instead of a share of the family estate, a daughter received her portion in the form of a dowry at marriage.
 
 Jack Goody and Stanley Tambiah, in *Bridewealth and Dowry* (1973), placed the practice in comparative perspective. They argued that dowry is characteristic of societies with intensive agriculture, private property in land and social stratification — Eurasian societies, broadly — where marriage is a strategy for preserving and transmitting status and property. Bridewealth, by contrast, predominates where land is abundant, labour is scarce and property is held corporately. The contrast explains why dowry and bridewealth rarely coexist in the same system: each belongs to a different organisation of property, labour and inheritance.
 
@@ -37,7 +37,7 @@ First, dowry gives the husband's family economic power over the bride. If a wife
 
 Second, dowry transfers patriarchal control. Before marriage the bride is under the authority of her father and her natal family; after marriage she is under the authority of her husband's family, and the dowry is the mechanism that eases that transfer — the husband, in effect, acquires rights over the wife.
 
-Third, dowry reproduces poverty across generations. A poor family borrows to pay a dowry, the debt prevents investment in education or enterprise, and the next generation inherits both poverty and debt. Barbara Miller argued in *The Endangered Sex* (1981) that dowry is an unbreakable cycle of poverty and exclusion, linked to the neglect of daughters in rural North India: where daughters are an economic burden, families invest less in their health and schooling.
+Third, dowry reproduces poverty across generations. A poor family borrows to pay a dowry, the debt prevents investment in education or enterprise, and the next generation inherits both poverty and debt. Barbara Miller, in *The Endangered Sex* (1981), linked costly dowries to the neglect of daughters in rural North India: where daughters are an economic burden, families invest less in their health and schooling.
 
 ## Dowry-Related Violence and Reform
 
@@ -50,6 +50,6 @@ Resistance takes several forms. Feminist movements campaign against dowry and su
 - Government of India. *Dowry Prohibition Act*. New Delhi, 1961.
 - Goody, Jack, and Stanley J. Tambiah. *Bridewealth and Dowry*. Cambridge: Cambridge University Press, 1973.
 - Miller, Barbara D. *The Endangered Sex: Neglect of Female Children in Rural North India*. Ithaca: Cornell University Press, 1981.
-- Stein, Dorothy. "Burning Widows, Burning Brides: The Rites of Sati in the Context of Dowry Deaths in India." *Pacific Affairs* 61, no. 3 (1988).
+- Stein, Dorothy. "Burning Widows, Burning Brides: The Perils of Daughterhood in India." *Pacific Affairs* 61, no. 3 (1988).
 - Cohen, Sherrill. *The Evolution of Women's Asylums Since 1500: From Refuges for Ex-Prostitutes to Shelters for Battered Women*. New York: Oxford University Press, 1992.
 - Srinivas, M. N. *Some Reflections on Dowry*. New Delhi: Oxford University Press, 1984.

@@ -45,5 +45,5 @@ Social structure remains one of sociology's indispensable concepts. It frames re
 - Robert K. Merton, *Social Theory and Social Structure*, 1949.
 - A. R. Radcliffe-Brown, *Structure and Function in Primitive Society*, 1952.
 - Peter M. Blau, *Exchange and Power in Social Life*, 1964.
-- Pierre Bourdieu, *Outline of a Theory of Practice*, 1972.
+- Pierre Bourdieu, *Outline of a Theory of Practice*, 1972 (French original; English translation 1977).
 - Anthony Giddens, *The Constitution of Society: Outline of the Theory of Structuration*, 1984.

@@ -45,6 +45,7 @@ Quantitative research remains indispensable to public life. Governments rely on 
 ## Sources
 
 - Émile Durkheim, *The Rules of Sociological Method*, 1895.
+- Émile Durkheim, *Le Suicide*, 1897.
 - Paul F. Lazarsfeld, "The Art of Asking Why: Three Principles Underlying the Formulation of Questionnaires", 1935.
 - Samuel A. Stouffer et al., *The American Soldier*, 1949.
 - Hubert M. Blalock, *Social Statistics*, 1960.

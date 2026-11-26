@@ -8,7 +8,7 @@ title: Environmental Sociology
 en: Environmental Sociology
 crumb: Sociology ← Environmental Sociology
 dates: contemporary
-active_start: 1970
+active_start: 1978
 active_end: مستمر
 edges: []
 related: []
@@ -28,13 +28,13 @@ The field covers the social causes of environmental problems: how industrial pro
 
 ## History
 
-Environmental sociology crystallised in the late 1970s, in the wake of the modern environmental movement. William Catton and Riley Dunlap's 1978 article proposed a "new ecological paradigm" to replace the dominant paradigm that treated human societies as exempt from nature. Their 1979 review in the *Annual Review of Sociology* defined the field and set its research agenda. Allan Schnaiberg's *The Environment: From Surplus to Scarcity* developed the treadmill of production theory, arguing that economic growth and environmental degradation are linked by the structure of capitalist production.
+Environmental sociology crystallised in the late 1970s, in the wake of the modern environmental movement. William Catton and Riley Dunlap's 1978 article proposed a "new environmental paradigm", soon renamed the "new ecological paradigm", to replace a dominant outlook that treated human societies as exceptional or exempt from ecological constraints. Their 1979 review in the *Annual Review of Sociology* defined the field and set its research agenda. Allan Schnaiberg's *The Environment: From Surplus to Scarcity* developed the treadmill of production theory, arguing that economic growth and environmental degradation are linked by the structure of capitalist production.
 
 In the 1980s and 1990s, the field expanded rapidly. Ulrich Beck's *Risk Society* argued that modern societies are increasingly organised around the production and management of risks — nuclear accidents, chemical pollution, climate change — that are global, invisible, and unequally distributed. John Bellamy Foster revived Marx's concept of the metabolic rift, arguing that capitalism disrupts the nutrient cycles between town and country and between humanity and nature. Research on environmental justice, pioneered by Robert Bullard, documented the racial and class patterning of hazard exposure in the United States. In 2000, Paul Crutzen and Eugene Stoermer proposed the term Anthropocene for a new geological epoch defined by human impact on the planet, giving the field a powerful framing for its claim that society and nature can no longer be studied apart. The field has since grown to cover climate change, energy transitions, food systems, and the sociology of disasters, with its own journals, sections, and international networks.
 
 ## Key Figures and Ideas
 
-William Catton and Riley Dunlap founded the field by challenging sociology's exemptionalist assumptions and insisting that the environment is a core sociological variable. Their new ecological paradigm remains the field's orienting framework. Allan Schnaiberg supplied its political economy: the treadmill of production explains why growth-oriented economies systematically degrade their environments, and why reforms that do not address the treadmill tend to fail.
+William Catton and Riley Dunlap helped define the field by challenging sociology's exemptionalist assumptions and insisting that the environment is a core sociological variable. Their new ecological paradigm remains the field's orienting framework. Allan Schnaiberg supplied its political economy: the treadmill of production explains why growth-oriented economies systematically degrade their environments, and why reforms that do not address the treadmill tend to fail.
 
 Ulrich Beck shifted attention from pollution as a local nuisance to risk as a defining feature of late modernity, arguing that environmental risks undermine the institutions — science, the state, insurance — that are supposed to manage them. John Bellamy Foster connected environmental sociology to Marxist theory through the metabolic rift, showing how capitalist agriculture and urbanisation break the cycles through which societies return nutrients to the soil. Robert Bullard established environmental justice as a research programme and a movement, documenting that hazardous facilities are disproportionately sited in Black and poor communities. Paul Crutzen's Anthropocene concept, though geological in origin, has become a central reference point for sociologists arguing that human societies are now a planetary force.
 
@@ -54,6 +54,7 @@ Debates continue over the causes of environmental degradation: is capitalism the
 - Dunlap, Riley E., and William R. Catton, Jr. "Environmental Sociology." *Annual Review of Sociology* 5 (1979): 243–273.
 - Schnaiberg, Allan. *The Environment: From Surplus to Scarcity*. 1980.
 - Beck, Ulrich. *Risk Society: Towards a New Modernity*. 1986. English translation, 1992.
+- Bullard, Robert D. *Dumping in Dixie: Race, Class, and Environmental Quality*. 1990.
 - Bell, Michael Mayerfeld. *An Invitation to Environmental Sociology*. 1998.
 - Foster, John Bellamy. *Marx's Ecology: Materialism and Nature*. 2000.
 - Crutzen, Paul J. "Geology of Mankind." *Nature* 415 (2002): 23.

@@ -26,7 +26,7 @@ A branch of the American school that emerged in the late 1950s, led by Ward Good
 
 ## Central Idea
 
-This approach defines culture as "what one needs to know or believe" in order to act in a socially acceptable way and to interpret others' behavior correctly. Culture is thus a cognitive structure of classification and interpretation rules, not merely an observable pattern of behavior. The approach borrows tools from structural linguistics ("componential analysis") to analyze local classification systems (kinship terms, the names of plants, animals, and colors) with formal precision. Its aim is to extract the implicit classification "rules" as the members of the culture understand them from within (the "emic perspective"), rather than as imposed by the researcher from outside (the "etic perspective").
+This approach follows Goodenough in defining culture as "whatever it is one has to know or believe" in order to operate in a manner acceptable to the members of a society. Culture is thus a cognitive structure of classification and interpretation rules, not merely an observable pattern of behavior. The approach borrows tools from structural linguistics ("componential analysis") to analyze local classification systems (kinship terms, the names of plants, animals, and colors) with formal precision. Its aim is to extract the implicit classification "rules" as the members of the culture understand them from within (the "emic perspective"), rather than as imposed by the researcher from outside (the "etic perspective").
 
 ## Method
 
@@ -48,11 +48,11 @@ The approach was later criticized by interpretive anthropology, Clifford Geertz 
 
 ## Emic and Etic Perspectives
 
-The distinction between the emic perspective (from within, in the terms of the culture's own members) and the etic perspective (from outside, in general analytical terms set by the researcher) was a central methodological contribution. Its influence extended far beyond cognitive anthropology itself, becoming a standard tool in all contemporary cultural anthropology. Kenneth Pike, the linguist who originally coined the two terms from phonology (phonemic versus phonetic), used the distinction to describe the difference between understanding a phenomenon as its members understand it in their own categories, and analyzing it with general comparative tools that allow comparison between cultures. This remained a basic methodological tension in all subsequent debates on anthropological method.
+The distinction between the emic perspective (from within, in the terms of the culture's own members) and the etic perspective (from outside, in general analytical terms set by the researcher) was a central methodological contribution. Its influence extended far beyond cognitive anthropology itself, becoming widely used in cultural anthropology. Kenneth Pike, the linguist who coined the two terms by analogy with phonemic and phonetic, used the distinction to describe the difference between understanding a phenomenon as its members understand it in their own categories, and analyzing it with general comparative tools that allow comparison between cultures. This remained a basic methodological tension in all subsequent debates on anthropological method.
 
 ## Continuity of the Field
 
-Despite declining interest in strict componential analysis after the 1970s, cognitive anthropology continued in renewed forms within what is known today as the "new cognitive anthropology." This approach draws on neuroscience and evolutionary psychology to study how shared universal human cognitive structures interact with vast local cultural diversity. It attempts to combine Chomsky's view of universal grammar with Boas's view of radical cultural diversity.
+Despite declining interest in strict componential analysis after the 1970s, cognitive anthropology continued in renewed forms within what is known today as the "new cognitive anthropology." This approach draws on neuroscience and evolutionary psychology to study how shared universal human cognitive structures interact with vast local cultural diversity.
 
 ## Kinship Terminology as a Founding Example
 
@@ -63,4 +63,7 @@ The field's lasting contribution is a reminder that understanding another cultur
 ## Sources
 
 - Goodenough, Ward H. "Cultural Anthropology and Linguistics." *Report of the Seventh Annual Round Table Meeting on Linguistics and Language Study*, Georgetown University Press, 1957, pp. 167–173.
+- Conklin, Harold C. "The Relation of Hanunóo Culture to the Plant World." PhD dissertation, Yale University, 1954.
+- Pike, Kenneth L. *Language in Relation to a Unified Theory of the Structure of Human Behavior*, 1954 onwards.
+- Berlin, Brent, and Paul Kay. *Basic Color Terms: Their Universality and Evolution*. University of California Press, 1969.
 - Tyler, Stephen A. (ed). *Cognitive Anthropology*. Holt, Rinehart and Winston, 1969.

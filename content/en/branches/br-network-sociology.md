@@ -8,7 +8,7 @@ title: Network Sociology
 en: Network Sociology
 crumb: Sociology ← Branches ← Network Sociology
 dates: contemporary
-active_start: 1970
+active_start: 1973
 active_end: مستمر
 edges: []
 related: []
@@ -57,6 +57,7 @@ Current debates concern structure and agency: does network position determine ou
 
 - Moreno, Jacob L. *Who Shall Survive?* Nervous and Mental Disease Publishing, 1934.
 - Granovetter, Mark. "The Strength of Weak Ties." *American Journal of Sociology*, 1973.
+- Wellman, Barry. "The Community Question: The Intimate Networks of East Yorkers." *American Journal of Sociology*, 1979.
 - Wellman, Barry. "Structural Analysis: From Method and Metaphor to Theory and Substance." 1988.
 - Burt, Ronald S. *Structural Holes: The Social Structure of Competition*. Harvard University Press, 1992.
 - Wasserman, Stanley, and Katherine Faust. *Social Network Analysis: Methods and Applications*. Cambridge University Press, 1994.

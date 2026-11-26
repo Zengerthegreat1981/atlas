@@ -6,7 +6,7 @@ part: sociology
 level: متوسط
 title: "Fighting Words: Black Women and the Search for Justice"
 en: Fighting Words
-crumb: "Sociology ← Fighting Back"
+crumb: "Sociology ← Works ← Fighting Words"
 dates: Patricia Hill Collins · 1998
 active_start: 1998
 active_end: مستمر
@@ -17,7 +17,7 @@ gaps:
 ---
 # Fighting Words: Black Women and the Search for Justice
 
-*Fighting Words: Black Women and the Search for Justice* (University of Minnesota Press, 1998) is a book by the American sociologist Patricia Hill Collins. It followed her *Black Feminist Thought: Knowledge, Consciousness, and the Politics of Empowerment* (1990) and continued her work on the relationship between knowledge, power and social justice from the standpoint of African American women. The entry title and file name were originally given as "Fighting Back", but no work of that title by Collins could be identified, and this entry therefore describes the book that matches the attribution.
+*Fighting Words: Black Women and the Search for Justice* (University of Minnesota Press, 1998) is a book by the American sociologist Patricia Hill Collins. It followed her *Black Feminist Thought: Knowledge, Consciousness, and the Politics of Empowerment* (1990) and continued her work on the relationship between knowledge, power and social justice from the standpoint of African American women.
 
 ## Author and Context
 
@@ -25,7 +25,11 @@ Patricia Hill Collins (born 1948) is a sociologist who taught at the University 
 
 ## Themes
 
-The book is generally described as a collection of essays on Black women's intellectual and political work and on the connection between ideas and efforts to achieve social justice. It continues the argument of *Black Feminist Thought* that Black women have produced knowledge from their social location and that this knowledge has often been marginalised in academic and public debate.
+The book is a set of connected essays on Black women's intellectual and political work and on the connection between ideas and efforts to achieve social justice. Its central question is what makes a social theory critical: Collins judges theories not only by their internal sophistication but by whether they help oppressed groups understand and contest injustice. This criterion lets her treat Black feminist thought as a form of critical social theory in its own right, developed under conditions in which Black women have often held an "outsider within" position in academic and other institutions, close enough to observe dominant groups but without full membership.
+
+Collins applies the same test to other bodies of thought, including academic sociology, Afrocentrism and postmodernism, asking both what each offers to Black women and where it falls short. Her treatment of postmodernism, for example, grants the value of deconstructing established categories while questioning whether it provides adequate grounds for collective political action. The book also develops intersectionality, the analysis of race, class, gender and other hierarchies as mutually constructing systems, as a framework for such theory.
+
+The title points to the double character of speech and knowledge in unequal societies: words can be used to injure and subordinate, and they can also be a means of resistance. The book thus continues the argument of *Black Feminist Thought* that Black women have produced knowledge from their social location and that this knowledge has often been marginalised in academic and public debate.
 
 ## Related Works by Collins
 

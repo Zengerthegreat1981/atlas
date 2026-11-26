@@ -28,7 +28,7 @@ The comparative study of ecstasy begins with Mircea Eliade's *Shamanism: Archaic
 
 I. M. Lewis, in *Ecstatic Religion* (1971), recast the subject in social terms. He distinguished two broad patterns. Central, morally approved ecstasy — the shaman's or the prophet's — served the community and reinforced its values. Peripheral ecstasy, by contrast, was associated with people marginal to power: in the spirit-possession cults Lewis studied in Somalia and elsewhere, it was often women, the poor, or the oppressed who were seized by spirits, and their affliction gave them a voice they otherwise lacked. Ecstasy, in Lewis's account, could be a form of protest: the spirit spoke what the person could not say. His work made ecstasy a key concept for the anthropology of power, gender, and resistance.
 
-Gilbert Rouget's *Music and Trance* (1985, English translation of the 1980 French original) added a crucial element: sound. Across the world, music — drumming, chanting, singing — is the principal technology for inducing and shaping ecstasy, and Rouget showed that the relationship is not mechanical. The same rhythm may produce ecstasy in one cultural setting and nothing in another; what matters is the learned association between particular sounds, states, and meanings. Erika Bourguignon's cross-cultural survey, *Possession* (1976), mapped how widespread such states are: in a sample of 488 societies, she found institutionalised forms of altered states of consciousness in roughly ninety per cent of them.
+Gilbert Rouget's *Music and Trance* (1985, English translation of the 1980 French original) added a crucial element: sound. Across the world, music — drumming, chanting, singing — is the principal technology for inducing and shaping ecstasy, and Rouget showed that the relationship is not mechanical. The same rhythm may produce ecstasy in one cultural setting and nothing in another; what matters is the learned association between particular sounds, states, and meanings. Erika Bourguignon's cross-cultural research mapped how widespread such states are: in a sample of 488 societies reported in a 1973 volume she edited, institutionalised forms of altered states of consciousness appeared in roughly ninety per cent of them. Her *Possession* (1976) examined spirit possession comparatively.
 
 ## Key Debates
 
@@ -40,7 +40,7 @@ A third debate concerns the relationship between ecstasy and possession. In ecst
 
 ## Contemporary Relevance
 
-Ecstasy remains central to the anthropology of religion, but it has also moved into new domains. The study of Pentecostalism — the fastest-growing form of Christianity worldwide — has revived Lewis's questions about ecstasy and marginality, since glossolalia, prophecy, and healing are central to Pentecostal worship. The medical anthropology of altered states has examined how ecstasy is managed, pathologised, or treated in clinical settings, and the debate over psychedelic substances has reopened old questions about the relationship between chemically induced states and religious experience.
+Ecstasy remains central to the anthropology of religion, but it has also moved into new domains. The study of Pentecostalism — one of the fastest-growing forms of Christianity worldwide — has revived Lewis's questions about ecstasy and marginality, since glossolalia, prophecy, and healing are central to Pentecostal worship. The medical anthropology of altered states has examined how ecstasy is managed, pathologised, or treated in clinical settings, and the debate over psychedelic substances has reopened old questions about the relationship between chemically induced states and religious experience.
 
 For anthropology, ecstasy is a reminder that human experience is not uniform. The boundaries of the self — where "I" ends and the world begins — are culturally drawn, and ecstasy is the moment when those boundaries are crossed. Studying it teaches us not only about religion, but about the variability of consciousness itself.
 
@@ -48,6 +48,7 @@ For anthropology, ecstasy is a reminder that human experience is not uniform. Th
 
 - Eliade, Mircea. *Shamanism: Archaic Techniques of Ecstasy*. 1964.
 - Lewis, I. M. *Ecstatic Religion: A Study of Shamanism and Spirit Possession*. 1971.
+- Bourguignon, Erika, ed. *Religion, Altered States of Consciousness, and Social Change*. 1973.
 - Bourguignon, Erika. *Possession*. 1976.
 - Rouget, Gilbert. *Music and Trance: A Theory of the Relations between Music and Possession*. 1985.
 - Goodman, Felicitas D. *Ecstasy, Ritual, and Alternate Reality: Religion in a Pluralistic World*. 1988.

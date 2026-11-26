@@ -24,13 +24,13 @@ Marcel Mauss (1872–1950) was a French sociologist and anthropologist, the neph
 
 Mauss was born on 10 May 1872 in Épinal, in the Lorraine region of France, into a cultivated Jewish family committed to the secular Republic and the social sciences. He studied philosophy at Bordeaux under his uncle Émile Durkheim, who was then remaking French sociology, and later studied comparative religion and Sanskrit in Paris. From the founding of *L'Année Sociologique* in the late 1890s he was one of its principal contributors, writing reviews and essays that helped establish sociology as a rigorous comparative science. He was also active in the French socialist and cooperative movements.
 
-Unlike his contemporaries, Mauss built his expertise from published ethnography, missionary reports, and traders' accounts rather than from fieldwork — a methodological choice that both enabled and limited his work. He served in the army during the First World War, and he taught at the École Pratique des Hautes Études and from 1931 held a chair in sociology at the Collège de France. The *Manuel d'ethnographie* (published posthumously in 1947 from his lecture courses) preserves his teaching on ethnographic method. He died in Paris on 10 February 1950, having trained several generations of French anthropologists, including Claude Lévi-Strauss, who edited his posthumous collected essays.
+Unlike his contemporaries, Mauss built his expertise from published ethnography, missionary reports, and traders' accounts rather than from fieldwork — a methodological choice that both enabled and limited his work. He served in the army during the First World War, and he taught at the École Pratique des Hautes Études and from 1931 held a chair in sociology at the Collège de France. The *Manuel d'ethnographie* (published posthumously in 1947 from his lecture courses) preserves his teaching on ethnographic method. He died in Paris on 10 February 1950, having trained a generation of French ethnologists. Claude Lévi-Strauss wrote the introduction to the collection of his essays published in 1950.
 
 ## Key Works
 
 Mauss's most important work is the *Essai sur le don* (1925), published in the *Année Sociologique* (new series, 1923–24) and translated as *The Gift: The Form and Reason for Exchange in Archaic Societies*. In about a hundred pages it analyses gift-giving among Pacific and North American Indigenous peoples, with comparative material from ancient Roman, Indian, and Germanic law, and argues that gifts create obligations — to give, to receive, and to repay — that bind people together more durably than market exchange. Its central cases are the potlatch of the Northwest Coast, described by Franz Boas, and the kula ring of the Trobriand Islands, described by Bronisław Malinowski.
 
-His earlier *Essai sur le sacrifice* (1898), written with Henri Hubert, analysed ritual killing as a mechanism for establishing communication between the sacred and the profane worlds. The posthumous collection *Sociologie et anthropologie* (1950), edited by Lévi-Strauss, gathered his scattered essays, including "Les techniques du corps" (1934) and "Une catégorie de l'esprit humain: la notion de personne, celle de 'moi'" (a 1938 lecture), which argued that personhood is a historically and culturally variable category, not a universal essence.
+His earlier essay on sacrifice (1899), written with Henri Hubert, analysed ritual killing as a mechanism for establishing communication between the sacred and the profane worlds. The collection *Sociologie et anthropologie* (1950), introduced by Lévi-Strauss, gathered his scattered essays, including "Les techniques du corps" (a 1934 lecture) and "Une catégorie de l'esprit humain: la notion de personne, celle de 'moi'" (a 1938 lecture), which argued that personhood is a historically and culturally variable category, not a universal essence.
 
 ## Main Ideas: The Gift and the Total Social Fact
 
@@ -52,10 +52,10 @@ Mauss remains foundational for contemporary economic anthropology, for debates a
 
 ## Sources
 
-- Mauss, Marcel, and Henri Hubert. *Sacrifice: Its Nature and Function*. 1898. Translated by W. D. Halls, University of Chicago Press, 1964.
+- Mauss, Marcel, and Henri Hubert. *Sacrifice: Its Nature and Function*. 1899. Translated by W. D. Halls, University of Chicago Press, 1964.
 - Mauss, Marcel. *Essai sur le don: Forme et raison de l'échange dans les sociétés archaïques*. *L'Année Sociologique*, n.s. 1 (1923–24), published 1925. Translated by W. D. Halls as *The Gift*, W. W. Norton, 1990.
-- Mauss, Marcel. "Les techniques du corps." *Journal de Psychologie* 32, 1934, pp. 271–293.
+- Mauss, Marcel. "Les techniques du corps." *Journal de Psychologie* 32, 1935, pp. 271–293.
 - Mauss, Marcel. *Manuel d'ethnographie*. Payot, 1947.
-- Mauss, Marcel. *Sociologie et anthropologie*. Edited by Claude Lévi-Strauss, Presses Universitaires de France, 1950.
+- Mauss, Marcel. *Sociologie et anthropologie*. Introduction by Claude Lévi-Strauss, Presses Universitaires de France, 1950.
 - Fournier, Marcel. *Marcel Mauss: A Biography*. Princeton University Press, 2006.
 - Weiner, Annette B. *Women of Value, Men of Renown: New Perspectives in Trobriand Exchange*. University of Texas Press, 1976.

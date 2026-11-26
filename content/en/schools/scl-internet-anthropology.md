@@ -30,9 +30,9 @@ The 2000s and 2010s brought the study of virtual worlds and social media. Tom Bo
 
 ## Key Figures and Works
 
-Rheingold (1993) named the virtual community and argued for its social reality. Turkle (1995) showed that online identity is fluid and experimental, and her work became a touchstone for debates about the self in digital life. Hine (2000) gave the field its method, insisting that the internet must be studied ethnographically, as a place where people act, not as a text to be read from outside.
+Rheingold (1993) popularised the idea of the virtual community and argued for its social reality. Turkle (1995) showed that online identity is fluid and experimental, and her work became a touchstone for debates about the self in digital life. Hine (2000) gave the field its method, insisting that the internet must be studied ethnographically, as a place where people act, not as a text to be read from outside.
 
-Miller and Slater (2000) established the field's comparative principle: the internet is always local, shaped by the culture that adopts it. Boellstorff (2008) proved that ethnography could be conducted entirely inside a virtual world and that avatar life is real social life. Horst and Miller (2012) mapped the field's scope, from mobile phones to gaming, and Miller and colleagues (2016) demonstrated the power of comparative, multi-sited ethnography in showing that social media are not one thing but many, used for kinship in one place, for commerce in another, and for politics in a third.
+Miller and Slater (2000) established the field's comparative principle: the internet is always local, shaped by the culture that adopts it. Boellstorff (2008) argued that ethnography could be conducted entirely inside a virtual world and that avatar life is real social life. Horst and Miller (2012) mapped the field's scope, from mobile phones to gaming, and Miller and colleagues (2016) demonstrated the power of comparative, multi-sited ethnography in showing that social media are not one thing but many, used for kinship in one place, for commerce in another, and for politics in a third.
 
 ## Method
 
@@ -54,6 +54,6 @@ The field's influence extends to policy and design. Its findings about how peopl
 - Miller, Daniel, and Don Slater (2000). *The Internet: An Ethnographic Approach*. Oxford: Berg.
 - Boellstorff, Tom (2008). *Coming of Age in Second Life: An Anthropologist Explores the Virtually Human*. Princeton: Princeton University Press.
 - Miller, Daniel (2011). *Tales from Facebook*. Cambridge: Polity Press.
-- Horst, Heather A., and Daniel Miller, eds. (2012). *Digital Anthropology*. London: Bloomsbury.
+- Horst, Heather A., and Daniel Miller, eds. (2012). *Digital Anthropology*. London: Berg.
 - Boellstorff, Tom, Bonnie Nardi, Celia Pearce, and T. L. Taylor (2012). *Ethnography and Virtual Worlds: A Handbook of Method*. Princeton: Princeton University Press.
 - Miller, Daniel, et al. (2016). *How the World Changed Social Media*. London: UCL Press.

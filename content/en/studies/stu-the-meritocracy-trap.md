@@ -28,7 +28,7 @@ The book is a work of synthesis rather than a single field study. Markovits draw
 
 ## Key Findings
 
-Three findings carry the argument. First, meritocratic inequality is driven by education rather than by inherited wealth alone. At the most selective colleges, Markovits notes, drawing on research by Raj Chetty and colleagues, there are now more students from the richest 1 percent of families than from the entire bottom half of the income distribution. Second, the middle class is being squeezed out of the competition. Middle-class families cannot match the scale of investment that affluent families pour into their children's training, and their children are increasingly shut out of the institutions that lead to secure professional careers. Third, the winners suffer too. Elite workers now work extraordinarily long hours in high-pressure jobs, and elite children endure a childhood of relentless preparation — a competition that, in Markovits's account, leaves the affluent exhausted, anxious and estranged from the lives they were supposedly winning.
+Three findings carry the argument. First, meritocratic inequality is driven by education rather than by inherited wealth alone. At the most selective colleges, Markovits notes, drawing on research by Raj Chetty and colleagues, there are more students from the richest 1 percent of families than from the bottom 60 percent of the income distribution. Second, the middle class is being squeezed out of the competition. Middle-class families cannot match the scale of investment that affluent families pour into their children's training, and their children are increasingly shut out of the institutions that lead to secure professional careers. Third, the winners suffer too. Elite workers now work extraordinarily long hours in high-pressure jobs, and elite children endure a childhood of relentless preparation — a competition that, in Markovits's account, leaves the affluent exhausted, anxious and estranged from the lives they were supposedly winning.
 
 Markovits calls this the trap: meritocracy justifies inequality by telling the losers they deserve to lose and the winners they deserve to win, while in practice the contest is rigged by unequal starting points. The ideology is more damaging than the old aristocratic order, he argues, because it makes inequality look legitimate.
 
@@ -42,6 +42,7 @@ The book closes with a programme for escaping the trap. Markovits proposes broad
 
 - Markovits, Daniel (2019). *The Meritocracy Trap: How America's Foundational Myth Feeds Inequality, Dismantles the Middle Class, and Devours the Elite*. Penguin Press.
 - Sandel, Michael J. (2020). *The Tyranny of Merit: What's Become of the Common Good?* Farrar, Straus and Giroux.
+- Chetty, Raj, Friedman, John N., Saez, Emmanuel, Turner, Nicholas, and Yagan, Danny (2017). "Mobility Report Cards: The Role of Colleges in Intergenerational Mobility." NBER Working Paper 23618.
 - Young, Michael (1958). *The Rise of the Meritocracy*. Thames and Hudson.
 - Rivera, Lauren A. (2015). *Pedigree: How Elite Students Get Elite Jobs*. Princeton University Press.
 - Khan, Shamus Rahman (2011). *Privilege: The Making of an Adolescent Elite at St. Paul's School*. Princeton University Press.

@@ -20,7 +20,7 @@ gaps:
 
 ***Structure and Function in Primitive Society*** is a collection of essays by **A. R. Radcliffe-Brown**, published in **1952**, that states the classic programme of British structural-functionalism. Its central claim is that a society can be studied as a system of relations, and that every custom, belief, and institution can be explained by the part it plays in maintaining that system. The book did not present new fieldwork; instead it gathered the theoretical essays Radcliffe-Brown had written over three decades and turned them into a single, systematic doctrine. For a generation of anthropologists it was the textbook of how to think about society.
 
-Radcliffe-Brown (1881–1955) was, with Bronislaw Malinowski, one of the two founders of modern British social anthropology. Where Malinowski explained institutions by the individual needs they satisfied, Radcliffe-Brown explained them by their function in the social system as a whole. The distinction matters: for Malinowski a ritual might satisfy hunger or anxiety; for Radcliffe-Brown it maintained the solidarity of the group. The 1952 collection gathers his most important statements of this position, including the essays "On Joking Relationships" (1940), "On Social Structure" (1940), and "The Mother's Brother in South Africa" (1924), together with his reflections on kinship, totemism, and the comparative method.
+Radcliffe-Brown (1881–1955) was, with Bronislaw Malinowski, one of the two leading founding figures of modern British social anthropology. Where Malinowski explained institutions by the individual needs they satisfied, Radcliffe-Brown explained them by their function in the social system as a whole. The distinction matters: for Malinowski a ritual might satisfy hunger or anxiety; for Radcliffe-Brown it maintained the solidarity of the group. The 1952 collection gathers his most important statements of this position, including the essays "On Joking Relationships" (1940), "On Social Structure" (1940), and "The Mother's Brother in South Africa" (1924), together with his reflections on kinship, totemism, and the comparative method.
 
 ## Structure and Function
 
@@ -48,4 +48,4 @@ The influence of the collection was nevertheless enormous. It influenced the gen
 - Durkheim, Émile. *The Elementary Forms of Religious Life*. George Allen and Unwin, 1915.
 - Malinowski, Bronislaw. *Argonauts of the Western Pacific*. Routledge, 1922.
 - Evans-Pritchard, E. E. *The Nuer: A Description of the Modes of Livelihood and Political Institutions of a Nilotic People*. Clarendon Press, 1940.
-- Kuper, Adam. *Anthropology and Anthropologists: The Modern British School*. Routledge, 1973.
+- Kuper, Adam. *Anthropology and Anthropologists: The Modern British School*. Routledge, 1983.

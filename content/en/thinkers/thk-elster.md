@@ -22,7 +22,7 @@ gaps: []
 
 # Jon Elster
 
-A Norwegian philosopher and sociologist (born 1940), a professor at Columbia University, and one of the leading founders of "analytical sociology" through his emphasis on the importance of precise psychological and rational mechanisms in explaining social action.
+A Norwegian philosopher and sociologist (born 1940), a professor at Columbia University, and an important influence on "analytical sociology" through his emphasis on the importance of precise psychological and rational mechanisms in explaining social action.
 
 ## What He Contributed
 

@@ -35,7 +35,7 @@ Wilson used the term "underclass" for this concentrated disadvantage, and he arg
 
 ## Intellectual Context
 
-Wilson, then a professor at the University of Chicago and later at Harvard University, had argued in *The Declining Significance of Race* (1978) that class had become more important than race in determining the life chances of Blacks in the economic sphere. The book drew criticism, and *The Truly Disadvantaged* elaborated his position and responded to critics. He argued that historical discrimination had produced segregation and concentration, but that later economic shifts best explained the deepening of disadvantage. He also criticised liberals for avoiding discussion of the behaviour and family patterns associated with concentrated poverty, a stance that led to debate about the 1965 Moynihan Report, whose attention to family structure he partly revived but explained in structural terms. In *When Work Disappears* (1996), he extended the argument using survey and ethnographic evidence from Chicago.
+Wilson, then a professor at the University of Chicago and later at Harvard University, had argued in *The Declining Significance of Race* (1978) that class had become more important than race in determining the life chances of Blacks in the economic sphere. The book drew criticism, and *The Truly Disadvantaged* elaborated his position and responded to critics. He argued that historical discrimination had produced segregation and concentration, but that later economic shifts best explained the deepening of disadvantage. He also criticised liberals for avoiding discussion of the behaviour and family patterns associated with concentrated poverty, a reticence he linked to the controversy over the 1965 Moynihan Report, whose concern with family structure he partly revived but explained in structural terms. In *When Work Disappears* (1996), he extended the argument using survey and ethnographic evidence from Chicago.
 
 ## Impact and Critique
 
@@ -46,5 +46,6 @@ The book became one of the most influential works on urban poverty and shaped de
 - Wilson, William Julius. *The Truly Disadvantaged: The Inner City, the Underclass, and Public Policy*. University of Chicago Press, 1987.
 - Wilson, William Julius. *The Declining Significance of Race: Blacks and Changing American Institutions*. University of Chicago Press, 1978.
 - Wilson, William Julius. *When Work Disappears: The World of the New Urban Poor*. Alfred A. Knopf, 1996.
+- Moynihan, Daniel Patrick. *The Negro Family: The Case for National Action*. U.S. Department of Labor, 1965.
 - Kain, John F. "Housing Segregation, Negro Employment, and Metropolitan Decentralization." *Quarterly Journal of Economics* 82, no. 2 (1968): 175–197.
 - Massey, Douglas S., and Nancy A. Denton. *American Apartheid: Segregation and the Making of the Underclass*. Harvard University Press, 1993.

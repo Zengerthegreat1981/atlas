@@ -21,7 +21,7 @@ Colonial psychology is the study of the psychological life of colonialism: how c
 
 ## Origins and Development
 
-The field's founding text is Frantz Fanon's *Black Skin, White Masks* (1952), a study of the psychic injuries of racism in the French colonial world. Fanon, a psychiatrist from Martinique working in Algeria, argued that the Black person is made to experience themselves through the white gaze — to wear a "white mask" over a Black skin — and that this produces a divided self, haunted by inferiority and by the desire for recognition from those who withhold it. In *The Wretched of the Earth* (1961), written during the Algerian war of independence, he extended the analysis to collective psychology, arguing that decolonisation required not only political independence but a psychological unmaking of the colonial self, and that violence — a claim that remains fiercely debated — could be part of that unmaking.
+A founding text of the field is Frantz Fanon's *Black Skin, White Masks* (1952), a study of the psychic injuries of racism in the French colonial world. Fanon, a psychiatrist from Martinique who completed the book while training in France, before moving to Algeria, argued that the Black person is made to experience themselves through the white gaze — to wear a "white mask" over a Black skin — and that this produces a divided self, haunted by inferiority and by the desire for recognition from those who withhold it. In *The Wretched of the Earth* (1961), written during the Algerian war of independence, he extended the analysis to collective psychology, arguing that decolonisation required not only political independence but a psychological unmaking of the colonial self, and that violence — a claim that remains fiercely debated — could be part of that unmaking.
 
 Albert Memmi's *The Colonizer and the Colonized* (1957) offered a complementary portrait of the colonial relationship as a system in which both parties are deformed: the colonised is denied their history and language, while the coloniser, even the well-intentioned one, is trapped in a role that requires domination. Ashis Nandy's *The Intimate Enemy* (1983) deepened the analysis by showing how colonialism worked inside the minds of Indians and Britons alike, and how resistance could take the form of refusing the coloniser's categories rather than merely reversing them. Hussein Abdilahi Bulhan, in *Frantz Fanon and the Psychology of Oppression* (1985), developed Fanon's insights into a framework for understanding oppression across contexts. Edward Said's *Orientalism* (1978), though a work of literary and cultural criticism, supplied a crucial companion argument: that Western knowledge about the East — including psychological knowledge — constructed the colonised as an object to be studied and managed.
 
@@ -39,9 +39,9 @@ Critics raise several cautions. Some argue that the field risks reducing complex
 
 ## Sources
 
-- Frantz Fanon — *Black Skin, White Masks*, Éditions du Seuil, 1952.
+- Frantz Fanon — *Peau noire, masques blancs*, Éditions du Seuil, 1952 (English: *Black Skin, White Masks*).
 - Albert Memmi — *The Colonizer and the Colonized*, 1957.
-- Frantz Fanon — *The Wretched of the Earth*, Grove Press, 1961.
+- Frantz Fanon — *Les damnés de la terre*, Maspero, 1961 (English: *The Wretched of the Earth*, Grove Press, 1963).
 - Edward W. Said — *Orientalism*, Pantheon, 1978.
 - Ashis Nandy — *The Intimate Enemy: Loss and Recovery of Self under Colonialism*, Oxford University Press, 1983.
 - Hussein Abdilahi Bulhan — *Frantz Fanon and the Psychology of Oppression*, Plenum Press, 1985.

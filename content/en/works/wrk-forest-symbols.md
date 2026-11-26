@@ -28,7 +28,7 @@ Victor Turner's *The Forest of Symbols: Aspects of Ndembu Ritual* (Cornell Unive
 
 ## Publication and Context
 
-Turner trained in the Manchester School around Max Gluckman, whose emphasis on conflict and social process shaped his first monograph, *Schism and Continuity in an African Society* (1957). In the 1960s, at Cornell, he turned from village politics to ritual symbolism. *The Forest of Symbols* gathers this work. Its title echoes Baudelaire's line about a "forest of symbols", and Turner treats ritual symbols as the units of the ritual "forest".
+Turner trained in the Manchester School around Max Gluckman, whose emphasis on conflict and social process shaped his first monograph, *Schism and Continuity in an African Society* (1957). In the 1960s, at Cornell, he turned from village politics to ritual symbolism. *The Forest of Symbols* gathers this work. Its title recalls Baudelaire's image of "forests of symbols", and Turner treats ritual symbols as the units of the ritual "forest".
 
 ## Method: Analysing the Ritual Symbol
 
@@ -36,7 +36,7 @@ Turner proposed that a symbol must be studied through three kinds of data: its e
 
 ## Ndembu Examples
 
-The best-known example is the *mudyi* (milk tree), whose white latex is associated with mother's milk, the breast, matriliny and the continuity of Ndembu society; it stands at the centre of the girls' puberty rite *Nkang'a*. Other essays treat colour classification (white, red and black), the *Chihamba* ritual of the "white spirit", ritual specialists such as the diviner and healer Muchona, and Ndembu divination.
+The best-known example is the *mudyi* (milk tree), whose white latex is associated with mother's milk, the breast, matriliny and the continuity of Ndembu society; it stands at the centre of the girls' puberty rite *Nkang'a*. Other essays treat colour classification (white, red and black), the *Mukanda* circumcision rite, hunting ritual, witchcraft and sorcery, healing practice, and the ritual specialist Muchona.
 
 ## Liminality
 

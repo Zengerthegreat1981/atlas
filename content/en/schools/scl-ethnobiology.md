@@ -32,7 +32,7 @@ Ethnobiology was institutionalised in the 1980s. The Society of Ethnobiology was
 
 Conklin (1954) set the ethnographic standard, demonstrating that a small-scale society could possess a botanical knowledge more detailed than that of trained scientists. Berlin, Breedlove, and Raven (1974) and Berlin (1992) supplied the field's main theory of folk classification, arguing for universal cognitive principles in the naming of nature. Daniel Clement's "The Historical Foundations of Ethnobiology (1860–1899)" (1998) traced the field's nineteenth-century origins and the early history of its terms.
 
-Roy Ellen's *The Cultural Relations of Classification* (1993) offered the most sustained critique of Berlin, arguing that classification is shaped by social life, practical needs, and historical change, not only by cognition. Posey's Kayapó research, published through the 1980s, connected ethnobiology to conservation and to the politics of indigenous knowledge. Anderson (1996) brought the field's humanistic dimension to the fore, insisting that ecological knowledge is inseparable from love of place and from the moral order of a community.
+Roy Ellen's *The Cultural Relations of Classification* (1993) offered an important critique of Berlin's universalism, arguing that classification is shaped by social life, practical needs, and historical change, not only by cognition. Posey's Kayapó research, published through the 1980s, connected ethnobiology to conservation and to the politics of indigenous knowledge. Anderson (1996) brought the field's humanistic dimension to the fore, insisting that ecological knowledge is inseparable from love of place and from the moral order of a community.
 
 ## Method
 
@@ -51,6 +51,7 @@ The field also reshaped debates about science itself. By showing that peoples wi
 - Conklin, Harold C. (1954). *The Relation of Hanunóo Culture to the Plant World*. PhD dissertation, Yale University.
 - Berlin, Brent, Dennis E. Breedlove, and Peter H. Raven (1974). *Principles of Tzeltal Plant Classification: An Introduction to the Botanical Ethnography of a Mayan-Speaking People of Highland Chiapas*. New York: Academic Press.
 - Berlin, Brent (1992). *Ethnobiological Classification: Principles of Categorization of Plants and Animals in Traditional Societies*. Princeton: Princeton University Press.
+- Posey, Darrell A. (1985). "Indigenous Management of Tropical Forest Ecosystems: The Case of the Kayapo Indians of the Brazilian Amazon." *Agroforestry Systems* 3(2): 139–158.
 - Ellen, Roy (1993). *The Cultural Relations of Classification: An Analysis of Nuaulu Animal Categories from Central Seram*. Cambridge: Cambridge University Press.
 - Anderson, E. N. (1996). *Ecologies of the Heart: Emotion, Belief, and the Environment*. New York: Oxford University Press.
 - Clement, Daniel (1998). "The Historical Foundations of Ethnobiology (1860–1899)." *Journal of Ethnobiology* 18(2): 161–187.

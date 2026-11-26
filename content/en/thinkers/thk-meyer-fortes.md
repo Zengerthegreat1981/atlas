@@ -18,11 +18,11 @@ gaps:
 
 # Meyer Fortes
 
-Meyer Fortes (1906–1983) was a British social anthropologist and, with E. E. Evans-Pritchard, the founder of modern descent theory. His fieldwork among the Tallensi of northern Ghana produced the classic studies *The Dynamics of Clanship Among the Tallensi* (1945) and *The Web of Kinship Among the Tallensi* (1949), and his model of the segmentary lineage system dominated British anthropology for decades. Fortes was unusual among his contemporaries in combining the structural analysis of kinship with an interest in psychology, arguing that kinship is felt as well as structured — a line of thought that opened the way for the later anthropology of the person.
+Meyer Fortes (1906–1983) was a British social anthropologist and, with E. E. Evans-Pritchard, a principal architect of British descent theory. His fieldwork among the Tallensi of northern Ghana produced the classic studies *The Dynamics of Clanship Among the Tallensi* (1945) and *The Web of Kinship Among the Tallensi* (1949), and his model of the segmentary lineage system dominated British anthropology for decades. Fortes was unusual among his contemporaries in combining the structural analysis of kinship with an interest in psychology, arguing that kinship is felt as well as structured — a line of thought that opened the way for the later anthropology of the person.
 
 ## Life and Career
 
-Fortes was born on 25 April 1906 in Britstown, South Africa, to a Jewish family of Polish origin. He studied psychology at the University of Cape Town before moving to Britain, where he took a doctorate in psychology at University College London in 1930. He then turned to anthropology, studying at the London School of Economics under Charles Seligman and Bronislaw Malinowski and influenced theoretically by A. R. Radcliffe-Brown, and began fieldwork among the Tallensi in 1934.
+Fortes was born on 25 April 1906 in Britstown, South Africa, to a Jewish family. He studied psychology at the University of Cape Town before moving to Britain, where he took a doctorate in psychology at University College London in 1930. He then turned to anthropology, studying at the London School of Economics under Charles Seligman and Bronislaw Malinowski and influenced theoretically by A. R. Radcliffe-Brown, and began fieldwork among the Tallensi in 1934.
 
 He did fieldwork among the Tallensi in the Gold Coast (now Ghana) in 1934–1937, studying a society of farmers organised in patrilineal clans without centralised political authority, and later worked among the Ashanti. His academic career culminated in the William Wyse Professorship of Social Anthropology at the University of Cambridge, which he held from 1950 to 1973. He died in 1983.
 

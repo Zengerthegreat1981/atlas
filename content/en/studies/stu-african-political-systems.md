@@ -10,7 +10,7 @@ ar: الأنظمة السياسية الأفريقية - دراسة إيفانز
 crumb: Anthropology ← Political Anthropology ← Segmentary Lineage Systems
 dates: 1940
 active_start: 1930
-active_end: 1938
+active_end: 1940
 edges: []
 related:
   - id: thk-evans-pritchard
@@ -38,11 +38,11 @@ sources:
 
 ## Publication Context
 
-The volume was published in 1940 by Oxford University Press for the International African Institute. Its contributors, mostly students of Malinowski and Radcliffe-Brown, wrote about societies they had studied in the field in the 1930s: Evans-Pritchard on the Nuer and the Anuak, Fortes on the Tallensi, Isaac Schapera on the Ngwato, Audrey Richards on the Bemba, Max Gluckman on the Zulu, Hilda Kuper on the Swazi, and K. Oberg on the Ankole. Much of this fieldwork took place in territories under British colonial administration, and the editors' preface acknowledged that the study of indigenous political institutions might be of practical value to colonial administrators. Later critics have taken this as a sign of the discipline's entanglement with empire.
+The volume was published in 1940 by Oxford University Press for the International African Institute. Its contributors, several of them trained or influenced by Malinowski or Radcliffe-Brown, wrote about societies they had studied in the field in the 1930s: Max Gluckman on the Zulu, Isaac Schapera on the Ngwato, Audrey Richards on the Bemba, K. Oberg on the Ankole kingdom, S. F. Nadel on the Kede of northern Nigeria, Günter Wagner on the Bantu of Kavirondo, Fortes on the Tallensi, and Evans-Pritchard on the Nuer. Much of this fieldwork took place in territories under British colonial administration, and the editors expressed the hope that the book would be of use to those who administered African peoples. Later critics have taken this as a sign of the discipline's entanglement with empire.
 
 ## Argument
 
-In the introduction, Fortes and Evans-Pritchard divided the societies surveyed into two broad types. In the first, such as the Zulu, Ngwato, Bemba, Ankole, and the Swazi, there were centralized authorities, administrative machinery, and judicial institutions, so that cleavages of wealth, privilege, and status corresponded to the distribution of power. In the second, such as the Nuer and the Tallensi, there was no such government, and order depended on the balance between kinship groups and local communities. The introduction argued that in the second type political relations are expressed in the idiom of kinship and descent, and that the structure of lineages provides a framework for territorial groups. The volume's lasting contribution was to show that the absence of a state was not the absence of political order.
+In the introduction, Fortes and Evans-Pritchard divided the societies surveyed into two broad types. In the first, such as the Zulu, Ngwato, Bemba, Ankole, and Kede, there were centralized authorities, administrative machinery, and judicial institutions, so that cleavages of wealth, privilege, and status corresponded to the distribution of power. In the second, such as the Nuer, the Tallensi, and the Bantu of Kavirondo (notably the Logoli), there was no such government, and order depended on the balance between kinship groups and local communities. The introduction argued that in the second type political relations are expressed in the idiom of kinship and descent, and that the structure of lineages provides a framework for territorial groups. The volume's lasting contribution was to show that the absence of a state was not the absence of political order.
 
 ## The Nuer
 
@@ -59,3 +59,12 @@ The volume helped to define political anthropology as a field and encouraged the
 ## Critique and Contemporary Value
 
 Subsequent scholarship has criticized the volume on several grounds. Its typology treated societies as stable, bounded systems and gave little attention to history, to the effects of colonial rule, or to conflict and change. Marshall Sahlins (1961) argued that segmentary lineage organization was better understood as a means of predatory expansion than as a mechanism of equilibrium, and Adam Kuper (1982) argued that the model of lineage theory was applied more rigidly than the evidence warranted. Feminist and other scholars have noted the volume's limited attention to women's political roles and to everyday political contestation. Despite these critiques, *African Political Systems* remains a foundational text, and its central insight, that order can be sustained by kinship, ritual, and balanced opposition rather than by a state, continues to shape debate in political anthropology.
+
+## Sources
+
+- Fortes, M. & Evans-Pritchard, E. E. (Eds.). (1940). African Political Systems. London: Oxford University Press for the International African Institute.
+- Evans-Pritchard, E. E. (1940). The Nuer: A Description of the Modes of Livelihood and Political Institutions of a Nilotic People. Oxford: Clarendon Press.
+- Fortes, M. (1945). The Dynamics of Clanship among the Tallensi. London: Oxford University Press.
+- Fortes, M. (1949). The Web of Kinship among the Tallensi. London: Oxford University Press.
+- Kuper, A. (1982). Lineage theory: a critical retrospect. Annual Review of Anthropology 11: 71-95.
+- Sahlins, M. D. (1961). The segmentary lineage: an organization of predatory expansion. American Anthropologist 63(2): 322-345.

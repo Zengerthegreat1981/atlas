@@ -29,11 +29,11 @@ In *Knowledge and Social Imagery* (1976), Bloor put forward the "Strong Programm
 
 ## Major Works
 
-Besides *Knowledge and Social Imagery*, Bloor wrote *Wittgenstein: A Social Theory of Knowledge* (1983), *Wittgenstein, Rules and Institutions* (1997) and *Scientific Knowledge: A Sociological Analysis* (1996, with Barry Barnes and John Henry), a synthesis of the sociology of scientific knowledge that sets out the case for the "finitist" and interest-based approach to knowledge. In his 1976 book Bloor also discussed mathematics, drawing on Imre Lakatos's *Proofs and Refutations* and the case of Martin Ohm's views on mathematical rigour, to argue that even mathematical knowledge could be treated sociologically.
+Besides *Knowledge and Social Imagery*, Bloor wrote *Wittgenstein: A Social Theory of Knowledge* (1983), *Wittgenstein, Rules and Institutions* (1997) and *Scientific Knowledge: A Sociological Analysis* (1996, with Barry Barnes and John Henry), a synthesis of the sociology of scientific knowledge that sets out the case for the "finitist" and interest-based approach to knowledge. In his 1976 book Bloor also discussed mathematics, building critically on John Stuart Mill's empiricism and drawing on Imre Lakatos's *Proofs and Refutations* to argue that even mathematical knowledge could be treated sociologically.
 
 ## Impact and Criticism
 
-The Edinburgh programme was one of the founding contributions to the sociology of scientific knowledge and influenced Science and Technology Studies, history and philosophy of science. It also provoked sharp controversy over alleged relativism, including in the "Science Wars" of the 1990s. Critics such as Larry Laudan and the philosopher David Stove argued that the symmetry principle undermines any normative basis for distinguishing sound knowledge from superstition. Bloor defended the programme as a method of causal explanation rather than a denial of scientific truth.
+The Edinburgh programme was one of the founding contributions to the sociology of scientific knowledge and influenced Science and Technology Studies, history and philosophy of science. It also provoked sharp controversy over alleged relativism, including in the "Science Wars" of the 1990s. Critics such as Larry Laudan challenged the programme, and opponents argued that the symmetry principle undermines any normative basis for distinguishing sound knowledge from superstition. Bloor defended the programme as a method of causal explanation rather than a denial of scientific truth.
 
 ## Historical Context
 

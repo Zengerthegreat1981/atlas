@@ -15,7 +15,7 @@ edges: []
 related: []
 gaps: []
 sources:
-  - Malinowski, B. (1922). Argonauts of the Western Pacific: An Account of Native Enterprise and Adventure in the Archipelagoes of Melanesian New Guinea. London: Routledge and Kegan Paul.
+  - Malinowski, B. (1922). Argonauts of the Western Pacific: An Account of Native Enterprise and Adventure in the Archipelagoes of Melanesian New Guinea. London: George Routledge and Sons.
   - Malinowski, B. (1926). Crime and Custom in Savage Society. London: Kegan Paul.
   - Mauss, M. (1925). Essai sur le don. L'Année sociologique, n.s. 1.
   - Weiner, A. B. (1976). Women of Value, Men of Renown: New Perspectives in Trobriand Exchange. Austin: University of Texas Press.
@@ -29,7 +29,7 @@ Bronislaw Malinowski's *Argonauts of the Western Pacific* (1922) is an ethnograp
 
 ## Publication Context
 
-Malinowski, a Polish-born anthropologist who taught at the London School of Economics, travelled to Australia in 1914 and, as a subject of the Austro-Hungarian empire, found himself an enemy alien when the First World War began. Australian authorities nevertheless allowed him to continue fieldwork in Papua. After work among the Mailu in 1914-15, he made two long stays in the Trobriand Islands, from 1915 to 1916 and from 1917 to 1918, living for extended periods in villages and working in the Kilivila language. The book was published in 1922 with a preface by James Frazer. Its subtitle, *An Account of Native Enterprise and Adventure in the Archipelagoes of Melanesian New Guinea*, signals its focus on indigenous economic enterprise. The book became one of the most widely read anthropological monographs and helped establish functionalism and prolonged participant observation as models for the discipline.
+Malinowski, a Polish-born anthropologist then attached to the London School of Economics, where he later taught, travelled to Australia in 1914 and, as a subject of the Austro-Hungarian empire, found himself an enemy alien when the First World War began. Australian authorities nevertheless allowed him to continue fieldwork in Papua. After work among the Mailu in 1914-15, he made two long stays in the Trobriand Islands, from 1915 to 1916 and from 1917 to 1918, living for extended periods in villages and working in the Kilivila language. The book was published in 1922 with a preface by James Frazer. Its subtitle, *An Account of Native Enterprise and Adventure in the Archipelagoes of Melanesian New Guinea*, signals its focus on indigenous economic enterprise. The book became one of the most widely read anthropological monographs and helped establish functionalism and prolonged participant observation as models for the discipline.
 
 ## Research Question and Approach
 
@@ -37,7 +37,7 @@ Malinowski wanted to understand how exchange was organized in a society without 
 
 ## Ethnographic Setting
 
-The Trobriand Islands lie off the south-eastern tip of New Guinea (now part of Papua New Guinea). Their people speak an Austronesian language and practice intensive yam horticulture, along with fishing. Descent is matrilineal, and chiefly rank is important, especially in the north of the main island of Kiriwina. Malinowski worked under the colonial administration of British New Guinea, later the Australian Territory of Papua. He recorded difficulties of fieldwork in his book and in his private diary, which was published posthumously in 1967 and caused controversy for its frank expression of his frustrations.
+The Trobriand Islands lie in the Solomon Sea off the eastern end of New Guinea (now part of Papua New Guinea). Their people speak an Austronesian language and practice intensive yam horticulture, along with fishing. Descent is matrilineal, and chiefly rank is important, especially in the north of the main island of Kiriwina. Malinowski worked under the Australian colonial administration of the Territory of Papua (formerly British New Guinea). He recorded difficulties of fieldwork in his book and in his private diary, which was published posthumously in 1967 and caused controversy for its frank expression of his frustrations.
 
 ## Key Findings
 
@@ -54,3 +54,12 @@ The introduction to *Argonauts* became one of the most quoted statements of ethn
 ## Critique and Contemporary Value
 
 Later scholars have qualified Malinowski's account in several respects. Annette Weiner, who worked in the Trobriands in the 1970s, showed in *Women of Value, Men of Renown* (1976) that women's wealth, especially bundles of banana leaves and fiber skirts, played a major role in mortuary exchanges and in the status of lineages, a domain that Malinowski had largely neglected. Jerry Leach, Edmund Leach, and the other contributors to *The Kula: New Perspectives on Massim Exchange* (1983) described variations in kula practice across the Massim region. Critics have also noted that functionalism tends to understate conflict and change, and that Malinowski gave little attention to the colonial setting in which he worked. Despite these criticisms, *Argonauts* remains a central text in the history of anthropology and a rich source on Trobriand life and the practice of the kula.
+
+## Sources
+
+- Malinowski, B. (1922). *Argonauts of the Western Pacific*. George Routledge and Sons.
+- Malinowski, B. (1926). *Crime and Custom in Savage Society*. Kegan Paul.
+- Mauss, M. (1925). Essai sur le don. *L'Année sociologique*, n.s. 1.
+- Weiner, A. B. (1976). *Women of Value, Men of Renown: New Perspectives in Trobriand Exchange*. University of Texas Press.
+- Leach, J. W. and Leach, E. (eds.) (1983). *The Kula: New Perspectives on Massim Exchange*. Cambridge University Press.
+- Campbell, S. F. (2002). *The Art of Kula*. Berg.

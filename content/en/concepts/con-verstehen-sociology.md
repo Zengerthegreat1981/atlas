@@ -25,7 +25,7 @@ Verstehen sociology is the tradition of interpretive sociology that holds that s
 
 ## Origins and Development
 
-The tradition descends from the nineteenth-century German debate over the human sciences. Wilhelm Dilthey, in his *Introduction to the Human Sciences* (1883), argued that the study of human life requires understanding (*Verstehen*) rather than the causal explanation (*Erklären*) proper to the natural sciences, because human expressions carry meanings that must be interpreted. Max Weber made this the foundation of sociology. In *Economy and Society* (1922), published after his death, he defined sociology as "a science concerning itself with the interpretive understanding of social action and thereby with a causal explanation of its course and consequences," and developed the ideal type as a tool for comparing the meanings that guide action across societies.
+The tradition descends from the nineteenth-century German debate over the human sciences. Wilhelm Dilthey, in his *Introduction to the Human Sciences* (1883) and later writings, argued that the human sciences differ from the natural sciences, and contrasted the understanding (*Verstehen*) of human life, whose expressions carry meanings that must be interpreted, with the causal explanation (*Erklären*) of nature, a contrast he stated pointedly in 1894. Max Weber made this the foundation of sociology. In *Economy and Society* (1922), published after his death, he defined sociology as "a science concerning itself with the interpretive understanding of social action and thereby with a causal explanation of its course and consequences," and developed the ideal type as a tool for comparing the meanings that guide action across societies.
 
 Weber's method was not mere empathy. Interpretive understanding had to be combined with causal analysis: the sociologist constructs a plausible account of the actor's meaning, then tests it against the observed course of events. Weber also insisted on value freedom, arguing in 1917 that while values guide the choice of research problems, the sociologist must not smuggle moral judgements into the analysis itself. Alfred Schutz, in *The Phenomenology of the Social World* (1932), gave the tradition a philosophical foundation, analysing the taken-for-granted stock of knowledge through which actors understand each other in everyday life, and showing how the social world is built up from shared typifications.
 
@@ -44,6 +44,6 @@ Verstehen sociology underpins much of contemporary qualitative research: ethnogr
 - Wilhelm Dilthey, *Introduction to the Human Sciences*, 1883.
 - Max Weber, "The Meaning of 'Ethical Neutrality' in Sociology and Economics," 1917.
 - Max Weber, *Economy and Society*, 1922.
-- Alfred Schutz, *The Phenomenology of the Social World*, 1932.
+- Alfred Schutz, *The Phenomenology of the Social World* (German 1932; English 1967).
 - Peter Winch, *The Idea of a Social Science and Its Relation to Philosophy*, 1958.
 - Clifford Geertz, *The Interpretation of Cultures*, 1973.

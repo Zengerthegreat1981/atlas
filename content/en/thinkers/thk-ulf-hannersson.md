@@ -18,7 +18,7 @@ gaps:
 
 # Ulf Hannerz
 
-Ulf Hannerz (born 1942) is a Swedish anthropologist, professor emeritus of social anthropology at Stockholm University, and one of the founders of the anthropology of globalisation. From an early ethnography of a Black neighbourhood in Washington, D.C., to a study of foreign correspondents around the world, his work has traced a single question: what happens to culture when people, ideas, and images move constantly across borders? His answers — cultural flows, creolisation, cosmopolitans and locals — became the working vocabulary of the anthropology of globalisation and of the study of transnational life.
+Ulf Hannerz (born 1942) is a Swedish anthropologist, professor emeritus of social anthropology at Stockholm University, and a leading figure in the anthropology of globalisation. From an early ethnography of a Black neighbourhood in Washington, D.C., to a study of foreign correspondents around the world, his work has traced a single question: what happens to culture when people, ideas, and images move constantly across borders? His answers — cultural flows, creolisation, cosmopolitans and locals — became the working vocabulary of the anthropology of globalisation and of the study of transnational life.
 
 ## Life and Career
 
@@ -36,7 +36,7 @@ His essay "Cosmopolitans and Locals in World Culture" (1990) became one of the m
 
 Hannerz's central argument is that culture should not be imagined as a set of bounded, homogeneous wholes, each belonging to a nation or a people. Instead, culture moves: it flows across borders through migration, media, trade, and communication, and it is continually recombined in new places. His concept of creolisation — borrowed from the study of Caribbean languages — describes how imported cultural forms are taken up locally, mixed with existing practices, and transformed into something new. The result is not a uniform global culture, nor a set of separate local cultures, but a continuous process of mixing and remaking.
 
-His distinction between centres and peripheries added a political dimension to the model. Global cultural centres — New York, London, Tokyo — export forms and standards on a large scale, while peripheries receive these flows and recombine them locally. But this is not a one-way transmission: local actors select, reinterpret, and resist, so that the flow is always a negotiation rather than an imposition. His earlier work on the Cayman Islands, a small society that became a major offshore financial centre, illustrated how a small place is remade through integration into global networks.
+His distinction between centres and peripheries added a political dimension to the model. Global cultural centres — New York, London, Tokyo — export forms and standards on a large scale, while peripheries receive these flows and recombine them locally. But this is not a one-way transmission: local actors select, reinterpret, and resist, so that the flow is always a negotiation rather than an imposition. His earlier fieldwork in the Cayman Islands, published as *Caymanian Politics* (1974), examined structure and style in the politics of a small island society.
 
 His work on cosmopolitanism asked what kind of person thrives in this world of flows. The cosmopolitan, in Hannerz's account, is not simply a frequent traveller but someone with a willingness to engage with the Other — an openness to cultural difference as a value in itself. The concept became central to debates about globalisation, migration, and identity.
 
@@ -51,6 +51,7 @@ His legacy is a discipline that no longer takes the bounded local community as i
 ## Sources
 
 - Hannerz, Ulf. *Soulside: Inquiries into Ghetto Culture and Community*. Columbia University Press, 1969.
+- Hannerz, Ulf. *Caymanian Politics: Structure and Style in a Changing Island Society*. Stockholm Studies in Social Anthropology, 1974.
 - Hannerz, Ulf. *Exploring the City: Inquiries Toward an Urban Anthropology*. Columbia University Press, 1980.
 - Hannerz, Ulf. "Cosmopolitans and Locals in World Culture." *Theory, Culture & Society* 7(2–3), 1990, pp. 237–251.
 - Hannerz, Ulf. *Cultural Complexity: Studies in the Social Organization of Meaning*. Columbia University Press, 1992.

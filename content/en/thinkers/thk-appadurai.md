@@ -25,7 +25,7 @@ Arjun Appadurai (born 1949) is an Indian-American anthropologist and a leading f
 
 ## Biographical Context
 
-Appadurai was born in Bombay (now Mumbai) in 1949. He studied in India and the United States and received his PhD in anthropology from the University of Chicago in 1976. He taught at the University of Pennsylvania, then at Yale and the University of Chicago, and later at New York University, and served as senior adviser for global initiatives at The New School in New York. He co-founded the journal *Public Culture* and has been involved in research and activism with housing movements of the urban poor in Mumbai. His position as a scholar who moved between India and the American academy shaped his interest in how people elsewhere engage with global processes rather than merely receive them.
+Appadurai was born in Bombay (now Mumbai) in 1949. He studied in India and the United States and received his PhD from the Committee on Social Thought at the University of Chicago in 1976. He taught at the University of Pennsylvania, the University of Chicago, Yale, The New School in New York (where he served as provost and later as senior adviser for global initiatives) and New York University. He co-founded the journal *Public Culture* and has been involved in research and activism with housing movements of the urban poor in Mumbai. His position as a scholar who moved between India and the American academy shaped his interest in how people elsewhere engage with global processes rather than merely receive them.
 
 ## The Five Scapes and the Role of Imagination
 

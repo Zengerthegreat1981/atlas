@@ -43,4 +43,4 @@ The tension remains between the "open data" principle that dominates contemporar
 - Carroll, Stephanie Russo, et al. "The CARE Principles for Indigenous Data Governance." *Data Science Journal* 19, no. 1 (2020).
 - Kukutai, Tahu, and John Taylor, eds. *Indigenous Data Sovereignty: Toward an Agenda*. ANU Press, 2016.
 - Rainie, Stephanie Carroll, et al. "Indigenous Data Sovereignty." In *State of Open Data: Histories and Horizons*. African Minds and IDRC, 2019.
-- Walter, Maggie, and Chris Andersen. *Indigenous Statistics: A Quantitative Research Methodology*. Routledge, 2013.
+- Walter, Maggie, and Chris Andersen. *Indigenous Statistics: A Quantitative Research Methodology*. Left Coast Press, 2013.

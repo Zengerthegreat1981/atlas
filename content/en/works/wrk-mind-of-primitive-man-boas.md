@@ -17,7 +17,7 @@ gaps: []
 
 # The Mind of Primitive Man
 
-*The Mind of Primitive Man* (1911) is Franz Boas's foundational statement of cultural relativism and the book that broke American anthropology from the racial science of the nineteenth century. Based on lectures and essays and published by Macmillan, it argues that there is no hierarchy of human minds: the mental capacities of all peoples are the same, and the differences between societies are historical and cultural, not biological. In a period when scientific racism was mainstream, the book was a deliberate act of intellectual resistance.
+*The Mind of Primitive Man* (1911) is a foundational statement of Franz Boas's position and a major break with the racial science of the nineteenth century. Based on lectures and essays and published by Macmillan, it argues that there is no hierarchy of human minds: the mental capacities of all peoples are the same, and the differences between societies are historical and cultural, not biological. In a period when scientific racism was mainstream, the book was a deliberate act of intellectual resistance.
 
 Boas was a German-born scholar trained in physics and geography who turned to anthropology after fieldwork among the Inuit of Baffin Island in 1883-84, and later worked extensively with the Kwakwaka'wakw (Kwakiutl) and other peoples of the Northwest Coast. He built the anthropology programme at Columbia University and trained the generation — Ruth Benedict, Margaret Mead, Alfred Kroeber, Edward Sapir — that would dominate American anthropology. *The Mind of Primitive Man* distils the argument he had been making in lectures and essays since the 1890s into a single, systematic work.
 
@@ -41,7 +41,7 @@ Boas also takes up the psychology of "primitive" thought, arguing that the reaso
 
 Criticism came from several directions. Later anthropologists found Boas's historical particularism too cautious: by refusing general theory, it left anthropology as a collection of particulars without explanation. His emphasis on culture as a bounded, integrated whole — later developed by Benedict into the "patterns of culture" — has been criticised for underplaying conflict, change, and the internal diversity of societies. And his own data on immigrant head form have been re-examined and qualified by later researchers.
 
-Yet the book's central achievement stands. Before Boas, anthropology provided a scientific vocabulary for ranking peoples; after him, it provided a scientific vocabulary for refusing to. *The Mind of Primitive Man* is the book in which that reversal was argued, in detail and in public, and it remains the founding text of anthropology as a humanistic, anti-racist discipline.
+Yet the book's central achievement stands. Before Boas, anthropology provided a scientific vocabulary for ranking peoples; after him, it provided a scientific vocabulary for refusing to. *The Mind of Primitive Man* is the book in which that reversal was argued, in detail and in public, and it remains a central text of anti-racist anthropology.
 
 ## Sources
 
@@ -51,6 +51,6 @@ Yet the book's central achievement stands. Before Boas, anthropology provided a 
 - Benedict, Ruth. *Patterns of Culture*. Houghton Mifflin, 1934.
 - Sapir, Edward. *Language: An Introduction to the Study of Speech*. Harcourt, Brace, 1921.
 - Kroeber, Alfred L. "The Superorganic." *American Anthropologist*, 1917.
-- Boas, Franz. "Changes in Bodily Form of Descendants of Immigrants." Government Printing Office, 1912.
+- Boas, Franz. *Changes in Bodily Form of Descendants of Immigrants*. Columbia University Press, 1912.
 - Lewis, Herbert S. "The Misrepresentation of Anthropology and Its Consequences." *American Anthropologist*, 1998.
 - Baker, Lee D. *From Savage to Negro: Anthropology and the Construction of Race, 1896–1954*. University of California Press, 1998.

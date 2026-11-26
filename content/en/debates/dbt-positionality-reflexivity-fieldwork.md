@@ -32,7 +32,7 @@ A recent methodological debate about **the anthropologist's own position** and i
 
 ## The Reflexive Position (Reflexive Anthropology)
 
-**Feminists and contemporary anthropologists** said: this is **a falsehood**.
+**Many feminist and reflexive anthropologists** rejected this claim of neutrality.
 
 **Positionality:**
 - You are **not** neutral: you are a woman or a man
@@ -71,7 +71,7 @@ A recent methodological debate about **the anthropologist's own position** and i
 - Some said: reflexivity is dangerous, since it may turn anthropology into **personal memoir**
 - Others said: no, this is **necessary**; ignoring your position means ignoring your power (especially as a woman or someone from the Global South)
 
-**Example:** a researcher studying her own community, as in debates over the "native" anthropologist, occupies a distinctive position: she has knowledge from the inside, but also a personal stake. **Suppressing this would deprive anthropology of strength.**
+**Example:** a researcher studying her own community, as in debates over the "native" anthropologist, occupies a distinctive position: she has knowledge from the inside, but also a personal stake. Reflexive scholars argue that this position should be examined openly rather than suppressed.
 
 ### Third wave: the current balance (2000–present)
 

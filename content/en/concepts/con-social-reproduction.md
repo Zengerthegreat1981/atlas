@@ -26,7 +26,7 @@ The term is used in two closely related senses. In the Marxist sense, it refers 
 
 ## Origins and Development
 
-The concept's roots lie in Marx's account of reproduction, but it was developed into a sociological and anthropological concept in the twentieth century. Pierre Bourdieu and Jean-Claude Passeron's *Reproduction in Education, Society and Culture* (1970) showed how schools reproduce class inequality by rewarding the cultural capital of privileged families while presenting that advantage as individual merit. Samuel Bowles and Herbert Gintis made a parallel argument for the American case in *Schooling in Capitalist America* (1976), arguing that schools socialise children into the discipline and hierarchy of the workplace. Feminist scholars in the 1970s, notably Mariarosa Dalla Costa and Selma James, insisted that the unpaid domestic labour of housewives was productive labour for capital, since it reproduced the workforce at no cost to employers. Laslett and Brenner's synthesis in 1989 brought these strands together, defining social reproduction as a historically variable set of arrangements rather than a timeless function of the family. Since then the concept has been extended to cover the global care economy: migrant domestic workers, nannies, and nurses who sustain households in wealthy countries while their own families are cared for by others at home.
+The concept's roots lie in Marx's account of reproduction, but it was developed into a sociological and anthropological concept in the twentieth century. Pierre Bourdieu and Jean-Claude Passeron's *Reproduction in Education, Society and Culture* (1970; English translation 1977) showed how schools reproduce class inequality by rewarding the cultural capital of privileged families while presenting that advantage as individual merit. Samuel Bowles and Herbert Gintis made a parallel argument for the American case in *Schooling in Capitalist America* (1976), arguing that schools socialise children into the discipline and hierarchy of the workplace. Feminist scholars in the 1970s, notably Mariarosa Dalla Costa and Selma James, insisted that the unpaid domestic labour of housewives was productive labour for capital, since it reproduced the workforce at no cost to employers. Laslett and Brenner's synthesis in 1989 brought these strands together, defining social reproduction as a historically variable set of arrangements rather than a timeless function of the family. Since then the concept has been extended to cover the global care economy: migrant domestic workers, nannies, and nurses who sustain households in wealthy countries while their own families are cared for by others at home.
 
 ## Key Debates
 
@@ -39,7 +39,7 @@ Social reproduction has become a central concept for understanding the crises of
 ## Sources
 
 - Marx, Karl. *Capital*, Volume 1. 1867.
-- Bourdieu, Pierre, and Jean-Claude Passeron. *Reproduction in Education, Society and Culture*. 1970.
+- Bourdieu, Pierre, and Jean-Claude Passeron. *Reproduction in Education, Society and Culture*. 1977. First published in French, 1970.
 - Bowles, Samuel, and Herbert Gintis. *Schooling in Capitalist America*. 1976.
 - Laslett, Barbara, and Johanna Brenner. "Gender and Social Reproduction: Historical Perspectives." *Annual Review of Sociology* 15 (1989).
 - Dalla Costa, Mariarosa, and Selma James. *The Power of Women and the Subversion of the Community*. 1972.

@@ -22,7 +22,7 @@ gaps:
 
 ## Historical Context and Publication
 
-Beauvoir wrote *The Second Sex* in post-war France, a society in which women had only just won the vote, in 1944, and in which the return to domesticity after the war was in full swing. Beauvoir, companion of Jean-Paul Sartre and a central figure of French existentialism, was already known as a novelist and philosopher. The book appeared in two volumes in 1949 and caused an immediate scandal: it was denounced from the pulpit, placed on the Vatican's Index of Prohibited Books, and attacked for its frank discussion of female sexuality, lesbianism, and abortion. The first English translation, by Howard M. Parshley in 1953, was heavily abridged and flawed, shaping Anglophone reception for decades until the unabridged translation by Constance Borde and Sheila Malovany-Chevallier appeared in 2009.
+Beauvoir wrote *The Second Sex* in post-war France, a society in which women had only just won the vote, in 1944, and in which the return to domesticity after the war was in full swing. Beauvoir, companion of Jean-Paul Sartre and a central figure of French existentialism, was already known as a novelist and philosopher. The book appeared in two volumes in 1949 and caused an immediate scandal: it was condemned in Catholic circles, later placed on the Vatican's Index of Prohibited Books, and attacked for its frank discussion of female sexuality, lesbianism, and abortion. The first English translation, by Howard M. Parshley in 1953, was heavily abridged and flawed, shaping Anglophone reception for decades until the unabridged translation by Constance Borde and Sheila Malovany-Chevallier appeared in 2009.
 
 ## Thesis and Core Argument
 
@@ -50,10 +50,10 @@ Critics have engaged with the book from many directions. Margaret Simons and oth
 
 ## Sources
 
-- Beauvoir, Simone de. *The Second Sex*. Paris: Gallimard, 1949. English translation by Constance Borde and Sheila Malovany-Chevallier. New York: Alfred A. Knopf, 2009.
+- Beauvoir, Simone de. *The Second Sex*. Paris: Gallimard, 1949. English translation by Constance Borde and Sheila Malovany-Chevallier. New York: Alfred A. Knopf, 2010.
 - Beauvoir, Simone de. *The Second Sex*. Translated by Howard M. Parshley. New York: Alfred A. Knopf, 1953.
 - Simons, Margaret A. *Beauvoir and The Second Sex: Feminism, Race, and the Origins of Existentialism*. Lanham, MD: Rowman and Littlefield, 1999.
 - Moi, Toril. *What Is a Woman? And Other Essays*. Oxford: Oxford University Press, 1999.
 - Butler, Judith. *Gender Trouble: Feminism and the Subversion of Identity*. New York: Routledge, 1990.
 - Moi, Toril. *Simone de Beauvoir: The Making of an Intellectual Woman*. Oxford: Blackwell, 1994.
-- Sartre, Jean-Paul. *Being and Nothingness*. Paris: Gallimard, 1943.
+- Sartre, Jean-Paul. *L'Être et le néant* (*Being and Nothingness*). Paris: Gallimard, 1943.

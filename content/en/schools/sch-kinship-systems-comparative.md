@@ -28,7 +28,7 @@ A central subfield of social anthropology that analyzes kinship, marriage, and d
 
 ## Historical Context
 
-The roots of the comparative study of kinship go back to the early American anthropologist Lewis Henry Morgan, who in his book *Systems of Consanguinity and Affinity of the Human Family* (1871) produced the first systematic classification of kinship terminology systems across cultures. He distinguished between "classificatory" systems, which group multiple relatives under a single term (such as "father" applied to both the father and the father's brother), and "descriptive" systems, which give each kin relation its own term. In the 1920s and 1930s, Alfred Radcliffe-Brown developed a structural-functional approach to kinship as a mechanism for organizing social rights and obligations. Meyer Fortes and E. E. Evans-Pritchard then developed what became known as "descent theory," which focused on how group membership is transmitted through a single line of descent (patrilineal or matrilineal) in the African societies he studied. Claude Lévi-Strauss made a radical theoretical break in 1949 with *The Elementary Structures of Kinship*. He shifted the focus from descent to alliance, proposing that the basic function of marriage rules (such as the prohibition of incest) is not biological but social: to enforce the exchange of women between groups in order to build social alliances that bind the whole society together. This led to his distinction between "generalized" and "restricted" exchange marriage.
+The roots of the comparative study of kinship go back to the early American anthropologist Lewis Henry Morgan, who in his book *Systems of Consanguinity and Affinity of the Human Family* (1871) produced the first systematic classification of kinship terminology systems across cultures. He distinguished between "classificatory" systems, which group multiple relatives under a single term (such as "father" applied to both the father and the father's brother), and "descriptive" systems, which give each kin relation its own term. In the 1920s and 1930s, Alfred Radcliffe-Brown developed a structural-functional approach to kinship as a mechanism for organizing social rights and obligations. Meyer Fortes and E. E. Evans-Pritchard then developed what became known as "descent theory," which focused on how group membership is transmitted through a single line of descent (patrilineal or matrilineal) in the African societies they studied. Claude Lévi-Strauss made a radical theoretical break in 1949 with *The Elementary Structures of Kinship*. He shifted the focus from descent to alliance, proposing that the basic function of marriage rules (such as the prohibition of incest) is not biological but social: to enforce the exchange of women between groups in order to build social alliances that bind the whole society together. This led to his distinction between "generalized" and "restricted" exchange marriage.
 
 ## Central Ideas and Methods
 
@@ -48,6 +48,9 @@ The traditional Arab kinship system, based on strict patrilineal descent and the
 
 ## Sources
 
+- Morgan, Lewis Henry. *Systems of Consanguinity and Affinity of the Human Family*. Smithsonian Institution, 1871.
+- Granqvist, Hilma. *Marriage Conditions in a Palestinian Village*, 2 vols., 1931–1935.
+- Murphy, Robert F., and Leonard Kasdan. "The Structure of Parallel Cousin Marriage." *American Anthropologist*, 1959.
 - Lévi-Strauss, Claude. *Les Structures élémentaires de la parenté* (The Elementary Structures of Kinship). PUF, 1949.
 - Fortes, Meyer. *Kinship and the Social Order*. Aldine Publishing, 1969.
 - Schneider, David M. *A Critique of the Study of Kinship*. University of Michigan Press, 1984.

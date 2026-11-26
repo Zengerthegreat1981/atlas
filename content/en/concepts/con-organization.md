@@ -34,7 +34,7 @@ Mid-century scholarship complicated this picture. Chester Barnard's *The Functio
 
 ## Key Debates
 
-One enduring debate concerns rationality versus informality. Formalists stress rules, structure, and design; others stress the informal organization — the friendships, shortcuts, and tacit bargains through which work actually gets done. Elton Mayo's Hawthorne studies suggested that attention and group norms mattered as much as formal incentives, and later research confirmed that informal relations can either sustain or sabotage official goals.
+One enduring debate concerns rationality versus informality. Formalists stress rules, structure, and design; others stress the informal organization — the friendships, shortcuts, and tacit bargains through which work actually gets done. Elton Mayo's Hawthorne studies suggested that attention and group norms mattered as much as formal incentives, and later workplace research indicated that informal relations can either sustain or sabotage official goals.
 
 A second debate concerns power. Are organizations neutral tools for achieving goals, or instruments of domination? Critical sociologists argue that hierarchies reproduce class, gender, and racial inequality, concentrating decisions at the top and disciplining those below. Others note that organizations also empower: they allow large-scale cooperation, provide livelihoods and identities, and can be arenas of democratic participation, as in cooperatives and professional associations.
 
@@ -50,5 +50,7 @@ Organizations today face pressures their classical theorists did not anticipate.
 - Max Weber, *Economy and Society* (1922)
 - Chester I. Barnard, *The Functions of the Executive* (1938)
 - Philip Selznick, *TVA and the Grass Roots* (1949)
+- Philip Selznick, *Leadership in Administration* (1957)
 - James G. March and Herbert A. Simon, *Organizations* (1958)
 - Paul J. DiMaggio and Walter W. Powell, "The Iron Cage Revisited: Institutional Isomorphism and Collective Rationality in Organizational Fields" (1983)
+- John W. Meyer and Brian Rowan, "Institutionalized Organizations: Formal Structure as Myth and Ceremony" (1977)

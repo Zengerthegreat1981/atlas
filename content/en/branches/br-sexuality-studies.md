@@ -8,7 +8,7 @@ title: Sexuality Studies
 en: Sexuality Studies
 crumb: Sociology ← Branches ← Sexuality Studies
 dates: contemporary
-active_start: 1970
+active_start: 1948
 active_end: مستمر
 edges: []
 related: []
@@ -56,6 +56,7 @@ Research on sexuality across the life course has shown that sexual activity and 
 ## Sources
 
 - Kinsey, Alfred C., et al. *Sexual Behavior in the Human Male*. Saunders, 1948.
+- Kinsey, Alfred C., et al. *Sexual Behavior in the Human Female*. Saunders, 1953.
 - Gagnon, John H., and William Simon. *Sexual Conduct: The Social Sources of Human Sexuality*. Aldine, 1973.
 - Foucault, Michel. *The History of Sexuality, Volume 1: An Introduction*. 1976.
 - Weeks, Jeffrey. *Coming Out: Homosexual Politics in Britain from the Nineteenth Century to the Present*. Quartet, 1977.

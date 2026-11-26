@@ -58,7 +58,8 @@ Contemporary directions include the anthropology of mental health and the global
 - Hsu, Francis L. K., ed. Psychological Anthropology. Rev. ed. 1972 (first ed. 1961).
 - Levy, Robert I. Tahitians: Mind and Experience in the Society Islands. 1973.
 - Crapanzano, Vincent. The Hamadsha: A Study in Moroccan Ethnopsychiatry. 1973.
-- Whiting, Beatrice B., and John W. M. Whiting. Children of Six Cultures: Studies of Child Rearing. 1975.
+- Whiting, Beatrice B., and John W. M. Whiting. Children of Six Cultures: A Psycho-Cultural Analysis. 1975.
 - Shweder, Richard A., and Robert A. LeVine, eds. Culture Theory: Essays on Mind, Self, and Emotion. 1984.
 - Shweder, Richard A. Thinking Through Cultures: Expeditions in Cultural Psychology. 1991.
+- Wikan, Unni. Managing Turbulent Hearts: A Balinese Formula for Living. 1990.
 - Luhrmann, Tanya M. Of Two Minds: An Anthropologist Looks at American Psychiatry. 2000.

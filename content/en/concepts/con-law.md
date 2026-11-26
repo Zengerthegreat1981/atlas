@@ -34,7 +34,7 @@ One central debate is whether law must be tied to the state. Legal centralists h
 
 ## Contemporary Relevance
 
-Law is more prominent in daily life than ever before. Constitutions, courts, and human rights instruments shape politics in nearly every country, while international tribunals prosecute war crimes and regulate trade. At the same time, most of the world's people still resolve most of their disputes through customary or religious forums rather than state courts. Legal anthropology documents this gap between "law on the books" and "law in action," showing how people navigate, resist, and remake legal systems. Current issues include the recognition of Indigenous law, the reform of criminal justice, the regulation of digital platforms, and the legal response to climate change. Understanding law as a social practice, not merely a set of rules, is essential to understanding how power works in the modern world.
+Law is more prominent in daily life than ever before. Constitutions, courts, and human rights instruments shape politics in nearly every country, while international tribunals prosecute war crimes and regulate trade. At the same time, many of the world's people still resolve many of their disputes through customary or religious forums rather than state courts. Legal anthropology documents this gap between "law on the books" and "law in action," showing how people navigate, resist, and remake legal systems. Current issues include the recognition of Indigenous law, the reform of criminal justice, the regulation of digital platforms, and the legal response to climate change. Understanding law as a social practice, not merely a set of rules, is essential to understanding how power works in the modern world.
 
 ## Sources
 

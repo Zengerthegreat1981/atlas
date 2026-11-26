@@ -32,7 +32,7 @@ Weber, in the part of *Economy and Society* (published posthumously in 1922) kno
 
 ## The Effect of the Debate
 
-The contrast was a founding reference point for the sociology of stratification. Much contemporary class analysis uses hybrid frameworks. Erik Olin Wright, for example, introduced "contradictory class locations" in *Class, Crisis and the State* (1978) and later, in *Classes* (1985), built a framework centred on exploitation that combined Marxian ideas about ownership with Weberian considerations of skills and organisational authority. Whether economic class determines the other dimensions "in the last instance" or is only one dimension among several remains contested.
+The contrast was a founding reference point for the sociology of stratification. Much contemporary class analysis uses hybrid frameworks. Erik Olin Wright, for example, developed the idea of "contradictory class locations", for instance in *Class, Crisis and the State* (1978), and later, in *Classes* (1985), built a framework centred on exploitation that combined Marxian ideas about ownership with Weberian considerations of skills and organisational authority. Whether economic class determines the other dimensions "in the last instance" or is only one dimension among several remains contested.
 
 ## Sources
 
@@ -40,3 +40,4 @@ The contrast was a founding reference point for the sociology of stratification.
 - Weber, Max. *Wirtschaft und Gesellschaft: Grundriss der verstehenden Soziologie*. Mohr (Paul Siebeck), 1922.
 - Gerth, H. H., and C. Wright Mills, eds. *From Max Weber: Essays in Sociology*. Oxford University Press, 1946 (includes "Class, Status, Party").
 - Wright, Erik Olin. *Classes*. Verso, 1985.
+- Wright, Erik Olin. *Class, Crisis and the State*. New Left Books, 1978.

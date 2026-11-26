@@ -45,4 +45,4 @@ The choice between the two approaches is also a choice about what a study can cl
 - Barney G. Glaser and Anselm L. Strauss, *The Discovery of Grounded Theory*, 1967.
 - Alan Bryman, *Quantity and Quality in Social Research*, 1988.
 - John W. Creswell, *Research Design: Qualitative, Quantitative, and Mixed Methods Approaches*, 2003.
-- Norman K. Denzin, *The Research Act: A Theoretical Introduction to Sociological Methods*, 1978.
+- Norman K. Denzin, *The Research Act: A Theoretical Introduction to Sociological Methods*, 1970 (2nd ed. 1978).

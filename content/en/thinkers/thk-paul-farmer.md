@@ -20,7 +20,7 @@ gaps: []
 ---
 # Paul Farmer
 
-An American physician and medical anthropologist (1959–2022), one of the most prominent founders of contemporary **critical medical anthropology**, and the leading popularizer, in medicine and public health, of the concept of **structural violence**, which became a central analytical tool in studies of global health, poverty and disease. Born in Massachusetts, he grew up in relative poverty in Florida (his family lived for a time in a converted bus and later on a boat), then studied medical anthropology at Duke University, and earned both a PhD in anthropology and an MD from Harvard. He died in Rwanda in February 2022, reportedly of an acute cardiac event.
+An American physician and medical anthropologist (1959–2022), a prominent figure in **critical medical anthropology**, and the leading popularizer, in medicine and public health, of the concept of **structural violence**, which became a central analytical tool in studies of global health, poverty and disease. Born in Massachusetts, he grew up in relative poverty in Florida (his family lived for a time in a converted bus and later on a boat), then studied medical anthropology at Duke University, and earned both a PhD in anthropology and an MD from Harvard. He died in Rwanda in February 2022, reportedly of an acute cardiac event.
 
 ## Contributions
 
@@ -77,5 +77,7 @@ Debate has arisen over whether the model of exceptional funding can be available
 - Farmer, Paul. *Pathologies of Power: Health, Human Rights, and the New War on the Poor*. Berkeley: University of California Press, 2003.
 - Farmer, Paul, Jim Yong Kim, Arthur Kleinman, and Matthew Basilico, eds. *Reimagining Global Health: An Introduction*. Berkeley: University of California Press, 2013.
 - Farmer, Paul, et al. "Structural Violence and Clinical Medicine." *PLoS Medicine* 3(10), 2006.
+- Farmer, Paul. *Haiti After the Earthquake*. New York: PublicAffairs, 2011.
+- Farmer, Paul. *Fevers, Feuds, and Diamonds: Ebola and the Ravages of History*. New York: Farrar, Straus and Giroux, 2020.
 - Galtung, Johan. "Violence, Peace, and Peace Research." *Journal of Peace Research* 6(3), 1969.
 - Kidder, Tracy. *Mountains Beyond Mountains: The Quest of Dr. Paul Farmer, a Man Who Would Cure the World*. New York: Random House, 2003.

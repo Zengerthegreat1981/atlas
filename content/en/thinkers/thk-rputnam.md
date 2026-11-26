@@ -33,7 +33,7 @@ An American political scientist (born 1941) who became one of the most cited aut
 - **"Bowling Alone"**: it began as an article in the *Journal of Democracy* in 1995 and became a book in 2000. The central image: Americans were still bowling in growing numbers but had stopped playing in **organized leagues**, so the practice remained while the bond withered. He gathered indicators of a long-term decline in union, party, church and association membership and in home visiting.
 - **The distinction between bonding and bridging capital**: bonding strengthens cohesion within a homogeneous group (the family, the sect, the closed club), while bridging crosses the divides between different groups. This distinction is his most important analytical contribution: it prevents the reading that "all bonding is good," since bonding capital alone may produce insularity and exclusion.
 - **Explaining the decline by generational replacement and television**: he judged that the largest cause is not a change in individuals but a **replacement of generations**. The "long civic generation" shaped by the Depression and the Second World War is passing away, succeeded by a generation raised on individual home entertainment. For him television is a major explanatory variable.
-- **"E Pluribus Unum" (2007)**: a result that troubled him personally. In the short run, ethnic diversity is associated with lower trust, **not only toward those who are different but toward those who are similar as well** ("hunkering down" like a turtle). He delayed publication for years and ran additional analyses before releasing it, while arguing that in the long run societies can build new, broader shared identities that restore trust.
+- **"E Pluribus Unum" (2007)**: a result that troubled him personally. In the short run, ethnic diversity is associated with lower trust, **not only toward those who are different but toward those who are similar as well** ("hunkering down" like a turtle). He ran additional analyses before publishing it, and argued that in the long run societies can build new, broader shared identities that restore trust.
 - **"Our Kids" (2015) and "The Upswing" (2020)**: he moved the question from associations to the **opportunity gap** between children of different classes, and then to a century-long curve running from individualism to collectivism and back (the "I–we–I" curve), co-authored with Shaylyn Romney Garrett.
 
 ## His Place in the Current
@@ -56,7 +56,7 @@ An American political scientist (born 1941) who became one of the most cited aut
 
 - *Making Democracy Work: Civic Traditions in Modern Italy* (1993, with Robert Leonardi and Raffaella Nanetti).
 - *Bowling Alone: The Collapse and Revival of American Community* (2000; originating in the article "Bowling Alone: America's Declining Social Capital" in the *Journal of Democracy*, 1995).
-- *Better Together: Restoring the American Community* (2003, with Lewis Feldstein).
+- *Better Together: Restoring the American Community* (2003, with Lewis M. Feldstein and Don Cohen).
 - *E Pluribus Unum: Diversity and Community in the Twenty-first Century* (an article in *Scandinavian Political Studies*, 2007).
 - *Our Kids: The American Dream in Crisis* (2015).
 - *The Upswing: How America Came Together a Century Ago and How We Can Do It Again* (2020, with Shaylyn Romney Garrett).

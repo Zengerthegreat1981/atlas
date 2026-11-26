@@ -7,7 +7,7 @@ level: متوسط
 title: Ali Shariati
 en: Ali Shariati
 crumb: "Sociology ← Ali Shariati"
-dates: International · 1933-1977
+dates: Iran · 1933-1977
 active_start: 1933
 active_end: 1977
 edges: []
@@ -21,11 +21,11 @@ sociological_paradigm: micro-macro
 ---
 # Ali Shariati
 
-Ali Shariati (1933-1977) was an Iranian sociologist and Islamic thinker whose lectures recast Shi'i Islam as a language of social critique and political mobilization. Trained in sociology and the study of religion in Paris, he became one of the most influential ideological voices of the Iranian opposition in the decade before the 1979 revolution.
+Ali Shariati (1933-1977) was an Iranian sociologist and Islamic thinker whose lectures recast Shi'i Islam as a language of social critique and political mobilization. Educated in Mashhad and Paris, he became one of the most influential ideological voices of the Iranian opposition in the decade before the 1979 revolution.
 
 ## Life and Context
 
-Shariati was born in 1933 in the village of Mazinan in Khorasan province and grew up in Mashhad in a religious family. He studied in Mashhad and Tehran, then went to France on a state scholarship and completed a doctorate in Paris in the early 1960s. In Paris he encountered anti-colonial writing, including Frantz Fanon's work, which he helped to translate into Persian, and studied with scholars such as Louis Massignon and Georges Gurvitch. After returning to Iran he was imprisoned for political reasons, then lectured widely, notably at the Hosseiniyeh Ershad in Tehran. He left Iran in 1977 and died in Southampton, England, that year.
+Shariati was born in 1933 in the village of Mazinan in Khorasan province and grew up in Mashhad in a religious family. He studied in Mashhad and Tehran, then went to France on a state scholarship and completed a doctorate in Paris, in Persian philology, in the early 1960s. In Paris he encountered anti-colonial writing, including Frantz Fanon's work, which he helped introduce to Persian readers, and was exposed to scholars such as Louis Massignon and the sociologist Georges Gurvitch. After returning to Iran in 1964 he was detained for a time. He later lectured widely, notably at the Hosseiniyeh Ershad in Tehran, and was imprisoned again in the 1970s. He left Iran in 1977 and died in Southampton, England, that year.
 
 ## Main Ideas
 
@@ -56,4 +56,4 @@ His writings circulated widely among students and activists in Iran in the 1970s
 
 - Hamid Algar (trans.), Ali Shariati, On the Sociology of Islam (1979)
 - Ervand Abrahamian, Radical Islam: The Iranian Mojahedin (1989)
-- Ali Rahnema (ed.), An Islamic Utopian: A Political Biography of Ali Shari'ati (1998)
+- Ali Rahnema, An Islamic Utopian: A Political Biography of Ali Shari'ati (1998)

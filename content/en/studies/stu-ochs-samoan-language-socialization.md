@@ -29,7 +29,7 @@ gaps: []
 
 # Language Socialization in Samoa
 
-Elinor Ochs (born 1941), a linguistic anthropologist, carried out ethnographic and linguistic fieldwork in a Samoan village in 1978-79. The results appeared in articles and in her monograph *Culture and Language Development: Language Acquisition and Language Socialization in a Samoan Village* (Cambridge University Press, 1988). With Bambi B. Schieffelin, who studied the Kaluli of Papua New Guinea, she developed the approach known as **language socialization**, set out in their influential 1984 chapter and in the edited volume *Language Socialization Across Cultures* (1986).
+Elinor Ochs, a linguistic anthropologist, carried out ethnographic and linguistic fieldwork in a Samoan village in 1978-79. The results appeared in articles and in her monograph *Culture and Language Development: Language Acquisition and Language Socialization in a Samoan Village* (Cambridge University Press, 1988). With Bambi B. Schieffelin, who studied the Kaluli of Papua New Guinea, she developed the approach known as **language socialization**, set out in their influential 1984 chapter and in the edited volume *Language Socialization Across Cultures* (1986).
 
 ## Ethnographic Context
 
@@ -40,18 +40,18 @@ Samoan society (in the village studied, in Upolu) is organized around extended f
 Ochs and Schieffelin argued that studies of acquisition based on middle-class Western families had treated a particular caregiving style as universal. Typical of that style are: caregivers simplify their speech to the child ("baby talk"), treat infants as conversational partners, and expand the child's utterances. In the Samoan village, by contrast, Ochs found that:
 
 - Caregivers did not typically adopt a simplified register for infants or engage them as conversational partners in the first year or so; infants were more often carried and oriented toward the social scene around them.
-- Young children were expected to attend to higher-ranking people and to carry messages ("go and say X to Y"), and corrections were more often to children's way of speaking, in terms of the situation's appropriate register, than to simplified forms.
+- Young children were expected to attend to higher-ranking people and to carry messages ("go and say X to Y"), and when a child's speech was unclear, caregivers tended to ask for repetition or leave it unattended rather than guess at and expand the intended meaning.
 - Children participated in conversation chiefly as bystanders, learning by hearing speech directed at others, and were expected to adopt appropriate ways of speaking with those of different rank.
 
 On this account, language development is intertwined with socialization: children acquire language as they learn how to be competent members of a particular community, and the practices of caregiving reflect cultural ideas about children, status and speech.
 
 ## Wider Significance
 
-The work contributed to the field of linguistic anthropology and to debates about whether child-directed speech is necessary for acquisition. Schieffelin's study of Kaluli children presented a comparable case in which mothers did not address infants as conversational partners but taught them how to speak by modeling utterances. Ochs later studied family discourse, narrative and the sharing of everyday activities in other settings, including middle-class American families and Italian families, and collaborated with Alessandro Duranti on Samoan language and on "context." The language socialization framework has been used widely in studies of bilingualism, schooling and identity.
+The work contributed to the field of linguistic anthropology and to debates about whether child-directed speech is necessary for acquisition. Schieffelin's study of Kaluli children presented a comparable case in which mothers did not address infants as conversational partners but taught them how to speak by modeling utterances. Ochs later studied family discourse, narrative and the sharing of everyday activities in other settings, including middle-class American families and Italian families, and worked in the Samoan research alongside Alessandro Duranti; she also contributed to discussions of language and context. The language socialization framework has been used widely in studies of bilingualism, schooling and identity.
 
 ## Debate
 
-Critics point out that the Samoan and Kaluli findings are specific to the communities studied, that some caregivers in other contexts adjust speech to infants in ways not captured by the Western "model", and that the dichotomy between "child-centred" and "situation-centred" styles may overstate difference. Researchers have also shown that infants in many communities, including Samoan ones, are exposed to a good deal of speech from caregivers. Some of this work holds that universal features of acquisition and cultural variation in caregiving can both be true.
+Critics point out that the Samoan and Kaluli findings are specific to the communities studied, that some caregivers in other contexts adjust speech to infants in ways not captured by the Western "model", and that the dichotomy between "child-centred" and "situation-centred" styles may overstate difference. Researchers have also shown that infants in many communities are exposed to a good deal of speech from caregivers. Some of this work holds that universal features of acquisition and cultural variation in caregiving can both be true.
 
 ## Sources
 

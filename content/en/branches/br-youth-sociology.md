@@ -31,7 +31,7 @@ The modern idea of adolescence was formulated by the psychologist G. Stanley Hal
 
 ## Key Figures and Works
 
-Hall (1904) invented adolescence as a scientific object, even as later sociologists rejected his biological determinism. Mannheim (1928) gave the field its theory of generations. Coleman (1961) mapped the social world of the high school. Willis (1977) showed how class is reproduced through young people's own cultural practices. Hebdige (1979) established the study of subcultural style. Furlong and Cartmel (1997) analysed the lengthening, individualised transitions of late modernity. Wyn and White (1997) reframed youth as a relational and negotiated status. More recently, scholars such as Dan Woodman have studied how young people navigate precarious work and delayed adulthood, and research on digital youth cultures has examined how social media reshapes friendship, identity, and political engagement.
+Hall (1904) did much to establish adolescence as an object of scientific study, even as later sociologists rejected his biological determinism. Mannheim (1928) gave the field its theory of generations. Coleman (1961) mapped the social world of the high school. Willis (1977) showed how class is reproduced through young people's own cultural practices. Hebdige (1979) gave the study of subcultural style a central text. Furlong and Cartmel (1997) analysed the lengthening, individualised transitions of late modernity. Wyn and White (1997) reframed youth as a relational and negotiated status. More recently, scholars such as Dan Woodman have studied how young people navigate precarious work and delayed adulthood, and research on digital youth cultures has examined how social media reshapes friendship, identity, and political engagement.
 
 ## Methods
 

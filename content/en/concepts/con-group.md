@@ -50,3 +50,4 @@ The concept remains indispensable. It now frames research on online communities,
 - Simmel, Georg. "The Web of Group-Affiliations." In *Conflict and The Web of Group-Affiliations*, translated by Reinhard Bendix. Free Press, 1955, pp. 125–195. First published in German in *Soziologie*, 1908.
 - Tajfel, Henri. *Human Groups and Social Categories: Studies in Social Psychology*. Cambridge University Press, 1981.
 - Tuckman, Bruce W. "Developmental Sequence in Small Groups." *Psychological Bulletin*, vol. 63, no. 6, 1965, pp. 384–399.
+- Tuckman, Bruce W., and Mary Ann C. Jensen. "Stages of Small-Group Development Revisited." *Group and Organization Studies*, vol. 2, no. 4, 1977, pp. 419–427.

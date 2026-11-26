@@ -21,7 +21,7 @@ The structure-versus-agency debate asks how much of what people do is determined
 
 ## The Structuralist Pole
 
-The structuralist pole gives explanatory priority to structure. Émile Durkheim's social facts, external and constraining, are its founding image. Talcott Parsons, in *The Structure of Social Action* (1937), built a theory in which action is oriented by internalised norms and by the structure of the social system, so that what an individual does is largely explicable by their position. Structural Marxism and structural functionalism pushed the logic further: individuals are bearers of roles and positions, and the pattern of positions explains the pattern of behaviour. The strength of this pole is its grip on regularity — suicide rates, class mobility, voting patterns — which are stable across changing populations and therefore cannot be explained by individual psychology. Its weakness is that it leaves no room for the moments when people do otherwise, and therefore no convincing account of change.
+The structuralist pole gives explanatory priority to structure. Émile Durkheim's social facts, external and constraining, are its founding image. Talcott Parsons began with a "voluntaristic" theory of action in *The Structure of Social Action* (1937), but his later work, notably *The Social System* (1951), stressed internalised norms and role expectations, and critics read it as explaining conduct largely by position in the system. Structural Marxism and structural functionalism pushed the logic further: individuals are bearers of roles and positions, and the pattern of positions explains the pattern of behaviour. The strength of this pole is its grip on regularity — suicide rates, class mobility, voting patterns — which are stable across changing populations and therefore cannot be explained by individual psychology. Its weakness is that it leaves no room for the moments when people do otherwise, and therefore no convincing account of change.
 
 ## The Agency Pole
 
@@ -42,6 +42,8 @@ The debate is now conducted largely through these syntheses rather than through 
 ## Sources
 
 - Talcott Parsons, *The Structure of Social Action*, 1937.
+- Talcott Parsons, *The Social System*, 1951.
+- Anthony Giddens, *Central Problems in Social Theory*, 1979.
 - Pierre Bourdieu, *Outline of a Theory of Practice*, 1977.
 - Anthony Giddens, *The Constitution of Society: Outline of the Theory of Structuration*, 1984.
 - William H. Sewell Jr., "A Theory of Structure: Duality, Agency, and Transformation", *American Journal of Sociology*, 1992.

@@ -24,7 +24,7 @@ Ethnoastronomy is the anthropological study of how peoples understand the sky: t
 
 The field grew out of two older traditions. The first was archaeoastronomy, the study of the astronomical alignments of ancient monuments. Gerald Hawkins's *Stonehenge Decoded* (1965) argued that Stonehenge functioned as a prehistoric observatory, and Alexander Thom's *Megalithic Sites in Britain* (1967) claimed that Neolithic builders used precise astronomical alignments. These claims were controversial, but they established that ancient peoples watched the sky carefully and built accordingly.
 
-The second tradition was the ethnography of sky knowledge. Anthony Aveni's *Skywatchers of Ancient Mexico* (1980) showed that Maya and Aztec astronomy was a sophisticated system of observation tied to calendars, agriculture, and kingship, not a primitive curiosity. Aveni became the field's central figure, and his later *Skywatchers* (2001) remains the standard synthesis. In the 1980s and 1990s, ethnoastronomy emerged as a distinct enterprise, concerned less with ancient monuments than with living knowledge: how contemporary peoples name the stars, predict the seasons, and navigate by the sky. Von Del Chamberlain's study of Pawnee cosmology, *When Stars Came Down to Earth* (1982), and Stephen Fabian's *Space-Time of the Bororo of Brazil* (1992) were landmarks of this ethnographic turn. The *Handbook of Archaeoastronomy and Ethnoastronomy* (2015), edited by Clive Ruggles, consolidated the field's methods and findings.
+The second tradition was the ethnography of sky knowledge. Anthony Aveni's *Skywatchers of Ancient Mexico* (1980) showed that Maya and Aztec astronomy was a sophisticated system of observation tied to calendars, agriculture, and kingship, not a primitive curiosity. Aveni became a central figure in the field, and the revised edition of the book, *Skywatchers* (2001), remains a standard synthesis. In the 1980s and 1990s, ethnoastronomy emerged as a distinct enterprise, concerned less with ancient monuments than with living knowledge: how contemporary peoples name the stars, predict the seasons, and navigate by the sky. Von Del Chamberlain's study of Pawnee cosmology, *When Stars Came Down to Earth* (1982), and Stephen Fabian's *Space-Time of the Bororo of Brazil* (1992) were landmarks of this ethnographic turn. The *Handbook of Archaeoastronomy and Ethnoastronomy* (2015), edited by Clive Ruggles, consolidated the field's methods and findings.
 
 ## Key Figures and Works
 
@@ -40,7 +40,7 @@ The method demands caution. A single alignment proves little, and the field has 
 
 ## Influence and Legacy
 
-Ethnoastronomy transformed the study of ancient knowledge. It showed that peoples without writing or telescopes could possess precise and systematic astronomy, and that this knowledge was inseparable from religion, politics, and subsistence. It contributed to the recognition of indigenous knowledge systems in heritage policy, notably in the UNESCO recognition of astronomical heritage sites, and it gave archaeologists a way to read monuments as instruments rather than as mere structures.
+Ethnoastronomy transformed the study of ancient knowledge. It showed that peoples without writing or telescopes could possess precise and systematic astronomy, and that this knowledge was inseparable from religion, politics, and subsistence. It contributed to the recognition of indigenous knowledge systems in heritage policy, for example through UNESCO's Astronomy and World Heritage initiative, and it gave archaeologists a way to read monuments as instruments rather than as mere structures.
 
 The field also speaks to contemporary concerns. Indigenous star knowledge is now recognised as an endangered heritage, threatened by light pollution and the loss of languages, and ethnoastronomers work with communities to record it. At the same time, the field's findings challenge the idea that science belongs only to modernity: the sky watchers of the Maya, the Pawnee, and the Bororo were observers, measurers, and theorists in their own right, and ethnoastronomy is the record of their science.
 
@@ -52,6 +52,6 @@ The field also speaks to contemporary concerns. Indigenous star knowledge is now
 - Chamberlain, Von Del (1982). *When Stars Came Down to Earth: Cosmology of the Skidi Pawnee Indians of North America*. Los Altos: Ballena Press.
 - Fabian, Stephen M. (1992). *Space-Time of the Bororo of Brazil*. Gainesville: University Press of Florida.
 - Ruggles, Clive L. N. (1999). *Astronomy in Prehistoric Britain and Ireland*. New Haven: Yale University Press.
-- Aveni, Anthony F. (2001). *Skywatchers*. Revised edition. Austin: University of Texas Press.
+- Aveni, Anthony F. (2001). *Skywatchers* (revised edition of *Skywatchers of Ancient Mexico*). Austin: University of Texas Press.
 - Kelley, David H., and Eugene F. Milone (2011). *Exploring Ancient Skies: A Survey of Ancient and Cultural Astronomy*. 2nd edition. New York: Springer.
 - Ruggles, Clive L. N., ed. (2015). *Handbook of Archaeoastronomy and Ethnoastronomy*. New York: Springer.

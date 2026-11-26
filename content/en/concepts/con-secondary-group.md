@@ -26,7 +26,7 @@ The concept is defined in contrast to the primary group — the family, the circ
 
 ## Origins and Development
 
-The concept of the primary group was introduced by Charles Horton Cooley in *Social Organization* (1909); its counterpart, the secondary group, became a standard label among later sociologists for the larger, more formal associations that Cooley contrasted with it. Cooley observed that in small, intimate groups — above all the family and the neighbourhood play group — the individual develops a sense of self, a "looking-glass self" formed through the imagined judgements of others. Secondary groups, by contrast, are the larger associations of modern life, held together by interest rather than intimacy. The distinction gave sociology a vocabulary for describing what modernisation had done to social life: as societies grew larger and more complex, secondary relations multiplied.
+The concept of the primary group was introduced by Charles Horton Cooley in *Social Organization* (1909); its counterpart, the secondary group, became a standard label among later sociologists for the larger, more formal associations that Cooley contrasted with it. Cooley observed that in small, intimate groups — above all the family and the neighbourhood play group — the individual develops a sense of self, a "looking-glass self" (a term from his 1902 *Human Nature and the Social Order*) formed through the imagined judgements of others. Secondary groups, by contrast, are the larger associations of modern life, held together by interest rather than intimacy. The distinction gave sociology a vocabulary for describing what modernisation had done to social life: as societies grew larger and more complex, secondary relations multiplied.
 
 Cooley's distinction built on an earlier contrast drawn by Ferdinand Tönnies in *Gemeinschaft und Gesellschaft* (1887). Tönnies distinguished community (*Gemeinschaft*), bound by natural will, kinship, and custom, from association (*Gesellschaft*), bound by rational will, contract, and self-interest. The secondary group is the sociological heir of *Gesellschaft*: the form of association characteristic of urban, industrial, bureaucratic society.
 
@@ -47,6 +47,7 @@ Secondary groups dominate contemporary social life, and their study has taken on
 ## Sources
 
 - Ferdinand Tönnies, *Gemeinschaft und Gesellschaft*, 1887.
+- Charles Horton Cooley, *Human Nature and the Social Order*, 1902.
 - Charles Horton Cooley, *Social Organization: A Study of the Larger Mind*, 1909.
 - Louis Wirth, "Urbanism as a Way of Life", 1938.
 - Talcott Parsons, *The Social System*, 1951.

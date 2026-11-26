@@ -48,7 +48,7 @@ Institutional ethnography starts from people's actual experience in a setting, t
 
 ## Influence and Criticism
 
-Smith's approach has been applied widely in nursing, education, social work and policy research. Critics, including Black feminist and postmodern scholars, argued that a single "women's standpoint" risks overlooking differences of race, class and sexuality, and some say the method lacks clear rules of evidence. She later acknowledged the importance of such differences.
+Smith's approach has been applied widely in nursing, education, social work and policy research. Critics, including Black feminist and postmodern scholars, argued that a single "women's standpoint" risks overlooking differences of race, class and sexuality, and some say the method lacks clear rules of evidence.
 
 ## Sources
 

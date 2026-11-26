@@ -20,13 +20,13 @@ gaps: []
 
 # E.E. Evans-Pritchard: Segmentary Systems and Nuer Ethnography
 
-Edward Evan Evans-Pritchard (1902–1973), commonly known as E.E. Evans-Pritchard or EEP, helped establish political anthropology as a distinct field through his groundbreaking ethnography of the Nuer people of South Sudan. His *The Nuer* (1940) and *Nuer Religion* (1956) demonstrated that societies lacking centralized government and formal political institutions nonetheless possessed sophisticated mechanisms for maintaining political order through **segmentary lineage systems**—hierarchical descent groups that could fragment into smaller units for local affairs or unite into larger coalitions for common defense. His analysis revealed that political organization was not a property of formal institutions but of kinship structures and collective action. His work on witchcraft, prophecy, and religious concepts challenged functionalist assumptions that beliefs served only to maintain social cohesion, demonstrating instead the intellectual sophistication and moral complexity of non-Western thought. His methodological commitment to sustained, intimate fieldwork knowledge set standards for British anthropology and his theoretical work spanned kinship, politics, religion, and anthropological theory itself.
+Edward Evan Evans-Pritchard (1902–1973), commonly known as E.E. Evans-Pritchard or EEP, helped establish political anthropology as a distinct field through his ethnography of the Nuer people of South Sudan. His *The Nuer* (1940) and *Nuer Religion* (1956) demonstrated that societies lacking centralized government and formal political institutions nonetheless possessed sophisticated mechanisms for maintaining political order through **segmentary lineage systems**—hierarchical descent groups that could fragment into smaller units for local affairs or unite into larger coalitions for common defense. His analysis revealed that political organization was not a property of formal institutions but of kinship structures and collective action. His work on witchcraft, prophecy, and religious concepts challenged functionalist assumptions that beliefs served only to maintain social cohesion, demonstrating instead the intellectual sophistication and moral complexity of non-Western thought. His methodological commitment to sustained, intimate fieldwork knowledge set standards for British anthropology and his theoretical work spanned kinship, politics, religion, and anthropological theory itself.
 
 ## Biographical Context and Intellectual Formation
 
 Edward Evan Evans-Pritchard was born in Crowborough, Sussex, England, in 1902. He studied modern history at Exeter College, Oxford, then became a graduate student in anthropology at the London School of Economics, studying under Charles Seligman and Bronislaw Malinowski. He conducted fieldwork among the Azande of Sudan in several expeditions between 1926 and 1930, and among the Nuer in short periods between 1930 and 1936, as well as among the Anuak. These fieldwork periods in Sudan generated the empirical foundations for his theoretical innovations. During the Second World War he served in Africa and the Middle East and later did research on the Sanusi order of Cyrenaica (Libya).
 
-After fieldwork, Evans-Pritchard taught at Cairo and Oxford, and from 1946 to 1970 he was Professor of Social Anthropology at Oxford. He converted to Catholicism in 1944 and was knighted in 1971. His intellectual formation combined training in history with the functionalism of Malinowski and the structural approach of Radcliffe-Brown, both of which he built upon and later criticised, arguing that anthropology belongs closer to history and the humanities than to natural science.
+Evans-Pritchard taught at the London School of Economics, Cairo, Cambridge, and Oxford, and from 1946 to 1970 he was Professor of Social Anthropology at Oxford. He converted to Catholicism in 1944 and was knighted in 1971. His intellectual formation combined training in history with the functionalism of Malinowski and the structural approach of Radcliffe-Brown, both of which he built upon and later criticised, arguing that anthropology belongs closer to history and the humanities than to natural science.
 
 ## Methodological Innovations: Intensive Fieldwork and Political Analysis
 
@@ -44,7 +44,7 @@ Evans-Pritchard's publications established new standards for anthropological ana
 
 - **Witchcraft, Oracles and Magic among the Azande** (1937) — Earlier work on Azande people demonstrating how witchcraft accusations operate rationally within Azande frameworks, treating Azande thought on its own terms rather than dismissing it as superstition.
 
-- **The Political System of the Anuak of the Anglo-Egyptian Sudan** (1940) — Comparative analysis of another Nilotic people's political organization.
+- **The Political System of the Anuak of the Anglo-Egyptian Sudan** (1940) — A study of another Nilotic people's political organization.
 
 - **African Political Systems** (1940, co-edited with Meyer Fortes) — Edited collection establishing comparative political anthropology as a field, analyzing diverse African political systems through common analytical frameworks.
 
@@ -66,7 +66,7 @@ His fieldwork methodology emphasized that detailed knowledge of a people require
 
 Evans-Pritchard's epistemological contribution demonstrated that political organization could be analyzed in stateless societies where authority was distributed rather than centralized. This insight opened new domains for anthropological analysis. Rather than limiting political anthropology to societies with formal government, it could examine how societies maintained order, resolved conflicts, and mobilized collective action without state structures.
 
-His segmentary lineage framework suggested that kinship—how people were categorized as relatives—was foundational to political organization. The hierarchy of descent groups created nested levels of organization: individuals belonged to households, households to clans, clans to tribal sections, sections to tribes. People mobilized at whichever level was relevant to a particular dispute or defense.
+His segmentary lineage framework suggested that kinship—how people were categorized as relatives—was foundational to political organization. Nuer tribes were divided into primary, secondary, and tertiary territorial sections, while clans were divided into maximal, major, minor, and minimal lineages; the two nested orders were linked but distinct. People mobilized at whichever level was relevant to a particular dispute or defense.
 
 This framework proved extraordinarily influential, shaping political anthropology and comparative analysis of kinship systems. It suggested that anthropologists could identify structural principles organizing diverse political systems.
 
@@ -84,7 +84,7 @@ However, Evans-Pritchard's influence has been profound. His frameworks continue 
 
 ## Postcolonial Positioning and Colonial Contexts
 
-Evans-Pritchard's fieldwork occurred during British colonial rule in Sudan. His research was conducted in contexts where colonial administration was establishing itself among the Nuer and other groups. The ways his fieldwork depended on and shaped colonial knowledge are complex and worthy of critical examination.
+Evans-Pritchard's fieldwork occurred during British colonial rule in Sudan; the Nuer research was undertaken at the request of the Anglo-Egyptian government, soon after its military campaigns against the Nuer. His research was conducted in contexts where colonial administration was establishing itself among the Nuer and other groups. The ways his fieldwork depended on and shaped colonial knowledge are complex and worthy of critical examination.
 
 However, his commitment to understanding Nuer people on their own terms, to learning their language, and to taking their thought seriously provides intellectual resources for respectful engagement with indigenous knowledge systems. His principle that outsiders must invest effort in understanding others' frameworks remains valuable even as we critically examine colonial contexts.
 
@@ -108,8 +108,9 @@ Contemporary anthropologists studying politics, kinship, and religion often buil
 
 - Evans-Pritchard, E.E. *The Nuer: A Description of the Modes of Livelihood and Political Institutions of a Nilotic People*. Oxford University Press, 1940.
 - Evans-Pritchard, E.E. *Nuer Religion*. Oxford University Press, 1956.
-- Evans-Pritchard, E.E. *Witchcraft, Oracles and Magic among the Azande*. Oxford University Press, 1937.
+- Evans-Pritchard, E.E. *Witchcraft, Oracles and Magic among the Azande*. Clarendon Press, 1937.
 - Evans-Pritchard, E.E. & Meyer Fortes (eds.). *African Political Systems*. Oxford University Press, 1940.
 - Evans-Pritchard, E.E. *Kinship and Marriage among the Nuer*. Oxford University Press, 1951.
+- Evans-Pritchard, E.E. *The Sanusi of Cyrenaica*. Clarendon Press, 1949.
 - Douglas, Mary. *Edward Evans-Pritchard*. Viking Press, 1980.
 

@@ -9,7 +9,7 @@ en: Asylums
 crumb: "Sociology ← Works ← Asylums"
 dates: Erving Goffman · 1961
 active_start: 1961
-active_end: مستمر
+active_end: 1961
 edges: []
 related: []
 gaps: []
@@ -25,7 +25,7 @@ The opening essay, "On the Characteristics of Total Institutions," supplies the 
 
 ## The Moral Career and the Underlife
 
-The second essay, "The Moral Career of the Mental Patient," traces the career of the inmate from his pre-patient phase — the experience of being betrayed by family and community into hospitalisation — through admission and ward life to release. Goffman argues that the psychiatric career is a social process before it is a medical one: the patient's biography is rewritten in the case record so that his past appears as a series of symptoms leading inevitably to the present, and his behaviour on the ward is read as evidence of illness rather than as a response to confinement. The third essay, "The Underlife of a Public Institution," studies the secondary adjustments through which inmates reclaim a measure of self: the hidden economies, the favours and contraband, the private places, the small acts of defiance and withdrawal. The underlife is not merely resistance; it is the inmate's way of keeping a self alive inside an institution designed to dismantle it. The final essay, "The Medical Model and Mental Hospitalization," is the most polemical: Goffman argues that the hospital's claim to be a medical institution is largely a fiction, since the psychiatrist's service is to the institution rather than to the patient, and the medical model serves to legitimate custody.
+The second essay, "The Moral Career of the Mental Patient," traces the career of the inmate from his pre-patient phase — the experience of being betrayed by family and community into hospitalisation — through admission and ward life to release. Goffman argues that the psychiatric career is a social process before it is a medical one: the patient's biography is rewritten in the case record so that his past appears as a series of symptoms leading inevitably to the present, and his behaviour on the ward is read as evidence of illness rather than as a response to confinement. The third essay, "The Underlife of a Public Institution," studies the secondary adjustments through which inmates reclaim a measure of self: the hidden economies, the favours and contraband, the private places, the small acts of defiance and withdrawal. The underlife is not merely resistance; it is the inmate's way of keeping a self alive inside an institution designed to dismantle it. The final essay, "The Medical Model and Mental Hospitalization," is the most polemical: Goffman argues that the hospital's claim to be a medical institution is largely a fiction, since the service model of expert repair fits mental hospitalisation poorly, since the psychiatrist's obligations to the institution conflict with those to the patient, and medical language can serve to legitimate custody.
 
 ## Method, Reception, and Influence
 

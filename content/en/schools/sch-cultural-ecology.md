@@ -34,7 +34,7 @@ Steward, *Theory of Culture Change* (1955): in it he formulated the method and a
 
 ## Impact
 
-This orientation paved the way for the emergence of "cultural materialism" in the work of Steward's student Marvin Harris, and for "neo-evolutionism" in the work of Elman Service and Marshall Sahlins. It established an ecological-economic tradition that remained influential in American anthropology until the late twentieth century.
+This orientation paved the way for the emergence of "cultural materialism" in the work of Marvin Harris, who was influenced by Steward, and for "neo-evolutionism" in the work of Elman Service and Marshall Sahlins. It established an ecological-economic tradition that remained influential in American anthropology until the late twentieth century.
 
 ## Detailed Examples
 
@@ -42,11 +42,11 @@ Steward applied his method in detail to the Shoshone societies of the Great Basi
 
 ## Later Development: Neo-Evolutionism
 
-In their co-authored book *Evolution and Culture* (1960), Elman Service and Marshall Sahlins drew an important distinction between "general evolution" (the overall trend toward increasing complexity of human social systems over history) and "specific evolution" (the diverse adaptive paths of each particular society within its specific environment). They sought to reconcile Steward's relativist vision with the need for a general evolutionary model that does not fall into the pitfalls of the older classical unilinear evolutionism. Their "general evolution" drew on the earlier work of Leslie White (*The Science of Culture*, 1949), who held that cultural evolution is measured by the amount of energy harnessed per capita per year, a more strictly universal scheme than Steward's multilinear one.
+*Evolution and Culture* (1960), a volume edited by Marshall Sahlins and Elman Service, drew an important distinction between "general evolution" (the overall trend toward increasing complexity of human social systems over history) and "specific evolution" (the diverse adaptive paths of each particular society within its specific environment). The aim was to reconcile Steward's multilinear vision with the need for a general evolutionary model that does not fall into the pitfalls of the older classical unilinear evolutionism. The idea of "general evolution" drew on the earlier work of Leslie White (*The Science of Culture*, 1949), who held that cultural evolution is measured by the amount of energy harnessed per capita per year, a more strictly universal scheme than Steward's multilinear one.
 
 ## Institutional Context
 
-Julian Steward worked at the Bureau of American Ethnology before moving to university teaching. He supervised the large "Handbook of South American Indians" project, which gathered comparative data on dozens of indigenous societies across the continent. This experience deepened his conviction in the importance of systematic comparison between different environments, rather than the isolated single-case studies that dominated the Boasian tradition. Steward later trained, at Columbia and then at the University of Illinois, a generation of researchers, among them Marvin Harris, Eric Wolf and Sidney Mintz, who went on to develop various directions (cultural materialism, political economy) from the ecological foundation laid by their teacher.
+After early university teaching, Julian Steward worked at the Bureau of American Ethnology of the Smithsonian Institution. He edited the multi-volume *Handbook of South American Indians* (1946–1950), which gathered comparative data on dozens of indigenous societies across the continent. This experience deepened his conviction in the importance of systematic comparison between different environments, rather than the isolated single-case studies that dominated the Boasian tradition. Steward then taught at Columbia University and the University of Illinois. His students at Columbia included Eric Wolf and Sidney Mintz, and his ideas also influenced Marvin Harris; these scholars went on to develop various directions (cultural materialism, political economy) from the ecological foundation laid by their teacher.
 
 ## Limits of the Approach
 
@@ -63,4 +63,6 @@ Thus this orientation offers an early and precise model of how to combine ethnog
 ## Sources
 
 - Steward, Julian H. *Theory of Culture Change: The Methodology of Multilinear Evolution*. University of Illinois Press, 1955.
+- White, Leslie A. *The Science of Culture*. Farrar, Straus, 1949.
+- Sahlins, Marshall D., and Elman R. Service, eds. *Evolution and Culture*. University of Michigan Press, 1960.
 - Rappaport, Roy A. *Pigs for the Ancestors: Ritual in the Ecology of a New Guinea People*. Yale University Press, 1968.

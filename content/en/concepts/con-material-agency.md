@@ -24,7 +24,7 @@ The British anthropologist Alfred Gell provided the most influential theoretical
 
 ## Theoretical Mechanism
 
-This does not mean that Gell grants objects genuine independent consciousness. He proposes instead that their agency is "derived" (secondary agency) from the social relations woven around them through their historical and social "biography" (social biography): who made them, for whom they were used, and what meaning and human intention has accumulated upon them. When a person fears a ritual statue or is awed before a work of art, this actual effect is socially real, even though its source is ultimately the network of human relations that produced the object and gave it this symbolic power.
+This does not mean that Gell grants objects genuine independent consciousness. He proposes instead that their agency is "derived" (secondary agency) from the social relations in which they are embedded (he distinguishes "primary" agents, who act intentionally, from "secondary" agents, such as artefacts, through which that agency is distributed): who made them, for whom they were used, and what meaning and human intention has accumulated upon them. When a person fears a ritual statue or is awed before a work of art, this actual effect is socially real, even though its source is ultimately the network of human relations that produced the object and gave it this symbolic power.
 
 ## Relation to Actor-Network Theory
 

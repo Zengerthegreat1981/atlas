@@ -15,7 +15,7 @@ related:
 - id: "sch-sociology-of-scientific-knowledge", title: "Sociology of Knowledge and Science", type: "مدرسة"
 - id: "thk-david-bloor", title: "David Bloor", type: "مفكر"
 gaps:
-  - "Not yet covered: the sharp critical controversy this programme provoked in the \"science wars\" of the 1990s."
+  - "The controversy over this programme in the \"science wars\" of the 1990s: not yet covered"
 ---
 
 # The Strong Programme in the Sociology of Scientific Knowledge
@@ -24,7 +24,7 @@ A methodological framework demanding that the content of scientific theories the
 
 ## The Central Idea
 
-In *Knowledge and Social Imagery* (1976), David Bloor put forward the "Strong Programme", developed with Barry Barnes and the Edinburgh group, based on four tenets: "causality" (the sociologist should look for the causal conditions, social among others, that bring about beliefs and knowledge); "impartiality" (with respect to truth and falsity, rationality and irrationality, success and failure, both sides of each dichotomy require explanation); "symmetry" (the same types of cause should explain true and false beliefs); and "reflexivity" (the patterns of explanation should be applicable to sociology itself). This radically goes beyond the earlier position of Robert Merton, who studied the institutional norms of science as a social system but exempted the content of correct theories from social explanation, considering that their correctness is explained logically/empirically alone.
+In *Knowledge and Social Imagery* (1976), David Bloor put forward the "Strong Programme", developed with Barry Barnes and the Edinburgh group, based on four tenets: "causality" (the sociologist should look for the causal conditions, social among others, that bring about beliefs and knowledge); "impartiality" (with respect to truth and falsity, rationality and irrationality, success and failure, both sides of each dichotomy require explanation); "symmetry" (the same types of cause should explain true and false beliefs); and "reflexivity" (the patterns of explanation should be applicable to sociology itself). This goes well beyond the earlier sociology of science associated with Robert Merton, which studied the institutional norms of science as a social system but largely left the content of accepted theories outside sociological explanation.
 
 ## The Four Principles in Detail and Their Intellectual Sources
 

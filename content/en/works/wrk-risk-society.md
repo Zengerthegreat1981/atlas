@@ -25,7 +25,7 @@ Beck wrote *Risk Society* in West Germany in the early 1980s, a society marked b
 
 ## Thesis and Core Argument
 
-Beck's central claim is that modernity has become reflexive: it now confronts the unintended consequences of its own success. In the first, industrial phase of modernity, the dominant conflict concerned the distribution of goods — wealth, income, and security — and institutions such as the nation-state, the welfare state, and science seemed capable of managing progress. In the risk society, by contrast, the dominant conflicts concern "bads" produced by modernisation itself. These manufactured risks differ from the natural dangers of earlier eras: they are global in scope, invisible to the senses, incalculable in their effects, and irreversible. Because the institutions of industrial society, including science itself, both produce these risks and claim to manage them, they suffer a crisis of legitimacy that Beck calls "organised irresponsibility": everyone is involved, but no one can be held accountable.
+Beck's central claim is that modernity has become reflexive: it now confronts the unintended consequences of its own success. In the first, industrial phase of modernity, the dominant conflict concerned the distribution of goods — wealth, income, and security — and institutions such as the nation-state, the welfare state, and science seemed capable of managing progress. In the risk society, by contrast, the dominant conflicts concern "bads" produced by modernisation itself. These manufactured risks differ from the natural dangers of earlier eras: they are global in scope, invisible to the senses, incalculable in their effects, and irreversible. Because the institutions of industrial society, including science itself, both produce these risks and claim to manage them, they suffer a crisis of legitimacy. Beck's term for this condition, developed especially in his subsequent work, is "organised irresponsibility": everyone is involved, but no one can be held accountable.
 
 ## Structure and Method
 
@@ -33,7 +33,7 @@ The book moves from diagnosis to social structure to politics. It opens with the
 
 ## Key Concepts
 
-*Risk Society* introduced a set of concepts that have become standard in sociology. "Manufactured risks" are dangers created by human activity rather than by nature. "Reflexive modernisation" names the process by which modernity turns back on itself, questioning its own foundations. "Individualisation" describes the release of individuals from traditional bonds and their compulsion to construct their own lives. "Subpolitics" refers to political action outside formal institutions, from citizens' initiatives to scientific dissent. "Organised irresponsibility" captures the diffusion of accountability for systemic hazards.
+*Risk Society* and Beck's closely related writings introduced a set of concepts now widely used in sociology. "Manufactured risks" are dangers created by human activity rather than by nature. "Reflexive modernisation" names the process by which modernity turns back on itself, questioning its own foundations. "Individualisation" describes the release of individuals from traditional bonds and their compulsion to construct their own lives. "Subpolitics" refers to political action outside formal institutions, from citizens' initiatives to scientific dissent. "Organised irresponsibility" captures the diffusion of accountability for systemic hazards.
 
 ## Reception and Influence
 

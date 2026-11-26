@@ -41,7 +41,7 @@ Coleman was born in Bedford, Indiana. He trained as a chemical engineer before t
 - *The Adolescent Society* (1961)
 - *Introduction to Mathematical Sociology* (1964)
 - *Equality of Educational Opportunity* (1966)
-- *Public and Private High Schools* (1982, with Thomas Hoffer and Sally Kilgore)
+- *High School Achievement: Public, Catholic, and Private Schools Compared* (1982, with Thomas Hoffer and Sally Kilgore)
 - *Foundations of Social Theory* (1990)
 
 ## Method

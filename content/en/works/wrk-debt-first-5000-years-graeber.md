@@ -52,7 +52,7 @@ The book builds on a genuine anthropological foundation: Graeber's own fieldwork
 
 ## Structure of the Book and Its Ethical Principles
 
-Graeber divides history into four major periods: the age of the first agrarian empires until around 800 BCE; then the Axial Age between 800 BCE and 600 CE, when minted money, mercenary armies and the world religions appeared; then the Middle Ages between 600 and 1450 CE; and then the age of capitalist empires from 1450 CE. At the heart of the analysis are three moral principles that he argues govern economic relations: **baseline communism**, in which people give according to ability and receive according to need without accounting; **exchange based on equivalence and the possibility of offsetting**; and **hierarchy**, which rests on giving and taking between unequals. He argues that debt appears when exchange turns into a relationship of inequality, and that violence is what converts sums into obligation.
+Graeber divides history into four major periods: the age of the first agrarian empires until around 800 BCE; then the Axial Age between 800 BCE and 600 CE, when minted money, mercenary armies and the world religions appeared; then the Middle Ages between 600 and 1450 CE; then the age of capitalist empires from 1450 to 1971; followed by a still undetermined period since 1971. At the heart of the analysis are three moral principles that he argues govern economic relations: **baseline communism**, in which people give according to ability and receive according to need without accounting; **exchange based on equivalence and the possibility of offsetting**; and **hierarchy**, which rests on giving and taking between unequals. He argues that debt appears when exchange turns into a relationship of inequality, and that violence is what converts sums into obligation.
 
 ## Debt in the Islamic Tradition
 
@@ -64,7 +64,7 @@ Graeber drew from his fieldwork in rural Madagascar, which he recorded in *Lost 
 
 ## Reception and Criticism
 
-Many praised the critique of the barter myth, but economists and historians felt the book generalises from scattered evidence, and that its division into critical periods simplifies a more diverse history. They also argued that the dichotomy between virtual credit and precious metal that Graeber proposes does not by itself explain the cycle of money. Specialists in the ancient Near East objected to some of his readings of debt cancellation decrees in Mesopotamia, as studied in the book by Hudson and Van De Mieroop. Some argued that the book replaces careful historical writing with political rhetoric.
+Many praised the critique of the barter myth, but economists and historians felt the book generalises from scattered evidence, and that its division into critical periods simplifies a more diverse history. They also argued that the dichotomy between virtual credit and precious metal that Graeber proposes does not by itself explain the cycle of money. Some argued that the book replaces careful historical writing with political rhetoric.
 
 ## Sources
 
@@ -74,4 +74,4 @@ Many praised the critique of the barter myth, but economists and historians felt
 - Sahlins, Marshall. *Stone Age Economics*. Chicago: Aldine-Atherton, 1972.
 - Humphrey, Caroline. "Barter and Economic Disintegration." *Man* 20(1), 1985.
 - Polanyi, Karl. *The Great Transformation*. New York: Farrar & Rinehart, 1944.
-- Hudson, Michael, and Marc Van De Mieroop, eds. *Debt and Economic Renewal in the Ancient Near East*. Bethesda: CDL Press, 2002.
+- Hudson, Michael, and Marc Van De Mieroop, eds. *Debt and Economic Renewal in the Ancient Near East*. Bethesda: CDL Press, 2002. (On ancient debt cancellations.)

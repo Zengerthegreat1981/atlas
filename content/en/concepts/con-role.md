@@ -33,7 +33,7 @@ Talcott Parsons carried the concept into structural-functional theory, treating 
 
 Robert K. Merton refined the concept (in "The Role-Set," 1957, and in the revised edition of *Social Theory and Social Structure*, 1957) by showing that a single status carries not one role but a **role set** — an array of role relationships with different partners. A teacher relates differently to pupils, parents, colleagues, and headteachers, and each relationship carries its own expectations. Role theorists also analysed **role conflict**, which arises when the expectations of two statuses clash (for example, a manager who must discipline a friend), and **role strain**, the difficulty of meeting the demands of a role or set of roles, a concept developed by William J. Goode (1960). These ideas made role theory sensitive to the contradictions of social life rather than picturing society as a smoothly oiled machine.
 
-Erving Goffman, in *The Presentation of Self in Everyday Life* (1959), gave the concept its most influential elaboration. Goffman treated social life as theatre: people perform roles before audiences, managing impressions through dress, speech, gesture, and the control of front-stage and back-stage regions. A waiter behaves differently in the dining room from in the kitchen; a doctor performs confidence at the bedside while expressing doubt in the staff room. For Goffman, roles are not simply followed but actively performed, negotiated, and sometimes subverted — role distance, the way people signal that they are not fully identified with a role, is itself a social skill.
+Erving Goffman, in *The Presentation of Self in Everyday Life* (1959), gave the concept a highly influential elaboration. Goffman treated social life as theatre: people perform roles before audiences, managing impressions through dress, speech, gesture, and the control of front-stage and back-stage regions. A waiter behaves differently in the dining room from in the kitchen; a doctor performs confidence at the bedside while expressing doubt in the staff room. For Goffman, roles are not simply followed but actively performed, negotiated, and sometimes subverted — role distance (discussed in *Encounters*, 1961), the way people signal that they are not fully identified with a role, is itself a social skill.
 
 ## Examples
 
@@ -48,6 +48,8 @@ The concept remains indispensable. Contemporary research applies it to remote wo
 ## Sources
 
 - Goffman, Erving. *The Presentation of Self in Everyday Life*. Anchor Books, 1959.
+- Goffman, Erving. *Encounters: Two Studies in the Sociology of Interaction*. Bobbs-Merrill, 1961.
+- Parsons, Talcott. *The Social System*. Free Press, 1951.
 - Linton, Ralph. *The Study of Man: An Introduction*. D. Appleton-Century, 1936.
 - Mead, George Herbert. *Mind, Self, and Society: From the Standpoint of a Social Behaviorist*. University of Chicago Press, 1934.
 - Merton, Robert K. "The Role-Set: Problems in Sociological Theory." *British Journal of Sociology* 8, no. 2 (1957): 106–120.

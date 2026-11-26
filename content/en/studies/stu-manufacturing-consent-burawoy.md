@@ -37,5 +37,7 @@ Manufacturing Consent became a central work of labour process theory and of Marx
 
 - Burawoy, Michael. *Manufacturing Consent: Changes in the Labor Process under Monopoly Capitalism*. University of Chicago Press, 1979.
 - Roy, Donald F. "Quota Restriction and Goldbricking in a Machine Shop." *American Journal of Sociology* 57, no. 5 (1952): 427–442.
+- Burawoy, Michael. *The Politics of Production: Factory Regimes under Capitalism and Socialism*. Verso, 1985.
+- Burawoy, Michael, et al. *Ethnography Unbound: Power and Resistance in the Modern Metropolis*. University of California Press, 1991.
 - Braverman, Harry. *Labor and Monopoly Capital: The Degradation of Work in the Twentieth Century*. Monthly Review Press, 1974.
 - Gramsci, Antonio. *Selections from the Prison Notebooks*. Edited and translated by Quintin Hoare and Geoffrey Nowell Smith. International Publishers, 1971.

@@ -40,7 +40,7 @@ Merton's original 1942 article, "A Note on Science and Democracy", was later rep
 
 ## Impact and Critique
 
-This body of work as a whole founded the sociology of science as an independent and flourishing academic subfield for many successive decades. However, the idealized CUDOS norms were later fundamentally criticized by later sociologists, notably Ian Mitroff, whose study of the Apollo moon scientists (1974) found "counter-norms" alongside the Mertonian ones. They were also criticized by sociologists of scientific knowledge (such as David Bloor and the proponents of the "Strong Programme"), who considered Merton's description an idealized, normative one that does not always match actual scientific practice on the ground. In practice there are sharp personal rivalries, deliberate research secrecy, and multiple institutional and funding interests that sometimes clearly conflict with these four ideal norms assumed in theory. This makes them closer to an organizing normative ideal against which actual deviation is measured than an accurate empirical description of the everyday practice of most scientists.
+This body of work did much to establish the sociology of science as an academic subfield. However, the idealized CUDOS norms were later fundamentally criticized by later sociologists, notably Ian Mitroff, whose study of the Apollo moon scientists (1974) found "counter-norms" alongside the Mertonian ones. They were also criticized by sociologists of scientific knowledge (such as David Bloor and the proponents of the "Strong Programme"), who considered Merton's description an idealized, normative one that does not always match actual scientific practice on the ground. In practice there are sharp personal rivalries, deliberate research secrecy, and multiple institutional and funding interests that sometimes clearly conflict with these four ideal norms assumed in theory. This makes them closer to an organizing normative ideal against which actual deviation is measured than an accurate empirical description of the everyday practice of most scientists.
 
 ## Relation to the Arab-Islamic Heritage
 
@@ -49,4 +49,6 @@ The CUDOS framework offers an interesting lens for analyzing the history of the 
 ## Sources
 
 - Merton, Robert K. "A Note on Science and Democracy." *Journal of Legal and Political Sociology*, vol. 1, 1942, pp. 115–126; reprinted as "The Normative Structure of Science." In *The Sociology of Science: Theoretical and Empirical Investigations*, University of Chicago Press, 1973 (original article 1942).
+- Merton, Robert K. "Singletons and Multiples in Scientific Discovery." *Proceedings of the American Philosophical Society*, 1961.
+- Mitroff, Ian I. *The Subjective Side of Science*. Elsevier, 1974.
 - Merton, Robert K. "The Matthew Effect in Science." *Science*, vol. 159, no. 3810, 1968, pp. 56–63.

@@ -11,7 +11,7 @@ en: Goffmanian Dramaturgical Sociology
 crumb: Sociology ← Dramaturgy and Performance
 dates: USA/Canada · 1959-1983
 active_start: 1959
-active_end: مستمر
+active_end: 1983
 edges: []
 related: []
 gaps:
@@ -36,7 +36,7 @@ Goffman's method was naturalistic observation: long immersion in a setting, clos
 
 ## Influence and Legacy
 
-Goffman's influence is unusually broad. Conversation analysis, founded by Harvey Sacks, grew out of his attention to the fine detail of talk, and ethnomethodology shares his conviction that order is accomplished in interaction. The sociology of emotions, of the body, and of everyday life all claim him as a founder, and his concepts structure research on service work, where employees perform emotional labour, on medicine, where doctors and patients negotiate face, and on digital life, where social media profiles are exercises in impression management and front-stage curation. His account of total institutions shaped the sociology of prisons, hospitals, and schools, and the deinstitutionalisation movement drew on *Asylums* as evidence.
+Goffman's influence is unusually broad. Conversation analysis, developed by Harvey Sacks, a former student of Goffman, drew in part on his attention to face-to-face interaction as well as on ethnomethodology, and ethnomethodology shares his conviction that order is accomplished in interaction. The sociology of emotions, of the body, and of everyday life all draw heavily on him, and his concepts inform research on service work (including Arlie Hochschild's study of emotional labour), on medicine, where doctors and patients negotiate face, and on digital life, where social media profiles are exercises in impression management and front-stage curation. His account of total institutions shaped the sociology of prisons, hospitals, and schools, and the deinstitutionalisation movement drew on *Asylums* as evidence.
 
 ## Critical Perspectives and Limitations
 
@@ -52,6 +52,8 @@ Goffmanian dramaturgy is the micro-sociological counterpart to the classical mac
 - Goffman, Erving. *Asylums: Essays on the Social Situation of Mental Patients and Other Inmates*. New York: Doubleday, 1961.
 - Goffman, Erving. *Stigma: Notes on the Management of Spoiled Identity*. Englewood Cliffs: Prentice-Hall, 1963.
 - Goffman, Erving. *Interaction Ritual: Essays on Face-to-Face Behavior*. Chicago: Aldine, 1967.
+- Goffman, Erving. *Behavior in Public Places*. New York: Free Press, 1963.
+- Goffman, Erving. *Relations in Public*. New York: Basic Books, 1971.
 - Goffman, Erving. *Frame Analysis: An Essay on the Organization of Experience*. New York: Harper and Row, 1974.
 - Goffman, Erving. *Gender Advertisements*. New York: Harper and Row, 1979.
 - Manning, Philip. *Erving Goffman and Modern Sociology*. Cambridge: Polity Press, 1992.

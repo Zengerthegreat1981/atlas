@@ -18,7 +18,7 @@ gaps:
 
 # William H. R. Rivers
 
-William Halse Rivers Rivers (1864–1922) was a British physician, psychologist, and anthropologist who helped turn anthropology from the study of conjectural evolutionary stages into a discipline grounded in intensive fieldwork and the systematic study of kinship. A founder of British social anthropology, he devised the genealogical method, led the ethnographic work of the Torres Strait expedition, and later became famous for his humane treatment of soldiers suffering from shell shock during the First World War. His career bridged medicine, experimental psychology, and anthropology in a way no later figure quite repeated.
+William Halse Rivers Rivers (1864–1922) was a British physician, psychologist, and anthropologist who helped turn anthropology from the study of conjectural evolutionary stages into a discipline grounded in intensive fieldwork and the systematic study of kinship. A formative figure in British social anthropology, he developed the genealogical method on the Torres Strait expedition, and later became famous for his humane treatment of soldiers suffering from shell shock during the First World War. His career bridged medicine, experimental psychology, and anthropology in a way no later figure quite repeated.
 
 ## Life and Career
 

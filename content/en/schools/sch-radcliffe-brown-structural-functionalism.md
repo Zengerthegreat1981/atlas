@@ -30,7 +30,7 @@ Structural functionalism is a theoretical orientation that views society as a sy
 
 ## Historical Context
 
-The school took shape in the early decades of the twentieth century, when British anthropology was seeking a rigorous scientific method that would free it from Victorian evolutionary speculation. Radcliffe-Brown published his first field study, *The Andaman Islanders*, in 1922, drawing on his extended residence there before the First World War. He then moved to Australia to study Aboriginal tribes and their systems of kinship and totemism. The school remained dominant in British social anthropology from the 1920s until about the mid-1950s.
+The school took shape in the early decades of the twentieth century, when British anthropology was seeking a rigorous scientific method that would free it from Victorian evolutionary speculation. Radcliffe-Brown published his first field study, *The Andaman Islanders*, in 1922, drawing on fieldwork there in 1906–1908. He also carried out research among Aboriginal peoples in Western Australia (1910–1912) and wrote on their systems of kinship and totemism. The school remained dominant in British social anthropology from the 1920s until about the mid-1950s.
 
 ## Main Ideas and Method
 
@@ -38,7 +38,7 @@ Society is viewed as resembling a living organism whose parts (the institutions 
 
 ## Major Works and Representatives
 
-His book *Structure and Function in Primitive Society* (1952), a collection of essays drawn from his lectures, is the clearest theoretical statement of the school, alongside his field study *The Andaman Islanders* (1922). Radcliffe-Brown influenced a whole generation of British anthropologists, most notably E. E. Evans-Pritchard and Meyer Fortes, who developed his structural approach into the study of kinship, law and politics among stateless societies (the work often called "descent theory"). The two co-edited *African Political Systems* (1940). His ideas also provided the foundation from which the "Manchester School," led by Max Gluckman, later analyzed conflict and social change.
+His book *Structure and Function in Primitive Society* (1952), a collection of essays and addresses, is the clearest theoretical statement of the school, alongside his field study *The Andaman Islanders* (1922). Radcliffe-Brown influenced a whole generation of British anthropologists, most notably E. E. Evans-Pritchard and Meyer Fortes, who developed his structural approach into the study of kinship, law and politics among stateless societies (the work often called "descent theory"). The two co-edited *African Political Systems* (1940). His ideas also provided the foundation from which the "Manchester School," led by Max Gluckman, later analyzed conflict and social change.
 
 ## Impact and Critique
 
@@ -46,7 +46,7 @@ This school remained the dominant framework of British social anthropology until
 
 ## Comparison with Malinowskian Functionalism
 
-The precise distinction between Radcliffe-Brown's functionalism and Malinowski's helps explain the division of early British anthropology into two adjacent currents, despite their similar names. Malinowski, through his fieldwork in the Trobriand Islands, focused on how cultural institutions satisfy the basic biological and psychological needs of the individual (food, security, reproduction). Radcliffe-Brown turned the focus entirely toward the continuity of the collective social structure itself, regardless of the individual. This methodological difference is why Radcliffe-Brown's direct students (rather than Malinowski's) were the ones who later developed the analysis of legal and political systems in stateless societies.
+The precise distinction between Radcliffe-Brown's functionalism and Malinowski's helps explain the division of early British anthropology into two adjacent currents, despite their similar names. Malinowski, through his fieldwork in the Trobriand Islands, focused on how cultural institutions satisfy the basic biological and psychological needs of the individual (food, security, reproduction). Radcliffe-Brown turned the focus entirely toward the continuity of the collective social structure itself, regardless of the individual. This difference helps explain why the analysis of political systems in stateless societies drew heavily on Radcliffe-Brown's approach, including in the work of Evans-Pritchard and Fortes, both of whom had also trained in the London circle of Seligman and Malinowski.
 
 ## Joking and Avoidance Relationships
 

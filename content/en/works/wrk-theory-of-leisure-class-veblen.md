@@ -40,7 +40,7 @@ Veblen, the son of Norwegian immigrant farmers in the American Midwest, a figure
 
 ## Content
 
-Veblen argued that the "leisure class," which does not need productive work to earn its living, uses two main patterns of behavior to display its social status: **conspicuous consumption** (lavish spending on goods not for their practical utility but to display wealth before others) and **conspicuous leisure** (flaunting the lack of need for productive manual work, with leisure itself as a mark of status). He saw these patterns spreading through society by a logic of "trickle-down emulation" (Pecuniary Emulation), in which lower classes imitate the habits of higher classes in an attempt to acquire their symbolic status, producing a continuous competitive cycle of consumption that goes beyond any "rational" economic logic in the narrow neoclassical sense based on maximizing purely material utility.
+Veblen argued that the "leisure class," which does not need productive work to earn its living, uses two main patterns of behavior to display its social status: **conspicuous consumption** (lavish spending on goods not for their practical utility but to display wealth before others) and **conspicuous leisure** (flaunting the lack of need for productive manual work, with leisure itself as a mark of status). He saw these patterns spreading through society by a logic of "pecuniary emulation", in which lower classes imitate the habits of higher classes in an attempt to acquire their symbolic status, producing a continuous competitive cycle of consumption that goes beyond any "rational" economic logic in the narrow neoclassical sense based on maximizing purely material utility.
 
 ## Impact
 
@@ -61,3 +61,4 @@ Veblen developed an additional concept, "vicarious consumption," which describes
 - Dorfman, Joseph. *Thorstein Veblen and His America*. Viking Press, 1934.
 - Riesman, David. *Thorstein Veblen: A Critical Interpretation*. Scribner, 1953.
 - Veblen, Thorstein. *The Theory of Business Enterprise*. Scribner, 1904.
+- Veblen, Thorstein. *Absentee Ownership and Business Enterprise in Recent Times*. B. W. Huebsch, 1923.

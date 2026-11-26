@@ -16,11 +16,11 @@ gaps: []
 ---
 # Global Cities
 
-*The Global City: New York, London, Tokyo* (1991), by the Dutch-American sociologist Saskia Sassen, is the founding work of the sociology of global cities. Published by Princeton University Press, the book argues that globalisation, far from making place irrelevant, has made certain cities more important than ever. New York, London, and Tokyo, Sassen shows, have become the command points of the world economy: the places where global finance, specialised services, and corporate control are concentrated. The book coined the term "global city" and reshaped urban sociology, geography, and the study of globalisation.
+*The Global City: New York, London, Tokyo* (1991), by the Dutch-American sociologist Saskia Sassen, is a foundational work in the study of global cities. Published by Princeton University Press, the book argues that globalisation, far from making place irrelevant, has made certain cities more important than ever. New York, London, and Tokyo, Sassen shows, have become the command points of the world economy: the places where global finance, specialised services, and corporate control are concentrated. The book popularised the term "global city" and reshaped urban sociology, geography, and the study of globalisation.
 
 ## Historical Context and Publication
 
-Sassen wrote the book in the late 1980s, a decade of financial deregulation, the growth of multinational corporations, and the rapid expansion of international capital markets. Born in The Hague in 1947 and raised in Argentina, Sassen later taught at Columbia University; her earlier book, *The Mobility of Labor and Capital* (1988), had already examined the links between foreign investment and migration. *The Global City* appeared as the old industrial order was giving way to a service-based, globally integrated economy, and it offered the first systematic sociological account of that transformation at the level of the city. An updated second edition appeared in 2001.
+Sassen wrote the book in the late 1980s, a decade of financial deregulation, the growth of multinational corporations, and the rapid expansion of international capital markets. Born in The Hague in 1947 and raised in Argentina, Sassen later taught at Columbia University; her earlier book, *The Mobility of Labor and Capital* (1988), had already examined the links between foreign investment and migration. *The Global City* appeared as the old industrial order was giving way to a service-based, globally integrated economy, and it offered a systematic sociological account of that transformation at the level of the city. An updated second edition appeared in 2001.
 
 ## Thesis and Core Argument
 
@@ -28,7 +28,7 @@ Sassen's central claim is that the dispersal of economic activity across the glo
 
 ## Structure and Method
 
-The book first examines the geography and composition of globalisation, tracing how New York, London, and Tokyo restructured from manufacturing centres into centres of finance and producer services during the 1970s and 1980s. It then analyses the economic order of the global city, including the producer services complex and the transformation of financial markets, and the new urban social order, including labour markets and informalisation. Sassen's method combines economic data on employment, investment, and office markets with detailed case studies of the three cities. The comparative design is central to the argument: by showing that three very different cities underwent massive and parallel changes, she demonstrates that a common global process, rather than local circumstance, was at work.
+The book first examines the geography and composition of globalisation, tracing how New York, London, and Tokyo restructured from manufacturing centres into centres of finance and producer services during the 1970s and 1980s. It then analyses the economic order of the global city, including the producer services complex and the transformation of financial markets, and the new urban social order, including labour markets and informalisation. Sassen's method combines economic data on employment, investment, and office markets with detailed case studies of the three cities. The comparative design is central to the argument: by showing that three very different cities underwent massive and parallel changes, she argues that a common global process, rather than local circumstance alone, was at work.
 
 ## Key Concepts
 

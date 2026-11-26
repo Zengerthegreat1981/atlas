@@ -12,8 +12,7 @@ edges:
   - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
 related:
   []
-gaps:
-  - "Digital citizenship and data rights: not yet covered"
+gaps: []
 ---
 
 # Citizenship: Membership, Rights, and Belonging
@@ -34,7 +33,7 @@ Anthropologists have complicated Marshall's story in two ways. First, his sequen
 
 **Aihwa Ong** (born 1950) examined citizenship under globalization in *Flexible Citizenship* (1999). Studying wealthy Chinese migrants, she showed how elites accumulate multiple passports and maneuver across jurisdictions, while poor migrants face detention and deportation. Citizenship, in her account, is not a single, equal status but a flexible strategy, unevenly available according to wealth, race, and geopolitical position.
 
-**Engin F. Isin** reframed the field in *Acts of Citizenship* (2008), arguing that citizenship is produced not only by legal status but by acts — protests, occupations, hunger strikes, cultural performances — through which people constitute themselves as citizens regardless of formal recognition. This approach foregrounds the agency of those formally excluded.
+**Engin F. Isin** reframed the field in *Acts of Citizenship* (2008), a volume edited with Greg M. Nielsen, arguing that citizenship is produced not only by legal status but by acts — protests, occupations, hunger strikes, cultural performances — through which people constitute themselves as citizens regardless of formal recognition. This approach foregrounds the agency of those formally excluded.
 
 ## Ethnographic Examples
 
@@ -46,9 +45,14 @@ Anthropologists also document how citizenship is performed and tested in mundane
 
 Today, citizenship is being reshaped by dual nationality, supranational membership such as European Union citizenship, investor citizenship programs that sell passports to the wealthy, and digital surveillance at borders. Feminist scholars note that citizenship has historically been gendered: women's citizenship was long mediated through fathers and husbands, and care work remains undervalued in citizenship regimes. Indigenous scholars argue that settler states' citizenship can itself be a colonial imposition, overriding prior forms of membership and sovereignty. For anthropology, the key insight is that citizenship is never merely a legal fact: it is a cultural and political process through which communities draw the line between insiders and outsiders, and through which people contest that line.
 
+## Digital Citizenship and Data Rights
+
+Political membership is increasingly exercised and administered through digital systems. Engin Isin and Evelyn Ruppert's *Being Digital Citizens* (2015) asks how people make rights claims through what they do online, rather than treating digital citizenship merely as access to the internet or good online behaviour. Data protection law, such as the European Union's General Data Protection Regulation (adopted in 2016 and applied from 2018), gives individuals rights of access, correction, and in some circumstances erasure. Digital identity systems can ease access to services but can also exclude people whose records or biometrics fail, and unequal connectivity shapes who can take part.
+
 ## Sources
 
 - Marshall, T. H. *Citizenship and Social Class and Other Essays*. Cambridge University Press, 1950.
 - Brubaker, Rogers. *Citizenship and Nationhood in France and Germany*. Harvard University Press, 1992.
 - Ong, Aihwa. *Flexible Citizenship: The Cultural Logics of Transnationality*. Duke University Press, 1999.
 - Isin, Engin F., and Greg M. Nielsen, editors. *Acts of Citizenship*. Zed Books, 2008.
+- Isin, Engin, and Evelyn Ruppert. *Being Digital Citizens*. Rowman & Littlefield International, 2015.

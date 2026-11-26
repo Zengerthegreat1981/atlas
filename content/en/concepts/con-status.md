@@ -30,9 +30,9 @@ Ralph Linton, in *The Study of Man* (1936), gave the concept its standard sociol
 
 ## Key Contributions: Status Sets and Stratification
 
-Robert K. Merton, in his essay on the role-set (1957, reprinted in later editions of *Social Theory and Social Structure*), refined Linton's idea by showing that a single position carries a whole set of related roles, and he spoke of the **status set** — the array of statuses a person holds at once, which may pull in different directions. A woman may be simultaneously a professor, a mother, and a migrant, and the expectations attached to each status can conflict. Gerhard Lenski, in a 1954 article on status crystallization, analysed status inconsistency: when a person's statuses rank differently — high education but low income, for example — the mismatch can become a source of strain and, in some findings, of political dissatisfaction.
+Robert K. Merton, in his work on the role-set (1957), refined Linton's idea by showing that a single position carries a whole set of related roles, and he spoke of the **status set** — the array of statuses a person holds at once, which may pull in different directions. A woman may be simultaneously a professor, a mother, and a migrant, and the expectations attached to each status can conflict. Gerhard Lenski, in a 1954 article on status crystallization, analysed status inconsistency: when a person's statuses rank differently — high education but low income, for example — the mismatch can become a source of strain and, in some findings, of political dissatisfaction.
 
-Kingsley Davis and Wilbert Moore, in "Some Principles of Stratification" (1945), offered the most influential functionalist account of why status hierarchies exist at all. Societies, they argued, must motivate people to fill their most important and demanding positions, and they do so by attaching greater rewards — income, prestige, and power — to those positions. The Davis–Moore thesis made status hierarchy seem functional and necessary; its critics replied that it justified existing inequalities by describing them as the outcome of a fair competition for talent.
+Kingsley Davis and Wilbert Moore, in "Some Principles of Stratification" (1945), offered an influential functionalist account of why status hierarchies exist at all. Societies, they argued, must motivate people to fill their most important and demanding positions, and they do so by attaching greater rewards — income, prestige, and power — to those positions. The Davis–Moore thesis made status hierarchy seem functional and necessary; its critics replied that it justified existing inequalities by describing them as the outcome of a fair competition for talent.
 
 ## Examples
 
@@ -51,5 +51,5 @@ Status remains a core concept. It now frames research on the gig economy, where 
 - Davis, Kingsley, and Wilbert E. Moore. "Some Principles of Stratification." *American Sociological Review*, vol. 10, no. 2, 1945, pp. 242–249.
 - Lenski, Gerhard E. "Status Crystallization: A Non-Vertical Dimension of Social Status." *American Sociological Review* 19 (1954).
 - Linton, Ralph. *The Study of Man: An Introduction*. D. Appleton-Century, 1936.
-- Merton, Robert K. *Social Theory and Social Structure*. Free Press, 1949 (enlarged edition 1957).
+- Merton, Robert K. "The Role-Set: Problems in Sociological Theory." *British Journal of Sociology* 8 (1957).\n- Merton, Robert K. *Social Theory and Social Structure*. Free Press, 1949 (enlarged edition 1957).
 - Weber, Max. *Economy and Society: An Outline of Interpretive Sociology*. University of California Press, 1968. First published in German, 1922.

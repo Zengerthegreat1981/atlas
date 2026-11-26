@@ -26,19 +26,19 @@ An influential American anthropologist, specializing in the study of kinship and
 
 ## Biographical Context
 
-David Schneider was born in Brooklyn, New York, in 1918. He studied at Cornell University and received his PhD from Harvard in 1949. He did fieldwork on the island of Yap in Micronesia in 1947–1948. He taught at the University of California, Berkeley, in the 1950s, and from 1960 at the University of Chicago, where he spent the rest of his career. He died in 1995.
+David Schneider was born in Brooklyn, New York, in 1918. He studied at Cornell University and received his PhD from Harvard in 1949. He did fieldwork on the island of Yap in Micronesia in 1947–1948. In the 1950s he taught at institutions including the London School of Economics, Harvard, and the University of California, Berkeley, and from 1960 at the University of Chicago, where he spent most of his career before moving to the University of California, Santa Cruz, in the 1980s. He died in 1995.
 
 ## Core Theoretical Framework
 
-Schneider developed a revolutionary model for studying kinship:
+Schneider developed an influential model for studying kinship:
 
 **1. Kinship as a symbolic system**: Schneider argued that what we call **kinship** is not a direct reflection of biological facts but a **cultural symbolic system**, a set of meanings and symbols that a society produces to interpret relations among relatives. This means that **what counts as a relative** in one culture may not count as one in another.
 
-**2. Separating the biological and the cultural**: Schneider firmly rejected the classical assumption that kinship is built on **blood and sex** as biological facts. He showed instead that this is a purely **American** assumption, not a universal one. He argued that other peoples need not define kinship through biogenetic ties at all, and that anthropologists should not assume they do.
+**2. Separating the biological and the cultural**: Schneider firmly rejected the classical assumption that kinship is built on **blood and sex** as biological facts. He argued instead that this was an assumption of American, and more broadly European, culture rather than a universal one. He argued that other peoples need not define kinship through biogenetic ties at all, and that anthropologists should not assume they do.
 
 **3. Critique of genealogy**: Schneider criticized the classical approach of anthropologists who draw **genealogical charts** and treat them as the basis for understanding a kinship system. He said that genealogy is a **Western representation** of kinship that may not reflect how people actually understand their kinship relations.
 
-**4. American kinship as a case**: Schneider used **American society itself** as an anthropological case study, which was revolutionary at the time. Drawing on interviews with middle-class informants in Chicago and elsewhere, he argued that Americans distinguish "relatives in nature" (blood relatives) from "relatives in law" (relatives by marriage), and that sexual intercourse is the central symbol joining the two.
+**4. American kinship as a case**: Schneider used **American society itself** as an anthropological case study, which was then unusual. Drawing on interviews with middle-class informants in Chicago and elsewhere, he argued that Americans distinguish "relatives in nature" (blood relatives) from "relatives in law" (relatives by marriage), and that sexual intercourse is the central symbol joining the two.
 
 ## Key Works
 
@@ -94,4 +94,4 @@ Despite the importance of his work, several criticisms remain:
 - Schneider, David M. *A Critique of the Study of Kinship*. University of Michigan Press, 1984.
 - Schneider, David M. "Notes Toward a Theory of Culture." In *Meaning in Anthropology*, edited by Keith Basso and Henry Selby. University of New Mexico Press, 1976.
 - Franklin, Sarah, and Susan McKinnon, eds. *Relative Values: Reconfiguring Kinship Studies*. Duke University Press, 2001.
-- Yanagisako, Sylvia J. & Collier, Jane F. "Toward a Unified Analysis of Gender and Kinship." In *Gender and Kinship: Essays Toward a Unified Analysis*. Stanford University Press, 1987.
+- Yanagisako, Sylvia J. & Collier, Jane F. "Toward a Unified Analysis of Gender and Kinship." In *Gender and Kinship: Essays Toward a Unified Analysis*, edited by Jane F. Collier and Sylvia J. Yanagisako. Stanford University Press, 1987.

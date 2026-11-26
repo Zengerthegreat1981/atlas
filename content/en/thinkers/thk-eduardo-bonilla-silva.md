@@ -20,7 +20,7 @@ gaps: []
 
 # Eduardo Bonilla-Silva
 
-An American sociologist of Puerto Rican origin, professor of sociology at Duke University, and one of the most important theorists of contemporary race and racism in American sociology. He is known for his central concept of "color-blind racism," which describes how American racism after the civil rights era turned into a more hidden and less explicit form that is no less effective in reproducing racial inequality.
+An American sociologist of Puerto Rican origin, professor of sociology at Duke University, and a leading theorist of contemporary race and racism in American sociology. He is known for his central concept of "color-blind racism," which describes how American racism after the civil rights era turned into a more hidden and less explicit form that is no less effective in reproducing racial inequality.
 
 ## The Central Idea
 
@@ -32,7 +32,7 @@ Earlier, in "Rethinking Racism: Toward a Structural Interpretation" (*American S
 
 ## Impact
 
-Bonilla-Silva made a central founding contribution to contemporary sociological theory of race and racism, offering a deeply influential analytical framework for understanding the persistence of racial inequality in a post-civil-rights era that officially pretends to complete racial neutrality. The concept of "color-blind racism" became one of the most cited and taught frameworks in the contemporary sociology of race, influencing later research on racial discourse and public debate about racial justice. Critics have questioned how far interview evidence from a limited set of surveys and interviews can establish a general system of discourse, and some argue that the frames overlap or that the concept understates change in racial attitudes.
+Bonilla-Silva made an important contribution to contemporary sociological theory of race and racism, offering a deeply influential analytical framework for understanding the persistence of racial inequality in a post-civil-rights era that officially pretends to complete racial neutrality. The concept of "color-blind racism" became one of the most cited and taught frameworks in the contemporary sociology of race, influencing later research on racial discourse and public debate about racial justice. Critics have questioned how far evidence from a limited set of surveys and interviews can establish a general system of discourse, and some argue that the frames overlap or that the concept understates change in racial attitudes.
 
 ## Sources
 

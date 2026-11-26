@@ -11,7 +11,7 @@ en: Durkheimian Structural Functionalism
 crumb: Sociology ← Structural Functionalism
 dates: France · 1893-1917
 active_start: 1893
-active_end: مستمر
+active_end: 1917
 edges: []
 related: []
 gaps:
@@ -19,11 +19,11 @@ gaps:
 ---
 # Durkheimian Structural Functionalism
 
-Durkheimian structural functionalism is the school founded by Émile Durkheim (1858–1917), which treats society as a reality in its own right, external to individuals yet shaping their conduct, and explains social institutions by the functions they perform in maintaining social order. His answer was that society is held together by shared beliefs and sentiments, by the division of labour, and by moral regulation, and that sociology's task is to study these "social facts" scientifically, as things. Durkheim established sociology as an academic discipline in France and founded its first journal. Its concepts — solidarity, anomie, collective conscience, ritual, and the sacred — remain part of the discipline's core vocabulary.
+Durkheimian structural functionalism is the school founded by Émile Durkheim (1858–1917), which treats society as a reality in its own right, external to individuals yet shaping their conduct, and explains social institutions by the functions they perform in maintaining social order. Durkheim argued that society is held together by shared beliefs and sentiments, by the division of labour, and by moral regulation, and that sociology's task is to study these "social facts" scientifically, as things. Durkheim did much to establish sociology as an academic discipline in France and founded the journal *L'Année sociologique*. Its concepts — solidarity, anomie, collective conscience, ritual, and the sacred — remain part of the discipline's core vocabulary.
 
 ## Historical Origins and Key Figures
 
-Durkheim was born in Épinal in 1858, the son of a rabbi, and studied philosophy at the École Normale Supérieure. After study in Germany he was appointed at Bordeaux in 1887, where he taught the first courses in sociology in France, and he moved to the Sorbonne in 1902, becoming professor of education and sociology. In 1898 he founded *L'Année sociologique*, the journal around which his school gathered, and his students and collaborators included his nephew Marcel Mauss, the anthropologist of the gift. Durkheim's work was written against the background of the Third Republic, the Dreyfus Affair, rapid industrialisation, and the fear that modern individualism was dissolving moral bonds. He died in 1917, worn down by the death of his son André at the front in the First World War.
+Durkheim was born in Épinal in 1858, the son of a rabbi, and studied philosophy at the École Normale Supérieure. After study in Germany he was appointed at Bordeaux in 1887, where he taught some of the first university courses in sociology in France, and he moved to the Sorbonne in 1902, where he later held a chair in education that from 1913 also bore the name of sociology. In 1898 he founded *L'Année sociologique*, the journal around which his school gathered, and his students and collaborators included his nephew Marcel Mauss, the anthropologist of the gift. Durkheim's work was written against the background of the Third Republic, the Dreyfus Affair, rapid industrialisation, and the fear that modern individualism was dissolving moral bonds. He died in 1917, worn down by the death of his son André at the front in the First World War.
 
 ## Core Analytical Concepts
 

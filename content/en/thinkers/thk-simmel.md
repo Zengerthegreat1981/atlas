@@ -7,7 +7,7 @@ level: متوسط
 title: Georg Simmel
 en: Georg Simmel
 crumb: "Sociology ← Georg Simmel"
-dates: International · 1858-1918
+dates: Germany · 1858-1918
 active_start: 1858
 active_end: 1918
 edges: []

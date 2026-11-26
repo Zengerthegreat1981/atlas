@@ -8,7 +8,7 @@ title: "Rational Choice Sociology"
 en: Rational Choice Sociology
 crumb: Sociology ← Rational Choice Sociology
 dates: contemporary
-active_start: 1970
+active_start: 1961
 active_end: مستمر
 edges: []
 related: []
@@ -29,7 +29,7 @@ Rational choice sociology grew from economics and from the exchange theory of Ge
 
 ## Key Figures
 
-James Coleman (1926–1995) is the branch's central figure, whose theory of social capital and whose "boat" (or bathtub) model of macro–micro–macro explanation define its method. Gary Becker (1930–2014), the economist, supplied the imperial extension of rational choice into family, crime, and discrimination. Jon Elster developed the programme's most sophisticated account of rationality's limits, including weakness of will and the role of emotions. Michael Hechter is its leading theorist of solidarity, nationalism, and collective action, and the author of its most systematic defences. Mancur Olson (1932–1998) provided the logic of collective action that remains the programme's starting point. Raymond Boudon, the French sociologist, developed a cognitive version of rational choice that emphasises actors' reasons rather than their interests alone. Among the next generation, Siegwart Lindenberg, Thomas Voss, and Werner Raub formalised rational choice models of trust and cooperation, while Peter Hedström advanced mechanism-based explanation as the programme's methodological core.
+James Coleman (1926–1995) is the branch's central figure, whose theory of social capital and whose "boat" (or bathtub) model of macro–micro–macro explanation define its method. Gary Becker (1930–2014), the economist, supplied the imperial extension of rational choice into family, crime, and discrimination. Jon Elster developed the programme's most sophisticated account of rationality's limits, including weakness of will and the role of emotions. Michael Hechter is its leading theorist of solidarity, nationalism, and collective action, and the author of influential defences of it. Mancur Olson (1932–1998) provided the logic of collective action that remains the programme's starting point. Raymond Boudon, the French sociologist, developed a cognitive version of rational choice that emphasises actors' reasons rather than their interests alone. Among the next generation, Siegwart Lindenberg, Thomas Voss, and Werner Raub formalised rational choice models of trust and cooperation, while Peter Hedström advanced mechanism-based explanation as the programme's methodological core.
 
 ## Method
 

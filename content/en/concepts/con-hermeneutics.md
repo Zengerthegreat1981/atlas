@@ -58,3 +58,7 @@ The approach also faces real limits. It is difficult to establish a shared stand
 - Geertz, Clifford. *The Interpretation of Cultures*. New York: Basic Books, 1973.
 - Giddens, Anthony. *New Rules of Sociological Method*. London: Hutchinson, 1976.
 - Hirsch, E. D. *Validity in Interpretation*. New Haven: Yale University Press, 1967.
+- Dannhauer, Johann Conrad. *Hermeneutica Sacra*. 1654.
+- Ast, Friedrich. *Grundlinien der Grammatik, Hermeneutik und Kritik*. 1808.
+- Schafer, Roy. *A New Language for Psychoanalysis*. New Haven: Yale University Press, 1976.
+- Spence, Donald P. *Narrative Truth and Historical Truth*. New York: Norton, 1982.

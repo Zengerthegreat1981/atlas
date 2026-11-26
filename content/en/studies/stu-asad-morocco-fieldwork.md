@@ -28,11 +28,11 @@ sources:
 
 # Asad's Kababish Fieldwork and Reflexive Anthropology: Power and Representation
 
-Despite the file name, Talal Asad's ethnographic fieldwork was not carried out in Morocco. It was conducted among the Kababish, camel-herding Arab nomads of northern Kordofan in Sudan, and was written up as *The Kababish Arabs: Power, Authority and Consent in a Nomadic Tribe* (1970). Asad later became one of the most influential critics of the discipline's relation to colonial power, most famously as editor of *Anthropology and the Colonial Encounter* (1973). This entry treats the fieldwork and the critical, reflexive thinking that grew out of it.
+Talal Asad's ethnographic fieldwork was conducted among the Kababish, camel-herding Arab nomads of northern Kordofan in Sudan, and was written up as *The Kababish Arabs: Power, Authority and Consent in a Nomadic Tribe* (1970). Asad later became one of the most influential critics of the discipline's relation to colonial power, most famously as editor of *Anthropology and the Colonial Encounter* (1973). This entry treats the fieldwork and the critical, reflexive thinking that grew out of it.
 
 ## Background
 
-Asad was born in 1932 in Medina (in present-day Saudi Arabia) and trained in British social anthropology; he later taught in Britain and the United States. He did his fieldwork among the Kababish in the early 1960s, in the final years of the Anglo-Egyptian Condominium and the first years of Sudanese independence, when access to rural communities was still mediated by state and administrative structures that were a legacy of colonial rule.
+Asad was born in 1932 in Medina (in present-day Saudi Arabia) and trained in British social anthropology; he later taught in Britain and the United States. He did his fieldwork among the Kababish in the early 1960s, in the first years of Sudanese independence, when access to rural communities was still mediated by state and administrative structures that were a legacy of colonial rule.
 
 ## The Kababish Study
 

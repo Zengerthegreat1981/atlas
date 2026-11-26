@@ -24,7 +24,7 @@ sources:
   - Geertz, C. (1980). Negara: The Theatre State in Nineteenth-Century Bali. Princeton University Press.
   - Geertz, C. (1973). The Interpretation of Cultures. Basic Books.
   - Belo, J. (1960). Trance in Bali. Columbia University Press.
-  - Zoete, B. & Spies, W. (1938). Dance and Drama in Bali. Faber and Faber.
+  - Zoete, B. de & Spies, W. (1938). Dance and Drama in Bali. Faber and Faber.
 ---
 
 # Balinese Theater and Aesthetic Performance: Geertz on Ritual Drama and Meaning
@@ -33,7 +33,7 @@ Clifford Geertz's *Negara: The Theatre State in Nineteenth-Century Bali* (Prince
 
 ## Context
 
-Geertz carried out fieldwork in Bali in 1957-58 (with Hildred Geertz) and returned later, but *Negara* rests chiefly on historical sources: Dutch colonial reports, Balinese chronicles and court literature, and earlier ethnography, together with the author's own observations. The study concerns the Balinese kingdoms of roughly the nineteenth century, before Dutch conquest of the south of the island in the early twentieth century. It is a companion to his essays on Balinese culture in *The Interpretation of Cultures* (1973), including the essays on person, time and conduct and on the Balinese cockfight, but it differs in addressing the structure of the polity.
+Geertz carried out fieldwork in Bali in 1957-58 (with Hildred Geertz), but *Negara* rests chiefly on historical sources: Dutch colonial reports, Balinese chronicles and court literature, and earlier ethnography, together with the author's own observations. The study concerns the Balinese kingdoms of roughly the nineteenth century, before Dutch conquest of the south of the island in the early twentieth century. It is a companion to his essays on Balinese culture in *The Interpretation of Cultures* (1973), including the essays on person, time and conduct and on the Balinese cockfight, but it differs in addressing the structure of the polity.
 
 ## Argument
 

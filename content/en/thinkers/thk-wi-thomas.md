@@ -11,8 +11,8 @@ en: "William Isaac Thomas"
 dates: "United States · 1863–1947"
 country: "United States"
 language: "English"
-active_start: 1918
-active_end: 1920
+active_start: 1896
+active_end: 1947
 crumb: "Sociology ← Thinkers ← William Isaac Thomas"
 edges:
 - rel: "belongs_to", target: "Thomas and Znaniecki's Life-History Approach", target_type: "مدرسة"
@@ -24,7 +24,7 @@ gaps: []
 
 # William Isaac Thomas
 
-An American sociologist (1863–1947), a former professor at the University of Chicago, co-founder (with Florian Znaniecki) of the "personal document" method in sociology, and author of the influential "Thomas theorem."
+An American sociologist (1863–1947), a former professor at the University of Chicago, a pioneer (with Florian Znaniecki) of the "personal document" method in sociology, and author of the influential "Thomas theorem."
 
 ## What He Contributed
 

@@ -19,7 +19,7 @@ gaps:
 
 # The Division of Labor in Society
 
-Émile Durkheim's *The Division of Labor in Society* (1893) is the founding text of modern sociology and the work that established Durkheim as the discipline's first great theorist. Written as his doctoral thesis (defended at the University of Paris while he was teaching at Bordeaux) and published in French as *De la division du travail social*, it asks a question that still defines sociology: what holds a society together? Durkheim's answer was that the division of labour — the specialisation of work that Adam Smith had celebrated as the source of wealth — is above all a moral phenomenon. It creates new forms of solidarity between people who depend on one another, and its breakdown produces the pathologies of modern life.
+Émile Durkheim's *The Division of Labor in Society* (1893) is one of the founding texts of modern sociology and Durkheim's first major book. Written as his doctoral thesis (defended at the University of Paris while he was teaching at Bordeaux) and published in French as *De la division du travail social*, it asks a question that still defines sociology: what holds a society together? Durkheim's answer was that the division of labour — the specialisation of work that Adam Smith had celebrated as the source of wealth — is above all a moral phenomenon. It creates new forms of solidarity between people who depend on one another, and its breakdown produces the pathologies of modern life.
 
 ## Historical Context and Publication
 
@@ -39,7 +39,7 @@ The book's final section examines the pathologies that arise when the division o
 
 ## Reception and Influence
 
-*The Division of Labor in Society* established sociology as a discipline with its own subject matter — social facts — and its own method. Its distinction between mechanical and organic solidarity became one of the most cited ideas in the social sciences, shaping the study of law, religion, the professions and economic life. Talcott Parsons, Robert Merton and the whole functionalist tradition built on Durkheim's framework, and the book's account of anomie influenced the sociology of deviance, the study of work and the analysis of social change. The book's treatment of law as a window onto solidarity shaped legal sociology, and its argument that economic life is underpinned by moral regulation remains a central theme of economic sociology.
+*The Division of Labor in Society* helped establish sociology as a discipline with its own subject matter, which Durkheim soon defined as social facts. Its distinction between mechanical and organic solidarity became one of the most cited ideas in the social sciences, shaping the study of law, religion, the professions and economic life. Talcott Parsons, Robert Merton and the whole functionalist tradition built on Durkheim's framework, and the book's account of anomie influenced the sociology of deviance, the study of work and the analysis of social change. The book's treatment of law as a window onto solidarity shaped legal sociology, and its argument that economic life is underpinned by moral regulation remains a central theme of economic sociology.
 
 ## Critical Assessments and Limitations
 

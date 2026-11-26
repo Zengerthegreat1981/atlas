@@ -35,11 +35,13 @@ The debate reflects a division between a view of medicine as a cooperative, func
 
 ## Impact
 
-The two positions helped establish medical sociology as an independent field and prepared the ground for later critical work: Michel Foucault's *The Birth of the Clinic* (1963) on the history of clinical medicine, Irving Zola's essay "Medicine as an Institution of Social Control" (1972), and the sociological study of medicalization, notably Peter Conrad and Joseph Schneider's *Deviance and Medicalization* (1980), which examined how conditions once treated as moral or legal problems came to be defined as medical ones.
+The two positions became central reference points in medical sociology. Related critical work includes Michel Foucault's historical study *The Birth of the Clinic* (1963), which appeared independently of this contrast, Irving Zola's essay "Medicine as an Institution of Social Control" (1972), and the sociological study of medicalization, notably Peter Conrad and Joseph Schneider's *Deviance and Medicalization* (1980), which examined how conditions once treated as moral or legal problems came to be defined as medical ones.
 
 ## Sources
 
 - Parsons, Talcott. *The Social System*. Free Press, 1951.
 - Freidson, Eliot. *Profession of Medicine: A Study of the Sociology of Applied Knowledge*. Dodd, Mead & Company, 1970.
 - Freidson, Eliot. *Professionalism Reborn: Theory, Prophecy, and Policy*. University of Chicago Press, 1994.
+- Foucault, Michel. *Naissance de la clinique*. Presses Universitaires de France, 1963.
+- Zola, Irving Kenneth. "Medicine as an Institution of Social Control." *Sociological Review*, 20(4), 1972.
 - Conrad, Peter, and Joseph W. Schneider. *Deviance and Medicalization: From Badness to Sickness*. Mosby, 1980.

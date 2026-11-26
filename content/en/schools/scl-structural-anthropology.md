@@ -54,7 +54,7 @@ The method was deliberately formal and comparative. Lévi-Strauss worked not fro
 
 ## Influence and Contemporary Debates
 
-Structural anthropology reshaped twentieth-century thought. Within anthropology it transformed the study of kinship, myth, and classification. Beyond anthropology it supplied the model for structuralism in literary theory and philosophy, shaping the humanities for a generation. Its most important legacy may be its demonstration that human thought is universal in structure even when diverse in content — an argument for cognitive equality against racist ideas of primitive mentality.
+Structural anthropology reshaped twentieth-century thought. Within anthropology it transformed the study of kinship, myth, and classification. Beyond anthropology it supplied the model for structuralism in literary theory and philosophy, shaping the humanities for a generation. An important legacy is its argument that human thought is universal in structure even when diverse in content — an argument for cognitive equality against racist ideas of primitive mentality.
 
 The critiques are as important as the achievements. The charge of ahistoricity is the most persistent: structural analysis froze cultures in a timeless present, ignoring colonialism and change. Feminists argued that its models of exchange treated women as objects passed between men. Bourdieu charged that it mistook the analyst's model for the actors' practice, and Derrida dissolved the idea of a stable structure, replacing it with play and difference. The school declined after the 1970s, but its questions — what is universal in human thought, and how can difference be analysed without hierarchy — still frame debate.
 

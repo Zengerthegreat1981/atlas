@@ -3,16 +3,15 @@
   "parse_warnings": 0,
   "parse_warning_examples": [],
   "flag_counts": {
-    "edge-target-by-name": 2429,
-    "pending": 63,
-    "short": 54,
-    "declared-gaps": 355,
+    "edge-target-by-name": 2428,
+    "declared-gaps": 376,
     "placeholder": 32,
     "no-title": 32,
     "part-not-explicit": 44,
     "unclassified": 44,
+    "short": 33,
     "edge-target-slug-unresolved": 1,
-    "related-unresolved": 36,
+    "related-unresolved": 26,
     "slug-mismatch": 2,
     "no-crumb": 1,
     "duplicate-id-groups": 2
@@ -35,40 +34,6 @@
       "br-computational-linguistics->Computational Linguistics & NLP",
       "br-corpus-linguistics->Corpus Linguistics"
     ],
-    "pending": [
-      "br-aging-gerontology",
-      "br-black-feminist-thought",
-      "br-consumption-sociology",
-      "br-conversation-analysis",
-      "br-cyber-sociology",
-      "br-economic-sociology",
-      "br-feminist-sociology",
-      "br-institutional-sociology",
-      "br-organizational-sociology",
-      "br-political-sociology",
-      "br-public-sociology",
-      "br-sociology-of-education",
-      "br-urban-sociology",
-      "con-agency",
-      "con-content-analysis"
-    ],
-    "short": [
-      "br-aging-gerontology",
-      "br-black-feminist-thought",
-      "br-consumption-sociology",
-      "br-conversation-analysis",
-      "br-cyber-sociology",
-      "br-economic-sociology",
-      "br-feminist-sociology",
-      "br-institutional-sociology",
-      "br-organizational-sociology",
-      "br-political-sociology",
-      "br-public-sociology",
-      "br-sociology-of-education",
-      "br-urban-sociology",
-      "con-bilateral",
-      "con-content-analysis"
-    ],
     "declared-gaps": [
       "con-abortion-ethics",
       "con-act-vs-rule-utilitarianism",
@@ -78,13 +43,13 @@
       "con-ancient-ethics-greece",
       "con-animal-rights-ethics",
       "con-anti-cult-movement-response",
-      "con-assimilation",
-      "con-asymmetric-alliance",
       "con-autonomy-informed-consent",
       "con-axis-mundi-sacred-space-eliade",
       "con-beneficence-nonmaleficence",
       "con-biocentrism",
-      "con-biogenetic-versus-cultural-kinship"
+      "con-business-virtue",
+      "con-caring-relationships",
+      "con-character-ethics"
     ],
     "placeholder": [
       "con-bilateral",
@@ -154,16 +119,27 @@
       "scl-medical-anthropology",
       "scl-political-anthropology"
     ],
+    "short": [
+      "con-bilateral",
+      "con-rites-passage",
+      "con-shaman",
+      "con-social-capital",
+      "scl-applied-anthropology",
+      "scl-british-functionalism",
+      "scl-cultural-relativism",
+      "scl-development-anthropology",
+      "scl-digital-anthropology",
+      "scl-disability-anthropology",
+      "scl-economic-anthropology",
+      "scl-feminist-anthropology",
+      "scl-linguistic-anthropology",
+      "scl-medical-anthropology",
+      "scl-political-anthropology"
+    ],
     "edge-target-slug-unresolved": [
       "sch-annales-social-history-aggregate->historiography-section-18"
     ],
     "related-unresolved": [
-      "thk-arjun-appadurai->con-ethnoscapes",
-      "thk-arjun-appadurai->con-global-flows",
-      "thk-bruno-latour->con-actor-network-theory",
-      "thk-bruno-latour->con-translation-semiotics",
-      "thk-donna-haraway->con-situated-knowledge",
-      "thk-donna-haraway->con-cyborg-perspectives",
       "thk-douglas->thk-leach",
       "thk-douglas->con-purity-danger",
       "thk-douglas->con-classification-systems",
@@ -172,7 +148,13 @@
       "thk-geertz->con-thick-description",
       "thk-geertz->con-symbolic-anthropology",
       "thk-gluckman->thk-leach",
-      "thk-gluckman->con-ritual-conflict"
+      "thk-gluckman->con-ritual-conflict",
+      "thk-gluckman->con-social-drama",
+      "thk-gluckman->con-ordeal-ritual-judgment",
+      "thk-myerhoff->con-ritual-self-creation",
+      "thk-myerhoff->con-aging-embodiment",
+      "thk-myerhoff->con-performance-ethnography",
+      "thk-ortner->con-practice-theory"
     ],
     "slug-mismatch": [
       "thk-kimberlé-crenshaw",
@@ -193,8 +175,7 @@
     ]
   },
   "status_counts": {
-    "review-candidate": 2821,
-    "draft-pending": 63,
+    "review-candidate": 2884,
     "placeholder": 32,
     "draft-short": 1
   },
@@ -236,8 +217,7 @@
       "review-candidate": 149
     },
     "sociology": {
-      "draft-pending": 63,
-      "review-candidate": 429
+      "review-candidate": 492
     },
     "unclassified": {
       "placeholder": 32,

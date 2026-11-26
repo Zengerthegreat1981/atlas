@@ -33,7 +33,7 @@ William Safran, in "Diasporas in Modern Societies: Myths of Homeland and Return"
 
 ## Historical Context
 
-This field developed directly out of the profound American demographic transformations brought about by the Hart-Celler Immigration Act (1965), which abolished the old discriminatory system of ethnic quotas (which favored immigrants from northern and western Europe) and opened the door to large waves of immigration from Asia, Latin America, and the Middle East, radically changing the ethnic and demographic composition of American society as a whole within a relatively few decades. Alejandro Portes, born in Havana in 1944, arrived in the United States as a teenager and became a prominent professor, latterly at Princeton University. He studied Cuban and Mexican immigration, among other cases, combining fieldwork and interviews with quantitative analysis of immigrants' economic mobility and, with Rubén Rumbaut, of the second generation.
+This field developed directly out of the profound American demographic transformations brought about by the Hart-Celler Immigration Act (1965), which abolished the old discriminatory system of ethnic quotas (which favored immigrants from northern and western Europe) and opened the door to large waves of immigration from Asia, Latin America, and the Middle East, radically changing the ethnic and demographic composition of American society as a whole within a relatively few decades. Alejandro Portes, born in Havana in 1944, became a prominent professor in the United States, teaching at universities including Johns Hopkins and Princeton. He studied Cuban and Mexican immigration, among other cases, combining fieldwork and interviews with quantitative analysis of immigrants' economic mobility and, with Rubén Rumbaut, of the second generation.
 
 ## Further Key Concepts
 
@@ -50,5 +50,6 @@ These two frameworks provided fundamental analytical tools that have been influe
 ## Sources
 
 - Portes, Alejandro, and Rubén G. Rumbaut. *Immigrant America: A Portrait*. University of California Press, 1990.
+- Portes, Alejandro, and Rubén G. Rumbaut. *Legacies: The Story of the Immigrant Second Generation*. University of California Press, 2001.
 - Safran, William. "Diasporas in Modern Societies: Myths of Homeland and Return." *Diaspora: A Journal of Transnational Studies*, vol. 1, no. 1, 1991, pp. 83–99.
 - Portes, Alejandro, and Min Zhou. "The New Second Generation: Segmented Assimilation and Its Variants." *Annals of the American Academy of Political and Social Science*, vol. 530, 1993, pp. 74–96.

@@ -27,7 +27,7 @@ The classic definition, formulated by Bernard Berelson in 1952, describes conten
 
 ## Origins and Development
 
-Content analysis grew out of the study of mass communication in the early twentieth century. Its first systematic uses were practical: American researchers during the Second World War analysed enemy propaganda broadcasts to infer military intentions, and scholars examined newspaper coverage to track public opinion. Berelson's *Content Analysis in Communication Research* (1952) codified these practices into a formal method and gave the field its standard textbook for a generation. Ole Holsti's *Content Analysis for the Social Sciences and Humanities* (1969) extended the method beyond media studies into political science, history, and psychology. The decisive elaboration came with Klaus Krippendorff's *Content Analysis: An Introduction to Its Methodology* (1980), which reframed the method around the logic of inference: the analyst draws conclusions about senders, messages, and audiences from texts that were not produced for research purposes. From the 1990s onward, the spread of digital text and computer-assisted coding transformed the scale of the method, allowing researchers to analyse millions of documents while raising new questions about what automated techniques can and cannot capture.
+Content analysis grew out of the study of mass communication in the early twentieth century. Its first systematic uses were practical: American researchers during the Second World War analysed enemy propaganda broadcasts to infer military intentions, and scholars examined newspaper coverage to track public opinion. Berelson's *Content Analysis in Communication Research* (1952) codified these practices into a formal method and gave the field its standard textbook for a generation. Ole Holsti's *Content Analysis for the Social Sciences and Humanities* (1969) extended the method beyond media studies into political science, history, and psychology. A major elaboration came with Klaus Krippendorff's *Content Analysis: An Introduction to Its Methodology* (1980), which reframed the method around the logic of inference: the analyst draws conclusions about senders, messages, and audiences from texts that were not produced for research purposes. From the 1990s onward, the spread of digital text and computer-assisted coding transformed the scale of the method, allowing researchers to analyse millions of documents while raising new questions about what automated techniques can and cannot capture.
 
 ## Key Debates and Dimensions
 
@@ -42,5 +42,5 @@ Content analysis is more widely used today than at any point in its history, bec
 - Berelson, Bernard. *Content Analysis in Communication Research*. 1952.
 - Holsti, Ole R. *Content Analysis for the Social Sciences and Humanities*. 1969.
 - Krippendorff, Klaus. *Content Analysis: An Introduction to Its Methodology*. 1980.
-- Weber, Robert Philip. *Basic Content Analysis*. 1990.
+- Weber, Robert Philip. *Basic Content Analysis*. 1985; 2nd ed. 1990.
 - Neuendorf, Kimberly A. *The Content Analysis Guidebook*. 2002.

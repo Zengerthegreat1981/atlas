@@ -21,7 +21,7 @@ gaps: []
 
 ## Definition
 
-Alfred Gell (1945–1997) was a British anthropologist and professor at the London School of Economics (LSE). His book *Art and Agency* (1998), published after his death, is among the most influential works in the contemporary anthropology of art.
+Alfred Gell (1945–1997) was a British anthropologist who taught at the London School of Economics (LSE). His book *Art and Agency* (1998), published after his death, is among the most influential works in the contemporary anthropology of art.
 
 ## Historical Context
 
@@ -31,31 +31,28 @@ Gell conducted his early fieldwork among the Umeda of Papua New Guinea, and late
 
 ## Key Ideas and Method
 
-Another central concept of his is the idea of the artist as trapper. He likened the artwork to a trap that captures the viewer through technical virtuosity the viewer cannot fully explain, a notion he developed in his essay "The Technology of Enchantment and the Enchantment of Technology" (1992). He applied it to the decorated prow-boards of the canoes used in the Kula exchange of the Trobriand Islands, which Bronisław Malinowski had studied decades earlier.
+A central theme of his work is the captivating power of technical virtuosity that the viewer cannot fully explain, developed in his essay "The Technology of Enchantment and the Enchantment of Technology" (1992); in "Vogel's Net" (1996) he also explored the likeness between artworks and traps. In the 1992 essay he discussed the decorated prow-boards of the canoes used in the Kula exchange of the Trobriand Islands, which Bronisław Malinowski had studied decades earlier.
 
 In *Art and Agency*, Gell rejected traditional aesthetic and semiotic approaches to studying art (which ask "what does the artwork mean?"). He proposed instead an "agency theory": artworks and made objects (such as statues and decorated canoe prow-boards) are viewed as "secondary agents" capable of influencing others and directing their actions, within a network of relations among four terms: the artist, the index (the artwork), the recipient, and the prototype. He used these terms to build a formal analytical schema of the relations between agents and patients.
 
 ## Key Works and Representatives
 
-Among his most important works are *Metamorphosis of the Cassowaries: Umeda Society, Language and Ritual* (1975), on the Umeda; *The Gods at Play: Vertigo and Possession in Muria Religion* (1980), on the Muria; *Wrapping in Images: Tattooing in Polynesia* (1993), on Polynesian tattooing; and *Art and Agency: An Anthropological Theory* (1998, published after his death). *The Art of Anthropology: Essays and Diagrams* (1999), edited by Eric Hirsch, collected his shorter essays.
+Among his most important works are *Metamorphosis of the Cassowaries: Umeda Society, Language and Ritual* (1975), on the Umeda; the article "The Gods at Play: Vertigo and Possession in Muria Religion" (*Man*, 1980), on the Muria; *Wrapping in Images: Tattooing in Polynesia* (1993), on Polynesian tattooing; and *Art and Agency: An Anthropological Theory* (1998, published after his death). *The Art of Anthropology: Essays and Diagrams* (1999), edited by Eric Hirsch, collected his shorter essays.
 
 ## Impact and Criticism
 
-His theory is now taught regularly in museum studies programs and in world art history, and it has become one of the few theoretical frameworks able to approach the statues of Indigenous peoples and contemporary Western art with the same analytical tools, without assuming a prior aesthetic hierarchy between them.
+His theory is widely taught in museum studies and art history, and offers a framework for approaching the statues of Indigenous peoples and contemporary Western art with the same analytical tools, without assuming a prior aesthetic hierarchy between them.
 
 *Art and Agency* has been widely cited in studies of material culture and art history, influencing archaeologists, art historians, and museum scholars. Some researchers criticized it for excessive abstraction and for building a single general theory on scattered ethnographic examples that differ in time and place. His model has also sometimes been considered formally complex, which makes it difficult to apply in new case studies.
 
 His thesis also established an ongoing dialogue with archaeologists interested in studying ancient material objects (such as statues and funerary artifacts) as agents rather than as passive symbols to be read. This influence has been linked to the broader "material turn" in the humanities.
 
-## Connection to the Arab-Islamic Heritage
-
-His analysis of the technical "craft virtuosity" can also be linked to studies of Arabic calligraphy and Islamic geometric ornamentation (arabesque). In these, the geometric complexity of the decoration may be read as producing an effect on the viewer comparable to what Gell described as the "trap" of technical virtuosity. The aims of such an effect in the Islamic context, however, are often tied to religious conceptions rather than to the Western art-market setting from which Gell started.
-
-Gell did not address the Islamic heritage directly in his works. However, his framework on the "agency" of made objects was later used by researchers studying Islamic decorative arts (such as Arabic calligraphy and geometric ornamentation), viewing them not merely as decoration but as an active tool in religious and political space. In this view, a handwritten Qur'an or an inscription on architecture is seen as a "carrier" of the agency of the sacred text itself toward the viewer. This is a useful methodological parallel, though Gell did not apply it himself.
-
 ## Sources
 
-- Alfred Gell, *Art and Agency: An Anthropological Theory*, 1998.
+- Alfred Gell, *Art and Agency: An Anthropological Theory*. Clarendon Press, 1998.
 - Alfred Gell, *Wrapping in Images: Tattooing in Polynesia*, 1993.
 - Alfred Gell, *The Anthropology of Time: Cultural Constructions of Temporal Maps and Images*, 1992.
+- Alfred Gell, "The Technology of Enchantment and the Enchantment of Technology." In J. Coote and A. Shelton (eds), *Anthropology, Art and Aesthetics*. Clarendon Press, 1992.
+- Alfred Gell, "Vogel's Net: Traps as Artworks and Artworks as Traps." *Journal of Material Culture* 1(1), 1996.
+- Alfred Gell, "The Gods at Play: Vertigo and Possession in Muria Religion." *Man* 15(2), 1980.
 - Alfred Gell, *Metamorphosis of the Cassowaries: Umeda Society, Language and Ritual*, 1975.

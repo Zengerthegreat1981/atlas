@@ -22,7 +22,7 @@ gaps: []
 
 # Sex, Gender and Society
 
-A founding work by Ann Oakley (1972), in which she set out for a wide readership the conceptual distinction between biological "sex" and socially acquired "gender," which became a foundation of the sociology of gender.
+An influential early work by Ann Oakley (1972), in which she set out for a wide readership the conceptual distinction between biological "sex" and socially acquired "gender," which became a foundation of the sociology of gender.
 
 ## Context
 
@@ -38,7 +38,7 @@ Oakley drew on broad comparative anthropological evidence, especially Margaret M
 
 ## Impact
 
-This distinction between sex and gender became a basic conceptual tool in feminist sociology and gender studies worldwide. It directly paved the way for Oakley's later analysis of housework in her book *The Sociology of Housework* (1974) as a socially gendered construct and not a "natural" feminine duty. It also deeply influenced later feminist theories (including Judith Butler's later critique of the fixity of the separation between sex and gender itself in the theory of gender performativity, which argued that even biological "sex" itself is partly a discursive construct and not a purely neutral biological given). The distinction itself became a standard teaching foundation in almost all university gender sociology curricula ever since.
+This distinction between sex and gender became a basic conceptual tool in feminist sociology and gender studies worldwide. It directly paved the way for Oakley's later analysis of housework in her book *The Sociology of Housework* (1974) as a socially gendered construct and not a "natural" feminine duty. It also deeply influenced later feminist theories (including Judith Butler's later critique of the fixity of the separation between sex and gender itself in the theory of gender performativity, which argued that even biological "sex" itself is partly a discursive construct and not a purely neutral biological given). The distinction itself became a standard element of teaching in the sociology of gender.
 
 ## Critique of the Prevailing Biologism
 

@@ -7,7 +7,7 @@ level: متوسط
 title: Florian Znaniecki
 en: Florian Znaniecki
 crumb: "Sociology ← Florian Znaniecki"
-dates: International · 1882-1958
+dates: Poland / United States · 1882-1958
 active_start: 1882
 active_end: 1958
 edges: []

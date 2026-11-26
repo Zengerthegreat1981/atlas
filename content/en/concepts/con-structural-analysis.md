@@ -27,7 +27,7 @@ Structural analysis is the study of social life through the relatively enduring 
 
 The approach descends from Emile Durkheim's insistence that social facts are external to the individual and constrain conduct, and from Karl Marx's analysis of the economic structure as the foundation of class relations. In anthropology, A. R. Radcliffe-Brown's *Structure and Function in Primitive Society* (1952) made the study of social structure — the network of actually existing relations between persons — the discipline's central task. Claude Lévi-Strauss transformed the idea in *Structural Anthropology* (French 1958; English 1963), arguing that beneath the diversity of myths, kinship systems, and classifications lie unconscious structures of the human mind, such as binary oppositions, which can be uncovered by formal analysis.
 
-In post-war American sociology, Talcott Parsons treated structure as the patterned, institutionalised aspect of social systems, while Peter Blau, in *Exchange and Power in Social Life* (1964), showed how large-scale structures — differentiation, hierarchy, and inequality — emerge from elementary processes of exchange between individuals. A decisive break came with Anthony Giddens's *The Constitution of Society* (1984), which argued that structure is not merely an external constraint: it is both the medium and the outcome of social action, reproduced by the very practices it makes possible. Pierre Bourdieu, in *Outline of a Theory of Practice* (1972), added that structures are internalised as durable dispositions, the habitus, so that the social order is carried inside the body and the mind.
+In post-war American sociology, Talcott Parsons treated structure as the patterned, institutionalised aspect of social systems, while Peter Blau, in *Exchange and Power in Social Life* (1964), showed how large-scale structures — differentiation, hierarchy, and inequality — emerge from elementary processes of exchange between individuals. An important reformulation came with Anthony Giddens's *The Constitution of Society* (1984), which argued that structure is not merely an external constraint: it is both the medium and the outcome of social action, reproduced by the very practices it makes possible. Pierre Bourdieu, in *Outline of a Theory of Practice* (1972), added that structures are internalised as durable dispositions, the habitus, so that the social order is carried inside the body and the mind.
 
 ## Key Debates and Dimensions
 
@@ -42,8 +42,8 @@ Structural analysis remains indispensable to sociology. It frames research on in
 ## Sources
 
 - A. R. Radcliffe-Brown, *Structure and Function in Primitive Society*, 1952.
-- Claude Lévi-Strauss, *Structural Anthropology*, 1958.
+- Claude Lévi-Strauss, *Structural Anthropology* (French 1958; English 1963).
 - Peter M. Blau, *Exchange and Power in Social Life*, 1964.
-- Pierre Bourdieu, *Outline of a Theory of Practice*, 1972.
+- Pierre Bourdieu, *Outline of a Theory of Practice*, 1972 (French original; English translation 1977).
 - Anthony Giddens, *The Constitution of Society: Outline of the Theory of Structuration*, 1984.
 - Karl Marx, *Capital: A Critique of Political Economy*, vol. 1, 1867.

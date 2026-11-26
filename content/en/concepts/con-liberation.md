@@ -47,6 +47,6 @@ Liberation movements have not ended with decolonisation. Indigenous movements ac
 
 - Albert Memmi, *The Colonizer and the Colonized* (1957)
 - Frantz Fanon, *The Wretched of the Earth* (1961)
-- Paulo Freire, *Pedagogy of the Oppressed* (1968)
+- Paulo Freire, *Pedagogy of the Oppressed* (written 1968; English translation 1970)
 - Gustavo Gutiérrez, *A Theology of Liberation* (1971)
 - Sidney Tarrow, *Power in Movement: Social Movements and Contentious Politics* (1994)

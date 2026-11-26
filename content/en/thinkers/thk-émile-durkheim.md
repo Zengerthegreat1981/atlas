@@ -6,66 +6,62 @@ part: sociology
 level: متوسط
 title: Émile Durkheim
 en: Émile Durkheim
-crumb: علم الاجتماع ← Émile Durkheim
+crumb: "Sociology ← Émile Durkheim"
 dates: International · 1858-1917
 active_start: 1858
-active_end: مستمر
+active_end: 1917
 edges: []
 related: []
 gaps:
-- Detailed case studies pending
-- Contemporary empirical examples pending
-- Cross-references to related concepts pending
+- Contemporary empirical examples: not yet covered
 sociological_tradition: other
 sociological_paradigm: micro-macro
 ---
 # Émile Durkheim
 
-## Biographical Foundations and Intellectual Context
+Émile Durkheim (1858-1917) was a French sociologist who did much to establish sociology as a university discipline in France. His central problem was how social cohesion and moral life are possible, particularly in modern societies.
 
-Émile Durkheim (International · 1858-1917) lived and worked during a period marked by significant social, political, and intellectual transformation. The intellectual environment in which they developed their ideas included particular schools of thought, scientific developments, and philosophical traditions. Their education and early career shaped their theoretical commitments and research questions. Family background, personal relationships, and institutional positions influenced the trajectory of their intellectual development. Specific historical events and social movements informed their concerns and analytical frameworks. The relationship between intellectual development and biographical circumstances remains important for understanding how thinkers approach their work. Subsequent biographers and interpreters have sometimes emphasized different biographical elements, leading to different interpretations of their theoretical significance.
+## Life and Context
 
-## Foundational Theoretical Contributions
+Durkheim was born in Épinal into a Jewish family with a rabbinical tradition. He studied at the École Normale Supérieure, taught philosophy in secondary schools and in 1887 took up a post in pedagogy and social science at the University of Bordeaux. In 1902 he moved to the Sorbonne, where his chair was later renamed to include sociology (1913). He founded *L'Année sociologique*, whose circle included Marcel Mauss, Henri Hubert and Maurice Halbwachs. A republican and a defender of Dreyfus, he saw secular moral education as a public task. His son André was killed in the First World War, and Durkheim died in 1917.
 
-This thinker developed distinctive analytical frameworks and theoretical concepts that continue influencing contemporary sociology. Their major insight concerned how to understand particular social phenomena or how societies function more generally. The theoretical innovation often involved reconceptualizing familiar social phenomena or proposing entirely new analytical categories. Their approach combined empirical observation with theoretical abstraction to develop generalizable understanding. The precision and scope of their concepts enabled other scholars to apply them to diverse research questions. Different interpreters have sometimes emphasized different aspects of their theoretical contributions, suggesting the work contains tensions or multiple layers. The relationship between their work and contemporary theory remains contested, with some viewing them as foundational while others see their specific conclusions as requiring revision or rejection.
+## Main Ideas
 
-## Major Works and Publications
+- **Social facts.** Ways of acting and thinking that are external to individuals and constrain them form the object of sociology.
+- **Division of labour.** Societies held together by likeness (mechanical solidarity) differ from those held together by differentiated interdependence (organic solidarity); repressive and restitutive law serve as indicators.
+- **Anomie.** Weak regulation of desires and relations is an abnormal condition associated with rapid change and economic disorder.
+- **Individualism.** Respect for the person can itself be a shared moral ideal, as he argued in "Individualism and the Intellectuals" (1898).
+- **Religion.** Beliefs and rites concerning sacred things unite a moral community, and collective effervescence renews its attachments.
+- **Categories of thought.** With Mauss, in *Primitive Classification* (1903), he argued that systems of classification are related to social organization.
 
-This thinker produced influential publications that established key ideas and continue guiding contemporary research. Major works often combined theoretical innovation with careful empirical research or historical analysis. The publications typically address fundamental questions about how societies are organized and how social change occurs. Reception of major works sometimes evolved over time as subsequent developments revealed new significance or suggested limitations. Different audiences (academic sociologists, political activists, policy makers) drew different conclusions from the same works. Later scholars often spent considerable time interpreting and reinterpreting major works, sometimes disagreeing about their actual arguments. The continuing engagement with this thinker's publications indicates their enduring intellectual significance despite potential disagreements about their conclusions.
+## Case Studies
 
-## Methodological Contributions and Innovations
+*Suicide* (1897) compared rates across countries, religious confessions, family situations and economic periods. Durkheim linked variation to integration and regulation, distinguishing egoistic, altruistic and anomic suicide and noting fatalistic suicide briefly. *The Elementary Forms of Religious Life* (1912) relied on published ethnography of Aboriginal Australian totemism to build a general theory of religion and knowledge.
 
-This thinker pioneered approaches to studying social phenomena that influenced how sociology conducted research. The methodological innovations often emerged from theoretical commitments about what valid sociological knowledge requires. Their methods attempted to balance demands of rigor with engagement with meaningful social questions. Subsequent scholars refined and extended the methodological approaches they pioneered. The spread of these methods through professional networks and institutional training meant their influence extended to scholars who never read their works directly. Contemporary critiques sometimes challenge the methodological approaches this thinker championed. The relationship between their theoretical and methodological contributions helps clarify the interconnections between theory and method.
+## Major Works
 
-## Major Influences and Intellectual Lineage
+- *The Division of Labour in Society* (1893)
+- *The Rules of Sociological Method* (1895)
+- *Suicide* (1897)
+- *The Elementary Forms of Religious Life* (1912)
+- *Moral Education* (published 1925)
 
-This thinker built upon work by predecessors while sometimes explicitly criticizing earlier approaches. Their intellectual debt to others is evident in citations and direct engagement with prior scholarship. They participated in ongoing theoretical conversations with contemporaries, both allied scholars and competitors. The school(s) of thought they belonged to or influenced shaped the trajectory of sociology's development. Intellectual genealogy helps clarify how theoretical traditions develop and transform across generations. Different scholars have traced different lineages from this thinker to contemporary work, sometimes disagreeing about their true intellectual heirs. Understanding intellectual influences requires grasping both explicit acknowledgments and unrecognized debts.
+## Method
 
-## Contemporary Relevance and Application
+He asked sociologists to treat social facts as things, to set aside preconceptions, to explain social facts by other social facts and to distinguish causes from functions. Comparison, especially concomitant variation, was his substitute for experiment.
 
-Scholars continue applying this thinker's concepts and frameworks to analyze contemporary social phenomena. Their insights prove valuable for understanding modern challenges despite potential historical distance between their era and the present. Contemporary researchers sometimes extend the frameworks in new directions or apply them to questions the original thinker could not have anticipated. The thinker's continued influence suggests core insights retain relevance even as specific conclusions may require modification. Different schools of contemporary sociology claim this thinker as intellectual ancestor, sometimes reading their work in contradictory ways. The capacity of their work to sustain multiple interpretations reflects both analytical sophistication and potential ambiguities.
+## Influence and Criticism
 
-## Critical Appraisals and Debates
+Durkheim influenced functionalism, social anthropology, structuralism, and the study of religion, education, law and deviance. Critics have questioned the reliability of official suicide statistics, inferences from group rates to individual conduct, the secondhand ethnography and a limited treatment of power and conflict.
 
-Scholars within the same tradition as this thinker sometimes debate the correct interpretation of their work. Critics from competing schools raise fundamental objections to this thinker's assumptions and conclusions. Feminist scholars have identified limitations in how this thinker addressed or ignored gender relations. Postcolonial critics argue this thinker's analysis reflected particular Western perspectives sometimes presented as universal. Scholars of color have noted how this thinker's work sometimes overlooked or inadequately addressed racial dimensions of social phenomena. Contemporary defenders of this thinker's work argue these criticisms require refinement rather than rejection of core insights. The ongoing critical engagement indicates this thinker remains intellectually significant even when controversial.
+## Related Concepts
 
-## Legacy and Institutional Impact
-
-This thinker's ideas became institutionalized through university positions, schools of thought, and research programs bearing their influence. Major universities eventually offered courses devoted to this thinker's work. Professional associations and journals promoted scholarship continuing their traditions. Graduate students trained in this thinker's theoretical frameworks carried those perspectives into their own careers. The institutionalization of their ideas meant influence extended far beyond direct readers of their work. Different institutions sometimes emphasized different aspects of this thinker's contributions, leading to regional or national variations in how their work was understood and applied.
-
-## Ongoing Reinterpretation and Development
-
-Successive generations have reinterpreted this thinker's work in light of new theoretical developments and social changes. Digital humanities approaches now enable new forms of textual analysis of their writings. Recent scholarship sometimes recovers neglected aspects of their work or identifies previously unrecognized contributions. Interdisciplinary engagement brings perspectives from fields beyond sociology that illuminate new dimensions of their work. Translation and international scholarship reveal how different cultures have interpreted and adapted their ideas. The continuing engagement with this thinker's work by subsequent generations suggests enduring intellectual significance.
-
-## Relationship to Other Major Thinkers
-
-This thinker engaged with and was influenced by other major figures in sociology and related disciplines. The relationship ranged from intellectual alliance to fundamental disagreement depending on the other figure and dimension of analysis. Understanding their position within broader networks of thinkers clarifies their distinctive contributions. Some thinkers built explicitly upon this thinker's foundations while others explicitly opposed their approaches. Comparative analysis of multiple thinkers reveals both consensus and enduring disagreement within sociology.
+Solidarity, anomie, collective consciousness, collective representations; compare Comte, Marx, Weber and Robert Merton.
 
 ## Sources
 
-- Major published works by this thinker
-- Contemporary scholarship analyzing and developing their ideas
-- Critical engagements questioning their assumptions
-- Biographical and historical studies of their intellectual development
-- Comparative studies situating their work within broader sociological traditions
-
+- Émile Durkheim, *De la division du travail social*, 1893.
+- Émile Durkheim, *Les règles de la méthode sociologique*, 1895.
+- Émile Durkheim, *Le suicide*, 1897.
+- Émile Durkheim, *Les formes élémentaires de la vie religieuse*, 1912.
+- Steven Lukes, *Émile Durkheim: His Life and Work*, 1973.

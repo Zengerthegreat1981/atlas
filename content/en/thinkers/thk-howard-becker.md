@@ -7,9 +7,9 @@ level: متوسط
 title: Howard S. Becker
 en: Howard S. Becker
 crumb: "Sociology ← Howard S. Becker"
-dates: International · 1928-present
+dates: International · 1928-2023
 active_start: 1928
-active_end: مستمر
+active_end: 2023
 edges: []
 related: []
 gaps:
@@ -19,7 +19,7 @@ sociological_paradigm: micro-macro
 ---
 # Howard S. Becker
 
-Howard Saul Becker (born 1928) is an American sociologist associated with the second Chicago school, whose studies of deviance, occupations and the arts shaped labelling theory and the sociology of culture.
+Howard Saul Becker (1928-2023) was an American sociologist associated with the second Chicago school, whose studies of deviance, occupations and the arts shaped labelling theory and the sociology of culture.
 
 ## Life and Context
 
@@ -37,7 +37,7 @@ Becker was born in Chicago and trained there, receiving his doctorate in sociolo
 
 - *Boys in White* (1961, with Blanche Geer, Everett Hughes and Anselm Strauss)
 - *Outsiders: Studies in the Sociology of Deviance* (1963)
-- *Making the Grade* (1968)
+- *Making the Grade* (1968, with Blanche Geer and Everett Hughes)
 - *Art Worlds* (1982)
 - *Writing for Social Scientists* (1986)
 - *Tricks of the Trade* (1998)
@@ -53,7 +53,7 @@ Becker championed participant observation, interviewing and analytic care in qua
 
 ## Influence and Criticism
 
-Labelling theory had a lasting effect on criminology, the sociology of medicine and cultural sociology. Critics argued that the approach neglects the causes of initial rule-breaking and understates the harm of some deviance. Alvin Gouldner's "The Sociologist as Partisan" (1968) criticised the sympathy toward underdogs. Becker's accessible, craft-oriented style remains widely taught.
+Labelling theory had a lasting effect on criminology, the sociology of medicine and cultural sociology. Critics argued that the approach neglects the causes of initial rule-breaking and understates the harm of some deviance. Alvin Gouldner's "The Sociologist as Partisan" (1968) criticised the sympathy toward underdogs. Becker's accessible, craft-oriented style remains widely taught. He died in 2023.
 
 ## Sources
 

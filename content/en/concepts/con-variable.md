@@ -30,9 +30,9 @@ Variables are also classified by their level of measurement, a scheme set out by
 
 ## Development: Operationalisation
 
-The decisive step in using variables is **operationalisation**: turning an abstract concept into a concrete, measurable procedure. Paul Lazarsfeld, in *The Language of Social Research* (1955, with Morris Rosenberg), showed how a concept such as "alienation" is translated into indicators — questionnaire items about powerlessness, meaninglessness, and isolation — which are then combined into an index. Operationalisation makes research transparent and replicable, because other researchers can inspect the indicators and judge whether they capture the concept.
+The decisive step in using variables is **operationalisation**: turning an abstract concept into a concrete, measurable procedure. The work of Paul Lazarsfeld, represented in *The Language of Social Research* (1955, edited with Morris Rosenberg), set out how abstract concepts are translated into indicators that are then combined into an index. A concept such as "alienation", for example, might be measured through questionnaire items about powerlessness, meaninglessness, and isolation. Operationalisation makes research transparent and replicable, because other researchers can inspect the indicators and judge whether they capture the concept.
 
-But it also creates a permanent tension. A concept is always richer than its indicators: "social class" reduced to income alone misses wealth, status, and power, while "religiosity" reduced to church attendance misses belief and private practice. Hubert Blalock, in *Causal Inferences in Nonexperimental Research* (1964), warned that the validity of any finding depends on the quality of this translation, and that much sociological disagreement is really disagreement about measurement.
+But it also creates a permanent tension. A concept is always richer than its indicators: "social class" reduced to income alone misses wealth, status, and power, while "religiosity" reduced to church attendance misses belief and private practice. Hubert Blalock, in *Causal Inferences in Nonexperimental Research* (1964), drew attention to the gap between theoretical concepts and their measures, on whose quality the soundness of any finding depends.
 
 ## Causality and the Variable
 

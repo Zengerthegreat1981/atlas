@@ -13,23 +13,21 @@ edges:
   - rel: "developed_method", target: "Situated Knowledge", target_type: "مفهوم"
   - rel: "influenced", target: "Cyborg Anthropology", target_type: "مفهوم"
 related:
-  - id: "con-situated-knowledge", title: "Situated Knowledge and Perspectives", type: "مفهوم"
-  - id: "con-cyborg-perspectives", title: "Cyborg Perspectives and Hybridity", type: "مفهوم"
   - id: "thk-paul-rabinow", title: "Paul Rabinow", type: "مفكر"
   - id: "thk-talal-asad", title: "Talal Asad", type: "مفكر"
 gaps:
-  - "Application to non-Western scientific knowledge systems"
-  - "Engagement with indigenous science studies"
-  - "Contemporary digital and AI assemblages"
+  - "Application to non-Western scientific knowledge systems: not yet covered"
+  - "Engagement with indigenous science studies: not yet covered"
+  - "Contemporary digital and AI assemblages: not yet covered"
 ---
 
 # Donna Haraway: Situated Knowledge, Cyborgs, and Response-Ability
 
-Donna Haraway (b. 1944) transformed anthropology and science studies through her concept of **situated knowledge**—the claim that all knowledge is produced from particular locations and perspectives, and that acknowledging this partiality is essential to producing more robust, more accountable knowledge. Her "Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective" (1991) has become one of the most influential texts in contemporary epistemology, challenging the notion of "view from nowhere" and insisting that good science requires explicit acknowledgment of the embodied, located perspective from which knowledge is produced. Beyond epistemology, Haraway's work on **cyborgs**—hybrid beings mixing human, machine, and animal—offers a framework for understanding contemporary life and possibility beyond humanist dichotomies. Her concept of **response-ability**—the ability-to-respond—positions subjects as responsible for what they bring into being through their practices and entanglements with others, a framework that has influenced anthropology, science studies, and ethics.
+Donna Haraway (b. 1944) reshaped debates in anthropology and science studies through her concept of **situated knowledge**—the claim that all knowledge is produced from particular locations and perspectives, and that acknowledging this partiality is essential to producing more robust, more accountable knowledge. Her essay "Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective" (1988) has become one of the most influential texts in contemporary epistemology, challenging the notion of "view from nowhere" and insisting that good science requires explicit acknowledgment of the embodied, located perspective from which knowledge is produced. Beyond epistemology, Haraway's work on **cyborgs**—hybrid beings mixing human, machine, and animal—offers a framework for understanding contemporary life and possibility beyond humanist dichotomies. Her concept of **response-ability**—the ability-to-respond—positions subjects as responsible for what they bring into being through their practices and entanglements with others, a framework that has influenced anthropology, science studies, and ethics.
 
 ## Biographical Context and Intellectual Formation
 
-Donna Haraway was born in Colorado in 1944 and studied zoology, philosophy, and the history of science at the University of Colorado and Yale University, completing her doctorate in biology at Yale. She was trained as a natural scientist but became increasingly engaged with philosophy, history, and feminist theory. She has held positions in history of consciousness, anthropology, and women's studies at the University of California, Santa Cruz, where she became a leading figure in science and technology studies (STS).
+Donna Haraway was born in Denver, Colorado, in 1944. She studied zoology, philosophy, and literature at Colorado College and completed a doctorate in biology at Yale University in 1972, with a dissertation on the use of organic metaphors in developmental biology (published as *Crystals, Fabrics, and Fields*, 1976). She was trained as a natural scientist but became increasingly engaged with philosophy, history, and feminist theory. After teaching at the University of Hawai'i and Johns Hopkins University, she joined the History of Consciousness program at the University of California, Santa Cruz, where she became a leading figure in feminist science and technology studies (STS) and is now professor emerita.
 
 Haraway's intellectual formation combined scientific training with feminist epistemology, history and philosophy of science, and engagement with technoscience. She was influenced by feminist standpoint theory but also by Foucault, poststructuralism, and science studies. This interdisciplinary formation enabled her to bring scientific sophistication to critical epistemological questions while maintaining engagement with practical, embodied dimensions of knowledge production.
 
@@ -37,7 +35,7 @@ Haraway's intellectual formation combined scientific training with feminist epis
 
 Haraway's central methodological innovation was **situated knowledge**—an epistemological approach insisting that all knowledge is produced from particular bodily locations and perspectives, and that this situatedness is not a limitation to be overcome but a resource for producing better knowledge. Rather than claiming objectivity through the fantasy of a "view from nowhere," Haraway argues that knowledge-makers must acknowledge their location and perspectives and understand how these shape what can be known.
 
-Her innovations included: (1) **accounting for embodied perspective**—recognizing that knowledge is produced by embodied beings located in particular places, times, and social positions; (2) **making vision accountable**—examining how perspective shapes what is seen and claiming responsibility for what one makes visible or invisible; (3) **combining scientific rigor with partiality**—arguing that rigorous science requires acknowledging partiality rather than claiming false objectivity; (4) **understanding knowledge-production as collective assemblages**—examining how knowledge is produced through relationships between humans, tools, instruments, and other beings; (5) **developing **cyborg** frameworks**—conceptualizing contemporary existence as composed of hybrid human-machine-animal assemblages that transgress boundaries and offer possibilities beyond humanist categories.
+Her innovations included: (1) **accounting for embodied perspective**—recognizing that knowledge is produced by embodied beings located in particular places, times, and social positions; (2) **making vision accountable**—examining how perspective shapes what is seen and claiming responsibility for what one makes visible or invisible; (3) **combining scientific rigor with partiality**—arguing that rigorous science requires acknowledging partiality rather than claiming false objectivity; (4) **understanding knowledge-production as collective assemblages**—examining how knowledge is produced through relationships between humans, tools, instruments, and other beings; (5) **developing cyborg frameworks**—conceptualizing contemporary existence as composed of hybrid human-machine-animal assemblages that transgress boundaries and offer possibilities beyond humanist categories.
 
 Haraway's approach differed from earlier reflexivity by insisting that acknowledging partiality did not undermine knowledge claims but strengthened them. Situated knowledge is not relativism but better objectivity achieved through explicit acknowledgment of perspective.
 
@@ -45,13 +43,15 @@ Haraway's approach differed from earlier reflexivity by insisting that acknowled
 
 Haraway's publications established situated knowledge and cyborg perspectives as central to contemporary epistemology:
 
-- **A Cyborg Manifesto: Science, Technology, and Socialist-Feminism in the Late Twentieth Century** (1985) — Her most famous work, proposing the cyborg as a figure for understanding contemporary life and possibility. Argues that cyborgs—hybrid beings mixing human, machine, and animal—offer frameworks beyond oppositional humanist categories and point toward liberatory possibilities.
+- **A Cyborg Manifesto: Science, Technology, and Socialist-Feminism in the Late Twentieth Century** (first published in *Socialist Review*, 1985; reprinted in *Simians, Cyborgs, and Women*, 1991) — Her most famous work, proposing the cyborg as a figure for understanding contemporary life and possibility. Argues that cyborgs—hybrid beings mixing human, machine, and animal—offer frameworks beyond oppositional humanist categories and point toward liberatory possibilities.
 
-- **Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective** (1991) — Her most influential epistemological work, establishing situated knowledge as approach to producing better science and knowledge. Argues that good science requires accountable, embodied, partial perspectives rather than false claims to objectivity.
+- **Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective** (*Feminist Studies*, 1988; reprinted 1991) — Her most influential epistemological work, establishing situated knowledge as approach to producing better science and knowledge. Argues that good science requires accountable, embodied, partial perspectives rather than false claims to objectivity.
 
 - **Primate Visions: Gender, Race, and Nature in the World of Modern Science** (1989) — Historical study of primatology examining how gender, race, and other social categories shape scientific knowledge production about primates.
 
-- **Staying with the Trouble: Making Kin in the Chthulucene** (2016) — Extending situated knowledge and cyborg frameworks to questions of environmental crisis, extinction, and what forms of life and relationship might be possible in troubled times.
+- **The Companion Species Manifesto** (2003) and **When Species Meet** (2008) — Studies of human-animal relations, using dogs and other companion species to rethink kinship, training, and co-evolution.
+
+- **Staying with the Trouble: Making Kin in the Chthulucene** (2016) — Extending these concerns to environmental crisis, extinction, and what forms of life and relationship might be possible in troubled times.
 
 - **Modest_Witness@Second_Millennium: FemaleMan©_Meets_OncoMouse™** (1997) — Examining technoscience, intellectual property, and life forms in late capitalism.
 
@@ -59,15 +59,15 @@ These works established that knowledge production is always situated, hybrid, an
 
 ## Fieldwork Practice: Science Studies and Ethnography of Technoscience
 
-Haraway's research practice involved studying science, medicine, and technology through historical analysis and ethnographic engagement. Her work on primatology involved archival research examining how scientific texts constructed knowledge about primates, how gender and race shaped primatological knowledge, and how primatology related to colonial and racist projects.
+Haraway is a biologist-turned-historian and philosopher of science rather than a fieldworking ethnographer, but her work has been widely taken up by anthropologists of science. Her research practice combined close reading of scientific texts, museum displays, photographs, and other archives with attention to the material practices of science. In *Primate Visions* she examined how scientific narratives, dioramas, and field practices constructed knowledge about primates, how gender and race shaped primatology, and how the field related to colonial and racial projects.
 
-Her work on technoscience involved examining laboratories, hospitals, and biomedical institutions, studying how knowledge is produced through human-machine-animal assemblages. She examined how specific instruments, organisms, practices, and social arrangements produced particular forms of knowledge. She studied not only what scientists know but how their knowledge-making practices create and transform the world.
+Her later work on technoscience examined genetic engineering, patenting, and bioscience as sites where nature, culture, and commerce are entangled, treating organisms, instruments, and institutions together as part of how knowledge is made. She asked not only what scientists know but how their knowledge-making practices create and transform the world.
 
 Her methodology emphasized that understanding science and technology requires understanding not only explicit theories but the embodied, material practices through which knowledge is produced and how these practices are entangled with power, gender, race, and other social dimensions.
 
 ## Theoretical Impact: Epistemology, Ethics, and Response-Ability
 
-Haraway's epistemological contribution fundamentally challenged notions of disembodied, universal knowledge. By insisting on situatedness, she demonstrated that the fantasy of "view from nowhere" actually obscures the perspectives and bodies producing knowledge. Better knowledge comes from making perspective explicit and acknowledging the responsibilities knowledge-makers bear.
+Haraway's epistemological contribution challenged notions of disembodied, universal knowledge. By insisting on situatedness, she argued that the fantasy of "view from nowhere" actually obscures the perspectives and bodies producing knowledge. Better knowledge comes from making perspective explicit and acknowledging the responsibilities knowledge-makers bear.
 
 Her work on cyborgs suggested that contemporary existence is fundamentally hybrid, mixing human, machine, and animal in ways that exceed humanist categories. Rather than lamenting this hybridity as loss or contamination, Haraway suggested that cyborg existence offers possibilities for new alliances, different ways of being related, and escape from oppressive humanist categories (particularly those structured around gender, race, nature/culture divisions).
 
@@ -85,9 +85,9 @@ However, Haraway's influence has been profound. Her insistence on situated knowl
 
 ## Postcolonial Positioning and Decolonial Knowledge
 
-Haraway's work on situated knowledge supports decolonial epistemologies by validating diverse perspectives and insisting that Western science's claims to universality obscure its particular situatedness. Her work has been engaged with indigenous knowledge systems and anti-colonial scholarship, though her focus on Western technoscience has sometimes limited attention to non-Western knowledge systems.
+Haraway's work on situated knowledge supports decolonial epistemologies by validating diverse perspectives and insisting that Western science's claims to universality obscure its particular situatedness. Her work has drawn on anti-colonial and Black and Indigenous feminist scholarship, though her focus on Western technoscience has sometimes limited sustained attention to non-Western knowledge systems.
 
-Her later work on multispecies entanglement and "making kin in the Chthulucene" engages with indigenous scholarship on relationships with non-human beings and land, suggesting possibilities for new forms of kinship beyond humanist and colonial frameworks.
+Her later work on multispecies entanglement and "making kin in the Chthulucene" gestures toward Indigenous and other relational understandings of human and non-human worlds, while critics note that such borrowings need careful attribution and political specificity.
 
 ## Contemporary Relevance and Legacy
 
@@ -101,22 +101,22 @@ Contemporary applications extend her framework to digital knowledge systems, art
 
 - **A Cyborg Manifesto: Science, Technology, and Socialist-Feminism in the Late Twentieth Century** (1985) — Foundational text on cyborg perspectives and hybrid existence
 - **Primate Visions: Gender, Race, and Nature in the World of Modern Science** (1989) — Historical study of primatology and knowledge production
-- **Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective** (1991) — Foundational epistemological work on situated knowledge
+- **Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective** (1988) — Foundational epistemological work on situated knowledge
 - **Modest_Witness@Second_Millennium: FemaleMan©_Meets_OncoMouse™** (1997) — Study of technoscience and life forms in late capitalism
+- **When Species Meet** (2008) — Study of human-animal relations and companion species
 - **Staying with the Trouble: Making Kin in the Chthulucene** (2016) — Engagement with environmental crisis and multispecies relationship
 
 ## Selected Quotations
 
-> "Vision is always a question of the power to see—and perhaps of the violence implicit in our visualizing practices." — *Situated Knowledges* (1991)
+> "Vision is always a question of the power to see—and perhaps of the violence implicit in our visualizing practices." — *Situated Knowledges* (1988)
 
 > "A cyborg is a cybernetic organism, a hybrid of machine and organism, a creature of social reality as well as a creature of fiction." — *A Cyborg Manifesto* (1985)
 
-> "We are accountable for what we learn how to see." — On response-ability and vision
-
 ## Sources
 
-- Haraway, Donna J. "A Cyborg Manifesto: Science, Technology, and Socialist-Feminism in the Late Twentieth Century." In *Simians, Cyborgs, and Women: The Reinvention of Nature*. Routledge, 1985.
+- Haraway, Donna J. "A Manifesto for Cyborgs: Science, Technology, and Socialist Feminism in the 1980s." *Socialist Review* 80 (1985): 65–107. Revised as "A Cyborg Manifesto" in *Simians, Cyborgs, and Women: The Reinvention of Nature*. Routledge, 1991.
 - Haraway, Donna J. *Primate Visions: Gender, Race, and Nature in the World of Modern Science*. Routledge, 1989.
-- Haraway, Donna J. "Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective." *Feminist Studies* 14, no. 3 (1991): 575-599.
+- Haraway, Donna J. "Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective." *Feminist Studies* 14, no. 3 (1988): 575–599.
 - Haraway, Donna J. *Modest_Witness@Second_Millennium: FemaleMan©_Meets_OncoMouse™*. Routledge, 1997.
+- Haraway, Donna J. *When Species Meet*. University of Minnesota Press, 2008.
 - Haraway, Donna J. *Staying with the Trouble: Making Kin in the Chthulucene*. Duke University Press, 2016.

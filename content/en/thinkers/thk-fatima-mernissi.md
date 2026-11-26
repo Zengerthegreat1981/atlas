@@ -23,7 +23,7 @@ Fatima Mernissi (1940-2015) was a Moroccan sociologist and writer who examined g
 
 ## Life and Context
 
-Mernissi was born in Fez, Morocco, and grew up in a household shaped by the urban, segregated domestic life she later described in her memoir. She studied in Rabat and at the Sorbonne, and received her doctorate at Brandeis University in 1973. She taught sociology at Mohammed V University in Rabat and worked as a researcher and public intellectual. She received the Prince of Asturias Prize for Literature in 2003, shared with Susan Sontag.
+Mernissi was born in Fez, Morocco, and grew up in a household shaped by the urban, segregated domestic life she later described in her memoir. She studied in Rabat and at the Sorbonne, and received her doctorate at Brandeis University in the early 1970s. She taught sociology at Mohammed V University in Rabat and worked as a researcher and public intellectual. She received the Prince of Asturias Prize for Literature in 2003, shared with Susan Sontag.
 
 ## Main Ideas
 
@@ -51,7 +51,7 @@ She worked with interviews, field studies and close textual analysis of historic
 
 ## Influence and Criticism
 
-Mernissi is a key figure in Islamic and Arab feminism and in debates about the veil and women's rights. Critics have questioned her reading of the sources and her historical claims, and some Western readers have been accused of using her work in simplified ways. Others see her critique of Orientalist stereotypes, notably in *Scheherazade Goes West*, as a corrective to Western images of Muslim women.
+Mernissi is a key figure in Islamic and Arab feminism and in debates about the veil and women's rights. Critics have questioned her reading of the sources and her historical claims, and some Western uses of her work have been called simplifying. Others see her critique of Orientalist stereotypes, notably in *Scheherazade Goes West*, as a corrective to Western images of Muslim women.
 
 ## Sources
 

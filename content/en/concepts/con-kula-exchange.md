@@ -20,12 +20,12 @@ related:
 - id: "thk-marcel-mauss", title: "Marcel Mauss", type: "مفكر"
 - id: "thk-marshall-sahlins", title: "Marshall Sahlins", type: "مفكر"
 gaps:
-  - "Later debate over whether the kula is a political distribution (as argued by Godelier) or a voluntary exchange (as Malinowski saw it): not yet covered"
+  - "Maurice Godelier's reassessment of gift exchange and its bearing on the kula: not yet covered"
 ---
 
 # Kula Exchange
 
-A complex economic and social system first documented by Bronisław Malinowski among the Trobriand Islanders in Papua New Guinea. The kula is a cycle of exchange linking many islands through the circulation of valuable armshells and necklaces, governed by strict rules of etiquette and social obligation.
+A complex economic and social system most famously documented by Bronisław Malinowski among the Trobriand Islanders in Papua New Guinea. The kula is a cycle of exchange linking many islands through the circulation of valuable armshells and necklaces, governed by strict rules of etiquette and social obligation.
 
 ## Ethnographic Definition
 
@@ -49,18 +49,24 @@ The kula is neither **primitive** nor a **pre-monetary economy** but a **special
 
 Unlike the potlatch (an exchange among the peoples of the North American Northwest Coast):
 - The kula is a **continuous cycle**: the objects always circulate and are never kept permanently
-- The kula is **more balanced**: the return is expected with greater precision
-- The potlatch is **competitive**: the chief gains prestige by giving away and destroying wealth; the kula is **cooperative**, its aim being long-term continuity
+- Both are bound up with prestige and rivalry: in the potlatch a chief gains standing by giving away (and sometimes destroying) wealth, while in the kula a man gains renown through the valuables that pass through his hands and the partnerships he sustains
 
 ## Theoretical Importance
 
-The kula became the **basic model** to which **Marcel Mauss** applied his theory of the gift:
-- It demonstrates that gift-giving and reciprocity form an economic system **entirely independent** of the market and money
-- It breaks the traditional Western dichotomy between the economy and "social gifts"
-- It shows that non-capitalist societies have **sophisticated economic systems** and are not primitive
+The kula became one of the central cases, alongside the potlatch, in **Marcel Mauss**'s theory of the gift. It is often used to argue that:
+- Gift-giving and reciprocity can organize large-scale exchange according to principles distinct from those of the market
+- The Western dichotomy between economic transactions and "social gifts" does not hold universally
+- Non-capitalist societies have **sophisticated** systems of exchange
+
+## Later Research
+
+Later fieldwork in the Massim region extended and revised Malinowski's account. Annette Weiner, working in the Trobriands from the early 1970s, showed in *Women of Value, Men of Renown* (1976) that women's exchanges of banana-leaf bundles and skirts were central to Trobriand social life, and she later argued that exchange is shaped by what people try to keep back from circulation. The volume *The Kula: New Perspectives on Massim Exchange* (1983), edited by Jerry Leach and Edmund Leach, and Nancy Munn's study of Gawa, *The Fame of Gawa* (1986), showed how the ring operates differently from island to island and how it is tied to individual reputation.
 
 ## Sources
 
 - Malinowski, Bronislaw. *Argonauts of the Western Pacific*. Routledge, 1922.
-- Mauss, Marcel. *The Gift: Forms and Functions of Exchange in Archaic Societies*. Translated by W.D. Halls, W.W. Norton, 1990.
+- Mauss, Marcel. *The Gift: The Form and Reason for Exchange in Archaic Societies*. Translated by W.D. Halls, W.W. Norton, 1990.
 - Weiner, Annette B. *Inalienable Possessions: The Paradox of Keeping-While-Giving*. University of California Press, 1992.
+- Leach, Jerry W., and Edmund Leach, eds. *The Kula: New Perspectives on Massim Exchange*. Cambridge University Press, 1983.
+- Munn, Nancy D. *The Fame of Gawa*. Cambridge University Press, 1986.
+- Weiner, Annette B. *Women of Value, Men of Renown*. University of Texas Press, 1976.

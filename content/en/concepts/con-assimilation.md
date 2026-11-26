@@ -12,8 +12,7 @@ edges:
   - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
 related:
   []
-gaps:
-  - "Assimilation and religious identity: not yet covered"
+gaps: []
 ---
 
 # Assimilation: Becoming Part of the Mainstream
@@ -44,6 +43,10 @@ Fieldwork complicates any simple story of assimilation. Second-generation youth 
 
 Today, assimilation is debated against multiculturalism and integration. Critics of assimilation policies argue that demanding cultural conformity punishes difference and masks inequality; critics of multiculturalism argue that it can entrench separation. Scholars increasingly distinguish between assimilation as a descriptive process and assimilationism as a political demand, and they ask who bears its costs — above all women, whose dress and family practices are often the focus of assimilationist pressure. For anthropology, the enduring question is not whether assimilation happens but on whose terms, at what price, and with what room for people to remain themselves while becoming part of a larger whole.
 
+## Religious Identity
+
+Religion complicates the expectation that distinct identities fade. Will Herberg's *Protestant–Catholic–Jew* (1955) argued that in the United States the descendants of immigrants tended to lose ancestral languages while retaining or recovering a religious identification, which served as an accepted way of being American. Later research shows that congregations can offer immigrants community, practical help, and respectability while also sustaining difference. Acceptance is uneven: where a religion is treated as foreign or suspect, as many Muslims experience in Europe and North America, religious identity may become a boundary that other forms of cultural adaptation do not remove.
+
 ## Sources
 
 - Park, Robert E., and Ernest W. Burgess. *Introduction to the Science of Sociology*. University of Chicago Press, 1921.
@@ -51,3 +54,4 @@ Today, assimilation is debated against multiculturalism and integration. Critics
 - Alba, Richard, and Victor Nee. *Remaking the American Mainstream: Assimilation and Contemporary Immigration*. Harvard University Press, 2003.
 - Portes, Alejandro, and Min Zhou. "The New Second Generation: Segmented Assimilation and Its Variants." *Annals of the American Academy of Political and Social Science* 530 (1993): 74–96.
 - Brubaker, Rogers. "The Return of Assimilation? Changing Perspectives on Immigration and Its Sequels in France, Germany, and the United States." *Ethnic and Racial Studies* 24, no. 4 (2001): 531–548.
+- Herberg, Will. *Protestant–Catholic–Jew: An Essay in American Religious Sociology*. Doubleday, 1955.

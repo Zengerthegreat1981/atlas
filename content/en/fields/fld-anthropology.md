@@ -37,7 +37,7 @@ related:
   - id: "thk-edmund-leach", title: "Edmund Leach: Ritual as Language and Structural Symbolism", type: "مفكر"
   - id: "thk-victor-turner", title: "Victor Turner: Ritual, Symbol, and Social Drama", type: "مفكر"
   - id: "thk-clifford-geertz", title: "Clifford Geertz: Interpretive Anthropology and Thick Description", type: "مفكر"
-  - id: "thk-malinowski", title: "Bronislaw Malinowski: Founder of Modern Ethnographic Fieldwork", type: "مفكر"
+  - id: "thk-malinowski", title: "Bronislaw Malinowski: Modern Ethnographic Fieldwork", type: "مفكر"
   - id: "thk-franz-boas", title: "Franz Boas: Founder of American Anthropology and Cultural Relativism", type: "مفكر"
   - id: "thk-eric-wolf", title: "Eric Wolf", type: "مفكر"
   - id: "thk-haraway", title: "Donna Haraway: Situated Knowledge, Cyborgs, and Response-Ability", type: "مفكر"
@@ -157,7 +157,7 @@ Begin with the entries on Boas, Malinowski and Radcliffe-Brown to see how the mo
 1. Edmund Leach: Ritual as Language and Structural Symbolism
 2. Victor Turner: Ritual, Symbol, and Social Drama
 3. Clifford Geertz: Interpretive Anthropology and Thick Description
-4. Bronislaw Malinowski: Founder of Modern Ethnographic Fieldwork
+4. Bronislaw Malinowski: Modern Ethnographic Fieldwork
 5. Franz Boas: Founder of American Anthropology and Cultural Relativism
 6. Eric Wolf
 7. Donna Haraway: Situated Knowledge, Cyborgs, and Response-Ability
@@ -221,4 +221,4 @@ Begin with the entries on Boas, Malinowski and Radcliffe-Brown to see how the mo
 
 - Barnard, Alan. *History and Theory in Anthropology*. Cambridge University Press, 2000.
 - Eriksen, Thomas Hylland, and Finn Sivert Nielsen. *A History of Anthropology*. Pluto Press, 2001.
-- Kuper, Adam. *Anthropology and Anthropologists: The Modern British School*. Routledge and Kegan Paul, 1973.
+- Kuper, Adam. *Anthropology and Anthropologists: The Modern British School*. Routledge and Kegan Paul, 1983.

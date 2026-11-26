@@ -28,7 +28,7 @@ The interwar years were the golden age of colonial anthropology. In British Afri
 
 ## Key Figures
 
-Bronislaw Malinowski (1884–1942), a Polish-born anthropologist working in Britain, founded modern fieldwork and the functionalist study of institutions, though his own writings largely ignored the colonial context of his Trobriand research. A. R. Radcliffe-Brown (1881–1955) built a comparative science of social structure in the Andaman Islands and later in South Africa, where his students worked within the administrative apparatus of the Union. E. E. Evans-Pritchard (1902–1973) produced the classic studies of the Nuer and the Azande in Anglo-Egyptian Sudan, works of extraordinary ethnographic depth that largely set the colonial state to one side. In France, Marcel Griaule (1898–1956) led the Dakar-Djibouti expedition (1931–1933) and built a school of African ethnography closely tied to the colonial administration. After the Second World War, the critic who did most to expose the connection was Talal Asad (born 1932), whose edited volume *Anthropology and the Colonial Encounter* (1973) argued that colonial power had shaped the discipline's theories, not just its fieldwork conditions.
+Bronislaw Malinowski (1884–1942), a Polish-born anthropologist working in Britain, did much to shape modern fieldwork and the functionalist study of institutions, though his own writings largely ignored the colonial context of his Trobriand research. A. R. Radcliffe-Brown (1881–1955) did fieldwork in the Andaman Islands (1906–1908) and in Western Australia, established social anthropology at the University of Cape Town in the early 1920s, where the subject was linked to questions of South African "native administration", and went on to build a comparative science of social structure. E. E. Evans-Pritchard (1902–1973) produced the classic studies of the Nuer and the Azande in Anglo-Egyptian Sudan, works of extraordinary ethnographic depth that largely set the colonial state to one side. In France, Marcel Griaule (1898–1956) led the Dakar-Djibouti expedition (1931–1933) and built a school of African ethnography closely tied to the colonial administration. After the Second World War, a central critic of the connection was Talal Asad (born 1932), whose edited volume *Anthropology and the Colonial Encounter* (1973) argued that colonial power had shaped the discipline's theories, not just its fieldwork conditions.
 
 ## Key Works
 
@@ -45,8 +45,11 @@ Colonial anthropology's legacy is double. On one side, it left an archive of ext
 ## Sources
 
 - Malinowski, Bronislaw. *Argonauts of the Western Pacific*. 1922.
+- Malinowski, Bronislaw. *Crime and Custom in Savage Society*. 1926.
 - Radcliffe-Brown, A. R. *The Andaman Islanders*. 1922.
+- Radcliffe-Brown, A. R. *Structure and Function in Primitive Society*. 1952.
 - Evans-Pritchard, E. E. *Witchcraft, Oracles and Magic Among the Azande*. 1937.
+- Evans-Pritchard, E. E. *The Nuer*. 1940.
 - Asad, Talal, ed. *Anthropology and the Colonial Encounter*. 1973.
 - Said, Edward W. *Orientalism*. 1978.
 - Stocking, George W., Jr. *Victorian Anthropology*. 1987.

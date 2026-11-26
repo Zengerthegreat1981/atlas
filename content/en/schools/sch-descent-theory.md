@@ -70,4 +70,5 @@ This school remains one of the purest examples of the capacity of British functi
 ## Sources
 
 - Evans-Pritchard, E. E. *The Nuer*. Clarendon Press, 1940.
+- Fortes, Meyer. *The Web of Kinship among the Tallensi*. Oxford University Press, 1949.
 - Fortes, Meyer & Evans-Pritchard, E. E. (eds). *African Political Systems*. Oxford University Press, 1940.

@@ -30,7 +30,7 @@ Weber's typology was deliberately analytical rather than historical: real system
 
 Later theorists challenged and refined Weber's account. David Beetham, in *The Legitimation of Power* (1991), argued that Weber's emphasis on belief was too narrow: legitimacy also requires that power be acquired and exercised according to established rules, and that those rules be justifiable in terms of shared beliefs. A regime could be widely obeyed yet illegitimate if it came to power by breaking its own rules. Beetham's three dimensions — legality, justifiability, and expressed consent — offered a more demanding standard, one that allows sociologists to distinguish between regimes that are merely stable and those that are genuinely legitimate.
 
-Jürgen Habermas, in *Legitimation Crisis* (1973), argued that the modern capitalist state faces a structural legitimation problem: it must secure the loyalty of citizens while managing an economy it does not fully control. When economic crises, unpopular policies, or scandals erode public confidence, the state experiences a legitimation crisis, in which its right to govern is openly questioned. Habermas's analysis connected legitimacy to the dynamics of capitalism, the welfare state, and the public sphere, and it remains influential in the study of political discontent.
+Jürgen Habermas, in *Legitimation Crisis* (German 1973; English 1975), argued that the modern capitalist state faces a structural legitimation problem: it must secure the loyalty of citizens while managing an economy it does not fully control. When economic crises, unpopular policies, or scandals erode public confidence, the state experiences a legitimation crisis, in which its right to govern is openly questioned. Habermas's analysis connected legitimacy to the dynamics of capitalism, the welfare state, and the public sphere, and it remains influential in the study of political discontent.
 
 Legitimacy is also studied at the level of organisations. Mark Suchman, in "Managing Legitimacy: Strategic and Institutional Approaches" (1995), showed that organisations — firms, hospitals, universities, non-governmental organisations — must appear desirable and appropriate to their audiences in order to survive. He distinguished pragmatic legitimacy, based on the interests of supporters; moral legitimacy, based on judgments of rightness; and cognitive legitimacy, based on taken-for-granted acceptance. Suchman's framework has been widely used in organisational sociology and management studies.
 
@@ -47,7 +47,7 @@ Legitimacy is at the centre of contemporary debates about democracy, populism, a
 ## Sources
 
 - Max Weber, *Economy and Society* (1922).
-- Jürgen Habermas, *Legitimation Crisis* (1973).
+- Jürgen Habermas, *Legitimationsprobleme im Spätkapitalismus* (1973); English translation *Legitimation Crisis* (1975).
 - Tom R. Tyler, *Why People Obey the Law* (1990).
 - David Beetham, *The Legitimation of Power* (1991).
 - Mark C. Suchman, "Managing Legitimacy: Strategic and Institutional Approaches," *Academy of Management Review* (1995).

@@ -37,7 +37,7 @@ This framework reshaped the entire field of kinship studies, which had been rega
 
 ## Limitations
 
-Some early theorizing (especially Gayle Rubin's borrowings from Lacanian psychoanalysis) was criticized for being difficult to test ethnographically with precision. Moreover, the early focus on Western societies and on binary male–female marriage was slow to take account of the diversity of kinship systems in some non-Western societies that do not rest on the strict male/female binary.
+Some early theorizing (especially Gayle Rubin's borrowings from Lacanian psychoanalysis) was criticized for being difficult to test ethnographically with precision. Moreover, an early focus on binary male–female marriage was slow to take account of the diversity of kinship systems in some non-Western societies that do not rest on the strict male/female binary.
 
 ## Sources
 
@@ -45,4 +45,5 @@ Some early theorizing (especially Gayle Rubin's borrowings from Lacanian psychoa
 - Rubin, Gayle. "The Traffic in Women: Notes on the Political Economy of Sex." In *Toward an Anthropology of Women*, edited by Rayna R. Reiter. Monthly Review Press, 1975.
 - Lévi-Strauss, Claude. *Les Structures élémentaires de la parenté*. Presses Universitaires de France, 1949.
 - Strathern, Marilyn. *The Gender of the Gift*. University of California Press, 1988.
+- Carsten, Janet. *After Kinship*. Cambridge University Press, 2004.
 - Rosaldo, Michelle Zimbalist, and Louise Lamphere, eds. *Woman, Culture, and Society*. Stanford University Press, 1974.

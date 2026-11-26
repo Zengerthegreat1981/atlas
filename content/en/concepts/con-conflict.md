@@ -25,7 +25,7 @@ Conflict is often distinguished from competition, in which rivals seek the same 
 
 ## Origins and Development
 
-Early anthropology often imagined small-scale societies as harmonious, and conflict as the intrusion of modernity. The work of Georg Simmel, whose essay on conflict was published in 1908, challenged this picture by arguing that conflict is a form of sociation — a way people relate to each other — and that it can strengthen group solidarity by clarifying boundaries. Lewis Coser developed this insight in 1956, distinguishing realistic conflicts, which pursue specific goals and can be negotiated, from non-realistic conflicts, which serve mainly to release hostility, and arguing that conflict within a shared framework of values tends to renew rather than destroy a group. In African ethnography, Gluckman's essays on southern African ceremonies, collected in *Rituals of Rebellion in South-East Africa* (1954), argued that ritualised opposition among the Zulu and Swazi could reinforce rather than destroy political authority, since the ritual affirmed the legitimacy of the kingship it appeared to challenge. Victor Turner's study of Ndembu village life, published in 1957, traced how recurrent disputes over succession and residence generated social dramas that revealed the underlying tensions of the community. By mid-century, anthropologists had firmly established that conflict is integral to social process, not an aberration from it.
+Early anthropology often imagined small-scale societies as harmonious, and conflict as the intrusion of modernity. The work of Georg Simmel, whose essay on conflict was published in 1908, challenged this picture by arguing that conflict is a form of sociation — a way people relate to each other — and that it can strengthen group solidarity by clarifying boundaries. Lewis Coser developed this insight in 1956, distinguishing realistic conflicts, which pursue specific goals and can be negotiated, from non-realistic conflicts, which serve mainly to release hostility, and arguing that conflict within a shared framework of values tends to renew rather than destroy a group. In African ethnography, Gluckman's Frazer Lecture on southern African ceremonies, published as *Rituals of Rebellion in South-East Africa* (1954), argued that ritualised opposition among the Zulu and Swazi could reinforce rather than destroy political authority, since the ritual affirmed the legitimacy of the kingship it appeared to challenge. Victor Turner's study of Ndembu village life, published in 1957, traced how recurrent disputes over succession and residence generated social dramas that revealed the underlying tensions of the community. By mid-century, anthropologists had firmly established that conflict is integral to social process, not an aberration from it.
 
 ## Key Debates
 
@@ -37,7 +37,7 @@ Conflict remains central to anthropology because it remains central to the world
 
 ## Sources
 
-- Georg Simmel, *Conflict* (1908)
+- Georg Simmel, "Der Streit," in *Soziologie* (1908); English translation in *Conflict and The Web of Group-Affiliations* (1955)
 - Max Gluckman, *Custom and Conflict in Africa* (1955); *Rituals of Rebellion in South-East Africa* (1954)
 - Lewis A. Coser, *The Functions of Social Conflict* (1956)
 - Victor Turner, *Schism and Continuity in an African Society* (1957)

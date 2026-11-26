@@ -31,15 +31,15 @@ Among the most important factors Portes and Zhou identified is an unexpected pro
 
 ## The Classical Model Being Criticised
 
-The classical account of assimilation, associated with the Chicago school of Robert Park and with Milton Gordon's *Assimilation in American Life* (1964), expected immigrants and their descendants to move progressively toward the cultural and economic mainstream over generations; Herbert Gans later labelled this expectation "straight-line" assimilation. Portes and Zhou argued that this picture fitted the experience of earlier European immigrants better than that of post-1965 immigrants, who arrived in an economy with a more polarised labour market and, in many cases, encountered racial discrimination.
+The classical account of assimilation, associated with the Chicago school of Robert Park and with Milton Gordon's *Assimilation in American Life* (1964), expected immigrants and their descendants to move progressively toward the cultural and economic mainstream over generations; this expectation is often called "straight-line" assimilation, a label discussed notably by Herbert Gans. Portes and Zhou argued that this picture fitted the experience of earlier European immigrants better than that of post-1965 immigrants, who arrived in an economy with a more polarised labour market and, in many cases, encountered racial discrimination.
 
 ## A Competing Theory: Alba and Nee
 
-In *Remaking the American Mainstream* (2003), Richard Alba and Victor Nee offered a more optimistic view competing with Portes's thesis, arguing that gradual traditional assimilation (albeit in new forms) remains the statistically dominant path for the majority of contemporary immigrants over the long term across generations, and not the exception that some media-prominent cases of downward assimilation suggest.
+In *Remaking the American Mainstream* (2003), Richard Alba and Victor Nee offered a more optimistic view competing with Portes's thesis, arguing that assimilation, redefined as a gradual process that also changes the mainstream, remains a powerful pattern across generations for contemporary immigrants and their descendants.
 
 ## Impact
 
-This theory became a central framework in contemporary American migration sociology, and deeply influenced public policy on the integration of immigrants' children.
+This theory became a central framework in contemporary American migration sociology, and informed debates on the integration of immigrants' children.
 
 ## Case Study Examples
 

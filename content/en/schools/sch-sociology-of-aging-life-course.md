@@ -39,7 +39,7 @@ Disengagement theory proposed that the gradual mutual withdrawal between the eld
 
 ## Prominent Works
 
-Elder's *Children of the Great Depression* (1974) became a landmark text of the life course field, and Elder later extended his perspective in other works linking the Second World War and the Vietnam War to the life paths of American generations who lived through them at different ages. As for Cumming and Henry, their study was published in the book *Growing Old: The Process of Disengagement* (1961), which remained a basic reference despite the controversy surrounding it, and later prompted the development of more balanced intermediate theories (such as "continuity theory" of Robert Atchley) that reconcile the observations of both disengagement and activity according to differing individual contexts.
+Elder's *Children of the Great Depression* (1974) became a landmark text of the life course field, and Elder later extended his perspective in other works linking war and military service to the life paths of American generations who lived through them at different ages. As for Cumming and Henry, their study was published in the book *Growing Old: The Process of Disengagement* (1961), which remained a basic reference despite the controversy surrounding it, and later prompted the development of more balanced intermediate theories (such as "continuity theory" of Robert Atchley) that reconcile the observations of both disengagement and activity according to differing individual contexts.
 
 ## Impact and Critique
 

@@ -7,7 +7,7 @@ level: متوسط
 title: William I. Thomas
 en: William I. Thomas
 crumb: "Sociology ← William I. Thomas"
-dates: International · 1863-1947
+dates: United States · 1863-1947
 active_start: 1863
 active_end: 1947
 edges: []

@@ -8,7 +8,7 @@ title: Rural Sociology
 en: Rural Sociology
 crumb: Sociology ← Branches ← Rural Sociology
 dates: contemporary
-active_start: 1970
+active_start: 1915
 active_end: مستمر
 edges: []
 related: []
@@ -29,7 +29,7 @@ Rural sociology's core topics follow from this. It studies farm structure: who o
 
 ## History
 
-Rural sociology emerged in the United States in the early twentieth century, closely tied to agricultural extension and the land-grant universities. Charles Galpin's Rural Life (1918) mapped rural community organisation, and Pitirim Sorokin and Carle Zimmerman's Principles of Rural-Urban Sociology (1929) gave the field its first systematic theory, arguing that rural and urban are distinct social worlds shaped by different densities, occupations, and forms of association.
+Rural sociology emerged in the United States in the early twentieth century, closely tied to agricultural extension and the land-grant universities. Charles Galpin's The Social Anatomy of an Agricultural Community (1915) mapped rural community organisation, a theme he developed in Rural Life (1918), and Pitirim Sorokin and Carle Zimmerman's Principles of Rural-Urban Sociology (1929) gave the field its first systematic theory, arguing that rural and urban are distinct social worlds shaped by different densities, occupations, and forms of association.
 
 The field's classic empirical finding came from Walter Goldschmidt's As You Sow (1947), a comparison of two Californian farming towns. Dinuba, dominated by small family farms, had a richer civic life — more churches, clubs, schools, and local businesses — than Arvin, dominated by large industrial farms. The Goldschmidt hypothesis, that farm scale shapes community welfare, has been tested and debated ever since. In Britain, Howard Newby's The Deferential Worker (1977) studied farm workers in East Anglia, showing how paternalism and deference structured rural class relations. Frederick Buttel and Newby's The Rural Sociology of the Advanced Societies (1980) marked the field's critical turn, analysing agriculture within capitalism rather than as a world apart. Linda Lobao and Katherine Meyer's review of the agricultural transition (2001) synthesised a century of change in American farming, and Michael Mayerfeld Bell's Farming for Us All (2004) examined practical agriculture and sustainability.
 
@@ -55,9 +55,10 @@ Three developments now occupy much of the field. The first is land grabbing, the
 
 ## Sources
 
+- Galpin, Charles J. *The Social Anatomy of an Agricultural Community*. 1915.
 - Galpin, Charles J. *Rural Life*. Century, 1918.
 - Sorokin, Pitirim A., and Carle C. Zimmerman. *Principles of Rural-Urban Sociology*. Holt, 1929.
-- Goldschmidt, Walter. *As You Sow: Three Studies in the Social Consequences of Agribusiness*. Harcourt, Brace, 1947.
+- Goldschmidt, Walter. *As You Sow*. Harcourt, Brace, 1947.
 - Newby, Howard. *The Deferential Worker: A Study of Farm Workers in East Anglia*. Allen Lane, 1977.
 - Buttel, Frederick H., and Howard Newby, eds. *The Rural Sociology of the Advanced Societies: Critical Perspectives*. Allanheld and Osmun, 1980.
 - Lobao, Linda, and Katherine Meyer. "The Great Agricultural Transition: Crisis, Change, and Social Consequences of Twentieth Century US Farming." *Annual Review of Sociology*, 2001.

@@ -5,7 +5,7 @@ type: "دراسة وبحث"
 part: "sociology"
 sociological_tradition: "chicago-interactionist"
 level: "متقدم"
-title: "Street Corner Society: The Social Structure of a Poor Italian Neighborhood"
+title: "Street Corner Society: The Social Structure of an Italian Slum"
 en: "Street Corner Society: The Social Structure of an Italian Slum"
 crumb: "Sociology ← Studies ← Street Corner Society"
 active_start: 1936
@@ -16,7 +16,7 @@ related:
 gaps: []
 ---
 
-# Street Corner Society: The Social Structure of a Poor Italian Neighborhood
+# Street Corner Society: The Social Structure of an Italian Slum
 
 A long-term ethnographic study carried out by William Foote Whyte in Boston's North End from 1936 to 1940 and published in 1943, which became a classic model of participant observation in American urban sociology.
 
@@ -26,11 +26,11 @@ Whyte, then a Harvard Junior Fellow, lived for about three and a half years in t
 
 ## Context and Background
 
-Whyte was born in 1914 and came to Cornerville as a young researcher funded by Harvard's Society of Fellows. He was a middle-class, Protestant outsider among working-class Italian Catholic families, and his acceptance depended heavily on Doc's sponsorship and on his own willingness to take part in local life. The book was first published in 1943 and was enlarged with a methodological appendix in the second edition (1955) and a further one in the third (1981); in this appendix Whyte describes his errors, dilemmas and relationship with his informant. His later career at Cornell, where he worked on industrial relations and participatory action research, extended his interest in how organisations function from the inside.
+Whyte was born in 1914 and came to Cornerville as a young researcher funded by Harvard's Society of Fellows. He was a middle-class, Protestant outsider among working-class Italian Catholic families, and his acceptance depended heavily on Doc's sponsorship and on his own willingness to take part in local life. The book was first published in 1943 and a methodological appendix was added in the second edition (1955), with further material in later editions; in the appendix Whyte describes his errors, dilemmas and relationship with his informant. His later career at Cornell, where he worked on industrial relations and participatory action research, extended his interest in how organisations function from the inside.
 
 ## Impact
 
-The book became a standard teaching model for urban ethnography, in large part because of its candid methodological appendix. It also became the focus of debate about the ethics and reliability of ethnography. In 1992 Marianne Boelen revisited Cornerville and questioned parts of Whyte's account, including aspects of his portrayal of the neighbourhood and his informants; Whyte replied in the same journal, and the exchange raised wider questions about verifying long-term ethnographic data and about the confidentiality of research participants whose identities can later become known.
+The book became a standard teaching model for urban ethnography, in large part because of its candid methodological appendix. It also became the focus of debate about the ethics and reliability of ethnography. In 1992 Marianne Boelen published a revisit of Cornerville that questioned parts of Whyte's account, including aspects of his portrayal of the neighbourhood and his informants; Whyte replied in the same journal, and the exchange raised wider questions about verifying long-term ethnographic data and about the confidentiality of research participants whose identities can later become known.
 
 ## Sources
 

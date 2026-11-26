@@ -42,5 +42,6 @@ The concept of habitus is sometimes criticised for being empirically vague (how 
 
 - Bourdieu, Pierre. *Outline of a Theory of Practice*, trans. Richard Nice. Cambridge: Cambridge University Press, 1977.
 - Bourdieu, Pierre. *The Logic of Practice*, trans. Richard Nice. Stanford: Stanford University Press, 1990.
+- Giddens, Anthony. *Central Problems in Social Theory*. London: Macmillan, 1979.
 - Giddens, Anthony. *The Constitution of Society: Outline of the Theory of Structuration*. Cambridge: Polity Press, 1984.
 - Ortner, Sherry B. "Theory in Anthropology since the Sixties." *Comparative Studies in Society and History* 26, no. 1 (1984): 126–166.

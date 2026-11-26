@@ -16,7 +16,7 @@ gaps: []
 ---
 # The Elementary Forms of Religious Life
 
-Émile Durkheim's *The Elementary Forms of Religious Life* (1912) is the founding text of the sociology of religion. Its question is simple: what is religion, and where does it come from? Durkheim's answer is that religion is society worshipping itself. Studying what he took to be the simplest known religion — the totemism of Aboriginal Australians — he argued that religious belief and ritual are the means by which a community creates, expresses, and renews its own unity. His theory of the sacred and the profane, of collective effervescence, and of ritual as the engine of solidarity shaped a century of sociology, anthropology, and religious studies.
+Émile Durkheim's *The Elementary Forms of Religious Life* (1912) is a founding text of the sociology of religion. Its question is simple: what is religion, and where does it come from? Durkheim's answer is that religion is society worshipping itself. Studying what he took to be the simplest known religion — the totemism of Aboriginal Australians — he argued that religious belief and ritual are the means by which a community creates, expresses, and renews its own unity. His theory of the sacred and the profane, of collective effervescence, and of ritual as the engine of solidarity shaped a century of sociology, anthropology, and religious studies.
 
 ## Historical Context and Publication
 
@@ -36,7 +36,7 @@ The book's conceptual apparatus has become part of sociology's basic vocabulary.
 
 ## Evidence and Influence
 
-Durkheim's evidence comes from Spencer and Gillen's accounts of the Arunta (Arrernte) of central Australia. He describes the totemic clan, whose members share a totemic emblem — kangaroo, witchetty grub, wild cat — and are forbidden to eat or harm it, except in ritual circumstances. He analyses the *intichiuma* ceremonies, in which clan members gather to perform rites intended to ensure the reproduction of the totemic species, and shows how these rites assemble the clan, renew its bonds, and mark its identity. The book founded the sociology of religion and supplied its central questions for a century. Its theory of ritual shaped the anthropology of Victor Turner and Mary Douglas, the sociology of Randall Collins's interaction ritual chains, and the Durkheimian tradition through Marcel Mauss and Maurice Halbwachs. It also provoked Claude Lévi-Strauss's *Totemism* (1962).
+Durkheim's evidence comes from Spencer and Gillen's accounts of the Arunta (Arrernte) of central Australia. He describes the totemic clan, whose members share a totemic emblem — kangaroo, witchetty grub, wild cat — and are forbidden to eat or harm it, except in ritual circumstances. He analyses the *intichiuma* ceremonies, in which clan members gather to perform rites intended to ensure the reproduction of the totemic species, and shows how these rites assemble the clan, renew its bonds, and mark its identity. The book supplied the sociology of religion with many of its central questions. Its theory of ritual shaped the anthropology of Victor Turner and Mary Douglas, the sociology of Randall Collins's interaction ritual chains, and the Durkheimian tradition through Marcel Mauss and Maurice Halbwachs. It also provoked Claude Lévi-Strauss's *Totemism* (1962).
 
 ## Continuing Relevance and Critical Assessments
 

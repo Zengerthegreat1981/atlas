@@ -16,7 +16,7 @@ related:
 sources:
   - Fox, Robin. Kinship and Marriage: An Anthropological Perspective. Penguin Books, 1967. Revised edition, 1983.
   - Needham, Rodney. Structure and Sentiment: A Test Case in Social Anthropology. University of Chicago Press, 1962.
-  - Sahlins, Marshall. What is Kinship? (Part One). Journal of the Royal Anthropological Institute, vol. 17, no. 1, 2011.
+  - Sahlins, Marshall. What Kinship Is (Part One). Journal of the Royal Anthropological Institute, vol. 17, no. 1, 2011.
 gaps: []
 ---
 
@@ -78,7 +78,7 @@ The book uses kinship diagrams to illustrate relationships and patterns, which h
 
 ## Critique & Limitations
 
-Feminist scholars have critiqued Fox's biosocial approach as potentially reinforcing biological determinism and naturalizing gender hierarchies. If kinship is constrained by biological facts about reproduction and sexuality, does this naturalize male control of female reproduction and descent? While Fox doesn't explicitly argue this, the emphasis on biological constraints creates space for such arguments.
+Feminist scholars have critiqued Fox's biosocial approach as potentially reinforcing biological determinism and naturalizing gender hierarchies. If kinship is constrained by biological facts about reproduction and sexuality, does this naturalize male control of female reproduction and descent? Fox in fact lists male control as usual among his starting principles, which critics see as open to this objection.
 
 Some scholars have argued that Fox's emphasis on kinship as response to universal problems may underestimate how kinship is culturally constructed. The categories used (descent, residence, marriage rules) reflect Western anthropological frameworks rather than indigenous categories. The imposition of these categories may obscure how people themselves understand kinship and relatedness.
 

@@ -48,7 +48,7 @@ Blumer championed what he called naturalistic inquiry: direct, close study of th
 
 ## Influence and Criticism
 
-Blumer shaped generations of qualitative researchers and interactionists, and students and colleagues of his era such as Howard Becker and Erving Goffman worked in the Chicago interactionist milieu. Critics, including Manford Kuhn of the Iowa school, argued that interactionism was too vague to test and that it underplayed social structure, power, and large-scale institutions. Others have noted that Blumer's presentation of Mead was selective.
+Blumer shaped generations of qualitative researchers and interactionists, and students and colleagues of his era such as Howard Becker and Erving Goffman worked in the Chicago interactionist milieu. Manford Kuhn of the Iowa school favoured a more operational and testable form of interactionism, and critics argued that Blumer's version was vague and underplayed social structure, power, and large-scale institutions. Others have noted that Blumer's presentation of Mead was selective.
 
 ## Applications and Cross-References
 

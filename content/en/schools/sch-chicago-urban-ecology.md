@@ -23,7 +23,7 @@ gaps: []
 
 # First Chicago School / Urban Ecology
 
-The current founded by Robert Ezra Park and Ernest Burgess in the Department of Sociology at the University of Chicago, the first sociology department in the United States (founded 1892), which applied concepts from biological ecology to the study of the modern city.
+The current founded by Robert Ezra Park and Ernest Burgess in the Department of Sociology at the University of Chicago, often described as the first sociology department in the United States (founded 1892), which applied concepts from biological ecology to the study of the modern city.
 
 ## The Central Idea
 
@@ -31,7 +31,7 @@ Park and Burgess borrowed from plant ecology concepts such as "competition," "in
 
 ## Historical Context: Chicago as a Living Laboratory
 
-This school arose in a unique historical setting: between 1890 and 1930 Chicago was one of the fastest-growing cities in the world, its population swelling from about one million to more than three million over four decades through waves of internal migration (especially Black people coming from the American South in the "Great Migration") and heavy immigration from Eastern and Southern Europe. This immense and rapid transformation gave the scholars of the neighboring university a "living social laboratory" for studying processes of urbanization, integration, and deviance in real time. Robert Park, the former journalist who had attended Georg Simmel's lectures in Berlin and took his doctorate in Germany, exploited it to establish, together with Burgess, a systematic field research program unprecedented in its scope.
+This school arose in a unique historical setting: between 1890 and 1930 Chicago was one of the fastest-growing cities in the world, its population swelling from about one million to more than three million over four decades through waves of internal migration (especially Black people coming from the American South in the "Great Migration") and heavy immigration from Eastern and Southern Europe. This immense and rapid transformation gave the scholars of the neighboring university a "living social laboratory" for studying processes of urbanization, integration, and deviance in real time. Robert Park, the former journalist who had attended Georg Simmel's lectures in Berlin and took his doctorate in Germany, exploited it to establish, together with Burgess, a systematic field research program of wide scope.
 
 ## Method and Pioneering Studies
 
@@ -51,10 +51,13 @@ The legacy of this school remains twofold: on the one hand, a pioneering field r
 
 ## Additional Note
 
-It is worth noting that the sociology department at the University of Chicago remained for decades the undisputed center for producing doctorates in this field in America, and that the *American Journal of Sociology*, founded by Albion Small in 1895, remained the main venue in which most of the school's early field studies were published.
+It is worth noting that the sociology department at the University of Chicago was for decades a leading center for doctoral training in the field in America, and that the *American Journal of Sociology*, founded by Albion Small in 1895, remained the main venue in which most of the school's early field studies were published.
 
 ## Sources
 
 - Park, Robert E., and Ernest W. Burgess. *The City: Suggestions for Investigation of Human Behavior in the Urban Environment*. University of Chicago Press, 1925.
+- Park, Robert E., and Ernest W. Burgess. *Introduction to the Science of Sociology*. University of Chicago Press, 1921.
+- Drake, St. Clair, and Horace R. Cayton. *Black Metropolis*. Harcourt, Brace, 1945.
+- Castells, Manuel. *The Urban Question* (French original 1972).
 - Bulmer, Martin. *The Chicago School of Sociology: Institutionalization, Diversity, and the Rise of Sociological Research*. University of Chicago Press, 1984.
 - Wirth, Louis. "Urbanism as a Way of Life." *American Journal of Sociology*, vol. 44, no. 1, 1938, pp. 1–24.

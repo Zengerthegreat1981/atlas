@@ -24,7 +24,7 @@ gaps: []
 
 # Thorstein Veblen
 
-An American economist-sociologist (1857–1929) who, by training and profession, was an economist; his place in sociology rests on his influence rather than his departmental affiliation, and was one of the founders of "Institutional Economics", known for his satirical analysis of consumer behavior as a social-symbolic phenomenon of class hierarchy rather than a purely rational economic act.
+An American economist and social theorist (1857–1929), whose place in sociology rests on his influence rather than his departmental affiliation. He was one of the founders of "Institutional Economics", known for his satirical analysis of consumer behavior as a social-symbolic phenomenon of class hierarchy rather than a purely rational economic act.
 
 ## What He Contributed
 

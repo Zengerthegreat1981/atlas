@@ -40,7 +40,7 @@ The first finding is polarisation. Kalleberg shows that the gap between good and
 - Kalleberg, Arne L. *Good Jobs, Bad Jobs: The Rise of Polarized and Precarious Employment Systems in the United States, 1970s–2000s*. Russell Sage Foundation, 2011.
 - Kalleberg, Arne L. *Precarious Lives: Job Insecurity and Well-Being in Rich Democracies*. Polity Press, 2018.
 - Kalleberg, Arne L. "Precarious Work, Insecure Workers: Employment Relations in Transition." *American Sociological Review* 74, no. 1 (2009): 1–22.
-- Kalleberg, Arne L., and Steven P. Vallas, eds. *Precarious Work*. Research in the Sociology of Work, vol. 31. Emerald Publishing, 2018.
+- Kalleberg, Arne L., and Steven P. Vallas, eds. *Precarious Work*. Research in the Sociology of Work, vol. 31. Emerald Publishing, 2017.
 - Standing, Guy. *The Precariat: The New Dangerous Class*. Bloomsbury Academic, 2011.
 - Weil, David. *The Fissured Workplace: Why Work Became So Bad for So Many and What Can Be Done to Improve It*. Harvard University Press, 2014.
 - Hyman, Louis. *Temp: How American Work, American Business, and the American Dream Became Temporary*. Viking, 2018.

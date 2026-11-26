@@ -16,7 +16,7 @@ gaps: []
 ---
 # The Presentation of Self in Everyday Life
 
-Erving Goffman's *The Presentation of Self in Everyday Life* — first published in Scotland in 1956, in the United States in 1959 — is one of the most widely read books in the history of sociology. Its claim is that everyday social life is a performance. When people meet, they present a version of themselves — a front — and manage the impressions others form of them, much as actors manage an audience. Goffman does not mean that people are insincere; he means that social interaction has a structure, and that structure can be described with the precision of a stage manager's handbook. Front stage and back stage, teams, audiences and impression management: these terms entered sociology from this book and never left. 
+Erving Goffman's *The Presentation of Self in Everyday Life* — first published in Scotland in 1956, in the United States in 1959 — is one of the most widely read books in the history of sociology. Its claim is that everyday social life is a performance. When people meet, they present a version of themselves — a front — and manage the impressions others form of them, much as actors manage an audience. Goffman does not mean that people are insincere; he means that social interaction has a structure, and that structure can be described with the precision of a stage manager's handbook. Front stage and back stage, teams, audiences and impression management: these terms entered the sociological vocabulary largely through this book and remain in use. 
 
 ## Historical Context and Publication
 
@@ -36,7 +36,7 @@ The book's vocabulary is its lasting contribution. The front is the expressive e
 
 ## Evidence and Influence
 
-The book's evidence is the hotel on Unst and the countless small encounters Goffman collects. In the hotel, the staff maintained a front of deference and competence for guests while back stage — in the kitchen, in the staff quarters — they mocked the guests and dropped the performance entirely. The boundary between the two regions was policed with real anxiety, because a guest who wandered back stage would see the performance for what it was. The book created the microsociology of interaction as a field. It established that face-to-face encounters have a structure worth theorising, and it gave sociologists a language for describing it. 
+The book's evidence is the hotel on Unst and the countless small encounters Goffman collects. In the hotel, the staff maintained a front of deference and competence for guests while back stage — in the kitchen, in the staff quarters — they mocked the guests and dropped the performance entirely. The boundary between the two regions was policed with real anxiety, because a guest who wandered back stage would see the performance for what it was. The book became a landmark of the microsociology of interaction. It argued persuasively that face-to-face encounters have a structure worth theorising, and it gave sociologists a language for describing it. 
 
 ## Continuing Relevance and Critical Assessments
 

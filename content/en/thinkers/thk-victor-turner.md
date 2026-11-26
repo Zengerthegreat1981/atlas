@@ -22,11 +22,11 @@ gaps: []
 
 # Victor Turner: Ritual, Symbol, and Social Drama
 
-Victor Witter Turner (1920–1983) is the foundational theorist of ritual in modern anthropology. His work transformed ritual from marginal ethnographic curiosity into a central lens for understanding how societies generate meaning, manage conflict, and constitute themselves through symbolic action. Turner's concepts of **liminality**, **communitas**, and **ritual as social drama** remain among the most generative frameworks in contemporary anthropology, performance studies, and religious studies.
+Victor Witter Turner (1920–1983) was a central theorist of ritual in modern anthropology. His work helped make ritual a central lens for understanding how societies generate meaning, manage conflict, and constitute themselves through symbolic action. Turner's concepts of **liminality**, **communitas**, and **ritual as social drama** remain among the most generative frameworks in contemporary anthropology, performance studies, and religious studies.
 
 ## Biographical and Intellectual Context
 
-Victor Turner was born in Glasgow, Scotland, in 1920 and studied English literature at University College London. His studies were interrupted by the Second World War, in which he served as a conscientious objector, after which he turned to anthropology at Manchester University under **Max Gluckman**, a figure who would profoundly influence his approach, and joined the Rhodes-Livingstone Institute in Northern Rhodesia.
+Victor Turner was born in Glasgow, Scotland, in 1920 and studied English literature at University College London. His studies were interrupted by the Second World War, during which he was a conscientious objector serving in a non-combatant role, after which he returned to University College London to study anthropology, then pursued doctoral research at Manchester University under **Max Gluckman**, a figure who would profoundly influence his approach, and joined the Rhodes-Livingstone Institute in Northern Rhodesia.
 
 Turner conducted his primary fieldwork among the **Ndembu people** of Zambia (then Northern Rhodesia) in the early 1950s, with later return visits. The fieldwork was extended and intimate, and Turner worked closely with Ndembu ritual specialists, taking part in ritual life and learning the language.
 
@@ -79,13 +79,13 @@ This model (developed partly from observing Ndembu disputes) treats conflict not
 
 **The Forest of Symbols: Aspects of Ndembu Ritual** (1967) — A collection of essays providing detailed ethnographic analysis of individual Ndembu ritual symbols and their multivalence. Classic instances of thick symbolic interpretation.
 
-**Dramas, Fields, and Metaphors: Symbolic Action in Human Society** (1974) — Extends the social drama framework beyond tribal societies to modern institutional contexts (hospitals, universities, legal proceedings), demonstrating the universality of the model.
+**Dramas, Fields, and Metaphors: Symbolic Action in Human Society** (1974) — Extends the social drama framework beyond Ndembu village life to historical and comparative cases, including political conflicts and pilgrimage.
 
 **Drums of Affliction** (1968) — A study of Ndembu rituals of affliction.
 
 **The Anthropology of Experience** (co-edited with Edward Bruner, 1986, posthumous) — Explores the lived and performed dimensions of ritual and symbolic action.
 
-**Victor Turner and the Construction of Cultural Criticism** (posthumous collection, edited by Kathleen M. Ashley, 1990) — Gathers his most theoretical writings on culture, performance, and meaning-making.
+**Victor Turner and the Construction of Cultural Criticism** (edited by Kathleen M. Ashley, 1990) — A volume of essays by other scholars assessing Turner's work in relation to literature and anthropology.
 
 ## Ethnographic Focus: The Ndembu of Zambia
 
@@ -116,7 +116,7 @@ Turner's impact on anthropology has been immense. His ritual theory provided an 
 
 ## Methodological Contributions
 
-Turner revolutionized how anthropologists study ritual and symbol. His approach involved:
+Turner strongly influenced how anthropologists study ritual and symbol. His approach involved:
 
 **Participant-Observer Phenomenology**: Rather than detached observation, Turner advocated for deep participation in ritual life, learning to feel as well as understand the symbols, in order to grasp meanings as experienced by participants, not merely as external structures.
 

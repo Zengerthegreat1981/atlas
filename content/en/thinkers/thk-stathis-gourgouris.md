@@ -22,7 +22,7 @@ Stathis Gourgouris (born 1958) is a Greek-American scholar, poet, essayist, and 
 
 ## Life and Career
 
-Gourgouris grew up between the United States and Greece. He has taught at Princeton University and at Columbia University, where he has directed the Institute for Comparative Literature and Society, and he has been active in Modern Greek studies. He also writes poetry and translates.
+Gourgouris has taught at Princeton University and at Columbia University, where he has directed the Institute for Comparative Literature and Society, and he has been active in Modern Greek studies. He also writes poetry and translates.
 
 ## Key Works
 

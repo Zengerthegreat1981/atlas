@@ -23,7 +23,7 @@ gaps: []
 
 # Glen H. Elder Jr.
 
-An American sociologist (born 1934), distinguished professor emeritus at the University of North Carolina at Chapel Hill, and founder of the "life course perspective," which recast the study of aging and individual development as an extended social-historical process and not as fixed biological stages isolated from context.
+An American sociologist (born 1934), distinguished professor emeritus at the University of North Carolina at Chapel Hill, and a leading figure in the "life course perspective," which frames the study of aging and individual development as an extended social-historical process and not as fixed biological stages isolated from context.
 
 ## Central Idea
 
@@ -35,7 +35,7 @@ Each of Elder's four principles deserves further clarification. The principle of
 
 ## The Study of Children of the Great Depression
 
-In his landmark study, Elder relied on longitudinal data from the "Oakland Growth Study," begun in the early 1930s at the University of California, Berkeley, which followed a cohort of Oakland children (born around 1920-21) from about the age of ten into adulthood. This unique data enabled him to reanalyze it from an entirely new perspective: instead of merely describing the direct psychological effect of the shock of the economic Depression on children, he studied how this effect varied according to the child's precise age when the crisis struck the family (a decisive difference between a child of six and one of fourteen, though both lived through the same crisis), according to gender, and according to the family's own response to economic pressure (changes in parental roles, older children bearing economic responsibilities early). He reported that outcomes varied with the family's economic loss, with gender and with age at exposure, and that many adolescents from deprived families took on work and household responsibilities and showed marked adult resilience, while later comparisons with younger children suggested that those hit by hardship early were more vulnerable, which underlines the importance of the "timing" of an event and not merely its occurrence.
+In his landmark study, Elder relied on longitudinal data from the "Oakland Growth Study," begun in the early 1930s at the University of California, Berkeley, which followed a cohort of Oakland children (born around 1920-21) from about the age of ten into adulthood. This unique data enabled him to reanalyze it from an entirely new perspective: instead of merely describing the direct psychological effect of the shock of the economic Depression on children, he studied how this effect varied according to the age at which the crisis struck (he later compared the Oakland cohort with children born in 1928-29 in the Berkeley Guidance Study, who met hardship much younger), according to gender, and according to the family's own response to economic pressure (changes in parental roles, older children bearing economic responsibilities early). He reported that outcomes varied with the family's economic loss, with gender and with age at exposure, and that many adolescents from deprived families took on work and household responsibilities and showed marked adult resilience, while later comparisons with younger children suggested that those hit by hardship early were more vulnerable, which underlines the importance of the "timing" of an event and not merely its occurrence.
 
 ## From the Study of Childhood to Aging
 

@@ -59,3 +59,5 @@ Critics argue that the concept of institution is too broad, covering everything 
 - DiMaggio, Paul J., and Walter W. Powell. "The Iron Cage Revisited: Institutional Isomorphism and Collective Rationality in Organizational Fields." *American Sociological Review* 48, no. 2 (1983): 147–160.
 - Meyer, John W., and Brian Rowan. "Institutionalized Organizations: Formal Structure as Myth and Ceremony." *American Journal of Sociology* 83, no. 2 (1977): 340–363.
 - North, Douglass C. *Institutions, Institutional Change and Economic Performance*. Cambridge: Cambridge University Press, 1990.
+- Goffman, Erving. *Asylums*. Garden City: Anchor Books, 1961.
+- Acemoglu, Daron, and James A. Robinson. *Why Nations Fail*. New York: Crown, 2012.

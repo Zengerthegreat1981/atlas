@@ -19,7 +19,7 @@ gaps: []
 ---
 # Jean & John Comaroff
 
-Jean Comaroff and John L. Comaroff are South African-born anthropologists, a married couple, who have worked together for decades. Their long-term fieldwork among the Tshidi Barolong, a Tswana-speaking people in South Africa and Botswana, underlies a body of joint work on colonialism, religion, law, and capitalism that makes them among the most prominent figures in the historical anthropology of southern Africa.
+Jean Comaroff and John L. Comaroff are anthropologists who grew up in South Africa (John was born in Cape Town, Jean in Edinburgh), a married couple, who have worked together for decades. Their long-term fieldwork among the Tshidi Barolong, a Tswana-speaking people in South Africa and Botswana, underlies a body of joint work on colonialism, religion, law, and capitalism that makes them among the most prominent figures in the historical anthropology of southern Africa.
 
 ## Biography and Academic Career
 

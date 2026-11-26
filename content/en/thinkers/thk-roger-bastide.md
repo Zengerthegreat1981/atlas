@@ -16,13 +16,13 @@ gaps: []
 
 # Roger Bastide
 
-French sociologist and anthropologist, born in Nîmes in 1898 to a Protestant family. He studied philosophy before turning to sociology. He moved to Brazil in 1938 to occupy the chair of sociology at the University of São Paulo, succeeding Claude Lévi-Strauss, and spent some sixteen years there studying Afro-Brazilian religions through deep field research. He then returned to France to teach at the Sorbonne until his death in 1974.
+French sociologist and anthropologist, born in Nîmes in 1898 to a Protestant family. He studied philosophy before turning to sociology. He moved to Brazil in 1938 to occupy the chair of sociology at the University of São Paulo, succeeding Claude Lévi-Strauss, and spent some sixteen years there studying Afro-Brazilian religions through deep field research. He returned to France in the 1950s, where he taught at the École Pratique des Hautes Études and the Sorbonne; he died in 1974.
 
 ## What He Contributed
 
 ### The Study of Candomblé and Afro-Brazilian Religions
 
-In his landmark work *Les Religions africaines au Brésil* (1960; English translation *The African Religions of Brazil*, 1978), Bastide provided the first systematic sociological-anthropological study of the African religions transplanted to Brazil through the slave trade and their transformations there: Candomblé, Umbanda, Macumba, Xangô and Batuque. He linked the structure of these rituals to the history of slavery and the social organization of Afro-Brazilian communities. His field participation reached an unusual academic extreme: he was initiated into Candomblé, as a "son of Xangô" (*filho de Xangô*).
+In his landmark work *Les Religions africaines au Brésil* (1960; English translation *The African Religions of Brazil*, 1978), Bastide provided a wide-ranging sociological-anthropological study of the African religions transplanted to Brazil through the slave trade and their transformations there: Candomblé, Umbanda, Macumba, Xangô and Batuque. He linked the structure of these rituals to the history of slavery and the social organization of Afro-Brazilian communities. His field participation went unusually far for an academic: he underwent initiatory rites in Candomblé and was regarded as a "son of Xangô" (*filho de Xangô*).
 
 ### The Theory of "Interpenetration of Civilizations"
 
@@ -52,7 +52,7 @@ In *Sociologie des maladies mentales* (1965), Bastide studied the relationship b
 
 ## Research with Florestan Fernandes and Ethnic Relations
 
-Between 1951 and 1955, Bastide collaborated with the Brazilian researcher Florestan Fernandes on a UNESCO study of ethnic relations in Brazil. This produced the book *Brancos e Negros em São Paulo* (1955), which exposed actual racial discrimination in the city and criticized the image of racial democracy drawn by Gilberto Freyre. This work shaped the São Paulo school of race studies, from which researchers such as Fernando Henrique Cardoso and Octavio Ianni emerged, both of whom became among Brazil's most prominent sociologists.
+Between 1951 and 1955, Bastide collaborated with the Brazilian researcher Florestan Fernandes on a UNESCO study of ethnic relations in Brazil. This research was published in 1955 and reissued as *Brancos e Negros em São Paulo* (1959), which exposed actual racial discrimination in the city and criticized the image of racial democracy drawn by Gilberto Freyre. This work shaped the São Paulo school of race studies, from which researchers such as Fernando Henrique Cardoso and Octavio Ianni emerged, both of whom became among Brazil's most prominent sociologists.
 
 ## Islam in Bahia
 
@@ -73,5 +73,5 @@ Later Brazilian scholars argued that Bastide's dichotomy between purity and sync
 - Bastide, Roger. *Le Candomblé de Bahia (rite nagô)*. Paris: Mouton, 1958.
 - Bastide, Roger. *Sociologie des maladies mentales*. Paris: Flammarion, 1965.
 - Bastide, Roger. *Le Rêve, la transe et la folie*. Paris: Flammarion, 1972.
-- Bastide, Roger, and Florestan Fernandes. *Brancos e Negros em São Paulo*. São Paulo: Companhia Editora Nacional, 1955.
+- Bastide, Roger, and Florestan Fernandes. *Brancos e Negros em São Paulo*. 2nd ed. São Paulo: Companhia Editora Nacional, 1959 (first published 1955).
 - Reis, João José. *Slave Rebellion in Brazil: The Muslim Uprising of 1835 in Bahia*. Baltimore: Johns Hopkins University Press, 1993.

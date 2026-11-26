@@ -58,7 +58,7 @@ Tylor explains his theory of animism as the first religious stage in human histo
 
 ## The Book's Influence on Defining Comparative Religion
 
-Beyond its influence on general anthropology, the book helped establish the early academic field of **comparative religion**. It provided for the first time a systematic methodological framework for studying "primitive" religions (as they were then called) in an organised comparative way, instead of describing them as random superstitions that did not deserve serious analysis, even though its unilinear evolutionary framework was later subjected to criticism.
+Beyond its influence on general anthropology, the book helped establish the early academic field of **comparative religion**. It provided a systematic framework for studying "primitive" religions (as they were then called) in an organised comparative way, instead of describing them as random superstitions that did not deserve serious analysis, even though its unilinear evolutionary framework was later subjected to criticism.
 
 ## Tylor's Institutional Position
 

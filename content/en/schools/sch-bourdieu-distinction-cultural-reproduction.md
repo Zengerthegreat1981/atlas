@@ -52,3 +52,5 @@ This work provided a highly influential analytical tool in the sociology of cult
 - Bourdieu, Pierre. *La distinction: Critique sociale du jugement*. Les Éditions de Minuit, 1979.
 - Bourdieu, Pierre, and Jean-Claude Passeron. *La reproduction: Éléments pour une théorie du système d'enseignement*. Les Éditions de Minuit, 1970.
 - Bourdieu, Pierre, and Jean-Claude Passeron. *Les héritiers: Les étudiants et la culture*. Les Éditions de Minuit, 1964.
+- DiMaggio, Paul. "Cultural Capital and School Success." *American Sociological Review*, 1982.
+- Lareau, Annette. *Unequal Childhoods: Class, Race, and Family Life*. University of California Press, 2003.

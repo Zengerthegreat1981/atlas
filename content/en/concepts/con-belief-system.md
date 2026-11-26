@@ -47,7 +47,7 @@ Anthropologists debate whether these count as belief systems at all, since they 
 1. Tylor, Edward Burnett (1871). *Primitive Culture*. John Murray.
 2. Durkheim, Émile (1912). *The Elementary Forms of Religious Life*. (English translation, 1915.)
 3. Weber, Max (1922). *Economy and Society*. (English translation, 1968.) See also Weber, *The Protestant Ethic and the Spirit of Capitalism* (1904–05; English translation by Talcott Parsons, 1930).
-4. Evans-Pritchard, E. E. (1937). *Witchcraft, Oracles and Magic Among the Azande*. Oxford University Press.
+4. Evans-Pritchard, E. E. (1937). *Witchcraft, Oracles and Magic Among the Azande*. Clarendon Press.
 5. Geertz, Clifford (1966). "Religion as a Cultural System." In *Anthropological Approaches to the Study of Religion*, edited by Michael Banton. Tavistock.
 6. Asad, Talal (1993). *Genealogies of Religion: Discipline and Reasons of Power in Christianity and Islam*. Johns Hopkins University Press.
 

@@ -7,7 +7,7 @@ level: متوسط
 title: Herbert Spencer
 en: Herbert Spencer
 crumb: "Sociology ← Herbert Spencer"
-dates: International · 1820-1903
+dates: Britain · 1820-1903
 active_start: 1820
 active_end: 1903
 edges: []

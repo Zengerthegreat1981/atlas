@@ -22,9 +22,9 @@ Exogamy is the rule or practice requiring a person to marry outside their own gr
 
 ## Origins and Development
 
-The comparative study of exogamy began with the classic ethnographies of African kinship. E. E. Evans-Pritchard's *The Nuer* (1940) and later *Kinship and Marriage among the Nuer* (1951) described how rules of clan and lineage exogamy forbade marriage between recognised kin and so linked lineages across Nuerland through marriage and cattle payments. Meyer Fortes's *The Web of Kinship Among the Tallensi* (1949) showed a similar pattern in northern Ghana, where clan exogamy meant that marriages created ties of obligation between otherwise separate patrilineal groups.
+The term "exogamy" was introduced by the Scottish scholar John F. McLennan in *Primitive Marriage* (1865). Twentieth-century ethnographies of African kinship later examined the rule in detail. E. E. Evans-Pritchard's *The Nuer* (1940) and later *Kinship and Marriage among the Nuer* (1951) described how rules of clan and lineage exogamy forbade marriage between recognised kin and so linked lineages across Nuerland through marriage and cattle payments. Meyer Fortes's *The Web of Kinship Among the Tallensi* (1949) showed a similar pattern in northern Ghana, where clan exogamy meant that marriages created ties of obligation between otherwise separate patrilineal groups.
 
-Claude Lévi-Strauss transformed the subject in *The Elementary Structures of Kinship* (1949). For Lévi-Strauss, exogamy was not merely a negative prohibition but the positive foundation of society itself: groups exchange women (or men) as they exchange goods, creating bonds of reciprocity. He distinguished restricted exchange, in which two groups exchange spouses directly with each other, from generalised exchange, in which several groups participate in a cycle — group A takes wives from B, B from C, and C from A. On this view, the incest taboo is the rule that forces exchange to happen, and therefore the rule that makes culture possible. Rodney Needham's edited volume *Rethinking Kinship and Marriage* (1971) carried the debate forward, questioning whether Lévi-Strauss's models described real marriage practices or idealised systems, and insisting on the gap between rules and behaviour.
+Claude Lévi-Strauss transformed the subject in *The Elementary Structures of Kinship* (1949). For Lévi-Strauss, exogamy was not merely a negative prohibition but the positive foundation of society itself: groups exchange women (or men) as they exchange goods, creating bonds of reciprocity. He distinguished restricted exchange, in which two groups exchange spouses directly with each other, from generalised exchange, in which several groups participate in a cycle — group A takes wives from B, B from C, and C from A. On this view, the incest taboo is the rule that forces exchange to happen, and therefore the rule that makes culture possible. Rodney Needham's edited volume *Rethinking Kinship and Marriage* (1971) carried the debate forward by critically re-examining the categories of kinship and marriage theory.
 
 ## Key Debates and Dimensions
 
@@ -42,6 +42,7 @@ Critics of the classical literature note that it often treated exogamy as a rule
 
 ## Sources
 
+- McLennan, John F. *Primitive Marriage*. 1865.
 - Evans-Pritchard, E. E. *The Nuer: A Description of the Modes of Livelihood and Political Institutions of a Nilotic People*. 1940.
 - Lévi-Strauss, Claude. *The Elementary Structures of Kinship*. 1949.
 - Fortes, Meyer. *The Web of Kinship Among the Tallensi*. 1949.

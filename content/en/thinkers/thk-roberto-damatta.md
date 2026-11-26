@@ -30,7 +30,7 @@ He developed an analytical framework based on the distinction between two socio-
 
 ### Structural Anthropology Applied to the "National Self"
 
-DaMatta drew on the structural tools of Lévi-Strauss (binary oppositions, ritual as a symbolic system), but directed them toward the study of his own society rather than distant "primitive" communities, which made him a pioneer of what is known in the Brazilian context as "anthropology at home".
+DaMatta drew on the structural tools of Lévi-Strauss (binary oppositions, ritual as a symbolic system), but directed them toward the study of his own society rather than distant "primitive" communities, which made him a notable exponent of what is known in the Brazilian context as "anthropology at home".
 
 ## Impact
 
@@ -59,11 +59,11 @@ In *Relativizando: Uma Introdução à Antropologia Social* (1981), DaMatta form
 
 ## The Three-Races Myth and Racism
 
-In an essay in *Relativizando* (1981), later developed in *O que Faz o Brasil, Brasil?* (1984), DaMatta discussed what he called the fable of the three races: the idea that Brazil was formed by a smooth fusion of Indigenous people, Africans and Portuguese. This image is associated with Gilberto Freyre's *Casa-Grande e Senzala* (1933; *The Masters and the Slaves*). He argued that this image performs an ideological function: it conceals racism by portraying society as integrated, and keeps hierarchy in place by assigning everyone to their place. Brazilian researchers who followed him discussed what is known as racial democracy.
+In an essay in *Relativizando* (1981), later developed in *O que Faz o Brasil, Brasil?* (1984), DaMatta discussed what he called the fable of the three races: the idea that Brazil was formed by a smooth fusion of Indigenous people, Africans and Portuguese. This image is associated with Gilberto Freyre's *Casa-Grande e Senzala* (1933; *The Masters and the Slaves*). He argued that this image performs an ideological function: it conceals racism by portraying society as integrated, and keeps hierarchy in place by assigning everyone to their place. His argument belongs to the wider Brazilian critique of what is known as racial democracy.
 
 ## Critical Reflections
 
-His argument about "house and street" is more accurate in describing the urban middle classes of Rio and São Paulo than in describing rural and indigenous societies, as critics have observed. And his interest in ritual presents a harmonious picture of a society that is full of class struggle and violence.
+His argument about "house and street" is more accurate in describing the urban middle classes of Rio and São Paulo than in describing rural and indigenous societies, as critics have observed. Critics have also argued that his emphasis on ritual can give too harmonious a picture of a society marked by class conflict and violence.
 
 ## Sources
 

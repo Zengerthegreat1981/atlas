@@ -19,7 +19,7 @@ sociological_paradigm: micro-macro
 ---
 # Observation
 
-Observation is the systematic watching and recording of social life as it happens. It is the oldest method in sociology and anthropology, and also one of the most contested: it promises direct contact with lived reality, yet everything it records passes through the observer's attention, categories, and presence. To observe sociologically is not simply to look. It is to watch with a question in mind, to record in a disciplined way, and to turn what is seen into evidence about how social order is made, maintained, and broken.
+Observation is the systematic watching and recording of social life as it happens. It is one of the long-established methods of sociology and anthropology, and also a contested one: it promises direct contact with lived reality, yet everything it records passes through the observer's attention, categories, and presence. To observe sociologically is not simply to look. It is to watch with a question in mind, to record in a disciplined way, and to turn what is seen into evidence about how social order is made, maintained, and broken.
 
 ## Definition
 
@@ -29,7 +29,7 @@ What distinguishes sociological observation from everyday looking is its analyti
 
 ## Origins and Development
 
-Observation entered the social sciences through anthropology. Bronisław Malinowski's fieldwork in the Trobriand Islands, published as *Argonauts of the Western Pacific* (1922), established the model of long-term immersion: learn the language, live in the village, and record the "imponderabilia of actual life" — the small routines through which social structure is lived. In sociology, the Chicago School carried the method into the city. William Foote Whyte's *Street Corner Society* (1943), a classic of the same urban-ethnographic tradition based on about three and a half years of fieldwork among young men in Boston's Italian-American North End, showed that observation could reveal an order invisible to outsiders: the corner boys, whom officials dismissed as disorganised, had their own hierarchy, obligations, and moral code.
+Observation entered the social sciences through anthropology. Bronisław Malinowski's fieldwork in the Trobriand Islands, published as *Argonauts of the Western Pacific* (1922), established the model of long-term immersion: learn the language, live in the village, and record the "imponderabilia of actual life" — the small routines through which social structure is lived. In sociology, the Chicago School carried the method into the city. William Foote Whyte's *Street Corner Society* (1943), a classic of the same urban-ethnographic tradition based on about three and a half years of fieldwork among young men in Boston's Italian-American North End, showed that observation could reveal an order invisible to outsiders: the corner boys, in a district often seen by outsiders as disorganised, had their own hierarchy, obligations, and moral code.
 
 The method was formalised in the mid-twentieth century. Raymond Gold's classic paper on field roles (1958) distinguished the complete participant, the participant-as-observer, the observer-as-participant, and the complete observer, giving researchers a vocabulary for the trade-off between closeness and detachment. Clifford Geertz, in *The Interpretation of Cultures* (1973), reframed observation as interpretation: the ethnographer reads behaviour as a text, producing "thick description" that captures not only what people do but what their actions mean within a web of significance. Later, *Writing Ethnographic Fieldnotes* (Emerson, Fretz, and Shaw, 1995) turned the craft of note-taking itself into a teachable method, showing how jottings become full notes, and notes become analysis.
 
@@ -47,6 +47,6 @@ Observation remains indispensable wherever self-reports fail: when people cannot
 
 - Bronisław Malinowski, *Argonauts of the Western Pacific* (1922)
 - William Foote Whyte, *Street Corner Society* (1943)
-- Raymond L. Gold, "Roles in Sociological Field Observations" (1958)
+- Raymond L. Gold, "Roles in Sociological Field Observations," *Social Forces* (1958)
 - Clifford Geertz, *The Interpretation of Cultures* (1973)
 - Robert M. Emerson, Rachel I. Fretz, and Linda L. Shaw, *Writing Ethnographic Fieldnotes* (1995)

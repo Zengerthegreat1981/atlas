@@ -28,7 +28,7 @@ Duneier spent extended time on the sidewalk with the vendors, and briefly worked
 
 ## Context
 
-Duneier, a sociologist at Princeton University, had earlier written *Slim's Table* (1992), an ethnography of Black working-class men in a Chicago cafeteria. *Sidewalk* continues the tradition of American urban ethnography associated with Elliot Liebow's *Tally's Corner* (1967), and it is notable for its methodological transparency. The book includes a long methodological appendix, discusses the ethics of fieldwork with marginalised people, and was accompanied by photographs by Ovie Carter. Duneier also describes how he checked his accounts, including by sharing drafts with participants.
+Duneier, who later moved to Princeton University, had earlier written *Slim's Table* (1992), an ethnography of Black working-class men in a Chicago cafeteria. *Sidewalk* continues the tradition of American urban ethnography associated with Elliot Liebow's *Tally's Corner* (1967), and it is notable for its methodological transparency. The book includes a long methodological appendix, discusses the ethics of fieldwork with marginalised people, and was accompanied by photographs by Ovie Carter. Duneier also describes how he checked his accounts, including by sharing drafts with participants.
 
 ## Impact and Critique
 

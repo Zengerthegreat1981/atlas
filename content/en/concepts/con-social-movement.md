@@ -20,7 +20,7 @@ sociological_paradigm: micro-macro
 
 ## Definition
 
-A social movement is a sustained, collective effort, usually by people without routine access to institutional power, to bring about or resist social change through means that include protest, organisation, and the cultivation of shared identities and claims. Movements differ from interest groups, which lobby within established channels, and from fleeting crowds, by their duration, their networks of participants, and their challenge to prevailing arrangements. Charles Tilly, who made the study of movements a core field of political sociology, described them as sustained campaigns of claim-making that combine public displays of worthiness, unity, numbers, and commitment (WUNC) with a repertoire of actions such as demonstrations, petitions, strikes, and public meetings.
+A social movement is a sustained, collective effort, usually by people without routine access to institutional power, to bring about or resist social change through means that include protest, organisation, and the cultivation of shared identities and claims. Movements differ from interest groups, which lobby within established channels, and from fleeting crowds, by their duration, their networks of participants, and their challenge to prevailing arrangements. Charles Tilly, a central figure in the political sociology of movements, described them as sustained campaigns of claim-making that combine public displays of worthiness, unity, numbers, and commitment (WUNC) with a repertoire of actions such as demonstrations, petitions, strikes, and public meetings.
 
 ## Theoretical Approaches
 
@@ -39,7 +39,7 @@ Frequently studied cases include the labour movement of the nineteenth and twent
 ## Sources
 
 - Tilly, Charles. *From Mobilization to Revolution*. Addison-Wesley, 1978.
-- McCarthy, John D., and Mayer N. Zald. "Resource Mobilization and Social Movements: A Partial Theory." *American Journal of Sociology* 82 (1977).
+- Tilly, Charles. *Social Movements, 1768-2004*. Paradigm, 2004.\n- McCarthy, John D., and Mayer N. Zald. "Resource Mobilization and Social Movements: A Partial Theory." *American Journal of Sociology* 82 (1977).
 - McAdam, Doug. *Political Process and the Development of Black Insurgency, 1930-1970*. University of Chicago Press, 1982.
 - Snow, David A., et al. "Frame Alignment Processes, Micromobilization, and Movement Participation." *American Sociological Review* 51 (1986).
 - Melucci, Alberto. *Nomads of the Present*. Temple University Press, 1989.

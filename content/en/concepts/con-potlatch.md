@@ -18,7 +18,7 @@ gaps: []
 ---
 # Potlatch
 
-A ceremonial exchange ritual among the peoples of the Northwest Coast of North America (the Kwakiutl, Tlingit, Haida, and others). Franz Boas documented it in the field, and Marcel Mauss used it as a central example in *The Gift* (1925).
+A ceremonial exchange ritual among the peoples of the Northwest Coast of North America (the Kwakwaka'wakw, long called Kwakiutl in the literature, the Tlingit, Haida, and others). Franz Boas documented it in the field, and Marcel Mauss used it as a central example in *The Gift* (1925).
 
 ## Description
 
@@ -38,7 +38,7 @@ Boas and his students documented concrete differences in the practice of the pot
 
 ## Contemporary Revival
 
-The legal ban on the potlatch in Canada was lifted in 1951. The following decades saw a broad cultural revival of the practice among Northwest Coast peoples, as a symbol of reclaiming Indigenous cultural identity after decades of colonial repression. Several Canadian museums returned items that had been confiscated during the ban to their original families.
+The legal ban on the potlatch in Canada was lifted in 1951. The following decades saw a broad cultural revival of the practice among Northwest Coast peoples, as a symbol of reclaiming Indigenous cultural identity after decades of colonial repression. From the late 1970s, Canadian museums returned items confiscated during the ban to Kwakwaka'wakw communities, where cultural centres at Cape Mudge and Alert Bay were established to house them.
 
 ## Anthropological Debate over Interpretation
 

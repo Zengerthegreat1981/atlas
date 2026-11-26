@@ -8,7 +8,7 @@ title: Risk Sociology
 en: Risk Sociology
 crumb: Sociology ← Branches ← Risk Sociology
 dates: contemporary
-active_start: 1970
+active_start: 1982
 active_end: مستمر
 edges: []
 related: []
@@ -27,11 +27,11 @@ The field covers the perception of risk, the social distribution of hazards, the
 
 ## History
 
-The field was transformed by Ulrich Beck's *Risk Society: Towards a New Modernity* (1986), which argued that advanced industrial societies had entered a new phase in which the dominant problems were no longer the distribution of wealth but the distribution of manufactured risks. Unlike the hazards of earlier eras, these risks were global, invisible, and incalculable — radiation, chemical pollution, genetic modification — and they affected rich and poor alike, though not equally. Anthony Giddens developed a parallel account in *The Consequences of Modernity* (1990), analysing trust, expertise, and the disembedding of social relations. Mary Douglas and Aaron Wildavsky's *Risk and Culture* (1982) had earlier shown that the selection of risks is cultural: groups attend to the dangers that threaten their way of life and ignore others. Charles Perrow's *Normal Accidents* (1984) argued that in tightly coupled, complex technological systems, accidents are inevitable rather than exceptional. Niklas Luhmann's *Risk: A Sociological Theory* (1993) distinguished risk, as a consequence of decisions, from danger, as something imposed from outside.
+The field was transformed by Ulrich Beck's *Risk Society: Towards a New Modernity* (1986), which argued that advanced industrial societies had entered a new phase in which the dominant problems were no longer the distribution of wealth but the distribution of manufactured risks. Unlike the hazards of earlier eras, these risks were global, invisible, and incalculable — radiation, chemical pollution, genetic modification — and they affected rich and poor alike, though not equally. Anthony Giddens developed a parallel account in *The Consequences of Modernity* (1990), analysing trust, expertise, and the disembedding of social relations. Mary Douglas and Aaron Wildavsky's *Risk and Culture* (1982) had earlier shown that the selection of risks is cultural: groups attend to the dangers that threaten their way of life and ignore others. Charles Perrow's *Normal Accidents* (1984) argued that in tightly coupled, complex technological systems, accidents are inevitable rather than exceptional. Niklas Luhmann's *Risk: A Sociological Theory* (German 1991; English 1993) distinguished risk, as a consequence of decisions, from danger, as something imposed from outside.
 
 ## Key Figures and Works
 
-Beck (1986) gave the field its founding thesis and its name, and later developed the idea of a "world risk society" in which global risks demand cosmopolitan political responses. Giddens (1990) connected risk to reflexivity and the restructuring of trust in expert systems. Douglas and Wildavsky (1982) established the cultural theory of risk perception, showing how social organisation shapes what counts as dangerous. Perrow (1984) provided the classic analysis of technological accidents. Luhmann (1993) offered a systems-theoretical account of risk and decision. Paul Slovic's *The Perception of Risk* (2000) collected decades of psychological research showing that lay perceptions of risk are shaped by dread, familiarity, and control rather than by statistics alone. More recent work has applied risk sociology to climate change, pandemics, financialisation, and the governance of artificial intelligence.
+Beck (1986) gave the field one of its defining theses, and later developed the idea of a "world risk society" in which global risks demand cosmopolitan political responses. Giddens (1990) connected risk to reflexivity and the restructuring of trust in expert systems. Douglas and Wildavsky (1982) established the cultural theory of risk perception, showing how social organisation shapes what counts as dangerous. Perrow (1984) provided the classic analysis of technological accidents. Luhmann (1993) offered a systems-theoretical account of risk and decision. Paul Slovic's *The Perception of Risk* (2000) collected decades of psychological research showing that lay perceptions of risk are shaped by dread, familiarity, and control rather than by statistics alone. More recent work has applied risk sociology to climate change, pandemics, financialisation, and the governance of artificial intelligence.
 
 ## Methods
 
@@ -47,6 +47,6 @@ Risk sociology has influenced environmental policy, disaster management, public 
 - Perrow, Charles. *Normal Accidents: Living with High-Risk Technologies*. 1984.
 - Beck, Ulrich. *Risk Society: Towards a New Modernity*. 1986.
 - Giddens, Anthony. *The Consequences of Modernity*. 1990.
-- Luhmann, Niklas. *Risk: A Sociological Theory*. 1993.
+- Luhmann, Niklas. *Risk: A Sociological Theory*. 1991; English translation 1993.
 - Slovic, Paul. *The Perception of Risk*. 2000.
 - Beck, Ulrich. *World Risk Society*. 1999.

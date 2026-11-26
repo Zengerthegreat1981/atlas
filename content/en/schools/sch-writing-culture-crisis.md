@@ -50,7 +50,7 @@ Feminist anthropologists engaged critically with "Writing Culture." They observe
 
 ## Geertz and the Analysis of Authorial Style
 
-Although Clifford Geertz did not participate directly in the "Writing Culture" volume, he made a parallel and influential contribution in *Works and Lives: The Anthropologist as Author* (1988). In it he analyzed the distinctive literary style of four classical anthropologists (Lévi-Strauss, Evans-Pritchard, Malinowski, and Ruth Benedict), showing how each built his or her scientific authority through markedly different stylistic choices. This effectively paved the way for the broader "Writing Culture" thesis about the ethnographic text as a rhetorical construction.
+Although Clifford Geertz did not participate directly in the "Writing Culture" volume, he made a parallel and influential contribution in *Works and Lives: The Anthropologist as Author* (1988). In it he analyzed the distinctive literary style of four classical anthropologists (Lévi-Strauss, Evans-Pritchard, Malinowski, and Ruth Benedict), showing how each built his or her scientific authority through markedly different stylistic choices. This reinforced the broader "Writing Culture" thesis about the ethnographic text as a rhetorical construction.
 
 ## Application Beyond Anthropology
 
@@ -63,3 +63,4 @@ The debate over the "crisis of representation" later spread to neighboring field
 - Rosaldo, Renato. *Culture and Truth: The Remaking of Social Analysis*. Beacon Press, 1989.
 - Said, Edward. *Orientalism*. Pantheon Books, 1978.
 - Geertz, Clifford. *Works and Lives: The Anthropologist as Author*. Stanford University Press, 1988.
+- Abu-Lughod, Lila. *Writing Women's Worlds: Bedouin Stories*. University of California Press, 1993.

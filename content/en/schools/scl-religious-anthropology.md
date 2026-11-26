@@ -28,7 +28,7 @@ The field's modern form was made by ethnography. E. E. Evans-Pritchard's Witchcr
 
 ## Key Figures and Works
 
-Tylor's Primitive Culture (1871) founded the field. Frazer's The Golden Bough (1890) made it a public sensation. Durkheim's The Elementary Forms of Religious Life (1912) gave it its first sociological theory. Evans-Pritchard's Witchcraft, Oracles and Magic Among the Azande (1937) is the classic ethnography of religious thought, and his later Nuer Religion (1956) showed how a people's idea of God is bound up with their social life. Geertz's "Religion as a Cultural System" (1966) set the interpretive agenda for a generation. Victor Turner's The Ritual Process (1969) introduced the concepts of liminality and communitas, showing how ritual creates a space outside ordinary structure in which new social bonds are formed. Mary Douglas's Purity and Danger (1966) showed how ideas of pollution and taboo express a society's sense of order. Talal Asad's Genealogies of Religion (1993) forced the field to question its own categories. More recent landmarks include the work of Saba Mahmood on piety and agency in Egypt's mosque movement, and the ethnographies of Pentecostalism, Buddhism, and new religious movements that study how religions travel and transform in a global world.
+Tylor's Primitive Culture (1871) was a founding work of the field. Frazer's The Golden Bough (1890) made it a public sensation. Durkheim's The Elementary Forms of Religious Life (1912) gave it its first sociological theory. Evans-Pritchard's Witchcraft, Oracles and Magic Among the Azande (1937) is the classic ethnography of religious thought, and his later Nuer Religion (1956) showed how a people's idea of God is bound up with their social life. Geertz's "Religion as a Cultural System" (1966) set the interpretive agenda for a generation. Victor Turner's The Ritual Process (1969) developed the concepts of liminality (drawn from Arnold van Gennep) and communitas, showing how ritual creates a space outside ordinary structure in which new social bonds are formed. Mary Douglas's Purity and Danger (1966) showed how ideas of pollution and taboo express a society's sense of order. Talal Asad's Genealogies of Religion (1993) forced the field to question its own categories. More recent landmarks include the work of Saba Mahmood on piety and agency in Egypt's mosque movement, and the ethnographies of Pentecostalism, Buddhism, and new religious movements that study how religions travel and transform in a global world.
 
 ## Method
 
@@ -42,9 +42,11 @@ The anthropology of religion has shaped the study of ritual, symbol, and society
 
 - Tylor, Edward B. Primitive Culture: Researches into the Development of Mythology, Philosophy, Religion, Art, and Custom. London: John Murray, 1871.
 - Frazer, James G. The Golden Bough: A Study in Comparative Religion. London: Macmillan, 1890.
-- Durkheim, Émile. The Elementary Forms of Religious Life. Paris: Alcan, 1912.
+- Durkheim, Émile. Les Formes élémentaires de la vie religieuse. Paris: Alcan, 1912 (English: The Elementary Forms of the Religious Life, 1915).
 - Evans-Pritchard, E. E. Witchcraft, Oracles and Magic Among the Azande. Oxford: Clarendon Press, 1937.
 - Douglas, Mary. Purity and Danger: An Analysis of Concepts of Pollution and Taboo. London: Routledge and Kegan Paul, 1966.
 - Geertz, Clifford. "Religion as a Cultural System." In The Interpretation of Cultures, 1973. First published 1966.
 - Turner, Victor. The Ritual Process: Structure and Anti-Structure. Chicago: Aldine, 1969.
+- Evans-Pritchard, E. E. Nuer Religion. Oxford: Clarendon Press, 1956.
+- Mahmood, Saba. Politics of Piety: The Islamic Revival and the Feminist Subject. Princeton: Princeton University Press, 2005.
 - Asad, Talal. Genealogies of Religion: Discipline and Reasons of Power in Christianity and Islam. Baltimore: Johns Hopkins University Press, 1993.

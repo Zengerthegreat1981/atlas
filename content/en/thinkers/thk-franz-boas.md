@@ -21,7 +21,7 @@ gaps: []
 
 # Franz Boas: Founder of American Anthropology and Cultural Relativism
 
-Franz Boas (1858–1942) stands as the founding figure of American anthropology and the architect of the four-field approach—integrating biological, archaeological, linguistic, and cultural anthropology within a unified discipline. Born in Westphalia, Germany, and trained as a physicist and geographer, Boas revolutionized anthropological epistemology by insisting that cultures must be understood historically and contextually rather than through evolutionary hierarchies or racial categories. His approach, later labelled **cultural relativism**—the proposition that beliefs and practices must be understood within their own cultural context rather than judged by external standards—became foundational to anthropological ethics. His fieldwork among the Kwakwaka'wakw (Kwakiutl) people of the Pacific Northwest demonstrated that indigenous American societies possessed sophisticated economic systems, complex art traditions, and rich oral literatures that challenged racial evolutionary assumptions.
+Franz Boas (1858–1942) stands as the founding figure of American anthropology and a principal shaper of the four-field approach—integrating biological, archaeological, linguistic, and cultural anthropology within a unified discipline. Born in Westphalia, Germany, and trained as a physicist and geographer, Boas reshaped anthropological epistemology by insisting that cultures must be understood historically and contextually rather than through evolutionary hierarchies or racial categories. His approach, later labelled **cultural relativism**—the proposition that beliefs and practices must be understood within their own cultural context rather than judged by external standards—became foundational to anthropological ethics. His fieldwork among the Kwakwaka'wakw (Kwakiutl) people of the Pacific Northwest demonstrated that indigenous American societies possessed sophisticated economic systems, complex art traditions, and rich oral literatures that challenged racial evolutionary assumptions.
 
 ## Biographical Context and Intellectual Formation
 
@@ -55,7 +55,7 @@ Boas's publications established the intellectual framework for American anthropo
 
 ## Fieldwork Practice: Collaborative Research Among the Kwakwaka'wakw
 
-Boas's fieldwork among the Kwakwaka'wakw people (1886–1930) exemplified his methodological commitments. He made extended visits to villages in British Columbia over multiple decades, learning the Kwakwala language, attending ceremonies, and collecting oral traditions. Crucially, he worked collaboratively with indigenous scholars, particularly George Hunt (1854–1933), born to a Tlingit mother and an English father and raised in the Kwakwaka'wakw community of Fort Rupert, fluent in English and Kwakwala who served simultaneously as translator, ethnographic informant, and researcher.
+Boas's fieldwork among the Kwakwaka'wakw people (1886–1930) exemplified his methodological commitments. He made extended visits to villages in British Columbia over multiple decades, learning the Kwakwala language, attending ceremonies, and collecting oral traditions. Crucially, he worked collaboratively with indigenous scholars, particularly George Hunt (1854–1933), born to a Tlingit mother and an English father and raised in the Kwakwaka'wakw community of Fort Rupert; fluent in English and Kwakwala, he served simultaneously as translator, ethnographic informant, and researcher.
 
 Hunt conducted fieldwork independently and submitted detailed reports to Boas, maintaining correspondence over decades. This collaboration was extraordinarily productive—Hunt recorded thousands of pages of oral texts, genealogies, ceremonial details, and cultural knowledge. Yet the collaborative nature of this research was largely obscured in Boas's publications, which presented findings as the product of Boas's fieldwork and analysis, with Hunt's role minimized.
 
@@ -104,6 +104,6 @@ The practice of working with language, recording texts, and building deep cultur
 - Boas, Franz. *The Mind of Primitive Man*. 1911; revised edition, Macmillan, 1938.
 - Boas, Franz (ed.). *Handbook of American Indian Languages, Part 1*. Bureau of American Ethnology Bulletin 40, 1911.
 - Boas, Franz. *Race, Language and Culture*. Macmillan, 1940.
-- Jacknis, Ira. *The Storage Box of Tradition: Kwakwaka'wakw Art, Anthropologists, and Museums, 1881-1981*. Smithsonian Institution Press, 2002.
+- Jacknis, Ira. *The Storage Box of Tradition: Kwakiutl Art, Anthropologists, and Museums, 1881-1981*. Smithsonian Institution Press, 2002.
 - Cole, Douglas, and Ira Chaikin. *An Iron Hand upon the People: The Law Against the Potlatch on the Northwest Coast*. University of Washington Press, 1990.
 - Stocking, George W. (ed.). *The Shaping of American Anthropology, 1883–1911: A Franz Boas Reader*. Basic Books, 1974.

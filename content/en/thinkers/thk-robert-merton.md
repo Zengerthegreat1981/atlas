@@ -7,7 +7,7 @@ level: متوسط
 title: Robert K. Merton
 en: Robert K. Merton
 crumb: "Sociology ← Robert K. Merton"
-dates: International · 1910-2003
+dates: United States · 1910-2003
 active_start: 1910
 active_end: 2003
 edges: []

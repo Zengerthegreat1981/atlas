@@ -27,13 +27,14 @@ Oscar Lewis introduced an influential and controversial concept, the "Culture of
 
 ## Rural-Urban Migration and Social Networks
 
-The subfield has studied how migrants from the countryside to the city maintain strong networks of kinship and village ties within their new urban environment, through mechanisms such as village associations in the city and mutual financial and employment assistance among migrants from the same village. This refutes a classical and widespread assumption in early urban sociology, which held that urbanisation necessarily dissolves traditional ties and replaces them with superficial and temporary individual relations. This dynamic is well documented in the large Arab cities that experienced intensive rural-urban migration since the mid-twentieth century.
+The subfield has studied how migrants from the countryside to the city maintain strong networks of kinship and village ties within their new urban environment, through mechanisms such as village associations in the city and mutual financial and employment assistance among migrants from the same village. This challenges a classical and widespread assumption in early urban sociology, which held that urbanisation necessarily dissolves traditional ties and replaces them with superficial and temporary individual relations. This dynamic is well documented in the large Arab cities that experienced intensive rural-urban migration since the mid-twentieth century.
 
 ## The Global City and Spatial Segregation
 
-The subfield has recently expanded to include the study of "global cities" such as New York and London as central nodes in a connected world economy, where layers of low-wage migrant workers coexist with transnational financial elites within the same urban geography, yet in almost entirely separate social worlds. This makes the study of spatial segregation and class inequality within a single city a tool for understanding the structure of economic globalisation itself at a smaller and more tangible scale than macro-economic abstraction.
+The subfield has recently expanded to include the study of "global cities" (a term associated with the sociologist Saskia Sassen) such as New York and London as central nodes in a connected world economy, where layers of low-wage migrant workers coexist with transnational financial elites within the same urban geography, yet in almost entirely separate social worlds. This makes the study of spatial segregation and class inequality within a single city a tool for understanding the structure of economic globalisation itself at a smaller and more tangible scale than macro-economic abstraction.
 
 ## Sources
 
 - Lewis, Oscar. *La Vida: A Puerto Rican Family in the Culture of Poverty—San Juan and New York*. Random House, 1966.
 - Hannerz, Ulf. *Exploring the City: Inquiries Toward an Urban Anthropology*. Columbia University Press, 1980.
+- Sassen, Saskia. *The Global City: New York, London, Tokyo*. Princeton University Press, 1991.

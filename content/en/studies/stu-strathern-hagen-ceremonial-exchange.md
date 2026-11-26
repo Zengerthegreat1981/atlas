@@ -50,11 +50,11 @@ Strathern re-reads the legacy of Marcel Mauss, who wrote of obligations to give,
 
 ## Reception and Debate
 
-The book was highly influential in anthropology, feminist theory and the study of Melanesia. It has also been criticized: for the difficulty of its prose; for treating "Melanesia" as a unity and using a stylized model of the person; and for the use of the term "dividual," which some regard as an analytic device and others, such as LiPuma and Mosko, as the basis of a Melanesian theory of the "partible" person. Feminist critics disputed whether it understated women's experience of inequality.
+The book was highly influential in anthropology, feminist theory and the study of Melanesia. It has also been criticized: for the difficulty of its prose; for treating "Melanesia" as a unity and using a stylized model of the person; and for the use of the term "dividual," which some regard as an analytic device. Mark Mosko developed the idea of the "partible" person, while Edward LiPuma argued that persons combine dividual and individual aspects. Feminist critics disputed whether it understated women's experience of inequality.
 
 ## Sources
 
 - Strathern, Marilyn. *Women in Between: Female Roles in a Male World, Mount Hagen, New Guinea*. Seminar Press, 1972.
 - Strathern, Marilyn and Andrew Strathern. *Self-Decoration in Mount Hagen*. Duckworth, 1971.
 - Strathern, Marilyn. *The Gender of the Gift: Problems with Women and Problems with Society in Melanesia*. University of California Press, 1988.
-- Mauss, Marcel. *The Gift: Forms and Functions of Exchange in Archaic Societies*. W.W. Norton, 1990.
+- Mauss, Marcel. *The Gift: The Form and Reason for Exchange in Archaic Societies*. Translated by W. D. Halls. W. W. Norton, 1990.

@@ -8,7 +8,7 @@ title: "Goffmanian Microsociology"
 en: Goffmanian Microsociology
 crumb: Sociology ← Goffmanian Microsociology
 dates: contemporary
-active_start: 1970
+active_start: 1959
 active_end: مستمر
 edges: []
 related: []
@@ -25,7 +25,7 @@ The branch's scope is the interaction order, Goffman's term for the domain of be
 
 ## Historical Development
 
-Goffman's programme began with his doctoral fieldwork in the Shetland Islands, published as *The Presentation of Self in Everyday Life* in 1959, which introduced the dramaturgical vocabulary to sociology. *Asylums* followed in 1961, drawing on fieldwork in a Washington psychiatric hospital to show how total institutions mortify the self, and *Stigma* in 1963 extended the analysis to the management of discredited identities. *Interaction Ritual*, published in 1967, gathered his essays on deference, demeanour, and embarrassment into a theory of the moral order of encounters. In the 1970s Goffman turned to the organisation of experience itself: *Frame Analysis* (1974) examined how people define situations and how those definitions break down, and *Forms of Talk* (1981) analysed lectures, replies, and radio talk as interactional forms. After Goffman's death in 1982, his students and readers carried the programme into new domains — medicine, law, organisations, and later digital communication — while debates about the coherence of his work, summarised in the secondary literature of the 1990s, consolidated his standing as sociology's great analyst of the interaction order.
+Goffman's programme began with his doctoral fieldwork in the Shetland Islands, which informed *The Presentation of Self in Everyday Life* (first published in Edinburgh in 1956; expanded edition 1959), a book that introduced the dramaturgical vocabulary to sociology. *Asylums* followed in 1961, drawing on fieldwork in a Washington psychiatric hospital to show how total institutions mortify the self, and *Stigma* in 1963 extended the analysis to the management of discredited identities. *Interaction Ritual*, published in 1967, gathered his essays on deference, demeanour, and embarrassment into a theory of the moral order of encounters. In the 1970s Goffman turned to the organisation of experience itself: *Frame Analysis* (1974) examined how people define situations and how those definitions break down, and *Forms of Talk* (1981) analysed lectures, replies, and radio talk as interactional forms. After Goffman's death in 1982, his students and readers carried the programme into new domains — medicine, law, organisations, and later digital communication — while debates about the coherence of his work, summarised in the secondary literature of the 1990s, consolidated his standing as sociology's great analyst of the interaction order.
 
 ## Key Figures
 
@@ -41,7 +41,7 @@ The branch's influence extends well beyond microsociology. Its vocabulary — fr
 
 ## Sources
 
-- Goffman, Erving. *The Presentation of Self in Everyday Life*. 1959.
+- Goffman, Erving. *The Presentation of Self in Everyday Life*. 1956; expanded edition 1959.
 - Goffman, Erving. *Asylums: Essays on the Social Situation of Mental Patients and Other Inmates*. 1961.
 - Goffman, Erving. *Stigma: Notes on the Management of Spoiled Identity*. 1963.
 - Goffman, Erving. *Interaction Ritual: Essays on Face-to-Face Behavior*. 1967.

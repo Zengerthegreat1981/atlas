@@ -18,7 +18,7 @@ gaps:
 
 # Patrilineal
 
-Patrilineal descent is a principle of kinship reckoning in which membership in a descent group, rights to property, and social identity are traced through the father's line. A person's lineage, clan, or family name passes from father to child, and the child belongs to the father's group rather than the mother's. Patrilineal systems are among the most widely distributed forms of unilineal descent in the world, found across much of Africa, the Middle East, South and East Asia, and Europe. They are one of three classic unilineal principles — alongside matrilineal descent, traced through the mother, and cognatic descent, which recognises both sides — and each produces a different map of who counts as kin and who inherits what.
+Patrilineal descent is a principle of kinship reckoning in which membership in a descent group, rights to property, and social identity are traced through the father's line. A person's lineage, clan, or family name passes from father to child, and the child belongs to the father's group rather than the mother's. Patrilineal systems are among the most widely distributed forms of unilineal descent in the world, found across much of Africa, the Middle East, South and East Asia, and Europe. Patrilineal descent is usually contrasted with matrilineal descent, the other main unilineal principle, traced through the mother, and with cognatic descent, which recognises both sides; each produces a different map of who counts as kin and who inherits what.
 
 ## Definition
 

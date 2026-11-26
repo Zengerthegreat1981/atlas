@@ -58,7 +58,7 @@ Tylor's evolutionary model paved the way for a generation of comparative religio
 
 ## Conclusion
 
-Tylor remains a founding father of British academic cultural anthropology. His famous definition of culture is still a starting point for every contemporary academic discussion of this central concept, even after later anthropology moved beyond his unilinear evolutionary model through a decisive cultural-relativist critique.
+Tylor remains a founding father of British academic cultural anthropology. His famous definition of culture is still a common starting point for discussions of this central concept, even after later anthropology moved beyond his unilinear evolutionary model through a decisive cultural-relativist critique.
 
 ## Sources
 

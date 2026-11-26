@@ -8,7 +8,7 @@ title: Criminology
 en: Criminology
 crumb: Sociology ← Branches ← Criminology
 dates: contemporary
-active_start: 1970
+active_start: 1876
 active_end: مستمر
 edges: []
 related: []
@@ -33,7 +33,7 @@ In the mid-twentieth century, criminology diversified. Robert Merton's strain th
 
 ## Key Figures and Works
 
-Beccaria (1764) remains the foundation of deterrence theory and penal reform. Lombroso (1876) founded positivist criminology, even though his biological determinism was abandoned. Emile Durkheim, in *The Rules of Sociological Method* (1895) and *Suicide* (1897), argued that crime is normal in every society and that punishment reaffirms collective values. Sutherland's *Principles of Criminology* (1939) systematised the field, and Sutherland's work on white-collar crime (introduced in his 1939 presidential address to the American Sociological Society and developed in *White Collar Crime*, 1949) insisted that respectable businessmen could be criminals. Merton's essay on social structure and anomie (1938) became one of the most cited theories in the field. Becker's *Outsiders* (1963) made labelling theory central to the sociology of deviance. Michel Foucault's *Discipline and Punish* (1975) reinterpreted the prison as a technique of power that produces disciplined subjects. David Garland's *The Culture of Control* (2001) analysed the late twentieth-century shift toward punitive crime control in Britain and the United States.
+Beccaria (1764) remains the foundation of deterrence theory and penal reform. Lombroso (1876) founded positivist criminology, even though his biological determinism was abandoned. Emile Durkheim, in *The Rules of Sociological Method* (1895), argued that crime is normal in every society and that punishment reaffirms collective values. Sutherland's *Principles of Criminology* (1939) systematised the field, and Sutherland's work on white-collar crime (introduced in his 1939 presidential address to the American Sociological Society and developed in *White Collar Crime*, 1949) insisted that respectable businessmen could be criminals. Merton's essay on social structure and anomie (1938) became one of the most cited theories in the field. Becker's *Outsiders* (1963) made labelling theory central to the sociology of deviance. Michel Foucault's *Discipline and Punish* (1975) reinterpreted the prison as a technique of power that produces disciplined subjects. David Garland's *The Culture of Control* (2001) analysed the late twentieth-century shift toward punitive crime control in Britain and the United States.
 
 ## Methods
 
@@ -48,6 +48,8 @@ Criminology has shaped penal policy more directly than most sociological fields.
 - Beccaria, Cesare. *On Crimes and Punishments*. 1764.
 - Lombroso, Cesare. *L'uomo delinquente* (Criminal Man). 1876.
 - Durkheim, Emile. *The Rules of Sociological Method*. 1895.
+- Shaw, Clifford R., and Henry D. McKay. *Juvenile Delinquency and Urban Areas*. 1942.
+- Sutherland, Edwin H. *White Collar Crime*. 1949.
 - Merton, Robert K. "Social Structure and Anomie." *American Sociological Review*, 1938.
 - Sutherland, Edwin H. *Principles of Criminology*. 1939.
 - Becker, Howard S. *Outsiders: Studies in the Sociology of Deviance*. 1963.

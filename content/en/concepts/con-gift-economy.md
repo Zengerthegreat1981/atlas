@@ -25,7 +25,7 @@ An economic system based on the exchange of gifts and reciprocal obligations rat
 
 ## Definition and Theoretical Origins
 
-Marcel Mauss first advanced a basic ethnographic concept in his well-known essay *The Gift* (*Essai sur le don*, 1925): economic exchange in non-capitalist societies is not based on a purely utilitarian foundation, as classical economists assume, but on a network of intertwined social obligations. Mauss developed his theory by studying documented real exchange systems among different peoples: the Kula ring of the Trobriand Islands, documented by Bronisław Malinowski, and the potlatch among the peoples of the northwest coast of North America, documented above all by Franz Boas among the Kwakwaka'wakw (Kwakiutl). Mauss showed that a gift does not simply produce an equal counter-exchange. It creates a lasting social obligation that binds the exchanging parties in a relationship.
+In his well-known essay *The Gift* (*Essai sur le don*, 1925), Marcel Mauss argued that economic exchange in non-capitalist societies is not based on a purely utilitarian foundation, as classical economists assume, but on a network of intertwined social obligations. Mauss developed his theory by studying documented real exchange systems among different peoples: the Kula ring of the Trobriand Islands, documented by Bronisław Malinowski, and the potlatch among the peoples of the northwest coast of North America, documented above all by Franz Boas among the Kwakwaka'wakw (Kwakiutl). Mauss showed that a gift does not simply produce an equal counter-exchange. It creates a lasting social obligation that binds the exchanging parties in a relationship.
 
 ## The Three-Part Logic of the Gift
 
@@ -44,7 +44,7 @@ The gift economy differs fundamentally from the market economy in several respec
 
 ### The Kula Ring
 
-Documented by Bronisław Malinowski among the Trobriand people of Papua New Guinea. Men exchange white armbands (*mwali*) and red necklaces (*soulava*) in a cycle called the Kula, in which these valuable objects circulate among the different islands through specific exchange partners. These objects are not consumed and are not sold for money. They identify the men who hold them by their names and historical circulation. Malinowski argued in *Argonauts of the Western Pacific* (1922) that the Kula is not a utilitarian exchange but a **social system that links the different islands together**.
+Documented by Bronisław Malinowski among the Trobriand people of Papua New Guinea. Men exchange white armbands (*mwali*) and red necklaces (*soulava*) in a cycle called the Kula, in which these valuable objects circulate among the different islands through specific exchange partners. These objects are not consumed and are not sold for money. The most valued pieces have names and histories of circulation, and holding them brings renown. Malinowski argued in *Argonauts of the Western Pacific* (1922) that the Kula is not a utilitarian exchange but a **social system that links the different islands together**.
 
 ### The Potlatch
 
@@ -62,11 +62,11 @@ Sahlins developed Mauss's model by adding a classification of types of exchange 
 
 ### Annette Weiner
 
-Annette Weiner re-read Malinowski's data and showed in *Inalienable Possessions* (1992) that the Kula is not a simple continuous cycle. Some objects are **kept as "inalienable"** and are never circulated, which shows that Mauss himself did not see the full picture.
+Annette Weiner, who carried out her own fieldwork in the Trobriands, argued in *Inalienable Possessions* (1992) that exchange turns on keeping as well as giving. Certain possessions are treated as **"inalienable"** and are withheld from circulation as far as possible, and their retention underwrites identity and rank.
 
 ### David Graeber
 
-Graeber criticized the standard story of economic origins in *Debt: The First 5000 Years* (2011). He rejected the "myth of barter", the idea that money and markets arose out of barter, and argued that so-called gift economies were typically systems of credit and mutual obligation in which people kept track of debts, rather than a primitive stage that preceded markets. His account treats debt, credit and moral obligation as central, and shows that gift-like and market-like relations have long coexisted.
+Graeber criticized the standard story of economic origins in *Debt: The First 5000 Years* (2011). He rejected the "myth of barter", the idea that money and markets arose out of barter, and argued that credit and mutual obligation, not barter, structured economic life before coined money. His account treats debt, credit and moral obligation as central, and shows that gift-like and market-like relations have long coexisted.
 
 ## Contemporary Criticisms
 
@@ -76,7 +76,7 @@ Some anthropological voices objected to portraying the gift economy as a simple 
 
 ### Colonial Critique
 
-Critical studies, especially by researchers from the Global South, noted that Mauss's use of the concept of the "gift economy" as the opposite of capitalism may reproduce a colonial dichotomy: "primitive" societies that give, versus "modern" societies that trade.
+Some critics have noted that treating the "gift economy" as the opposite of capitalism may reproduce a colonial dichotomy: "primitive" societies that give, versus "modern" societies that trade.
 
 ## Contemporary Relevance
 

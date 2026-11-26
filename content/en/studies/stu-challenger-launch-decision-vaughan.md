@@ -19,7 +19,7 @@ gaps: []
 
 # The Challenger Launch Decision
 
-An in-depth organizational study by Diane Vaughan (published 1996), based on extensive analysis of NASA and Rogers Commission documents and interviews, to explain how the decision to launch the Challenger shuttle in 1986 was made despite earlier known engineering warnings of defects in the rubber O-ring seals, the shuttle broke apart 73 seconds after liftoff, killing all seven crew members.
+An in-depth organizational study by Diane Vaughan (published 1996), based on extensive analysis of NASA and Rogers Commission documents and interviews, to explain how the decision to launch the Challenger shuttle in 1986 was made despite earlier known engineering warnings of defects in the rubber O-ring seals. The shuttle broke apart 73 seconds after liftoff, killing all seven crew members.
 
 ## Method and Content
 

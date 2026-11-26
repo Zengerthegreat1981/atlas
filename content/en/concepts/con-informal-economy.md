@@ -7,7 +7,7 @@ level: "متقدم"
 title: "Informal Economy"
 en: "Informal Economy"
 dates: "Contemporary"
-active_start: 2010
+active_start: 1971
 active_end: "مستمر"
 crumb: "Anthropology ← Concepts ← Informal Economy"
 edges: []
@@ -21,7 +21,7 @@ Productive, commercial, and service activities that take place outside the state
 
 ## The Origin of the Concept in Keith Hart
 
-The British anthropologist **Keith Hart** coined the term "informal sector" in 1971 in a field study of migrant workers from the countryside to Accra in Ghana. It was later published in his landmark article "Informal Income Opportunities and Urban Employment in Ghana" (1973). Hart distinguished between wage labor in large institutions and government on one hand, and self-employment in small-scale activities on the other. He divided informal activities into "legitimate" (such as crafts and small trade) and "illegitimate" (such as smuggling). Hart concluded that many urban migrants, despite the constraints of the dominant capitalist economy, were actually earning independent income through these activities. They were not merely surviving on the margins until the whole economy "transitioned" into the formal sector, as the prevailing modernization theories had predicted at the time.
+The British anthropologist **Keith Hart** introduced the idea of the "informal sector" in a paper of 1971, drawing on fieldwork in the 1960s among Frafra migrants from northern Ghana living in Accra. The argument was published in his article "Informal Income Opportunities and Urban Employment in Ghana" (1973). Hart distinguished between wage labor in large institutions and government on one hand, and self-employment in small-scale activities on the other. He divided informal activities into "legitimate" (such as crafts and small trade) and "illegitimate" (such as smuggling). Hart concluded that many urban migrants, despite the constraints of the dominant capitalist economy, were actually earning independent income through these activities. They were not merely surviving on the margins until the whole economy "transitioned" into the formal sector, as the prevailing modernization theories had predicted at the time.
 
 ## Evolution of the Concept
 

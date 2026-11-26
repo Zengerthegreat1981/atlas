@@ -43,7 +43,7 @@ Potlatches are held to mark events such as accession to a chiefly name or positi
 - **Prestige and rank.** Boas treated the potlatch as bound up with a hereditary rank system and an economy of credit-like obligations, in which the amounts given were expected to be returned with interest.
 - **Competition and the "rivalry" model.** Ruth Benedict's *Patterns of Culture* (1934) presented Kwakiutl culture as characterized by a competitive drive for status, an interpretation that later scholars considered exaggerated.
 - **Gift theory.** Marcel Mauss used Boas's material on the Kwakiutl, together with Tlingit and Haida data, as an example of a system of "total prestations" in which gifts create hierarchy and obligation (1925).
-- **Historical critique.** Helen Codere (1950) argued that the intense rivalry and property destruction in the late nineteenth century reflected the effects of the fur trade, new wealth and population collapse rather than an ancient pattern. Later work by Sergei Kan (1989) on the Tlingit, by Wilson Duff, and by Indigenous scholars emphasizes the potlatch as a system of law, governance and memorial, and as the venue in which rights to land and names are validated before witnesses.
+- **Historical critique.** Helen Codere (1950) argued that the intense rivalry and property destruction in the late nineteenth century reflected the effects of the fur trade, new wealth and population collapse rather than an ancient pattern. Later work by Sergei Kan (1989) on the Tlingit, and by Indigenous scholars emphasizes the potlatch as a system of law, governance and memorial, and as the venue in which rights to land and names are validated before witnesses.
 
 ## Suppression and Revitalization
 

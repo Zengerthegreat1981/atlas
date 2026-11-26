@@ -41,5 +41,5 @@ The comparative study of cosmology has implications well beyond the anthropology
 - Descola, Philippe. *Beyond Nature and Culture*. Translated by Janet Lloyd. University of Chicago Press, 2013.
 - Lévi-Strauss, Claude. *The Raw and the Cooked: Mythologiques*, vol. 1. Harper and Row, 1969.
 - Viveiros de Castro, Eduardo. "Cosmological Deixis and Amerindian Perspectivism." *Journal of the Royal Anthropological Institute* 4, no. 3 (1998).
-- Eliade, Mircea. *Cosmos and History: The Myth of the Eternal Return*. Princeton University Press, 1954.
+- Eliade, Mircea. *The Myth of the Eternal Return*. Translated by Willard R. Trask. Pantheon, 1954.
 - Strathern, Marilyn. "No Nature, No Culture: The Hagen Case." In *Nature, Culture and Gender*, edited by Carol P. MacCormack and Marilyn Strathern. Cambridge University Press, 1980.

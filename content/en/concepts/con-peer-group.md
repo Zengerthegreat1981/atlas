@@ -22,7 +22,7 @@ A peer group is a group of people who are roughly equal in age, status, and soci
 
 ## Origins and Development
 
-The concept of the peer group grew out of the early sociology of the primary group. Charles Horton Cooley, in *Human Nature and the Social Order* (1902), argued that the self is formed in intimate, face-to-face groups — the family, the play group, the neighbourhood — where individuals learn to see themselves through the eyes of others. George Herbert Mead, in *Mind, Self, and Society* (1934), developed this insight into a theory of the self: children learn to take the attitudes of others toward themselves, first in play and then in organised games, and it is through these interactions with peers that the "generalised other" — the shared expectations of the community — takes shape in the mind.
+The concept of the peer group grew out of the early sociology of the primary group. Charles Horton Cooley described in *Human Nature and the Social Order* (1902) how individuals learn to see themselves through the eyes of others, and in *Social Organization* (1909) argued that human nature is formed in intimate, face-to-face primary groups — the family, the play group, the neighbourhood. George Herbert Mead, in *Mind, Self, and Society* (1934), developed this insight into a theory of the self: children learn to take the attitudes of others toward themselves, first in play and then in organised games, and it is through these interactions with peers that the "generalised other" — the shared expectations of the community — takes shape in the mind.
 
 The systematic study of adolescent peer groups began in earnest in the mid-twentieth century. James Coleman, in *The Adolescent Society* (1961), studied high schools in the United States and found that adolescents formed a society of their own, with its own status system, values, and rewards — one in which athletic ability and popularity often mattered more than academic achievement. Coleman's work showed that the peer group was not merely a distraction from schooling but a powerful social world in its own right, with consequences for learning, ambition, and adult life.
 
@@ -47,6 +47,7 @@ Peer groups remain central to sociology's understanding of education, work, and 
 ## Sources
 
 - Charles Horton Cooley, *Human Nature and the Social Order* (1902).
+- Charles Horton Cooley, *Social Organization* (1909).
 - George Herbert Mead, *Mind, Self, and Society* (1934).
 - James S. Coleman, *The Adolescent Society* (1961).
 - Judith Rich Harris, "Where Is the Child's Environment? A Group Socialization Theory of Development," *Psychological Review* (1995).
