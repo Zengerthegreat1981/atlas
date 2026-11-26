@@ -24,7 +24,7 @@ In the Islamic tradition, respect is expressed in the concept of *tawqir* (rever
 
 ## The Western Philosophical Context
 
-Immanuel Kant offered the most profound philosophical formulation of this concept through the second formulation of the Categorical Imperative: roughly: act so that you use humanity, whether in your own person or in that of another, always at the same time as an end and never merely as a means (*Groundwork* 4:429). Kant thereby established the concept of "dignity" (Würde) as a value that cannot be exchanged for a price. This principle was later employed in the philosophy of human rights, since the prohibition of slavery and torture rests on the idea that a human being deserves respect that is not conditional on their usefulness.
+Immanuel Kant gave an influential philosophical formulation of this concept through the second formulation of the Categorical Imperative: roughly: act so that you use humanity, whether in your own person or in that of another, always at the same time as an end and never merely as a means (*Groundwork* 4:429). Kant thereby articulated the concept of "dignity" (Würde) as a value that cannot be exchanged for a price. This principle was later employed in the philosophy of human rights, since the prohibition of slavery and torture rests on the idea that a human being deserves respect that is not conditional on their usefulness.
 
 ## Objections and an Example
 

@@ -36,5 +36,5 @@ The tension between the two principles is evident in chemotherapy decisions. Tre
 ## Sources
 
 - Beauchamp, Tom L. and Childress, James F. *Principles of Biomedical Ethics*. Oxford University Press, 1979.
-- al-Raghib al-Isfahani. *al-Dhari'a ila Makarim al-Shari'a*. Classical Arabic ethical treatise (11th century).
+- al-Raghib al-Isfahani. *al-Dhari'a ila Makarim al-Shari'a*. Classical Arabic ethical treatise.
 - Ibn Nujaym, Zayn al-Din. *al-Ashbah wa-l-Naza'ir*. Dar al-Kutub al-Ilmiyya, 1999.

@@ -29,7 +29,7 @@ Systematic attention to conflicts of interest developed alongside modern profess
 
 The professional literature distinguishes three types of conflict. An *actual* conflict affects the decision in fact. An *apparent* conflict appears to an outside observer to be capable of influencing the decision, although it is not necessarily so. A *potential* conflict may arise in the future.
 
-Most codes of professional conduct, from medicine to law to journalism, agree that the appropriate remedy proceeds through three graduated steps. First, full disclosure of the relationship that may cause the conflict. Second, recusal from making the decision if the conflict is substantial. Third, prohibiting the relationship altogether if the severity of the conflict makes disclosure and recusal insufficient, as in the case of judges being barred from hearing cases involving their relatives.
+Many codes of professional conduct, from medicine to law to journalism, agree that the appropriate remedy proceeds through three graduated steps. First, full disclosure of the relationship that may cause the conflict. Second, recusal from making the decision if the conflict is substantial. Third, prohibiting the relationship altogether if the severity of the conflict makes disclosure and recusal insufficient, as in the case of judges being barred from hearing cases involving their relatives.
 
 ## Objections and Challenges
 

@@ -34,7 +34,7 @@ This approach intersects methodologically with the theory of the objectives of t
 
 ## Influence
 
-The approach has profoundly influenced development economics and anti-poverty policy. It has also influenced the philosophy of justice through its critique of distributive theories that are content to measure resources, such as Rawls's theory of justice. Sen argues that equality in resources may conceal deep inequality in the capacity to convert those resources into a good life in practice.
+The approach has significantly influenced development economics and anti-poverty policy. It has also influenced the philosophy of justice through its critique of distributive theories that are content to measure resources, such as Rawls's theory of justice. Sen argues that equality in resources may conceal deep inequality in the capacity to convert those resources into a good life in practice.
 
 ## The Debate Between Sen and Nussbaum
 
@@ -42,7 +42,7 @@ The methodological disagreement between Sen and Nussbaum is one of the most impo
 
 ## Practical Applications: The Human Development Index
 
-The theoretical framework was put into practice in the Human Development Index (HDI), published by the United Nations Development Programme since 1990, devised by Mahbub ul Haq with Sen's contribution. The index measures countries' progress by combining indicators of life expectancy, education, and income per capita, rather than relying on gross domestic product alone. The index has revealed stark contradictions, such as countries with high incomes but low human development because of weak education or health. This has demonstrated in practice the value of the approach in exposing what economic figures conceal.
+The theoretical framework was put into practice in the Human Development Index (HDI), published by the United Nations Development Programme since 1990, devised by Mahbub ul Haq with Sen's contribution. The index measures countries' progress by combining indicators of life expectancy, education, and income per capita, rather than relying on gross domestic product alone. The index has revealed stark contradictions, such as countries with high incomes but low human development because of weak education or health. This illustrates the value of the approach in exposing what economic figures conceal.
 
 ## The Nobel Prize and Its Significance
 

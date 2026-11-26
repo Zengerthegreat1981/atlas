@@ -28,7 +28,7 @@ No comprehensive utilitarian theory was formulated in classical Islamic thought.
 
 ## Development in Western Philosophy
 
-Jeremy Bentham founded this school in *An Introduction to the Principles of Morals and Legislation* (1789), with an explicitly quantitative approach, the "felicific calculus," that weighs pleasure and pain by dimensions such as intensity, duration, certainty, and proximity (nearness in time). John Stuart Mill refined this formulation in *Utilitarianism* (serialized 1861, book form 1863) by distinguishing between "higher" pleasures (intellectual and aesthetic) and "lower" pleasures (sensory), affirming that "it is better to be a human being dissatisfied than a pig satisfied." Henry Sidgwick gave it a systematic treatment in *The Methods of Ethics* (1874), and Peter Singer later developed a prominent contemporary form. Singer extended the circle of moral consideration to sentient beings (Sentient Beings) in general, including animals, on the criterion of the capacity to feel pleasure and pain. Alongside act utilitarianism, which assesses each act directly, rule utilitarianism holds that it is best to follow general rules that maximize benefit over the long term, rather than calculating each act separately.
+Jeremy Bentham gave this school its systematic classical form in *An Introduction to the Principles of Morals and Legislation* (1789), with an explicitly quantitative approach, the "felicific calculus," that weighs pleasure and pain by dimensions such as intensity, duration, certainty, and proximity (nearness in time). John Stuart Mill refined this formulation in *Utilitarianism* (serialized 1861, book form 1863) by distinguishing between "higher" pleasures (intellectual and aesthetic) and "lower" pleasures (sensory), affirming that "it is better to be a human being dissatisfied than a pig satisfied." Henry Sidgwick gave it a systematic treatment in *The Methods of Ethics* (1874), and Peter Singer later developed a prominent contemporary form. Singer extended the circle of moral consideration to sentient beings in general, including animals, on the criterion of the capacity to feel pleasure and pain. Alongside act utilitarianism, which assesses each act directly, rule utilitarianism holds that it is best to follow general rules that maximize benefit over the long term, rather than calculating each act separately.
 
 ## Principal Objections
 
@@ -40,7 +40,7 @@ In the "trolley problem" (introduced by Philippa Foot in 1967 and developed by J
 
 ## Sources
 
-- Bentham, Jeremy. *An Introduction to the Principles of Morals and Legislation*. Clarendon Press, 1789.
+- Bentham, Jeremy. *An Introduction to the Principles of Morals and Legislation*. T. Payne, 1789.
 - Sidgwick, Henry. *The Methods of Ethics*. Macmillan, 1874.
 - Mill, John Stuart. *Utilitarianism*. Parker, Son, and Bourn, 1863.
 - al-Shatibi, Abu Ishaq. *al-Muwafaqat fi Usul al-Shari'a*. Dar Ibn 'Affan, 1997.

@@ -49,6 +49,7 @@ Adopting moral realism has a concrete practical effect on how we understand mora
 ## Sources
 
 - ʿAbd al-Jabbar, al-Qadi. *al-Mughni fi abwab al-tawhid wa-l-ʿadl*.
+- Parfit, Derek. *On What Matters*. 2 vols. Oxford: Oxford University Press, 2011.
 - Mackie, J. L. *Ethics: Inventing Right and Wrong*. Penguin, 1977.
 - Shafer-Landau, Russ. *Moral Realism: A Defence*. Oxford University Press, 2003.
 - Brink, David O. *Moral Realism and the Foundations of Ethics*. Cambridge University Press, 1989.

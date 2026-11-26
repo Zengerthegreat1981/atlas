@@ -55,3 +55,8 @@ Applied ethics is not the mechanical application of a theory, and a case does no
 - Aldo Leopold, *A Sand County Almanac* (1949)
 - Albert R. Jonsen and Stephen Toulmin, *The Abuse of Casuistry* (1988)
 - Luciano Floridi, *The Ethics of Information* (2013)
+- Judith Jarvis Thomson, "A Defense of Abortion," *Philosophy & Public Affairs* (1971)
+- Don Marquis, "Why Abortion Is Immoral," *Journal of Philosophy* (1989)
+- Peter Singer, *Animal Liberation* (1975)
+- Tom Regan, *The Case for Animal Rights* (1983)
+- Shannon Vallor, *Technology and the Virtues* (2016)

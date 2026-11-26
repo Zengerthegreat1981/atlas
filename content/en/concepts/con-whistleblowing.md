@@ -27,7 +27,7 @@ This concept finds strong support in the principle of *nasiha* (sincere counsel)
 
 ## Treatment in Western Philosophy
 
-The philosopher Sissela Bok addressed disclosure in the context of the ethics of secrecy and confidentiality, in *Secrets* (1982) and in her 1980 essay "Whistleblowing and Professional Responsibilities." She analyzed the conflict between loyalty to the organization and obligations to the wider public, and argued that dissent must be weighed carefully against the harm of breaching confidentiality. The business ethicist Richard De George proposed criteria for external whistleblowing (directed at the public rather than only internal management). Roughly: the harm at stake must be serious; the employee should first have reported it internally; the employee must have documented evidence that would convince a reasonable observer; and there must be a reasonable chance that going public will prevent the harm. He argued that meeting the first three makes whistleblowing morally permissible, and that all of them would make it a duty. These criteria have been widely discussed and criticized as too demanding.
+The philosopher Sissela Bok addressed disclosure in the context of the ethics of secrecy and confidentiality, in *Secrets* (1982) and in her 1980 essay "Whistleblowing and Professional Responsibilities." She analyzed the conflict between loyalty to the organization and obligations to the wider public, and argued that dissent must be weighed carefully against the harm of breaching confidentiality. The business ethicist Richard De George proposed criteria for external whistleblowing (directed at the public rather than only internal management). Roughly: the harm at stake must be serious; the employee should first have reported it internally and exhausted internal channels; the employee must have documented evidence that would convince a reasonable observer; and there must be a reasonable chance that going public will prevent the harm. He argued that when the harm is serious, it has been reported, and internal channels have been exhausted, whistleblowing is morally permissible, and that when the further conditions of convincing evidence and a reasonable chance of success are also met, it is a duty. These criteria have been widely discussed and criticized as too demanding.
 
 ## Issues and Challenges
 
@@ -40,5 +40,6 @@ An employee at an industrial company discovers that the factory is dumping toxic
 ## Sources
 
 - Bok, Sissela. *Secrets: On the Ethics of Concealment and Revelation*. Pantheon Books, 1982.
+- Bok, Sissela. "Whistleblowing and Professional Responsibilities." *New York University Education Quarterly* 11, no. 4 (1980): 2-10.
 - De George, Richard T. *Business Ethics*. Macmillan, 1982 (later editions).
-- Ibn Abd al-Salam, al-Izz. *Qawa'id al-Ahkam fi Masalih al-Anam*. Dar al-Qalam, 1991.
+- Ibn Abd al-Salam, al-Izz. *Qawa'id al-Ahkam fi Masalih al-Anam*. Edited by Taha Abd al-Ra'uf Sa'd. Maktabat al-Kulliyyat al-Azhariyya, 1991.

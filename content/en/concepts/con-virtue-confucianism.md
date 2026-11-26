@@ -37,7 +37,7 @@ Children who honor their elderly parents and personally care for them (rather th
 
 ## Virtue and the Good Ruler
 
-Confucius linked individual virtue to good government. In the *Analects* (12.19) the gentleman's virtue is compared to the wind and the people's to grass, which bends when the wind blows over it, so that example is preferred to severe punishment. A comparable emphasis on the ruler's moral responsibility appears in Islamic political thought, for example in al-Mawardi's *al-Ahkam al-Sultaniyya* and Ibn Taymiyya's *al-Siyasa al-Shar'iyya*. The theoretical foundations differ, however: one is a Chinese cosmic order, the other an Islamic legal order.
+Confucius linked individual virtue to good government. In the *Analects* (12.19) the gentleman's virtue is compared to the wind and the people's to grass, which bends when the wind blows over it, so that example is preferred to severe punishment. A comparable emphasis on the ruler's moral responsibility appears in Islamic political thought, for example in the classical literature on the Islamic caliphate and governance. The theoretical foundations differ, however: one is a Chinese cosmic order, the other an Islamic legal order.
 
 ## The Role of Family Upbringing
 

@@ -46,5 +46,6 @@ Deep ecology influenced the formulation of wilderness preservation movements aro
 
 - Naess, Arne. *Ecology, Community and Lifestyle: Outline of an Ecosophy*. Cambridge University Press, 1989.
 - Devall, Bill, and Sessions, George. *Deep Ecology: Living As If Nature Mattered*. Gibbs Smith, 1985.
+- Plumwood, Val. *Feminism and the Mastery of Nature*. London: Routledge, 1993.
 - Leopold, Aldo. *A Sand County Almanac*. Oxford University Press, 1949.
 - Naess, Arne. "The Shallow and the Deep, Long-Range Ecology Movement: A Summary." *Inquiry* 16 (1973).

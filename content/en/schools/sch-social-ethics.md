@@ -20,7 +20,7 @@ Social ethics studies the norms that govern relations among individuals and grou
 
 ## Foundations in Islamic Thought
 
-The Islamic conception of social ethics rests on two mutually reinforcing pillars: faith-based brotherhood and social solidarity (*takaful*). The Holy Qur'an established the principle of *zakat* as an institutional obligation rather than a merely voluntary act of individual charity, for the purpose of redistributing wealth and meeting the needs of the poor and the needy. Jurists, among them Abu Yusuf in *al-Kharaj*, elaborated the rules of financial justice between the ruler and the ruled. Al-Mawardi, in *al-Ahkam al-Sultaniyya*, presented the imamate as established by a contract-like arrangement (*'aqd*) that ties the ruler's legitimacy to the performance of his duties toward the subjects. Ibn Khaldun, in the *Muqaddimah*, offered a pioneering social analysis of the concepts of *'asabiyya* (group solidarity) and *'umran* (human civilization), showing how collective morality is shaped by economic and political conditions. Al-Farabi, in *Mabadi' Ara' Ahl al-Madina al-Fadila* (*Principles of the Views of the Citizens of the Virtuous City*), linked individual happiness to the soundness of the social and political order as a whole, regarding the human being as political by nature, who cannot attain his perfection except within a community.
+The Islamic conception of social ethics rests on two mutually reinforcing pillars: faith-based brotherhood and social solidarity (*takaful*). The Holy Qur'an established the principle of *zakat* as an institutional obligation rather than a merely voluntary act of individual charity, for the purpose of redistributing wealth and meeting the needs of the poor and the needy. Jurists, among them Abu Yusuf in *al-Kharaj*, elaborated the rules of financial justice between the ruler and the ruled. Al-Mawardi, in *al-Ahkam al-Sultaniyya*, presented the imamate as established by a contract-like arrangement (*'aqd*) that ties the ruler's legitimacy to the performance of his duties toward the subjects. Ibn Khaldun, in the *Muqaddimah*, offered an influential social analysis of the concepts of *'asabiyya* (group solidarity) and *'umran* (human civilization), showing how collective morality is shaped by economic and political conditions. Al-Farabi, in *Mabadi' Ara' Ahl al-Madina al-Fadila* (*Principles of the Views of the Citizens of the Virtuous City*), linked individual happiness to the soundness of the social and political order as a whole, regarding the human being as political by nature, who cannot attain his perfection except within a community.
 
 ## The Western Historical Context
 
@@ -36,7 +36,7 @@ Alongside al-Mawardi, Ibn Khaldun, and al-Farabi in the Islamic tradition, conte
 
 ## Impact and Contemporary Application
 
-These debates led to the design of social welfare policies and progressive tax systems in many countries, and to the formulation of international human rights standards that assume collective social obligations. A practical example is the debate over the "universal basic income," which proposes an unconditional financial guarantee for every citizen, as a contemporary application of the principle of social solidarity that *zakat* established long ago in an institutional form.
+These debates led to the design of social welfare policies and progressive tax systems in many countries, and to the formulation of international human rights standards that assume collective social obligations. A practical example is the debate over the "universal basic income," which proposes an unconditional financial guarantee for every citizen, a proposal that echoes, in a different institutional form, the solidarity principle behind *zakat*.
 
 ## The Individual and the Community: A Renewed Debate
 
@@ -49,6 +49,9 @@ Social ethics pays particular attention to the intermediate institutions that co
 ## Sources
 
 - Ibn Khaldun, Abd al-Rahman. *al-Muqaddimah*.
+- al-Mawardi, Abu al-Hasan. *al-Ahkam al-Sultaniyya*.
+- Abu Yusuf. *Kitab al-Kharaj*.
+- al-Farabi. *Mabadi' Ara' Ahl al-Madina al-Fadila*.
 - Sandel, Michael J. *Liberalism and the Limits of Justice*. Cambridge University Press, 1982.
 - Durkheim, Émile. *Suicide*. 1897.
 - Rawls, John. *A Theory of Justice*. Harvard University Press, 1971.

@@ -18,7 +18,7 @@ gaps:
 
 # Humanity as End-in-Itself
 
-The principle of "humanity as an end in itself" is one of the most important formulations of the categorical imperative in Immanuel Kant's philosophy. It requires that every rational being, both oneself and others, be treated as an end in itself and not merely as a means to the ends of others. This means that human beings possess a dignity (*Würde*) that cannot be exchanged for any benefit or price, unlike things that have a "price" and can be replaced by their equivalents.
+The principle of "humanity as an end in itself" is a central formulation of the categorical imperative in Immanuel Kant's philosophy. It requires that every rational being, both oneself and others, be treated as an end in itself and not merely as a means to the ends of others. This means that human beings possess a dignity (*Würde*) that cannot be exchanged for any benefit or price, unlike things that have a "price" and can be replaced by their equivalents.
 
 ## Meaning and Definition
 
@@ -36,7 +36,7 @@ This principle is used chiefly as a philosophical basis for rejecting slavery, e
 
 ## Relations to Other Concepts
 
-This concept is closely tied to Kantian deontological ethics (Deontological Ethics), to the concepts of autonomy and human dignity, and it stands methodologically opposed to actual utilitarianism, which permits sacrificing an individual to maximize the good of the community.
+This concept is closely tied to Kantian deontological ethics (Deontological Ethics), to the concepts of autonomy and human dignity, and it stands methodologically opposed to act utilitarianism, which permits sacrificing an individual to maximize the good of the community.
 
 ## Sources
 

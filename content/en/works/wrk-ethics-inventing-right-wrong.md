@@ -16,7 +16,7 @@ gaps: []
 
 # Ethics: Inventing Right and Wrong
 
-The Australian-born philosopher John Leslie Mackie published his book *Ethics: Inventing Right and Wrong* in 1977 with Penguin Books. It is one of the most influential texts in analytic metaethics of the twentieth century, as it offered the clearest formulation of a position later known as "error theory."
+The Australian-born philosopher John Leslie Mackie published his book *Ethics: Inventing Right and Wrong* in 1977 with Penguin Books. It is one of the most influential texts in analytic metaethics of the twentieth century, as it offered an influential and influentially clear formulation of a position later known as "error theory."
 
 ## Central Theses
 
@@ -32,7 +32,7 @@ The book belongs to the tradition of moral non-realism found among the logical p
 
 ## Influence and Reception
 
-The book had a wide impact and became a standard reference studied in every university course on metaethics. It provoked major critical responses, including from Ronald Dworkin ("Objectivity and Truth: You'd Better Believe It," 1996) and Derek Parfit (*On What Matters*, 2011), who argued that the argument from queerness presupposes a narrow scientific model of what exists and so begs the question against non-natural normative truths. David Enoch and others have pressed "companions in guilt" arguments, holding that similar worries would also threaten epistemic or mathematical truths. On another front, the book stimulated expressivist projects such as Simon Blackburn's quasi-realism, which seek to preserve the practice of moral thought without Mackie's error theory. Mackie draws an analogy with secondary qualities such as colour: we speak as if wrongness were a feature of the act itself, but, on his view, nothing in the fabric of the world corresponds to it; what exists are our attitudes and social conventions.
+The book had a wide impact and became a standard reference in university courses on metaethics. It provoked major critical responses, including from Ronald Dworkin ("Objectivity and Truth: You'd Better Believe It," 1996) and Derek Parfit (*On What Matters*, 2011), who argued that the argument from queerness presupposes a narrow scientific model of what exists and so begs the question against non-natural normative truths. David Enoch and others have pressed "companions in guilt" arguments, holding that similar worries would also threaten epistemic or mathematical truths. On another front, the book stimulated expressivist projects such as Simon Blackburn's quasi-realism, which seek to preserve the practice of moral thought without Mackie's error theory. Mackie draws an analogy with secondary qualities such as colour: we speak as if wrongness were a feature of the act itself, but, on his view, nothing in the fabric of the world corresponds to it; what exists are our attitudes and social conventions.
 
 ## Structure of the Book: First-Order and Second-Order Ethics
 
@@ -42,4 +42,6 @@ Mackie carefully distinguishes between what he calls "first-order ethics," the c
 
 - Mackie, J. L. *Ethics: Inventing Right and Wrong*. Penguin, 1977.
 - Joyce, Richard. *The Myth of Morality*. Cambridge University Press, 2001.
+- Dworkin, Ronald. "Objectivity and Truth: You'd Better Believe It." *Philosophy & Public Affairs* 25 (1996): 87-139.
+- Parfit, Derek. *On What Matters*. Oxford University Press, 2011.
 - Blackburn, Simon. *Spreading the Word*. Oxford University Press, 1984.

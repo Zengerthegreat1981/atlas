@@ -13,7 +13,7 @@ edges:
 - rel: "belongs_to", target: "Consequentialism and Utilitarianism", target_type: "مدرسة"
 related: []
 gaps:
-  - "Comprehensive expansion of primary sources"
+  - "Primary sources beyond the listed works: not yet covered"
 ---
 
 # Agent-Centered Consequentialism
@@ -43,4 +43,7 @@ Suppose a physician could kill one healthy patient in order to take his organs a
 - Scheffler, Samuel. *The Rejection of Consequentialism*. Oxford University Press, 1982.
 - Sen, Amartya. "Rights and Agency." *Philosophy & Public Affairs* 11, 1982.
 - Smart, J. J. C., and Bernard Williams. *Utilitarianism: For and Against*. Cambridge University Press, 1973.
+- Portmore, Douglas. *Commonsense Consequentialism*. Oxford University Press, 2011.
+- Railton, Peter. "Alienation, Consequentialism, and the Demands of Morality." *Philosophy & Public Affairs* 13, 1984.
+- Nagel, Thomas. *The View from Nowhere*. Oxford University Press, 1986.
 - Kagan, Shelly. *The Limits of Morality*. Oxford University Press, 1989.

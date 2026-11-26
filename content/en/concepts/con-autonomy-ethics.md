@@ -30,6 +30,7 @@ Contemporary debates in political philosophy and economics branch out from ethic
 
 - Kant, Immanuel. *Groundwork of the Metaphysics of Morals* (1785). Translated by Mary Gregor. Cambridge University Press, 1997.
 - Miskawayh. *The Refinement of Character* (*Tahdhib al-Akhlaq*). Translated by Constantine K. Zurayk. American University of Beirut, 1968.
+- Rawls, John. *A Theory of Justice*. Harvard University Press, 1971.
 - Frankfurt, Harry. "Freedom of the Will and the Concept of a Person." *Journal of Philosophy* 68, 1971.
 - Dworkin, Gerald. *The Theory and Practice of Autonomy*. Cambridge University Press, 1988.
 - Mackenzie, Catriona, and Natalie Stoljar, eds. *Relational Autonomy*. Oxford University Press, 2000.

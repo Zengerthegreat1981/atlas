@@ -11,8 +11,7 @@ active_start: 1900
 active_end: "مستمر"
 edges: []
 related: []
-gaps:
-  - "Comprehensive expansion and deepening of the content: not yet covered"
+gaps: []
 ---
 
 # Engineering Ethics
@@ -21,7 +20,7 @@ gaps:
 
 Before modernity, the ethics of craftsmanship in Islamic civilization was tied to the concepts of "excellence" (*itqan*) and "trust" (*amana*). Building and manufacturing were regarded as a trust owed to the user and to society. Much earlier, the Code of Hammurabi (c. 1750 BCE) prescribed severe penalties for a builder whose house collapsed and killed its owner. Islamic jurisprudence developed rules on the liability of hired craftsmen (often discussed under *daman al-sunna'*), who may be held responsible for damage resulting from negligence or breach of the contract, with differences among the schools.
 
-Modern institutional engineering ethics emerged in the late nineteenth and early twentieth centuries in the United States and Europe. The Industrial Revolution and a rising number of bridge collapses and boiler explosions led professional societies, such as the American Society of Civil Engineers (founded 1852) and the American Society of Mechanical Engineers (founded 1880), to adopt codes of professional conduct in the early twentieth century (for example, in 1912 to 1914). Concern grew after later disasters, most notably the loss of the space shuttle *Challenger* in 1986, which showed how schedule and management pressure could override engineers' technical warnings.
+Modern institutional engineering ethics emerged in the late nineteenth and early twentieth centuries in the United States and Europe. Industrialization and a series of structural failures and boiler explosions prompted professional societies, such as the American Society of Civil Engineers (founded 1852) and the American Society of Mechanical Engineers (founded 1880), to adopt codes of professional conduct in the early twentieth century (for example, in 1912 to 1914). Concern grew after later disasters, most notably the loss of the space shuttle *Challenger* in 1986, which showed how schedule and management pressure could override engineers' technical warnings.
 
 ## Central Idea: Public Safety Above All
 
@@ -62,4 +61,5 @@ Recent literature has moved beyond the view that engineering ethics is merely a 
 ## Sources
 
 - Martin, Mike W., and Roland Schinzinger. *Ethics in Engineering*. McGraw-Hill, 1996.
+- Vaughan, Diane. *The Challenger Launch Decision: Risky Technology, Culture, and Deviance at NASA*. Chicago: University of Chicago Press, 1996.
 - Harris, Charles E., Michael S. Pritchard, and Michael J. Rabins. *Engineering Ethics: Concepts and Cases*. Wadsworth, 1995.

@@ -11,8 +11,7 @@ active_start: 1900
 active_end: "مستمر"
 edges: []
 related: []
-gaps:
-  - "Comprehensive expansion and deepening of the content: not yet covered"
+gaps: []
 ---
 
 # Indigenous Ethics
@@ -51,7 +50,7 @@ This ethical system clashes in practice with the modern industrial development m
 
 ## Oral Knowledge and Narrative
 
-The way these ethics are transmitted differs radically from academic written philosophy. They are passed on through stories, myths and collective rituals rather than through abstract philosophical treatises. A tale about an animal that disrupts the balance of the forest and is punished is not mere entertainment. It is a complete moral lesson on which the community's practical conduct is built. This makes the academic recording of these ethics a real methodological challenge. Many elders of these peoples fear that written documentation will strip wisdom of its living context, which is tied to oral performance and place.
+The way these ethics are transmitted differs radically from academic written philosophy. They are passed on through stories, myths and collective rituals rather than through abstract philosophical treatises. A tale about an animal that disrupts the balance of the forest and is punished is not mere entertainment. It is a complete moral lesson on which the community's practical conduct is built. This makes the academic recording of these ethics a real methodological challenge. Some elders and knowledge holders fear that written documentation will strip wisdom of its living context, which is tied to oral performance and place.
 
 Nevertheless, careful academic documentation of these teachings has become necessary to protect them from total disappearance. This documentation must be carried out in close cooperation with traditional knowledge holders, with respect for their intellectual rights, and by involving them directly in drafting any written text about their knowledge. It should not be limited to studying them as an external object from the perspective of a foreign researcher. An equal partnership in producing knowledge is an ethical requirement no less important than the content of the knowledge itself.
 

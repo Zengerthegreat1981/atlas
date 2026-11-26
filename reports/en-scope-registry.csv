@@ -97,11 +97,11 @@ br-world-systems-sociology,SOC-14409,تيار,sociology,explicit,review-candidat
 br-youth-sociology,SOC-14431,تيار,sociology,explicit,review-candidate,,924,content/en/branches/br-youth-sociology.md
 classification-dsm-5-tr,CLS-0001,نظام تصنيف تشخيصي,psychology,explicit,review-candidate,,814,content/en/disorders/classification-dsm-5-tr.md
 classification-icd-11,CLS-0002,نظام تصنيف تشخيصي,psychology,explicit,review-candidate,,841,content/en/disorders/classification-icd-11.md
-con-abortion-ethics,CON-2216,مفهوم,ethics,explicit,review-candidate,,581,content/en/concepts/con-abortion-ethics.md
+con-abortion-ethics,CON-2216,مفهوم,ethics,explicit,review-candidate,declared-gaps,581,content/en/concepts/con-abortion-ethics.md
 con-absolute-spirit-hegel,CON-0870,مفهوم,philosophy,explicit,review-candidate,,852,content/en/concepts/con-absolute-spirit-hegel.md
 con-absurd,CON-0416,مفهوم,philosophy,explicit,review-candidate,,790,content/en/concepts/con-absurd.md
 con-act-acceptance,CON-18244,مفهوم,psychiatry,explicit,review-candidate,,791,content/en/concepts/con-act-acceptance.md
-con-act-vs-rule-utilitarianism,CON-2137,مفهوم,ethics,explicit,review-candidate,declared-gaps,683,content/en/concepts/con-act-vs-rule-utilitarianism.md
+con-act-vs-rule-utilitarianism,CON-2137,مفهوم,ethics,explicit,review-candidate,declared-gaps,729,content/en/concepts/con-act-vs-rule-utilitarianism.md
 con-actantial-model-narrative,CON-11316,مفهوم,linguistics,explicit,review-candidate,,551,content/en/concepts/con-actantial-model-narrative.md
 con-adaptation,ANT-13023,مفهوم,anthropology,explicit,review-candidate,,1074,content/en/concepts/con-adaptation.md
 con-adolescent-depression,CON-18262,مفهوم,psychiatry,explicit,review-candidate,,654,content/en/concepts/con-adolescent-depression.md
@@ -111,8 +111,8 @@ con-age-grade,ANT-13160,مفهوم,anthropology,explicit,review-candidate,,870,c
 con-age-set,ANT-13161,مفهوم,anthropology,explicit,review-candidate,,898,content/en/concepts/con-age-set.md
 con-agency,SOC-14222,مفهوم,sociology,explicit,draft-pending,pending,1051,content/en/concepts/con-agency.md
 con-agency-anthropology,CON-18153,مفهوم,sociology,explicit,review-candidate,,763,content/en/concepts/con-agency-anthropology.md
-con-agent-centered-consequentialism,CON-2140,مفهوم,ethics,explicit,review-candidate,,674,content/en/concepts/con-agent-centered-consequentialism.md
-con-agent-centered-duties,CON-2148,مفهوم,ethics,explicit,review-candidate,declared-gaps,603,content/en/concepts/con-agent-centered-duties.md
+con-agent-centered-consequentialism,CON-2140,مفهوم,ethics,explicit,review-candidate,declared-gaps,710,content/en/concepts/con-agent-centered-consequentialism.md
+con-agent-centered-duties,CON-2148,مفهوم,ethics,explicit,review-candidate,declared-gaps,614,content/en/concepts/con-agent-centered-duties.md
 con-agent-patient-ethics,CON-2451,مفهوم,ethics,explicit,review-candidate,,535,content/en/concepts/con-agent-patient-ethics.md
 con-aging,CON-0419,مفهوم,psychology,explicit,review-candidate,,681,content/en/concepts/con-aging.md
 con-ahimsa,CON-P0431,مفهوم,philosophy,explicit,review-candidate,,870,content/en/concepts/con-ahimsa.md
@@ -124,9 +124,9 @@ con-anachronism-history,CON-12684,مفهوم,historiography,explicit,review-cand
 con-anamnesis-recollection,CON-0894,مفهوم,philosophy,explicit,review-candidate,,902,content/en/concepts/con-anamnesis-recollection.md
 con-anatta-non-self-concept,CON-0895,مفهوم,philosophy,explicit,review-candidate,,932,content/en/concepts/con-anatta-non-self-concept.md
 con-ancestor-worship,ANT-13166,مفهوم,anthropology,explicit,review-candidate,,862,content/en/concepts/con-ancestor-worship.md
-con-ancient-ethics-greece,CON-2253,مفهوم,ethics,explicit,review-candidate,declared-gaps,600,content/en/concepts/con-ancient-ethics-greece.md
+con-ancient-ethics-greece,CON-2253,مفهوم,ethics,explicit,review-candidate,declared-gaps,642,content/en/concepts/con-ancient-ethics-greece.md
 con-anguish-angst,CON-1266,مفهوم,bridges,explicit,review-candidate,,602,content/en/concepts/con-anguish-angst.md
-con-animal-rights-ethics,CON-2223,مفهوم,ethics,explicit,review-candidate,declared-gaps,574,content/en/concepts/con-animal-rights-ethics.md
+con-animal-rights-ethics,CON-2223,مفهوم,ethics,explicit,review-candidate,declared-gaps,587,content/en/concepts/con-animal-rights-ethics.md
 con-animism,ANT-13165,مفهوم,anthropology,explicit,review-candidate,,946,content/en/concepts/con-animism.md
 con-animism-tylor,CON-3141,مفهوم,anthropology,explicit,review-candidate,,492,content/en/concepts/con-animism-tylor.md
 con-anomie,SOC-14227,مفهوم,sociology,explicit,review-candidate,,715,content/en/concepts/con-anomie.md
@@ -167,7 +167,7 @@ con-authenticity,CON-0407,مفهوم,psychology,explicit,review-candidate,,1140,
 con-authenticity-inauthenticity,CON-0423,مفهوم,psychology,explicit,review-candidate,,863,content/en/concepts/con-authenticity-inauthenticity.md
 con-authority,SOC-14211,مفهوم,sociology,explicit,review-candidate,,678,content/en/concepts/con-authority.md
 con-autism-spectrum,CON-18287,مفهوم,psychiatry,explicit,review-candidate,,789,content/en/concepts/con-autism-spectrum.md
-con-autonomy-ethics,CON-2438,مفهوم,ethics,explicit,review-candidate,,722,content/en/concepts/con-autonomy-ethics.md
+con-autonomy-ethics,CON-2438,مفهوم,ethics,explicit,review-candidate,,733,content/en/concepts/con-autonomy-ethics.md
 con-autonomy-informed-consent,CON-2211,مفهوم,ethics,explicit,review-candidate,declared-gaps,550,content/en/concepts/con-autonomy-informed-consent.md
 con-autonomy-kantian,CON-0451,مفهوم,philosophy,explicit,review-candidate,,858,content/en/concepts/con-autonomy-kantian.md
 con-autopoiesis-social-systems-luhmann,CON-4230,مفهوم,sociology,explicit,review-candidate,,605,content/en/concepts/con-autopoiesis-social-systems-luhmann.md
@@ -181,13 +181,13 @@ con-bayt-al-hikma-movement,CON-18330,مفهوم,arab-thought,explicit,review-can
 con-being-becoming,CON-0426,مفهوم,psychology,explicit,review-candidate,,829,content/en/concepts/con-being-becoming.md
 con-being-toward-death,CON-0421,مفهوم,philosophy,explicit,review-candidate,,671,content/en/concepts/con-being-toward-death.md
 con-belief-system,ANT-13024,مفهوم,anthropology,explicit,review-candidate,,1020,content/en/concepts/con-belief-system.md
-con-beneficence-nonmaleficence,CON-2212,مفهوم,ethics,explicit,review-candidate,declared-gaps,448,content/en/concepts/con-beneficence-nonmaleficence.md
+con-beneficence-nonmaleficence,CON-2212,مفهوم,ethics,explicit,review-candidate,declared-gaps,446,content/en/concepts/con-beneficence-nonmaleficence.md
 con-bia-plus-model-dijkstra,CON-11762,مفهوم,linguistics,explicit,review-candidate,,569,content/en/concepts/con-bia-plus-model-dijkstra.md
 con-bias,SOC-14258,مفهوم,sociology,explicit,review-candidate,,717,content/en/concepts/con-bias.md
 con-big-push-and-unbalanced-growth,CON-20447,مفهوم,political-economy,explicit,review-candidate,,681,content/en/concepts/con-big-push-and-unbalanced-growth.md
 con-bilateral,ANT-13157,مفهوم,unclassified,none,placeholder,no-title;part-not-explicit;placeholder;short,10,content/en/concepts/con-bilateral.md
 con-bilateral-kinship,CON-12641,مفهوم,anthropology,explicit,review-candidate,,826,content/en/concepts/con-bilateral-kinship.md
-con-biocentrism,CON-2222,مفهوم,ethics,explicit,review-candidate,declared-gaps,525,content/en/concepts/con-biocentrism.md
+con-biocentrism,CON-2222,مفهوم,ethics,explicit,review-candidate,declared-gaps,523,content/en/concepts/con-biocentrism.md
 con-biogenetic-versus-cultural-kinship,CON-19082,مفهوم,anthropology,explicit,review-candidate,declared-gaps,689,content/en/concepts/con-biogenetic-versus-cultural-kinship.md
 con-bipolar-spectrum,CON-18257,مفهوم,psychiatry,explicit,review-candidate,,681,content/en/concepts/con-bipolar-spectrum.md
 con-bivalent-conception-of-justice-fraser,CON-9992,مفهوم,sociology,explicit,review-candidate,,612,content/en/concepts/con-bivalent-conception-of-justice-fraser.md
@@ -200,13 +200,13 @@ con-brideprice,ANT-13200,مفهوم,anthropology,explicit,review-candidate,,894,
 con-brideservice,ANT-13201,مفهوم,anthropology,explicit,review-candidate,,912,content/en/concepts/con-brideservice.md
 con-broca-wernicke-lichtheim-model,CON-9902,مفهوم,linguistics,explicit,review-candidate,,572,content/en/concepts/con-broca-wernicke-lichtheim-model.md
 con-bureaucracy,SOC-14231,مفهوم,sociology,explicit,review-candidate,,606,content/en/concepts/con-bureaucracy.md
-con-business-virtue,CON-2228,مفهوم,ethics,explicit,review-candidate,declared-gaps,542,content/en/concepts/con-business-virtue.md
+con-business-virtue,CON-2228,مفهوم,ethics,explicit,review-candidate,declared-gaps,553,content/en/concepts/con-business-virtue.md
 con-capital,SOC-14220,مفهوم,sociology,explicit,review-candidate,,694,content/en/concepts/con-capital.md
 con-caring-relationships,CON-2203,مفهوم,ethics,explicit,review-candidate,declared-gaps,577,content/en/concepts/con-caring-relationships.md
 con-case-study,SOC-14269,مفهوم,sociology,explicit,review-candidate,,653,content/en/concepts/con-case-study.md
 con-causation,SOC-14254,مفهوم,sociology,explicit,review-candidate,,689,content/en/concepts/con-causation.md
 con-cbt-foundations,CON-18245,مفهوم,psychiatry,explicit,review-candidate,,659,content/en/concepts/con-cbt-foundations.md
-con-character-ethics,CON-2131,مفهوم,ethics,explicit,review-candidate,declared-gaps,589,content/en/concepts/con-character-ethics.md
+con-character-ethics,CON-2131,مفهوم,ethics,explicit,review-candidate,declared-gaps,611,content/en/concepts/con-character-ethics.md
 con-cherology-sign-parameters-stokoe,CON-11687,مفهوم,linguistics,explicit,review-candidate,,513,content/en/concepts/con-cherology-sign-parameters-stokoe.md
 con-chiefdom,ANT-13209,مفهوم,anthropology,explicit,review-candidate,,941,content/en/concepts/con-chiefdom.md
 con-chieftaincy,ANT-13221,مفهوم,anthropology,explicit,review-candidate,,779,content/en/concepts/con-chieftaincy.md
@@ -247,7 +247,7 @@ con-confrontation-western,CON-18374,مفهوم,arab-thought,explicit,review-cand
 con-conscience,CON-2240,مفهوم,ethics,explicit,review-candidate,declared-gaps,549,content/en/concepts/con-conscience.md
 con-conscious-acts,CON-1299,مفهوم,bridges,explicit,review-candidate,declared-gaps,856,content/en/concepts/con-conscious-acts.md
 con-consensus,ANT-13219,مفهوم,anthropology,explicit,review-candidate,,847,content/en/concepts/con-consensus.md
-con-consequentialist-impartialism,CON-2139,مفهوم,ethics,explicit,review-candidate,declared-gaps,562,content/en/concepts/con-consequentialist-impartialism.md
+con-consequentialist-impartialism,CON-2139,مفهوم,ethics,explicit,review-candidate,declared-gaps,573,content/en/concepts/con-consequentialist-impartialism.md
 con-conspicuous-consumption,CON-3024,مفهوم,sociology,explicit,review-candidate,,606,content/en/concepts/con-conspicuous-consumption.md
 con-consumer-surplus,CON-20411,مفهوم,political-economy,explicit,review-candidate,,652,content/en/concepts/con-consumer-surplus.md
 con-content-analysis,SOC-14265,مفهوم,sociology,explicit,draft-pending,pending;short,30,content/en/concepts/con-content-analysis.md
@@ -264,7 +264,7 @@ con-credit,ANT-13189,مفهوم,anthropology,explicit,review-candidate,,918,cont
 con-creolization,ANT-13311,مفهوم,anthropology,explicit,review-candidate,declared-gaps,873,content/en/concepts/con-creolization.md
 con-criminalization-theory,CON-20360,مفهوم,legal-theory,explicit,review-candidate,declared-gaps,643,content/en/concepts/con-criminalization-theory.md
 con-critical-period-hypothesis,CON-9901,مفهوم,linguistics,explicit,review-candidate,,572,content/en/concepts/con-critical-period-hypothesis.md
-con-cross-cultural-morality,CON-2463,مفهوم,ethics,explicit,review-candidate,,592,content/en/concepts/con-cross-cultural-morality.md
+con-cross-cultural-morality,CON-2463,مفهوم,ethics,explicit,review-candidate,,608,content/en/concepts/con-cross-cultural-morality.md
 con-crossing-dwelling-theory-tweed,CON-11999,مفهوم,religious-studies,explicit,review-candidate,,512,content/en/concepts/con-crossing-dwelling-theory-tweed.md
 con-cudos-norms-science,CON-4220,مفهوم,sociology,explicit,review-candidate,,542,content/en/concepts/con-cudos-norms-science.md
 con-cultivation,ANT-13236,مفهوم,anthropology,explicit,review-candidate,,1011,content/en/concepts/con-cultivation.md
@@ -346,7 +346,7 @@ con-double-consciousness-dubois,CON-3030,مفهوم,sociology,explicit,review-ca
 con-dowry,ANT-13202,مفهوم,anthropology,explicit,review-candidate,,1063,content/en/concepts/con-dowry.md
 con-dream-incubation-religious,CON-12331,مفهوم,religious-studies,explicit,review-candidate,,443,content/en/concepts/con-dream-incubation-religious.md
 con-dsm5-criteria,CON-18210,مفهوم,psychiatry,explicit,review-candidate,,685,content/en/concepts/con-dsm5-criteria.md
-con-duty-based-ethics,CON-2142,مفهوم,ethics,explicit,review-candidate,declared-gaps,607,content/en/concepts/con-duty-based-ethics.md
+con-duty-based-ethics,CON-2142,مفهوم,ethics,explicit,review-candidate,declared-gaps,606,content/en/concepts/con-duty-based-ethics.md
 con-ecocentrism,CON-2221,مفهوم,ethics,explicit,review-candidate,declared-gaps,536,content/en/concepts/con-ecocentrism.md
 con-econ-anthropology-6,CON-13006,مفهوم,anthropology,explicit,review-candidate,,924,content/en/concepts/con-econ-anthropology-6.md
 con-economic-calculation-problem,CON-20426,مفهوم,political-economy,explicit,review-candidate,,684,content/en/concepts/con-economic-calculation-problem.md
@@ -363,7 +363,7 @@ con-emotional-labor-hochschild,CON-3190,مفهوم,sociology,explicit,review-can
 con-empirical-research,SOC-14251,مفهوم,sociology,explicit,review-candidate,,936,content/en/concepts/con-empirical-research.md
 con-endogamy,ANT-13195,مفهوم,anthropology,explicit,review-candidate,,919,content/en/concepts/con-endogamy.md
 con-endogenous-money,CON-20517,مفهوم,political-economy,explicit,review-candidate,,558,content/en/concepts/con-endogenous-money.md
-con-enlightenment-ethics,CON-2255,مفهوم,ethics,explicit,review-candidate,declared-gaps,665,content/en/concepts/con-enlightenment-ethics.md
+con-enlightenment-ethics,CON-2255,مفهوم,ethics,explicit,review-candidate,declared-gaps,683,content/en/concepts/con-enlightenment-ethics.md
 con-epigenetic-mental-illness,CON-18225,مفهوم,psychiatry,explicit,review-candidate,,606,content/en/concepts/con-epigenetic-mental-illness.md
 con-epistemology,ANT-13243,مفهوم,anthropology,explicit,review-candidate,,943,content/en/concepts/con-epistemology.md
 con-epistemology-islam,CON-18342,مفهوم,arab-thought,explicit,review-candidate,,632,content/en/concepts/con-epistemology-islam.md
@@ -375,15 +375,15 @@ con-ethics-of-care,CON-2200,مفهوم,ethics,explicit,review-candidate,declared
 con-ethics-of-interest-riba-bridge,CON-20634,مفهوم,bridges,explicit,review-candidate,declared-gaps,771,content/en/concepts/con-ethics-of-interest-riba-bridge.md
 con-ethics-virtues-35,CON-18091,مفهوم,ethics,explicit,review-candidate,,621,content/en/concepts/con-ethics-virtues-35.md
 con-ethics-virtues-36,CON-18092,مفهوم,ethics,explicit,review-candidate,,583,content/en/concepts/con-ethics-virtues-36.md
-con-ethics-virtues-40,CON-18096,مفهوم,ethics,explicit,review-candidate,,588,content/en/concepts/con-ethics-virtues-40.md
+con-ethics-virtues-40,CON-18096,مفهوم,ethics,explicit,review-candidate,,568,content/en/concepts/con-ethics-virtues-40.md
 con-ethics-virtues-42,CON-18098,مفهوم,ethics,explicit,review-candidate,,563,content/en/concepts/con-ethics-virtues-42.md
-con-ethics-virtues-44,CON-18100,مفهوم,ethics,explicit,review-candidate,,530,content/en/concepts/con-ethics-virtues-44.md
+con-ethics-virtues-44,CON-18100,مفهوم,ethics,explicit,review-candidate,,529,content/en/concepts/con-ethics-virtues-44.md
 con-ethics-virtues-46,CON-18102,مفهوم,ethics,explicit,review-candidate,,536,content/en/concepts/con-ethics-virtues-46.md
-con-ethics-virtues-50,CON-18106,مفهوم,ethics,explicit,review-candidate,,546,content/en/concepts/con-ethics-virtues-50.md
+con-ethics-virtues-50,CON-18106,مفهوم,ethics,explicit,review-candidate,,549,content/en/concepts/con-ethics-virtues-50.md
 con-ethics-virtues-51,CON-18107,مفهوم,ethics,explicit,review-candidate,,547,content/en/concepts/con-ethics-virtues-51.md
 con-ethics-virtues-52,CON-18108,مفهوم,ethics,explicit,review-candidate,,574,content/en/concepts/con-ethics-virtues-52.md
 con-ethics-virtues-53,CON-18109,مفهوم,ethics,explicit,review-candidate,,517,content/en/concepts/con-ethics-virtues-53.md
-con-ethics-virtues-54,CON-18110,مفهوم,ethics,explicit,review-candidate,,517,content/en/concepts/con-ethics-virtues-54.md
+con-ethics-virtues-54,CON-18110,مفهوم,ethics,explicit,review-candidate,,521,content/en/concepts/con-ethics-virtues-54.md
 con-ethnicity,ANT-13089,مفهوم,anthropology,explicit,review-candidate,,973,content/en/concepts/con-ethnicity.md
 con-ethnocentrism,SOC-14248,مفهوم,sociology,explicit,review-candidate,declared-gaps,955,content/en/concepts/con-ethnocentrism.md
 con-ethnography,SOC-14264,مفهوم,sociology,explicit,review-candidate,,946,content/en/concepts/con-ethnography.md
@@ -391,7 +391,7 @@ con-ethnopsychiatry,CON-18295,مفهوم,psychiatry,explicit,review-candidate,,6
 con-eudaimonia-wellbeing,CON-0987,مفهوم,philosophy,explicit,review-candidate,,786,content/en/concepts/con-eudaimonia-wellbeing.md
 con-european-engagement,CON-18382,مفهوم,arab-thought,explicit,review-candidate,,726,content/en/concepts/con-european-engagement.md
 con-euthanasia-physician-assisted-suicide,CON-2215,مفهوم,ethics,explicit,review-candidate,declared-gaps,633,content/en/concepts/con-euthanasia-physician-assisted-suicide.md
-con-evolutionary-ethics,CON-2464,مفهوم,ethics,explicit,review-candidate,,706,content/en/concepts/con-evolutionary-ethics.md
+con-evolutionary-ethics,CON-2464,مفهوم,ethics,explicit,review-candidate,,760,content/en/concepts/con-evolutionary-ethics.md
 con-exceptional-normal-ginzburg,CON-9565,مفهوم,historiography,explicit,review-candidate,,647,content/en/concepts/con-exceptional-normal-ginzburg.md
 con-exchange,ANT-13104,مفهوم,anthropology,explicit,review-candidate,,968,content/en/concepts/con-exchange.md
 con-exchange-rate-regimes,CON-20462,مفهوم,political-economy,explicit,review-candidate,,702,content/en/concepts/con-exchange-rate-regimes.md
@@ -472,7 +472,7 @@ con-hayek-knowledge-problem,CON-20425,مفهوم,political-economy,explicit,revi
 con-healer-patient-relationship,CON-10000,مفهوم,religious-studies,explicit,review-candidate,declared-gaps,609,content/en/concepts/con-healer-patient-relationship.md
 con-healing,ANT-13179,مفهوم,anthropology,explicit,review-candidate,,983,content/en/concepts/con-healing.md
 con-healing-traditions,CON-18302,مفهوم,psychiatry,explicit,review-candidate,,642,content/en/concepts/con-healing-traditions.md
-con-hedonistic-vs-preference-utilitarianism,CON-2136,مفهوم,ethics,explicit,review-candidate,declared-gaps,589,content/en/concepts/con-hedonistic-vs-preference-utilitarianism.md
+con-hedonistic-vs-preference-utilitarianism,CON-2136,مفهوم,ethics,explicit,review-candidate,declared-gaps,644,content/en/concepts/con-hedonistic-vs-preference-utilitarianism.md
 con-hegemony,ANT-13324,مفهوم,anthropology,explicit,review-candidate,declared-gaps,1005,content/en/concepts/con-hegemony.md
 con-herbalism,ANT-13180,مفهوم,anthropology,explicit,review-candidate,,902,content/en/concepts/con-herbalism.md
 con-herding,ANT-13239,مفهوم,anthropology,explicit,review-candidate,,906,content/en/concepts/con-herding.md
@@ -497,7 +497,7 @@ con-hpa-axis,CON-18228,مفهوم,psychiatry,explicit,review-candidate,,618,cont
 con-hukm-taklifi-wadi-usul,CON-20007,مفهوم,legal-theory,explicit,review-candidate,declared-gaps,762,content/en/concepts/con-hukm-taklifi-wadi-usul.md
 con-human-rights-islam,CON-18354,مفهوم,arab-thought,explicit,review-candidate,,742,content/en/concepts/con-human-rights-islam.md
 con-humanistic-therapy,CON-18246,مفهوم,psychiatry,explicit,review-candidate,,688,content/en/concepts/con-humanistic-therapy.md
-con-humanity-as-end-in-itself,CON-2146,مفهوم,ethics,explicit,review-candidate,declared-gaps,605,content/en/concepts/con-humanity-as-end-in-itself.md
+con-humanity-as-end-in-itself,CON-2146,مفهوم,ethics,explicit,review-candidate,declared-gaps,602,content/en/concepts/con-humanity-as-end-in-itself.md
 con-hunting,ANT-13237,مفهوم,anthropology,explicit,review-candidate,,811,content/en/concepts/con-hunting.md
 con-hybrid-ethics,CON-2461,مفهوم,ethics,explicit,review-candidate,,650,content/en/concepts/con-hybrid-ethics.md
 con-hybridity,ANT-13310,مفهوم,anthropology,explicit,review-candidate,,857,content/en/concepts/con-hybridity.md
@@ -562,8 +562,8 @@ con-jealousy-envy,CON-0415,مفهوم,psychology,explicit,review-candidate,,965,
 con-jihad-striving,CON-18353,مفهوم,arab-thought,explicit,review-candidate,,699,content/en/concepts/con-jihad-striving.md
 con-judicial-review,CON-2105,مفهوم,legal-theory,explicit,review-candidate,declared-gaps,496,content/en/concepts/con-judicial-review.md
 con-justice,ANT-13126,مفهوم,anthropology,explicit,review-candidate,,754,content/en/concepts/con-justice.md
-con-justice-healthcare,CON-2213,مفهوم,ethics,explicit,review-candidate,declared-gaps,582,content/en/concepts/con-justice-healthcare.md
-con-justice-rawls,CON-2244,مفهوم,ethics,explicit,review-candidate,declared-gaps,596,content/en/concepts/con-justice-rawls.md
+con-justice-healthcare,CON-2213,مفهوم,ethics,explicit,review-candidate,declared-gaps,592,content/en/concepts/con-justice-healthcare.md
+con-justice-rawls,CON-2244,مفهوم,ethics,explicit,review-candidate,declared-gaps,594,content/en/concepts/con-justice-rawls.md
 con-kalam-theology,CON-18320,مفهوم,arab-thought,explicit,review-candidate,,773,content/en/concepts/con-kalam-theology.md
 con-keynesian-multiplier,CON-20417,مفهوم,political-economy,explicit,review-candidate,,677,content/en/concepts/con-keynesian-multiplier.md
 con-khulafa-rashidun-rightly-guided,CON-12600,مفهوم,historiography,explicit,review-candidate,,689,content/en/concepts/con-khulafa-rashidun-rightly-guided.md
@@ -672,20 +672,20 @@ con-moral-agency,CON-2484,مفهوم,ethics,explicit,review-candidate,,617,conte
 con-moral-conscience-legal-philosophy-bridge,CON-12529,مفهوم,bridges,explicit,review-candidate,,799,content/en/concepts/con-moral-conscience-legal-philosophy-bridge.md
 con-moral-development-gilligan,CON-2202,مفهوم,psychology,explicit,review-candidate,,884,content/en/concepts/con-moral-development-gilligan.md
 con-moral-economy-subsistence-bridge,CON-20636,مفهوم,bridges,explicit,review-candidate,declared-gaps,695,content/en/concepts/con-moral-economy-subsistence-bridge.md
-con-moral-emotion,CON-2237,مفهوم,ethics,explicit,review-candidate,declared-gaps,555,content/en/concepts/con-moral-emotion.md
+con-moral-emotion,CON-2237,مفهوم,ethics,explicit,review-candidate,declared-gaps,579,content/en/concepts/con-moral-emotion.md
 con-moral-externalism,CON-2458,مفهوم,ethics,explicit,review-candidate,,582,content/en/concepts/con-moral-externalism.md
 con-moral-facts,CON-2437,مفهوم,ethics,explicit,review-candidate,,599,content/en/concepts/con-moral-facts.md
 con-moral-foundations,CON-2462,مفهوم,ethics,explicit,review-candidate,,581,content/en/concepts/con-moral-foundations.md
 con-moral-internalism,CON-2457,مفهوم,ethics,explicit,review-candidate,,618,content/en/concepts/con-moral-internalism.md
-con-moral-knowledge,CON-2436,مفهوم,ethics,explicit,review-candidate,,620,content/en/concepts/con-moral-knowledge.md
-con-moral-luck-concept,CON-2446,مفهوم,ethics,explicit,review-candidate,,693,content/en/concepts/con-moral-luck-concept.md
+con-moral-knowledge,CON-2436,مفهوم,ethics,explicit,review-candidate,,631,content/en/concepts/con-moral-knowledge.md
+con-moral-luck-concept,CON-2446,مفهوم,ethics,explicit,review-candidate,,704,content/en/concepts/con-moral-luck-concept.md
 con-moral-motivation,CON-2239,مفهوم,ethics,explicit,review-candidate,declared-gaps,547,content/en/concepts/con-moral-motivation.md
 con-moral-patience,CON-2486,مفهوم,ethics,explicit,review-candidate,,588,content/en/concepts/con-moral-patience.md
 con-moral-realism-debate,CON-2454,مفهوم,ethics,explicit,review-candidate,,510,content/en/concepts/con-moral-realism-debate.md
-con-moral-responsibility,CON-2243,مفهوم,ethics,explicit,review-candidate,declared-gaps,546,content/en/concepts/con-moral-responsibility.md
+con-moral-responsibility,CON-2243,مفهوم,ethics,explicit,review-candidate,declared-gaps,552,content/en/concepts/con-moral-responsibility.md
 con-moral-subjectivism,CON-2208,مفهوم,ethics,explicit,review-candidate,declared-gaps,607,content/en/concepts/con-moral-subjectivism.md
 con-moral-understanding,CON-2453,مفهوم,ethics,explicit,review-candidate,,494,content/en/concepts/con-moral-understanding.md
-con-moral-weakness,CON-2241,مفهوم,ethics,explicit,review-candidate,declared-gaps,522,content/en/concepts/con-moral-weakness.md
+con-moral-weakness,CON-2241,مفهوم,ethics,explicit,review-candidate,declared-gaps,530,content/en/concepts/con-moral-weakness.md
 con-morphological-typology,CON-11053,مفهوم,linguistics,explicit,review-candidate,,629,content/en/concepts/con-morphological-typology.md
 con-mortality,CON-19075,مفهوم,psychology,explicit,review-candidate,,824,content/en/concepts/con-mortality.md
 con-motivation,PSY-30103,مفهوم,psychology,explicit,review-candidate,,869,content/en/concepts/con-motivation.md
@@ -700,7 +700,7 @@ con-nahda-movement,CON-18373,مفهوم,arab-thought,explicit,review-candidate,,
 con-narcissistic-personality,CON-18281,مفهوم,psychiatry,explicit,review-candidate,,716,content/en/concepts/con-narcissistic-personality.md
 con-narrative,ANT-13225,مفهوم,anthropology,explicit,review-candidate,,876,content/en/concepts/con-narrative.md
 con-narrative-identity,CON-1286,مفهوم,bridges,explicit,review-candidate,,784,content/en/concepts/con-narrative-identity.md
-con-narrative-identity-ethics,CON-2442,مفهوم,ethics,explicit,review-candidate,,633,content/en/concepts/con-narrative-identity-ethics.md
+con-narrative-identity-ethics,CON-2442,مفهوم,ethics,explicit,review-candidate,,631,content/en/concepts/con-narrative-identity-ethics.md
 con-narrative-identity-religious,CON-12355,مفهوم,religious-studies,explicit,review-candidate,,597,content/en/concepts/con-narrative-identity-religious.md
 con-nasserism-nationalism,CON-18383,مفهوم,arab-thought,explicit,review-candidate,,706,content/en/concepts/con-nasserism-nationalism.md
 con-nationalism,ANT-13296,مفهوم,anthropology,explicit,review-candidate,,881,content/en/concepts/con-nationalism.md
@@ -730,7 +730,7 @@ con-oral-history-methods,CON-13100,concept,historiography,explicit,review-candid
 con-oral-tradition,ANT-13246,مفهوم,anthropology,explicit,review-candidate,,977,content/en/concepts/con-oral-tradition.md
 con-oral-tradition-arabian,CON-18315,مفهوم,arab-thought,explicit,review-candidate,,838,content/en/concepts/con-oral-tradition-arabian.md
 con-oratory,ANT-13227,مفهوم,anthropology,explicit,review-candidate,,886,content/en/concepts/con-oratory.md
-con-organ-transplant-ethics,CON-2218,مفهوم,ethics,explicit,review-candidate,declared-gaps,685,content/en/concepts/con-organ-transplant-ethics.md
+con-organ-transplant-ethics,CON-2218,مفهوم,ethics,explicit,review-candidate,declared-gaps,717,content/en/concepts/con-organ-transplant-ethics.md
 con-organization,SOC-14215,مفهوم,sociology,explicit,review-candidate,,888,content/en/concepts/con-organization.md
 con-orientalism,CON-0663,مفهوم,philosophy,explicit,review-candidate,,734,content/en/concepts/con-orientalism.md
 con-orientalism-critique,CON-18389,مفهوم,arab-thought,explicit,review-candidate,,661,content/en/concepts/con-orientalism-critique.md
@@ -738,7 +738,7 @@ con-othering,ANT-13309,مفهوم,anthropology,explicit,review-candidate,,765,co
 con-ottoman-codification-tanzimat-law,CON-20309,مفهوم,legal-theory,explicit,review-candidate,declared-gaps,512,content/en/concepts/con-ottoman-codification-tanzimat-law.md
 con-out-group,SOC-14239,مفهوم,sociology,explicit,review-candidate,,837,content/en/concepts/con-out-group.md
 con-panic-agoraphobia,CON-18265,مفهوم,psychiatry,explicit,review-candidate,,597,content/en/concepts/con-panic-agoraphobia.md
-con-partiality-impartiality,CON-2450,مفهوم,ethics,explicit,review-candidate,,576,content/en/concepts/con-partiality-impartiality.md
+con-partiality-impartiality,CON-2450,مفهوم,ethics,explicit,review-candidate,,586,content/en/concepts/con-partiality-impartiality.md
 con-patriarchy,SOC-14245,مفهوم,sociology,explicit,review-candidate,,1129,content/en/concepts/con-patriarchy.md
 con-patrilineal,ANT-13154,مفهوم,anthropology,explicit,review-candidate,,839,content/en/concepts/con-patrilineal.md
 con-patrilineal-descent,CON-21501,مفهوم,anthropology,explicit,review-candidate,declared-gaps,602,content/en/concepts/con-patrilineal-descent.md
@@ -785,7 +785,7 @@ con-pre-islamic-ethics,CON-18312,مفهوم,arab-thought,explicit,review-candida
 con-pre-islamic-metaphysics,CON-18313,مفهوم,arab-thought,explicit,review-candidate,,878,content/en/concepts/con-pre-islamic-metaphysics.md
 con-prebisch-singer-hypothesis,CON-20441,مفهوم,political-economy,explicit,review-candidate,,576,content/en/concepts/con-prebisch-singer-hypothesis.md
 con-prejudice,SOC-14241,مفهوم,sociology,explicit,review-candidate,declared-gaps,996,content/en/concepts/con-prejudice.md
-con-prescriptivism,CON-2210,مفهوم,ethics,explicit,review-candidate,declared-gaps,635,content/en/concepts/con-prescriptivism.md
+con-prescriptivism,CON-2210,مفهوم,ethics,explicit,review-candidate,declared-gaps,637,content/en/concepts/con-prescriptivism.md
 con-presence-absence,CON-0427,مفهوم,psychology,explicit,review-candidate,,678,content/en/concepts/con-presence-absence.md
 con-prestige,ANT-13110,مفهوم,anthropology,explicit,review-candidate,,915,content/en/concepts/con-prestige.md
 con-primary-emotion,CON-0853,مفهوم,psychology,explicit,review-candidate,,942,content/en/concepts/con-primary-emotion.md
@@ -912,7 +912,7 @@ con-siyasa-shariyya-ibn-taymiyya,CON-10213,مفهوم,legal-theory,explicit,revi
 con-social-anxiety,CON-18266,مفهوم,psychiatry,explicit,review-candidate,,594,content/en/concepts/con-social-anxiety.md
 con-social-capital,ANT-13291,مفهوم,unclassified,none,placeholder,no-title;part-not-explicit;placeholder;short,10,content/en/concepts/con-social-capital.md
 con-social-change,SOC-14225,مفهوم,sociology,explicit,review-candidate,declared-gaps,958,content/en/concepts/con-social-change.md
-con-social-contract,CON-2245,مفهوم,ethics,explicit,review-candidate,declared-gaps,607,content/en/concepts/con-social-contract.md
+con-social-contract,CON-2245,مفهوم,ethics,explicit,review-candidate,declared-gaps,656,content/en/concepts/con-social-contract.md
 con-social-contract-theory,CON-1164,مفهوم,philosophy,explicit,review-candidate,,787,content/en/concepts/con-social-contract-theory.md
 con-social-control,SOC-14213,مفهوم,sociology,explicit,review-candidate,,942,content/en/concepts/con-social-control.md
 con-social-history-definition,CON-19079,مفهوم,historiography,explicit,review-candidate,,620,content/en/concepts/con-social-history-definition.md
@@ -940,7 +940,7 @@ con-spirit-possession,ANT-13167,مفهوم,anthropology,explicit,review-candidat
 con-spiritual-crisis,CON-0430,مفهوم,psychology,explicit,review-candidate,,725,content/en/concepts/con-spiritual-crisis.md
 con-spiritual-knowledge,CON-18359,مفهوم,arab-thought,explicit,review-candidate,,615,content/en/concepts/con-spiritual-knowledge.md
 con-stages-of-language-acquisition,CON-11014,مفهوم,linguistics,explicit,review-candidate,,539,content/en/concepts/con-stages-of-language-acquisition.md
-con-stakeholder-theory,CON-2227,مفهوم,ethics,explicit,review-candidate,declared-gaps,617,content/en/concepts/con-stakeholder-theory.md
+con-stakeholder-theory,CON-2227,مفهوم,ethics,explicit,review-candidate,declared-gaps,616,content/en/concepts/con-stakeholder-theory.md
 con-standard-deviation,SOC-14275,مفهوم,sociology,explicit,review-candidate,declared-gaps,939,content/en/concepts/con-standard-deviation.md
 con-standard-language-ideology,CON-11311,مفهوم,linguistics,explicit,review-candidate,,525,content/en/concepts/con-standard-language-ideology.md
 con-state,ANT-13211,مفهوم,anthropology,explicit,review-candidate,,923,content/en/concepts/con-state.md
@@ -963,7 +963,7 @@ con-sufi-orders,CON-18357,مفهوم,arab-thought,explicit,review-candidate,,768
 con-suicidality-risk,CON-18259,مفهوم,psychiatry,explicit,review-candidate,,492,content/en/concepts/con-suicidality-risk.md
 con-supererogation-ethics,CON-2447,مفهوم,ethics,explicit,review-candidate,,598,content/en/concepts/con-supererogation-ethics.md
 con-survey,SOC-14262,مفهوم,sociology,explicit,review-candidate,declared-gaps,911,content/en/concepts/con-survey.md
-con-sustainability-ethics,CON-2225,مفهوم,ethics,explicit,review-candidate,declared-gaps,622,content/en/concepts/con-sustainability-ethics.md
+con-sustainability-ethics,CON-2225,مفهوم,ethics,explicit,review-candidate,declared-gaps,619,content/en/concepts/con-sustainability-ethics.md
 con-symbol,ANT-13101,مفهوم,anthropology,explicit,review-candidate,declared-gaps,1874,content/en/concepts/con-symbol.md
 con-symbolic-interactionism-premises,CON-3100,مفهوم,sociology,explicit,review-candidate,,545,content/en/concepts/con-symbolic-interactionism-premises.md
 con-syncretism,ANT-13090,مفهوم,anthropology,explicit,review-candidate,,954,content/en/concepts/con-syncretism.md
@@ -999,7 +999,7 @@ con-treatment-resistant-mood,CON-18263,مفهوم,psychiatry,explicit,review-can
 con-triangulation,CON-0864,مفهوم,psychology,explicit,review-candidate,,629,content/en/concepts/con-triangulation.md
 con-tribal-knowledge-systems,CON-18314,مفهوم,arab-thought,explicit,review-candidate,,686,content/en/concepts/con-tribal-knowledge-systems.md
 con-tribe,ANT-13210,مفهوم,anthropology,explicit,review-candidate,,960,content/en/concepts/con-tribe.md
-con-ubuntu-african-ethics,CON-2252,مفهوم,ethics,explicit,review-candidate,declared-gaps,602,content/en/concepts/con-ubuntu-african-ethics.md
+con-ubuntu-african-ethics,CON-2252,مفهوم,ethics,explicit,review-candidate,declared-gaps,588,content/en/concepts/con-ubuntu-african-ethics.md
 con-unconscious,CON-1207,مفهوم,psychology,explicit,review-candidate,,727,content/en/concepts/con-unconscious.md
 con-unconscious-inference,CON-1302,مفهوم,bridges,explicit,review-candidate,declared-gaps,642,content/en/concepts/con-unconscious-inference.md
 con-unequal-exchange,CON-20488,مفهوم,political-economy,explicit,review-candidate,,477,content/en/concepts/con-unequal-exchange.md
@@ -1010,16 +1010,16 @@ con-universals-particulars,CON-18344,مفهوم,arab-thought,explicit,review-can
 con-urbanism-as-way-of-life,CON-3061,مفهوم,sociology,explicit,review-candidate,,579,content/en/concepts/con-urbanism-as-way-of-life.md
 con-usufruct,ANT-13193,مفهوم,anthropology,explicit,review-candidate,,937,content/en/concepts/con-usufruct.md
 con-usul-al-fiqh,CON-18325,مفهوم,arab-thought,explicit,review-candidate,,633,content/en/concepts/con-usul-al-fiqh.md
-con-utilitarianism,CON-2133,مفهوم,ethics,explicit,review-candidate,declared-gaps,632,content/en/concepts/con-utilitarianism.md
+con-utilitarianism,CON-2133,مفهوم,ethics,explicit,review-candidate,declared-gaps,634,content/en/concepts/con-utilitarianism.md
 con-validity,SOC-14259,مفهوم,sociology,explicit,review-candidate,declared-gaps,988,content/en/concepts/con-validity.md
 con-variable,SOC-14253,مفهوم,sociology,explicit,review-candidate,declared-gaps,952,content/en/concepts/con-variable.md
 con-verstehen,SOC-14285,مفهوم,sociology,explicit,review-candidate,declared-gaps,874,content/en/concepts/con-verstehen.md
 con-verstehen-sociology,SOC-14286,مفهوم,sociology,explicit,review-candidate,declared-gaps,799,content/en/concepts/con-verstehen-sociology.md
 con-violence,ANT-13330,مفهوم,anthropology,explicit,review-candidate,,989,content/en/concepts/con-violence.md
 con-violence-prediction,CON-18310,مفهوم,psychiatry,explicit,review-candidate,,590,content/en/concepts/con-violence-prediction.md
-con-virtue-confucianism,CON-2250,مفهوم,ethics,explicit,review-candidate,declared-gaps,576,content/en/concepts/con-virtue-confucianism.md
-con-virtue-consequentialism,CON-2460,مفهوم,ethics,explicit,review-candidate,,584,content/en/concepts/con-virtue-consequentialism.md
-con-virtue-development,CON-2126,مفهوم,ethics,explicit,review-candidate,declared-gaps,543,content/en/concepts/con-virtue-development.md
+con-virtue-confucianism,CON-2250,مفهوم,ethics,explicit,review-candidate,declared-gaps,577,content/en/concepts/con-virtue-confucianism.md
+con-virtue-consequentialism,CON-2460,مفهوم,ethics,explicit,review-candidate,,589,content/en/concepts/con-virtue-consequentialism.md
+con-virtue-development,CON-2126,مفهوم,ethics,explicit,review-candidate,declared-gaps,548,content/en/concepts/con-virtue-development.md
 con-virtue-ethics,CON-1215,مفهوم,philosophy,explicit,review-candidate,,873,content/en/concepts/con-virtue-ethics.md
 con-visual-art,ANT-13224,مفهوم,anthropology,explicit,review-candidate,,945,content/en/concepts/con-visual-art.md
 con-voting,ANT-13218,مفهوم,anthropology,explicit,review-candidate,,860,content/en/concepts/con-voting.md
@@ -1031,7 +1031,7 @@ con-war,ANT-13331,مفهوم,anthropology,explicit,review-candidate,declared-gap
 con-weak-ties-embeddedness-granovetter,CON-4330,مفهوم,sociology,explicit,review-candidate,,405,content/en/concepts/con-weak-ties-embeddedness-granovetter.md
 con-wealth,ANT-13187,مفهوم,anthropology,explicit,review-candidate,,772,content/en/concepts/con-wealth.md
 con-weaving,ANT-13232,مفهوم,anthropology,explicit,review-candidate,,865,content/en/concepts/con-weaving.md
-con-whistleblowing,CON-2235,مفهوم,ethics,explicit,review-candidate,declared-gaps,604,content/en/concepts/con-whistleblowing.md
+con-whistleblowing,CON-2235,مفهوم,ethics,explicit,review-candidate,declared-gaps,655,content/en/concepts/con-whistleblowing.md
 con-will-to-power,CON-0788,مفهوم,philosophy,explicit,review-candidate,,750,content/en/concepts/con-will-to-power.md
 con-window-of-tolerance,CON-1307,مفهوم,psychology,explicit,review-candidate,,937,content/en/concepts/con-window-of-tolerance.md
 con-witchcraft,ANT-13172,مفهوم,anthropology,explicit,review-candidate,,912,content/en/concepts/con-witchcraft.md
@@ -1164,7 +1164,7 @@ evt-frankl-camps,EVT-0001,حدث تاريخي,philosophy,explicit,review-candida
 exp-frankl-lived-experience,EXP-0001,خبرة معيشة,philosophy,explicit,review-candidate,,1080,content/en/experiences/exp-frankl-lived-experience.md
 fld-aesthetics,PHL-30009,مجال,philosophy,explicit,review-candidate,,1061,content/en/fields/fld-aesthetics.md
 fld-anthropology,ANT-30001,مجال,anthropology,explicit,review-candidate,declared-gaps,1217,content/en/fields/fld-anthropology.md
-fld-applied-ethics,ETH-30004,مجال,ethics,explicit,review-candidate,,1126,content/en/fields/fld-applied-ethics.md
+fld-applied-ethics,ETH-30004,مجال,ethics,explicit,review-candidate,,1173,content/en/fields/fld-applied-ethics.md
 fld-arab-thought,ARB-30001,مجال,arab-thought,explicit,review-candidate,,1383,content/en/fields/fld-arab-thought.md
 fld-arabic-linguistics,LNG-30005,مجال,linguistics,explicit,review-candidate,,1332,content/en/fields/fld-arabic-linguistics.md
 fld-biological-social-models,PSX-30003,مجال,psychiatry,explicit,review-candidate,,1120,content/en/fields/fld-biological-social-models.md
@@ -1189,7 +1189,7 @@ fld-macroeconomics-money,POL-30002,مجال,political-economy,explicit,review-ca
 fld-metaethics-moral-psychology,ETH-30003,مجال,ethics,explicit,review-candidate,,1200,content/en/fields/fld-metaethics-moral-psychology.md
 fld-metaphysics,PHL-30004,مجال,philosophy,explicit,review-candidate,,953,content/en/fields/fld-metaphysics.md
 fld-nahda-modern-arab-thought,ARB-30002,مجال,arab-thought,explicit,review-candidate,,1064,content/en/fields/fld-nahda-modern-arab-thought.md
-fld-normative-ethics,ETH-30002,مجال,ethics,explicit,review-candidate,,1180,content/en/fields/fld-normative-ethics.md
+fld-normative-ethics,ETH-30002,مجال,ethics,explicit,review-candidate,,1182,content/en/fields/fld-normative-ethics.md
 fld-philosophy,PHL-30001,مجال,philosophy,explicit,review-candidate,,1665,content/en/fields/fld-philosophy.md
 fld-philosophy-of-language,PHL-30006,مجال,philosophy,explicit,review-candidate,,1019,content/en/fields/fld-philosophy-of-language.md
 fld-philosophy-of-mind,PHL-30005,مجال,philosophy,explicit,review-candidate,,986,content/en/fields/fld-philosophy-of-mind.md
@@ -1417,7 +1417,7 @@ sch-bayt-al-hikma-translation,SCH-13116,مدرسة,arab-thought,explicit,review-
 sch-behaviorism,SCH-0041,مدرسة,psychology,explicit,review-candidate,,836,content/en/schools/sch-behaviorism.md
 sch-berger-luckmann-social-construction,SCH-1009,مدرسة,sociology,explicit,review-candidate,,917,content/en/schools/sch-berger-luckmann-social-construction.md
 sch-bilingualism-cognitive-control,SCH-9226,مدرسة,linguistics,explicit,review-candidate,,699,content/en/schools/sch-bilingualism-cognitive-control.md
-sch-bioethics-principles,SCH-12437,مدرسة,ethics,explicit,review-candidate,declared-gaps,959,content/en/schools/sch-bioethics-principles.md
+sch-bioethics-principles,SCH-12437,مدرسة,ethics,explicit,review-candidate,declared-gaps,976,content/en/schools/sch-bioethics-principles.md
 sch-biological-neuro,SCH-0347,مدرسة,psychology,explicit,review-candidate,,898,content/en/schools/sch-biological-neuro.md
 sch-boasian-cultural-relativism,SCH-1089,مدرسة,anthropology,explicit,review-candidate,,913,content/en/schools/sch-boasian-cultural-relativism.md
 sch-bourdieu-distinction-cultural-reproduction,SCH-1013,مدرسة,sociology,explicit,review-candidate,,843,content/en/schools/sch-bourdieu-distinction-cultural-reproduction.md
@@ -1426,9 +1426,9 @@ sch-british-empiricism,SCH-0050,مدرسة,philosophy,explicit,review-candidate,
 sch-british-functionalism,SCH-13229,مدرسة,anthropology,explicit,review-candidate,,1065,content/en/schools/sch-british-functionalism.md
 sch-british-marxist-historians-ep-thompson,SCH-12808,مدرسة,historiography,explicit,review-candidate,,874,content/en/schools/sch-british-marxist-historians-ep-thompson.md
 sch-buddhism-early,SCH-0052,مدرسة,philosophy,explicit,review-candidate,,1015,content/en/schools/sch-buddhism-early.md
-sch-buddhist-ethics,SCH-12449,مدرسة,ethics,explicit,review-candidate,declared-gaps,1062,content/en/schools/sch-buddhist-ethics.md
-sch-business-ethics,SCH-12441,مدرسة,ethics,explicit,review-candidate,declared-gaps,870,content/en/schools/sch-business-ethics.md
-sch-care-ethics-feminist,SCH-12433,مدرسة,ethics,explicit,review-candidate,declared-gaps,1192,content/en/schools/sch-care-ethics-feminist.md
+sch-buddhist-ethics,SCH-12449,مدرسة,ethics,explicit,review-candidate,declared-gaps,1061,content/en/schools/sch-buddhist-ethics.md
+sch-business-ethics,SCH-12441,مدرسة,ethics,explicit,review-candidate,declared-gaps,888,content/en/schools/sch-business-ethics.md
+sch-care-ethics-feminist,SCH-12433,مدرسة,ethics,explicit,review-candidate,declared-gaps,1207,content/en/schools/sch-care-ethics-feminist.md
 sch-cartesianism,SCH-0057,مدرسة,philosophy,explicit,review-candidate,,1011,content/en/schools/sch-cartesianism.md
 sch-charvaka,SCH-0060,مدرسة,philosophy,explicit,review-candidate,,1027,content/en/schools/sch-charvaka.md
 sch-chicago-urban-ecology,SCH-0949,مدرسة,sociology,explicit,review-candidate,,855,content/en/schools/sch-chicago-urban-ecology.md
@@ -1459,7 +1459,7 @@ sch-comtean-positivism,SCH-0930,مدرسة,sociology,explicit,review-candidate,d
 sch-comtean-positivism-english,SOC-14000,مدرسة,sociology,explicit,draft-pending,pending,1188,content/en/schools/sch-comtean-positivism-english.md
 sch-confucian-early,SCH-0071,مدرسة,philosophy,explicit,review-candidate,,1049,content/en/schools/sch-confucian-early.md
 sch-confucian-ethics,SCH-12448,مدرسة,ethics,explicit,review-candidate,declared-gaps,880,content/en/schools/sch-confucian-ethics.md
-sch-consequentialism-utilitarianism,SCH-12418,مدرسة,ethics,explicit,review-candidate,,684,content/en/schools/sch-consequentialism-utilitarianism.md
+sch-consequentialism-utilitarianism,SCH-12418,مدرسة,ethics,explicit,review-candidate,,685,content/en/schools/sch-consequentialism-utilitarianism.md
 sch-constitutional-law-theory,SCH-12411,مدرسة,legal-theory,explicit,review-candidate,declared-gaps,548,content/en/schools/sch-constitutional-law-theory.md
 sch-construction-grammar,SCH-5202,مدرسة,linguistics,explicit,review-candidate,,840,content/en/schools/sch-construction-grammar.md
 sch-contact-linguistics-creole,SCH-9229,مدرسة,linguistics,explicit,review-candidate,,1035,content/en/schools/sch-contact-linguistics-creole.md
@@ -1483,7 +1483,7 @@ sch-dbt,SCH-0081,مدرسة,psychology,explicit,review-candidate,,895,content/en
 sch-death-ritual-religious-studies,SCH-12009,مدرسة,religious-studies,explicit,review-candidate,,1138,content/en/schools/sch-death-ritual-religious-studies.md
 sch-decolonial-philosophy,SCH-0083,مدرسة,philosophy,explicit,review-candidate,,990,content/en/schools/sch-decolonial-philosophy.md
 sch-deconstruction,SCH-0084,مدرسة,philosophy,explicit,review-candidate,,992,content/en/schools/sch-deconstruction.md
-sch-deontological-ethics-kant,SCH-12419,مدرسة,ethics,explicit,review-candidate,,709,content/en/schools/sch-deontological-ethics-kant.md
+sch-deontological-ethics-kant,SCH-12419,مدرسة,ethics,explicit,review-candidate,,737,content/en/schools/sch-deontological-ethics-kant.md
 sch-descent-theory,SCH-1091,مدرسة,anthropology,explicit,review-candidate,,892,content/en/schools/sch-descent-theory.md
 sch-development-economics,SCH-13267,مدرسة,political-economy,explicit,review-candidate,,1034,content/en/schools/sch-development-economics.md
 sch-developmental,SCH-0351,مدرسة,psychology,explicit,review-candidate,,963,content/en/schools/sch-developmental.md
@@ -1503,7 +1503,7 @@ sch-egyptian-maat,SCH-0094,مدرسة,philosophy,explicit,review-candidate,,1042
 sch-emdr,SCH-0354,مدرسة,psychology,explicit,review-candidate,,732,content/en/schools/sch-emdr.md
 sch-emotion-psychology,SCH-0914,مدرسة,psychology,explicit,review-candidate,declared-gaps,980,content/en/schools/sch-emotion-psychology.md
 sch-empirical-legal-studies,SCH-8908,مدرسة,legal-theory,explicit,review-candidate,,721,content/en/schools/sch-empirical-legal-studies.md
-sch-engineering-ethics,SCH-12444,مدرسة,ethics,explicit,review-candidate,declared-gaps,1119,content/en/schools/sch-engineering-ethics.md
+sch-engineering-ethics,SCH-12444,مدرسة,ethics,explicit,review-candidate,,1136,content/en/schools/sch-engineering-ethics.md
 sch-enlightenment,SCH-0097,مدرسة,philosophy,explicit,review-candidate,,1598,content/en/schools/sch-enlightenment.md
 sch-environmental-history,SCH-4162,مدرسة,historiography,explicit,review-candidate,,1096,content/en/schools/sch-environmental-history.md
 sch-environmental-sociology-metabolic-rift,SCH-1041,مدرسة,sociology,explicit,review-candidate,,775,content/en/schools/sch-environmental-sociology-metabolic-rift.md
@@ -1539,13 +1539,13 @@ sch-hermeneutics,SCH-0134,مدرسة,philosophy,explicit,review-candidate,,1151,
 sch-herodotus-inquiry-method,SCH-12353,مدرسة,historiography,explicit,review-candidate,,1085,content/en/schools/sch-herodotus-inquiry-method.md
 sch-higher-criticism-biblical-studies,SCH-2001,مدرسة,religious-studies,explicit,review-candidate,,1144,content/en/schools/sch-higher-criticism-biblical-studies.md
 sch-historical-comparative-linguistics,SCH-4201,مدرسة,linguistics,explicit,review-candidate,,905,content/en/schools/sch-historical-comparative-linguistics.md
-sch-history-non-western-ethics,SCH-12453,مدرسة,ethics,explicit,review-candidate,declared-gaps,988,content/en/schools/sch-history-non-western-ethics.md
-sch-history-western-ethics,SCH-12452,مدرسة,ethics,explicit,review-candidate,declared-gaps,1206,content/en/schools/sch-history-western-ethics.md
+sch-history-non-western-ethics,SCH-12453,مدرسة,ethics,explicit,review-candidate,,990,content/en/schools/sch-history-non-western-ethics.md
+sch-history-western-ethics,SCH-12452,مدرسة,ethics,explicit,review-candidate,,1213,content/en/schools/sch-history-western-ethics.md
 sch-homo-economicus-rational-choice-economics,SCH-13251,مدرسة,political-economy,explicit,review-candidate,,906,content/en/schools/sch-homo-economicus-rational-choice-economics.md
 sch-humanistic,SCH-0139,مدرسة,psychology,explicit,review-candidate,,998,content/en/schools/sch-humanistic.md
 sch-humeanism,SCH-0140,مدرسة,philosophy,explicit,review-candidate,,1332,content/en/schools/sch-humeanism.md
 sch-ibn-khaldun-naqd-al-akhbar,SCH-1120,مدرسة,historiography,explicit,review-candidate,,659,content/en/schools/sch-ibn-khaldun-naqd-al-akhbar.md
-sch-indigenous-ethics,SCH-12451,مدرسة,ethics,explicit,review-candidate,declared-gaps,913,content/en/schools/sch-indigenous-ethics.md
+sch-indigenous-ethics,SCH-12451,مدرسة,ethics,explicit,review-candidate,,913,content/en/schools/sch-indigenous-ethics.md
 sch-internal-external-source-criticism,SCH-4154,مدرسة,historiography,explicit,review-candidate,,950,content/en/schools/sch-internal-external-source-criticism.md
 sch-international-law-theory,SCH-13086,مدرسة,legal-theory,explicit,review-candidate,,1030,content/en/schools/sch-international-law-theory.md
 sch-international-political-economy,SCH-13281,مدرسة,political-economy,explicit,review-candidate,,1216,content/en/schools/sch-international-political-economy.md
@@ -1572,7 +1572,7 @@ sch-latin-american-dependency-theory,SCH-0992,مدرسة,sociology,explicit,revi
 sch-latin-american-structuralism-cepal,SCH-13268,مدرسة,political-economy,explicit,review-candidate,,855,content/en/schools/sch-latin-american-structuralism-cepal.md
 sch-law-and-economics,SCH-8901,مدرسة,legal-theory,explicit,review-candidate,,944,content/en/schools/sch-law-and-economics.md
 sch-law-society-studies,SCH-12428,مدرسة,legal-theory,explicit,review-candidate,,785,content/en/schools/sch-law-society-studies.md
-sch-legal-ethics-profession,SCH-12443,مدرسة,ethics,explicit,review-candidate,,1170,content/en/schools/sch-legal-ethics-profession.md
+sch-legal-ethics-profession,SCH-12443,مدرسة,ethics,explicit,review-candidate,,1196,content/en/schools/sch-legal-ethics-profession.md
 sch-legal-history-non-western,SCH-12431,مدرسة,legal-theory,explicit,review-candidate,,885,content/en/schools/sch-legal-history-non-western.md
 sch-legal-history-western,SCH-12430,مدرسة,legal-theory,explicit,review-candidate,,994,content/en/schools/sch-legal-history-western.md
 sch-legal-pluralism,SCH-8902,مدرسة,legal-theory,explicit,review-candidate,,1023,content/en/schools/sch-legal-pluralism.md
@@ -1598,8 +1598,8 @@ sch-marxist-classical-sociology-english,SOC-14002,مدرسة,sociology,explicit,
 sch-material-religion-studies,SCH-11954,مدرسة,religious-studies,explicit,review-candidate,,840,content/en/schools/sch-material-religion-studies.md
 sch-mbct,SCH-0362,مدرسة,psychology,explicit,review-candidate,,1191,content/en/schools/sch-mbct.md
 sch-medical-anthropology,SCH-1112,مدرسة,anthropology,explicit,review-candidate,,1262,content/en/schools/sch-medical-anthropology.md
-sch-medical-ethics,SCH-12438,مدرسة,ethics,explicit,review-candidate,,1220,content/en/schools/sch-medical-ethics.md
-sch-medical-ethics-profession,SCH-12442,مدرسة,ethics,explicit,review-candidate,,912,content/en/schools/sch-medical-ethics-profession.md
+sch-medical-ethics,SCH-12438,مدرسة,ethics,explicit,review-candidate,,1222,content/en/schools/sch-medical-ethics.md
+sch-medical-ethics-profession,SCH-12442,مدرسة,ethics,explicit,review-candidate,,905,content/en/schools/sch-medical-ethics-profession.md
 sch-medicalization-biosociality,SCH-1042,مدرسة,sociology,explicit,review-candidate,,872,content/en/schools/sch-medicalization-biosociality.md
 sch-medieval-islamic-philosophy,SCH-13117,مدرسة,arab-thought,explicit,review-candidate,,966,content/en/schools/sch-medieval-islamic-philosophy.md
 sch-medieval-monastic-chronicles,SCH-4178,مدرسة,historiography,explicit,review-candidate,,619,content/en/schools/sch-medieval-monastic-chronicles.md
@@ -1616,10 +1616,10 @@ sch-mohism,SCH-0205,مدرسة,philosophy,explicit,review-candidate,,942,content
 sch-monetarism-chicago-school,SCH-13255,مدرسة,political-economy,explicit,review-candidate,,915,content/en/schools/sch-monetarism-chicago-school.md
 sch-monetary-economics-tradition,SCH-13328,مدرسة,political-economy,explicit,review-candidate,,916,content/en/schools/sch-monetary-economics-tradition.md
 sch-mood-disorders,SCH-13208,مدرسة,psychiatry,explicit,review-candidate,declared-gaps,967,content/en/schools/sch-mood-disorders.md
-sch-moral-constructivism,SCH-12436,مدرسة,ethics,explicit,review-candidate,,1011,content/en/schools/sch-moral-constructivism.md
-sch-moral-psychology,SCH-12445,مدرسة,ethics,explicit,review-candidate,,938,content/en/schools/sch-moral-psychology.md
-sch-moral-realism,SCH-12434,مدرسة,ethics,explicit,review-candidate,,1023,content/en/schools/sch-moral-realism.md
-sch-moral-relativism,SCH-12435,مدرسة,ethics,explicit,review-candidate,,1199,content/en/schools/sch-moral-relativism.md
+sch-moral-constructivism,SCH-12436,مدرسة,ethics,explicit,review-candidate,,1032,content/en/schools/sch-moral-constructivism.md
+sch-moral-psychology,SCH-12445,مدرسة,ethics,explicit,review-candidate,,980,content/en/schools/sch-moral-psychology.md
+sch-moral-realism,SCH-12434,مدرسة,ethics,explicit,review-candidate,,1036,content/en/schools/sch-moral-realism.md
+sch-moral-relativism,SCH-12435,مدرسة,ethics,explicit,review-candidate,,1217,content/en/schools/sch-moral-relativism.md
 sch-motivational-interviewing,SCH-0363,مدرسة,psychology,explicit,review-candidate,,1776,content/en/schools/sch-motivational-interviewing.md
 sch-mutazila,SCH-0206,مدرسة,philosophy,explicit,review-candidate,,1163,content/en/schools/sch-mutazila.md
 sch-myth-theory-religious-studies,SCH-6803,مدرسة,religious-studies,explicit,review-candidate,,1048,content/en/schools/sch-myth-theory-religious-studies.md
@@ -1654,7 +1654,7 @@ sch-phil-science,SCH-0243,مدرسة,philosophy,explicit,review-candidate,,1106,
 sch-philosophy-of-law,SCH-12424,مدرسة,legal-theory,explicit,review-candidate,,983,content/en/schools/sch-philosophy-of-law.md
 sch-plutarch-parallel-biography,SCH-12356,مدرسة,historiography,explicit,review-candidate,,883,content/en/schools/sch-plutarch-parallel-biography.md
 sch-politeness-theory,SCH-9233,مدرسة,linguistics,explicit,review-candidate,,663,content/en/schools/sch-politeness-theory.md
-sch-political-ethics,SCH-12447,مدرسة,ethics,explicit,review-candidate,,1102,content/en/schools/sch-political-ethics.md
+sch-political-ethics,SCH-12447,مدرسة,ethics,explicit,review-candidate,,1130,content/en/schools/sch-political-ethics.md
 sch-polybius-pragmatic-history,SCH-12355,مدرسة,historiography,explicit,review-candidate,,933,content/en/schools/sch-polybius-pragmatic-history.md
 sch-polyvagal-informed-therapy,SCH-0365,مدرسة,psychology,explicit,review-candidate,,1127,content/en/schools/sch-polyvagal-informed-therapy.md
 sch-positive-psychology,SCH-0247,مدرسة,psychology,explicit,review-candidate,,1532,content/en/schools/sch-positive-psychology.md
@@ -1681,7 +1681,7 @@ sch-religion-digital-technology,SCH-12334,مدرسة,religious-studies,explicit,
 sch-religionsgeschichtliche-schule,SCH-6806,مدرسة,religious-studies,explicit,review-candidate,,905,content/en/schools/sch-religionsgeschichtliche-schule.md
 sch-renaissance-humanism,SCH-0266,مدرسة,philosophy,explicit,review-candidate,,1065,content/en/schools/sch-renaissance-humanism.md
 sch-rentier-state-theory,SCH-13273,مدرسة,political-economy,explicit,review-candidate,,966,content/en/schools/sch-rentier-state-theory.md
-sch-research-ethics,SCH-12439,مدرسة,ethics,explicit,review-candidate,,998,content/en/schools/sch-research-ethics.md
+sch-research-ethics,SCH-12439,مدرسة,ethics,explicit,review-candidate,,1008,content/en/schools/sch-research-ethics.md
 sch-restorative-justice,SCH-12423,مدرسة,legal-theory,explicit,review-candidate,,948,content/en/schools/sch-restorative-justice.md
 sch-ritual-theory-religious-studies,SCH-6802,مدرسة,religious-studies,explicit,review-candidate,,953,content/en/schools/sch-ritual-theory-religious-studies.md
 sch-samkhya,SCH-0273,مدرسة,philosophy,explicit,review-candidate,,889,content/en/schools/sch-samkhya.md
@@ -1696,7 +1696,7 @@ sch-simmelian-formal-english,SOC-14005,مدرسة,sociology,explicit,draft-pendi
 sch-simmelian-formal-sociology,SCH-0939,مدرسة,sociology,explicit,review-candidate,declared-gaps,1027,content/en/schools/sch-simmelian-formal-sociology.md
 sch-skocpol-comparative-historical-revolutions,SCH-1006,مدرسة,sociology,explicit,review-candidate,,825,content/en/schools/sch-skocpol-comparative-historical-revolutions.md
 sch-social-capital-civic,SCH-0928,مدرسة,sociology,explicit,review-candidate,,845,content/en/schools/sch-social-capital-civic.md
-sch-social-ethics,SCH-12446,مدرسة,ethics,explicit,review-candidate,,1005,content/en/schools/sch-social-ethics.md
+sch-social-ethics,SCH-12446,مدرسة,ethics,explicit,review-candidate,,1018,content/en/schools/sch-social-ethics.md
 sch-social-network-analysis-paradigm,SCH-0986,مدرسة,sociology,explicit,review-candidate,,856,content/en/schools/sch-social-network-analysis-paradigm.md
 sch-social-psychology,SCH-0294,مدرسة,psychology,explicit,review-candidate,,1075,content/en/schools/sch-social-psychology.md
 sch-socialist-legal-systems,SCH-13085,مدرسة,legal-theory,explicit,review-candidate,,1014,content/en/schools/sch-socialist-legal-systems.md
@@ -1741,7 +1741,7 @@ sch-utilitarianism,SCH-0317,مدرسة,philosophy,explicit,review-candidate,,969
 sch-variationist-sociolinguistics,SCH-5301,مدرسة,linguistics,explicit,review-candidate,,619,content/en/schools/sch-variationist-sociolinguistics.md
 sch-vedanta,SCH-0320,مدرسة,philosophy,explicit,review-candidate,,993,content/en/schools/sch-vedanta.md
 sch-vienna-circle,SCH-0323,مدرسة,philosophy,explicit,review-candidate,,934,content/en/schools/sch-vienna-circle.md
-sch-virtue-ethics-aristotle,SCH-13084,مدرسة,ethics,explicit,review-candidate,,632,content/en/schools/sch-virtue-ethics-aristotle.md
+sch-virtue-ethics-aristotle,SCH-13084,مدرسة,ethics,explicit,review-candidate,,633,content/en/schools/sch-virtue-ethics-aristotle.md
 sch-wallerstein-world-systems,SCH-0991,مدرسة,sociology,explicit,review-candidate,,907,content/en/schools/sch-wallerstein-world-systems.md
 sch-weberian-religion-capitalism,SCH-0937,مدرسة,sociology,explicit,review-candidate,,782,content/en/schools/sch-weberian-religion-capitalism.md
 sch-weberian-verstehen-english,SOC-14004,مدرسة,sociology,explicit,review-candidate,declared-gaps,1031,content/en/schools/sch-weberian-verstehen-english.md
@@ -2647,15 +2647,15 @@ wrk-balinese-cockfight,ANT-13268,عمل / كتاب,unclassified,none,placeholder
 wrk-beck-cognitive-therapy-depression,WRK-0765,عمل / كتاب,psychology,explicit,review-candidate,,798,content/en/works/wrk-beck-cognitive-therapy-depression.md
 wrk-being-nothingness,WRK-0206,عمل / كتاب,philosophy,explicit,review-candidate,,1014,content/en/works/wrk-being-nothingness.md
 wrk-being-time,WRK-0201,عمل / كتاب,philosophy,explicit,review-candidate,,1025,content/en/works/wrk-being-time.md
-wrk-beyond-good-evil,WRK-10324,عمل / كتاب,ethics,explicit,review-candidate,,1011,content/en/works/wrk-beyond-good-evil.md
+wrk-beyond-good-evil,WRK-10324,عمل / كتاب,ethics,explicit,review-candidate,,1016,content/en/works/wrk-beyond-good-evil.md
 wrk-bipolar-disorder-research,WRK-13303,عمل / كتاب,psychiatry,explicit,review-candidate,declared-gaps,990,content/en/works/wrk-bipolar-disorder-research.md
 wrk-bowling-alone,SOC-14331,عمل,sociology,explicit,review-candidate,,1087,content/en/works/wrk-bowling-alone.md
 wrk-canon-ibn-sina,WRK-13198,عمل / كتاب,arab-thought,explicit,review-candidate,,994,content/en/works/wrk-canon-ibn-sina.md
-wrk-capability-approach-sen,WRK-10069,عمل / كتاب,ethics,explicit,review-candidate,,981,content/en/works/wrk-capability-approach-sen.md
+wrk-capability-approach-sen,WRK-10069,عمل / كتاب,ethics,explicit,review-candidate,,978,content/en/works/wrk-capability-approach-sen.md
 wrk-capital,SOC-14308,عمل,sociology,explicit,review-candidate,,960,content/en/works/wrk-capital.md
 wrk-capital-in-the-twenty-first-century-piketty,WRK-20408,عمل / كتاب,political-economy,explicit,review-candidate,,888,content/en/works/wrk-capital-in-the-twenty-first-century-piketty.md
 wrk-capitalism-socialism-and-democracy-schumpeter,WRK-20405,عمل / كتاب,political-economy,explicit,review-candidate,,793,content/en/works/wrk-capitalism-socialism-and-democracy-schumpeter.md
-wrk-caring-noddings,WRK-10058,عمل / كتاب,ethics,explicit,review-candidate,,876,content/en/works/wrk-caring-noddings.md
+wrk-caring-noddings,WRK-10058,عمل / كتاب,ethics,explicit,review-candidate,,872,content/en/works/wrk-caring-noddings.md
 wrk-causation-in-the-law-hart-honore,WRK-20351,عمل / كتاب,legal-theory,explicit,review-candidate,declared-gaps,948,content/en/works/wrk-causation-in-the-law-hart-honore.md
 wrk-coming-age,ANT-13130,عمل / كتاب,unclassified,none,review-candidate,part-not-explicit;related-unresolved,1530,content/en/works/wrk-coming-age.md
 wrk-coming-of-age-samoa-mead,WRK-2119,عمل / كتاب,anthropology,explicit,review-candidate,,1719,content/en/works/wrk-coming-of-age-samoa-mead.md
@@ -2670,13 +2670,13 @@ wrk-craft-of-history-bloch,WRK-13167,عمل / كتاب,historiography,explicit,r
 wrk-crime-custom-savage-society-malinowski,WRK-8721,عمل / كتاب,anthropology,explicit,review-candidate,,553,content/en/works/wrk-crime-custom-savage-society-malinowski.md
 wrk-critique-of-practical-reason-kant,WRK-0555,عمل / كتاب,philosophy,explicit,review-candidate,,1338,content/en/works/wrk-critique-of-practical-reason-kant.md
 wrk-critique-of-pure-reason-kant,WRK-0556,عمل / كتاب,philosophy,explicit,review-candidate,,1313,content/en/works/wrk-critique-of-pure-reason-kant.md
-wrk-critique-practical-reason,WRK-10325,عمل / كتاب,ethics,explicit,review-candidate,,981,content/en/works/wrk-critique-practical-reason.md
+wrk-critique-practical-reason,WRK-10325,عمل / كتاب,ethics,explicit,review-candidate,,986,content/en/works/wrk-critique-practical-reason.md
 wrk-crossing-and-dwelling-tweed,WRK-12005,عمل / كتاب,religious-studies,explicit,review-candidate,,687,content/en/works/wrk-crossing-and-dwelling-tweed.md
 wrk-cultural-critique,ANT-13273,عمل / كتاب,anthropology,explicit,review-candidate,,1059,content/en/works/wrk-cultural-critique.md
 wrk-dalail-al-ijaz-jurjani,WRK-11781,أثر,linguistics,explicit,review-candidate,,809,content/en/works/wrk-dalail-al-ijaz-jurjani.md
 wrk-daodejing,WRK-0494,عمل / كتاب,philosophy,explicit,review-candidate,,1127,content/en/works/wrk-daodejing.md
 wrk-debt-first-5000-years-graeber,WRK-8843,عمل / كتاب,anthropology,explicit,review-candidate,,1004,content/en/works/wrk-debt-first-5000-years-graeber.md
-wrk-deep-ecology,WRK-10062,عمل / كتاب,ethics,explicit,review-candidate,,986,content/en/works/wrk-deep-ecology.md
+wrk-deep-ecology,WRK-10062,عمل / كتاب,ethics,explicit,review-candidate,,998,content/en/works/wrk-deep-ecology.md
 wrk-democracy-and-distrust-ely,WRK-20106,عمل / كتاب,legal-theory,explicit,review-candidate,,866,content/en/works/wrk-democracy-and-distrust-ely.md
 wrk-discipline-and-punish,SOC-14323,عمل,sociology,explicit,review-candidate,,1097,content/en/works/wrk-discipline-and-punish.md
 wrk-divided-self,WRK-0211,عمل / كتاب,philosophy,explicit,review-candidate,,971,content/en/works/wrk-divided-self.md
@@ -2688,12 +2688,12 @@ wrk-ecrits,WRK-0289,عمل / كتاب,psychology,explicit,review-candidate,,812,
 wrk-elementary-structures,ANT-13265,عمل / كتاب,anthropology,explicit,review-candidate,,1789,content/en/works/wrk-elementary-structures.md
 wrk-elements-de-semiologie-barthes,WRK-11966,عمل,linguistics,explicit,review-candidate,declared-gaps,880,content/en/works/wrk-elements-de-semiologie-barthes.md
 wrk-empire,ANT-13274,عمل / كتاب,anthropology,explicit,review-candidate,,1013,content/en/works/wrk-empire.md
-wrk-environmental-ethics-rolston,WRK-13161,عمل / كتاب,ethics,explicit,review-candidate,,835,content/en/works/wrk-environmental-ethics-rolston.md
+wrk-environmental-ethics-rolston,WRK-13161,عمل / كتاب,ethics,explicit,review-candidate,,836,content/en/works/wrk-environmental-ethics-rolston.md
 wrk-environmental-sociology-new-paradigm-catton-dunlap,WRK-10035,عمل / كتاب,sociology,explicit,review-candidate,,596,content/en/works/wrk-environmental-sociology-new-paradigm-catton-dunlap.md
 wrk-epic-of-sundiata-griots,WRK-12606,عمل,historiography,explicit,review-candidate,,699,content/en/works/wrk-epic-of-sundiata-griots.md
 wrk-essay-on-man-cassirer,WRK-0803,عمل / كتاب,bridges,explicit,review-candidate,,1058,content/en/works/wrk-essay-on-man-cassirer.md
 wrk-ethics-ambiguity,WRK-0207,عمل / كتاب,philosophy,explicit,review-candidate,,966,content/en/works/wrk-ethics-ambiguity.md
-wrk-ethics-inventing-right-wrong,WRK-10059,عمل / كتاب,ethics,explicit,review-candidate,,826,content/en/works/wrk-ethics-inventing-right-wrong.md
+wrk-ethics-inventing-right-wrong,WRK-10059,عمل / كتاب,ethics,explicit,review-candidate,,854,content/en/works/wrk-ethics-inventing-right-wrong.md
 wrk-ethnographic-fieldwork,ANT-13272,عمل / كتاب,anthropology,explicit,review-candidate,,903,content/en/works/wrk-ethnographic-fieldwork.md
 wrk-exchange-and-power-social-life-blau,WRK-13136,عمل / كتاب,sociology,explicit,review-candidate,,448,content/en/works/wrk-exchange-and-power-social-life-blau.md
 wrk-existence,WRK-0210,عمل / كتاب,philosophy,explicit,review-candidate,,965,content/en/works/wrk-existence.md
@@ -2720,7 +2720,7 @@ wrk-goffman-presentation-self,WRK-0328,عمل,sociology,explicit,review-candidat
 wrk-governance-mawardi,WRK-13202,عمل / كتاب,arab-thought,explicit,review-candidate,,1189,content/en/works/wrk-governance-mawardi.md
 wrk-governing-the-commons-ostrom,WRK-20404,عمل / كتاب,political-economy,explicit,review-candidate,,758,content/en/works/wrk-governing-the-commons-ostrom.md
 wrk-great-transformation-polanyi,WRK-10037,عمل / كتاب,sociology,explicit,review-candidate,,609,content/en/works/wrk-great-transformation-polanyi.md
-wrk-groundwork-kant,WRK-10323,عمل / كتاب,ethics,explicit,review-candidate,,1180,content/en/works/wrk-groundwork-kant.md
+wrk-groundwork-kant,WRK-10323,عمل / كتاب,ethics,explicit,review-candidate,,1192,content/en/works/wrk-groundwork-kant.md
 wrk-hawaiian-kinship,ANT-13344,عمل / كتاب,anthropology,explicit,review-candidate,declared-gaps,563,content/en/works/wrk-hawaiian-kinship.md
 wrk-hayes-acceptance-commitment-therapy,WRK-0775,عمل / كتاب,psychology,explicit,review-candidate,declared-gaps,905,content/en/works/wrk-hayes-acceptance-commitment-therapy.md
 wrk-head-driven-phrase-structure-grammar-pollard-sag,WRK-12219,أثر,linguistics,explicit,review-candidate,,737,content/en/works/wrk-head-driven-phrase-structure-grammar-pollard-sag.md
@@ -2781,14 +2781,14 @@ wrk-modernity-and-the-holocaust-bauman,WRK-9890,عمل / كتاب,sociology,expl
 wrk-modernity-at-large,SOC-14330,عمل,sociology,explicit,review-candidate,,1044,content/en/works/wrk-modernity-at-large.md
 wrk-monadology-leibniz,WRK-0639,عمل / كتاب,philosophy,explicit,review-candidate,,1189,content/en/works/wrk-monadology-leibniz.md
 wrk-montaillou-le-roy-ladurie,WRK-9501,عمل / كتاب,historiography,explicit,review-candidate,,559,content/en/works/wrk-montaillou-le-roy-ladurie.md
-wrk-moral-development-kohlberg,WRK-10066,عمل / كتاب,ethics,explicit,review-candidate,,1002,content/en/works/wrk-moral-development-kohlberg.md
-wrk-moral-emotions-prinz,WRK-13165,عمل / كتاب,ethics,explicit,review-candidate,,873,content/en/works/wrk-moral-emotions-prinz.md
+wrk-moral-development-kohlberg,WRK-10066,عمل / كتاب,ethics,explicit,review-candidate,,1005,content/en/works/wrk-moral-development-kohlberg.md
+wrk-moral-emotions-prinz,WRK-13165,عمل / كتاب,ethics,explicit,review-candidate,,870,content/en/works/wrk-moral-emotions-prinz.md
 wrk-morphology-of-the-folktale-propp,WRK-12227,أثر,linguistics,explicit,review-candidate,,873,content/en/works/wrk-morphology-of-the-folktale-propp.md
 wrk-nanook-of-the-north-flaherty,WRK-8913,عمل / كتاب,anthropology,explicit,review-candidate,,784,content/en/works/wrk-nanook-of-the-north-flaherty.md
 wrk-narrative-constitution-identity-somers,WRK-13146,عمل / كتاب,sociology,explicit,review-candidate,,629,content/en/works/wrk-narrative-constitution-identity-somers.md
 wrk-negara,ANT-13142,عمل / كتاب,anthropology,explicit,review-candidate,,1068,content/en/works/wrk-negara.md
 wrk-nicomachean-ethics,WRK-0647,عمل / كتاب,philosophy,explicit,review-candidate,,1319,content/en/works/wrk-nicomachean-ethics.md
-wrk-nicomachean-ethics-aristotle,WRK-10007,عمل / كتاب,ethics,explicit,review-candidate,,1176,content/en/works/wrk-nicomachean-ethics-aristotle.md
+wrk-nicomachean-ethics-aristotle,WRK-10007,عمل / كتاب,ethics,explicit,review-candidate,,1193,content/en/works/wrk-nicomachean-ethics-aristotle.md
 wrk-normal-accidents-perrow,WRK-10056,عمل / كتاب,sociology,explicit,review-candidate,declared-gaps,900,content/en/works/wrk-normal-accidents-perrow.md
 wrk-nuer,ANT-13129,عمل / كتاب,unclassified,none,review-candidate,part-not-explicit;related-unresolved,1550,content/en/works/wrk-nuer.md
 wrk-on-liberty-mill,WRK-0653,عمل / كتاب,philosophy,explicit,review-candidate,,1004,content/en/works/wrk-on-liberty-mill.md
@@ -2815,7 +2815,7 @@ wrk-politics-of-piety-mahmood,WRK-12220,عمل / كتاب,religious-studies,expl
 wrk-precariat-standing,WRK-13246,عمل / كتاب,anthropology,explicit,review-candidate,,1051,content/en/works/wrk-precariat-standing.md
 wrk-primitive-culture-tylor,WRK-2112,عمل / كتاب,anthropology,explicit,review-candidate,,858,content/en/works/wrk-primitive-culture-tylor.md
 wrk-primitive-society,ANT-13030,عمل / كتاب,anthropology,explicit,review-candidate,,959,content/en/works/wrk-primitive-society.md
-wrk-principles-biomedical-ethics,WRK-13158,عمل / كتاب,ethics,explicit,review-candidate,,972,content/en/works/wrk-principles-biomedical-ethics.md
+wrk-principles-biomedical-ethics,WRK-13158,عمل / كتاب,ethics,explicit,review-candidate,,974,content/en/works/wrk-principles-biomedical-ethics.md
 wrk-principles-of-political-economy-and-taxation-ricardo,WRK-20367,عمل / كتاب,political-economy,explicit,review-candidate,,827,content/en/works/wrk-principles-of-political-economy-and-taxation-ricardo.md
 wrk-protestant-ethic-spirit-capitalism-weber,WRK-2320,عمل,sociology,explicit,review-candidate,,1202,content/en/works/wrk-protestant-ethic-spirit-capitalism-weber.md
 wrk-provincializing-europe-chakrabarty,WRK-9506,عمل / كتاب,historiography,explicit,review-candidate,,565,content/en/works/wrk-provincializing-europe-chakrabarty.md
@@ -2849,7 +2849,7 @@ wrk-social-origins-dictatorship-democracy-moore,WRK-9509,عمل / كتاب,histo
 wrk-social-system-parsons,WRK-2500,عمل,sociology,explicit,review-candidate,declared-gaps,1047,content/en/works/wrk-social-system-parsons.md
 wrk-sound-pattern-of-english-chomsky-halle,WRK-10825,أثر,linguistics,explicit,review-candidate,declared-gaps,820,content/en/works/wrk-sound-pattern-of-english-chomsky-halle.md
 wrk-spinoza-ethics,WRK-0798,عمل / كتاب,philosophy,explicit,review-candidate,,1411,content/en/works/wrk-spinoza-ethics.md
-wrk-stakeholder-capitalism,WRK-10064,عمل / كتاب,ethics,explicit,review-candidate,,1037,content/en/works/wrk-stakeholder-capitalism.md
+wrk-stakeholder-capitalism,WRK-10064,عمل / كتاب,ethics,explicit,review-candidate,,1041,content/en/works/wrk-stakeholder-capitalism.md
 wrk-stigma,SOC-14305,عمل,sociology,explicit,review-candidate,declared-gaps,916,content/en/works/wrk-stigma.md
 wrk-strangers-in-their-own-land,SOC-14332,عمل,sociology,explicit,review-candidate,declared-gaps,1018,content/en/works/wrk-strangers-in-their-own-land.md
 wrk-street-corner-society,SOC-14318,عمل,sociology,explicit,draft-pending,pending,1053,content/en/works/wrk-street-corner-society.md
@@ -2896,7 +2896,7 @@ wrk-the-theory-of-economic-development-schumpeter,WRK-20406,عمل / كتاب,po
 wrk-the-use-of-knowledge-in-society-hayek,WRK-20395,عمل / كتاب,political-economy,explicit,review-candidate,,769,content/en/works/wrk-the-use-of-knowledge-in-society-hayek.md
 wrk-the-way-we-think-fauconnier-turner,WRK-12051,أثر,linguistics,explicit,review-candidate,,738,content/en/works/wrk-the-way-we-think-fauconnier-turner.md
 wrk-the-wealth-of-nations-smith,WRK-20366,عمل / كتاب,political-economy,explicit,review-candidate,,1052,content/en/works/wrk-the-wealth-of-nations-smith.md
-wrk-theory-of-justice-rawls,WRK-13166,عمل / كتاب,ethics,explicit,review-candidate,,961,content/en/works/wrk-theory-of-justice-rawls.md
+wrk-theory-of-justice-rawls,WRK-13166,عمل / كتاب,ethics,explicit,review-candidate,,955,content/en/works/wrk-theory-of-justice-rawls.md
 wrk-theory-of-leisure-class-veblen,WRK-0812,عمل / كتاب,sociology,explicit,review-candidate,,739,content/en/works/wrk-theory-of-leisure-class-veblen.md
 wrk-theses-1929-prague-circle,WRK-12224,أثر,linguistics,explicit,review-candidate,,750,content/en/works/wrk-theses-1929-prague-circle.md
 wrk-thinking-fast-slow,WRK-0468,عمل / كتاب,psychology,explicit,review-candidate,,844,content/en/works/wrk-thinking-fast-slow.md
@@ -2908,7 +2908,7 @@ wrk-tristes-tropiques,ANT-13139,عمل / كتاب,anthropology,explicit,review-c
 wrk-trumpet-shall-sound-worsley,WRK-11820,عمل / كتاب,religious-studies,explicit,review-candidate,,508,content/en/works/wrk-trumpet-shall-sound-worsley.md
 wrk-two-dogmas,WRK-0476,عمل / مقالة,philosophy,explicit,review-candidate,,810,content/en/works/wrk-two-dogmas.md
 wrk-urban-culture,ANT-13271,عمل / كتاب,anthropology,explicit,review-candidate,declared-gaps,533,content/en/works/wrk-urban-culture.md
-wrk-virtues-professions,WRK-10065,عمل / كتاب,ethics,explicit,review-candidate,,999,content/en/works/wrk-virtues-professions.md
+wrk-virtues-professions,WRK-10065,عمل / كتاب,ethics,explicit,review-candidate,,995,content/en/works/wrk-virtues-professions.md
 wrk-visual-piety-morgan,WRK-11959,عمل / كتاب,religious-studies,explicit,review-candidate,,698,content/en/works/wrk-visual-piety-morgan.md
 wrk-when-religion-meets-new-media-campbell,WRK-11945,عمل / كتاب,religious-studies,explicit,review-candidate,,378,content/en/works/wrk-when-religion-meets-new-media-campbell.md
 wrk-why-we-dance-lamothe,WRK-12318,عمل / كتاب,religious-studies,explicit,review-candidate,,382,content/en/works/wrk-why-we-dance-lamothe.md

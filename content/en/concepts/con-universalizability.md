@@ -40,5 +40,5 @@ Kant's universalizability test is often compared with the "Golden Rule" shared b
 
 ## Sources
 
-- Kant, Immanuel. *Groundwork of the Metaphysics of Morals*. Translated and edited by Mary Gregor. Cambridge University Press, 1997 (original 1785).
+- Kant, Immanuel. *Groundwork of the Metaphysics of Morals*. Translated and edited by Mary Gregor. Cambridge University Press, 1998 (original 1785).
 - Hegel, G. W. F. *Elements of the Philosophy of Right*. 1821. Edited by Allen W. Wood, translated by H. B. Nisbet. Cambridge University Press, 1991.

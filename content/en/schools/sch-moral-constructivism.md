@@ -55,5 +55,6 @@ The amendability of international rules is at once an advantage and a drawback. 
 - Rawls, John. *A Theory of Justice*. Harvard University Press, 1971.
 - Rawls, John. *Political Liberalism*. Columbia University Press, 1993.
 - Korsgaard, Christine. *The Sources of Normativity*. Cambridge University Press, 1996.
+- Habermas, Jürgen. *Moral Consciousness and Communicative Action*. Translated by Christian Lenhardt and Shierry Weber Nicholsen. Cambridge, MA: MIT Press, 1990.
 - Street, Sharon. "Constructivism about Reasons." *Oxford Studies in Metaethics* 3 (2008).
 - Parfit, Derek. *On What Matters*. Oxford University Press, 2011.

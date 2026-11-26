@@ -38,5 +38,6 @@ The tension between partiality and impartiality appears clearly in public policy
 
 - al-Ghazali, Abu Hamid. *Ihya' ʿUlum al-Din*. Dar al-Maʿrifa, Beirut, 1982.
 - Williams, Bernard. *Moral Luck*. Cambridge University Press, 1981 (includes "Persons, Character and Morality").
+- Scheffler, Samuel. *The Rejection of Consequentialism*. Clarendon Press, 1982.
 - Nagel, Thomas. *The View from Nowhere*. Oxford University Press, 1986.
 - Singer, Peter. *The Expanding Circle*. Clarendon Press, 1981.

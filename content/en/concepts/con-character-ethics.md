@@ -39,4 +39,5 @@ The main objection to character ethics comes from experimental social psychology
 - Miskawayh. *The Refinement of Character* (*Tahdhib al-Akhlaq*). Translated by Constantine K. Zurayk. American University of Beirut, 1968.
 - Anscombe, G. E. M. "Modern Moral Philosophy." *Philosophy*, vol. 33, no. 124, 1958.
 - Ibn Hazm al-Andalusi. *al-Akhlaq wa al-Siyar fi Mudawat al-Nufus*. Andalusi ethical treatise (d. 1064).
+- Harman, Gilbert. "Moral Philosophy Meets Social Psychology: Virtue Ethics and the Fundamental Attribution Error." *Proceedings of the Aristotelian Society* 99, 1999.
 - Doris, John M. *Lack of Character: Personality and Moral Behavior*. Cambridge University Press, 2002.

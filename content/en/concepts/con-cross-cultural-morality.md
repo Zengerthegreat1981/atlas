@@ -36,6 +36,8 @@ The hardest methodological question remains: who has the right to decide what is
 
 ## Sources
 
+- Sumner, William Graham. *Folkways*. Ginn, 1906.
+- Benedict, Ruth. *Patterns of Culture*. Houghton Mifflin, 1934.
 - Rachels, James. *The Elements of Moral Philosophy*. McGraw-Hill, 1986.
 - Nussbaum, Martha. *Women and Human Development: The Capabilities Approach*. Cambridge University Press, 2000.
 - al-Shatibi, Ibrahim ibn Musa. *al-Muwafaqat fi Usul al-Shari'a*. Dar Ibn Affan, 1997.

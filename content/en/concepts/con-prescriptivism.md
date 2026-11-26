@@ -23,7 +23,7 @@ Prescriptivism is a theory in the philosophy of moral language holding that mora
 
 ## Roots in Islamic Ethical Thought
 
-Prescriptivism was not formulated in its contemporary analytic form in the Islamic tradition, but the debate of the jurists (*usuliyyun*) on the nature of the "legal ruling" (*hukm shar'i*) carries a close echo of it. The jurists defined the ruling as "the address of God related to the actions of the legally responsible, either as a demand or as an option." In essence, it is a form of direction and command, not a descriptive statement about an event. This comes close to the idea of "direction" on which prescriptivists rely.Legal theorists such as al-Amidi also distinguished between a statement (*khabar*), which admits of truth and falsehood, and a performative or directive utterance (*insha'*), which does not, and classed commands and prohibitions with the latter, which corresponds, for contemporary prescriptivists, to the distinction between a moral judgment and a descriptive statement. The essential difference, however, is that for the jurists this utterance proceeds from the absolute will of God, not from a general rational human judgment as in the case of Hare.
+Prescriptivism was not formulated in its contemporary analytic form in the Islamic tradition, but the debate of the jurists (*usuliyyun*) on the nature of the "legal ruling" (*hukm shar'i*) carries a close echo of it. The jurists defined the ruling as "the address of God related to the actions of the legally responsible, either as a demand or as an option." In essence, it is a form of direction and command, not a descriptive statement about an event. This comes close to the idea of "direction" on which prescriptivists rely. Legal theorists also distinguished between a statement (*khabar*), which admits of truth and falsehood, and a performative or directive utterance (*insha'*), which does not, and classed commands and prohibitions with the latter, which corresponds, for contemporary prescriptivists, to the distinction between a moral judgment and a descriptive statement. The essential difference, however, is that for the jurists this utterance proceeds from the absolute will of God, not from a general rational human judgment as in the case of Hare.
 
 ## The Theory of R. M. Hare
 
@@ -41,4 +41,4 @@ When someone says, "one should not discriminate in hiring on the basis of sex," 
 
 - Hare, R. M. *The Language of Morals*. Oxford University Press, 1952.
 - Hare, R. M. *Moral Thinking: Its Levels, Method, and Point*. Oxford University Press, 1981.
-- al-Amidi, Sayf al-Din. *al-Ihkam fi Usul al-Ahkam*. Dar al-Kutub al-ʿIlmiyya, 1983.
+- al-Amidi, Sayf al-Din. *al-Ihkam fi Usul al-Ahkam*. Edited by Sayyid al-Jumayli. Dar al-Kitab al-ʿArabi, 1984.

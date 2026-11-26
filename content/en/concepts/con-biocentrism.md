@@ -23,7 +23,7 @@ Biocentrism is a position in environmental ethics holding that every living orga
 
 ## Historical Context
 
-The American philosopher Paul Taylor is the most important figure to have formulated this position systematically, in his book *Respect for Nature* (1986). He built his theory on the idea that every living organism is a "teleological center of life" that pursues its own biological ends, and that this alone suffices to grant it an independent moral standing separate from its usefulness to humans. An earlier ancestor is Albert Schweitzer's "reverence for life." Biocentrism is distinct from the "land ethic" formulated by Aldo Leopold in *A Sand County Almanac* (1949), which holds that an action is right when it tends to preserve the integrity, stability, and beauty of the biotic community; that view is usually classed as ecocentric, as is the "deep ecology" movement founded by the Norwegian philosopher Arne Naess.
+The American philosopher Paul Taylor is a leading figure in formulating this position systematically, in his book *Respect for Nature* (1986). He built his theory on the idea that every living organism is a "teleological center of life" that pursues its own biological ends, and that this alone suffices to grant it an independent moral standing separate from its usefulness to humans. An earlier ancestor is Albert Schweitzer's "reverence for life." Biocentrism is distinct from the "land ethic" formulated by Aldo Leopold in *A Sand County Almanac* (1949), which holds that an action is right when it tends to preserve the integrity, stability, and beauty of the biotic community; that view is usually classed as ecocentric, as is the "deep ecology" movement associated with the Norwegian philosopher Arne Naess.
 
 ## Principal Positions
 

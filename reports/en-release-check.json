@@ -6,7 +6,7 @@
     "edge-target-by-name": 2430,
     "pending": 63,
     "short": 54,
-    "declared-gaps": 359,
+    "declared-gaps": 357,
     "placeholder": 32,
     "no-title": 32,
     "part-not-explicit": 44,
@@ -70,7 +70,9 @@
       "con-content-analysis"
     ],
     "declared-gaps": [
+      "con-abortion-ethics",
       "con-act-vs-rule-utilitarianism",
+      "con-agent-centered-consequentialism",
       "con-agent-centered-duties",
       "con-ahliyya-legal-capacity-usul",
       "con-ancient-ethics-greece",
@@ -82,9 +84,7 @@
       "con-axis-mundi-sacred-space-eliade",
       "con-beneficence-nonmaleficence",
       "con-biocentrism",
-      "con-biogenetic-versus-cultural-kinship",
-      "con-business-virtue",
-      "con-caring-relationships"
+      "con-biogenetic-versus-cultural-kinship"
     ],
     "placeholder": [
       "con-bilateral",

@@ -12,7 +12,7 @@ active_end: "مستمر"
 edges: []
 related: []
 gaps:
-  - "Comprehensive expansion of primary sources: not yet covered."
+  - "Primary sources beyond the listed works: not yet covered"
 ---
 
 # Autonomy and Informed Consent

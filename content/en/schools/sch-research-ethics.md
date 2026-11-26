@@ -32,7 +32,7 @@ Hans Jonas, in his influential essay "Philosophical Reflections on Experimenting
 
 ## Contemporary Issues and Examples
 
-Over the past two decades, a "replication crisis" has emerged in psychology and medicine. Large-scale replication projects have shown that many published results fail to replicate. This has exposed problematic practices such as p-hacking (data dredging) to find a spurious statistical significance. Consider another example: a researcher studying a new drug discovers during analysis that the results do not support the original hypothesis. The researcher faces the temptation to exclude some "outlier" data in order to show a positive result that would ensure publication in a prestigious journal. A commitment to full disclosure of all data, even if it reduces the chances of publication, is the essence of what scientific integrity means in practice. The same holds for the hadith scholar's precision in his narration, which was a condition for its acceptance regardless of what he wished to prove.
+In recent years, a "replication crisis" has emerged in psychology and medicine. Large-scale replication projects have shown that many published results fail to replicate. This has exposed problematic practices such as p-hacking (data dredging) to find a spurious statistical significance. Consider another example: a researcher studying a new drug discovers during analysis that the results do not support the original hypothesis. The researcher faces the temptation to exclude some "outlier" data in order to show a positive result that would ensure publication in a prestigious journal. A commitment to full disclosure of all data, even if it reduces the chances of publication, is the essence of what scientific integrity means in practice. The same holds for the hadith scholar's precision in his narration, which was a condition for its acceptance regardless of what he wished to prove.
 
 ## Institutional Oversight and Review Boards
 
@@ -42,5 +42,6 @@ Institutional review boards have evolved into the principal regulatory instrumen
 
 - Beauchamp, Tom L., and James F. Childress. *Principles of Biomedical Ethics*. Oxford University Press, 1979.
 - Jonas, Hans. "Philosophical Reflections on Experimenting with Human Subjects." *Daedalus*, 1969.
+- Ibn al-Salah. *Ma'rifat Anwa' 'Ilm al-Hadith* (known as *Muqaddimat Ibn al-Salah*).
 - al-Khatib al-Baghdadi. *Al-Jami' li-Akhlaq al-Rawi wa-Adab al-Sami'* (The Comprehensive Collection on the Ethics of the Narrator and the Etiquette of the Listener).
 - Beecher, Henry K. "Ethics and Clinical Research." *New England Journal of Medicine* 274 (1966).

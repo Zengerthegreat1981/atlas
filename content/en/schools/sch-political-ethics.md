@@ -22,7 +22,7 @@ Political ethics is a branch of practical philosophy that examines the ethical s
 
 ## Historical Context
 
-This inquiry goes back to Plato's *Republic*, which proposed an ideal vision of the philosopher-ruler who governs through wisdom rather than self-interest. The most famous turning point in the history of the field, however, came with Machiavelli's *The Prince* (written 1513, published posthumously in 1532), which explicitly separated personal moral virtue from the effectiveness of political rule. Machiavelli held that a ruler may sometimes need to break traditional moral rules in order to preserve the state, and this laid the foundations for the tradition of "political realism." In the twentieth century, John Rawls reformulated political ethics around the idea of distributive justice in *A Theory of Justice* (1971). Michael Walzer, in *Just and Unjust Wars* (1977), developed a detailed ethical framework for regulating the resort to war (*jus ad bellum*) and conduct within it (*jus in bello*).
+This inquiry goes back to Plato's *Republic*, which proposed an ideal vision of the philosopher-ruler who governs through wisdom rather than self-interest. A much-discussed turning point in the history of the field came with Machiavelli's *The Prince* (written 1513, published posthumously in 1532), which explicitly separated personal moral virtue from the effectiveness of political rule. Machiavelli held that a ruler may sometimes need to break traditional moral rules in order to preserve the state, and the work is often cited as a landmark of the tradition of "political realism." In the twentieth century, John Rawls placed distributive justice at the center of political philosophy in *A Theory of Justice* (1971). Michael Walzer, in *Just and Unjust Wars* (1977), developed a detailed ethical framework for regulating the resort to war (*jus ad bellum*) and conduct within it (*jus in bello*).
 
 ## Foundations in Islamic Political Thought
 
@@ -51,6 +51,10 @@ All of these debates come together in assessing a contemporary foreign policy, s
 ## Sources
 
 - Machiavelli, Niccolò. *The Prince*. 1532.
+- Plato. *Republic*.
+- al-Mawardi, Abu al-Hasan. *al-Ahkam al-Sultaniyya*.
+- Ibn Khaldun, Abd al-Rahman. *al-Muqaddimah*.
+- Rawls, John. *A Theory of Justice*. Harvard University Press, 1971.
 - Walzer, Michael. *Just and Unjust Wars*. Basic Books, 1977.
 - Ibn Taymiyya, Ahmad. *Al-Siyasa al-Shar'iyya fi Islah al-Ra'i wa al-Ra'iyya* [Governance in Islamic Law: On Reforming the Ruler and the Ruled].
 - Weber, Max. "Politics as a Vocation" (1919).

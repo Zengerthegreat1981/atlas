@@ -12,7 +12,7 @@ active_end: "مستمر"
 edges: []
 related: []
 gaps:
-  - "Comprehensive expansion of the primary sources"
+  - "Primary sources on the juristic debate: not yet covered"
 ---
 
 # Abortion Ethics

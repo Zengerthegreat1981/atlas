@@ -47,7 +47,8 @@ Researchers distinguish three levels of ethical analysis in business. The indivi
 
 ## Sources
 
-- al-Ghazali, Abu Hamid. *Ihya' 'Ulum al-Din*. Dar al-Ma'rifa, Beirut.
+- al-Ghazali, Abu Hamid. *Ihya' 'Ulum al-Din*. Dar al-Ma'rifa, Beirut, 1982.
 - Freeman, R. Edward. *Strategic Management: A Stakeholder Approach*. Pitman, 1984.
 - Friedman, Milton. "The Social Responsibility of Business Is to Increase Its Profits." *The New York Times Magazine*, 13 September 1970.
+- Carroll, Archie B. "The Pyramid of Corporate Social Responsibility." *Business Horizons* 34, no. 4 (1991): 39-48.
 - Solomon, Robert C. *Ethics and Excellence: Cooperation and Integrity in Business*. Oxford University Press, 1992.

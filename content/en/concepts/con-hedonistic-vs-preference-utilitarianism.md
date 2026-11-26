@@ -43,3 +43,7 @@ This disagreement has a practical consequence for the treatment of animals. The 
 - Bentham, Jeremy. *An Introduction to the Principles of Morals and Legislation*. 1789.
 - Mill, John Stuart. *Utilitarianism*. Hackett Publishing, 2001.
 - Singer, Peter. *Practical Ethics*. Cambridge University Press, 2011.
+- Singer, Peter. *Animal Liberation*. New York Review / Random House, 1975.
+- Hare, R. M. *Moral Thinking: Its Levels, Method, and Point*. Oxford University Press, 1981.
+- Nozick, Robert. *Anarchy, State, and Utopia*. Basic Books, 1974.
+- de Lazari-Radek, Katarzyna, and Peter Singer. *The Point of View of the Universe*. Oxford University Press, 2014.

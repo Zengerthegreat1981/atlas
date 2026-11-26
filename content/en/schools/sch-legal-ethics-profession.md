@@ -26,7 +26,7 @@ The core of legal professional ethics revolves around a structural tension betwe
 
 ## Key Thinkers and Reference Points
 
-Al-Mawardi is a foundational reference in Islamic jurisprudence for formulating the conditions and method of the just judge, while Ibn al-Qayyim al-Jawziyya, in *I'lam al-Muwaqqi'in*, offered a profound critique of some jurists' and muftis' circumvention of the objectives of the Shari'a, establishing the concept of "forbidden stratagems" (*al-hiyal al-muharrama*), which resembles contemporary debates about lawyers exploiting procedural loopholes. In modern Western thought, Monroe Freedman, in his book *Lawyers' Ethics in an Adversary System* (1975), advanced the boldest defense of "absolute zeal" on behalf of the client, even in difficult criminal cases, a position that provoked wide debate lasting for decades. By contrast, Richard Wasserstrom (in "Lawyers as Professionals: Some Moral Issues," 1975) and William Simon (in *The Practice of Justice*, 1998) criticized this role-differentiated, morally neutral model (the "amoral advocate") and argued that lawyers remain responsible for the justice of the ends they serve, including by declining tactics that they regard as morally unjust even if they are formally legal.
+Al-Mawardi is a foundational reference in Islamic jurisprudence for formulating the conditions and method of the just judge, while Ibn al-Qayyim al-Jawziyya, in *I'lam al-Muwaqqi'in*, offered a profound critique of some jurists' and muftis' circumvention of the objectives of the Shari'a, discussing the category of "forbidden stratagems" (*al-hiyal al-muharrama*), which resembles contemporary debates about lawyers exploiting procedural loopholes. In modern Western thought, Monroe Freedman, in his book *Lawyers' Ethics in an Adversary System* (1975), advanced a prominent defense of "zealous" partisan advocacy on behalf of the client, even in difficult criminal cases, a position that provoked wide debate lasting for decades. By contrast, Richard Wasserstrom (in "Lawyers as Professionals: Some Moral Issues," 1975) and William Simon (in *The Practice of Justice*, 1998) criticized this role-differentiated, morally neutral model (the "amoral advocate") and argued that lawyers remain responsible for the justice of the ends they serve, including by declining tactics that they regard as morally unjust even if they are formally legal.
 
 ## Practical Test Cases
 
@@ -44,6 +44,8 @@ In most countries, the legal profession is subject to self-regulatory bodies (ba
 
 - al-Mawardi, Abu al-Hasan. *Adab al-Qadi*.
 - al-Mawardi, Abu al-Hasan. *al-Ahkam al-Sultaniyya* [The Ordinances of Government].
+- Ibn Qayyim al-Jawziyya. *I'lam al-Muwaqqi'in 'an Rabb al-'Alamin*.
+- Wasserstrom, Richard. "Lawyers as Professionals: Some Moral Issues." *Human Rights* 5, no. 1 (1975): 1-24.
 - Freedman, Monroe H. *Lawyers' Ethics in an Adversary System*. Bobbs-Merrill, 1975.
 - Simon, William H. *The Practice of Justice: A Theory of Lawyers' Ethics*. Harvard University Press, 1998.
 - Rhode, Deborah L. *In the Interests of Justice: Reforming the Legal Profession*. Oxford University Press, 2000.

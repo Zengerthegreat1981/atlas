@@ -29,5 +29,6 @@ This debate is also linked to the question of the method of moral inquiry itself
 ## Sources
 
 - Moore, G. E. *Principia Ethica*. Cambridge University Press, 1903.
+- Rawls, John. *A Theory of Justice*. Harvard University Press, 1971.
 - Ross, W. D. *The Right and the Good*. Oxford University Press, 1930.
 - al-Ghazali, Abu Hamid. *al-Mustasfa min ʿilm al-usul*. Dar al-Kutub al-ʿIlmiyya, 1993.

@@ -36,5 +36,5 @@ A driver who speeds and strikes a child is questioned, morally and legally, abou
 ## Sources
 
 - al-Baqillani, Abu Bakr. *al-Tamhid*. al-Maktaba al-Sharqiyya, 1957.
-- Strawson, P. F. "Freedom and Resentment." *Proceedings of the British Academy*, 1962.
-- Frankfurt, Harry. "Alternate Possibilities and Moral Responsibility." *The Journal of Philosophy*, 1969.
+- Strawson, P. F. "Freedom and Resentment." *Proceedings of the British Academy* 48 (1962): 187-211.
+- Frankfurt, Harry. "Alternate Possibilities and Moral Responsibility." *The Journal of Philosophy* 66, no. 23 (1969): 829-839.

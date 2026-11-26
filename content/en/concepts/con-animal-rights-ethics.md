@@ -12,7 +12,7 @@ active_end: "مستمر"
 edges: []
 related: []
 gaps:
-  - "Comprehensive expansion of primary sources: not yet covered."
+  - "Primary sources beyond the listed works: not yet covered"
 ---
 
 # Animal Rights
@@ -39,6 +39,7 @@ The debate over raising animals in intensive farming (factory farming) embodies 
 
 ## Sources
 
+- Bentham, Jeremy. *An Introduction to the Principles of Morals and Legislation*. 1789.
 - Singer, Peter. *Animal Liberation*. New York Review/Random House, 1975.
 - Regan, Tom. *The Case for Animal Rights*. University of California Press, 1983.
 - Cohen, Carl. "The Case for the Use of Animals in Biomedical Research." *New England Journal of Medicine* 315, 1986.

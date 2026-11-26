@@ -1,0 +1,90 @@
+con-abortion-ethics: gap reworded to "not yet covered" form
+con-act-vs-rule-utilitarianism: softened "first formulation of act utilitarianism" claim for Bentham; added al-Ghazali, Urmson, Brandt, Harsanyi to Sources; gap reworded
+con-agent-centered-consequentialism: added Portmore, Railton, Nagel to Sources (cited in text); gap reworded
+con-agent-centered-duties: added Nagel 1970 to Sources; gap reworded
+con-ancient-ethics-greece: Stoics Epictetus/Marcus Aurelius placed in Roman period; "Systematic Greek ethics began with Socrates" softened; al-Ghazali soul-powers attribution changed to Platonic-Aristotelian; added Plato, Anscombe, MacIntyre to Sources; gap reworded
+con-animal-rights-ethics: added Bentham to Sources; gap reworded
+con-autonomy-ethics: added Rawls 1971 to Sources
+con-autonomy-informed-consent: gap reworded
+con-beneficence-nonmaleficence: removed unverifiable "11th century" date for al-Raghib al-Isfahani
+con-biocentrism: removed "most important figure" overclaim for Taylor; deep ecology "founded" -> "associated with" Naess
+con-business-virtue: softened claim about al-Mawardi/Ibn Khaldun on etiquette of trade; added MacIntyre to Sources
+con-character-ethics: added Harman 1999 to Sources (cited in text)
+con-conflicts-professional: "Most codes" -> "Many codes"
+con-consequentialist-impartialism: added Scheffler 1982 to Sources (cited in text)
+con-cross-cultural-morality: added Sumner 1906 and Benedict 1934 to Sources (cited in text)
+con-dignity-concept: "most influential" Kant formulation softened
+con-duty-based-ethics: "most important founder" overclaim for Kant changed to "central figure"
+con-enlightenment-ethics: Bentham "founded classical utilitarianism" softened; added Bentham to Sources
+con-ethics-virtues-35: "commonly" -> "often" for unverifiable generalization
+con-ethics-virtues-40: removed unsupported attribution to Ibn Miskawayh on trustworthiness; added al-Ahkam al-Sultaniyya to Sources
+con-ethics-virtues-44: Kant 'most profound' / 'established' dignity softened to 'influential' / 'articulated'
+con-ethics-virtues-50: Ibn Hazm no longer framed as Sufi; typo fixed
+con-evolutionary-ethics: Ibn Khaldun attribution reworded; Darwin 'began with' softened; added Hamilton, Moore, Fehr-Gachter, Ibn Khaldun to Sources (cited in text)
+con-ethics-virtues-54: Tolstoy/Gandhi sentence corrected (satyagraha is Gandhi's)
+con-hedonistic-vs-preference-utilitarianism: added cited works (Hare, Nozick, Animal Liberation, de Lazari-Radek & Singer) to Sources
+con-humanity-as-end-in-itself: 'one of the most important' softened; 'actual utilitarianism' -> 'act utilitarianism'
+con-justice-rawls: removed shaky link of distributive justice to al-masalih al-mursala; reworded to zakat/nafaqat/maslaha
+con-justice-healthcare: added Daniels 1985 to Sources
+con-moral-emotion: added Haidt 2001 (cited social intuitionist model) to Sources
+con-moral-foundations: 'established by Bentham and Mill' -> 'associated with'
+con-moral-knowledge: added Rawls (reflective equilibrium) to Sources
+con-moral-luck-concept: removed unverifiable Susan Wolf attribution; 1976 Williams/Nagel publication details corrected; added Kant to Sources
+con-moral-responsibility: Strawson and Frankfurt citation details completed
+con-moral-subjectivism: 'crept into Sufi writings' softened; Hume 'determined' -> 'argued'
+con-moral-weakness: Davidson/addiction link softened; Ross translation revised by Brown; Plato Protagoras added to Sources
+con-narrative-identity-ethics: MacIntyre 'most prominent... established' softened
+con-organ-transplant-ethics: hadith wording corrected (bone of the dead) and attribution to Abu Dawud/Ibn Majah; Harvard 1968 report added to Sources
+con-partiality-impartiality: Scheffler added to Sources (cited in text)
+con-phenomenology-ethics: Levinas 'most important figure to have founded' softened
+con-prescriptivism: unverifiable al-Amidi khabar/insha' attribution made generic; al-Ihkam edition corrected (al-Jumayli, 1984); typo fixed
+con-social-contract: al-Farabi edition completed (Nader, 1968); Locke, Rousseau, Hume added to Sources (cited in text)
+con-stakeholder-theory: typo fixed in Friedman sentence
+con-sustainability-ethics: leftover link-label parentheticals removed
+con-ubuntu-african-ethics: leftover link-label parentheticals removed; unsupported Ubuntu-vs-Islamic 'fluid customary flexibility' comparison removed
+con-universalizability: Gregor Groundwork edition year aligned to 1998
+con-utilitarianism: Bentham 'founded' softened; 1789 publisher corrected (T. Payne); leftover link-label parenthetical removed
+con-virtue-confucianism: unsourced al-Mawardi/Ibn Taymiyya title references made generic
+con-virtue-consequentialism: Miskawayh edition replaced with Zurayk 1966
+con-virtue-development: Miskawayh edition replaced with Zurayk 1966
+con-whistleblowing: De George criteria corrected (permissible vs obligatory conditions); al-Izz edition corrected; Bok 1980 article added to Sources
+fld-applied-ethics: Sources completed with works cited in text (Thomson, Marquis, Singer, Regan, Vallor)
+fld-normative-ethics: Sidgwick 'most rigorous' superlative softened
+sch-african-ethics: 'most prominent' superlatives for Tempels and Hountondji softened
+sch-bioethics-principles: Russell & Burch (1959) added to Sources
+sch-buddhist-ethics: Buddhaghosa 'most comprehensive' softened; punctuation fix
+sch-business-ethics: Carroll 1991 added to Sources; al-Ghazali edition year added
+sch-care-ethics-feminist: Noddings 'first systematic' overclaim softened; Robinson added to Sources
+sch-consequentialism-utilitarianism: 'founded' (Bentham), 'most coherent', Sidgwick 'most rigorous' softened
+sch-deontological-ethics-kant: Groundwork quote aligned with Gregor translation; universalizability wording corrected; Broad 1930 added to Sources
+sch-engineering-ethics: gap removed; "Industrial Revolution led" softened; Vaughan 1996 added to Sources
+sch-history-non-western-ethics: Confucius "founded ... in the Analects" and Buddha "founded" corrected; Miskawayh source replaced with Zurayk 1968; "most prominent" and "three traditions share" softened; gap removed
+sch-history-western-ethics: Sophists "began", Aquinas/Kant "founded" softened; Zeno of Citium; gap removed
+sch-indigenous-ethics: gap removed; elders' fear generalization softened
+sch-legal-ethics-profession: Ibn al-Qayyim "establishing" and Freedman "boldest" softened; Ibn al-Qayyim and Wasserstrom added to Sources
+sch-medical-ethics-profession: "complete code", "established the principle", "global standard" overclaims softened
+sch-medical-ethics: Nuremberg Code "first instrument" overclaim softened; euthanasia claim qualified
+sch-moral-constructivism: Habermas 1990 added to Sources
+sch-moral-psychology: Piaget "founded the field" and "first empirical study" overclaims fixed; Piaget publisher, Greene 2001 and Hamlin/Wynn/Bloom 2007 added to Sources
+sch-moral-realism: Parfit 2011 added to Sources
+sch-moral-relativism: Benedict "pioneer" corrected (Boas and students); Harman 1975 added to Sources
+sch-political-ethics: Machiavelli "foundations" and Rawls "reformulated" softened; Plato, Mawardi, Ibn Khaldun, Rawls added to Sources
+sch-research-ethics: replication-crisis timeframe softened; Ibn al-Salah added to Sources
+sch-social-ethics: Ibn Khaldun "pioneering" softened; UBI-zakat claim softened; cited Islamic works added to Sources
+sch-virtue-ethics-aristotle: Hursthouse "most methodical" and Anscombe "spark" softened; phronesis wording corrected
+wrk-beyond-good-evil: will-to-power vs Darwin claim corrected to BGE 13 self-preservation point
+wrk-capability-approach-sen: "demonstrated"/"profoundly" softened
+wrk-caring-noddings: Claudia Card attribution removed (unconfirmed)
+wrk-critique-practical-reason: categorical imperative formula marked as Groundwork-style wording
+wrk-deep-ecology: Plumwood 1993 added to Sources
+wrk-environmental-ethics-rolston: "first comprehensive" and "founder" overclaims softened
+wrk-ethics-inventing-right-wrong: "clearest"/"every course" overclaims softened; Dworkin 1996 and Parfit 2011 added to Sources
+wrk-groundwork-kant: both quotations aligned with Gregor translation; "weakest", "founding text" softened; Foot 1972 added to Sources
+sch-deontological-ethics-kant: Gregor Groundwork edition year aligned to 1998
+wrk-moral-development-kohlberg: sample size "about seventy-five" replaced with "several dozen"; Heinz stage attribution corrected to Stage 5 or 6
+wrk-moral-emotions-prinz: Greene attributed as critic removed; "warmly received" softened
+wrk-nicomachean-ethics-aristotle: quotation attributed to Ross translation, Ross added to Sources; al-Farabi "studied" softened
+wrk-principles-biomedical-ethics: "most widely taught" softened
+wrk-stakeholder-capitalism: Qur'an 24:33 reference added; unsupported "most companies" generalization attributed to critics
+wrk-theory-of-justice-rawls: "sparked a revolution" softened; Nozick "adopted the same contractual form" removed
+wrk-virtues-professions: virtue list no longer attributed to MacIntyre himself; hisba "classified" softened

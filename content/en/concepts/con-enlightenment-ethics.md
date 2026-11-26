@@ -27,7 +27,7 @@ Before this European turning point, the Islamic civilization had conducted a sim
 
 In Europe, Descartes laid the foundations of a rigorous rationalist method, which was later transferred to ethics. Spinoza, in his *Ethics* (published posthumously in 1677), developed a geometric system that deduces virtue from the rational nature of the human being. The decisive moment, however, came with Immanuel Kant. In *Foundations of the Metaphysics of Morals* (1785), he established the principle of the categorical imperative. It holds that the moral act is what the agent can will as a universal law without contradiction, and that the human being is an end in themselves and not a means.
 
-On the other side, David Hume developed an opposing empirical position. He affirmed that reason is "the slave of the passions" and that the basis of moral judgment is sympathy, not abstract inference. Adam Smith developed a related account of sympathy in *The Theory of Moral Sentiments* (1759). In parallel, Jean-Jacques Rousseau developed a theory of the general will and of the natural goodness of humans before society corrupted them. Toward the end of this period, Jeremy Bentham, in *An Introduction to the Principles of Morals and Legislation* (1789), founded classical utilitarianism, which evaluates an act by its tendency to promote the greatest happiness of the greatest number.
+On the other side, David Hume developed an opposing empirical position. He affirmed that reason is "the slave of the passions" and that the basis of moral judgment is sympathy, not abstract inference. Adam Smith developed a related account of sympathy in *The Theory of Moral Sentiments* (1759). In parallel, Jean-Jacques Rousseau developed a theory of the general will and of the natural goodness of humans before society corrupted them. Toward the end of this period, Jeremy Bentham, in *An Introduction to the Principles of Morals and Legislation* (1789), gave classical utilitarianism its best-known early systematic statement; it evaluates an act by its tendency to promote the greatest happiness of the greatest number.
 
 ## Main Positions and Tensions
 
@@ -40,4 +40,5 @@ A fundamental tension runs between two main currents. The rationalist Kantian cu
 - Kant, Immanuel. *Groundwork of the Metaphysics of Morals*. Cambridge University Press, 1998.
 - Hume, David. *A Treatise of Human Nature*. Oxford University Press, 2000.
 - Averroes (Ibn Rushd). *On the Harmony of Religion and Philosophy* (*Fasl al-Maqal*). Translated by George F. Hourani. Luzac, 1961.
+- Bentham, Jeremy. *An Introduction to the Principles of Morals and Legislation*. 1789.
 - Smith, Adam. *The Theory of Moral Sentiments*. 1759.

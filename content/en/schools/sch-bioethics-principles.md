@@ -53,5 +53,6 @@ A parallel debate branches from this framework concerning the ethics of using an
 
 - Beauchamp, Tom L., and James F. Childress. *Principles of Biomedical Ethics*. Oxford University Press, 1979.
 - National Commission for the Protection of Human Subjects of Biomedical and Behavioral Research. *The Belmont Report*. 1979.
+- Russell, W. M. S., and R. L. Burch. *The Principles of Humane Experimental Technique*. Methuen, 1959.
 - Jonsen, Albert R. *The Birth of Bioethics*. Oxford University Press, 1998.
 - International Islamic Fiqh Academy. *Resolutions and Recommendations of the Council of the Islamic Fiqh Academy*. Jeddah: Organisation of Islamic Cooperation.

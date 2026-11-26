@@ -42,6 +42,7 @@ During a pandemic in which the number of critically ill patients exceeds the num
 ## Sources
 
 - Rawls, John. *A Theory of Justice*. Harvard University Press, 1971.
+- Daniels, Norman. *Just Health Care*. Cambridge University Press, 1985.
 - Daniels, Norman. *Just Health: Meeting Health Needs Fairly*. Cambridge University Press, 2008.
 - Beauchamp, Tom L., and James F. Childress. *Principles of Biomedical Ethics*. 8th ed. Oxford University Press, 2019.
 - al-Shatibi, Ibrahim ibn Musa. *al-Muwafaqat fi Usul al-Shari'a*. Dar Ibn 'Affan, 1997.

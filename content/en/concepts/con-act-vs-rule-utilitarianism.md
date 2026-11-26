@@ -13,7 +13,7 @@ edges:
 - rel: "belongs_to", target: "Consequentialism and Utilitarianism", target_type: "مدرسة"
 related: []
 gaps:
-  - "Comprehensive expansion of primary sources: not yet covered."
+  - "Primary sources on the modern debate beyond the listed works: not yet covered"
 ---
 
 # Act vs Rule Utilitarianism
@@ -28,7 +28,7 @@ This dichotomy was not formulated in its modern terms in the Islamic heritage. H
 
 ## Historical Context in Western Philosophy
 
-Modern utilitarianism arose at the hands of Jeremy Bentham in his *An Introduction to the Principles of Morals and Legislation* (1789), in which he formulated the principle of utility as a standard for calculating the pleasure and pain of each act separately, which is regarded as the first formulation of act utilitarianism. John Stuart Mill developed this principle in his book *Utilitarianism* (1861). However, some interpreters, notably J. O. Urmson in "The Interpretation of the Moral Philosophy of J. S. Mill" (1953), found in Mill's treatment of secondary principles and moral rules a foreshadowing of rule utilitarianism. Explicit formulations were developed in the mid-twentieth century, particularly by Richard Brandt (for example in "Toward a Credible Form of Utilitarianism," 1963) and later John Harsanyi ("Rule Utilitarianism and Decision Theory," 1977). They proposed that moral judgment should be directed at general rules rather than individual acts, in order to avoid paradoxes that arise from calculating utility case by case.
+Modern utilitarianism arose at the hands of Jeremy Bentham in his *An Introduction to the Principles of Morals and Legislation* (1789), in which he formulated the principle of utility as a standard for calculating the pleasure and pain of each act separately, a formulation that is commonly read as act-utilitarian. John Stuart Mill developed this principle in his book *Utilitarianism* (1861). However, some interpreters, notably J. O. Urmson in "The Interpretation of the Moral Philosophy of J. S. Mill" (1953), found in Mill's treatment of secondary principles and moral rules a foreshadowing of rule utilitarianism. Explicit formulations were developed in the mid-twentieth century, particularly by Richard Brandt (for example in "Toward a Credible Form of Utilitarianism," 1963) and later John Harsanyi ("Rule Utilitarianism and Decision Theory," 1977). They proposed that moral judgment should be directed at general rules rather than individual acts, in order to avoid paradoxes that arise from calculating utility case by case.
 
 ## Main Objections
 
@@ -40,4 +40,8 @@ A well-known objection to act utilitarianism is that it may justify acts that ar
 - Mill, John Stuart. *Utilitarianism*. 1861.
 - Lyons, David. *Forms and Limits of Utilitarianism*. Oxford University Press, 1965.
 - Smart, J. J. C., and Bernard Williams. *Utilitarianism: For and Against*. Cambridge University Press, 1973.
+- al-Ghazali, Abu Hamid. *al-Mustasfa min 'Ilm al-Usul*.
+- Urmson, J. O. "The Interpretation of the Moral Philosophy of J. S. Mill." *The Philosophical Quarterly* 3, 1953.
+- Brandt, Richard. "Toward a Credible Form of Utilitarianism." 1963.
+- Harsanyi, John. "Rule Utilitarianism and Decision Theory." *Erkenntnis* 11, 1977.
 - al-Shatibi, Abu Ishaq. *al-Muwafaqat fi Usul al-Shari'a*. Dar Ibn Affan, 1997.

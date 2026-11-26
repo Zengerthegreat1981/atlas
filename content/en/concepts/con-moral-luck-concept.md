@@ -22,11 +22,11 @@ This term was not formulated as such in the theological (*kalam*) or jurispruden
 
 ## Origins of the Concept in Western Philosophy
 
-The term was coined by Bernard Williams and Thomas Nagel in two contemporaneous essays in 1976, both entitled "Moral Luck." Williams gave the example of the painter Gauguin, who abandoned his family to devote himself to art in Tahiti. Our final moral judgment on his decision depends partly on his later artistic success, which was not guaranteed at the time he made the choice. Nagel classified moral luck into four types: outcome luck (for example, the difference between a careless driver who hits a child and an equally careless driver who encounters no one); circumstance luck (for example, someone who lived in Nazi Germany and faced a moral test that someone living elsewhere did not face); constitutive luck (the individual's temperament and inherited disposition); and causal luck (the determination of our actions by a chain of causes preceding our existence).
+The term was coined by Bernard Williams and Thomas Nagel in two essays published together in 1976 (*Proceedings of the Aristotelian Society*, Supplementary Volume 50), both entitled "Moral Luck." Williams gave the example of the painter Gauguin, who abandoned his family to devote himself to art in Tahiti. Our final moral judgment on his decision depends partly on his later artistic success, which was not guaranteed at the time he made the choice. Nagel classified moral luck into four types: outcome luck (for example, the difference between a careless driver who hits a child and an equally careless driver who encounters no one); circumstance luck (for example, someone who lived in Nazi Germany and faced a moral test that someone living elsewhere did not face); constitutive luck (the individual's temperament and inherited disposition); and causal luck (the determination of our actions by a chain of causes preceding our existence).
 
 ## The Philosophical Problem and Objections
 
-The heart of the problem lies in what Nagel called the gradual "erosion" of moral responsibility. The more closely we analyze, the more we find that every element of a moral act ultimately depends on factors beyond the agent's will, to the point that the idea of "moral desert" almost vanishes. Some philosophers rejected this radical conclusion and called for revising our understanding of responsibility rather than abandoning it; Susan Wolf, for example, argued that some outcome-dependence is compatible with sensible practices of responsibility. Others, following Kant (long before the term was formulated), insisted that luck does not affect the moral worth of a good will. On that view, the weight we give to outcomes belongs to our practical, legal or social reactions rather than to the moral assessment of the agent.
+The heart of the problem lies in what Nagel called the gradual "erosion" of moral responsibility. The more closely we analyze, the more we find that every element of a moral act ultimately depends on factors beyond the agent's will, to the point that the idea of "moral desert" almost vanishes. Some philosophers rejected this radical conclusion and called for revising our understanding of responsibility rather than abandoning it. Others, following Kant (long before the term was formulated), insisted that luck does not affect the moral worth of a good will. On that view, the weight we give to outcomes belongs to our practical, legal or social reactions rather than to the moral assessment of the agent.
 
 ## Illustrative Example
 
@@ -34,5 +34,6 @@ Two drivers, equally negligent in running a red light, are involved in the same 
 
 ## Sources
 
+- Kant, Immanuel. *Groundwork of the Metaphysics of Morals*. Translated by Mary Gregor. Cambridge University Press, 1998.
 - Nagel, Thomas. *Mortal Questions*. Cambridge University Press, 1979.
 - Williams, Bernard. *Moral Luck: Philosophical Papers 1973-1980*. Cambridge University Press, 1981.

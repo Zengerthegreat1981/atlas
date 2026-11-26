@@ -42,4 +42,5 @@ Strict application of impartiality faces a significant practical objection. Must
 
 - Sidgwick, Henry. *The Methods of Ethics*. Macmillan, 1874.
 - Singer, Peter. "Famine, Affluence, and Morality." *Philosophy & Public Affairs*, 1972.
+- Scheffler, Samuel. *The Rejection of Consequentialism*. Oxford University Press, 1982.
 - Smart, J. J. C., and Bernard Williams. *Utilitarianism: For and Against*. Cambridge University Press, 1973.

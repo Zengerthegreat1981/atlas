@@ -35,10 +35,11 @@ Muslim philosophers addressed related questions through their psychology and eth
 
 ## Contemporary Significance
 
-Contemporary philosophers, such as Donald Davidson in his well-known essay "How Is Weakness of the Will Possible?", take up this question in order to understand contemporary psychological phenomena such as addiction. The addict knows with certainty the harm of substance use but repeatedly submits to it, which keeps the discussion of akrasia highly relevant in clinical psychology and the philosophy of voluntary action.
+Contemporary philosophers, such as Donald Davidson in his well-known essay "How Is Weakness of the Will Possible?", take up this question, and the problem is often linked to phenomena such as addiction. The addict knows with certainty the harm of substance use but repeatedly submits to it, which keeps the discussion of akrasia highly relevant in clinical psychology and the philosophy of voluntary action.
 
 ## Sources
 
-- Aristotle. *Nicomachean Ethics*. Translated by W. D. Ross, Oxford University Press, 2009.
+- Plato. *Protagoras*.
+- Aristotle. *Nicomachean Ethics*. Translated by W. D. Ross, revised by Lesley Brown, Oxford University Press, 2009.
 - Ibn Miskawayh, Ahmad ibn Muhammad. *Tahdhib al-Akhlaq*. Edited by Constantine Zurayk, American University of Beirut, 1966.
 - Davidson, Donald. "How Is Weakness of the Will Possible?" (1970), in *Essays on Actions and Events*. Oxford University Press, 1980.

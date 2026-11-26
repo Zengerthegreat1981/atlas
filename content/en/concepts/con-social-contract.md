@@ -35,7 +35,10 @@ David Hume objected ("Of the Original Contract," 1748) that most people never ac
 
 ## Sources
 
+- Locke, John. *Two Treatises of Government*. Edited by Peter Laslett. Cambridge University Press, 1988.
+- Rousseau, Jean-Jacques. *The Social Contract* (1762).
+- Hume, David. "Of the Original Contract." In *Essays, Moral, Political, and Literary*, edited by Eugene F. Miller. Liberty Fund, 1987.
 - Hobbes, Thomas. *Leviathan*. Edited by Richard Tuck. Cambridge University Press, 1996.
 - Pateman, Carole. *The Sexual Contract*. Stanford University Press, 1988.
 - Rawls, John. *A Theory of Justice*. Harvard University Press, 1971.
-- al-Farabi, Abu Nasr. *Ara' Ahl al-Madina al-Fadila*. Dar al-Mashriq, Beirut.
+- al-Farabi, Abu Nasr. *Ara' Ahl al-Madina al-Fadila*. Edited by Albert Nasri Nader. Dar al-Mashriq, Beirut, 1968.

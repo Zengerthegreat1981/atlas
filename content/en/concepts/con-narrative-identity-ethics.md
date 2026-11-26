@@ -22,7 +22,7 @@ Although the term itself was not formulated in the Islamic heritage, its content
 
 ## The Origin of the Modern Concept: MacIntyre and Ricoeur
 
-The Scot Alasdair MacIntyre is the most prominent figure to have established this concept, in *After Virtue* (1981). He argued that understanding any single human action requires placing it within a broader "narrative unity," namely the life of the agent. He held that virtue itself is realized only within a narrative tradition that gives actions their meaning and defines the ends that human life as a whole pursues. The Frenchman Paul Ricoeur developed the idea philosophically in *Oneself as Another*. He distinguished between "idem" identity, which is fixed sameness, and "ipse" selfhood, which is formed through narrative. He proposed that "emplotment" is the tool that makes the individual cohesive despite his changes over time.
+The Scot Alasdair MacIntyre is a leading figure in developing this concept, in *After Virtue* (1981). He argued that understanding any single human action requires placing it within a broader "narrative unity," namely the life of the agent. He held that virtue itself is realized only within a narrative tradition that gives actions their meaning and defines the ends that human life as a whole pursues. The Frenchman Paul Ricoeur developed the idea philosophically in *Oneself as Another*. He distinguished between "idem" identity, which is fixed sameness, and "ipse" selfhood, which is formed through narrative. He proposed that "emplotment" is the tool that makes the individual cohesive despite his changes over time.
 
 ## Its Moral Importance and Objections
 

@@ -13,7 +13,7 @@ edges:
 - rel: "belongs_to", target: "Deontological Ethics", target_type: "مدرسة"
 related: []
 gaps:
-  - "Comprehensive expansion of primary sources: not yet covered."
+  - "Primary sources beyond the listed works: not yet covered"
 ---
 
 # Agent-Centered Duties
@@ -39,4 +39,5 @@ Utilitarians object that this distinction justifies a disguised moral egoism: wh
 - Scheffler, Samuel. *The Rejection of Consequentialism*. Oxford University Press, 1982.
 - Williams, Bernard. "A Critique of Utilitarianism." In J. J. C. Smart and B. Williams, *Utilitarianism: For and Against*. Cambridge University Press, 1973.
 - Parfit, Derek. *Reasons and Persons*. Oxford University Press, 1984.
+- Nagel, Thomas. *The Possibility of Altruism*. Oxford University Press, 1970.
 - Williams, Bernard. *Ethics and the Limits of Philosophy*. Harvard University Press, 1985.

@@ -23,7 +23,7 @@ Business virtue (*Business Virtue*) is the application of Aristotelian virtue et
 
 ## Roots in Islamic Thought
 
-Islamic law contains a detailed ethical framework for commerce. Jurists regarded honesty and trustworthiness as essential conditions for the validity of a transaction. A hadith states: "The honest and trustworthy merchant is with the prophets, the truthful, and the martyrs," an explicit link between personal virtue and eschatological standing. Al-Mawardi and Ibn Khaldun elaborated on the etiquette of earning and trade. Al-Ghazali, in *Ihya' Ulum al-Din* (The Revival of the Religious Sciences), devoted a full section to the "etiquette of earning and livelihood," in which he warned against fraud, hoarding, and usury, and called for leniency in selling and for granting time to the debtor who is in difficulty. In *Tahdhib al-Akhlaq* (The Refinement of Character), Ibn Miskawayh treated justice and liberality as virtues bound up with moderating the appetitive faculty, and greed as the corresponding vice, an outlook that can be applied to commercial conduct.
+Islamic law contains a detailed ethical framework for commerce. Jurists regarded honesty and trustworthiness as essential conditions for the validity of a transaction. A hadith states: "The honest and trustworthy merchant is with the prophets, the truthful, and the martyrs," an explicit link between personal virtue and eschatological standing. Al-Mawardi and Ibn Khaldun also discussed earning and livelihood in their works. Al-Ghazali, in *Ihya' Ulum al-Din* (The Revival of the Religious Sciences), devoted a full section to the "etiquette of earning and livelihood," in which he warned against fraud, hoarding, and usury, and called for leniency in selling and for granting time to the debtor who is in difficulty. In *Tahdhib al-Akhlaq* (The Refinement of Character), Ibn Miskawayh treated justice and liberality as virtues bound up with moderating the appetitive faculty, and greed as the corresponding vice, an outlook that can be applied to commercial conduct.
 
 ## Western Roots
 
@@ -37,5 +37,6 @@ Critics argue that competitive market logic sometimes rewards those who abandon 
 
 - Solomon, Robert C. *Ethics and Excellence: Cooperation and Integrity in Business*. Oxford University Press, 1992.
 - al-Ghazali, Abu Hamid. *Ihya' Ulum al-Din*, book on the etiquette of earning and livelihood (*Adab al-Kasb wa al-Ma'ash*).
+- MacIntyre, Alasdair. *After Virtue*. University of Notre Dame Press, 1981.
 - Heath, Joseph. *Morality, Competition, and the Firm*. Oxford University Press, 2014.
 - Ibn Miskawayh, Ahmad ibn Muhammad. *Tahdhib al-Akhlaq*. Edited by Constantine Zurayk, American University of Beirut, 1966.

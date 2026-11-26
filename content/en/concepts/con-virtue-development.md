@@ -37,5 +37,5 @@ The method of habituation has been objected to on the ground that it may produce
 ## Sources
 
 - Aristotle. *Nicomachean Ethics*. Translated by W. D. Ross, revised by Lesley Brown. Oxford University Press, 2009.
-- Ibn Miskawayh, Ahmad ibn Muhammad. *Tahdhib al-Akhlaq wa Tathir al-A'raq*. Maktabat al-Thaqafa al-Diniyya, 2011.
+- Ibn Miskawayh, Ahmad ibn Muhammad. *Tahdhib al-Akhlaq wa Tathir al-A'raq*. American University of Beirut, 1966 (edited by Constantine Zurayk).
 - al-Farabi, Abu Nasr. *Tahsil al-Sa'ada*. Dar al-Andalus, 1983.

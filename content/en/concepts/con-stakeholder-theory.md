@@ -19,7 +19,7 @@ gaps:
 
 ## Meaning and Definition
 
-Stakeholder theory is a theory in business ethics and corporate management. It holds that a company should not be run solely to serve shareholders by maximizing profit, but to serve the interests of all "stakeholders" affected by its activity: employees, customers, suppliers, the surrounding community, and the environment, alongside shareholders. The theory stands in direct opposition to the thesis of the economist Milton Friedman that that "the social responsibility of business is to increase its profits" (New York Times Magazine, 1970), while conforming to the basic rules of society.
+Stakeholder theory is a theory in business ethics and corporate management. It holds that a company should not be run solely to serve shareholders by maximizing profit, but to serve the interests of all "stakeholders" affected by its activity: employees, customers, suppliers, the surrounding community, and the environment, alongside shareholders. The theory stands in direct opposition to the thesis of the economist Milton Friedman that "the social responsibility of business is to increase its profits" (New York Times Magazine, 1970), while conforming to the basic rules of society.
 
 ## Roots in Islamic Jurisprudence on Shared Interests
 

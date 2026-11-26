@@ -38,4 +38,5 @@ It is objected that total reliance on moral emotions may mislead the person who 
 ## Sources
 
 - Ibn Miskawayh, Abu ʿAli. *Tahdhib al-Akhlaq*; English trans. Constantine Zurayk, *The Refinement of Character*. American University of Beirut, 1968.
+- Haidt, Jonathan. "The Emotional Dog and Its Rational Tail: A Social Intuitionist Approach to Moral Judgment." *Psychological Review* 108, no. 4 (2001): 814-834.
 - Haidt, Jonathan. *The Righteous Mind*. Pantheon Books, 2012.

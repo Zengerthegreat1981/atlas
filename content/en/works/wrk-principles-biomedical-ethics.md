@@ -18,7 +18,7 @@ gaps: []
 
 # Principles of Biomedical Ethics
 
-A reference work by **Tom Beauchamp** and **James Childress**, first published in 1979 and reissued in successive editions (the eighth edition appeared in 2019). It became the most widely taught text in biomedical ethics courses around the world, and a practical tool used in drafting institutional medical ethics committee guidelines and clinical research protocols.
+A reference work by **Tom Beauchamp** and **James Childress**, first published in 1979 and reissued in successive editions (the eighth edition appeared in 2019). It became one of the most widely used texts in biomedical ethics courses around the world, and a practical tool used in drafting institutional medical ethics committee guidelines and clinical research protocols.
 
 ## Historical Context: From the Tuskegee Scandal to the Belmont Report
 

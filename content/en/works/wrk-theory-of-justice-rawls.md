@@ -38,7 +38,7 @@ Rawls directs a central critique at utilitarianism, which dominated British mora
 
 ## Reception and Criticism
 
-The book sparked a revolution in political philosophy and restored the standing of the social contract tradition. It faced sharp criticism from several directions. Robert Nozick, in *Anarchy, State, and Utopia* (1974), objected that the difference principle justifies continual redistribution that violates the right to property legitimately acquired. Communitarians, such as Michael Sandel, objected that the image of the self behind the veil of ignorance presupposes an abstract subject detached from its organic social attachments, which is not realistic. Amartya Sen and others offered a critique from the standpoint of capabilities. They argued that focusing on the distribution of "primary goods" overlooks the differences among individuals in their ability to convert these goods into actual well-being.
+The book had a major influence on political philosophy and restored the standing of the social contract tradition. It faced sharp criticism from several directions. Robert Nozick, in *Anarchy, State, and Utopia* (1974), objected that the difference principle justifies continual redistribution that violates the right to property legitimately acquired. Communitarians, such as Michael Sandel, objected that the image of the self behind the veil of ignorance presupposes an abstract subject detached from its organic social attachments, which is not realistic. Amartya Sen and others offered a critique from the standpoint of capabilities. They argued that focusing on the distribution of "primary goods" overlooks the differences among individuals in their ability to convert these goods into actual well-being.
 
 ## Later Development: From "Comprehensive Theory" to "Political Liberalism"
 
@@ -50,7 +50,7 @@ Rawls adds an important condition to the difference principle: the **priority of
 
 ## Its Place in the Revival of the Social Contract Tradition
 
-The book restored the standing of a philosophical tradition (Hobbes, Locke, Rousseau, Kant) that had receded in favor of utilitarian dominance throughout the nineteenth and twentieth centuries. It offered a contemporary form that replaces a story of the origin of society (as in the classical contract theories) with an explicitly hypothetical thought experiment (the Original Position). This made the book a governing methodological model even for its critics, such as Nozick, who adopted the same contractual form in order to draw conclusions opposite to Rawls's.
+The book restored the standing of a philosophical tradition (Hobbes, Locke, Rousseau, Kant) that had receded in favor of utilitarian dominance throughout the nineteenth and twentieth centuries. It offered a contemporary form that replaces a story of the origin of society (as in the classical contract theories) with an explicitly hypothetical thought experiment (the Original Position). This made the book a governing methodological model even for its critics, such as Nozick, who argued for conclusions opposite to Rawls's.
 
 ## Sources
 

@@ -38,4 +38,4 @@ Consider a hypothetical doctor who withholds the full seriousness of an elderly 
 
 - Hursthouse, Rosalind. *On Virtue Ethics*. Oxford University Press, 1999.
 - Driver, Julia. *Uneasy Virtue*. Cambridge University Press, 2001.
-- Ibn Miskawayh, Ahmad ibn Muhammad. *Tahdhib al-Akhlaq wa Tathir al-A'raq*. Maktabat al-Thaqafa al-Diniyya, 2011.
+- Ibn Miskawayh, Ahmad ibn Muhammad. *Tahdhib al-Akhlaq wa Tathir al-A'raq*. American University of Beirut, 1966 (edited by Constantine Zurayk).

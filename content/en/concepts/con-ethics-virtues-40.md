@@ -20,7 +20,7 @@ Integrity ethics (Integrity Ethics) is the system of values that makes the prese
 
 ## Foundations in the Islamic Tradition
 
-The Holy Qur'an treats trust (*amanah*) as a central axis. It describes it as something that "the heavens and the earth and the mountains refused to bear, and were apprehensive of it, but the human being bore it," which indicates its existential weight. In *Adab al-Dunya wa al-Din*, al-Mawardi discussed trustworthiness among the qualities of upright character and social order. Ibn Miskawayh regarded trustworthiness as the fruit of truthfulness and justice together, inseparable from them, since the betrayer in practice lies when they show loyalty while concealing treachery. Al-Ghazali, in *Ihya' 'Ulum al-Din*, linked trustworthiness to soundness of the heart, regarding betrayal of trust as one of the signs of practical hypocrisy, as stated in the prophetic hadith: "and when he is entrusted, he betrays."
+The Holy Qur'an treats trust (*amanah*) as a central axis. It describes it as something that "the heavens and the earth and the mountains refused to bear, and were apprehensive of it, but the human being bore it," which indicates its existential weight. In *Adab al-Dunya wa al-Din*, al-Mawardi discussed trustworthiness among the qualities of upright character and social order. Al-Ghazali, in *Ihya' 'Ulum al-Din*, linked trustworthiness to soundness of the heart, regarding betrayal of trust as one of the signs of practical hypocrisy, as stated in the prophetic hadith: "and when he is entrusted, he betrays."
 
 ## The Western Philosophical Context
 
@@ -38,4 +38,5 @@ In Islamic political thought, trust extends to the trust of governance itself. J
 
 - al-Ghazali, Abu Hamid. *Ihya' 'Ulum al-Din*. Multiple editions.
 - Williams, Bernard. "A Critique of Utilitarianism." In J. J. C. Smart and Bernard Williams, *Utilitarianism: For and Against*. Cambridge University Press, 1973.
+- al-Mawardi, Abu al-Hasan. *al-Ahkam al-Sultaniyya*. Multiple editions.
 - al-Mawardi, Abu al-Hasan. *Adab al-Dunya wa al-Din*. Multiple editions.
