@@ -4,6 +4,7 @@ id: THK-1741
 type: مفكر
 part: sociology
 level: متوسط
+quality: "unverified"
 title: Patricia Hill Collins
 en: Patricia Hill Collins
 crumb: "Sociology ← Patricia Hill Collins"

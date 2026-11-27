@@ -4,7 +4,7 @@ id: SOC-14153
 type: مفكر
 part: sociology
 level: متوسط
-quality: "incomplete"
+quality: "incomplete, unverified"
 title: Ali Al-Wardi
 en: Ali Al-Wardi
 crumb: Sociology ← Ali Al-Wardi

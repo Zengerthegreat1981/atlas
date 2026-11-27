@@ -4,6 +4,7 @@ id: SOC-14326
 type: عمل
 part: sociology
 level: متوسط
+quality: "unverified"
 title: Risk Society
 en: Risk Society
 crumb: Sociology ← Works ← Risk Society

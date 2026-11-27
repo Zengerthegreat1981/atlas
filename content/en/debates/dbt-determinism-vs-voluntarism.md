@@ -4,6 +4,7 @@ id: SOC-14498
 type: جدل
 part: sociology
 level: متوسط
+quality: "unverified"
 title: Determinism versus Voluntarism
 en: Determinism versus Voluntarism
 crumb: Sociology ← Debates ← Determinism versus Voluntarism

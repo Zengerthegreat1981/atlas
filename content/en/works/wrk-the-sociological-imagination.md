@@ -4,6 +4,7 @@ id: SOC-14303
 type: عمل
 part: sociology
 level: متوسط
+quality: "unverified"
 title: The Sociological Imagination
 en: The Sociological Imagination
 crumb: Sociology ← Works ← The Sociological Imagination

@@ -4,6 +4,7 @@ id: SOC-14249
 type: مفهوم
 part: sociology
 level: متوسط
+quality: "unverified"
 title: Cultural Relativism
 en: Cultural Relativism
 crumb: Sociology ← Cultural Relativism

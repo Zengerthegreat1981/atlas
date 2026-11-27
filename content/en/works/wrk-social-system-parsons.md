@@ -4,6 +4,7 @@ id: WRK-2500
 type: عمل
 part: sociology
 level: متوسط
+quality: "unverified"
 title: The Social System
 en: The Social System
 crumb: Sociology ← Works ← The Social System

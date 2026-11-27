@@ -4,6 +4,7 @@ id: SOC-14430
 type: تيار
 part: sociology
 level: متوسط
+quality: "unverified"
 title: Aging and Gerontology
 en: Aging and Gerontology
 crumb: Sociology ← Aging and Gerontology

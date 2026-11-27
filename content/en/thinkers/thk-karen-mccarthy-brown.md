@@ -4,6 +4,7 @@ id: "THK-11715"
 type: "مفكر"
 part: "religious-studies"
 level: "متقدم"
+quality: "unverified"
 title: "Karen McCarthy Brown"
 en: "Karen McCarthy Brown"
 crumb: "Religious Studies ← Thinkers ← Karen McCarthy Brown"
@@ -26,7 +27,7 @@ An American scholar of religion (died 2015), professor of sociology and anthropo
 
 ## Definition
 
-Brown's work marks an important methodological shift in the academic study of Haitian Vodou: a shift from the distant external anthropological description represented by an earlier generation of researchers, toward an intimate ethnographic method based on a long-term relationship of friendship and trust with a single informant, the Haitian priestess Alourdes Margaux, known as "Mama Lola".
+Brown's work marks an important methodological shift in the academic study of Haitian Vodou: a shift from the distant external anthropological description represented by an earlier generation of researchers, toward an intimate ethnographic method based on a long-term relationship of friendship and trust with a single informant, the Haitian priestess Alourdes, known as "Mama Lola" (the fuller name in the first edition of the book, ending "Margaux Kowalski", is a pseudonym).
 
 ## Historical Context
 

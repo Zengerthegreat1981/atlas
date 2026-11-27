@@ -4,6 +4,7 @@ id: SOC-14325
 type: عمل
 part: sociology
 level: متوسط
+quality: "unverified"
 title: The Constitution of Society
 en: The Constitution of Society
 crumb: Sociology ← The Constitution of Society

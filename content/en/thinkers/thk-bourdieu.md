@@ -4,6 +4,7 @@ id: THK-6377
 type: مفكر
 part: sociology
 level: متوسط
+quality: "unverified"
 title: Pierre Bourdieu
 en: Pierre Bourdieu
 crumb: "Sociology ← Pierre Bourdieu"

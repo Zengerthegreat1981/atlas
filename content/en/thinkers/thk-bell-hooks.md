@@ -4,6 +4,7 @@ id: SOC-14141
 type: مفكر
 part: sociology
 level: متوسط
+quality: "unverified"
 title: bell hooks
 en: bell hooks
 crumb: "Sociology ← bell hooks"

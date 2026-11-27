@@ -4,6 +4,7 @@ id: SOC-14311
 type: عمل
 part: sociology
 level: متوسط
+quality: "unverified"
 title: The Poverty of Philosophy
 en: The Poverty of Philosophy
 crumb: Sociology ← The Poverty of Philosophy

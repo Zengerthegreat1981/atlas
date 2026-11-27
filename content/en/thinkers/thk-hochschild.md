@@ -4,6 +4,7 @@ id: THK-6520
 type: مفكر
 part: sociology
 level: متوسط
+quality: "unverified"
 title: Arlie Russell Hochschild
 en: Arlie Russell Hochschild
 crumb: "Sociology ← Arlie Russell Hochschild"

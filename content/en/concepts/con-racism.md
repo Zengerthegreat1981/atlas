@@ -4,6 +4,7 @@ id: SOC-14247
 type: مفهوم
 part: sociology
 level: متوسط
+quality: "unverified"
 title: "Racism: Ideology, Structure, and Practice"
 en: "Racism"
 crumb: "Sociology ← Racism"

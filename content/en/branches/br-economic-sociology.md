@@ -4,6 +4,7 @@ id: SOC-14413
 type: تيار
 part: sociology
 level: متوسط
+quality: "unverified"
 title: Economic Sociology
 en: Economic Sociology
 crumb: Sociology ← Economic Sociology

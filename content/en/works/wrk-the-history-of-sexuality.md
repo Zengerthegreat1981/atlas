@@ -4,6 +4,7 @@ id: SOC-14324
 type: عمل
 part: sociology
 level: متوسط
+quality: "unverified"
 title: The History of Sexuality
 en: The History of Sexuality
 crumb: Sociology ← The History of Sexuality

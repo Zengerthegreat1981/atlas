@@ -4,7 +4,7 @@ id: "WRK-2401"
 type: "عمل / كتاب"
 part: "legal-theory"
 level: "متقدم"
-quality: "incomplete"
+quality: "incomplete, unverified"
 title: "Al-Mustasfa min 'Ilm al-Usul"
 author: "Abu Hamid al-Ghazali"
 author_slug: "thk-al-ghazali"
@@ -31,7 +31,7 @@ The best-known usulist treatise of Abu Hamid **al-Ghazali**, written late in his
 
 ## Structure and content
 
-After the logical introduction, the book divides usul al-fiqh into four major parts (called *aqtab*, "poles"): **the rulings** (their definition and divisions), **the evidences** (the Book, the Sunna, consensus, and then **analogy** in broad detail), **the manner of deduction** (ijtihad and the conflict of evidences), and **the one who derives rulings (the mujtahid)**. The section on analogy is the most influential in later literature.
+After the logical introduction, the book divides usul al-fiqh into four major parts (called *aqtab*, "poles"): **the rulings** (their definition and divisions), **the evidences** (the Book, the Sunna, consensus, and rational proof with presumption of continuity), **the manner of deduction** (the indications of language, and **analogy** in broad detail), and **the one who derives rulings (the mujtahid)**, including ijtihad and the conflict of evidences. The section on analogy is the most influential in later literature.
 
 ## Context: between al-Juwayni and the accumulation of usul knowledge
 
@@ -49,7 +49,7 @@ In the section on **istihsan** (juristic preference), al-Ghazali opposed the Han
 
 ## Conflict of evidence and its resolution
 
-The book devotes its section on the "manner of deduction" to the rules of **preference** (tarjih) when speculative evidences conflict, the conditions of **ijtihad**, the levels of mujtahids, and the question of whether every mujtahid is correct or only one is correct. On this question, al-Ghazali's position is generally reported as the view that every mujtahid is correct in the sense that God has no predetermined ruling for the disputed case apart from the outcome of sound ijtihad.
+The book devotes its final section, on the mujtahid, to the rules of **preference** (tarjih) when speculative evidences conflict, the conditions of **ijtihad**, the levels of mujtahids, and the question of whether every mujtahid is correct or only one is correct. On this question, al-Ghazali's position is generally reported as the view that every mujtahid is correct in the sense that God has no predetermined ruling for the disputed case apart from the outcome of sound ijtihad.
 
 ## Language and semantic indications
 

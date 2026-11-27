@@ -4,6 +4,7 @@ id: SOC-14507
 type: جدل
 part: sociology
 level: متوسط
+quality: "unverified"
 title: Authenticity versus Constructedness
 en: Authenticity versus Constructedness
 crumb: Sociology ← Debates ← Authenticity versus Constructedness

@@ -4,7 +4,6 @@ id: SOC-14480
 type: دراسة
 part: sociology
 level: متوسط
-quality: "unverified"
 title: "The Dignity Deficit"
 en: The Dignity Deficit
 crumb: "Sociology ← The Dignity Deficit"
@@ -22,7 +21,7 @@ gaps:
 
 ## The Research Tradition
 
-Sociologists have long argued that inequality involves a struggle over respect and moral worth as well as over income. Richard Sennett and Jonathan Cobb's *The Hidden Injuries of Class* (1972), based on interviews with working-class men in Boston, described how people who felt unable to command respect through occupation or education experienced their position as a personal failing and developed a strong concern for self-respect and independence. Michèle Lamont's *The Dignity of Working Men: Morality and the Boundaries of Race, Class, and Immigration* (2000), based on interviews with white and Black working-class men in the United States and France, showed how they defined their worth through moral standards such as discipline, responsibility and honesty, and drew boundaries against those they saw as lacking them. Arlie Russell Hochschild's *Strangers in Their Own Land* (2016) described a "deep story" among conservative white Louisianans, who felt that others were "cutting in line" ahead of them and that liberals disdained them.
+Sociologists have long argued that inequality involves a struggle over respect and moral worth as well as over income. Richard Sennett and Jonathan Cobb's *The Hidden Injuries of Class* (1972), based on interviews with working-class men and women in Boston, described how people who felt unable to command respect through occupation or education experienced their position as a personal failing and developed a strong concern for self-respect and independence. Michèle Lamont's *The Dignity of Working Men: Morality and the Boundaries of Race, Class, and Immigration* (2000), based on interviews with white and Black working-class men in the United States and white and North African working-class men in France, showed how they defined their worth through moral standards such as discipline, responsibility and honesty, and drew boundaries against those they saw as lacking them. Arlie Russell Hochschild's *Strangers in Their Own Land* (2016) described a "deep story" among conservative white Louisianans, who felt that others were "cutting in line" ahead of them and that liberals disdained them.
 
 ## Why It Matters
 

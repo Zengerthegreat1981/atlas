@@ -4,6 +4,7 @@ id: SOC-14439
 type: تيار
 part: sociology
 level: متوسط
+quality: "unverified"
 title: Cyber Sociology
 en: Cyber Sociology
 crumb: Sociology ← Cyber Sociology

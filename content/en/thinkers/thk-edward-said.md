@@ -4,6 +4,7 @@ id: SOC-14146
 type: مفكر
 part: sociology
 level: متوسط
+quality: "unverified"
 title: Edward Said
 en: Edward Said
 crumb: "Sociology ← Edward Said"

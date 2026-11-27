@@ -38,7 +38,7 @@ Turner adopted an innovative ethnographic method for interpreting the ritual sym
 
 ## The Ritual Context in Which the Triad Appears
 
-The triad appears in the girls' puberty ritual *Nkang'a* and in Ndembu rituals of affliction such as *Nkula* and *Isoma*, which Turner studied in the field between 1950 and 1954. In these rites the three colours are actually painted on the body of the initiate or on ritual objects (such as the milk tree, *mudyi*, central to Nkang'a), in a sequence that accompanies her transition from girlhood to womanhood. Thus the colour classificatory system is translated into a concrete ritual action that is reproduced generation after generation.
+The triad appears in the girls' puberty ritual *Nkang'a* and in Ndembu rituals of affliction such as *Nkula* and *Isoma*, which Turner studied in the field between 1950 and 1954. In these rites colour symbolism, above all that of white and red, is expressed on the body of participants and in ritual objects (such as the milk tree, *mudyi*, a white symbol central to Nkang'a, which accompanies the girl's transition to womanhood); Turner noted that black is seldom directly expressed. Thus the colour classificatory system is translated into a concrete ritual action that is reproduced generation after generation.
 
 ## Comparison with Other Traditions
 

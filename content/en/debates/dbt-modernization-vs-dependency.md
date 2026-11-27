@@ -4,6 +4,7 @@ id: SOC-14501
 type: جدل
 part: sociology
 level: متوسط
+quality: "unverified"
 title: Modernization versus Dependency
 en: Modernization versus Dependency
 crumb: Sociology ← Debates ← Modernization versus Dependency

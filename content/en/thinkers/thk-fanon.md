@@ -4,6 +4,7 @@ id: THK-0431
 type: مفكر
 part: sociology
 level: متوسط
+quality: "unverified"
 title: Frantz Fanon
 en: Frantz Fanon
 crumb: "Sociology ← Frantz Fanon"

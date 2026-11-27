@@ -38,7 +38,7 @@ The field that asks: **what is an emotion?** Is it an inherited biological progr
 
 ## Basic Emotions
 
-The Darwinian line holds that there is a limited number of evolutionarily selected emotions, each with a facial expression and a physiology. It was formulated by **Tomkins** and supported by **Paul Ekman** through his field research, the most famous being his work among the **Fore** of New Guinea (1971), a community with little contact with Western media, where he found recognition of particular expressions. From this he formulated the **Facial Action Coding System** (FACS) and the cultural "display rules" that modify an expression rather than create it.
+The Darwinian line holds that there is a limited number of evolutionarily selected emotions, each with a facial expression and a physiology. It was formulated by **Tomkins** and supported by **Paul Ekman** through his field research, the most famous being his work among the **Fore** of New Guinea (1971), a community with little contact with Western media, where he found recognition of particular expressions. He also described the cultural "display rules" that modify an expression rather than create it and, with Wallace Friesen, published the **Facial Action Coding System** (FACS, 1978), adapted from the work of the anatomist Carl-Herman Hjortsjö.
 
 ## Appraisal Theories
 

@@ -4,6 +4,7 @@ id: SOC-14241
 type: مفهوم
 part: sociology
 level: متوسط
+quality: "unverified"
 title: "Prejudice: Attitudes, Stereotypes, and Discrimination"
 en: "Prejudice"
 crumb: "Sociology ← Prejudice"

@@ -4,6 +4,7 @@ id: SOC-14495
 type: جدل
 part: sociology
 level: متوسط
+quality: "unverified"
 title: Functionalism versus Conflict
 en: Functionalism versus Conflict
 crumb: Sociology ← Debates ← Functionalism versus Conflict
@@ -20,7 +21,7 @@ Functionalism and conflict theory are the two great rival answers to sociology's
 
 ## The Functionalist Position: Integration through Shared Values
 
-Functionalism descends from Émile Durkheim, who argued in *The Division of Labour in Society* (1893) that modern societies are integrated not by likeness but by interdependence: the division of labour makes people need one another, and shared moral sentiments — the collective conscience — give that interdependence a binding force. Talcott Parsons gave this vision its most systematic form in *The Social System* (1951). For Parsons, a social system must solve four functional problems — adaptation, goal attainment, integration, and pattern maintenance (the AGIL scheme he elaborated in the early 1950s) — and institutions persist because they contribute to these functions. Socialisation and social control transmit shared values from one generation to the next, so order is ultimately a moral achievement: people obey norms because they have internalised them, not because they are forced to. Robert Merton, in *Social Theory and Social Structure* (1949), made functionalism more flexible and empirical. He distinguished manifest functions (intended consequences) from latent functions (unintended ones), introduced the concept of dysfunction, and insisted that not everything that exists is functional for everyone — a qualification that kept functionalism honest without abandoning its core claim that societies are integrated wholes.
+Functionalism descends from Émile Durkheim, who argued in *The Division of Labour in Society* (1893) that modern societies are integrated not by likeness but by interdependence: the division of labour makes people need one another, a bond that carries its own moral weight even as the shared sentiments of the collective conscience become weaker and less specific. Talcott Parsons gave this vision its most systematic form in *The Social System* (1951). For Parsons, a social system must solve four functional problems — adaptation, goal attainment, integration, and pattern maintenance (the AGIL scheme he elaborated in the early 1950s) — and institutions persist because they contribute to these functions. Socialisation and social control transmit shared values from one generation to the next, so order is ultimately a moral achievement: people obey norms because they have internalised them, not because they are forced to. Robert Merton, in *Social Theory and Social Structure* (1949), made functionalism more flexible and empirical. He distinguished manifest functions (intended consequences) from latent functions (unintended ones), introduced the concept of dysfunction, and insisted that not everything that exists is functional for everyone — a qualification that kept functionalism honest without abandoning its core claim that societies are integrated wholes.
 
 ## The Conflict Position: Order through Power
 

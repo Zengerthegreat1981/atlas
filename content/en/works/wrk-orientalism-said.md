@@ -4,6 +4,7 @@ id: WRK-0414
 type: عمل
 part: sociology
 level: متوسط
+quality: "unverified"
 title: Orientalism
 en: Orientalism
 crumb: Sociology ← Works ← Orientalism

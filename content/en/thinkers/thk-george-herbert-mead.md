@@ -4,6 +4,7 @@ id: SOC-14110
 type: مفكر
 part: sociology
 level: متوسط
+quality: "unverified"
 title: George Herbert Mead
 en: George Herbert Mead
 crumb: "Sociology ← George Herbert Mead"

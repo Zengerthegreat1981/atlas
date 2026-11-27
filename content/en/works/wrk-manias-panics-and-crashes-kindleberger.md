@@ -4,6 +4,7 @@ id: "WRK-20464"
 type: "عمل / كتاب"
 part: "political-economy"
 level: "متوسط"
+quality: "unverified"
 title: "Manias, Panics, and Crashes: A History of Financial Crises"
 author: "Charles Kindleberger"
 author_slug: null

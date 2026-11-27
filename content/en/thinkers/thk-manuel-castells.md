@@ -4,6 +4,7 @@ id: SOC-14134
 type: مفكر
 part: sociology
 level: متوسط
+quality: "unverified"
 title: Manuel Castells
 en: Manuel Castells
 crumb: "Sociology ← Manuel Castells"

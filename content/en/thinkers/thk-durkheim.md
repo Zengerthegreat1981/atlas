@@ -4,6 +4,7 @@ id: THK-6364
 type: مفكر
 part: sociology
 level: متوسط
+quality: "unverified"
 title: Émile Durkheim
 en: Émile Durkheim
 crumb: "Sociology ← Émile Durkheim"

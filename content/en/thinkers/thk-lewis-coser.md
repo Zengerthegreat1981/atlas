@@ -4,6 +4,7 @@ id: SOC-14123
 type: مفكر
 part: sociology
 level: متوسط
+quality: "unverified"
 title: Lewis Coser
 en: Lewis Coser
 crumb: "Sociology ← Lewis Coser"

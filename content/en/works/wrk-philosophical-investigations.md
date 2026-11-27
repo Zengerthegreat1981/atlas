@@ -4,6 +4,7 @@ id: SOC-14310
 type: عمل
 part: sociology
 level: متوسط
+quality: "unverified"
 title: Philosophical Investigations
 en: Philosophical Investigations
 crumb: Sociology ← Philosophical Investigations

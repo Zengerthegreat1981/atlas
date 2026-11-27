@@ -4,6 +4,7 @@ id: SOC-14334
 type: عمل
 part: sociology
 level: متوسط
+quality: "unverified"
 title: Institutional Ethnography
 en: Institutional Ethnography
 crumb: Sociology ← Institutional Ethnography

@@ -4,6 +4,7 @@ id: SOC-14274
 type: مفهوم
 part: sociology
 level: متوسط
+quality: "unverified"
 title: Normal Distribution
 en: Normal Distribution
 crumb: Sociology ← Normal Distribution
@@ -26,7 +27,7 @@ The importance of the normal distribution does not lie in the claim that social 
 
 ## Origins and Development
 
-The normal curve was first derived by Abraham de Moivre, who in a 1733 pamphlet (included in the second edition of *The Doctrine of Chances*, 1738) approximated the binomial distribution for large numbers of coin tosses. Carl Friedrich Gauss gave it its modern mathematical form in *Theoria motus corporum coelestium* (1809), using it to model errors in astronomical observation; for this reason the distribution is often called Gaussian. Gauss's insight was that if observational errors arise from many small independent causes, they will be distributed normally — a reasoning that later justified the method of least squares.
+The normal curve was first derived by Abraham de Moivre, who in a 1733 pamphlet (included in the second edition of *The Doctrine of Chances*, 1738) approximated the binomial distribution for large numbers of coin tosses. Carl Friedrich Gauss gave it its modern mathematical form in *Theoria motus corporum coelestium* (1809), using it to model errors in astronomical observation; for this reason the distribution is often called Gaussian. Gauss's argument started from the postulate that the arithmetic mean of repeated measurements is the most probable value; from this he derived the normal law of errors and used it to justify the method of least squares.
 
 The distribution entered the study of human variation through Adolphe Quetelet, who in *Sur l'homme* (1835) described the "average man" (*l'homme moyen*) and studied regularities in bodily measurements and in moral behaviour such as crime, suicide, and marriage, and who in work of the 1840s argued that variation in bodily measurements followed the law of error. Francis Galton, in *Natural Inheritance* (1889), developed this into a programme of measuring human variation and heredity, and devised the quincunx, a device that demonstrated how the normal curve emerges from the accumulation of many small random deflections. Ronald Fisher's *Statistical Methods for Research Workers* (1925) then carried the normal distribution into the toolkit of empirical research across the sciences, including the social sciences, making its assumptions and applications part of standard training.
 

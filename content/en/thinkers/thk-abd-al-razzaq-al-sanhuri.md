@@ -4,7 +4,7 @@ id: "THK-20008"
 type: "مفكر"
 part: "legal-theory"
 level: "متقدم"
-quality: "incomplete"
+quality: "incomplete, unverified"
 title: "Abd al-Razzaq al-Sanhuri"
 en: "Abd al-Razzaq al-Sanhuri"
 crumb: "Legal Theory ← Thinkers ← Abd al-Razzaq al-Sanhuri"
@@ -28,7 +28,7 @@ An Egyptian jurist, one of the leading drafters of civil law in the Arab world i
 
 ## Life and Context
 
-Sanhuri was born in Alexandria. He studied law in Egypt, then was sent to France, where he obtained two doctorates from Lyon: one (1925) on contractual restrictions on freedom of labour in English case law, and a second (1926) with a thesis entitled "The Caliphate and its Development into an Eastern League of Nations" (*Le Califat*), in which he examined the classical Islamic theory of the imamate and its fate after the abolition of the Ottoman caliphate in 1924. He returned to Egypt and held senior academic and judicial posts. He served as dean of the Faculty of Law at Cairo University and later as president of the Egyptian Council of State, and supervised the drafting of the Egyptian Civil Code, issued in 1948 and in force from 1949. In 1954 he was assaulted at the Council of State and removed from public office; sources differ on the political context. The influence of his work later extended to the drafting of civil codes in Iraq, Syria, Libya and Kuwait, which made him a major figure in the shaping of modern Arab civil law. He died in Cairo in 1971.
+Sanhuri was born in Alexandria. He studied law in Egypt, then was sent to France, where he obtained two doctorates from Lyon: one (1925) on contractual restrictions on freedom of labour in English case law, and a second (1926) with a thesis entitled "The Caliphate and its Development into an Eastern League of Nations" (*Le Califat*), in which he examined the classical Islamic theory of the imamate and its fate after the abolition of the Ottoman caliphate in 1924. He returned to Egypt and held senior academic and judicial posts. He served as dean of the Faculty of Law at Cairo University and later as president of the Egyptian Council of State, and supervised the drafting of the Egyptian Civil Code, issued in 1948 and in force from 1949. In 1954 he was assaulted at the Council of State and removed from public office; sources differ on the political context. The influence of his work later extended to the drafting of civil codes in Iraq, Syria, Libya and Kuwait, which made him a major figure in the shaping of modern Arab civil law. He died on 21 July 1971; accounts differ on whether in Alexandria or Cairo.
 
 ## Central Ideas
 

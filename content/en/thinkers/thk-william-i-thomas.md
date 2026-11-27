@@ -39,7 +39,7 @@ Thomas argued that human action cannot be explained by objective conditions alon
 
 ## Method
 
-*The Polish Peasant* is a landmark in the use of life histories and documents, including letters exchanged between Polish immigrants and their families, and a long life-history manuscript written by a young Polish immigrant, Wladek Wisniewski, as primary sociological data. Thomas advocated combining such materials with attention to both objective social conditions and subjective attitudes.
+*The Polish Peasant* is a landmark in the use of life histories and documents, including letters exchanged between Polish immigrants and their families, and a long life-history manuscript written by a young Polish immigrant, Wladek Wiszniewski, as primary sociological data. Thomas advocated combining such materials with attention to both objective social conditions and subjective attitudes.
 
 ## Influence and Criticism
 

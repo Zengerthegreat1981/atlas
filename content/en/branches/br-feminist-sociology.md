@@ -4,6 +4,7 @@ id: SOC-14404
 type: تيار
 part: sociology
 level: متوسط
+quality: "unverified"
 title: Feminist Sociology
 en: Feminist Sociology
 crumb: Sociology ← Feminist Sociology

@@ -4,6 +4,7 @@ id: SOC-14109
 type: مفكر
 part: sociology
 level: متوسط
+quality: "unverified"
 title: Charles Cooley
 en: Charles Cooley
 crumb: "Sociology ← Charles Cooley"

@@ -4,6 +4,7 @@ id: "ANT-13340"
 type: "مفهوم"
 part: anthropology
 level: "متوسط"
+quality: "unverified"
 title: "Colonial Psychology"
 en: "Colonial Psychology"
 crumb: "Anthropology ← Colonial Psychology"

@@ -4,6 +4,7 @@ id: THK-0859
 type: مفكر
 part: sociology
 level: متوسط
+quality: "unverified"
 title: Kimberlé Crenshaw
 en: Kimberlé Crenshaw
 crumb: "Sociology ← Kimberlé Crenshaw"

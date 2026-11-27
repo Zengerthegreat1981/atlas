@@ -4,6 +4,7 @@ id: SOC-14118
 type: مفكر
 part: sociology
 level: متوسط
+quality: "unverified"
 title: Barney Glaser
 en: Barney Glaser
 crumb: "Sociology ← Barney Glaser"

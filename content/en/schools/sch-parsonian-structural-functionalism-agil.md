@@ -6,6 +6,7 @@ part: sociology
 sociological_tradition: functionalist
 sociological_paradigm: macro
 level: متوسط
+quality: "unverified"
 title: Parsonian Structural Functionalism
 en: Parsonian Structural Functionalism
 crumb: Sociology ← Functionalism and Systems

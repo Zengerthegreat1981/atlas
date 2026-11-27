@@ -4,6 +4,7 @@ id: SOC-14335
 type: عمل
 part: sociology
 level: متوسط
+quality: "unverified"
 title: "Fighting Words: Black Women and the Search for Justice"
 en: Fighting Words
 crumb: "Sociology ← Works ← Fighting Words"

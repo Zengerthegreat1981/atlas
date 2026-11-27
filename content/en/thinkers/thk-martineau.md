@@ -4,6 +4,7 @@ id: THK-6370
 type: مفكر
 part: sociology
 level: متوسط
+quality: "unverified"
 title: Harriet Martineau
 en: Harriet Martineau
 crumb: "Sociology ← Harriet Martineau"

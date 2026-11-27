@@ -4,6 +4,7 @@ id: "SOC-14214"
 type: "مفهوم"
 part: sociology
 level: "متوسط"
+quality: "unverified"
 title: "Group: The Social Unit Between the Individual and Society"
 en: "Group"
 crumb: "Sociology ← Group"

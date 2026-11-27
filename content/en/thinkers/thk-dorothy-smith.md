@@ -4,6 +4,7 @@ id: SOC-14139
 type: مفكر
 part: sociology
 level: متوسط
+quality: "unverified"
 title: Dorothy Smith
 en: Dorothy Smith
 crumb: "Sociology ← Dorothy Smith"

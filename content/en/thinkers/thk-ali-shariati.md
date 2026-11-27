@@ -4,6 +4,7 @@ id: SOC-14149
 type: مفكر
 part: sociology
 level: متوسط
+quality: "unverified"
 title: Ali Shariati
 en: Ali Shariati
 crumb: "Sociology ← Ali Shariati"

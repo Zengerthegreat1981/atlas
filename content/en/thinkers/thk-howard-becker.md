@@ -4,6 +4,7 @@ id: THK-6382
 type: مفكر
 part: sociology
 level: متوسط
+quality: "unverified"
 title: Howard S. Becker
 en: Howard S. Becker
 crumb: "Sociology ← Howard S. Becker"
@@ -64,7 +65,7 @@ Becker often framed the question as how people do things together: institutions 
 
 ## Sources
 
-- Becker, Howard S. "Whose Side Are We On?" *American Sociological Review* 32, no. 3 (1967): 239–247.
+- Becker, Howard S. "Whose Side Are We On?" *Social Problems* 14, no. 3 (1967): 239–247.
 - Becker, Howard S. *Evidence*. University of Chicago Press, 2017.
 - Becker, Howard S. *Outsiders* (1963).
 - Becker, Howard S. *Art Worlds* (1982).

@@ -4,6 +4,7 @@ id: SOC-14128
 type: مفكر
 part: sociology
 level: متوسط
+quality: "unverified"
 title: Charles Tilly
 en: Charles Tilly
 crumb: "Sociology ← Charles Tilly"

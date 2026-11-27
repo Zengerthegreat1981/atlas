@@ -4,6 +4,7 @@ id: SOC-14315
 type: عمل
 part: sociology
 level: متوسط
+quality: "unverified"
 title: The Stranger
 en: The Stranger
 crumb: Sociology ← Works ← The Stranger

@@ -4,6 +4,7 @@ id: "DBT-11690"
 type: "جدل"
 part: "religious-studies"
 level: "متوسط"
+quality: "unverified"
 title: "Is 'Religion' an Adequate Category for Australian Aboriginal Systems?"
 en: "Is 'Religion' an Adequate Category for Australian Aboriginal Systems?"
 crumb: "Religious Studies ← Debates ← Is 'Religion' an Adequate Category for Australian Aboriginal Systems?"
@@ -43,7 +44,7 @@ The older debate set out above took place mainly within anthropological literatu
 
 ## Sources
 
-- Stanner, W.E.H. *White Man Got No Dreaming: Essays 1938-1973*. Australian National University Press, 1979 (reissued as *The Dreaming and Other Essays*, Black Inc., 2009).
+- Stanner, W.E.H. *White Man Got No Dreaming: Essays 1938-1973*. Australian National University Press, 1979 (see also the later selection *The Dreaming and Other Essays*, Black Inc., 2009).
 - Stanner, W.E.H. *On Aboriginal Religion*. Oceania Monographs, University of Sydney, 1966 (originally published in *Oceania*, 1959-63).
 - Elkin, A.P. *The Australian Aborigines: How to Understand Them*. Angus & Robertson, 1938.
 - Graham, Mary. "Some Thoughts about the Philosophical Underpinnings of Aboriginal Worldviews." *Worldviews: Environment, Culture, Religion*, 3, 1999.

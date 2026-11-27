@@ -98,6 +98,6 @@ Current discussion of the profane raises several questions: How do secular socie
 - Asad, Talal. *Formations of the Secular: Christianity, Islam, Modernity*. Stanford University Press, 2003.
 - Bourdieu, Pierre. *Outline of a Theory of Practice*. Cambridge University Press, 1977.
 - Douglas, Mary. *Purity and Danger: An Analysis of Concepts of Pollution and Taboo*. Routledge, 1966.
-- Durkheim, Émile. *The Elementary Forms of Religious Life*. Oxford University Press, 1912/1995.
+- Durkheim, Émile. *The Elementary Forms of Religious Life*. Translated by Karen E. Fields. Free Press, 1912/1995.
 - Geertz, Clifford. *The Interpretation of Cultures: Selected Essays*. Basic Books, 1973.
 - Turner, Victor W. *The Ritual Process: Structure and Anti-Structure*. Aldine Publishing, 1969.

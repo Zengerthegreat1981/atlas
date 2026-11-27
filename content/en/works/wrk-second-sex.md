@@ -4,6 +4,7 @@ id: WRK-0447
 type: عمل
 part: sociology
 level: متوسط
+quality: "unverified"
 title: The Second Sex
 en: The Second Sex
 crumb: Sociology ← Works ← The Second Sex

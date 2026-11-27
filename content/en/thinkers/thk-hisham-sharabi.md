@@ -4,6 +4,7 @@ id: SOC-14151
 type: مفكر
 part: sociology
 level: متوسط
+quality: "unverified"
 title: Hisham Sharabi
 en: Hisham Sharabi
 crumb: "Sociology ← Hisham Sharabi"

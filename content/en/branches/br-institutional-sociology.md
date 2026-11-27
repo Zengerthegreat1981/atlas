@@ -4,6 +4,7 @@ id: SOC-14452
 type: تيار
 part: sociology
 level: متوسط
+quality: "unverified"
 title: Institutional Sociology
 en: Institutional Sociology
 crumb: Sociology ← Institutional Sociology

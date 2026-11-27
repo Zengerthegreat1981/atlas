@@ -6,6 +6,7 @@ part: sociology
 sociological_tradition: interpretive
 sociological_paradigm: micro-macro
 level: متوسط
+quality: "unverified"
 title: Weberian Interpretive Sociology
 en: Weberian Interpretive Sociology
 crumb: Sociology ← Verstehen and Interpretation

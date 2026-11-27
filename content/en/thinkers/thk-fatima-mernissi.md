@@ -4,6 +4,7 @@ id: SOC-14152
 type: مفكر
 part: sociology
 level: متوسط
+quality: "unverified"
 title: Fatima Mernissi
 en: Fatima Mernissi
 crumb: "Sociology ← Fatima Mernissi"

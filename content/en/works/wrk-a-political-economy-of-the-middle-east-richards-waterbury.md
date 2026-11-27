@@ -4,6 +4,7 @@ id: "WRK-20487"
 type: "عمل / كتاب"
 part: "political-economy"
 level: "متقدم"
+quality: "unverified"
 title: "A Political Economy of the Middle East"
 author: "Alan Richards and John Waterbury"
 publication_year: 1990

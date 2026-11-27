@@ -38,7 +38,7 @@ Contemporary research distinguishes between two primary theoretical paradigms:
    - *Managing emotions*: Regulating emotions in oneself and others to achieve desired outcomes.
    The ability model is measured through objective, performance-based tests, most notably the Mayer-Salovey-Caruso Emotional Intelligence Test (MSCEIT), where responses are scored against consensus or expert criteria rather than self-evaluation.
 
-2. **Trait and Mixed Models**: Developed by Daniel Goleman and Reuven Bar-On (who coined the "Emotional Quotient" or EQ, operationalized via the EQ-i), and later formalized as "trait emotional intelligence" by K. V. Petrides. These models combine emotion-related self-perceptions, stress tolerance, empathy, optimism, and social competence. They are assessed primarily through self-report inventories such as the Trait Emotional Intelligence Questionnaire (TEIQue).
+2. **Trait and Mixed Models**: Developed by Daniel Goleman and Reuven Bar-On (who operationalized an "Emotional Quotient" or EQ via the EQ-i), and later formalized as "trait emotional intelligence" by K. V. Petrides. These models combine emotion-related self-perceptions, stress tolerance, empathy, optimism, and social competence. They are assessed primarily through self-report inventories such as the Trait Emotional Intelligence Questionnaire (TEIQue).
 
 ## Neighboring Concepts and Discriminant Validity
 

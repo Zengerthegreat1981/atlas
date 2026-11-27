@@ -4,6 +4,7 @@ id: THK-8560
 type: مفكر
 part: sociology
 level: متوسط
+quality: "unverified"
 title: James S. Coleman
 en: James S. Coleman
 crumb: "Sociology ← James S. Coleman"

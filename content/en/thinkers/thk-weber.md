@@ -63,7 +63,7 @@ Weber's concepts guide studies of organizations, charisma in politics, and the e
 ## Sources
 
 - Weber, M. (1905). *The Protestant Ethic and the Spirit of Capitalism*, trans. Talcott Parsons (1930).
-- Weber, M. (1922). *Economy and Society*, ed. G. Roth and C. Wittich (1968). University of California Press.
+- Weber, M. (1922). *Economy and Society*, ed. G. Roth and C. Wittich. New York: Bedminster Press, 1968; reprinted University of California Press, 1978.
 - Gerth, H. and Mills, C. W. (eds.) (1946). *From Max Weber: Essays in Sociology*. Oxford University Press.
 - Bendix, R. (1960). *Max Weber: An Intellectual Portrait*. Doubleday.
 - Radkau, J. (2009). *Max Weber: A Biography*. Polity.

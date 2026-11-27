@@ -61,6 +61,6 @@ Spencerian evolutionism stands at the origin of the macro-evolutionary tradition
 - Spencer, Herbert, ed. *Descriptive Sociology*. London: Williams and Norgate, 1873.
 - Francis, Mark. *Herbert Spencer and the Invention of Modern Life*. Ithaca: Cornell University Press, 2007.
 - Offer, John. *Herbert Spencer and Social Theory*. Basingstoke: Palgrave Macmillan, 2010.
-- Turner, Jonathan H., ed. *Herbert Spencer: A Renewed Appreciation*. Beverly Hills: Sage, 1985.
+- Turner, Jonathan H. *Herbert Spencer: A Renewed Appreciation*. Beverly Hills: Sage, 1985.
 - Carneiro, Robert L. "On the Relationship between Size of Population and Complexity of Social Organization." *Southwestern Journal of Anthropology*, 1967.
 - Turchin, Peter, et al. "Quantitative Historical Analysis Uncovers a Single Dimension of Complexity That Structures Global Variation in Human Social Organization." *Proceedings of the National Academy of Sciences*, 2018.

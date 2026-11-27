@@ -4,6 +4,7 @@ id: SOC-14305
 type: عمل
 part: sociology
 level: متوسط
+quality: "unverified"
 title: "Stigma: Notes on the Management of Spoiled Identity"
 en: Stigma
 crumb: "Sociology ← Works ← Stigma"

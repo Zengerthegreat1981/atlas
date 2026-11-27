@@ -4,6 +4,7 @@ id: "SCH-11684"
 type: "مدرسة"
 part: "religious-studies"
 level: "متقدم"
+quality: "unverified"
 religious_tradition: "Religions of the Indigenous peoples of North America (tribally diverse)"
 study_approach: "Comparative ecological-phenomenological (Hultkrantz), versus internal self-critique from within (Deloria)"
 title: "Academic Study of Native American Religions"
@@ -45,7 +46,7 @@ Hultkrantz's classificatory vocabulary (the healing shaman as a mediator with sp
 
 ## The Newer Generation: From Comparative Classification to Constructivist Critique and Historical Narrative
 
-Later scholars expanded the field in two different directions. Sam Gill took a different critical direction: instead of defending the authenticity of a tradition against an external classification, he himself, as an outside scholar, questioned the authenticity of the common concept of "Mother Earth", arguing that it is a modern construction rather than an ancient unified tribal belief, in his book *Mother Earth: An American Story* (1987). This provoked a sharp debate over who holds the authority to judge the authenticity of a religious tradition. Joel Martin took a third course: a narrative history of specific tribal traditions in their confrontation with colonialism, in *The Land Looks After Us* (1999), avoiding both the general comparative classification and comprehensive constructivist deconstruction. Christopher Vecsey wrote on the Ojibwa and the historical transformations of their religion (*Traditional Ojibwa Religion and Its Historical Changes*, 1983).
+Later scholars expanded the field in two different directions. Sam Gill took a different critical direction: instead of defending the authenticity of a tradition against an external classification, he himself, as an outside scholar, questioned the authenticity of the common concept of "Mother Earth", arguing that it is a modern construction rather than an ancient unified tribal belief, in his book *Mother Earth: An American Story* (1987). This provoked a sharp debate over who holds the authority to judge the authenticity of a religious tradition. Joel Martin took a third course: a narrative history of specific tribal traditions in their confrontation with colonialism, in *The Land Looks After Us* (2001; first published in 1999 as *Native American Religion*), avoiding both the general comparative classification and comprehensive constructivist deconstruction. Christopher Vecsey wrote on the Ojibwa and the historical transformations of their religion (*Traditional Ojibwa Religion and Its Historical Changes*, 1983).
 
 ## Indigenous Scholars after Deloria
 
@@ -68,7 +69,7 @@ The comparative study takes on board that a diverse range of peoples (from the I
 - Kehoe, Alice B. (2000). *Shamans and Religion: An Anthropological Exploration in Critical Thinking*. Waveland Press.
 - Vecsey, Christopher (1983). *Traditional Ojibwa Religion and Its Historical Changes*. American Philosophical Society.
 - Gill, Sam D. (1987). *Mother Earth: An American Story*. University of Chicago Press.
-- Martin, Joel W. (1999). *The Land Looks After Us: A History of Native American Religion*. Oxford University Press.
+- Martin, Joel W. (2001). *The Land Looks After Us: A History of Native American Religion*. Oxford University Press.
 - Tinker, George E. (1993). *Missionary Conquest: The Gospel and Native American Cultural Genocide*. Fortress Press.
 - Kidwell, Clara Sue, Homer Noley & George E. Tinker (2001). *A Native American Theology*. Orbis Books.
 - Pesantubbee, Michelene E. (2005). *Choctaw Women in a Chaotic World*. University of New Mexico Press.
