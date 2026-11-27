@@ -86,3 +86,47 @@ con-social-contract: badged: al-Farabi Nader edition year 1968 (other claims and
 con-stakeholder-theory: confirmed [https://www.accaglobal.com/gb/en/student/exam-support-resources/professional-exams-study-resources/strategic-business-leader/technical-articles/all-about-stakeholders-part-1.html]
 con-sustainability-ethics: confirmed [https://www.cbd.int/doc/ref/rio-declaration.shtml https://sunnah.com/ibnmajah:425]
 
+## s5a_05.txt
+con-ubuntu-african-ethics: confirmed
+con-universalizability: confirmed
+con-utilitarianism: badged: al-Muwafaqat Dar Ibn Affan edition year 1997 (publisher confirmed via shamela, year not); rest confirmed
+con-virtue-confucianism: confirmed
+con-whistleblowing: fixed hadith wording 'truth' to 'justice' (Abu Dawud 4344) [https://dorar.net/hadith/sharh/30907]; fixed Bok 1980 article title to 'Responsibility' [https://diversityreadinglist.org/whistleblowing-and-professional-responsibility/] | badged: Qawaid al-Ahkam editor Sad and 1991 date; Bowie's listed whistleblowing conditions
+con-virtue-development: confirmed
+sch-african-ethics: confirmed
+sch-bioethics-principles: confirmed
+sch-buddhist-ethics: confirmed
+sch-business-ethics: badged: Ihya Dar al-Ma'rifa 1982 edition year; rest confirmed
+sch-care-ethics-feminist: confirmed
+sch-confucian-ethics: confirmed
+con-ahliyya-legal-capacity-usul: confirmed puberty ages, Saudi art 12(2) [https://www.trans-lex.org/605650/], UAE reform | badged: school positions on discerning child's contracts (Hanafi, Maliki, Hanbali), rushd and Maliki woman conditions
+con-civil-law-codification: confirmed
+con-counter-majoritarian-difficulty-bickel: confirmed
+con-criminalization-theory: confirmed [https://gla.ac.uk/schools/law/research/groups/criminal-law/pastresearchprojects/criminalisation]
+con-hukm-taklifi-wadi-usul: confirmed
+con-ifta-mufti-legal-authority: confirmed sources, ECFR founding/consensus-or-majority [https://www.islamic-sharia.org/fatwa-committee] | badged: recording of dissent in ECFR; IIFA drafting-committee/voting procedure and MWL Fiqh Council similarity
+con-ijtihad-usul: badged: dating of the gate-closure discourse to the 4th century AH (Hallaq 1984 dates the discourse later; exact century not retrieved) [https://resolve.cambridge.org/core/journals/international-journal-of-middle-east-studies/article/abs/was-the-gate-of-ijtihad-closed/6CF0EAA05DBE9E2C324916E27BFFA371]; Ghazali, Amidi and Ibn Qudama condition summaries not checked against texts (Weiss, Hallaq sources confirmed)
+con-ikhtilaf-juristic-disagreement: confirmed Zysow, Abou El Fadl sources | badged: taswib/takhti'a attributions (Baqillani, Ghazali, Jubba'is, Ash'ari reports, Shirazi, Imami usulists)
+
+## s5a_06.txt
+con-judicial-review: confirmed (main cases, courts, dates, Kelsen/Ginsburg/Moustafa/Bickel records; general explanations as textbook)
+con-legal-families-comparative-law: badged: Sacco as critic of family classification; Sudan/Gulf common-law periods; Palmer's private-civil/public-common definition; rest confirmed [https://max-eup2012.mpipriv.de/index.php/Legal_Families]
+con-madhhab-legal-school-institution: badged (kept): Ibn al-Salah/Nawawi ranks, Makdisi licensing details and quotation, Usuli/marja', Ibadi institutions not confirmed; sources found, Baybars 663/1265 and al-Hadi d. 911 confirmed [https://en.wikipedia.org/wiki/Al-Hadi_ila%27l-Haqq_Yahya]
+con-maqasid-al-shariah-shatibi: badged: Shatibi's own ordering of the five necessities; Juwayni's threefold distinction in al-Burhan; rest confirmed [https://iiit.org/wp-content/uploads/Maqasid-Al-Shariah-as-Philosophy-of-Islamic-Law-A-Systems-Approach.pdf]
+con-maslaha-mursala-usul: badged: Ibn Qudama declining it as independent proof (sources only call him restrictive); Ghazali shields example and Zahiri rejection not directly looked up; Tufi, Qarafi confirmed [https://www.iium.edu.my/deed/lawbase/maliki_fiqh/usul10.html]
+con-nazariyyat-al-aqd-fiqh: badged: Shafi'i positions on mu'ata and minor's sale; Hanafi pillar/stage details; Sanhuri Masadir and Zarqa Madkhal works; Zuhayli publisher; unauthorized sale, majlis option, Ibn Taymiyya stipulations confirmed [https://en.wikishia.net/view/Bay%27_al-Fuduli]
+con-ottoman-codification-tanzimat-law: confirmed (code dates, Majalla, successor states, sources) [https://en.wikipedia.org/wiki/Mecelle]
+con-personal-status-law-arab-states: badged: Jordan 1951/1976/2010 laws, Syria 1975 and 2019 amendments, Morocco 1957-58 code and joint-responsibility wording; Qadri Pasha work not separately looked up; Egypt, Algeria, Gulf, Iraq 2025 confirmed [https://scholarblogs.emory.edu/islamic-family-law/legal-profiles/egypt-arab-republic-of/]
+con-popular-constitutionalism: confirmed (sources, Kramer, Siegel/Balkin, Amar; comparative remarks as textbook) [https://openlibrary.org]
+con-property-rights: confirmed (Kelo, 1789 Declaration art. 17, Abu Yusuf, Nozick; other points standard textbook) [https://en.wikipedia.org/wiki/Kelo_v._City_of_New_London]
+con-qada-judgeship-islamic-law: badged: Abu Yusuf judging in Baghdad before Harun (date of appointment disputed), absent-party and personal-knowledge school rules, Tyan edition, Qarafi title not confirmed; chief judge, Baybars, woman judge, Abu Hanifa inward effect confirmed [https://en.wikipedia.org/wiki/Abu_Yusuf]
+con-qawaid-fiqhiyya-legal-maxims: badged (kept): Qadi Husayn/Subki/Ibn Nujaym details, maxim-control examples, Zarqa comparison, edition data not confirmed; Heinrichs chapter confirmed [https://api.crossref.org]
+con-riba-legal-doctrine: badged: Sanhuri's need rationale, 2002 date of academy endorsement under Tantawi, Zuhayli publisher, school effective-cause details; 1965, 1991, 1999, review 2002 confirmed [https://www.dawn.com/news/44707] [https://en.wikipedia.org/wiki/Riba]
+con-rule-of-law: confirmed (Mohl, Carre de Malberg, 1971 decision, Venice 2011, sources; Dicey and theory points textbook) [https://rm.coe.int/1680700a8f]
+con-siyasa-shariyya-ibn-taymiyya: confirmed (Ibn Aqil report, bayyina, Ibn al-Qayyim d.751, Farrukh and Johansen records) [https://ar.wikisource.org/wiki/%D8%A7%D9%84%D8%B7%D8%B1%D9%82_%D8%A7%D9%84%D8%AD%D9%83%D9%85%D9%8A%D8%A9_%D9%81%D9%8A_%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%B3%D8%A9_%D8%A7%D9%84%D8%B4%D8%B1%D8%B9%D9%8A%D8%A9]
+sch-american-legal-realism: confirmed (Holmes, Leiter records, Frank fact-skepticism, Llewellyn, Scandinavians; rest textbook) [https://en.wikipedia.org/wiki/Jerome_Frank]
+sch-civil-law-tradition: confirmed (Chile, Argentina, Brazil, Ethiopia/David, Sanhuri, sources; rest textbook) [https://en.wikipedia.org/wiki/Civil_Code_of_Argentina]
+sch-common-law-tradition: badged: Islamic precedent-based "adjudication and fatwa" tradition and Abu Yusuf building on precedents; English legal history (1166, 1615, 1670, 1873-75, 1944, 1966) and sources confirmed [https://en.wikipedia.org/wiki/Practice_Statement]
+sch-constitutional-law-theory: confirmed (Duverger, Ginsburg/Huq, Jackson/Tushnet, NZ 1990; rest textbook) [https://api.crossref.org]
+sch-criminal-law-philosophy-responsibility: confirmed (M'Naghten, IDRA 1984, Martinson, Feinberg, Duff, von Hirsch; rest textbook) [https://en.wikipedia.org/wiki/Insanity_Defense_Reform_Act]
+

@@ -4,6 +4,7 @@ id: "CON-2235"
 type: "مفهوم"
 part: "ethics"
 level: "متوسط"
+quality: "unverified"
 title: "Whistleblowing"
 en: "Whistleblowing"
 crumb: "Ethics ← Concepts ← Whistleblowing"
@@ -22,11 +23,11 @@ Whistleblowing is the act by which a member of an organization (whether a compan
 
 ## The Position in Islamic Thought
 
-This concept finds strong support in the principle of *nasiha* (sincere counsel), which the Prophet ﷺ made the essence of religion: "Religion is sincere counsel." When asked, "To whom?" he said, "To God, to His Book, to His Messenger, to the leaders of the Muslims and to their common folk" (narrated by Muslim). This hadith is taken to establish a general duty of honest advice, including to those in authority. Related is the duty to "enjoin good and forbid evil," which, according to many jurists, applies when one is able and no greater harm would result, including in the face of injustice and corruption by those who hold power. The Prophet ﷺ said, "The best jihad is a word of truth before an unjust ruler" (narrated by Abu Dawud and al-Tirmidhi). Nevertheless, jurists restricted such duties by a weighing of benefits and harms, developed notably by al-Izz ibn Abd al-Salam in *Qawa'id al-Ahkam* and by al-Shatibi in *al-Muwafaqat*. A person should not disclose a wrongdoing if the harm resulting from disclosure would be greater than the harm of silence. Careful verification is also required to prevent baseless backbiting and slander.
+This concept finds strong support in the principle of *nasiha* (sincere counsel), which the Prophet ﷺ made the essence of religion: "Religion is sincere counsel." When asked, "To whom?" he said, "To God, to His Book, to His Messenger, to the leaders of the Muslims and to their common folk" (narrated by Muslim). This hadith is taken to establish a general duty of honest advice, including to those in authority. Related is the duty to "enjoin good and forbid evil," which, according to many jurists, applies when one is able and no greater harm would result, including in the face of injustice and corruption by those who hold power. The Prophet ﷺ said, "The best jihad is a word of justice before an unjust ruler" (narrated by Abu Dawud and al-Tirmidhi). Nevertheless, jurists restricted such duties by a weighing of benefits and harms, developed notably by al-Izz ibn Abd al-Salam in *Qawa'id al-Ahkam* and by al-Shatibi in *al-Muwafaqat*. A person should not disclose a wrongdoing if the harm resulting from disclosure would be greater than the harm of silence. Careful verification is also required to prevent baseless backbiting and slander.
 
 ## Treatment in Western Philosophy
 
-The philosopher Sissela Bok addressed disclosure in the context of the ethics of secrecy and confidentiality, in *Secrets* (1982) and in her 1980 essay "Whistleblowing and Professional Responsibilities." She analyzed the conflict between loyalty to the organization and obligations to the wider public, and argued that dissent must be weighed carefully against the harm of breaching confidentiality. The business ethicist Richard De George proposed criteria for external whistleblowing (directed at the public rather than only internal management). Roughly: the harm at stake must be serious; the employee should first have reported it internally and exhausted internal channels; the employee must have documented evidence that would convince a reasonable observer; and there must be a reasonable chance that going public will prevent the harm. He argued that when the harm is serious, it has been reported, and internal channels have been exhausted, whistleblowing is morally permissible, and that when the further conditions of convincing evidence and a reasonable chance of success are also met, it is a duty. These criteria have been widely discussed and criticized as too demanding.
+The philosopher Sissela Bok addressed disclosure in the context of the ethics of secrecy and confidentiality, in *Secrets* (1982) and in her 1980 essay "Whistleblowing and Professional Responsibility." She analyzed the conflict between loyalty to the organization and obligations to the wider public, and argued that dissent must be weighed carefully against the harm of breaching confidentiality. The business ethicist Richard De George proposed criteria for external whistleblowing (directed at the public rather than only internal management). Roughly: the harm at stake must be serious; the employee should first have reported it internally and exhausted internal channels; the employee must have documented evidence that would convince a reasonable observer; and there must be a reasonable chance that going public will prevent the harm. He argued that when the harm is serious, it has been reported, and internal channels have been exhausted, whistleblowing is morally permissible, and that when the further conditions of convincing evidence and a reasonable chance of success are also met, it is a duty. These criteria have been widely discussed and criticized as too demanding.
 
 ## Issues and Challenges
 
@@ -45,7 +46,7 @@ Legal texts include the United States False Claims Act of 1863, whose qui tam pr
 ## Sources
 
 - Bok, Sissela. *Secrets: On the Ethics of Concealment and Revelation*. Pantheon Books, 1982.
-- Bok, Sissela. "Whistleblowing and Professional Responsibilities." *New York University Education Quarterly* 11, no. 4 (1980): 2-10.
+- Bok, Sissela. "Whistleblowing and Professional Responsibility." *New York University Education Quarterly* 11, no. 4 (1980): 2-10.
 - De George, Richard T. *Business Ethics*. Macmillan, 1982 (later editions).
 - Ibn Abd al-Salam, al-Izz. *Qawa'id al-Ahkam fi Masalih al-Anam*. Edited by Taha Abd al-Ra'uf Sa'd. Maktabat al-Kulliyyat al-Azhariyya, 1991.
 - Nader, Ralph, Peter J. Petkas, and Kate Blackwell, eds. *Whistle Blowing*. Grossman, 1972.
