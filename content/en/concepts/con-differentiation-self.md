@@ -4,6 +4,7 @@ id: "CON-0818"
 type: "مفهوم"
 part: "psychology"
 level: "متوسط"
+quality: "unverified"
 title: "Differentiation of Self"
 en: "Differentiation of Self"
 crumb: "Psychology ← Concepts ← Differentiation of Self"
@@ -57,4 +58,4 @@ In clinical practice, Bowenian family therapy focuses on coaching individuals to
 - Murray Bowen, *Family Therapy in Clinical Practice*, 1978.
 - Michael E. Kerr & Murray Bowen, *Family Evaluation: An Approach Based on Bowen Theory*, 1988.
 - Elizabeth A. Skowron & Myrna L. Friedlander, "The Differentiation of Self Inventory: Development and Initial Validation", *Journal of Counseling Psychology*, 1998.
-- Peter Titelman (ed.), *Differentiation of Self: Bowen Family Systems Theory Perspectives*, 2008.
+- Peter Titelman (ed.), *Differentiation of Self: Bowen Family Systems Theory Perspectives*, Routledge, 2015.

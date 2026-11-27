@@ -7,7 +7,7 @@ title: "Dissociative Amnesia"
 en: "Dissociative Amnesia"
 crumb: "Psychology ← Disorders ← Dissociative Amnesia"
 dsm5tr_code: "F44.0"
-icd11_code: "6B66"
+icd11_code: "6B61"
 active_start: 1980
 active_end: "مستمر"
 language: "Multilingual"
@@ -34,7 +34,7 @@ Dissociative amnesia as a clinically bounded diagnostic category must not be con
 
 DSM-5-TR requires an inability to recall important autobiographical information, usually of a traumatic or stressful nature, that is inconsistent with ordinary forgetting and causes clinically significant distress or impairment. The amnesia must not be attributable to a substance or a neurological or other medical condition, and is not better explained by another dissociative disorder, PTSD, acute stress disorder, or a somatic symptom disorder. Localized or selective amnesia is the most common pattern; generalized amnesia is rare. The specifier "with dissociative fugue" (F44.1 in ICD-10-CM) applies when there is apparently purposeful travel or bewildered wandering associated with the amnesia. The clinician must also differentiate it from organic amnesia and from feigned amnesia.
 
-ICD-11 classifies dissociative amnesia under 6B66, describing an inability to recall important autobiographical memories, typically of recent traumatic or stressful events, that is not explained by ordinary forgetting, a medical condition, or a substance, and that causes significant impairment. Dissociative fugue is a specifier.
+ICD-11 classifies dissociative amnesia under 6B61, describing an inability to recall important autobiographical memories, typically of recent traumatic or stressful events, that is not explained by ordinary forgetting, a medical condition, or a substance, and that causes significant impairment. Dissociative fugue is a specifier.
 
 ## Core symptoms
 

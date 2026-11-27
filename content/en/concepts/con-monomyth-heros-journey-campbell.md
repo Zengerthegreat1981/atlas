@@ -27,7 +27,7 @@ Campbell divided the typical journey into three main stages, each subdivided int
 
 1. **Departure**: the hero receives a "Call to Adventure", and often hesitates or initially refuses it ("Refusal of the Call"), before crossing the "Threshold" into another world with the help of a "guardian" or supernatural "mentor".
 2. **Initiation**: the hero faces a series of trials ("the road of trials"), may meet a "goddess" or be reconciled with his father, and reaches the climax (the "Ultimate Boon") — often a revelation or a prize of value to the whole community.
-3. **Return**: the hero returns, sometimes with rejection or pursuit, bearing a "boon" that benefits his society (Campbell's "Master of Two Worlds" and "Freedom to Live"), thus completing the cycle. The popular label "elixir" comes from later adaptations rather than from Campbell himself.
+3. **Return**: the hero returns, sometimes with rejection or pursuit, bearing a "boon" that benefits his society (Campbell's "Master of Two Worlds" and "Freedom to Live"), thus completing the cycle. Campbell himself glosses this boon as an "elixir", a label that later adaptations popularised.
 
 Campbell modelled the three-part structure on the anthropological notion of rites of passage (separation, initiation, return, as in Arnold van Gennep's *Les rites de passage*, 1909). The middle stage thus resembles what Victor Turner later called the liminal phase, though Campbell did not develop the comparison himself.
 

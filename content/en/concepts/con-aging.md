@@ -31,7 +31,7 @@ While earlier developmental stages typically encounter death as a distant possib
 
 Existential thought converges with several major developmental theories that resist equating later life solely with decline:
 - **Ego Integrity vs. Despair**: Erik Erikson's epigenetic model describes late adulthood as a struggle to achieve ego integrity—accepting one's unique, unrepeatable life cycle without overwhelming bitterness or regret.
-- **The Life Review**: Robert N. Butler (1963) demonstrated that reminiscence in older adults is not a symptom of senile regression, but a normative, purposive cognitive process of reviewing unresolved conflicts and integrating historical experiences.
+- **The Life Review**: Robert N. Butler (1963) argued that reminiscence in older adults is not a symptom of senile regression, but a normative, purposive cognitive process of reviewing unresolved conflicts and integrating historical experiences.
 - **Socioemotional Selectivity Theory (SST)**: Formulated by Laura Carstensen (1992), this theory demonstrates that as individuals perceive their remaining time horizon as limited, their motivational goals shift systematically from knowledge acquisition and novel social networking toward emotionally meaningful interactions, psychological intimacy, and affect optimization.
 - **The Afternoon of Life**: Carl Gustav Jung posited that the second half of life requires distinct psychological tasks from the first. Rather than outer adaptation and career establishment, later maturity demands individuation, self-examination, and the integration of the shadow and contrasexual archetypes.
 

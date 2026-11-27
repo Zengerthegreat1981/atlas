@@ -4,6 +4,7 @@ id: "DBT-0307"
 type: "جدل"
 part: "philosophy"
 level: ""
+quality: "unverified"
 title: "Structures or None?"
 en: "Structures or none?"
 crumb: "Existential School ← Debates ← Structures or None?"
@@ -26,7 +27,7 @@ The first position holds that there are general structures of human existence, a
 
 ## The Second Position — No Structures
 
-The second position holds that any general structure imposed on experience betrays the phenomenological method itself. Ernesto Spinelli, in *Practising Existential Psychotherapy: The Relational World* (2007), argues that therapy is entirely relational: what matters is what appears in this relationship, now, without a prior map. A four-dimensional scheme, however useful, tells the therapist what to look for before the client has spoken, and thereby replaces description with classification. The strict phenomenologists in the British current insist that the therapist must stay with what shows itself in this particular encounter, and that the work is relational through and through. The gain is fidelity to experience in its singularity; the cost is that teaching becomes difficult, because there is no stable content to transmit, and comparison becomes nearly impossible, because there are no fixed categories to compare.
+The second position holds that any general structure imposed on experience betrays the phenomenological method itself. Ernesto Spinelli is the British author most often cited on this side, although his position is more qualified than a rejection of all structure. In *Practising Existential Psychotherapy: The Relational World* (2007; 2nd ed. as *Practising Existential Therapy*, 2015) he places relatedness at the foundation of the approach, argues that its distinctiveness lies in the way existential themes are addressed rather than in the themes themselves, and offers his own structural model of how practice unfolds. The stricter form of the position holds that a fixed scheme of existential contents works as a prior map. A four-dimensional scheme, however useful, tells the therapist what to look for before the client has spoken, and thereby replaces description with classification. The strict phenomenologists in the British current insist that the therapist must stay with what shows itself in this particular encounter, and that the work is relational through and through. The gain is fidelity to experience in its singularity; the cost is that teaching becomes difficult, because there is no stable content to transmit, and comparison becomes nearly impossible, because there are no fixed categories to compare.
 
 ## The Real Question Beneath It
 
@@ -36,7 +37,7 @@ The underlying question is whether systematic teaching is possible without class
 
 The dispute remains unresolved, and it structures the British current from within. Van Deurzen's dimensional model dominates training, because training needs a curriculum; Spinelli's relational model dominates the theoretical conscience of the school, because it states most purely what the phenomenology was meant to be. Practitioners typically move between the two, using dimensions as a background orientation while insisting that no dimension be imposed on a particular client. The tension is productive rather than paralysing: it keeps the school honest about the gap between its maps and the territory, and it explains why the British current, more than any other, has produced both the most systematic textbooks and the most radical critiques of systematisation in existential therapy.
 
-The structures debate also decides what a textbook of existential therapy can be. A book organised around fixed dimensions can be written once and taught everywhere, with exercises, case examples, and assessment criteria attached to each dimension — which is why van Deurzen's textbook has run through three editions and become a widely used training text. A book faithful to the no-structures position cannot offer that: Spinelli's work is instead a sustained reflection on the therapeutic relationship. The difference is visible on the shelf, and it is one reason the two authors, though colleagues within the same British current, are cited for opposite lessons about what existential therapy is.
+The structures debate also decides what a textbook of existential therapy can be. A book organised around fixed dimensions can be written once and taught everywhere, with exercises, case examples, and assessment criteria attached to each dimension — which is why van Deurzen's textbook has run through three editions and become a widely used training text. Spinelli's book takes a different route: instead of organising therapy around fixed existential themes, it sets out guiding principles and a structural model for the course of practice. The difference is visible on the shelf, and it is one reason the two authors, though colleagues within the same British current, are cited for different lessons about what existential therapy is.
 
 ## Sources
 

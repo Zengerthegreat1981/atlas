@@ -4,6 +4,7 @@ id: "THK-2231"
 type: "مفكر"
 part: "psychology"
 level: "متوسط"
+quality: "unverified"
 title: "Fritz Perls"
 en: "Fritz Perls"
 crumb: "Psychology ← Thinkers ← Fritz Perls"
@@ -26,7 +27,7 @@ Friedrich Salomon (Fritz) Perls (1893–1970) was a German-American psychiatrist
 
 ## Biographical Trajectory and Clinical Influences
 
-Perls was born on 8 July 1893 in Berlin to an assimilated Jewish family. He served in the German army as a medical officer on the Western Front during World War I, an experience of trauma and trench warfare that deeply shaped his suspicion of dogmatic authority. He completed his medical degree at the Friedrich Wilhelm University in Berlin in 1921, specializing in neuropsychiatry.
+Perls was born on 8 July 1893 in Berlin to an assimilated Jewish family. He served in the German army on the Western Front during World War I (before completing his medical studies), an experience of trauma and trench warfare that deeply shaped his suspicion of dogmatic authority. He completed his medical degree at the Friedrich Wilhelm University in Berlin in 1921, specializing in neuropsychiatry.
 
 In the 1920s, Perls underwent psychoanalytic training, being analyzed by Karen Horney and later by Wilhelm Reich, whose concept of "body armor" (character resistance embodied in muscular tension) profoundly influenced Perls's focus on somatic expression. While working as an assistant to neurologist Kurt Goldstein at the Frankfurt Institute for Brain Damaged Soldiers, Perls absorbed organismic theory—the view that an organism functions as an indivisible whole seeking self-regulation. There he also met psychologist Lore (Laura) Posner, whom he married in 1930.
 

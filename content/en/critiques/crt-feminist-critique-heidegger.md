@@ -4,6 +4,7 @@ id: "CRT-0001"
 type: "نقد خارجي موثَّق"
 part: philosophy
 level: "متقدم"
+quality: "unverified"
 title: "Feminist Critique of Dasein's Gender Neutrality"
 en: "Feminist Critique of Dasein's Gender Neutrality"
 crumb: "Existential Philosophy ← Critiques ← Feminist Critique of Dasein's Gender Neutrality"
@@ -36,9 +37,9 @@ The critics' shared move is to ask what disappears when Dasein is declared neutr
 
 ## Deconstruction and Sexual Difference: Derrida's Geschlecht Series
 
-A central philosophical intervention addressing Dasein's alleged neutrality is Jacques Derrida's series of essays titled *Geschlecht* (notably "Geschlecht I: Sexual Difference, Ontological Difference," 1983). Derrida examines Heidegger's 1928 lecture course *The Metaphysical Foundations of Logic*, where Heidegger explicitly asserts the *Geschlechtslosigkeit* (sexlessness or neutrality) of Dasein. Heidegger insisted that this neutrality is not a privative lack or castration, but an originary ontological positivity prior to any ontic division into two sexes.
+A central philosophical intervention addressing Dasein's alleged neutrality is Jacques Derrida's series of essays titled *Geschlecht* (notably "Geschlecht I: Sexual Difference, Ontological Difference," 1983). Derrida examines Heidegger's 1928 lecture course *The Metaphysical Foundations of Logic*, where Heidegger explicitly asserts the *Geschlechtslosigkeit* (sexlessness or neutrality) of Dasein. Heidegger insisted that this neutrality is not a merely privative lack, but an originary ontological positivity prior to any ontic division into two sexes.
 
-Derrida's deconstructive reading questions whether this purported pre-sexual origin is coherent. By positing Dasein as prior to sexual difference, Heidegger inevitably subordinates sexual difference to ontological difference (the question of Being). In doing so, Derrida argues, the analytic of Dasein risks neutralising the very specificity of sexual difference, reproducing the traditional metaphysical gesture of treating a masculine archetype as the unmarked, universal human essence. This deconstructive critique converges with feminist phenomenology: both suggest that claiming neutrality before sex difference often functions as an evasion of embodiment.
+Derrida's reading asks what this neutrality actually sets aside. He suggests that what is neutralised is above all sexual duality, the binary division into two sexes, and he raises, as an open question, the possibility of a "pre-dual" sexual difference not bound to the number two. His essay therefore does not simply repeat the feminist charge; readers can still ask whether claiming neutrality before sex difference functions as an evasion of embodiment.
 
 ## External Critique, Not Internal Debate
 
@@ -57,4 +58,4 @@ The critique has a practical edge for the therapeutic school built on Heideggeri
 - Chanter, Tina. *Ethics of Eros: Irigaray's Rewriting of the Philosophers*. Routledge, 1995.
 - Holland, Nancy J., and Patricia Huntington, eds. *Feminist Interpretations of Martin Heidegger*. Pennsylvania State University Press, 2001.
 - Derrida, J. (1983). Geschlecht I: Sexual Difference, Ontological Difference. *Research in Phenomenology*, 13, 65–83.
-- Derrida, J. (2020). *Geschlecht III: Sex, Race, Nation, Humanity*, ed. G. Bensussan et al., trans. K. Chenoweth & T. G. West. University of Chicago Press.
+- Derrida, J. (2020). *Geschlecht III: Sex, Race, Nation, Humanity*, ed. G. Bennington, K. Chenoweth & R. Therezo, trans. K. Chenoweth & R. Therezo. University of Chicago Press.

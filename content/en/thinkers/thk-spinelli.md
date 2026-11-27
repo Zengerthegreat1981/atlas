@@ -4,6 +4,7 @@ id: "THK-0114"
 type: "مفكر"
 part: "psychology"
 level: "متوسط"
+quality: "unverified"
 title: "Ernesto Spinelli"
 en: "Ernesto Spinelli"
 crumb: "Psychology ← Thinkers ← Ernesto Spinelli"
@@ -45,11 +46,12 @@ In *Tales of Un-knowing* (1997), Spinelli illustrated how adopting an attitude o
 ### Critique of Structural Models
 Spinelli famously critiqued ready-made structural maps within existential psychotherapy, including Emmy van Deurzen's influential model of the four existential dimensions (physical, social, personal, and spiritual). While acknowledging their educational utility, Spinelli argued in *The Mirror and the Hammer* (2001) that imposing universal existential themes (such as death, meaninglessness, or isolation) risks transforming descriptive phenomenology into another dogmatic theoretical structure. For Spinelli, existential therapy is defined not by fixed existential content, but by a radical, process-oriented stance of presence, descriptive inquiry, and openness to uncertainty.
 
-### Three Realms of Therapeutic Encounter
-In *Practising Existential Therapy: The Relational World* (2007; 2nd ed. 2015), Spinelli organized relational therapeutic work around three shifting foci:
+### Four Realms of Therapeutic Encounter
+In *Practising Existential Psychotherapy: The Relational World* (2007; 2nd ed. 2015, retitled *Practising Existential Therapy*), Spinelli organized relational therapeutic work around four shifting foci:
 - **The I-Focus**: The client's direct, subjective exploration of their sedimented sense of self.
 - **The You-Focus**: How the client constructs, experiences, and responds to others.
 - **The We-Focus**: The immediate, lived relational dynamic unfolding between therapist and client within the consulting room.
+- **The They-Focus**: The presence and impact of the client's wider world of others, including how changes in the client's ways of relating bear on those others.
 
 ## Reception and Critique
 
@@ -61,7 +63,7 @@ Spinelli's radical commitment to uncertainty and relational presence has influen
 - *Demystifying Therapy* (1994)
 - *Tales of Un-knowing: Therapeutic Encounters from an Existential Perspective* (1997)
 - *The Mirror and the Hammer: Challenges to Therapeutic Orthodoxy* (2001)
-- *Practising Existential Therapy: The Relational World* (2007; 2nd ed. 2015)
+- *Practising Existential Psychotherapy: The Relational World* (2007); 2nd ed. *Practising Existential Therapy* (2015)
 
 ## Sources
 

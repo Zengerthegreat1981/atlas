@@ -52,7 +52,7 @@ Broader philosophically and less systematic. Yalom orders existential concerns i
 
 ## Reception and Criticism
 
-His books, especially *Love and Will*, reached a wide public beyond the profession. Within humanistic psychology he disagreed with Carl Rogers about the nature of evil and with Maslow about the optimism of spontaneous growth. Meta-analytic work (Vos, Craig & Cooper, 2015) found existential therapies had a moderate effect compared with no treatment and comparable outcomes to other therapies, with a limited number of studies. May himself did no empirical research, and critics find the daimonic vague and hard to operationalise or measure.
+His books, especially *Love and Will*, reached a wide public beyond the profession. Within humanistic psychology he disagreed with Carl Rogers about the nature of evil and with Maslow about the optimism of spontaneous growth. A meta-analysis of randomized trials (Vos, Craig & Cooper, 2015) found that meaning-centered therapies had a large effect on meaning in life and a moderate effect on psychopathology compared with control conditions, supportive-expressive therapy had small effects on psychopathology, and experiential-existential and cognitive-existential therapies showed no significant effects; the authors stressed that the studies were few and of low quality. May himself did no empirical research, and critics find the daimonic vague and hard to operationalise or measure.
 
 ## Related Concepts
 

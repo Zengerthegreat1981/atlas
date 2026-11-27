@@ -4,6 +4,7 @@ id: "THK-2249"
 type: "مفكر"
 part: "psychology"
 level: "متقدم"
+quality: "unverified"
 title: "Jaak Panksepp"
 en: "Jaak Panksepp"
 crumb: "Psychology ← Thinkers ← Jaak Panksepp"
@@ -28,7 +29,7 @@ An Estonian-American neuroscientist (1943–2017), born in Tartu, Estonia, and r
 
 ## What He Contributed
 
-- **Founding affective neuroscience as a field**: his book *Affective Neuroscience* (1998) offered an influential systematic framework linking subcortical circuits, behavior, and affective experience, and became the founding reference of the discipline. Before this book, "emotions" were a subject of social and personality psychology, rarely discussed in a strict neural framework. Panksepp insisted that they are empirically measurable like perception and movement.
+- **Founding affective neuroscience as a field**: his book *Affective Neuroscience* (1998) offered an influential systematic framework linking subcortical circuits, behavior, and affective experience, and became the founding reference of the discipline. Neural accounts of emotion existed earlier (for example, those of Papez and MacLean); the book drew neural research on emotion into one framework. Panksepp insisted that they are empirically measurable like perception and movement.
 - **Seven primary affective systems** in the brain, which he describes as ancient evolutionary circuits shared among mammals:
   1. **SEEKING** (seeking/curiosity/anticipation): the mesolimbic dopamine system, linked to anticipation and reward.
   2. **RAGE** (anger): a system linked to threat and frustration, activated in situations of restraint or loss.
@@ -51,7 +52,7 @@ Panksepp's influence helped reopen the door to a "bodily approach to emotion" (s
 ## Major Works
 
 - *Affective Neuroscience: The Foundations of Human and Animal Emotions* (1998): the founding book of the field.
-- *A Textbook of Biological Psychiatry* (2004, as co-editor): a specialized clinical reference on the neural foundations of mental disorders.
+- *A Textbook of Biological Psychiatry* (2004, as editor): a specialized clinical reference on the neural foundations of mental disorders.
 - *The Archaeology of Mind: Neuroevolutionary Origins of Human Emotions* (2012, with Lucy Biven): a later development of the theory of the seven systems, with a focus on the evolutionary roots of human affect.
 
 ## His Intellectual Approach: Why It Matters Today

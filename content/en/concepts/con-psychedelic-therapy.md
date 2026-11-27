@@ -29,7 +29,7 @@ Psychedelic-assisted therapy is a therapeutic format in which the patient is giv
 
 ## Early History
 
-Albert Hofmann synthesized LSD in 1938 in Switzerland and discovered its effect in 1943 through accidental exposure. Humphry Osmond coined the term "psychedelic" ("mind-manifesting") in 1956-1957, and worked with Abram Hoffer in Saskatchewan, Canada, on treating alcohol addiction. Stanislav Grof, who began clinical LSD research in Czechoslovakia in the 1950s, later wrote *LSD Psychotherapy* (1980). Walter Pahnke, in the "Good Friday Experiment" of 1962, tested the role of the religious setting in the experience. The United States Controlled Substances Act of 1970 then classified these substances in Schedule I, and research stopped for roughly three decades.
+Albert Hofmann synthesized LSD in 1938 in Switzerland and discovered its effect in 1943 through accidental exposure. Humphry Osmond coined the term "psychedelic" ("mind-manifesting") in 1956-1957, and worked with Abram Hoffer in Saskatchewan, Canada, on treating alcohol addiction. Stanislav Grof, who began clinical LSD research in Czechoslovakia in the 1950s, later wrote *LSD Psychotherapy* (1980). Walter Pahnke, in the "Good Friday Experiment" of 1962, tested the role of the religious setting in the experience. The United States Controlled Substances Act of 1970 then classified LSD and psilocybin in Schedule I (MDMA was not added until 1985), and research stopped for roughly three decades.
 
 ## The Modern Revival
 

@@ -4,6 +4,7 @@ id: "CON-19073"
 type: "مفهوم"
 part: "psychology"
 level: "متوسط"
+quality: "unverified"
 title: "Depression"
 en: "Depression"
 crumb: "Depression"
@@ -22,8 +23,8 @@ Depression is understood in modern clinical nosology as a severe affective disor
 
 ## Clinical Diagnostic Definition and Classification
 
-In contemporary psychiatric nosology (DSM-5-TR; ICD-11 code 6A70 for single episode and 6A71 for recurrent depressive disorder), Major Depressive Disorder (MDD) requires the presence of at least five of nine characteristic symptoms persisting during the same two-week period, representing a distinct change from previous functioning. At least one of the symptoms must be either depressed mood or loss of interest/pleasure (anhedonia). Additional symptoms include:
-- Significant involuntary weight loss or gain, or decrease in appetite.
+Contemporary psychiatric nosology classifies depressive disorders in DSM-5-TR and in ICD-11 (code 6A70 for single episode and 6A71 for recurrent depressive disorder). In DSM-5-TR, Major Depressive Disorder (MDD) requires the presence of at least five of nine characteristic symptoms persisting during the same two-week period, representing a distinct change from previous functioning. At least one of the symptoms must be either depressed mood or loss of interest/pleasure (anhedonia). Additional symptoms include:
+- Significant unintentional weight loss or gain, or decrease or increase in appetite.
 - Insomnia or hypersomnia nearly every day.
 - Psychomotor agitation or retardation observable by others.
 - Fatigue or loss of energy.
@@ -31,11 +32,13 @@ In contemporary psychiatric nosology (DSM-5-TR; ICD-11 code 6A70 for single epis
 - Diminished ability to think, concentrate, or make decisions.
 - Recurrent thoughts of death, suicidal ideation, or suicide attempts.
 
+DSM-5-TR also requires clinically significant distress or impairment, and that the picture not be attributable to a substance or another medical condition, not be better explained by a psychotic disorder, and not occur with a history of manic or hypomanic episodes. ICD-11 likewise requires at least five symptoms for a depressive episode, at least one from its affective cluster, but organizes the symptom list somewhat differently.
+
 Standardized instruments (such as the PHQ-9 or Beck Depression Inventory) serve as validated screening and symptom-monitoring aids; however, they do not constitute formal clinical diagnosis, which requires comprehensive evaluation by a qualified healthcare professional to rule out organic medical conditions, substance effects, or bipolar affective disorders.
 
 ## Depression as an Existential and Phenomenological State
 
-Existential psychotherapists and phenomenological psychiatrists (such as Ludwig Binswanger, Eugène Minkowski, and Matthew Ratcliffe) analyze depression as an alteration in the foundational structures of human experience:
+Existential psychotherapists, phenomenological psychiatrists, and philosophers (such as Ludwig Binswanger, Eugène Minkowski, and Matthew Ratcliffe) analyze depression as an alteration in the foundational structures of human experience:
 - **Disruption of Lived Time**: Minkowski demonstrated that in severe depression, the flow of "lived time" (*temps vécu*) stalls. The future no longer presents itself as an open horizon of creative possibility, but as a rigid, foreclosed repetition of past failures.
 - **The Existential Vacuum and Meaninglessness**: Viktor Frankl identified the "existential vacuum"—a state of pervasive inner emptiness and lack of ultimate purpose. While Frankl recognized endogenous biological depression, he noted that existential frustration (*noogenic* distress) frequently coexists with or mimics clinical depressive episodes.
 - **Alienation and Inauthenticity**: Irvin Yalom describes how depression often emerges when an individual's defensive structures crumble, exposing unaddressed confrontations with ultimate concerns: death, isolation, freedom, and meaninglessness. A life lived in chronic conformity to external expectations may collapse into depressive exhaustion when the borrowed identity proves unfulfilling.

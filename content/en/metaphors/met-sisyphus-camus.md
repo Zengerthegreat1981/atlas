@@ -4,6 +4,7 @@ id: "MET-0001"
 type: "استعارة/مجاز مؤسِّس"
 part: philosophy
 level: "مبتدئ"
+quality: "unverified"
 title: "Sisyphus: The Metaphor of the Absurd and Persistent Revolt"
 en: "Sisyphus: The Metaphor of the Absurd and Persistent Revolt"
 crumb: "Existential Philosophy ← Metaphors ← Sisyphus: The Metaphor of the Absurd and Persistent Revolt"
@@ -27,7 +28,7 @@ In Greek myth, Sisyphus was a king of Corinth who twice cheated death — once b
 
 Camus's thesis can be stated abstractly in a single sentence: human beings long for meaning and unity, the world offers only silence, and the honest response is neither suicide nor false hope but conscious revolt. That sentence is accurate, and it is also inert. It describes a position; it does not put the reader inside it.
 
-The image of Sisyphus does what the sentence cannot. It shows a man who knows exactly what will happen — the rock will fall — and who does the work anyway, with his eyes open. The decisive moment, for Camus, is not the climb but the descent: Sisyphus walks back down the mountain towards his rock, fully aware of the futility, and in that lucid walk he is free. "The struggle itself towards the heights is enough to fill a man's heart," Camus writes (*The Myth of Sisyphus*, Justin O'Brien trans.). And he closes the essay with the sentence that has become its signature: "One must imagine Sisyphus happy" (*Il faut imaginer Sisyphe heureux*).
+The image of Sisyphus does what the sentence cannot. It shows a man who knows exactly what will happen — the rock will fall — and who does the work anyway, with his eyes open. The decisive moment, for Camus, is not the climb but the descent: Sisyphus walks back down the mountain towards his rock, fully aware of the futility, and in that lucid walk he is free. "The struggle itself toward the heights is enough to fill a man's heart," Camus writes (*The Myth of Sisyphus*, Justin O'Brien trans.). And he closes the essay with the sentence that has become its signature: "One must imagine Sisyphus happy" (*Il faut imaginer Sisyphe heureux*).
 
 That closing line carries philosophical weight that no abstract formulation holds with the same force, because it asks the reader to imagine a happiness that comes from the act itself rather than from its outcome. The metaphor keeps the thought alive in a way a definition cannot: it must be pictured, and in picturing it, the reader performs the very revolt Camus describes.
 

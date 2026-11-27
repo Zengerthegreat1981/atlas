@@ -4,6 +4,7 @@ id: "WRK-12268"
 type: "عمل / كتاب"
 part: "religious-studies"
 level: "متقدم"
+quality: "unverified"
 religious_tradition: "Medieval and modern Catholic Christianity (Italy)"
 study_approach: "Comparative social history with modern psychiatry"
 title: "Holy Anorexia"
@@ -24,7 +25,7 @@ gaps: []
 
 # Holy Anorexia
 
-A book by the American historian of Italy Rudolph M. Bell, published by the University of Chicago Press in 1985 under the title *Holy Anorexia*. It studies the lives of 261 Italian holy women who lived between the thirteenth and the twentieth centuries and practised severe forms of fasting, reaching in some cases an almost complete abstention from food for long periods.
+A book by the American historian of Italy Rudolph M. Bell, published by the University of Chicago Press in 1985 under the title *Holy Anorexia*. It surveys 261 Italian holy women recognised by the Catholic Church who lived between the thirteenth and the twentieth centuries. The surviving record is adequate for only about two thirds of them, and Bell found signs of anorexic behaviour in about half or more of that smaller group, reaching in some cases an almost complete abstention from food for long periods.
 
 ## Definition
 
@@ -54,7 +55,7 @@ The book contributed to scholarly interest in religious fasting. It sparked a br
 
 Bell is a historian of Italy, not a psychiatrist, and his psychiatric interpretation rests on modern clinical descriptions of anorexia nervosa applied to historical sources.
 
-Bell's work differs from many descriptive historical studies in its attempt at a quasi-quantitative analysis. He gathers data on 261 cases spread over seven centuries, classified by age at the onset of severe fasting, its duration, and its outcome (death, recovery, or continued practice into old age), in an attempt to derive a general demographic pattern. This quantitative ambition provoked a further methodological debate about the reliability of canonisation proceedings as a statistical source, given that they were originally written to prove sanctity, not for neutral medical documentation.
+Bell's work differs from many descriptive historical studies in its attempt at a quasi-quantitative analysis. He tabulates data on 261 women spread over seven centuries, not all of whom showed severe fasting, in an attempt to identify broader historical patterns. This quantitative ambition provoked a further methodological debate about the reliability of canonisation proceedings as a statistical source, given that they were originally written to prove sanctity, not for neutral medical documentation.
 
 ## Relation to the Arab-Islamic Heritage
 

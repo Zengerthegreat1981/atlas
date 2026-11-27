@@ -39,9 +39,9 @@ He distinguished between the acting "I" and the known "Me," which includes the m
 
 **The James-Lange theory of emotion**: James published the article "What Is an Emotion?" in the journal Mind in 1884, and the Dane Carl Lange put forward a similar conception in 1885: emotion is the perception of bodily change, not its cause, so we do not tremble because we are afraid but are afraid because we tremble. Walter Cannon criticized this theory in his article in the American Journal of Psychology in 1927 (and Philip Bard developed it), and Schachter and Singer presented the two-factor model in 1962, stressing the cognitive interpretation of arousal. Yet the question remained alive in research on bodily feedback, and in Antonio Damasio's "somatic markers."
 
-**The Varieties of Religious Experience (1902)**: the Gifford Lectures in Edinburgh, in which he treated religion as individual experience that he described and classified with no prior judgment on its truth, and then measured its value by its fruits rather than its origins. In the two chapters on mysticism he cited texts from several mystical traditions.
+**The Varieties of Religious Experience (1902)**: the Gifford Lectures in Edinburgh, in which he treated religion as individual experience that he described and classified with no prior judgment on its truth, and then measured its value by its fruits rather than its origins. In the two lectures on mysticism he cited texts from several mystical traditions.
 
-**Pragmatism (1907)**: lectures delivered in Boston and New York, in which he defined truth by its practical value, that is, the "cash value" of the idea in experience, and this led him to "radical empiricism," which he presented in essays published after his death. In *A Pluralistic Universe* (1909) he devoted one lecture to Fechner and another to Bergson, whom he greatly admired.
+**Pragmatism (1907)**: lectures delivered in Boston and New York, in which he defined truth by its practical value, that is, the "cash value" of the idea in experience, alongside which he developed "radical empiricism" (a doctrine he stated was logically independent of pragmatism), whose collected essays appeared after his death. In *A Pluralistic Universe* (1909) he devoted one lecture to Fechner and another to Bergson, whom he greatly admired.
 
 ## His Place in the Current
 

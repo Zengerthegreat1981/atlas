@@ -40,7 +40,7 @@ Swiss psychiatrist, first president of the International Psychoanalytical Associ
 
 Jung stands opposite Freud on one fundamental axis: Freud reads the higher through the lower (religion and art are the sublimation of a drive), and Jung reads the lower through the higher (the symptom is the psyche's attempt to say something and to grow). Hence the **unconscious** for Freud was a repository of what had been expelled, and for Jung a **creative** source that knows about the person what the person does not know about himself.
 
-His furthest influence fell outside the psychological establishment: in the study of religion (Eliade and Campbell), in literary criticism, in the New Age movement, in the **Myers-Briggs indicator** (which was made by Katharine Briggs and her daughter, not by him, and is not endorsed by mainstream psychometric psychology), and in **Alcoholics Anonymous** — his letter to Bill Wilson about the alcoholic's need for a spiritual transformation is among the origins of the Twelve-Step program.
+His furthest influence fell outside the psychological establishment: in the study of religion (Eliade and Campbell), in literary criticism, in the New Age movement, in the **Myers-Briggs indicator** (which was made by Katharine Briggs and her daughter, not by him, and is not endorsed by mainstream psychometric psychology), and in **Alcoholics Anonymous** — his advice to a patient, Rowland Hazard (around 1926 or later), that recovery might require a spiritual transformation is counted among the roots of the movement, as Bill Wilson acknowledged in a letter to Jung in 1961, to which Jung replied.
 
 ## Limitations
 Three limitations on Jung, of varying weight:

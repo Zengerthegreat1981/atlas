@@ -4,6 +4,7 @@ id: "DBT-2556"
 type: "جدل"
 part: "religious-studies"
 level: "متقدم"
+quality: "unverified"
 religious_tradition: "Multi-religious (critique of a historically colonial comparative project)"
 study_approach: "Post-colonial critical reading of the founding of the field"
 title: "The 'Sacred Books of the East' Project as a Colonial Production of Knowledge: Müller under the Critique of Orientalism"
@@ -24,7 +25,7 @@ gaps: []
 
 # The 'Sacred Books of the East' Project as a Colonial Production of Knowledge: Müller and the Orientalism Critique
 
-A critical debate in which later scholars apply the line of critique opened by Edward Said's *Orientalism* (1978), which concerns chiefly Near Eastern and Islamic studies, to the founding project of the comparative science of religion itself. The series *The Sacred Books of the East*, overseen by Friedrich Max Müller between 1879 and 1910, published some fifty volumes (including an index volume) of Asian religious texts (including Vedic and Upanishadic texts, the Avesta, the Qur'an in E. H. Palmer's translation, and Buddhist, Jain, Daoist and Confucian texts) in English under the auspices of the Clarendon Press, Oxford.
+A critical debate in which later scholars apply the line of critique opened by Edward Said's *Orientalism* (1978), which concerns chiefly Near Eastern and Islamic studies, to the founding project of the comparative science of religion itself. The series *The Sacred Books of the East*, edited by Friedrich Max Müller until his death in 1900 and completed after it, with publication running from 1879 to 1910, published some fifty volumes (including an index volume) of Asian religious texts (including Vedic and Upanishadic texts, the Avesta, the Qur'an in E. H. Palmer's translation, and Buddhist, Jain, Daoist and Confucian texts) in English under the auspices of the Clarendon Press, Oxford.
 
 ## Said's Thesis Applied to the Project
 

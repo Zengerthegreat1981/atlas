@@ -3,6 +3,7 @@ slug: "stu-dunedin-longitudinal-study"
 id: "STU-0032"
 type: "دراسة وبحث"
 level: "متقدم"
+quality: "unverified"
 title: "The Dunedin Longitudinal Study of Development, Health, Behavior and Self-Control"
 en: "Dunedin Multidisciplinary Health and Development Study"
 crumb: "Psychology ← Studies ← The Dunedin Longitudinal Study"
@@ -42,7 +43,7 @@ The Dunedin study also produced some of the most famous research in psychology o
 
 ## Measuring the Pace of Biological Aging
 
-Using biomarker data collected at ages 26, 32, and 38, Belsky and colleagues (2015) developed a measure of the "Pace of Aging" that combines 18 biomarkers (including cardiovascular, metabolic, kidney, lung, immune, and gum health measures) to estimate how fast a person's body is aging over time. They found that individuals of the same chronological age (38) differed considerably in their pace of aging, that faster aging was associated with poorer physical functioning and appearing older to independent raters, and that it was related to some childhood factors, which links developmental psychology with research on the biology of aging.
+Using biomarker data collected at ages 26, 32, and 38, Belsky and colleagues (2015) developed a measure of the "Pace of Aging" that combines 18 biomarkers (including cardiovascular, metabolic, kidney, lung, immune, and gum health measures) to estimate how fast a person's body is aging over time. They found that individuals of the same chronological age (38) differed considerably in their pace of aging, that faster aging was associated with poorer physical functioning and appearing older to independent raters. Later work from the same team (Belsky et al., 2017) reported that pace of aging was also related to childhood factors such as social class, adverse experiences, health, intelligence and self-control, which links developmental psychology with research on the biology of aging.
 
 ## The General Psychopathology Factor (the "p" Factor)
 
@@ -58,3 +59,4 @@ Analyzing psychiatric symptom data collected across several adult assessment wav
 - Kim-Cohen, J., Caspi, A., Taylor, A., et al. (2006). MAOA, maltreatment, and gene-environment interaction predicting children's mental health: New evidence and a meta-analysis. *Molecular Psychiatry, 11*(10), 903-913.
 - Risch, N., Herrell, R., Lehner, T., et al. (2009). Interaction between the serotonin transporter gene (5-HTTLPR), stressful life events, and risk of depression: A meta-analysis. *JAMA, 301*(23), 2462-2471.
 - Belsky, D. W., Caspi, A., Houts, R., et al. (2015). "Quantification of Biological Aging in Young Adults." *PNAS*, 112(30), E4104–E4110.
+- Belsky, D. W., Caspi, A., Cohen, H. J., et al. (2017). "Impact of Early Personal-History Characteristics on the Pace of Aging: Implications for Clinical Trials of Therapies to Slow Aging and Extend Healthspan." *Aging Cell*. https://doi.org/10.1111/acel.12591

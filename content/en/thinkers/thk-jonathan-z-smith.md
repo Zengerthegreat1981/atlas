@@ -4,6 +4,7 @@ id: "THK-8018"
 type: "مفكر"
 part: "religious-studies"
 level: "متقدم"
+quality: "unverified"
 religious_tradition: "Multi-religious (critical comparative method)"
 study_approach: "Critical-methodological (critique of the analytic categories of the field itself)"
 title: "Jonathan Zittell Smith"
@@ -48,7 +49,7 @@ In *Drudgery Divine: On the Comparison of Early Christianities and the Religions
 
 ## Critique of Girard: The "Domestication of the Sacrifice"
 
-At a debate at Stanford University in 1983 (published in *Violent Origins*, Stanford, 1987, edited by Robert Hamerton-Kelly), which brought together Smith with René Girard and Walter Burkert, Smith directed a specific critique at Girard: the Girardian mechanism of the scapegoat is built on exceptional literary-mythological texts, whereas actual ritual sacrifice in the ethnographic record is a domesticated and tightly controlled process, far from the violent and random chaos assumed by Girard's scenario.
+At a conference held in 1983 at Pajaro Dunes, near Santa Cruz, California (published in *Violent Origins*, Stanford, 1987, edited by Robert Hamerton-Kelly), which brought together Smith with René Girard and Walter Burkert, Smith directed a specific critique at Girard: the Girardian mechanism of the scapegoat is built on exceptional literary-mythological texts, whereas actual ritual sacrifice in the ethnographic record is a domesticated and tightly controlled process, far from the violent and random chaos assumed by Girard's scenario.
 
 ## Position in the Field and Limits of the Critique
 

@@ -21,7 +21,7 @@ gaps: []
 
 ## Definition
 
-**Treatment-resistant mood disorders**, most prominently **treatment-resistant depression** (TRD), describe major depressive episodes or other mood disorders that do not respond sufficiently after at least two antidepressant trials from two different drug classes. The trials must be at an adequate dose and for an adequate duration (usually four to eight weeks), with actual adherence to treatment. Definitions vary, and estimates of the proportion of people with major depressive disorder who meet a treatment-resistance definition are commonly put at around a third, and the figure changes with the criteria used.
+**Treatment-resistant mood disorders**, most prominently **treatment-resistant depression** (TRD), describe major depressive episodes or other mood disorders that do not respond sufficiently after at least two antidepressant trials (some definitions require two different drug classes, others do not). The trials must be at an adequate dose and for an adequate duration (usually four to eight weeks), with actual adherence to treatment. Definitions vary, and estimates of the proportion of people with major depressive disorder who meet a treatment-resistance definition are commonly put at around a third, and the figure changes with the criteria used.
 
 ## Staging Models
 
@@ -30,13 +30,13 @@ Several models have been developed to classify the degree of treatment resistanc
 ## Treatment Options
 
 - **Electroconvulsive therapy (ECT)**: remains an established treatment for severe or treatment-resistant depression, with relatively high response rates even in severe cases or cases accompanied by psychotic symptoms.
-- **Ketamine and esketamine**: Recent clinical trials, among them the ELEKT-D trial published in the *New England Journal of Medicine* in 2023, showed that intravenous ketamine is no less effective than ECT in non-psychotic treatment-resistant major depression (response of about 55% versus about 41%). However, ketamine does not replace ECT in psychotic or medically critical cases. The US Food and Drug Administration approved **nasal esketamine** (Esketamine/Spravato) in 2019 for treatment-resistant depression, used together with an oral antidepressant.
+- **Ketamine and esketamine**: Recent clinical trials, among them the ELEKT-D trial published in the *New England Journal of Medicine* in 2023, showed that intravenous ketamine is no less effective than ECT in non-psychotic treatment-resistant major depression (response of about 55% versus about 41%). However, ketamine does not replace ECT in psychotic or medically critical cases. The US Food and Drug Administration approved **nasal esketamine** (Esketamine/Spravato) in 2019 for treatment-resistant depression, used together with an oral antidepressant. In January 2025 the agency also approved it for use on its own (monotherapy) in adults with treatment-resistant depression.
 - **Repetitive transcranial magnetic stimulation (rTMS)**: a non-invasive brain stimulation option used in treatment-resistant depression.
 - **Augmentation medications**: adding agents such as atypical antipsychotics or lithium to the primary antidepressant.
 
 ## Impact
 
-Staging models gave trials a shared way to describe how many treatments had already failed. In 2019 the US Food and Drug Administration approved nasal esketamine, used with an oral antidepressant, for treatment-resistant depression. Unlike most earlier antidepressants, its principal proposed action is on glutamatergic (NMDA) signaling. Longer-term benefit, and how it compares with other options, remain matters of study.
+Staging models gave trials a shared way to describe how many treatments had already failed. In 2019 the US Food and Drug Administration approved nasal esketamine, used with an oral antidepressant, for treatment-resistant depression, and in 2025 extended the approval to monotherapy. Unlike most earlier antidepressants, its principal proposed action is on glutamatergic (NMDA) signaling. Longer-term benefit, and how it compares with other options, remain matters of study.
 
 ## Limits
 
@@ -50,3 +50,4 @@ This entry is educational and descriptive; it is not clinical advice.
 - A. John Rush et al., "Acute and Longer-Term Outcomes in Depressed Outpatients Requiring One or Several Treatment Steps: A STAR*D Report," *American Journal of Psychiatry* 163 (2006): 1905-1917.
 - Amit Anand et al., "Ketamine versus ECT for Nonpsychotic Treatment-Resistant Major Depression," *New England Journal of Medicine* 388 (2023): 2315-2325.
 - U.S. Food and Drug Administration, approval notice for esketamine (Spravato), 2019.
+- Johnson & Johnson, "SPRAVATO (esketamine) approved in the U.S. as the first and only monotherapy for adults with treatment-resistant depression," press release, January 21, 2025.

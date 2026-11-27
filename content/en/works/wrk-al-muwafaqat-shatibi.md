@@ -4,7 +4,7 @@ id: "WRK-2201"
 type: "عمل / كتاب"
 part: "legal-theory"
 level: "متقدم"
-quality: "incomplete"
+quality: "incomplete, unverified"
 title: "Al-Muwafaqat fi Usul al-Shari'ah"
 author: "Abu Ishaq al-Shatibi"
 author_slug: "thk-al-shatibi"
@@ -58,7 +58,7 @@ Reformist circles associated with Muhammad Abduh and Rashid Rida, and scholars s
 
 ## The Three Levels: The Necessities, the Needs and the Embellishments
 
-Al-Shatibi elaborates a precise hierarchy among levels of interest. The **necessities** (*daruriyyat*) are those without which religious and worldly life cannot subsist, and whose loss leads to general corruption that cannot be tolerated. The **needs** (*hajiyyat*) are what the community requires to remove hardship and difficulty, without whose loss reaching the level of general corruption, such as the concessions for travel. The **embellishments** (*tahsiniyyat*) relate to noble morals and good customs, without whose loss the uprightness of life is impaired. This ordering is not merely a descriptive classification. It serves a practical deductive rule: in case of conflict, the necessity takes precedence over the need, and the need over the embellishment. Later jurists widely used this rule in weighing fatwas when interests collide.
+Al-Shatibi elaborates a precise hierarchy among levels of interest. The **necessities** (*daruriyyat*) are those without which religious and worldly life cannot subsist, and whose loss leads to general corruption that cannot be tolerated. The **needs** (*hajiyyat*) are what the community requires to remove hardship and difficulty, and whose loss causes hardship without reaching the level of general corruption, such as the concessions for travel. The **embellishments** (*tahsiniyyat*) relate to noble morals and good customs, whose absence does not impair the uprightness of life. This ordering is not merely a descriptive classification. It serves a practical deductive rule: in case of conflict, the necessity takes precedence over the need, and the need over the embellishment. Later jurists widely used this rule in weighing fatwas when interests collide.
 
 ## Sources
 

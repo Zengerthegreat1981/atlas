@@ -4,6 +4,7 @@ id: "PHL-30004"
 type: "مجال"
 part: philosophy
 level: "متوسط"
+quality: "unverified"
 title: "Metaphysics"
 en: "Metaphysics"
 crumb: "Philosophy ← Fields ← Metaphysics"
@@ -33,7 +34,7 @@ Aristotle distinguished four kinds of cause (material, formal, efficient, final)
 
 ## Time
 
-Debate about time was sharpened by J. M. E. McTaggart's 1908 argument that time is unreal. The **A-theory** takes the passage of time and a privileged present to be real; the **B-theory** holds that time consists of earlier-than and later-than relations among events, all equally real, which is often called eternalism. **Presentism** claims only the present exists. Physics, especially relativity, is often held to favour the B-theory because it denies absolute simultaneity, though the matter remains disputed.
+Debate about time was sharpened by J. M. E. McTaggart's 1908 argument that time is unreal. The **A-theory** takes the passage of time and a privileged present to be real; the **B-theory** holds that time consists of earlier-than and later-than relations among events, all equally real, a view often paired with eternalism, the claim that past and future things are as real as present ones. **Presentism** claims only the present exists. Physics, especially relativity, is often held to favour the B-theory because it denies absolute simultaneity, though the matter remains disputed.
 
 ## Modality and possible worlds
 
@@ -43,7 +44,7 @@ Metaphysicians distinguish what is actual from what is possible or necessary. Sa
 
 What makes a person at one time the same as a person at another? John Locke proposed psychological continuity grounded in memory, Joseph Butler and Thomas Reid objected to circularity, and Derek Parfit in *Reasons and Persons* (1984) argued that identity is not what matters. Animalists hold that we are organisms. Buddhist thinkers deny a persisting self altogether.
 
-The **free will** debate concerns whether freedom is compatible with determinism. **Compatibilists**, such as Hume and Harry Frankfurt, say yes; **libertarians** say freedom requires indeterminism and agent causation; **hard determinists** deny freedom. Peter van Inwagen's consequence argument and Galen Strawson's basic argument are prominent challenges to freedom.
+The **free will** debate concerns whether freedom is compatible with determinism. **Compatibilists**, such as Hume and Harry Frankfurt, say yes; **libertarians** say we are free and that freedom requires indeterminism, with some also appealing to agent causation; **hard determinists** deny freedom. Peter van Inwagen's consequence argument and Galen Strawson's basic argument are prominent challenges to freedom.
 
 ## Connections and method
 

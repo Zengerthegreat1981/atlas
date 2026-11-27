@@ -36,12 +36,12 @@ Opposing deterministic genetic models, developmental psychologists, sociologists
 
 The contemporary epistemological consensus has shifted away from simplistic dichotomies toward dynamic developmental models:
 - **Epigenetic Mechanisms**: Epigenetics investigates changes in gene expression—such as DNA methylation and histone modification—induced by environmental exposures (e.g., chronic toxic stress, maternal deprivation) without altering the underlying nucleotide sequence. While animal models (Meaney, 2001) demonstrate clear behavioral transmission, human behavioral epigenetics remains cautious due to tissue specificity (brain tissue cannot be directly sampled in living humans).
-- **Candidate Gene vs. Polygenic GxE**: Early claims that single candidate genes moderated environmental stress (e.g., the 5-HTTLPR serotonin transporter polymorphism or MAOA interacting with childhood maltreatment) failed to replicate in well-powered genome-wide studies (Border et al., 2019). Modern research conceptualizes gene-environment interaction ($G \times E$) across thousands of loci.
+- **Candidate Gene vs. Polygenic GxE**: Early claims that single candidate genes moderated environmental stress have fared unevenly. Candidate-gene findings for major depression, including those for the 5-HTTLPR serotonin transporter polymorphism and its interaction with stress, were not supported in very large samples (Border et al., 2019). The reported interaction between MAOA and childhood maltreatment in predicting antisocial behavior is a separate question: a meta-analysis found support for it mainly in males (Byrd & Manuck, 2014). Modern research conceptualizes gene-environment interaction ($G \times E$) across thousands of loci.
 - **Genetic Nurture**: Landmark genomic work by Kong and colleagues (2018) revealed that parental alleles not transmitted to offspring still predict child educational attainment through the nurturing environment created by parents, demonstrating that estimated genetic effects often reflect subtle environmental pathways.
 
 ## The Non-Shared Environment
 
-A critical insight from quantitative genetics (Plomin & Daniels, 1987) is that siblings raised in the same home are far less similar than shared familial influences would predict. Beyond shared additive genetics, the primary environmental forces shaping personality appear to be non-shared: unique peer groups, birth order dynamics, differential parental treatment, and chance life events.
+A critical insight from quantitative genetics (Plomin & Daniels, 1987) is that siblings raised in the same home are far less similar than shared familial influences would predict. Beyond shared additive genetics, the primary environmental forces shaping personality appear to be non-shared: possibly unique peer groups, differential parental treatment, and chance life events, although the specific factors remain largely unidentified. Birth order, often proposed, shows little lasting effect on broad personality traits (Rohrer, Egloff, & Schmukle, 2015).
 
 ## Clinical and Societal Implications
 
@@ -55,3 +55,5 @@ This debate directly informs educational policy, early childhood interventions (
 - Flynn, J. R. (1987). Massive IQ gains in 14 nations: What IQ tests really measure. *Psychological Bulletin*, 101(2), 171–191.
 - Border, R., Johnson, E. C., Evans, L. M., Smolen, A., Berley, N., Sullivan, P. F., & Keller, M. C. (2019). No support for historical candidate gene or candidate gene-by-interaction hypotheses for major depression across large samples. *American Journal of Psychiatry*, 176(5), 376–387.
 - Kong, A., Thorleifsson, G., Frigge, M. L., Vilhjalmsson, B. J., Young, A. I., Thorgeirsson, T. E., ... & Stefansson, K. (2018). The nature of nurture: Effects of parental genotypes. *Science*, 359(6374), 424–428.
+- Byrd, A. L., & Manuck, S. B. (2014). MAOA, childhood maltreatment, and antisocial behavior: Meta-analysis of a gene-environment interaction. *Biological Psychiatry*, 75(1), 9–17.
+- Rohrer, J. M., Egloff, B., & Schmukle, S. C. (2015). Examining the effects of birth order on personality. *Proceedings of the National Academy of Sciences*, 112(46), 14224–14229.

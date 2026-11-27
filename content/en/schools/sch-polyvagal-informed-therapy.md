@@ -90,7 +90,8 @@ The polyvagal-informed framework occupies a unique position:
 ### Scientific Criticisms
 - **Grossman and Taylor (2007)**: an earlier critique in *Biological Psychology* questioned the theory's account of respiratory sinus arrhythmia, vagal function, and the evolutionary sequence it proposes.
 - **Grossman (2023)**: a further critical article in *Biological Psychology* argued that the theory's central premises about vagal anatomy, evolution, and function are not supported by the comparative and physiological evidence.
-- **Porges's response**: Porges and colleagues have published replies defending the theory.
+- **Expert evaluation (2026)**: Grossman and 38 co-authors, writing in *Clinical Neuropsychiatry*, concluded that the theory is not defensible on current neurophysiological and evolutionary evidence.
+- **Porges's response**: Porges has published replies defending the theory, including one in the same 2026 journal issue arguing that the critique mischaracterizes it.
 - **The manual problem**: there is no approved "Treatment Manual" for "Polyvagal-Informed Therapy" in the strict sense, which makes the "therapy" closer to applying the framework within other therapies.
 
 ## Sources
@@ -100,6 +101,8 @@ The polyvagal-informed framework occupies a unique position:
 - Porges, S. W., & Dana, D. (Eds.). (2018). *Clinical Applications of the Polyvagal Theory: The Emergence of Polyvagal-Informed Therapies*. Norton.
 - Dana, D. (2018). *The Polyvagal Theory in Therapy: Engaging the Rhythm of Regulation*. Norton.
 - Grossman, P. (2023). Fundamental challenges and likely refutations of the five basic premises of the polyvagal theory. *Biological Psychology, 180*, 108589.
+- Grossman, P., et al. (2026). Why the polyvagal theory is untenable. *Clinical Neuropsychiatry, 23*(1), 100-112.
+- Porges, S. W. (2026). When a critique becomes untenable: A scholarly response to Grossman et al.'s evaluation of polyvagal theory. *Clinical Neuropsychiatry, 23*(1), 113-128.
 - Grossman, P., & Taylor, E. W. (2007). Toward understanding respiratory sinus arrhythmia: Relations to cardiac vagal tone, evolution and biobehavioral functions. *Biological Psychology, 74*(2), 263-285.
 - Siegel, D. J. (1999). *The Developing Mind*. Guilford. (Source of the "window of tolerance" concept often used alongside polyvagal ideas.)
 

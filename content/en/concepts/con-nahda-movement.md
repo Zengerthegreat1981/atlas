@@ -32,7 +32,7 @@ Journalism was the platform of the Nahda: *al-Muqtataf* (1876) by Ya'qub Sarruf 
 
 ## Diverse Currents
 
-The Nahda was not a single trend. There was Islamic reform in the work of al-Afghani and Abduh; a secular modernizing current, as in Shibli Shumayyil and Farah Antun; an emerging nationalist movement; and an Egyptian liberal trend, as in Ahmad Lutfi al-Sayyid and Taha Husayn. Ahmad Amin, in *Zu'ama' al-Islah fi al-'Asr al-Hadith* (Leaders of Reform in the Modern Age, 1948), traces the lives of some leading figures of religious reform, while George Antonius wrote *The Arab Awakening* (1938) from the perspective of nationalism.
+The Nahda was not a single trend. There was Islamic reform in the work of al-Afghani and Abduh; a secular modernizing current, as in Shibli Shumayyil and Farah Antun; an emerging nationalist movement; and an Egyptian liberal trend, as in Ahmad Lutfi al-Sayyid and Taha Husayn. Ahmad Amin, in *Zu'ama' al-Islah fi al-'Asr al-Hadith* (Leaders of Reform in the Modern Age, 1948), traces the lives of some leading figures of modern reform, while George Antonius wrote *The Arab Awakening* (1938) from the perspective of nationalism.
 
 ## Critique of the Concept
 

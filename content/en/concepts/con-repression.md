@@ -42,13 +42,14 @@ Psychoanalytic and clinical psychology strictly distinguish between two forms of
 
 Repression has been the subject of extensive empirical evaluation and intense debate within academic psychology:
 - **The Memory Wars and False Memories**: Cognitive memory researchers, notably Elizabeth Loftus, have challenged the traditional psychoanalytic claim of massive, unconscious repression of traumatic memories. Loftus and colleagues demonstrated that human episodic memory is constructive and highly malleable, showing that techniques designed to "recover" repressed memories can inadvertently implant false memories through suggestion and demand characteristics.
-- **Experimental Inhibition (Think/No-Think Paradigm)**: Conversely, cognitive neuroscientists such as Michael Anderson and Collin Green (2001) provided experimental evidence for active inhibitory control over memory retrieval. Utilizing the "Think/No-Think" paradigm, functional neuroimaging demonstrated that when individuals intentionally prevent an unwanted memory from entering consciousness, the dorsolateral prefrontal cortex actively down-regulates activity in the hippocampus, illustrating a neurobiological mechanism for motivated forgetting.
+- **Experimental Inhibition (Think/No-Think Paradigm)**: Conversely, cognitive neuroscientists such as Michael Anderson and Collin Green (2001) provided experimental evidence for active inhibitory control over memory retrieval using the "Think/No-Think" paradigm. A later functional neuroimaging study (Anderson et al., 2004) found that keeping unwanted memories out of awareness was associated with increased dorsolateral prefrontal activation, reduced hippocampal activation, and impaired retention, which the authors interpreted as a neurobiological model of motivated forgetting.
 
 ## Sources
 
 - Freud, S. (1895). Project for a scientific psychology. *The Standard Edition of the Complete Psychological Works of Sigmund Freud*, 1, 281-397.
 - Breuer, J., & Freud, S. (1895). *Studies on Hysteria*. Basic Books.
 - Freud, S. (1915). Repression. *The Standard Edition of the Complete Psychological Works of Sigmund Freud*, 14, 141-158.
-- Freud, A. (1936). *The Ego and the Mechanisms of Defence*. Hogarth Press.
+- Freud, A. (1937). *The Ego and the Mechanisms of Defence*. Hogarth Press. (Original German work published 1936)
 - Loftus, E. F., & Ketcham, K. (1994). *The Myth of Repressed Memory: False Memories and Allegations of Sexual Abuse*. St. Martin's Press.
 - Anderson, M. C., & Green, C. (2001). Suppressing unwanted memories by executive control. *Nature*, 410(6826), 366-369.
+- Anderson, M. C., et al. (2004). Neural systems underlying the suppression of unwanted memories. *Science*, 303(5655), 232-235.

@@ -24,7 +24,7 @@ A founding concept in Kant's philosophy, set out in the *Groundwork of the Metap
 
 - "Autonomy" (Autonomie): the property of the will of being the source of its own law. Opposed to "heteronomy" (Heteronomie): the will that receives its law from outside.
 - The moral law is not imposed by God, nature or society; reason itself imposes it on itself.
-- "Act so that you can at the same time will that your maxim become a universal law" (the first formula).
+- "Act only on that maxim through which you can at the same time will that it become a universal law" (the first formula).
 
 ## The Contemporary Formulation (Korsgaard, O'Neill)
 

@@ -23,7 +23,7 @@ An interdisciplinary field between psychiatry and medical anthropology that stud
 
 ## Origins and Context
 
-The roots of the field go back to colonial ethnographic psychiatry in the early twentieth century (Emil Kraepelin himself visited Java in 1904 and published a short paper on "comparative psychiatry" the same year). It crystallized as an organized field from the 1950s and 1960s, notably around the Montreal group associated with Eric Wittkower and Raymond Prince at McGill University and the journal *Transcultural Psychiatric Research Review* (founded in 1956 and later renamed *Transcultural Psychiatry*). The decisive shift came in the 1970s and 1980s with the work of Arthur Kleinman, who combined his medical training with an anthropological background to propose a coherent theoretical framework. It distinguishes between "disease," meaning a biological dysfunction, and "illness," meaning lived experience and cultural meaning, drawing on his fieldwork in Taiwan and China.
+The roots of the field go back to colonial ethnographic psychiatry in the early twentieth century (Emil Kraepelin himself visited Java in 1904 and published a short paper on "comparative psychiatry" the same year). It crystallized as an organized field from the 1950s and 1960s, notably around the Montreal group associated with Eric Wittkower and Raymond Prince at McGill University and an international newsletter begun there in 1956, which became the journal *Transcultural Psychiatric Research Review* and in 1997 was renamed *Transcultural Psychiatry*. The decisive shift came in the 1970s and 1980s with the work of Arthur Kleinman, who combined his medical training with an anthropological background to propose a coherent theoretical framework. It distinguishes between "disease," meaning a biological dysfunction, and "illness," meaning lived experience and cultural meaning, drawing on his fieldwork in Taiwan and China.
 
 ## Core Concepts
 
@@ -36,7 +36,7 @@ The roots of the field go back to colonial ethnographic psychiatry in the early 
 
 - **Arthur Kleinman**: a leading theorist of the field, author of *Patients and Healers in the Context of Culture* (1980) and *The Illness Narratives* (1988).
 - **Roland Littlewood**: a British psychiatrist and anthropologist who worked on race, migration, and mental health in Britain. With Maurice Lipsedge, he criticized ethnic biases in psychiatric diagnosis.
-- **Byron Good**: together with Kleinman, developed the approach of "meaning-centered medical anthropology," and analyzed illness meanings in Iran, including "heart distress," as a test case for the meaning-centered approach.
+- **Byron Good**: developed, with Mary-Jo DelVecchio Good, a "meaning-centered" approach in medical anthropology (and co-edited *Culture and Depression* with Kleinman in 1985). He analyzed illness meanings in Iran, including "heart distress," as a test case for the meaning-centered approach.
 - **The American Psychiatric Association's DSM work on culture**: DSM-IV (1994) introduced the Outline for Cultural Formulation and a glossary of culture-bound syndromes. DSM-5 (2013) replaced the glossary with "cultural concepts of distress" and added the Cultural Formulation Interview (CFI), a 16-question semi-structured interview with supplementary modules and an informant version, retained in DSM-5-TR (2022).
 
 ## Limitations

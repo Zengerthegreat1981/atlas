@@ -47,7 +47,7 @@ Judith Herman argued that the study of psychological trauma has repeatedly been 
 ## Treatments and Their Evidence
 
 - **Strongest evidence**: trauma-focused cognitive-behavioral therapies, including **Prolonged Exposure** (Foa) and **Cognitive Processing Therapy** (Resick). They are among the first-line treatments recommended in major clinical guidelines.
-- **EMDR**: effective in controlled trials; **its proposed mechanism** (eye movements as the active ingredient) is what is disputed. Dismantling studies suggest that the eye movements may add little beyond the exposure and processing components.
+- **EMDR**: effective in controlled trials; **its proposed mechanism** (eye movements as the active ingredient) is what is disputed. Some dismantling studies suggest that the eye movements may add little beyond the exposure and processing components, whereas a 2013 meta-analysis (Lee and Cuijpers) reported a moderate additional effect in treatment studies.
 - **Body-based therapies** (Levine, Ogden): accepted in practice and widespread, **but their empirical evidence is weaker** than that of the first group, with fewer and smaller controlled trials.
 
 ## Complex PTSD and Developmental Trauma
@@ -80,4 +80,5 @@ In contrast, the American DSM-5-TR opted not to create a separate CPTSD diagnost
 - Ogden, P., Minton, K. & Pain, C. *Trauma and the Body: A Sensorimotor Approach to Psychotherapy*. W. W. Norton, 2006.
 - Cloitre, M., Garvert, D. W., Brewin, C. R., Bryant, R. A., & Maercker, A. (2013). Evidence for proposed ICD-11 PTSD and complex PTSD: A latent profile analysis. *European Journal of Psychotraumatology, 4*, 20706.
 - World Health Organization. (2019/2022). *International Statistical Classification of Diseases and Related Health Problems* (11th ed.; ICD-11). World Health Organization.
-- Mavranezouli, I., et al. (2020). Psychological and psychosocial treatments for adults with posttraumatic stress disorder: A systematic review and network meta-analysis. *Psychological Medicine, 50*(4), 542–555.
+- Lee, C. W., & Cuijpers, P. (2013). A meta-analysis of the contribution of eye movements in processing emotional memories. *Journal of Behavior Therapy and Experimental Psychiatry, 44*(2), 231–239.
+- Mavranezouli, I., et al. (2020). Psychological treatments for post-traumatic stress disorder in adults: A network meta-analysis. *Psychological Medicine, 50*(4), 542–555.

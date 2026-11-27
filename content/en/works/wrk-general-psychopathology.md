@@ -27,7 +27,7 @@ gaps: []
 
 # General Psychopathology (Allgemeine Psychopathologie)
 
-*Allgemeine Psychopathologie* (1913), by Karl Jaspers, is the foundational work that introduced the phenomenological method into clinical psychiatry, remaining a core reference text more than a century after its initial appearance. Jaspers published the treatise as a young physician in his early thirties working under Franz Nissl at the Heidelberg University Psychiatric Clinic, prior to his transition to academic philosophy. He expanded and refined the volume across successive editions, culminating in the monumental seventh edition of 1959. The standard English translation by J. Hoenig and Marian W. Hamilton, published in 1963, renders that expanded 1959 text. The work argued that phenomenology could establish a rigorous, cumulative, and teachable methodology within clinical medicine.
+*Allgemeine Psychopathologie* (1913), by Karl Jaspers, is the foundational work that introduced the phenomenological method into clinical psychiatry, remaining a core reference text more than a century after its initial appearance. Jaspers published the treatise as a young physician in his early thirties working under Franz Nissl at the Heidelberg University Psychiatric Clinic, prior to his transition to academic philosophy. He expanded and refined the volume in later editions; the major enlargement came with the fourth edition, completed during the National Socialist era and published in 1946, and the seventh edition of 1959 essentially follows that revision. The standard English translation by J. Hoenig and Marian W. Hamilton, published in 1963, renders that expanded 1959 text. The work argued that phenomenology could establish a rigorous, cumulative, and teachable methodology within clinical medicine.
 
 ## Understanding and Explanation
 
@@ -47,7 +47,7 @@ Crucially, Jaspers drew clear boundaries around phenomenological understanding. 
 
 ## Structure, Development, and Influence
 
-While the 1913 first edition was a concise volume, the 1959 seventh edition expanded into a comprehensive compendium of descriptive psychopathology. It systematically catalogs anomalies of perception, thought, affect, self-awareness, and temporal experience, providing clinicians with usable diagnostic descriptions prior to classification. The work established the Heidelberg school of descriptive and phenomenological psychopathology and continues to shape contemporary diagnostic systems, phenomenological psychiatry, and philosophical psychopathology.
+While the 1913 first edition was a comparatively concise volume, the fourth edition of 1946, carried into the 1959 seventh edition, was a much larger and comprehensive compendium of descriptive psychopathology. It systematically catalogs anomalies of perception, thought, affect, self-awareness, and temporal experience, providing clinicians with usable diagnostic descriptions prior to classification. The work established the Heidelberg school of descriptive and phenomenological psychopathology and continues to shape contemporary diagnostic systems, phenomenological psychiatry, and philosophical psychopathology.
 
 ## Sources
 

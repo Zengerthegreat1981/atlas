@@ -4,6 +4,7 @@ id: "THK-2167"
 type: "مفكر"
 part: "psychology"
 level: "متقدم"
+quality: "unverified"
 title: "Antonio Damasio"
 en: "Antonio Damasio"
 crumb: "Psychology ← Thinkers ← Antonio Damasio"
@@ -62,14 +63,14 @@ Damasio maintains that phenomenal subjectivity arises directly from homeostatic 
 
 Damasio's theoretical contributions emerged from classical clinical neuropsychology, inferring neural functions from focal lesion deficits:
 - **Patient EVR ("Elliot")**: Investigated by Eslinger and Damasio (1985), Elliot suffered vmPFC damage following the excision of a meningioma. While achieving superior scores on standard IQ tests, executive function batteries, and moral reasoning dilemmas, he was incapable of prioritizing everyday tasks or making sound social choices due to the absence of emotional signaling.
-- **The Historical Reconstruction of Phineas Gage**: In a 1994 paper in *Science*, Hanna Damasio and Antonio Damasio used neuroimaging techniques to reconstruct the trajectory of the tamping iron through Gage's skull, confirming that bilateral damage was focused on the vmPFC.
+- **The Historical Reconstruction of Phineas Gage**: In a 1994 paper in *Science*, Hanna Damasio, Antonio Damasio, and colleagues used measurements of Gage's skull and neuroimaging techniques to model the trajectory of the tamping iron, concluding that both frontal lobes, including ventromedial regions, were damaged. Later reconstructions (Ratiu and colleagues, 2004; Van Horn and colleagues, 2012) instead placed the damage in the left frontal lobe.
 - **The Iowa Gambling Task (IGT)**: Developed by Antoine Bechara, Antonio Damasio, Hanna Damasio, and colleagues in the 1990s (see Bechara et al., 1997), the IGT tested decision-making under uncertainty. Participants drew cards from four decks: two "disadvantageous" decks offering high immediate rewards but catastrophic net losses, and two "advantageous" decks offering smaller rewards but steady gains. Healthy participants began favoring advantageous decks and developed anticipatory skin conductance responses (autonomic markers) *before* consciously recognizing the underlying rule. Patients with vmPFC lesions failed to develop anticipatory somatic responses and consistently chose the losing decks.
 
 ## Biography and Career
 
 Antonio Damasio was born on 25 February 1944 in Lisbon, Portugal. He obtained his medical degree from the University of Lisbon in 1969 and his doctorate in 1974. Following postdoctoral work at the Beth Israel Hospital and Harvard Medical School, he moved to the United States in 1976. 
 
-From 1976 to 2005, Damasio directed the Department of Neurology at the University of Iowa College of Medicine, establishing an internationally recognized center for behavioral neurology and cognitive neuroscience. In 2005, he was appointed David Dornsife Professor of Neuroscience, Psychology, and Philosophy at the University of Southern California (USC), where he co-directs the Brain and Creativity Institute alongside his lifelong collaborator and spouse, the neurologist Hanna Damasio.
+Damasio held faculty posts at the University of Iowa College of Medicine from the mid-1970s to 2005 and headed its Department of Neurology from the mid-1980s (university records give 1985 or 1986) until 2005, establishing an internationally recognized center for behavioral neurology and cognitive neuroscience. In 2005, he moved to the University of Southern California (USC), where he became David Dornsife Professor of Neuroscience (2006), also holds appointments in psychology, neurology and (from 2016) philosophy, and co-directs the Brain and Creativity Institute alongside his lifelong collaborator and spouse, the neurologist Hanna Damasio.
 
 ## Impact and Criticism
 

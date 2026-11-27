@@ -4,6 +4,7 @@ id: "PHL-30010"
 type: "مجال"
 part: philosophy
 level: "متوسط"
+quality: "unverified"
 title: "Ethics (Overview)"
 en: "Ethics (Overview)"
 crumb: "Philosophy ← Fields ← Ethics (Overview)"

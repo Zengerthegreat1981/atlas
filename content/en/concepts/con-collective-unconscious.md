@@ -45,7 +45,7 @@ Jung likened the archetype to the **axial system of a crystal** forming in a mot
 
 Jung derived evidence for the collective unconscious from three primary domains:
 1. **Cross-Cultural Mythological Motifs**: The spontaneous recurrence of identical symbolic motifs (the flood, the heroic descent and rebirth, the divine child, the shadow) across civilizations between which historical contact or cultural diffusion was implausible.
-2. **Clinical Material**: Symbolic visions and dreams in psychiatric patients lacking mythological or theological education. The most famous example is the Burghölzli patient Emil Schwyzer (the "Sun-phallus" case), whose hallucination of a solar tube moving and generating wind mirrored passages in the Greek *Mithras Liturgy* (published by Albrecht Dieterich in 1903/1910), with which the patient had no demonstrable acquaintance.
+2. **Clinical Material**: Symbolic visions and dreams in psychiatric patients lacking mythological or theological education. The most famous example is the Burghölzli patient Emil Schwyzer (the "Sun-phallus" case), whose hallucination of a solar tube moving and generating wind mirrored passages in the Greek *Mithras Liturgy* (published by Albrecht Dieterich in 1903/1910), with which, in Jung's view, the patient had no acquaintance. This inference has been disputed, notably by Richard Noll (1994), who argued that the patient could have had access to such material.
 3. **Alchemical and Hermetic Texts**: Jung's historical reading of alchemical treatises as symbolic projections of deep psychological processes rather than proto-chemical laboratory experiments.
 
 ## Role in the Jungian Architecture
@@ -67,5 +67,6 @@ In contemporary clinical analytical practice, the concept is valued primarily fo
 - Jacobi, J. (1959). *Complex/Archetype/Symbol in the Psychology of C. G. Jung* (R. Manheim, Trans.). Princeton University Press.
 - Jung, C. G. (1968). *The Archetypes and the Collective Unconscious* (Collected Works, Vol. 9, Part 1, R. F. C. Hull, Trans.). Princeton University Press.
 - Jung, C. G. (1966). *Two Essays on Analytical Psychology* (Collected Works, Vol. 7, R. F. C. Hull, Trans.). Princeton University Press.
+- Noll, R. (1994). *The Jung Cult: Origins of a Charismatic Movement*. Princeton University Press.
 - Shamdasani, S. (2003). *Jung and the Making of Modern Psychology: The Dream of a Science*. Cambridge University Press.
 - Stevens, A. (2002). *Archetype Revisited: An Updated Natural History of the Self*. Brunner-Routledge.

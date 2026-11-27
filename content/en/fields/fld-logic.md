@@ -4,6 +4,7 @@ id: "PHL-30002"
 type: "مجال"
 part: philosophy
 level: "متوسط"
+quality: "unverified"
 title: "Logic"
 en: "Logic"
 crumb: "Philosophy ← Fields ← Logic"
@@ -35,7 +36,7 @@ Two terms must be kept apart. An argument is **valid** when it is impossible for
 
 Indian logic developed independently in the Nyaya school, whose members analysed inference (*anumana*) using a five-part argument pattern, and in Buddhist logic, where Dignaga and Dharmakirti worked on the theory of the "reason" or mark that licenses an inference. Chinese logic was pursued by the Mohists and the School of Names, with attention to disputation and language.
 
-The modern era began with **Gottlob Frege**, whose *Begriffsschrift* (1879) introduced quantificational logic with a precise formal language. **Bertrand Russell** and **Alfred North Whitehead** produced *Principia Mathematica* (1910-1913), attempting to derive mathematics from logic. **David Hilbert** pursued formal axiomatisation, and **Kurt Gödel** showed in 1931 that any consistent formal system strong enough for arithmetic contains true statements it cannot prove, and cannot prove its own consistency. Alfred Tarski gave a rigorous account of truth for formal languages, and Alonzo Church and Alan Turing demonstrated in 1936 that first-order logic is undecidable. Gödel's completeness theorem (1929) shows that first-order logic proves all its valid formulas.
+The modern era began with **Gottlob Frege**, whose *Begriffsschrift* (1879) introduced quantificational logic with a precise formal language. **Bertrand Russell** and **Alfred North Whitehead** produced *Principia Mathematica* (1910-1913), attempting to derive mathematics from logic. **David Hilbert** pursued formal axiomatisation, and **Kurt Gödel** showed in 1931 that any consistent, effectively axiomatised formal system strong enough for arithmetic contains true statements it cannot prove, and cannot prove its own consistency. Alfred Tarski gave a rigorous account of truth for formal languages, and Alonzo Church and Alan Turing demonstrated in 1936 that first-order logic is undecidable. Gödel's completeness theorem (1929) shows that first-order logic proves all its valid formulas.
 
 ## Formal logic and its extensions
 
@@ -57,7 +58,7 @@ Logic underlies mathematics (set theory, proof theory, model theory, computabili
 
 ## Common misunderstandings
 
-Logic is not the same as being sensible or unemotional, and "logical" in ordinary speech often means merely "reasonable". Validity does not guarantee truth. A formal system's limits, as shown by Godel, do not show that human reasoning is irrational or that mathematics is unreliable. Finally, there is not simply one fixed logic that all reasoning must obey, though classical logic remains the default for much of mathematics and science.
+Logic is not the same as being sensible or unemotional, and "logical" in ordinary speech often means merely "reasonable". Validity does not guarantee truth. A formal system's limits, as shown by Gödel, do not show that human reasoning is irrational or that mathematics is unreliable. Finally, there is not simply one fixed logic that all reasoning must obey, though classical logic remains the default for much of mathematics and science.
 
 ## Sources
 

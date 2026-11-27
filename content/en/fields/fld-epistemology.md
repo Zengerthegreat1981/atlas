@@ -4,6 +4,7 @@ id: "PHL-30003"
 type: "مجال"
 part: philosophy
 level: "متوسط"
+quality: "unverified"
 title: "Epistemology"
 en: "Epistemology"
 crumb: "Philosophy ← Fields ← Epistemology"

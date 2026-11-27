@@ -52,7 +52,7 @@ Core conditioning dynamics include:
 Early behaviorists conceptualized conditioning as a mechanical, contiguous pairing of stimuli. In the late 1960s and 1970s, cognitive formulations revolutionized this view:
 - **Contingency and Information Value**: Robert Rescorla (1968, 1988) demonstrated that contiguity alone is insufficient; conditioning depends on predictive contingency—whether the CS reliably predicts the occurrence or non-occurrence of the UCS.
 - **The Rescorla-Wagner Model (1972)**: Formulated associative learning mathematically based on "prediction error"—the difference between what is expected and what occurs. If a UCS is already fully predicted by an existing CS, no learning occurs to an added redundant stimulus, explaining Leon Kamin's (1969) famous **blocking effect**.
-- **Biological Preparedness**: John Garcia and Robert Koelling (1966) discovered the "Garcia effect" (conditioned taste aversion), demonstrating that rats innately associate taste with nausea (even across multi-hour delays), but not with auditory or visual shocks. Martin Seligman (1971) synthesized these findings into the principle of biological preparedness, proving that evolutionary selection biases which associations an organism easily forms.
+- **Biological Preparedness**: In work on conditioned taste aversion (the "Garcia effect"), John Garcia and Robert Koelling (1966) showed that rats readily associated taste cues with illness and audiovisual cues with electric shock, but learned the reverse pairings poorly; other studies showed that taste aversions can form across delays of hours. Martin Seligman (1970, 1971) synthesized such findings into the principle of biological preparedness, proposing that evolutionary selection biases which associations an organism easily forms.
 
 ## Classical versus Operant Conditioning
 
@@ -63,7 +63,7 @@ Classical conditioning differs fundamentally from B. F. Skinner's operant (instr
 ## Clinical and Psychotherapeutic Applications
 
 Classical conditioning provides the empirical foundation for prominent behavioral and cognitive-behavioral therapies:
-- **Conditioned Emotional Reactions**: John B. Watson and Rosalie Rayner's Little Albert experiment (1920) demonstrated that phobic fear and anxiety can be established via classical conditioning.
+- **Conditioned Emotional Reactions**: John B. Watson and Rosalie Rayner's Little Albert experiment (1920) reported that a fear response could be established in an infant via classical conditioning; as a single-case study with serious methodological and ethical limitations, it has often been overstated in later retellings (Harris, 1979).
 - **Systematic Desensitization**: Joseph Wolpe (1958) developed reciprocal inhibition, pairing hierarchical anxiety-provoking imagery with antagonistic relaxation responses.
 - **Exposure Therapies**: Prolonged exposure and Exposure with Response Prevention (ERP for OCD) rely on extinction processes. Modern clinical research (e.g., Michelle Craske, Mark Bouton) frames exposure therapy as "inhibitory learning," where treatment focuses on maximizing expectancy violation and context variability rather than mere habituation.
 - **Addiction and Cue Reactivity**: Conditioned environmental cues (paraphernalia, social contexts) elicit conditioned compensatory responses and intense craving, forming the basis for cue-exposure treatments.
@@ -71,8 +71,11 @@ Classical conditioning provides the empirical foundation for prominent behaviora
 ## Sources
 
 - Bouton, M. E. (2004). Context and behavioral processes in extinction. *Learning & Memory*, 11(5), 485–494.
+- Garcia, J., & Koelling, R. A. (1966). Relation of cue to consequence in avoidance learning. *Psychonomic Science*, 4, 123–124.
+- Harris, B. (1979). Whatever happened to Little Albert? *American Psychologist*, 34(2), 151–160.
 - Pavlov, I. P. (1927). *Conditioned Reflexes: An Investigation of the Physiological Activity of the Cerebral Cortex* (G. V. Anrep, Trans.). Oxford University Press.
 - Rescorla, R. A. (1988). Pavlovian conditioning: It's not what you think it is. *American Psychologist*, 43(3), 151–160.
 - Rescorla, R. A., & Wagner, A. R. (1972). A theory of Pavlovian conditioning: Variations in the effectiveness of reinforcement and nonreinforcement. In A. H. Black & W. F. Prokasy (Eds.), *Classical Conditioning II: Current Research and Theory* (pp. 64–99). Appleton-Century-Crofts.
+- Seligman, M. E. P. (1971). Phobias and preparedness. *Behavior Therapy*, 2(3), 307–320.
 - Watson, J. B., & Rayner, R. (1920). Conditioned emotional reactions. *Journal of Experimental Psychology*, 3(1), 1–14.
 - Wolpe, J. (1958). *Psychotherapy by Reciprocal Inhibition*. Stanford University Press.

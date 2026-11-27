@@ -4,6 +4,7 @@ id: "THK-0323"
 type: "مفكر"
 part: psychology
 level: "متوسط"
+quality: "unverified"
 title: "Henri F. Ellenberger"
 en: "Henri F. Ellenberger"
 crumb: "Existential Psychotherapy ← People ← Henri F. Ellenberger"
@@ -24,7 +25,7 @@ Henri F. Ellenberger (1905–1993) was a Swiss-Canadian psychiatrist, medical hi
 
 Ellenberger was born on 6 November 1905 in Nalolo, Barotseland (modern-day Zambia), to Swiss Protestant missionary parents, and spent his formative youth moving between southern Africa and Europe. He studied medicine in France, graduating from the University of Paris in 1934 and completing his psychiatric training under Henri Baruk. 
 
-During the 1930s and 1940s, Ellenberger practiced in Switzerland (notably at the Waldau Psychiatric Clinic in Bern and Breitenau in Schaffhausen), where he engaged deeply with Swiss phenomenological psychiatry and Daseinsanalysis. In 1953, he moved to the United States to join the Menninger Clinic in Topeka, Kansas, where he collaborated with Karl Menninger and taught psychiatric history. In 1959, Ellenberger was appointed professor of criminology and psychiatry at the Université de Montréal, where he taught until his retirement. This multilingual, transnational trajectory enabled him to bridge French, German, Swiss, and North American psychiatric traditions.
+From 1934 to 1941 Ellenberger practiced in Poitiers, France; during the 1940s and early 1950s he worked in Switzerland (notably at the Waldau Psychiatric Clinic in Bern and Breitenau in Schaffhausen), where he engaged deeply with Swiss phenomenological psychiatry and Daseinsanalysis. In 1953, he moved to the United States to join the Menninger Clinic in Topeka, Kansas, where he collaborated with Karl Menninger and taught psychiatric history. In 1959, Ellenberger moved to Montreal, initially to McGill University, and in 1962 became professor of criminology at the Université de Montréal. This multilingual, transnational trajectory enabled him to bridge French, German, Swiss, and North American psychiatric traditions.
 
 ## Historiographical Significance and Major Contributions
 

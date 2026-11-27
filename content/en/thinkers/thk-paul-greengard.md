@@ -4,6 +4,7 @@ id: "THK-13126"
 type: "مفكر"
 part: "psychiatry"
 level: "متقدم"
+quality: "unverified"
 title: "Paul Greengard"
 en: "Paul Greengard"
 crumb: "Psychiatry ← Thinkers ← Paul Greengard"
@@ -39,7 +40,7 @@ Greengard's team identified specific phosphorylated proteins that act as links b
 
 ## Relevance to Psychiatry
 
-This work helped in understanding how antipsychotics, antidepressants, stimulants and addiction drugs act, since the signal after the receptor determines the long-term effect. In 2002 Greengard co-founded Intra-Cellular Therapies to develop drugs that target these pathways. The company later developed lumateperone, which the US Food and Drug Administration approved for schizophrenia in 2019 and subsequently for depressive episodes in bipolar disorder. This is an example of basic knowledge moving into treatment, although the link between the drug and the DARPP-32 pathway specifically remains under investigation.
+This work helped in understanding how antipsychotics, antidepressants, stimulants and addiction drugs act, since the signal after the receptor determines the long-term effect. In 2002 Greengard co-founded Intra-Cellular Therapies to develop drugs that target these pathways. The company later developed lumateperone, which the US Food and Drug Administration approved for schizophrenia in 2019 and subsequently for depressive episodes in bipolar disorder (2021) and as an add-on to antidepressants for major depressive disorder (2025). This is an example of basic knowledge moving into treatment, although the link between the drug and the DARPP-32 pathway specifically remains under investigation.
 
 ## Awards and Support for Women in Science
 

@@ -4,6 +4,7 @@ id: "CON-0583"
 type: "مفهوم"
 part: "philosophy"
 level: "متوسط"
+quality: "unverified"
 title: "The Hermeneutic Circle"
 en: "Hermeneutic Circle"
 crumb: "Philosophy ← Concepts ← The Hermeneutic Circle"
@@ -28,10 +29,10 @@ The "hermeneutic circle" (*hermeneutischer Zirkel*) describes the circular, inte
 The concept evolved through several distinct phases in European philosophy:
 
 - **Philological and Rhetorical Origins**: While anticipated in classical rhetoric, Friedrich Ast (1808) systematized the principle that the spirit of a work is grasped through its details, and the details through the unifying spirit.
-- **Schleiermacher's Romantic Hermeneutics**: Friedrich Schleiermacher (1768–1834) integrated the circle into a universal hermeneutics in his lectures (1819 onward). He balanced "grammatical interpretation" (understanding words within linguistic structures) with "psychological" or "divinatory interpretation" (reconstructing the inner creative process of the author), emphasizing that comprehension requires an ongoing movement between individual utterances and the linguistic and psychic whole.
+- **Schleiermacher's Romantic Hermeneutics**: Friedrich Schleiermacher (1768–1834) integrated the circle into a universal hermeneutics in his lectures (from 1805). He balanced "grammatical interpretation" (understanding words within linguistic structures) with "psychological interpretation", in which a "divinatory" method predominates (reconstructing the inner creative process of the author), emphasizing that comprehension requires an ongoing movement between individual utterances and the linguistic and psychic whole.
 - **Dilthey and the Human Sciences**: Wilhelm Dilthey (*The Formation of the Historical World in the Human Sciences*, 1910) made the hermeneutic circle the epistemological cornerstone of the *Geisteswissenschaften* (humanities and social sciences), linking parts of human expressions to the lived experience (*Erlebnis*) of historical life.
 - **Heidegger's Ontological Turn**: In *Being and Time* (1927, §32), Martin Heidegger transformed the circle from a methodological tool into an existential structure of *Dasein*. Understanding is always already conditioned by a fore-structure: "fore-having" (*Vorhabe*), "fore-sight" (*Vorsicht*), and "fore-conception" (*Vorgriff*). Heidegger insisted that the circle is not a vicious fallacy to be avoided, but the very condition of possibility for authentic understanding: what matters is "not to get out of the circle, but to come into it in the right way."
-- **Gadamer's Philosophical Hermeneutics**: Hans-Georg Gadamer (1900–2002), in *Truth and Method* (1960), refined the circle as a productive historical process. The interpreter approaches a text with inherited "prejudices" (*Vorurteile*) grounded in tradition (*Wirkungsgeschichte*). Reading involves a "fore-conception of completeness" (*Vorgriff der Vollkommenheit*)—the provisional assumption that the text conveys a coherent unity of meaning—culminating in a "fusion of horizons" (*Horizontverschmelzung*) between past text and present interpreter.
+- **Gadamer's Philosophical Hermeneutics**: Hans-Georg Gadamer (1900–2002), in *Truth and Method* (1960), refined the circle as a productive historical process. The interpreter approaches a text with inherited "prejudices" (*Vorurteile*) grounded in tradition and its history of effects (*Wirkungsgeschichte*). Reading involves a "fore-conception of completeness" (*Vorgriff der Vollkommenheit*)—the provisional assumption that the text conveys a coherent unity of meaning—culminating in a "fusion of horizons" (*Horizontverschmelzung*) between past text and present interpreter.
 
 ## Parallels in the Arab-Islamic Hermeneutic Tradition
 

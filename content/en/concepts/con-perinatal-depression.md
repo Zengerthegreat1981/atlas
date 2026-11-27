@@ -36,7 +36,7 @@ Perinatal depression has consequences that extend beyond the mother to the infan
 
 ## Treatment
 
-Treatment options described in guidelines include psychotherapy (particularly cognitive behavioral therapy and interpersonal therapy), antidepressants (with individual weighing of risks and benefits in pregnancy and breastfeeding), and specialized interventions in severe cases. In 2019 the U.S. Food and Drug Administration (FDA) approved **brexanolone**, the first drug designed specifically to treat postpartum depression, which is given by intravenous infusion and acts through GABA-A receptors. It was later followed by **zuranolone**, an oral formulation approved in 2023. This entry is educational and does not constitute clinical advice.
+Treatment options described in guidelines include psychotherapy (particularly cognitive behavioral therapy and interpersonal therapy), antidepressants (with individual weighing of risks and benefits in pregnancy and breastfeeding), and specialized interventions in severe cases. In 2019 the U.S. Food and Drug Administration (FDA) approved **brexanolone**, the first drug designed specifically to treat postpartum depression, which is given by intravenous infusion and acts through GABA-A receptors; its maker stopped marketing it at the end of 2024 and the FDA withdrew the approval in 2025. It was later followed by **zuranolone**, an oral formulation approved in 2023. This entry is educational and does not constitute clinical advice.
 
 ## Sources
 

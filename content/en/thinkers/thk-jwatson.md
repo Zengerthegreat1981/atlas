@@ -33,9 +33,9 @@ In "Psychology as the Behaviorist Views It" (1913) he proclaimed the "Behavioris
 
 ## His place in the movement
 
-His 1913 manifesto rested on two earlier foundations: the work of **Edward Thorndike** on animal learning (1898) and his law of effect, and the conditioned reflex of **Ivan Pavlov**, who became widely known in the American milieu after the 1927 translation of *Conditioned Reflexes*. From him **B. F. Skinner** took the program of a "science of behavior" and pushed it toward radical behaviorism in *The Behavior of Organisms* (1938).
+His program had two important forerunners: the work of **Edward Thorndike** on animal learning (1898) and his law of effect, and the conditioned reflex of **Ivan Pavlov**, which Watson took up in the years just after the 1913 manifesto, well before the 1927 English translation of *Conditioned Reflexes* made Pavlov more widely known in America. From him **B. F. Skinner** took the program of a "science of behavior" and pushed it toward radical behaviorism in *The Behavior of Organisms* (1938).
 
-Much is attributed to Watson that is not his: the **deconditioning of fear** in the child "Peter" was the work of **Mary Cover Jones**, who published it in 1924 in *Pedagogical Seminary* under the title "A Laboratory Study of Fear: The Case of Peter". She was Watson's student, not an assistant in the Albert experiment.
+Much is attributed to Watson that is not his: the **deconditioning of fear** in the child "Peter" was the work of **Mary Cover Jones**, who published it in 1924 in *Pedagogical Seminary* under the title "A Laboratory Study of Fear: The Case of Peter". She carried out the study at Columbia University with Watson advising her; she was not an assistant in the Albert experiment.
 
 ## The limitation
 **The Little Albert experiment is not valid evidence**, and this is the most important thing to say about it:

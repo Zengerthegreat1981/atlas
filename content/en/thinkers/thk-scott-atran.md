@@ -61,7 +61,7 @@ Atran's analytical tools, especially the theory of costly signaling, are cited i
 
 ## The Folk Classification Method and Its Effect on His Religious Theory
 
-In his early studies of folk classification, Atran relied on comparative fieldwork across many cultures, from the Amazon jungle to Western cities. He argued that humans share innate classificatory structures for living things regardless of their culture. Atran carried this same method into the study of religion. He argued that supernatural religious concepts exploit this same innate classificatory mechanism by violating its natural expectations in a limited and calculated way. This makes them more memorable and easier to transmit between individuals and generations than ordinary concepts that are fully expected, or entirely counterintuitive.
+In his early studies of folk classification, Atran relied on comparative fieldwork across many cultures, from the lowland rainforest of Guatemala (among the Itza' Maya) to the Midwestern United States. He argued that humans share innate classificatory structures for living things regardless of their culture. Atran carried this same method into the study of religion. He argued that supernatural religious concepts exploit this same innate classificatory mechanism by violating its natural expectations in a limited and calculated way. This makes them more memorable and easier to transmit between individuals and generations than ordinary concepts that are fully expected, or entirely counterintuitive.
 
 ## Sources
 

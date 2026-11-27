@@ -38,7 +38,7 @@ The hypothesis describes a neural mechanism temporally associated with the subje
 
 ## Experimental Evidence
 
-Newberg and colleagues reported SPECT neuroimaging studies of Tibetan Buddhist meditators (2001) and Franciscan nuns during meditative prayer (2003). Both reported reduced blood flow in the posterior superior parietal region at the peak of the practice, which they related to participants' reports of a loss of the sense of self-boundaries. The finding in two different traditions supported their proposal of a general, cross-traditional mechanism. The evidence is limited, however: the samples were very small, the designs lacked controls and the imaging had low resolution, so critics regard the hypothesis as suggestive but unestablished.
+Newberg and colleagues reported SPECT neuroimaging studies of Tibetan Buddhist meditators (2001) and Franciscan nuns during meditative prayer (2003). Both described increased prefrontal blood flow during the practice and an inverse relationship between the change in the prefrontal cortex and the change in the superior parietal lobe, which the authors related to an altered sense of self and space. The finding in two different traditions supported their proposal of a general, cross-traditional mechanism. The evidence is limited, however: the samples were very small, the designs lacked controls and the imaging had low resolution, so critics regard the hypothesis as suggestive but unestablished.
 
 ## Sources
 

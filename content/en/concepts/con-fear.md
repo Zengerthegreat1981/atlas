@@ -4,6 +4,7 @@ id: "CON-0411"
 type: "مفهوم"
 part: psychology
 level: "مبتدئ"
+quality: "unverified"
 title: "Fear"
 en: "Fear"
 crumb: "Existential Psychotherapy ← Concepts ← Fear"
@@ -24,7 +25,7 @@ Fear is a primary emotional and physiological response to a concrete, imminent, 
 
 ## Cognitive and Neural Mechanisms
 
-In cognitive psychology, Richard Lazarus formulated fear within his cognitive-motivational-relational theory of emotion (*Emotion and Adaptation*, 1991). Lazarus conceptualized fear as arising from a primary cognitive appraisal of acute physical or existential danger coupled with a secondary appraisal of limited coping resources, generating an immediate action tendency toward flight, avoidance, or freezing.
+In cognitive psychology, Richard Lazarus formulated fear within his cognitive-motivational-relational theory of emotion (*Emotion and Adaptation*, 1991). Lazarus conceptualized fear as arising from a primary cognitive appraisal of immediate, concrete physical danger (he treats uncertain, existential threat as the theme of anxiety), coupled with a secondary appraisal of limited coping resources, generating an immediate action tendency toward flight, avoidance, or freezing.
 
 From the perspective of affective neuroscience, Jaak Panksepp (*Affective Neuroscience*, 1998) identified the FEAR system as one of several genetically dedicated, subcortical emotional operating systems conserved across mammalian brains. This subcortical circuit links the amygdala, the anterior and medial hypothalamus, and the dorsal periaqueductal gray (PAG) in the midbrain. Low-intensity stimulation of this pathway typically produces behavioral freezing (attentive immobility and autonomic deceleration), whereas high-intensity stimulation triggers explosive panic and rapid flight.
 
@@ -40,7 +41,7 @@ Classical Arab-Islamic philosophy and psychological medicine explored fear (*al-
 ## Psychometric Assessment
 
 In behavioral and clinical research, specific fear responses and phobic avoidance are quantified through validated self-report instruments:
-- **Fear Survey Schedule (FSS)**: Developed by Joseph Wolpe and Peter Lang (1964; FSS-III, 1969; Geer, 1965), this instrument assesses the presence and intensity of fear across dozens of specific stimuli categorized into animal fears, medical/mutilation fears, interpersonal/social fears, and environmental threats.
+- **Fear Survey Schedule (FSS)**: Developed by Joseph Wolpe and Peter Lang (1964; usually designated FSS-III, with a 1969 version; a separate FSS-II was published by Geer in 1965), this instrument assesses the presence and intensity of fear across dozens of specific stimuli categorized into animal fears, medical/mutilation fears, interpersonal/social fears, and environmental threats.
 - **Fear of Negative Evaluation Scale (FNE)**: Developed by David Watson and Ronald Friend (1969; Brief FNE by Leary, 1983), measuring apprehension regarding negative judgment by others, serving as a primary measure in social anxiety assessments.
 - **Fear Questionnaire (FQ)**: Developed by Isaac Marks and Andrew Mathews (1979), assessing phobic avoidance across agoraphobia, social phobia, and blood/injury phobia.
 

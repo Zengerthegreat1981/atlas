@@ -23,7 +23,7 @@ gaps: []
 
 # Derrick Bell
 
-An American jurist (1930–2011), the first Black professor to be granted tenure at Harvard Law School (1971), and and widely regarded as a foundational figure of **critical race theory**.
+An American jurist (1930–2011), the first Black professor to be granted tenure at Harvard Law School (1971), and widely regarded as a foundational figure of **critical race theory**.
 
 ## A Comparative Jurisprudential Context: Justice and the Consequences of Rulings
 

@@ -4,6 +4,7 @@ id: "THK-13139"
 type: "مفكر"
 part: "psychiatry"
 level: "متقدم"
+quality: "unverified"
 title: "David M. Clark"
 en: "David M. Clark"
 crumb: "Psychiatry ← Thinkers ← David M. Clark"
@@ -25,7 +26,7 @@ A British clinical psychologist (born 20 August 1954 in Darlington) and emeritus
 
 ## Career
 
-Clark studied experimental psychology at Oxford (M.A., Lincoln College) and trained in clinical psychology at the Institute of Psychiatry in London (M.Phil., 1979), then completed a D.Phil. at Oxford in 1983. He began as a university lecturer in the Oxford department of psychiatry, in a group that included Michael Gelder, Paul Salkovskis, and, later, Anke Ehlers, at a time when Aaron T. Beck was a regular visitor. In 2000 he became professor of psychology at the Institute of Psychiatry, King's College London, and with Ehlers and Salkovskis founded the Centre for Anxiety Disorders and Trauma at the Maudsley Hospital. He returned to a chair at Oxford in 2011. From the start of the **Improving Access to Psychological Therapies (IAPT)** programme he has been national clinical adviser to the Department of Health and NHS England. The programme, developed with the economist Richard Layard and launched in England in 2008, trains therapists to deliver evidence-based psychological treatments in the National Health Service and publishes session-by-session outcomes. Layard and Clark set out the case in *Thrive* (2014).
+Clark studied experimental psychology at Oxford (M.A., Lincoln College) and trained in clinical psychology at the Institute of Psychiatry in London (M.Phil., 1979), then completed a D.Phil. at Oxford in 1983. He began as a university lecturer in the Oxford department of psychiatry, in a group that included Michael Gelder, Paul Salkovskis, and, later, Anke Ehlers, at a time when Aaron T. Beck was a regular visitor. In 2000 he became professor of psychology at the Institute of Psychiatry, King's College London, and with Ehlers and Salkovskis founded the Centre for Anxiety Disorders and Trauma at the Maudsley Hospital. He returned to a chair at Oxford in 2011. From the start of the **Improving Access to Psychological Therapies (IAPT)** programme he has been national clinical adviser to the Department of Health and NHS England. The programme, developed with the economist Richard Layard and launched in England in 2008, (since renamed NHS Talking Therapies for anxiety and depression) trains therapists to deliver evidence-based psychological treatments in the National Health Service and publishes session-by-session outcomes. Layard and Clark set out the case in *Thrive* (2014).
 
 ## Contributions
 

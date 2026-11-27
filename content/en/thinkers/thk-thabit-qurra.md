@@ -4,6 +4,7 @@ id: "THK-13164"
 type: "مفكر"
 part: "arab-thought"
 level: "متقدم"
+quality: "unverified"
 title: "Thabit ibn Qurra"
 en: "Thabit ibn Qurra"
 crumb: "Arab Thought ← Thinkers ← Thabit ibn Qurra"
@@ -21,7 +22,7 @@ gaps: []
 
 # Thabit ibn Qurra
 
-Abu al-Hasan Thabit ibn Qurra ibn Marwan al-Harrani al-Sabi' (d. Baghdad, 288 AH / 901 CE) was a mathematician, astronomer, physician and translator in ninth-century Baghdad. He revised and composed scientific Arabic, and he also wrote original work in geometry and astronomy. On his birth, Later biographical sources give 221 AH / 836 CE. Another report gives 211 AH / 826 CE. The death date is the stable one.
+Abu al-Hasan Thabit ibn Qurra ibn Marwan al-Harrani al-Sabi' (d. Baghdad, 288 AH / 901 CE) was a mathematician, astronomer, physician and translator in ninth-century Baghdad. He revised and composed scientific Arabic, and he also wrote original work in geometry and astronomy. On his birth, later biographical sources give 221 AH / 836 CE. Another report gives 211 AH / 826 CE. The death date is the stable one.
 
 ## Origins and Formation
 

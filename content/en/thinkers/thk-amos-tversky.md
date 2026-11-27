@@ -43,6 +43,6 @@ The work of Tversky and Kahneman contributed to later research fields from behav
 
 ## Sources
 
-- Tversky, A., & Kahneman, D. (1979). "Prospect Theory: An Analysis of Decision under Risk." *Econometrica*, 47(2), 263–291.
+- Kahneman, D., & Tversky, A. (1979). "Prospect Theory: An Analysis of Decision under Risk." *Econometrica*, 47(2), 263–291.
 - Kahneman, D., Slovic, P., & Tversky, A. (Eds.) (1982). *Judgment under Uncertainty: Heuristics and Biases*. Cambridge University Press.
 - Tversky, A., & Kahneman, D. (1974). "Judgment under Uncertainty: Heuristics and Biases." *Science*, 185(4157), 1124–1131.

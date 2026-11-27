@@ -4,6 +4,7 @@ id: "CON-0407"
 type: "مفهوم"
 part: "psychology"
 level: "متوسط"
+quality: "unverified"
 title: "Authenticity (Existentialist School View)"
 en: "Authenticity (Existentialist School View)"
 crumb: "Psychology ← Concepts ← Authenticity (Existentialist School View)"
@@ -55,7 +56,7 @@ Clinically, the existential question in communal contexts is not "Are you reject
 ## Key Textual Locations
 
 The core theoretical formulations of authenticity appear in several foundational texts:
-- **Martin Heidegger**: *Being and Time* (1927), Division I, Chapter 4 (§§25–27 on *das Man* and everyday falling), and Division II, Chapters 1–2 (§§46–60 on being-toward-death, the call of conscience, and resoluteness).
+- **Martin Heidegger**: *Being and Time* (1927), Division I, Chapter 4 (§§25–27 on *das Man*; falling is treated in Chapter 5, §38), and Division II, Chapters 1–2 (§§46–60 on being-toward-death, the call of conscience, and resoluteness).
 - **Jean-Paul Sartre**: *Being and Nothingness* (1943), Part I, Chapter 2 ("Bad Faith"), and *Existentialism Is a Humanism* (1946).
 - **James F. T. Bugental**: *The Search for Existential Identity* (1976), and *The Art of the Psychotherapist* (1987) (presence and the therapeutic encounter).
 - **Irvin D. Yalom**: *Existential Psychotherapy* (1980), the sections on death (as an awakening experience) and on freedom and responsibility.

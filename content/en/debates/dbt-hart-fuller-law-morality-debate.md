@@ -24,7 +24,7 @@ One of the best-known debates in twentieth-century Anglo-American philosophy of 
 
 ## The Flashpoint: Laws of the Nazi Regime
 
-The debate was practically sparked by a question posed after the war: **were Nazi statutes genuinely laws, even where they were grossly unjust, or did they fail to be law at all because of their monstrousness?** The central example was the post-war "grudge informer" case, decided by the Oberlandesgericht Bamberg in 1949: a woman had denounced her husband to the authorities in 1944 for remarks critical of Hitler, under Nazi statutes, and he was sentenced to death (the sentence was not carried out). She was prosecuted after the war for unlawful deprivation of liberty, and the court convicted her, holding that the statutes could not shield her because they offended the conscience of decent people.
+The debate was practically sparked by a question posed after the war: **were Nazi statutes genuinely laws, even where they were grossly unjust, or did they fail to be law at all because of their monstrousness?** The central example was the post-war "grudge informer" case, decided by the Oberlandesgericht Bamberg in 1949: a woman had denounced her husband to the authorities in 1944 for remarks critical of Hitler, under Nazi statutes, and he was sentenced to death (the sentence was not carried out). She was prosecuted after the war for unlawful deprivation of liberty, and the court convicted her. The report on which Hart and Fuller relied suggested that the court had denied her the protection of the statutes because they offended the conscience of decent people. H. O. Pappe showed in 1960 that the court had not held the Nazi statutes invalid: it found that she had no duty to inform, had done so for personal reasons, and that her own act was contrary to the conscience of decent people. Hart acknowledged the correction and said that the case as he had understood it could be treated as hypothetical.
 
 ## Hart's Position: Separation, then Retrospective Legislation rather than Denying the Past of the Law
 
@@ -32,7 +32,7 @@ Hart holds that the Nazi statutes were laws in the correct **descriptive sense**
 
 ## Fuller's Position: Failure to Achieve Inner Morality Removes Legal Character
 
-Fuller holds that the Nazi legal system, with its secrecy, retroactivity and disregard for the principles of legality, failed grossly to achieve the **inner morality of law**, so that its enactments cannot properly be counted as "law" in the full sense at all. Thus there is no need for a retrospective enactment to annul them; they were never law to begin with, and so there was nothing to annul.
+Fuller holds that the Nazi legal system, with its secrecy, retroactivity and disregard for the principles of legality, failed grossly to achieve the **inner morality of law**, so that its enactments cannot properly be counted as "law" in the full sense at all. He nevertheless also preferred a retroactive statute for dealing with cases of this kind, not as a way of unmaking what had once been law, but as a sharp break with the past that would help the courts restore respect for the demands of legality.
 
 ## The Importance of the Debate
 

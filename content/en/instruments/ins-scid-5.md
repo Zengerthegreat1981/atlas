@@ -4,6 +4,7 @@ id: "INS-0070"
 type: "أداة قياس"
 part: "psychology"
 level: "متقدم"
+quality: "unverified"
 title: "Structured Clinical Interview for DSM-5 (SCID-5)"
 en: "Structured Clinical Interview for DSM-5 (SCID-5)"
 crumb: "Psychology ← Instruments ← Structured Clinical Interview for DSM-5 (SCID-5)"
@@ -55,7 +56,7 @@ The SCID-5 serves as the criterion "gold standard" against which brief screening
 
 ## Practical Constraints
 
-The interview requires specialized clinical judgment and formal interviewer training; it cannot be administered by lay assessors. Full administration typically requires between 45 and 90 minutes based on diagnostic complexity, constraining its feasibility in acute triage environments.
+The interview requires specialized clinical judgment and formal interviewer training. It is intended for clinicians or trained mental health professionals, although non-clinicians with extensive diagnostic experience with a particular study population may be trained to administer it. Full administration typically requires between 45 and 90 minutes based on diagnostic complexity, constraining its feasibility in acute triage environments.
 
 ## Sources
 

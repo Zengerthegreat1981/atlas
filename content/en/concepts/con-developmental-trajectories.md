@@ -4,6 +4,7 @@ id: "CON-18290"
 type: "مفهوم"
 part: "psychiatry"
 level: "متقدم"
+quality: "unverified"
 title: "Developmental Trajectories"
 en: "Developmental Trajectories"
 crumb: "Psychiatry ← Concepts ← Developmental Trajectories"
@@ -32,7 +33,7 @@ This concept studies how psychiatric disorders arise and change over the life sp
 
 ## Theoretical Foundations
 
-Rutter and Sroufe presented the concepts and problems of this field in *Development and Psychopathology* in 2000, including the point that a single child goes through transformations that produce either continuity or discontinuity. In 1996, in the same journal, Cicchetti and Rogosch introduced two concepts: "multifinality," meaning that a single risk factor may lead to different disorders, and "equifinality," meaning that different paths may end in the same disorder. Kessler and colleagues determined in *Archives of General Psychiatry* in 2005 that half of lifetime psychiatric disorders begin by age fourteen and three-quarters by age twenty-four, which made adolescence a key window for research and intervention.
+Rutter and Sroufe presented the concepts and problems of this field in *Development and Psychopathology* in 2000, including the point that a single child goes through transformations that produce either continuity or discontinuity. In 1996, in the same journal, Cicchetti and Rogosch introduced two concepts: "multifinality," meaning that a single risk factor may lead to different disorders, and "equifinality," meaning that different paths may end in the same disorder. Kessler and colleagues reported in *Archives of General Psychiatry* in 2005, from a United States household survey, that half of all lifetime cases of DSM-IV disorders start by age fourteen and three-quarters by age twenty-four, which made adolescence a key window for research and intervention.
 
 ## Specific Trajectories
 

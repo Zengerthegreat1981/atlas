@@ -4,6 +4,7 @@ id: "SCH-0025"
 type: "مدرسة"
 part: "philosophy"
 level: "متقدم"
+quality: "unverified"
 title: "Contemporary Analytic Metaphysics"
 en: "Contemporary Analytic Metaphysics"
 crumb: "Philosophy ← Schools ← Contemporary Analytic Metaphysics"
@@ -26,7 +27,7 @@ A philosophical movement active since the 1970s, which revived metaphysics as a 
 
 - **Modal metaphysics**: questions such as "Do numbers exist?" or "What are qualities?" can be examined through metaphysical necessity in Kripke's sense, with possible worlds as a tool for analyzing them.
 - **Abstract realism**: universals, natural kinds, sets and numbers exist objectively according to many adherents of the movement.
-- **The method of ontology**: Quine set the criterion of ontological commitment, "to be is to be the value of a bound variable", and the movement based its discussion on what our best theories commit us to.
+- **The method of ontology**: Quine set the criterion of ontological commitment, "to be is to be the value of a variable", and the movement based its discussion on what our best theories commit us to.
 - **Priority and grounding (Grounding)**: in recent years the concept of grounding has become central to explaining the relation between what is fundamental and what is derivative, as in Kit Fine and Jonathan Schaffer.
 - **Scientific realism**: it affirms that unobservable scientific entities exist and that successful theories are approximately true; this is closer to the philosophy of science but intersects with metaphysics.
 
@@ -50,7 +51,7 @@ A philosophical movement active since the 1970s, which revived metaphysics as a 
 
 ## Connection to the Islamic heritage
 
-Modal metaphysics today re-poses questions the Muslim philosophers discussed in another language. Ibn Sina's distinction between the necessary being and the possible being is a direct point of contact; Michael Marmura offered a close analysis of Avicenna's proof from contingency in the *Ishārāt*, and some commentators have compared Alvin Plantinga's modal ontological argument in "The Nature of Necessity" (1974) with Avicennian arguments from necessity, although the comparison is contested. The question of essence and existence in Ibn Sina, al-Suhrawardi and Mulla Sadra is likewise compared with the discussions of substance and the universal in Armstrong and Lewis; the question of causation and habit in al-Ghazali with the question of causation in Hume and Lewis; and the kalam arguments about the indivisible part with discussions of continuity and particles.
+Modal metaphysics today re-poses questions the Muslim philosophers discussed in another language. Ibn Sina's distinction between the necessary being and the possible being is a direct point of contact; Michael Marmura offered a close analysis of Avicenna's proof from contingency in the Metaphysics of the *Shifāʾ*, and some commentators have compared Alvin Plantinga's modal ontological argument in "The Nature of Necessity" (1974) with Avicennian arguments from necessity, although the comparison is contested. The question of essence and existence in Ibn Sina, al-Suhrawardi and Mulla Sadra is likewise compared with the discussions of substance and the universal in Armstrong and Lewis; the question of causation and habit in al-Ghazali with the question of causation in Hume and Lewis; and the kalam arguments about the indivisible part with discussions of continuity and particles.
 
 ## Criticism
 
@@ -67,4 +68,4 @@ Modal metaphysics today re-poses questions the Muslim philosophers discussed in 
 - Theodore Sider, *Four-Dimensionalism: An Ontology of Persistence and Time* (Oxford: Oxford University Press, 2001).
 - David Chalmers, David Manley and Ryan Wasserman (eds.), *Metametaphysics: New Essays on the Foundations of Ontology* (Oxford: Oxford University Press, 2009).
 - Alvin Plantinga, *The Nature of Necessity* (Oxford: Clarendon Press, 1974).
-- Michael E. Marmura, "Avicenna's Proof from Contingency for God in the Ishārāt," *Medieval Studies* 42 (1980).
+- Michael E. Marmura, "Avicenna's Proof from Contingency for God's Existence in the Metaphysics of the Shifāʾ," *Mediaeval Studies* 42 (1980).

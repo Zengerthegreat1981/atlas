@@ -4,6 +4,7 @@ id: "THK-13526"
 type: "مفكر"
 part: "legal-theory"
 level: "متقدم"
+quality: "unverified"
 title: "Abu Ishaq Ibrahim ibn Musa al-Shatibi"
 en: "Abu Ishaq al-Shatibi"
 crumb: "Legal Theory ← Thinkers ← Abu Ishaq al-Shatibi"
@@ -75,7 +76,7 @@ He also discussed the relationship between the Lawgiver's purpose and the purpos
 
 ## Early upbringing
 
-Reports of al-Shatibi's childhood are thin. The nisba al-Shatibi marks a family of Arab origin linked to Xativa (Shatiba), yet notices say almost nothing about his parents or household. Xativa passed to the Crown of Aragon in 646/1248, after which most of its Muslims moved south, so birth in Xativa itself is treated as unlikely. He is placed in Granada around 720/1320, and he appears to have remained there, without the journey to the East for further study or the pilgrimage that many Andalusi scholars made. Under the Nasrids, Granada was the most populous Muslim city in al-Andalus and a meeting place of Andalusi and North African teachers. His schooling is described as beginning with the Qur'an, possibly under Ibn al-Zayyat al-Kala'i, then continuing with the grammarian Abu Abd Allah Muhammad ibn Ali al-Fakhkhar al-Ilbiri, with whom he also read the seven Qur'anic readings and whose classes he attended until that teacher's death. He next studied mainly under Abu Sa'id Faraj ibn Qasim Ibn Lubb, chief mufti and teacher at the Nasrid madrasa. Further lessons in Arabic, readings, hadith, tafsir, usul, kalam, logic, philosophy and Sufism are attributed to scholars then in the city, among them al-Sharif al-Gharnati, Abu Ja'far Ahmad al-Shaquri, Ibn Marzuq al-Khatib, Muhammad al-Maqqari and Abu Ali Mansur al-Zawawi.
+Reports of al-Shatibi's childhood are thin. The nisba al-Shatibi marks a family of Arab origin linked to Xativa (Shatiba), yet notices say almost nothing about his parents or household. Xativa capitulated to the Crown of Aragon in 1244 (641 AH), and in the years that followed most of its Muslims moved south, so birth in Xativa itself is treated as unlikely. He is placed in Granada around 720/1320, and he appears to have remained there, without the journey to the East for further study or the pilgrimage that many Andalusi scholars made. Under the Nasrids, Granada was the most populous Muslim city in al-Andalus and a meeting place of Andalusi and North African teachers. His schooling is described as beginning with the Qur'an, possibly under Ibn al-Zayyat al-Kala'i, then continuing with the grammarian Abu Abd Allah Muhammad ibn Ali al-Fakhkhar al-Ilbiri, with whom he also read the seven Qur'anic readings and whose classes he attended until that teacher's death. He next studied mainly under Abu Sa'id Faraj ibn Qasim Ibn Lubb, chief mufti and teacher at the Nasrid madrasa. Further lessons in Arabic, readings, hadith, tafsir, usul, kalam, logic, philosophy and Sufism are attributed to scholars then in the city, among them al-Sharif al-Gharnati, Abu Ja'far Ahmad al-Shaquri, Ibn Marzuq al-Khatib, Muhammad al-Maqqari and Abu Ali Mansur al-Zawawi.
 
 ## Sources
 

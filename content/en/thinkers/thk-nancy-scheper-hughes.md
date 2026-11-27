@@ -4,6 +4,7 @@ id: "ANT-13261"
 type: "مفكر"
 part: anthropology
 level: "متوسط"
+quality: "unverified"
 title: "Nancy Scheper-Hughes"
 en: "Nancy Scheper-Hughes"
 crumb: "Anthropology ← Medical Anthropology ← Nancy Scheper-Hughes"

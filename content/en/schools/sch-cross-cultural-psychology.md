@@ -38,7 +38,7 @@ The methodology of cross-cultural psychology is anchored in several foundational
 The field has been structured by several comprehensive comparative models:
 
 ### Cultural Dimensions Theory (Geert Hofstede)
-Geert Hofstede analyzed standardized survey data from over 116,000 IBM employees across more than 40 countries between 1967 and 1973 (*Culture's Consequences*, 1980), identifying four primary cultural dimensions:
+Geert Hofstede analyzed standardized survey data from some 116,000 questionnaires completed by IBM employees between 1967 and 1973, with the core analysis covering 40 countries, (*Culture's Consequences*, 1980), identifying four primary cultural dimensions:
 1. *Power Distance*: The degree to which less powerful members accept and expect unequal power distribution.
 2. *Individualism vs. Collectivism*: The degree of societal interdependence, contrasting personal autonomy with in-group loyalty.
 3. *Masculinity vs. Femininity*: The distribution of emotional roles between assertive, achievement-oriented values and nurturant, relationship-oriented values.

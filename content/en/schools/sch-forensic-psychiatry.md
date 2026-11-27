@@ -52,7 +52,7 @@ James Garbarino studied violence among juveniles and the developmental condition
 
 ## Accuracy of structured risk tools
 
-Unstructured clinical judgment of dangerousness is weak, as Monahan argued in 1981. Later instruments, including structured professional-judgment tools such as the HCR-20 and the methods used in the MacArthur study, do better than chance when groups are compared. A 2011 systematic review by Singh, Grann and Fazel found that commonly used tools have only modest accuracy and generate many false-positive predictions. Performance also changes with the legal setting, the base rate of violence, and whether the tool was developed in a similar population. A score is not a finding about what a particular person will do.
+Unstructured clinical judgment of dangerousness is weak, as Monahan argued in 1981. Later instruments, including structured professional-judgment tools such as the HCR-20 and the methods used in the MacArthur study, do better than chance when groups are compared. A 2011 systematic review by Singh, Grann and Fazel found that predictive accuracy differed substantially between commonly used tools. A 2012 review by Fazel, Singh, Doll and Grann found that violence tools identified low-risk people better than high-risk ones, with many false positives: a median of 41% of those rated moderate or high risk went on to offend violently. Performance also changes with the legal setting, the base rate of violence, and whether the tool was developed in a similar population. A score is not a finding about what a particular person will do.
 
 ## Limitations
 
@@ -68,4 +68,5 @@ This entry describes mainly United States and United Kingdom practice; legal sta
 - Richard Rogers & Daniel W. Shuman, *Fundamentals of Forensic Practice: Mental Health and Criminal Law* (New York: Springer, 2005).
 - Paul S. Appelbaum, "A Theory of Ethics for Forensic Psychiatry," *Journal of the American Academy of Psychiatry and the Law*, vol. 25, no. 3 (1997), pp. 233–247.
 - Dusky v. United States, 362 U.S. 402 (1960).
-- Singh, Jeremy P., Martin Grann, and Seena Fazel. "A Comparative Study of Violence Risk Assessment Tools: A Systematic Review and Metaregression Analysis of 68 Studies Involving 25,980 Participants." *Clinical Psychology Review* 31 (2011): 499–513.
+- Singh, Jay P., Martin Grann, and Seena Fazel. "A Comparative Study of Violence Risk Assessment Tools: A Systematic Review and Metaregression Analysis of 68 Studies Involving 25,980 Participants." *Clinical Psychology Review* 31 (2011): 499–513.
+- Fazel, Seena, Jay P. Singh, Helen Doll, and Martin Grann. "Use of Risk Assessment Instruments to Predict Violence and Antisocial Behaviour in 73 Samples Involving 24,827 People: Systematic Review and Meta-Analysis." *BMJ* 345 (2012): e4692.

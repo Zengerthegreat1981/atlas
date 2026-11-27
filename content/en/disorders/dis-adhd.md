@@ -46,9 +46,9 @@ ICD-11 classifies ADHD under neurodevelopmental disorders using the same three p
 
 ## Epidemiological Context and Regional Prevalence in the Arab World
 
-Global epidemiological meta-analyses (Polanczyk et al., 2007, 2014) estimate the worldwide childhood prevalence of ADHD at approximately 5% to 7%, and adult prevalence at approximately 2.5%. 
+Global epidemiological meta-analyses estimate the worldwide prevalence of ADHD in children and adolescents at approximately 5% to 7% (about 5.3% in Polanczyk et al., 2007, with Polanczyk et al., 2014 attributing variation between studies mainly to methods), and adult prevalence at approximately 2.5% (Simon et al., 2009). 
 
-In the Arab world and Middle East region, systematic reviews (e.g., Alqahtani, 2010; Farah et al., 2009) report pediatric prevalence rates ranging roughly between 4% and 9%, broadly consistent with global benchmarks. Regional studies demonstrate substantial variation attributable to differing diagnostic methodologies (e.g., teacher-completed rating scales vs. structured clinical parent-child interviews) and cultural expectations surrounding child behavior. High rates of consanguinity in some regional populations and underdiagnosis among females—who more frequently present with inattentive symptoms—remain active areas of epidemiological study.
+In the Arab world, a review of epidemiologic studies (Farah et al., 2009) found ADHD rates similar to those in other cultures, and a later systematic review (Alhraiwil et al., 2015) reported estimates ranging from 1.3% to 16% across studies; individual surveys can fall well below the global average (e.g., 2.7% among Saudi pupils in grades 1 to 3; Alqahtani, 2010). Regional studies demonstrate substantial variation attributable to differing diagnostic methodologies (e.g., teacher-completed rating scales vs. structured clinical parent-child interviews) and cultural expectations surrounding child behavior. High rates of consanguinity in some regional populations and underdiagnosis among females—who more frequently present with inattentive symptoms—remain active areas of epidemiological study.
 
 ## Neurobiology and Multimodal Clinical Management
 
@@ -76,5 +76,10 @@ Quantitative genetics and genome-wide association studies estimate the heritabil
 - Barkley, R. A. (2015). *Attention-Deficit Hyperactivity Disorder: A Handbook for Diagnosis and Treatment* (4th ed.). Guilford Press.
 - National Institute for Health and Care Excellence (NICE). (2018). *Attention deficit hyperactivity disorder: diagnosis and management* (NICE Guideline NG87).
 - Polanczyk, G., de Lima, M. S., Horta, B. L., Biederman, J., & Rohde, L. A. (2007). The worldwide prevalence of ADHD: A systematic review and metaregression analysis. *American Journal of Psychiatry*, 164(6), 942–948.
+- Polanczyk, G. V., Willcutt, E. G., Salum, G. A., Kieling, C., & Rohde, L. A. (2014). ADHD prevalence estimates across three decades: An updated systematic review and meta-regression analysis. *International Journal of Epidemiology*, 43(2), 434–442.
+- Simon, V., Czobor, P., Bálint, S., Mészáros, A., & Bitter, I. (2009). Prevalence and correlates of adult attention-deficit hyperactivity disorder: Meta-analysis. *British Journal of Psychiatry*, 194(3), 204–211.
+- Farah, L. G., Fayyad, J. A., Eapen, V., Cassir, Y., Salamoun, M. M., Tabet, C. C., Mneimneh, Z. N., & Karam, E. G. (2009). ADHD in the Arab world: A review of epidemiologic studies. *Journal of Attention Disorders*, 13(3), 211–222.
+- Alqahtani, M. M. (2010). Attention-deficit hyperactive disorder in school-aged children in Saudi Arabia. *European Journal of Pediatrics*, 169(9), 1113–1117.
+- Alhraiwil, N. J., Ali, A., Househ, M. S., Al-Shehri, A. M., & El-Metwally, A. A. (2015). Systematic review of the epidemiology of attention deficit hyperactivity disorder in Arab countries. *Neurosciences (Riyadh)*, 20(2), 137–144.
 - Faraone, S. V., & Larsson, H. (2019). Genetics of attention deficit hyperactivity disorder. *Molecular Psychiatry*, 24(4), 562–575.
-- Safren, S. A., Otto, M. W., Sprich, S., Winett, C. L., Wilens, T. E., & Biederman, J. (2005). Cognitive-behavioral therapy for ADHD in adults: A randomized controlled trial. *Behaviour Research and Therapy*, 43(7), 831–842.
+- Safren, S. A., Otto, M. W., Sprich, S., Winett, C. L., Wilens, T. E., & Biederman, J. (2005). Cognitive-behavioral therapy for ADHD in medication-treated adults with continued symptoms. *Behaviour Research and Therapy*, 43(7), 831–842.

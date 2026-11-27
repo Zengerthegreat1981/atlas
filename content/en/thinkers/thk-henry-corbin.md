@@ -4,6 +4,7 @@ id: "THK-11755"
 type: "مفكر"
 part: "religious-studies"
 level: "متقدم"
+quality: "unverified"
 religious_tradition: "Iranian Islam (Illuminationism and Imami Shi'ism, as objects of study)"
 study_approach: "Philological-phenomenological (symbolic interpretation influenced by Heidegger and Jung)"
 title: "Henry Corbin"
@@ -25,7 +26,7 @@ gaps: []
 
 # Henry Corbin
 
-A French philosopher and orientalist (1903–1978). He was an early translator of Martin Heidegger into French (notably *Qu'est-ce que la métaphysique?*, 1938). His academic path then turned entirely toward Iranian Islamic philosophy under the influence of his teacher Louis Massignon (thk-louis-massignon), who introduced him to the manuscripts of Shihab al-Din al-Suhrawardi (thk-sohrevardi) during his stay at the French Institute of Turkish Studies in Istanbul (1939–1945). In 1945 he moved to Tehran, where he founded the Department of Iranology of the Franco-Iranian Institute (1946). In 1954 he succeeded Massignon as director of studies for Islam and the religions of the Arab lands at the École pratique des hautes études in Paris.
+A French philosopher and orientalist (1903–1978). He was an early translator of Martin Heidegger into French (notably *Qu'est-ce que la métaphysique?*, 1938). His academic path then turned entirely toward Iranian Islamic philosophy under the influence of his teacher Louis Massignon (thk-louis-massignon), who introduced him to Shihab al-Din al-Suhrawardi (thk-sohrevardi) in Paris in the late 1920s, giving him a lithographed edition of his principal work, *Hikmat al-Ishraq*. Corbin later pursued the study of Suhrawardi manuscripts during his stay at the French Institute in Istanbul (1939–1945). In 1945 he moved to Tehran, where he founded the Department of Iranology of the Franco-Iranian Institute (1946). In 1954 he succeeded Massignon as director of studies for Islam and the religions of the Arab lands at the École pratique des hautes études in Paris.
 
 ## The Academic Project: "Iranian Islam"
 

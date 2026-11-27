@@ -4,6 +4,7 @@ id: "THK-13151"
 type: "مفكر"
 part: "psychiatry"
 level: "متقدم"
+quality: "unverified"
 title: "Jonas R. Rappeport"
 en: "Jonas R. Rappeport"
 crumb: "Psychiatry ← Thinkers ← Jonas R. Rappeport"
@@ -35,7 +36,7 @@ Rappeport was a principal founder of the **American Academy of Psychiatry and th
 
 ### Writing on Risk Assessment
 
-Rappeport edited the book *The Clinical Evaluation of the Dangerousness of the Mentally Ill*, published in 1967 by Charles C. Thomas. It is one of the early works that brought together the experience of the Baltimore forensic clinic in estimating risk. The subject remained a focus of discussion afterward, including the studies of Henry Steadman and colleagues on risk assessment.
+Rappeport edited the book *The Clinical Evaluation of the Dangerousness of the Mentally Ill*, published in 1967 by Charles C. Thomas. It grew out of a panel held at the 1965 annual meeting of the American Psychiatric Association, with added chapters, and is one of the early works on estimating risk. The subject remained a focus of discussion afterward, including the studies of Henry Steadman and colleagues on risk assessment.
 
 ### An Early Specialized Fellowship
 

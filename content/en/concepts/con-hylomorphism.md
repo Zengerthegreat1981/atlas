@@ -38,7 +38,7 @@ When an uneducated person becomes educated, the underlying subject persists whil
 
 Aristotle's most influential application of hylomorphism occurs in his psychology. In *De Anima* (Book II, Ch. 1), Aristotle defines the soul (*psyche*) as "the first actuality (*entelecheia*) of a natural organic body having life potentially." 
 
-Under this definition, the soul is not a distinct substance trapped inside a bodily prison (as in Plato's *Phaedo*), but the formal, efficient, and final cause of the living organism—its organizing principle and vital capacity. Asking whether the soul and body are one is, for Aristotle, as meaningless as asking whether wax and the impression stamped upon it are one. He illustrates this with the famous analogy of the eye: if the eye were an independent animal, sight would be its soul; without sight, an eye is an eye in name only (homonymously).
+Under this definition, the soul is not a distinct substance trapped inside a bodily prison (as in Plato's *Phaedo*), but the formal, efficient, and final cause of the living organism—its organizing principle and vital capacity. Asking whether the soul and body are one is, for Aristotle, as unnecessary as asking whether wax and the impression stamped upon it are one. He illustrates this with the famous analogy of the eye: if the eye were an independent animal, sight would be its soul; without sight, an eye is an eye in name only (homonymously).
 
 Aristotle introduces an unresolved complexity regarding the "active intellect" (*nous poietikos*, *De Anima* Book III, Ch. 5), describing it as separable, immortal, and eternal. This provoked extensive commentary: Alexander of Aphrodisias identified it with the divine Prime Mover, whereas Averroes (Ibn Rushd) conceived it as a single, separate immaterial intellect shared by all humanity.
 
@@ -50,7 +50,7 @@ René Descartes, in his *Meditations on First Philosophy* (1641), replaced Arist
 
 Hylomorphism was transmitted into Arabic through translations by Hunayn ibn Ishaq, Ishaq ibn Hunayn, and the circle of al-Kindi. Muslim Peripatetics adapted matter (*hayula*) and form (*sura*):
 - **Avicenna (Ibn Sina)**: in *al-Shifa': al-Nafs*, embraced hylomorphic biology for vegetative and animal functions, but defended the substantial independence and immortality of the rational human soul, supported by his "floating man" thought experiment.
-- **Mulla Sadra (Sadr al-Din Shirazi)**: harmonized these tensions in his Transcendent Philosophy through substantial motion (*al-haraka al-jawhariyya*), formulating the famous principle that the human soul is "corporeal in origination and spiritual in subsistence" (*jismiyyat al-huduth ruhaniyyat al-baqa'*).
+- **Mulla Sadra (Sadr al-Din Shirazi)**: harmonized these tensions in his Transcendent Philosophy through substantial motion (*al-haraka al-jawhariyya*), formulating the famous principle that the human soul is "corporeal in origination and spiritual in subsistence" (*jismaniyyat al-huduth ruhaniyyat al-baqa'*).
 
 ## Contemporary Revival in Philosophy of Mind and Metaphysics
 

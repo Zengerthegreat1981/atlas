@@ -5,6 +5,7 @@ type: "مفهوم"
 register: "popular"
 part: "psychology"
 level: "متوسط"
+quality: "unverified"
 title: "Loss Aversion"
 en: "Loss Aversion"
 crumb: "Psychology ← Concepts ← Loss Aversion"
@@ -46,7 +47,7 @@ Loss aversion serves as the theoretical engine for several widely documented beh
 
 ## Methodological Debates and Critiques
 
-While loss aversion remains widely accepted in applied behavioral economics, its universality has been scrutinized. Methodological critics, such as Ido Erev and colleagues, as well as David Gal and Derek Rucker (2018), argue that many purported demonstrations of loss aversion can be explained by status quo inertia, conversational norms, or risk aversion without invoking an asymmetric evaluation of gains and losses. Moreover, research shows that loss aversion attenuates or disappears when decisions involve trivial monetary stakes, routine market transactions by experienced traders, or non-monetary attributes.
+While loss aversion remains widely accepted in applied behavioral economics, its universality has been scrutinized. Methodological critics, such as Ido Erev and colleagues, as well as David Gal and Derek Rucker (2018), argue that many purported demonstrations of loss aversion can be explained by status quo inertia, conversational norms, or risk aversion without invoking an asymmetric evaluation of gains and losses. Moreover, research shows that loss aversion attenuates or disappears when decisions involve trivial monetary stakes, routine market transactions by experienced traders, or non-monetary attributes, although findings are mixed (a 2023 study, for example, reported loss aversion at both low and high stakes).
 
 ## Sources
 

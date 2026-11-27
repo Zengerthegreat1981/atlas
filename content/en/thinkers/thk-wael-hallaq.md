@@ -4,6 +4,7 @@ id: "THK-10729"
 type: "مفكر"
 part: "legal-theory"
 level: "متقدم"
+quality: "unverified"
 title: "Wael B. Hallaq"
 en: "Wael B. Hallaq"
 crumb: "Legal Theory ← Thinkers ← Wael B. Hallaq"
@@ -47,7 +48,7 @@ Hallaq's arguments have been widely welcomed in Western Islamic studies as a nec
 
 ## His Academic Career
 
-Hallaq was born in Nazareth in 1955. He studied at the Hebrew University of Jerusalem and completed his doctorate at the University of Washington, then became a prominent critic of earlier Western scholarly approaches to Islamic law. He taught for many years at McGill University in Canada, where he was associated with the Institute of Islamic Studies, before moving to Columbia University, and he continues to write.
+Hallaq was born in Nazareth in 1955. He studied at the University of Haifa and completed his doctorate at the University of Washington, then became a prominent critic of earlier Western scholarly approaches to Islamic law. He taught for many years at McGill University in Canada, where he was associated with the Institute of Islamic Studies, before moving to Columbia University, and he continues to write.
 
 ## Sources
 

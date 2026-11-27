@@ -4,6 +4,7 @@ id: "PHL-30008"
 type: "مجال"
 part: philosophy
 level: "متوسط"
+quality: "unverified"
 title: "Political Philosophy"
 en: "Political Philosophy"
 crumb: "Philosophy ← Fields ← Political Philosophy"
@@ -25,7 +26,7 @@ Plato's *Republic* (c. 375 BCE) argued that a just city is ruled by philosophers
 
 ## Social contract and modern liberalism
 
-Modern political thought often justifies authority by hypothetical consent. Thomas Hobbes's *Leviathan* (1651) argued that without a sovereign, life in the state of nature would be "nasty, brutish and short", so rational individuals would authorise an absolute ruler. John Locke's *Second Treatise of Government* (1689) held that people have natural rights to life, liberty and property, and that government is limited by trust and may be resisted if it violates them. Jean-Jacques Rousseau's *The Social Contract* (1762) located sovereignty in the "general will" of the people. David Hume criticised the contract as historical fiction and stressed utility and convention. Immanuel Kant grounded the state in the requirement of external freedom under law. John Stuart Mill's *On Liberty* (1859) defended the **harm principle**, that power may be used against a person's will only to prevent harm to others. Mary Wollstonecraft, in *A Vindication of the Rights of Woman* (1792), extended liberal arguments to women.
+Modern political thought often justifies authority by hypothetical consent. Thomas Hobbes's *Leviathan* (1651) argued that without a sovereign, life in the state of nature would be "nasty, brutish and short", so rational individuals would authorise an absolute sovereign, whether a single person or an assembly. John Locke's *Second Treatise of Government* (1689) held that people have natural rights to life, liberty and property, and that government is limited by trust and may be resisted if it violates them. Jean-Jacques Rousseau's *The Social Contract* (1762) located sovereignty in the "general will" of the people. David Hume criticised the contract as historical fiction and stressed utility and convention. Immanuel Kant grounded the state in the requirement of external freedom under law. John Stuart Mill's *On Liberty* (1859) defended the **harm principle**, that power may be used against a person's will only to prevent harm to others. Mary Wollstonecraft, in *A Vindication of the Rights of Woman* (1792), extended liberal arguments to women.
 
 ## Conservative, socialist and other critiques
 
@@ -37,7 +38,7 @@ John Rawls's *A Theory of Justice* (1971) proposed that principles of justice ar
 
 ## Central concepts and objections
 
-Standard disputes include **negative versus positive liberty**, a distinction made famous by Isaiah Berlin in 1958; equality of what (welfare, resources, capabilities, opportunity); whether legitimacy requires actual consent (a problem for contract theory, since few have actually consented); and whether there is a general obligation to obey the law, which philosophical anarchists such as A. John Simmons deny. Theories face objections from realism, which holds that politics is about power, with roots in Thucydides and Machiavelli's *The Prince* (1532). Rawls is challenged on whether his principles depend on a specifically Western liberal outlook, and his later *Political Liberalism* (1993) responded with the idea of an overlapping consensus.
+Standard disputes include **negative versus positive liberty**, a distinction made famous by Isaiah Berlin in 1958; equality of what (welfare, resources, capabilities, opportunity); whether legitimacy requires actual consent (a problem for contract theory, since few have actually consented); and whether there is a general obligation to obey the law, which philosophical anarchists such as A. John Simmons deny. Theories face objections from realism, which holds that politics is about power, with roots in Thucydides and Machiavelli's *The Prince* (1532). Rawls is challenged on whether his principles depend on a specifically Western liberal outlook, and his later *Political Liberalism* (1993), asking how a society divided by differing comprehensive doctrines can be stable, appealed to the idea of an overlapping consensus.
 
 ## Connections
 

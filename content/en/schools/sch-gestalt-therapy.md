@@ -61,8 +61,8 @@ Gestalt therapy arose from the intersection of:
 - **Laura Perls** (1905–1990): co-founder of Gestalt therapy and the New York Institute for Gestalt Therapy; brought Gestalt perceptual psychology, existential phenomenology, and body/movement awareness into the method.
 - **Paul Goodman** (1911–1972): writer and social critic who wrote the core theoretical presentation of *Gestalt Therapy* (1951).
 - **Ralph Hefferline** (1910–1974): psychologist at Columbia University who developed the practical awareness exercises in the 1951 text.
-- **Isadore From** (1919–1992): co-founder of the New York Institute and a primary teacher of Gestalt theory and contact boundary analysis.
-- **Erving Polster** (b. 1922) and **Miriam Polster** (1918–2001): authors of *Gestalt Therapy Integrated* (1973), articulating a systematic second-generation clinical presentation.
+- **Isadore From** (1919–1994): co-founder of the New York Institute and a primary teacher of Gestalt theory and contact boundary analysis.
+- **Erving Polster** (1922–2024) and **Miriam Polster** (1924–2001): authors of *Gestalt Therapy Integrated* (1973), articulating a systematic second-generation clinical presentation.
 - **Claudio Naranjo** (1932–2019): Chilean psychiatrist who combined Gestalt therapy with contemplative traditions and the Enneagram.
 - **Hans-Jürgen Walter** (1944–): founder of Gestalt Theoretical Psychotherapy (*Gestalttheoretische Psychotherapie*), preserving close fidelity to the Berlin School of Gestalt psychology.
 

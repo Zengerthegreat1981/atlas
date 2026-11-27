@@ -4,7 +4,6 @@ id: SOC-14446
 type: تيار
 part: sociology
 level: متوسط
-quality: "unverified"
 title: Consumption Sociology
 en: Consumption Sociology
 crumb: Sociology ← Consumption Sociology

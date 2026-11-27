@@ -43,7 +43,7 @@ It is noted that the hypothesis explains why belief in invisible agents is cogni
 
 ## Illustrative Examples
 
-Examples frequently cited in this literature: a child who hears the rustling of trees at night automatically assumes "someone" is there before rationally checking that it is just the wind; or the famous experiment of Fritz Heider and Marianne Simmel (1944), which showed that viewers of a video of simple geometric shapes moving (triangles and circles) tend automatically to describe their movement in the language of intentions ("chases", "fears"), despite the absence of any real agent in the scene, which is presented as early experimental evidence for the strength of this hyperactive perceptual tendency.
+Examples frequently cited in this literature: a child who hears the rustling of trees at night automatically assumes "someone" is there before rationally checking that it is just the wind; or the famous experiment of Fritz Heider and Marianne Simmel (1944), which showed that viewers of a short film of simple geometric shapes moving (triangles and circles) tend automatically to describe their movement in the language of intentions ("chases", "fears"), despite the absence of any real agent in the scene, which is presented as early experimental evidence for the strength of this hyperactive perceptual tendency.
 
 ## Sources
 

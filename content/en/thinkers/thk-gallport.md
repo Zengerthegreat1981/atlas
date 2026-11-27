@@ -40,7 +40,7 @@ He helped establish the study of personality as an independent field, influenced
 His trait theory drew two criticisms: that the "trait" in his work is a description rather than an explanation, naming a regularity without accounting for its cause; and that his insistence on the uniqueness of every personality makes the theory resistant to comparative measurement, which pushed later generations (Cattell, Eysenck) toward the factor-analytic path that he rejected. The "contact hypothesis" has held up empirically, but its four conditions are rarely all present together in reality, which explains the modest effect of "encounter" programs in the field.
 
 ## Note: Not to Be Confused with His Brother
-He had an older brother, **Floyd Henry Allport** (1890–1979, who outlived Gordon), also a prominent American psychologist and a pioneer of experimental social psychology (author of *Social Psychology*, 1924). The two are entirely different in their main field of specialization despite the kinship and shared professional collegiality.
+He had an older brother, **Floyd Henry Allport** (1890–1978, who outlived Gordon), also a prominent American psychologist and a pioneer of experimental social psychology (author of *Social Psychology*, 1924). The two are entirely different in their main field of specialization despite the kinship and shared professional collegiality.
 
 ## Major Works
 

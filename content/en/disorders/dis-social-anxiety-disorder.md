@@ -19,7 +19,7 @@ gaps: []
 
 # Social Anxiety Disorder
 
-An anxiety disorder characterized by excessive and persistent fear of social situations in which the person may be exposed to the evaluation of others (whether interactional situations such as conversations or performance situations such as giving a speech). The person fears acting in an embarrassing way or appearing anxious. In children, the anxiety appears in interactions with adults and peers alike.
+An anxiety disorder characterized by excessive and persistent fear of social situations in which the person may be exposed to the evaluation of others (whether interactional situations such as conversations or performance situations such as giving a speech). The person fears acting in an embarrassing way or appearing anxious. In children, DSM-5-TR requires that the anxiety occur in peer settings and not only in interactions with adults.
 
 ## The Clinical Ceiling
 
@@ -63,10 +63,10 @@ ICD-11 classifies social anxiety disorder under 6B04, describing marked and exce
 
 ### Stage 3: Pharmacological Treatment (When Needed)
 
-- **SSRIs** (Sertraline, Paroxetine, Fluoxetine, Escitalopram): the first-line medication.
-- **SNRIs** (Venlafaxine, Duloxetine): an effective alternative.
+- **SSRIs** (Sertraline, Paroxetine, Escitalopram; trial results for Fluoxetine are mixed): the first-line medication.
+- **SNRIs** (Venlafaxine): an effective alternative; the efficacy of Duloxetine for this disorder is not established.
 - **Benzodiazepines**: may be used short-term, but the risk of dependence is high.
-- **Beta-Blockers** (Propranolol): effective in performance anxiety (for example fear of public speaking).
+- **Beta-Blockers** (Propranolol): sometimes used for performance anxiety (for example fear of public speaking), with supporting evidence mainly from small single-dose studies.
 - **MAOIs** (Phenelzine): effective but of limited use because of side effects.
 
 ### Stage 4: Treating Resistant Cases
@@ -115,7 +115,7 @@ ICD-11 classifies social anxiety disorder under 6B04, describing marked and exce
 
 ## Cultural and Epidemiological Context
 
-- Global epidemiological surveys indicate an average lifetime prevalence of social anxiety disorder of roughly 4%, with considerable variation between countries and generally higher rates in high-income Western countries than in East Asian countries (Stein et al., 2017).
+- Global epidemiological surveys indicate an average lifetime prevalence of social anxiety disorder of roughly 4%, with considerable variation between countries: rates were lowest in low and lower-middle income countries and in the African and Eastern Mediterranean regions, and highest in high-income countries and in the Americas and Western Pacific regions (Stein et al., 2017).
 - In Arab and Middle Eastern contexts, community and student studies report widely varying rates, reflecting differences in instruments and cut-offs; regional data remain limited.
 - Culturally, normative values around modesty (*hayaa'*), respect for hierarchy, and family reputation can intersect with social anxiety: behaviors that might be viewed as avoidant in individualistic contexts may be perceived as appropriate reserve or deference in traditional settings. Consequently, diagnosis requires careful differentiation between socially sanctioned modesty and excessive fear that impairs functioning or causes severe personal distress.
 - DSM-5-TR notes culture-related presentations such as *taijin kyofusho* (in Japan and Korea), in which the fear concerns offending or embarrassing others rather than being embarrassed oneself.

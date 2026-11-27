@@ -39,7 +39,7 @@ From 1959, Boss hosted seminars in Zollikon, near Zurich, where Heidegger met Sw
 
 **Technique.** He was wholly opposed to techniques conceived as a method imposed on the person: no preset therapeutic goals, no exercises, no measurement. The therapist lets what shows itself show itself, and helps the patient become open to the possibilities of existence that were closed off. Boss stayed personally respectful of Freud while insisting that the Freudian conceptual machinery misdescribes human existence as a closed psychic apparatus.
 
-**Comparative interests.** He traveled to India in the 1950s and wrote on his encounter with its contemplative traditions, *A Psychiatrist Discovers India* (1959), an early attempt at dialogue between European phenomenology and Asian practice.
+**Comparative interests.** He traveled to India in the 1950s and wrote on his encounter with its contemplative traditions, *Indienfahrt eines Psychiaters* (1959; English *A Psychiatrist Discovers India*, 1965), an early attempt at dialogue between European phenomenology and Asian practice.
 
 ## Major Works
 

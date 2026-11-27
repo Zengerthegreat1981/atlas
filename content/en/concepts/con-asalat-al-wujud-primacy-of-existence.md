@@ -4,6 +4,7 @@ id: "CON-0906"
 type: "مفهوم"
 part: "philosophy"
 level: "متقدم"
+quality: "unverified"
 title: "The Primacy of Existence and the Mental Status of Quiddity (Primacy of Existence)"
 en: "Primacy of Existence (Asalat al-Wujud)"
 crumb: "Philosophy ← Concepts ← Primacy of Existence"
@@ -20,7 +21,7 @@ gaps: []
 ---
 # The Primacy of Existence and the Mental Status of Quiddity (Primacy of Existence)
 
-Mulla Sadra (Sadr al-Din Muhammad al-Shirazi, d. 1050 AH/1640 CE) formulated this principle in his greatest book, *al-Hikma al-Muta'aliya fi al-Asfar al-Aqliyya al-Arba'a* (composed in the early seventeenth century, after his years of retreat in Kahak near Qom and his return to Shiraz), in order to overturn two earlier positions at once: the thesis of Ibn Sina, who made existence an accident added to the possible quiddity (so that for him quiddity is what is realized first and existence supervenes on it), and the thesis of al-Suhrawardi (Shaykh al-Ishraq), who held explicitly to the "primacy of quiddity" and regarded existence as a mere accidental mental consideration. Sadra reverses the order: what is realized in the external world, and the original active factor in reality, is "the one real existence admitting of gradation" (according to the principle of ontological gradation, which he built upon it), while "quiddities" (such as humanness, horseness and treeness) are merely limits, mental abstractions and conceptual considerations that mirror the degrees of intensity and deficiency of existence, not an existence independent in itself.
+Mulla Sadra (Sadr al-Din Muhammad al-Shirazi, d. 1050 AH/1640 CE) formulated this principle in his greatest book, *al-Hikma al-Muta'aliya fi al-Asfar al-Aqliyya al-Arba'a* (begun in 1606 during his years of retreat in Kahak near Qom and completed in Shiraz in 1628), in order to overturn two earlier positions at once: the thesis of Ibn Sina, who made existence an accident added to the possible quiddity (so that for him quiddity is what is realized first and existence supervenes on it), and the thesis of al-Suhrawardi (Shaykh al-Ishraq), who held explicitly to the "primacy of quiddity" and regarded existence as a mere accidental mental consideration. Sadra reverses the order: what is realized in the external world, and the original active factor in reality, is "the one real existence admitting of gradation" (according to the principle of ontological gradation, which he built upon it), while "quiddities" (such as humanness, horseness and treeness) are merely limits, mental abstractions and conceptual considerations that mirror the degrees of intensity and deficiency of existence, not an existence independent in itself.
 
 ## Influence and continuity
 

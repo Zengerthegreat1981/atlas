@@ -34,7 +34,7 @@ Borderline personality disorder as a clinical diagnostic category should not be 
 
 ## Notes on the diagnostic criteria
 
-DSM-5-TR requires 5 of 9 criteria (unchanged from DSM-IV; DSM-5 also offers an alternative model for personality disorders in Section III): frantic efforts to avoid real or imagined abandonment, a pattern of unstable and intense relationships, identity disturbance, emotional instability, chronic emptiness, inappropriate anger, impulsive self-damaging behavior, suicidal thoughts or self-harming behavior, or transient dissociative symptoms.
+DSM-5-TR requires 5 of 9 criteria (unchanged from DSM-IV; DSM-5 also offers an alternative model for personality disorders in Section III): frantic efforts to avoid real or imagined abandonment, a pattern of unstable and intense relationships, identity disturbance, emotional instability, chronic emptiness, inappropriate anger, impulsive self-damaging behavior (in at least two areas), recurrent suicidal behavior, gestures or threats or self-mutilating behavior, and transient stress-related paranoid ideation or severe dissociative symptoms.
 
 ICD-11 uses a dimensional model: a single diagnosis of personality disorder (6D10) rated for severity (mild, moderate, severe), with optional trait domain qualifiers (Negative Affectivity, Detachment, Dissociality, Disinhibition, Anankastia) and a "Borderline pattern" qualifier, coded 6D11.5, which corresponds approximately to DSM-5-TR borderline personality disorder.
 
@@ -114,7 +114,7 @@ DBT is the best-studied treatment for BPD and includes four skill modules:
 - **Self-validation**: acknowledging feelings without needing approval.
 
 #### Interpersonal Effectiveness module
-- **DEAR MAN**: asking for attention effectively.
+- **DEAR MAN**: asking effectively for what one needs, or saying no.
 - **GIVE**: maintaining relationships.
 - **FAST**: protecting self-respect.
 - **THINK**: building empathy.

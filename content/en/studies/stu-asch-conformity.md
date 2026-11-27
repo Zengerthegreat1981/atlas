@@ -46,7 +46,7 @@ Not all participants responded alike: through post-experiment interviews Asch no
 
 Modern extensions of the Asch paradigm have investigated whether social conformity persists in computer-mediated communication (CMC) and algorithmic digital ecosystems. Laboratory studies using online group interfaces (e.g., Rosander & Eriksson, 2012) have reported that conformity can also occur in computer-mediated settings, with effects that may depend on task difficulty and participant characteristics.
 
-However, in naturalistic social media settings, conformity mechanisms are amplified through quantitative social validation cues ("likes," retweets, upvotes, and comment counts). A randomized field experiment on an online news-aggregation site (Muchnik, Aral, & Taylor, 2013) found that an artificially assigned early positive rating increased the likelihood of later positive ratings, a herding effect, whereas early negative ratings were corrected by later users. Such findings are consistent with the broader idea that social cues shape judgments, though they are not direct replications of Asch's paradigm.
+However, in naturalistic social media settings, social influence can also operate through quantitative social validation cues ("likes," retweets, upvotes, and comment counts). A randomized field experiment on an online news-aggregation site (Muchnik, Aral, & Taylor, 2013) found that an artificially assigned early positive rating increased the likelihood of later positive ratings, a herding effect, whereas early negative ratings were corrected by later users. Such findings are consistent with the broader idea that social cues shape judgments, though they are not direct replications of Asch's paradigm.
 
 ## Sources
 

@@ -32,7 +32,7 @@ In "The Dynamics of Transference" (1912) and "Remembering, Repeating and Working
 ## The Evolution of Countertransference
 
 Countertransference refers to the therapist's emotional, cognitive, and bodily reactions toward the patient. Its conceptualization underwent a decisive historical shift:
-1. **The classical view (Freud, 1910)**: Freud introduced the concept in "The Future Prospects of Psycho-Analytic Therapy," initially viewing countertransference as a technical obstacle—a manifestation of the analyst's own unresolved complexes and blind spots. To preserve analytic neutrality and evenly-suspended attention, analysts were required to undergo mandatory personal training analysis.
+1. **The classical view (Freud, 1910)**: Freud introduced the concept in "The Future Prospects of Psycho-Analytic Therapy," initially viewing countertransference as a technical obstacle—a manifestation of the analyst's own unresolved complexes and blind spots. To preserve analytic neutrality and evenly-suspended attention, analysts were expected to examine themselves; Freud in 1912 recommended that they be analyzed, and personal training analysis became a formal requirement of psychoanalytic institutes in the interwar years.
 2. **The totalist and relational shift (Heimann, Racker, Winnicott)**: In a landmark 1950 paper, Paula Heimann reconceptualized countertransference from an obstacle into an indispensable diagnostic instrument. She argued that the therapist's immediate emotional reactions often reflect unconscious communications from the patient. Heinrich Racker (1968) systematically categorized countertransference into:
    - **Concordant countertransference**: the therapist's empathy with the patient's own ego and emotional experience.
    - **Complementary countertransference**: the therapist identifying with the patient's internalized objects (e.g., feeling the irritation or rejection that the patient's parent once directed toward them).
@@ -40,7 +40,7 @@ Countertransference refers to the therapist's emotional, cognitive, and bodily r
 
 ## Object Relations and Contemporary Intersubjectivity
 
-In object relations theory, Melanie Klein and her followers elaborated how transference involves the projective identification of split-off parts of the patient's self into the therapist. Contemporary relational, intersubjective, and short-term dynamic therapies (such as Habib Davanloo's ISTDP) conceptualize the therapeutic dyad as a co-constructed field. Rather than an aloof observer, the clinician is an active participant whose disciplined tracking of countertransference informs real-time interventions.
+In object relations theory, Melanie Klein and her followers elaborated how transference involves the projective identification of split-off parts of the patient's self into the therapist. Contemporary relational and intersubjective approaches conceptualize the therapeutic dyad as a co-constructed field, while short-term dynamic therapies, such as Habib Davanloo's ISTDP, also work actively with transference and resistance. Rather than an aloof observer, the clinician is an active participant whose disciplined tracking of countertransference informs real-time interventions.
 
 ## Clinical Training and Ethical Containment
 

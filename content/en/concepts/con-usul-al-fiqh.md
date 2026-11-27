@@ -49,7 +49,7 @@ The discipline of usul al-fiqh provided the methodological framework within whic
 
 ## Sources
 
-- al-Shāfiʿī, Muḥammad ibn Idrīs. *al-Risāla*. Translated by Majid Khadduri as *Islamic Jurisprudence: Shāfiʿī's Risāla*. Baltimore: Johns Hopkins Press, 1961; 2nd ed. Cambridge: Islamic Texts Society, 1987.
+- al-Shāfiʿī, Muḥammad ibn Idrīs. *al-Risāla*. Translated by Majid Khadduri as *Islamic Jurisprudence: Shāfiʿī's Risāla*. Baltimore: Johns Hopkins Press, 1961; 2nd ed. as *al-Shāfiʿī's Risāla: Treatise on the Foundations of Islamic Jurisprudence*, Cambridge: Islamic Texts Society, 1987.
 - Hallaq, Wael B. *A History of Islamic Legal Theories: An Introduction to Sunnī Uṣūl al-Fiqh*. Cambridge: Cambridge University Press, 1997.
 - Kamali, Mohammad Hashim. *Principles of Islamic Jurisprudence*. 3rd ed. Cambridge: Islamic Texts Society, 2003.
 - Schacht, Joseph. *An Introduction to Islamic Law*. Oxford: Clarendon Press, 1964.

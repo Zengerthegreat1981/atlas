@@ -4,6 +4,7 @@ id: "WRK-13201"
 type: "عمل / كتاب"
 part: "arab-thought"
 level: "متقدم"
+quality: "unverified"
 title: "Tahafut al-Tahafut (The Incoherence of the Incoherence)"
 en: "Tahafut al-Tahafut (The Incoherence of the Incoherence)"
 crumb: "Arab Thought ← Works ← Tahafut al-Tahafut (The Incoherence of the Incoherence)"
@@ -43,7 +44,7 @@ The relation of demonstration to the revealed law is argued more fully in *Fasl 
 
 In much of the Sunni world the book did not take the place of al-Ghazali's *Tahafut* as the familiar account of the philosophers. Ash'ari kalam remained the usual scholastic theology in many regions, and *Tahafut al-Tahafut* circulated less widely than al-Ghazali's book. Philosophical writing continued in the Islamic East in other genres, including commentary on Ibn Sina.
 
-In Latin Europe Ibn Rushd's standing came first from his commentaries on Aristotle, translated from the thirteenth century, which earned him the scholastic title "the Commentator." Teaching drawn from those commentaries, including the eternity of the world and the unity of the intellect, was condemned at Paris in 1270 and again in 1277. A current later called Latin Averroism developed at Paris and, over a longer period, at Padua. This book reached Hebrew and Latin later. Kalonymos ben Kalonymos translated it into Hebrew in 1328 (*Hafut ha-Hafut*). A Latin version, *Destructio destructionum*, was printed at Venice in 1497 with Agostino Nifo's commentary and was reprinted in the sixteenth century. The Latin career of this text belongs to the fourteenth century and the Renaissance, and it is separate from the thirteenth-century condemnations.
+In Latin Europe Ibn Rushd's standing came first from his commentaries on Aristotle, translated from the thirteenth century, which earned him the scholastic title "the Commentator." Teaching drawn from those commentaries, including the eternity of the world and the unity of the intellect, was condemned at Paris in 1270 and again in 1277. A current later called Latin Averroism developed at Paris and, over a longer period, at Padua. This book reached Latin and Hebrew later. Kalonymos ben Kalonymos translated it into Latin in 1328. That version, *Destructio destructionum*, was printed at Venice in 1497 with Agostino Nifo's commentary and was reprinted in the sixteenth century. A second Latin translation of the 1520s was made from an earlier Hebrew translation. The Latin career of this text belongs to the fourteenth century and the Renaissance, and it is separate from the thirteenth-century condemnations.
 
 ## Caveats
 

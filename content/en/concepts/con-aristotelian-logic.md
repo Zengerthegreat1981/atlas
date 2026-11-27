@@ -23,7 +23,7 @@ gaps: []
 
 # Aristotelian Logic in Arabic
 
-Aristotelian logic entered the Arabic tradition through three principal historical phases: early eighth-century translations associated with Ibn al-Muqaffa' and his circle; the precise ninth-century renderings by Hunayn ibn Ishaq (d. 260 AH / 873 CE) and his son Ishaq ibn Hunayn (d. 298 AH / 910–911 CE); and the detailed fourth-century AH commentaries produced by the Christian and Muslim scholars of the Baghdad school. Arabic logicians arranged Aristotle's logical corpus (*Organon*) alongside Porphyry's *Isagoge*, the *Rhetoric*, and the *Poetics* into a comprehensive nine-part curriculum.
+Aristotelian logic entered the Arabic tradition through three principal historical phases: eighth-century translations associated with Ibn al-Muqaffa' and his circle; the precise ninth-century renderings by Hunayn ibn Ishaq (d. 260 AH / 873 CE) and his son Ishaq ibn Hunayn (d. 298 AH / 910–911 CE); and the detailed fourth-century AH commentaries produced by the Christian and Muslim scholars of the Baghdad school. Arabic logicians arranged Aristotle's logical corpus (*Organon*) alongside Porphyry's *Isagoge*, the *Rhetoric*, and the *Poetics* into a comprehensive nine-part curriculum.
 
 ## From Baghdad Commentaries to Avicennian Systematization
 

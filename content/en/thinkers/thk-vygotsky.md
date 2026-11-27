@@ -4,6 +4,7 @@ id: "THK-2264"
 type: "مفكر"
 part: "psychology"
 level: "متقدم"
+quality: "unverified"
 title: "Lev Vygotsky"
 en: "Lev Vygotsky"
 crumb: "Psychology ← Thinkers ← Lev Vygotsky"
@@ -29,7 +30,7 @@ gaps: []
 
 # Lev Vygotsky
 
-A Soviet Jewish psychologist, principal originator of **Sociocultural Theory** in developmental psychology, and one of the most important theorists of the relation between language and consciousness. He lived a short life (1896–1934) and left a research legacy that was not translated into English until the 1960s, which brought about a **revolution in the understanding of cognitive development**. Vygotsky is regarded as Piaget's principal "intellectual counterpart", and as the turning point from structural individualism to the sociocultural approach in the twentieth century.
+A Soviet Jewish psychologist, principal originator of **Sociocultural Theory** in developmental psychology, and one of the most important theorists of the relation between language and consciousness. He lived a short life (1896–1934) and left a research legacy that, apart from a few scattered items, did not become widely available in English until the 1960s, which brought about a **revolution in the understanding of cognitive development**. Vygotsky is regarded as Piaget's principal "intellectual counterpart", and as the turning point from structural individualism to the sociocultural approach in the twentieth century.
 
 ## What He Contributed
 
@@ -70,11 +71,11 @@ This path explains **why children talk aloud while playing or solving puzzles** 
 Vygotsky occupies a **pivotal position** in developmental psychology:
 
 - **Versus Piaget**: Piaget saw cognitive development as individual and structural (the child discovers knowledge by manipulating objects), while Vygotsky saw development as fundamentally social. Nevertheless, it is noted that both converge on the idea of "construction" (constructivism), and their disagreement is internal to the **constructivist current**.
-- **Versus Pavlov and official Soviet psychology**: Vygotsky was in a fragile position under the Stalinist regime — his works were accepted in his lifetime and then banned after his death in 1934, and were not recovered until the late 1950s.
+- **Versus Pavlov and official Soviet psychology**: Vygotsky was in a fragile position under the Stalinist regime — after his death in 1934 his work was suppressed in the wake of the 1936 decree against pedology, and Soviet republication began only in 1956.
 - **His influence on Alexei Leontiev** and **Alexander Luria**: the three formed the "troika" at the Institute of Experimental Psychology in Moscow.
 
 ## Limitations
-- **The political course of his thought**: he was subjected to a Stalinist ban after his death in 1934 (he was accused of "idealism" and "distortion of Marxism"), and the publication of his complete works was not permitted until the end of the 1950s. This means that many of the references accepted today are a **post-historical reconstruction** by his students.
+- **The political course of his thought**: his work was subjected to Stalinist suppression after his death, from the 1936 pedology decree (he was accused of "idealism" and "distortion of Marxism"); republication began in 1956, and a six-volume Russian collected works appeared only in 1982–1984. This means that many of the references accepted today are a **post-historical reconstruction** by his students.
 - **The educational applications** of the ZPD concept built on it later — such as the scaffolding model of Wood, Bruner and Ross (1976) — sometimes conflate **the original concept in Vygotsky** with **later extensions** that may not accurately reflect what he intended.
 - There is no unified, authoritative Arabic translation of his terms (Zone of Proximal Development has been rendered in Arabic by several variant names).
 
@@ -82,7 +83,7 @@ Vygotsky occupies a **pivotal position** in developmental psychology:
 
 - **"Psychology of Art"** (*Психология искусства*, 1925) — his early work on the psychology of literary creativity (written in 1925, first published in Russian in 1965).
 - **"Thought and Language"** (*Мышление и речь*, 1934) — his greatest work, published after his death, and translated into English, also posthumously, in 1962.
-- **"Mind in Society"** — a collection of lectures published posthumously in English in 1978, edited by Michael Cole, Vera John-Steiner and Sylvia Scribner.
+- **"Mind in Society"** — a collection of lectures published posthumously in English in 1978, edited by Michael Cole, Vera John-Steiner, Sylvia Scribner and Ellen Souberman.
 - **"Fundamentals of Defectology"** (*Основы дефектологии*) — his writings of the late 1920s and early 1930s on disability (hearing impairment, visual impairment, intellectual disability) — he was among the first to advocate educating children with disabilities within a unified school system.
 
 ## The Rule of the "Instrumental Element" (Mediation)

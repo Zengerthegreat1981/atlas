@@ -4,6 +4,7 @@ id: "STU-0058"
 type: "دراسة وبحث"
 part: "psychology"
 level: "متوسط"
+quality: "unverified"
 title: "Lawrence Kohlberg's Study of the Stages of Moral Development and the Heinz Dilemma"
 en: "Lawrence Kohlberg's Moral Development Study (Heinz Dilemma)"
 crumb: "Psychology ← Studies ← Kohlberg's Moral Development Study"
@@ -55,7 +56,7 @@ Kohlberg's framework generated significant critical debate on multiple fronts:
 
 ## Sources
 
-- Kohlberg, L. (1958). *The Development of Modes of Thinking and Choices in Years 10 to 16*. Doctoral dissertation, University of Chicago.
+- Kohlberg, L. (1958). *The Development of Modes of Moral Thinking and Choice in the Years 10 to 16*. Doctoral dissertation, University of Chicago.
 - Kohlberg, L. (1963). The development of children's orientations toward a moral order: I. Sequence in the development of moral thought. *Vita Humana*, 6(1-2), 11-33.
 - Colby, A., Kohlberg, L., Gibbs, J., & Lieberman, M. (1983). A longitudinal study of moral judgment. *Monographs of the Society for Research in Child Development*, 48(1-2), 1-124.
 - Gilligan, C. (1982). *In a Different Voice: Psychological Theory and Women's Development*. Harvard University Press.

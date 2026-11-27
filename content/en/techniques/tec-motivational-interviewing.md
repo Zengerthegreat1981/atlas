@@ -4,6 +4,7 @@ id: "TEC-0212"
 type: "تقنية/تدخل علاجي"
 part: "psychology"
 level: "متوسط"
+quality: "unverified"
 title: "Motivational Interviewing"
 en: "Motivational Interviewing"
 crumb: "Psychotherapy ← Techniques ← Motivational Interviewing"
@@ -34,7 +35,7 @@ A session begins with engagement: building a working alliance before any talk of
 
 ## Evidence and Influence
 
-MI is among the most researched counselling methods ever developed. A meta-analysis by Hettema, Steele and Miller in 2005, covering 72 controlled trials, found effects that were modest but consistent across problem areas, with brief MI performing comparably to longer interventions. Lundahl and colleagues, in a 2010 meta-analysis of 119 studies, found small but significant effects of MI compared with weaker comparison conditions, and effects comparable to those of other active treatments. The method has also been adapted: brief motivational interventions in emergency departments, motivational enhancement therapy in Project MATCH, and group MI. Its influence reaches beyond its own trials: the idea that the therapist should evoke rather than install motivation has reshaped addiction treatment, health behaviour change and even the training of doctors and nurses.
+MI is among the most researched counselling methods ever developed. A meta-analysis by Hettema, Steele and Miller in 2005, covering 72 controlled trials, found short-term effects that diminished over follow-ups to one year and varied widely across providers, populations, target problems and settings, with brief MI performing comparably to longer interventions. Lundahl and colleagues, in a 2010 meta-analysis of 119 studies, found small but significant effects of MI compared with weaker comparison conditions, and effects comparable to those of other active treatments. The method has also been adapted: brief motivational interventions in emergency departments, motivational enhancement therapy in Project MATCH, and group MI. Its influence reaches beyond its own trials: the idea that the therapist should evoke rather than install motivation has reshaped addiction treatment, health behaviour change and even the training of doctors and nurses.
 
 ## Advantages and Limitations
 

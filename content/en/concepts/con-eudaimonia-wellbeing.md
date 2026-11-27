@@ -4,6 +4,7 @@ id: "CON-0987"
 type: "مفهوم"
 part: philosophy
 level: "متقدم"
+quality: "unverified"
 title: "Eudaimonia: Happiness and Human Flourishing"
 en: "Eudaimonia Wellbeing"
 crumb: "Philosophy ← Concepts ← Eudaimonia: Happiness and Human Flourishing"

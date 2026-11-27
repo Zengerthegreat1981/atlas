@@ -64,7 +64,7 @@ While both models address states of optimal human functioning, they emerge from 
 In clinical practice, expanding and stabilizing the window of tolerance relies on phased, multimodal strategies:
 - **Bottom-Up Interventions**: Somatosensory methods designed to regulate the autonomic nervous system directly, such as diaphragmatic breathing, progressive muscle relaxation, postural alignment, and sensory grounding (orienting to immediate sensory stimuli).
 - **Top-Down Interventions**: Cognitive reframing, psychoeducation regarding nervous system states, mindful self-compassion, and executive reappraisal of trauma triggers.
-- **Affect Titration**: In evidence-based trauma modalities such as Sensorimotor Psychotherapy, Somatic Experiencing, and EMDR, therapeutic exposure is titrated in small, manageable increments to prevent overwhelming the nervous system and forcing it outside the window.
+- **Affect Titration**: In approaches such as Sensorimotor Psychotherapy and Somatic Experiencing, and in phased trauma work including EMDR (research support differs between these: EMDR has the strongest, while that for Somatic Experiencing is preliminary), exposure to distressing material is paced in manageable increments to prevent overwhelming the nervous system and forcing it outside the window.
 
 ## Critical Appraisal
 
@@ -80,3 +80,4 @@ Although widely adopted in psychotherapy, the window of tolerance faces notable 
 - Porges, S. W. (2011). *The Polyvagal Theory: Neurophysiological Foundations of Emotions, Attachment, Communication, and Self-regulation*. W. W. Norton & Company.
 - Hanin, Y. L. (Ed.). (2000). *Emotions in Sport*. Human Kinetics.
 - Herman, J. L. (1992). *Trauma and Recovery: The Aftermath of Violence—From Domestic Abuse to Political Terror*. Basic Books.
+- Kuhfuß, M., Maldei, T., Hetmanek, A., & Baumann, N. (2021). Somatic experiencing: Effectiveness and key factors of a body-oriented trauma therapy: A scoping literature review. *European Journal of Psychotraumatology*, 12(1), 1929023.

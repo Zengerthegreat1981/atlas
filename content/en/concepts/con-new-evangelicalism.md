@@ -31,7 +31,7 @@ Hankins, in his biography of Schaeffer, shows how Schaeffer's influence helped m
 
 ## The Dispute with Separatist Fundamentalism
 
-New Evangelicalism faced sharp opposition from classical fundamentalist leaders, most notably Carl McIntire and Bob Jones, who regarded any dialogue with academic or ecumenical circles as a compromise of doctrinal purity and a slide toward theological liberalism. The dispute sharpened over Billy Graham's cooperation with a range of churches in his evangelistic campaigns (including mainline and Catholic churches), notably around his 1957 New York crusade, which the separatist fundamentalists rejected outright, regarding it as a betrayal of the fundamentalist principle of "separation from doctrinal error."
+New Evangelicalism faced sharp opposition from classical fundamentalist leaders, most notably Carl McIntire and Bob Jones, who regarded any dialogue with academic or ecumenical circles as a compromise of doctrinal purity and a slide toward theological liberalism. The dispute sharpened over Billy Graham's cooperation with a range of churches in his evangelistic campaigns (including mainline Protestant churches, and in later years Catholics), notably around his 1957 New York crusade, which the separatist fundamentalists rejected outright, regarding it as a betrayal of the fundamentalist principle of "separation from doctrinal error."
 
 ## Billy Graham's Preaching as an Example
 

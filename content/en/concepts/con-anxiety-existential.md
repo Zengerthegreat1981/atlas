@@ -4,6 +4,7 @@ id: "CON-0412"
 type: "مفهوم"
 part: psychology
 level: "مبتدئ"
+quality: "unverified"
 title: "Anxiety: Existential, Psychological and Neuroscientific Accounts"
 en: "Anxiety: Existential, Psychological and Neuroscientific Accounts"
 crumb: "Psychology ← Concepts ← Anxiety: Existential, Psychological and Neuroscientific Accounts"
@@ -56,8 +57,8 @@ May warned that modern attempts to chemically or culturally suppress all anxiety
 
 Centuries before European existentialism, classical Islamic scholars investigated anxiety (*al-hamm*, *al-ghamm*, *al-qalaq*) as both a somatic-cognitive state and an existential condition of human life:
 - **Abu Zayd al-Balkhi** (850–934 CE): In *Masalih al-Abdan wa al-Anfus* (Sustenance for Body and Soul), Al-Balkhi established an early cognitive framework for psychological hygiene. He differentiated bodily diseases from psychic disorders (*amrad nafsaniyya*), identifying fear, sadness, and internal obsessive apprehensions (*waswas*). Al-Balkhi prescribed cognitive and behavioral self-regulation strategies to de-escalate anxiety and sadness.
-- **Ibn Hazm al-Andalusi** (994–1064 CE): In *Al-Akhlaq wa al-Siyar fi Mudawat al-Nufus* (Morals and Conduct in the Healing of Souls), Ibn Hazm argued that the universal common denominator behind all human striving, labor, and desire is the urge to repel anxiety (*daf' al-hamm*). He observed that whether individuals pursue wealth, fame, knowledge, or pleasure, their underlying motivation is to escape restlessness and dread. Ibn Hazm concluded that worldly pursuits merely substitute one form of anxiety for another, and that enduring relief can only be attained through dedication to transcendent, enduring values.
-- **Abu Bakr al-Razi** (Rhazes, 865–925 CE) and **Al-Kindi** (c. 801–873 CE): In Al-Razi's *al-Tibb al-Ruhani* (Spiritual Physick) and Al-Kindi's treatise on dispelling sorrows (*al-hila li-daf' al-ahzan*), these philosophers analyzed the fear of death as the ultimate root of existential dread, arguing that mortal anxiety stems from irrational cognitive assumptions regarding nothingness and the loss of impermanent worldly possessions.
+- **Ibn Hazm al-Andalusi** (994–1064 CE): In *Al-Akhlaq wa al-Siyar fi Mudawat al-Nufus* (Morals and Conduct in the Healing of Souls), Ibn Hazm argued that the universal common denominator behind all human striving, labor, and desire is the urge to repel anxiety (*tard al-hamm*). He observed that whether individuals pursue wealth, fame, knowledge, or pleasure, their underlying motivation is to escape restlessness and dread. Ibn Hazm concluded that worldly pursuits merely substitute one form of anxiety for another, and that enduring relief can only be attained through dedication to transcendent, enduring values.
+- **Abu Bakr al-Razi** (Rhazes, 865–925 CE) and **Al-Kindi** (c. 801–873 CE): In Al-Razi's *al-Tibb al-Ruhani* (Spiritual Physick) and Al-Kindi's treatise on dispelling sorrows (*al-hila li-daf' al-ahzan*), these philosophers addressed sorrow, loss and the fear of death, treating much of this distress as resting on mistaken judgments, for example about death or about the loss of impermanent worldly possessions.
 
 ## The Affective Neuroscience of Anxiety
 
@@ -69,7 +70,7 @@ Joseph LeDoux, in *The Emotional Brain* (1996) and *Anxious* (2015), distinguish
 
 Where does normal existential or psychological anxiety end and clinical disorder begin? Clinical taxonomies (such as DSM-5-TR and ICD-11) rely on empirical criteria rather than metaphysical distinctions:
 - **Proportionality**: Anxiety is disordered when the intensity and scope of worry substantially exceed the objective danger or reality of the stressor.
-- **Chronicity and Persistence**: Normal anxiety is transient and context-bound; generalized anxiety disorder (GAD) requires persistent, pervasive anxiety lasting at least six months.
+- **Chronicity and Persistence**: Normal anxiety is transient and context-bound; for generalized anxiety disorder (GAD), DSM-5-TR requires excessive anxiety and worry on more days than not for at least six months, while ICD-11 specifies at least several months.
 - **Functional Impairment**: Pathological anxiety causes significant distress and clinically measurable impairment in occupational, academic, social, or physiological functioning (e.g., panic attacks, chronic insomnia, debilitating phobic avoidance).
 
 While existential and cognitive therapies value normal anxiety as a signal for authentic self-examination, severe anxiety disorders warrant evidence-based psychological treatment (such as cognitive-behavioral therapy) and medical evaluation.
@@ -80,7 +81,7 @@ This entry provides an interdisciplinary survey across cognitive psychology, phi
 
 ## Sources
 
-- Al-Balkhi, A. Z. (2013). *Sustenance for Body and Soul: Masalih al-Abdan wa al-Anfus* (M. Badri, Trans.). International Institute of Islamic Thought.
+- Badri, M. (Trans. and annot.). (2013). *Abu Zayd al-Balkhi's Sustenance of the Soul: The Cognitive Behavior Therapy of a Ninth Century Physician* (from *Masalih al-Abdan wa al-Anfus*). International Institute of Islamic Thought.
 - Ibn Hazm, A. *Al-Akhlaq wa al-Siyar fi Mudawat al-Nufus* [Morals and Conduct: On the Healing of Souls]. Various editions.
 - Kierkegaard, S. (1844). *The Concept of Anxiety* (R. Thomte, Trans., 1980). Princeton University Press.
 - Heidegger, M. (1927). *Being and Time* (J. Macquarrie & E. Robinson, Trans., 1962). Harper & Row.

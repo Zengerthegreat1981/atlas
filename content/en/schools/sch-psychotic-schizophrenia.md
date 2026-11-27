@@ -44,7 +44,7 @@ Emil Kraepelin, in his *Psychiatry: A Textbook for Students and Physicians* (edi
 - **Brief Psychotic Disorder**: psychotic symptoms that last at least one day and less than one month, with full return to previous functioning.
 - **Delusional Disorder**: one or more delusions lasting one month or more without meeting the other criteria for schizophrenia, with relatively preserved functioning outside the direct sphere of the delusion.
 - **Catatonia**: distinctive motor symptoms (such as rigidity, abnormal postures, and motor or verbal echo) that may be diagnosed as a specifier accompanying another disorder, or as an independent diagnosis associated with a medical condition.
-- **ICD-11 position**: adopts a parallel classification for schizophrenia and other primary psychotic disorders, with essentially similar symptom criteria. It abandons the traditional subtypes of schizophrenia (paranoid, hebephrenic, catatonic) that DSM-IV and ICD-10 retained (DSM-5 had already removed them in 2013), in line with the weak evidence for their diagnostic stability and predictive value.
+- **ICD-11 position**: adopts a parallel classification for schizophrenia and other primary psychotic disorders, with broadly similar symptom criteria, although it requires symptoms for at least one month rather than DSM's six months of continuous signs and does not require functional impairment. It abandons the traditional subtypes of schizophrenia (paranoid, hebephrenic, catatonic) that DSM-IV and ICD-10 retained (DSM-5 had already removed them in 2013), in line with the weak evidence for their diagnostic stability and predictive value.
 
 ## Impact on Research and Treatment
 

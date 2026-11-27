@@ -40,9 +40,9 @@ But there is also a genuine opportunity. The third wave needs what existential t
 
 ## Sources
 
-- Viktor E. Frankl, *…trotzdem Ja zum Leben sagen: Ein Psychologe erlebt das Konzentrationslager* (1946).
+- Viktor E. Frankl, *Ein Psychologe erlebt das Konzentrationslager* (Vienna: Verlag für Jugend und Volk, 1946); later German editions are titled *…trotzdem Ja zum Leben sagen*.
 - Steven C. Hayes, Kirk D. Strosahl, and Kelly G. Wilson, *Acceptance and Commitment Therapy: An Experiential Approach to Behavior Change* (Guilford Press, 1999).
-- Steven C. Hayes, Dermot Barnes-Holmes, and Bryan Roche, *Relational Frame Theory: A Post-Skinnerian Account of Human Language and Cognition* (Kluwer/Plenum, 2001).
+- Steven C. Hayes, Dermot Barnes-Holmes, and Bryan Roche, eds., *Relational Frame Theory: A Post-Skinnerian Account of Human Language and Cognition* (Kluwer/Plenum, 2001).
 - Steven C. Hayes, Jason B. Luoma, Frank W. Bond, Akihiko Masuda, and Jason Lillis, "Acceptance and Commitment Therapy: Model, Processes and Outcomes," *Behaviour Research and Therapy* 44(1) (2006).
 - Irvin D. Yalom, *Existential Psychotherapy* (New York: Basic Books, 1980).
 - Steven C. Hayes, Kirk D. Strosahl, and Kelly G. Wilson, *Acceptance and Commitment Therapy: The Process and Practice of Mindful Change*, 2nd edition (Guilford Press, 2012).

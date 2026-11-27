@@ -4,7 +4,7 @@ id: "THK-13138"
 type: "مفكر"
 part: "psychiatry"
 level: "متقدم"
-quality: "incomplete"
+quality: "incomplete, unverified"
 title: "Edmund Bourne"
 en: "Edmund Bourne"
 crumb: "Psychiatry ← Thinkers ← Edmund Bourne"
@@ -31,7 +31,7 @@ At the Anxiety Treatment Center he worked with panic disorder, agoraphobia, gene
 
 ## The Scientific Context: How the Book Came About
 
-The workbook does not present new methods; it gathers what had accumulated in the behavioral and cognitive treatment of anxiety. Joseph Wolpe introduced systematic desensitization in the 1950s, drawing on the muscle relaxation that Edmund Jacobson had developed in *Progressive Relaxation* (1938). Isaac Marks's research in *Fears, Phobias and Rituals* (1987) showed that gradual live exposure is the most effective treatment for agoraphobia and specific phobias. Aaron Beck and Gary Emery formulated a cognitive framework linking anxiety to an exaggerated estimate of danger, in *Anxiety Disorders and Phobias* (1985). David Barlow presented the model of panic and its treatment through exposure to internal sensations in *Anxiety and Its Disorders* (1988), and then came David Clark's cognitive model (1986). The workbook draws on these components and arranges them in a practical order suited to the non-specialist reader.
+The workbook does not present new methods; it gathers what had accumulated in the behavioral and cognitive treatment of anxiety. Joseph Wolpe introduced systematic desensitization in the 1950s, drawing on the muscle relaxation that Edmund Jacobson had developed in *Progressive Relaxation* (1929). Isaac Marks's research in *Fears, Phobias and Rituals* (1987) showed that gradual live exposure is the most effective treatment for agoraphobia and specific phobias. Aaron Beck and Gary Emery formulated a cognitive framework linking anxiety to an exaggerated estimate of danger, in *Anxiety Disorders and Phobias* (1985). David Barlow presented the model of panic and its treatment through exposure to internal sensations in *Anxiety and Its Disorders* (1988); David Clark had set out his cognitive model of panic in 1986. The workbook draws on these components and arranges them in a practical order suited to the non-specialist reader.
 
 ## *The Anxiety and Phobia Workbook*
 

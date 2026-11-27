@@ -4,6 +4,7 @@ id: "SCH-0028"
 type: "مدرسة"
 part: philosophy
 level: "متوسط"
+quality: "unverified"
 title: "Andalusian Philosophy (Islamic Averroism)"
 en: "Andalusian Philosophy (Islamic Averroism)"
 crumb: "Philosophy ← Schools ← Andalusian Philosophy"
@@ -52,7 +53,7 @@ Cordoba (756–1031 CE) was the capital of the Umayyad state in al-Andalus and a
 
 - In 1195 the Almohad caliph al-Mansur burned the books of philosophy and exiled Ibn Rushd to Alisana (Lucena), then brought him back before his death.
 - After the fall of Cordoba (1236 CE) and Seville (1248 CE) the scholars dispersed to the Maghreb, Tunisia and the East.
-- Michael Scot translated Ibn Rushd's commentaries into Latin in Toledo in the 1220s; they were read by Albertus Magnus and Thomas Aquinas, and Aquinas then replied to them in *On the Unity of the Intellect against the Averroists* (1270).
+- Michael Scot, who had worked in Toledo and later served Frederick II, translated several of Ibn Rushd's commentaries into Latin from about the 1220s; they were read by Albertus Magnus and Thomas Aquinas, and Aquinas then replied to them in *On the Unity of the Intellect against the Averroists* (1270).
 - In 1277 the Bishop of Paris, Étienne Tempier, condemned two hundred and nineteen propositions, including views attributed to the Averroists such as Siger of Brabant.
 
 ## Reference works
@@ -65,14 +66,14 @@ Cordoba (756–1031 CE) was the capital of the Umayyad state in al-Andalus and a
 
 ## Influence
 
-- In medieval Europe: "Latin Averroism" in Paris and Padua with Siger of Brabant, Boethius of Dacia and John of Jandun, and then Pomponazzi in the Renaissance. Dante placed Ibn Rushd in the *Inferno* among the sages of Limbo.
+- In medieval Europe: "Latin Averroism" in Paris and Padua with Siger of Brabant, Boethius of Dacia and John of Jandun; in Renaissance Padua, Pomponazzi argued against Ibn Rushd's doctrine of a single intellect. Dante placed Ibn Rushd in the *Inferno* among the sages of Limbo.
 - In Judaism: he influenced Levi ben Gershon and others, and his commentaries were translated into Hebrew.
 - In the modern Arab era: Farah Antun revived Ibn Rushd in *Ibn Rushd and His Philosophy* (1903) and Muhammad Abduh replied to him, and then Muhammad Abid al-Jabiri presented Ibn Rushd together with Ibn Hazm and al-Shatibi as the current of "Maghrebi rationalism" in *We and the Heritage* (1980), and wrote *Ibn Rushd: Biography and Thought* (1998). Youssef Chahine directed the film *Al-Massir* (Destiny) (1997) about the persecution of Ibn Rushd.
 - In contemporary political philosophy: Leo Strauss's studies on esoteric writing in *Persecution and the Art of Writing* (1952).
 
 ## Limits and critique
 
-- Many Andalusian works were lost or survive only in Hebrew or Latin translation, among them Ibn Rushd's Long Commentary on *On the Soul*, whose Arabic original does not exist.
+- Many Andalusian works were lost or survive only in Hebrew or Latin translation, among them Ibn Rushd's Long Commentary on *On the Soul*, which survives complete in Latin translation while its Arabic original is almost entirely lost.
 - Scholars differ over the degree of the Andalusians' originality relative to the East, and whether they are pure "Peripatetics" or a synthesis with Sufism.
 - The term "Averroism" requires caution, for it was coined by the Latins' opponents, and does not necessarily represent Ibn Rushd as he was described.
 - Over Ibn Rushd's position on the relation between reason and revelation there is controversy: is it a call for two truths, or for the unity of one truth by different methods?

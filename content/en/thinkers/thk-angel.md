@@ -26,7 +26,7 @@ Ernest Angel (born Ernst Angel; 1894–1986) was an Austrian-American writer, ps
 
 ## Life and Historical Context
 
-Angel was born in Vienna in 1894. He was active in German-language literary and publishing circles in the interwar years. After the Nazi annexation of Austria (the Anschluss) in 1938, he fled persecution and emigrated to the United States.
+Angel was born in Vienna in 1894. He was active in German-language literary and publishing circles in the interwar years. After the Nazi annexation of Austria (the Anschluss) in 1938, he moved to Berlin that September, was arrested during the November pogrom and held at Sachsenhausen until December, emigrated to England in 1939, and reached the United States in early 1940.
 
 Settling in New York, Angel transitioned into psychology and psychoanalysis. He underwent analytic training and established a private clinical practice, joining Theodor Reik's National Psychological Association for Psychoanalysis (NPAP), founded in 1948 to provide non-medical psychoanalytic training. Angel held a senior role at the NPAP, contributing to the clinical training of American non-medical psychotherapists during an era when the psychiatric establishment sought to restrict psychoanalytic practice to physicians.
 

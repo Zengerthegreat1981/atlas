@@ -32,7 +32,7 @@ Rogers first presented his approach systematically in a December 1940 lecture at
 
 ## The Central Thesis
 
-Rogers posited that all living organisms possess an inherent drive toward growth, maintenance, and the realization of potential: the **Actualizing Tendency**. In human development, psychological distress develops when individuals encounter conditional acceptance—termed **Conditions of Worth**—from significant others. When love and validation become contingent upon meeting external societal or parental expectations, the individual internalizes these judgments, creating a painful incongruence between the authentic experiencing self (the real self) and the socially conditioned self-concept (the ideal self). Defense mechanisms (denial and perceptual distortion) are deployed to preserve the fragile self-concept, resulting in vulnerability, anxiety, and neurosis.
+Rogers posited that all living organisms possess an inherent drive toward growth, maintenance, and the realization of potential: the **Actualizing Tendency**. In human development, psychological distress develops when individuals encounter conditional acceptance—termed **Conditions of Worth**—from significant others. When love and validation become contingent upon meeting external societal or parental expectations, the individual internalizes these judgments, creating a painful incongruence between the person's actual experiencing and the socially conditioned self-concept. Defense mechanisms (denial and perceptual distortion) are deployed to preserve the fragile self-concept, resulting in vulnerability, anxiety, and neurosis.
 
 ## The Necessary and Sufficient Conditions
 
@@ -41,7 +41,7 @@ In his seminal 1957 paper, "The Necessary and Sufficient Conditions of Therapeut
 2. **Unconditional Positive Regard (UPR)**: A warm, non-possessive acceptance of the client's total experiencing, without judgment, evaluation, or reservation.
 3. **Accurate Empathic Understanding**: The capacity to perceive the client's internal frame of reference as if it were the therapist's own, communicating this understanding back to the client while preserving the "as-if" boundary.
 
-The remaining three contextual conditions require that two persons are in psychological contact; that the client is experiencing incongruence (vulnerability or anxiety); and that the client minimally perceives the therapist's congruence, empathy, and unconditional positive regard.
+The remaining three contextual conditions require that two persons are in psychological contact; that the client is experiencing incongruence (vulnerability or anxiety); and that the therapist's empathic understanding and unconditional positive regard are communicated to the client to at least a minimal degree.
 
 ## Influence and Extension
 

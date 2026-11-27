@@ -4,6 +4,7 @@ id: "CON-11909"
 type: "مفهوم"
 part: "religious-studies"
 level: "متقدم"
+quality: "unverified"
 religious_tradition: "Early Christianity (its pluralism before the formation of orthodoxy)"
 study_approach: "Critical-historical textual; Coptic philology and history of manuscript discovery"
 title: "The Nag Hammadi Library and \"Lost Christianities\""
@@ -37,7 +38,7 @@ The story of the discovery itself is told in details that attracted wide interes
 
 ## The Significance of the *Gospel of Thomas* in Particular
 
-The *Gospel of Thomas*, a collection of 114 sayings attributed to Jesus without a narrative frame (unlike the four canonical Gospels), holds a special place in academic literature because it contains no mention of the crucifixion or of the bodily resurrection. This led some researchers (such as Helmut Koester) to ask whether it represents an early tradition parallel to the synoptic Gospel tradition rather than a later deviation from it. The debate on its dating (proposals range from the middle of the first century to the second century) remains open to this day. The surviving Coptic text is a fourth-century copy, and Greek fragments of earlier versions were found at Oxyrhynchus.
+The *Gospel of Thomas*, a collection of 114 sayings attributed to Jesus without a narrative frame (unlike the four canonical Gospels), holds a special place in academic literature because it gives no account of the crucifixion or of the bodily resurrection (its one reference to the cross, in saying 55, concerns discipleship). This led some researchers (such as Helmut Koester) to ask whether it represents an early tradition parallel to the synoptic Gospel tradition rather than a later deviation from it. The debate on its dating (proposals range from the middle of the first century to the second century) remains open to this day. The surviving Coptic text is a fourth-century copy, and Greek fragments of earlier versions were found at Oxyrhynchus.
 
 ## Sources
 

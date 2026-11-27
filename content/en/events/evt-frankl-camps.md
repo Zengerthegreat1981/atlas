@@ -4,6 +4,7 @@ id: "EVT-0001"
 type: "حدث تاريخي"
 part: philosophy
 level: "مبتدئ"
+quality: "unverified"
 title: "Frankl's Concentration Camp Experience"
 en: "Frankl's Concentration Camp Experience"
 crumb: "Existential Philosophy ← Events ← Frankl's Concentration Camp Experience"
@@ -34,9 +35,9 @@ Frankl's central observation, made while he was still a prisoner, was that the c
 
 ## What Followed: The Book and the School
 
-Before his deportation, Frankl had sewn the manuscript of his first academic book, *Ärztliche Seelsorge* (*The Doctor and the Soul*), into the lining of his coat; it was confiscated on his arrival at Auschwitz and destroyed. Following his liberation and return to Vienna in the summer of 1945, Frankl learned that his wife, mother, father, and brother had all perished. Over the following months, he reconstructed *Ärztliche Seelsorge* from memory and surviving shorthand notes (published in Vienna in 1946). 
+Before his deportation, Frankl had sewn the manuscript of his first academic book, *Ärztliche Seelsorge* (*The Doctor and the Soul*), into the lining of his coat; it was confiscated on his arrival at Auschwitz and destroyed. Following his liberation and return to Vienna in the summer of 1945, Frankl learned that his wife, mother, and brother had also perished. Over the following months, he reconstructed *Ärztliche Seelsorge* from memory and surviving shorthand notes (published in Vienna in 1946). 
 
-In 1945, he also dictated his personal camp memoir in nine days. It appeared anonymously in German in 1946 under the title *…trotzdem Ja zum Leben sagen: Ein Psychologe erlebt das Konzentrationslager*, and was later published in English in 1959 under the title *From Death-Camp to Existentialism* (subsequently reissued worldwide as *Man's Search for Meaning*).
+In 1945, he also dictated his personal camp memoir in nine days. It appeared anonymously in German in 1946 under the title *Ein Psycholog erlebt das Konzentrationslager* (an expanded edition of 1977 was titled *…trotzdem Ja zum Leben sagen*), and was later published in English in 1959 under the title *From Death-Camp to Existentialism* (subsequently reissued worldwide as *Man's Search for Meaning*).
 
 From the same experience grew logotherapy and existential analysis as an established therapeutic school: the claim that the primary human motivation is the will to meaning, that meaning can be found in creative work, in love and encounter, and in the attitude taken toward unavoidable suffering, and that the therapist's task is to help the patient discover the meaning waiting in their own situation. The Viktor Frankl Institute in Vienna, founded in 1992, later became the institutional home of this teaching.
 
@@ -54,7 +55,7 @@ This is a documented historical account, not an inspirational use of Frankl's su
 
 ## Sources
 
-- Frankl, Viktor E. *…trotzdem Ja zum Leben sagen: Ein Psychologe erlebt das Konzentrationslager*. Verlag für Jugend und Volk, Vienna, 1946.
+- Frankl, Viktor E. *Ein Psycholog erlebt das Konzentrationslager*. Verlag für Jugend und Volk, Vienna, 1946 (expanded edition, 1977: *…trotzdem Ja zum Leben sagen*).
 - Frankl, Viktor E. *Man's Search for Meaning* (originally published in English as *From Death-Camp to Existentialism*, 1959). Beacon Press, 2006.
 - Frankl, Viktor E. *The Doctor and the Soul: From Psychotherapy to Logotherapy*. Alfred A. Knopf, 1955.
 - Frankl, Viktor E. *Recollections: An Autobiography*. Plenum Press, 1997.

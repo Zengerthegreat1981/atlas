@@ -57,7 +57,7 @@ A formative case was that of **Anna O.** (Bertha Pappenheim), treated by Josef B
 - **Second theoretical development** (1914-1923): *Instincts and Their Vicissitudes* (1915), *The Unconscious* (1915), and *The Ego and the Id* (1923), which introduced the tripartite structure.
 - **Migration** (1930s-1940s): many analysts flee Nazism, and psychoanalysis becomes institutionally strong in the United States, in the American Psychoanalytic Association.
 - **British consolidation** (1940s-1960s): the object relations school (Klein, Fairbairn, Winnicott, Balint).
-- **French structuralism** (1950s-1960s): Lacan re-read Freud through Saussure and hermeneutics.
+- **French structuralism** (1950s-1960s): Lacan re-read Freud through structural linguistics and anthropology (Saussure, Jakobson, Lévi-Strauss).
 - **American splits** (1970s-1990s): Kohut (self psychology), Mitchell (relational psychoanalysis), Stolorow (intersubjectivity).
 - **Integration and pluralism** (2000s-present): relational, intercultural, feminist, and neuroscientific approaches.
 
@@ -114,7 +114,7 @@ Psychoanalysis exerted an unparalleled influence on twentieth-century intellectu
 ## Relation to Neighboring Schools
 
 - **Humanistic therapy** (Rogers): a reaction to analytic "pessimism."
-- **Behaviorism** (Watson, Skinner): a reaction to analytic "internal reductionism."
+- **Behaviorism** (Watson, Skinner): arose mainly as a reaction against introspective psychology (Watson, 1913), and behaviorists also rejected explanations based on unobservable inner processes, including analytic ones.
 - **Third-wave cognitive-behavioral approaches** (Hayes, Linehan): emphasize acceptance and values rather than interpretation of unconscious conflict.
 - **Phenomenological-existential approaches** (Binswanger, Boss): an existential re-reading of Freud.
 

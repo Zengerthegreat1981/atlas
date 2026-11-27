@@ -38,7 +38,7 @@ Yang and colleagues noted in *Social Science & Medicine* in 2007 that stigma is 
 
 ## Reducing Stigma
 
-Reviews indicate that direct contact with people who have recovered from illness is more effective than education alone. National campaigns such as "Time to Change" in England have been conducted. In the Arab world, involving religious leaders and the media, and delivering care within primary care, may reduce stigma, because a general clinic appointment does not reveal the reason for the visit (see the entry on community mental health).
+Reviews indicate that direct contact with people who have recovered from illness is more effective than education alone for adults, whereas for adolescents education has been found more effective (Corrigan and colleagues, 2012). National campaigns such as "Time to Change" in England have been conducted. In the Arab world, involving religious leaders and the media, and delivering care within primary care, may reduce stigma, because a general clinic appointment does not reveal the reason for the visit (see the entry on community mental health).
 
 ## Critique of the Concept
 

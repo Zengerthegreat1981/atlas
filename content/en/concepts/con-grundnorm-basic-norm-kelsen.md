@@ -33,7 +33,7 @@ Kelsen requires that the legal system as a whole be **effective in a general sen
 
 ## A Famous Judicial Use: The Doctrine of Revolution
 
-The concept was actually invoked in judicial decisions after constitutional coups (for example *State v. Dosso* in Pakistan (1958), *Uganda v. Commissioner of Prisons, ex parte Matovu* (1966), and *Madzimbamuto v. Lardner-Burke* in Southern Rhodesia (1968)), where courts treated a new regime that had become effective as having changed the "basic norm". Pakistan's Supreme Court later repudiated *Dosso* in *Asma Jilani v. Government of the Punjab* (1972). The use of the Grundnorm in such cases was criticized as converting an analytical tool into a justification for the fait accompli, and Kelsen's theory itself does not say that judges ought to accept an effective usurper.
+The concept was actually invoked in judicial decisions after constitutional coups (for example *State v. Dosso* in Pakistan (1958), *Uganda v. Commissioner of Prisons, ex parte Matovu* (1966), and *Madzimbamuto v. Lardner-Burke* in Southern Rhodesia (1968)), where courts treated a new regime that had become effective as having changed the "basic norm". The Rhodesian litigation did not end there: in July 1968 the Privy Council, on appeal, held that sovereignty remained with the United Kingdom and that the regime's emergency regulations were invalid. Pakistan's Supreme Court later repudiated *Dosso* in *Asma Jilani v. Government of the Punjab* (1972). The use of the Grundnorm in such cases was criticized as converting an analytical tool into a justification for the fait accompli, and Kelsen's theory itself does not say that judges ought to accept an effective usurper.
 
 ## Relation to Hart's Rule of Recognition
 

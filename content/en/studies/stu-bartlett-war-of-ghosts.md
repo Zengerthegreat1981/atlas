@@ -3,6 +3,7 @@ slug: "stu-bartlett-war-of-ghosts"
 id: "STU-P0013"
 type: "دراسة وبحث"
 level: "متقدم"
+quality: "unverified"
 title: "Bartlett's 'War of the Ghosts' and Reconstructive Memory Experiments"
 en: "Bartlett's 'War of the Ghosts' and Reconstructive Memory Experiments"
 crumb: "Psychology ← Studies ← Bartlett's Experiments on Remembering 'The War of the Ghosts'"
@@ -40,7 +41,7 @@ The results showed that the recalled stories became shorter and more concise, wi
 
 ## Critique and methodological controversy
 
-Bartlett was criticized for informal procedures: testing intervals varied, instructions were loose, and he reported few statistics. Later attempts to replicate the repeated-reproduction method (Bergman & Roediger, 1999; Wynn & Logie, 1998) found that recall over time was often more accurate and less distorted than Bartlett's account suggests, although systematic changes such as omissions and rationalizations did occur. His concept of the schema nevertheless remained a point of departure for later work on constructive memory, including the research of Elizabeth Loftus.
+Bartlett was criticized for informal procedures: testing intervals varied, instructions were loose, and he reported few statistics. Later work gives a mixed picture. Wynn and Logie (1998), studying students' repeated recall of events from their first weeks at university rather than a story, found memories largely accurate and stable over time. Bergman and Roediger (1999), in a study modeled closely on Bartlett's procedure, replicated his main observations: participants forgot material and introduced rationalizations and distortions that increased with delay (earlier partial replications had been unsuccessful). His concept of the schema nevertheless remained a point of departure for later work on constructive memory, including the research of Elizabeth Loftus.
 
 ## The types of distortion Bartlett documented
 

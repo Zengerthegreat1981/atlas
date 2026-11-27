@@ -3,6 +3,7 @@ slug: "stu-clark-doll-test"
 id: "STU-P0023"
 type: "دراسة وبحث"
 level: "متقدم"
+quality: "unverified"
 title: "The Famous Kenneth and Mamie Clark Doll Test Study of Racial Identity Formation in Children"
 en: "Kenneth & Mamie Clark Doll Test Studies on Racial Identity and Self-Esteem"
 crumb: "Psychology ← Studies ← The Clarks' Doll Test Study"
@@ -37,7 +38,7 @@ The study is widely regarded as a landmark in the psychology of race and was use
 
 ## The Study's Role in Brown v. Board of Education (1954)
 
-Kenneth Clark testified as an expert witness in one of the lower-court cases consolidated in *Brown v. Board of Education* (the South Carolina case, *Briggs v. Elliott*), presenting doll-test findings as evidence that segregation harmed Black children's self-image. The Supreme Court's unanimous 1954 opinion cited social-science work, including Clark's, in a footnote (footnote 11) in support of its conclusion that segregated schooling generates feelings of inferiority. The role of the psychological evidence in the decision has been debated: the Court's ruling rested mainly on constitutional grounds, and the social-science citations drew criticism from some legal scholars.
+Kenneth Clark testified as an expert witness in several of the lower-court cases consolidated in *Brown v. Board of Education* (including the South Carolina case, *Briggs v. Elliott*, and the Delaware litigation), presenting doll-test findings as evidence that segregation harmed Black children's self-image. The Supreme Court's unanimous 1954 opinion cited social-science work, including Clark's, in a footnote (footnote 11) in support of its conclusion that segregated schooling generates feelings of inferiority. The role of the psychological evidence in the decision has been debated: the Court's ruling rested mainly on constitutional grounds, and the social-science citations drew criticism from some legal scholars.
 
 ## Recent Replications and the Controversy over Change over Time
 

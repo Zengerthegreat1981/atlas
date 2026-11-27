@@ -40,7 +40,7 @@ Fuller uses a famous teaching example in his book: an imaginary king named Rex w
 
 ## Morality of Duty Versus Morality of Aspiration
 
-In other essays, Fuller also distinguishes between the **morality of duty** (the minimum required for organized human coexistence at all) and the **morality of aspiration** (the pursuit of a higher human excellence). He holds that the eight conditions of the internal morality of law belong primarily to the morality of duty. They are a functional minimum, not a loftier moral ideal. This is what distinguishes his position from the more ambitious traditional natural law theories in their moral content.
+In the same book, Fuller also distinguishes between the **morality of duty** (the minimum required for organized human coexistence at all) and the **morality of aspiration** (the pursuit of a higher human excellence). He holds that the internal morality of law, although it includes both, remains largely a morality of aspiration rather than of duty: apart from a minimum, its eight conditions are standards of excellence in lawmaking that can be met to a greater or lesser degree. Its concern with procedure rather than substantive ends distinguishes his position from the more ambitious traditional natural law theories in their moral content.
 
 ## Impact and Reception
 

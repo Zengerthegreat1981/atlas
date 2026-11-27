@@ -4,6 +4,7 @@ id: "THK-13154"
 type: "مفكر"
 part: "arab-thought"
 level: "متقدم"
+quality: "unverified"
 title: "Imru' al-Qais"
 en: "Imru' al-Qais"
 crumb: "Arab Thought ← Thinkers ← Imru' al-Qais"
@@ -26,7 +27,7 @@ An Arab poet of the Jahiliyya, traditionally ranked at the head of the pre-Islam
 
 ## Biography and literary tradition
 
-Traditional literary accounts say that his life changed after his father Hujr was killed by Banu Asad. He is said to have sworn not to drink wine, eat meat, anoint himself with oil or approach women until he had taken revenge. The oath is not a vow about ritual washing. The same accounts send him from tribe to tribe and then to the Byzantine court, and they have him die on the way back, near Ancyra (Ankara), of an illness that earned him the epithet *dhu al-quruh* ("the man of the ulcers"). This biography was written down long afterwards. It is a literary narrative, not a contemporary record.
+Traditional literary accounts say that his life changed after his father Hujr was killed by Banu Asad. He is said to have sworn not to drink wine, eat meat, anoint himself with oil, approach women or wash his head until he had taken revenge. The same accounts send him from tribe to tribe and then to the Byzantine court, and they have him die on the way back, near Ancyra (Ankara), of an illness that earned him the epithet *dhu al-quruh* ("the man of the ulcers"). This biography was written down long afterwards. It is a literary narrative, not a contemporary record.
 
 ## His Mu'allaqa
 

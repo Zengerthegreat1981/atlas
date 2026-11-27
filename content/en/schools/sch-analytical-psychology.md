@@ -58,11 +58,12 @@ Jungian clinical practice employs dream analysis, active imagination (a method o
 
 Analytical psychology has faced significant empirical and historical critiques:
 - **Empirical Falsifiability**: Critics from mainstream experimental psychology and psychoanalysis argue that the collective unconscious and archetypal transmissions lack empirical testability, relying on post-hoc circular symbolic interpretations.
-- **Historical and Political Controversies**: Jung's tenure as president of the International General Medical Society for Psychotherapy (1933–1940) and his contemporary editorial writings in the *Zentralblatt für Psychotherapie* generated intense controversy and allegations of political accommodation during the rise of National Socialism, issues extensively addressed by historical scholarship (e.g., Shamdasani, 2003).
+- **Historical and Political Controversies**: Jung's tenure as president of the International General Medical Society for Psychotherapy (1933–1940) and his contemporary editorial writings in the *Zentralblatt für Psychotherapie* generated intense controversy and allegations of political accommodation during the rise of National Socialism, issues addressed by historical scholarship (e.g., Maidenbaum & Martin, 1991).
 
 ## Sources
 
 - Jung, C. G. (1921). *Psychologische Typen*. Rascher Verlag.
 - Jung, C. G. (1952). *Symbole der Wandlung* (rev. ed.). Rascher Verlag.
+- Maidenbaum, A., & Martin, S. A. (Eds.). (1991). *Lingering Shadows: Jungians, Freudians, and Anti-Semitism*. Shambhala.
 - Samuels, A. (1985). *Jung and the Post-Jungians*. Routledge & Kegan Paul.
 - Shamdasani, S. (2003). *Jung and the Making of Modern Psychology: The Dream of a Science*. Cambridge University Press.

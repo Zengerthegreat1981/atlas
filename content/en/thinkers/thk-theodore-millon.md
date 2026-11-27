@@ -4,6 +4,7 @@ id: "THK-13145"
 type: "مفكر"
 part: "psychiatry"
 level: "متقدم"
+quality: "unverified"
 title: "Theodore Millon"
 en: "Theodore Millon"
 crumb: "Psychiatry ← Thinkers ← Theodore Millon"
@@ -43,7 +44,7 @@ Millon served on the DSM-III task force and took part in the personality-disorde
 
 ### Scholarly Output
 
-He wrote or co-wrote many books. Among them are *Disorders of Personality: DSM-III, Axis II* (1981) and *Personality and Psychopathology: Building a Clinical Science* (1996). He later directed the Institute for Advanced Studies in Personology and Psychopathology. In 2008 the American Psychological Association gave him its Gold Medal Award for Life Achievement in the Application of Psychology.
+He wrote or co-wrote many books. Among them are *Disorders of Personality: DSM-III, Axis II* (1981) and *Personality and Psychopathology: Building a Clinical Science* (1996). He later directed the Institute for Advanced Studies in Personology and Psychopathology. In 2008 the American Psychological Foundation gave him its Gold Medal Award for Life Achievement in the Application of Psychology.
 
 ## Legacy
 

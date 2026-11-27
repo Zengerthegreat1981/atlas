@@ -25,7 +25,7 @@ This entry outlines the taxonomic architecture, structural innovations, and inst
 
 ## Historical Evolution and Post-2022 Maintenance
 
-The International Classification of Diseases traces its lineage to the 1893 Bertillon Classification of Causes of Death. The World Health Organization assumed stewardship with ICD-6 in 1948, introducing mental disorders for the first time. ICD-10 was adopted in 1990 and governed global healthcare for three decades.
+The International Classification of Diseases traces its lineage to the 1893 Bertillon Classification of Causes of Death. The World Health Organization assumed stewardship with ICD-6 in 1948, which for the first time included a section on mental disorders. ICD-10 was adopted in 1990 and governed global healthcare for three decades.
 
 ICD-11 represents the first fully digital, ontologically grounded revision of the classification:
 - **Digital Platform and Foundation Component**: ICD-11 is built upon a multidimensional semantic web architecture (the Foundation Component) from which linearizations (such as mortality and morbidity statistics or specialized clinical guidelines) are derived.
@@ -77,4 +77,4 @@ In 2024, the WHO formally published the *Clinical Descriptions and Diagnostic Re
 
 - World Health Organization. (2019). *International Classification of Diseases, 11th Revision (ICD-11)*. World Health Organization.
 - World Health Organization. (2024). *Clinical Descriptions and Diagnostic Requirements for ICD-11 Mental, Behavioural and Neurodevelopmental Disorders (CDDR)*. World Health Organization.
-- Reed, G. M., First, M. B., Kogan, C. S., Stevanovic, D., Evans, S. C., McBain, R., ... & Saxena, S. (2019). Innovations and changes in the ICD-11 classification of mental, behavioural and neurodevelopmental disorders. *World Psychiatry*, 18(1), 3–19.
+- Reed, G. M., First, M. B., Kogan, C. S., Hyman, S. E., Gureje, O., Gaebel, W., ... & Saxena, S. (2019). Innovations and changes in the ICD-11 classification of mental, behavioural and neurodevelopmental disorders. *World Psychiatry*, 18(1), 3–19.

@@ -4,6 +4,7 @@ id: "THK-1961"
 type: "مفكر"
 part: "psychology"
 level: "متقدم"
+quality: "unverified"
 title: "Salvador Minuchin"
 en: "Salvador Minuchin"
 crumb: "Psychology ← Thinkers ← Salvador Minuchin"
@@ -31,11 +32,11 @@ Salvador Minuchin (1921–2017) was an Argentine-American psychiatrist, pediatri
 
 ## Biography and Clinical Origins
 
-Minuchin was born in San Salvador, Entre Ríos, Argentina, to a family of Ukrainian-Jewish immigrants. He earned his medical degree from the University of Córdoba and served as a physician in the Israeli army during the 1948 Arab-Israeli War. Moving to New York, he completed training in child psychiatry and psychoanalysis at the William Alanson White Institute.
+Minuchin was born in San Salvador, Entre Ríos, Argentina, to a family of Jewish immigrants from Russia. He earned his medical degree from the University of Córdoba and served as a physician in the Israeli army during the 1948 Arab-Israeli War. Moving to New York, he trained in child psychiatry and then in psychoanalysis at the William Alanson White Institute.
 
-In the early 1960s, Minuchin worked at the Wiltwyck School for Boys, an institutional facility for delinquent youths from disadvantaged urban backgrounds. Observing that conventional psychoanalytic interpretations failed to engage impoverished, multi-problem families, Minuchin partnered with Braulio Montalvo, Bernice L. Rosman, and Florence Schumer to develop an action-oriented, direct clinical methodology. This work culminated in their pioneering book, *Families of the Slums* (1967), which argued that delinquency and behavioral disruptions should be understood in terms of family organization rather than individual defect alone.
+From the mid-1950s into the early 1960s, Minuchin worked at the Wiltwyck School for Boys, an institutional facility for delinquent youths from disadvantaged urban backgrounds. Observing that conventional psychoanalytic interpretations failed to engage impoverished, multi-problem families, Minuchin partnered with Braulio Montalvo, Bernice L. Rosman, and Florence Schumer to develop an action-oriented, direct clinical methodology. This work culminated in their pioneering book, *Families of the Slums* (1967), which argued that delinquency and behavioral disruptions should be understood in terms of family organization rather than individual defect alone.
 
-From 1965 to 1975, Minuchin served as director of the Philadelphia Child Guidance Clinic (PCGC), transforming it into an internationally recognized center for family therapy research and training. He later founded the Family Studies Center in New York (renamed the Minuchin Center for the Family).
+From 1965 to 1975, Minuchin served as director of the Philadelphia Child Guidance Clinic (PCGC), transforming it into an internationally recognized center for family therapy research and training. He later founded the Family Studies Institute in New York (renamed the Minuchin Center for the Family).
 
 ## Core Concepts and Structural Theory
 
@@ -61,7 +62,7 @@ In collaboration with research director Bernice Rosman and pediatrician Lester B
 2. **Overprotectiveness**: Retardation of autonomy and hypersensitivity to physical signs of distress.
 3. **Rigidity**: Maintenance of the status quo at all costs during developmental transitions.
 4. **Lack of Conflict Resolution**: Avoidance or suppression of explicit interpersonal disagreement.
-The child's physical symptoms function as a detriangulating mechanism that unites parents and deflects attention away from marital conflict.
+In this model, the child's physical symptoms function as a conflict-detouring mechanism that unites parents and deflects attention away from marital conflict. Later research has not established this family pattern as a cause of these conditions; a 2010 Academy for Eating Disorders position paper (Le Grange and colleagues, *International Journal of Eating Disorders*) rejects models that treat family influences as the primary cause of anorexia nervosa or bulimia nervosa.
 
 ## Clinical Interventions
 

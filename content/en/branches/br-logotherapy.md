@@ -28,7 +28,7 @@ Logotherapy is the one current of existential therapy that puts meaning — not 
 
 ## The Central Question
 
-Frankl's hypothesis is that the human being is driven first of all by the "will to meaning" (*Wille zum Sinn*), and that frustration of this will produces an "existential vacuum" — boredom, restlessness, anxiety, and compensatory behaviour, including addiction. The question of therapy is therefore not what is broken in the psyche but what meaning is waiting to be found in this particular life, in this particular situation. Frankl formulated his early ideas while briefly associated with Alfred Adler's circle of individual psychology, from which he broke away, and he tested them in the most extreme conditions imaginable: he survived about three years in concentration camps, including Theresienstadt and Auschwitz, and recorded his observations in *Man's Search for Meaning* (German 1946; first English edition 1959), arguing that those who found some meaning amid absolute horror were better able to survive psychologically, and sometimes physically.
+Frankl's hypothesis is that the human being is driven first of all by the "will to meaning" (*Wille zum Sinn*), and that frustration of this will produces an "existential vacuum" — boredom, restlessness, anxiety, and compensatory behaviour, including addiction. The question of therapy is therefore not what is broken in the psyche but what meaning is waiting to be found in this particular life, in this particular situation. Frankl formulated his early ideas while briefly associated with Alfred Adler's circle of individual psychology, from which he was expelled in 1927, and he tested them in the most extreme conditions imaginable: he survived about three years in concentration camps, including Theresienstadt and Auschwitz, and recorded his observations in *Man's Search for Meaning* (German 1946; first English edition 1959), arguing that those who found some meaning amid absolute horror were better able to survive psychologically, and sometimes physically.
 
 ## Three Paths to Meaning
 
@@ -40,7 +40,7 @@ Logotherapy is distinctive among existential currents in having named techniques
 
 ## The Split Within
 
-In the 1980s and 1990s the current divided. Alfried Längle (born 1951), Frankl's student and collaborator, founded the International Society for Logotherapy and Existential Analysis (GLE) in Vienna in 1983 and went on to develop his own existential analysis, arguing that the question of meaning cannot be asked before a person is able to be present in the world, to love their life, and to be themselves authentically. The result is two separate institutions and training paths: Franklian logotherapy, and Längle's existential analysis, which adds the prior conditions of being able to be, to love life, to be oneself, and only then to find meaning. The dispute is not only organisational; it is philosophical, over whether meaning is discovered in the world or must first be made possible by a person's stance toward their own existence.
+In the 1980s and 1990s the current divided. Alfried Längle (born 1951), Frankl's student and collaborator, co-founded the International Society for Logotherapy and Existential Analysis (GLE) in Vienna in 1983 and went on to develop his own existential analysis, arguing that the question of meaning cannot be asked before a person is able to be present in the world, to love their life, and to be themselves authentically. The result is two separate institutions and training paths: Franklian logotherapy, and Längle's existential analysis, which adds the prior conditions of being able to be, to love life, to be oneself, and only then to find meaning. The dispute is not only organisational; it is philosophical, over whether meaning is discovered in the world or must first be made possible by a person's stance toward their own existence.
 
 ## Contemporary Offspring and Criticism
 
@@ -48,7 +48,7 @@ Frankl's ideas have spread further than any other existential current into mains
 
 ## Sources
 
-- Viktor E. Frankl, *Man's Search for Meaning: An Introduction to Logotherapy*, 1946.
+- Viktor E. Frankl, *Man's Search for Meaning: An Introduction to Logotherapy*, German original 1946; first English edition 1959 as *From Death-Camp to Existentialism*, retitled in the 1962 edition.
 - Viktor E. Frankl, *The Doctor and the Soul: From Psychotherapy to Logotherapy*, 1955.
 - Viktor E. Frankl, *The Will to Meaning: Foundations and Applications of Logotherapy*, 1969.
 - William Breitbart et al., "Meaning-Centered Group Psychotherapy for Patients with Advanced Cancer: A Pilot Randomized Controlled Trial", *Psycho-Oncology*, 2010.

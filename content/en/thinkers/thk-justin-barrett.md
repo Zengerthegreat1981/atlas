@@ -37,7 +37,7 @@ The Cognitive Science of Religion is a relatively recent approach, methodologica
 
 ## Historical Context
 
-Barrett was trained in evolutionary cognitive psychology and was influenced by the work of the French anthropologist Pascal Boyer. In the 1990s Boyer (*The Naturalness of Religious Ideas*, 1994) proposed that religious concepts succeed in spreading because they are "minimally counterintuitive": they violate innate expectations in a single striking detail (a god who hears everything, a spirit that passes through walls), while retaining the other ordinary innate assumptions. This makes them easy to remember and to transmit orally across generations.
+Barrett was trained in experimental psychology, with a cognitive and developmental focus (PhD, Cornell University), and was influenced by the work of the French anthropologist Pascal Boyer. In the 1990s Boyer (*The Naturalness of Religious Ideas*, 1994) proposed that religious concepts succeed in spreading because they are "minimally counterintuitive": they violate innate expectations in a single striking detail (a god who hears everything, a spirit that passes through walls), while retaining the other ordinary innate assumptions. This makes them easy to remember and to transmit orally across generations.
 
 ## Main Ideas and Method
 

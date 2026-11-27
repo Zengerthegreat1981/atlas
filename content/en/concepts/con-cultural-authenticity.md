@@ -4,6 +4,7 @@ id: "CON-18391"
 type: "مفهوم"
 part: arab-thought
 level: "متقدم"
+quality: "unverified"
 title: "Cultural Authenticity & Modernity"
 en: "Cultural Authenticity & Modernity"
 crumb: "Arab Thought ← Concepts ← Cultural Authenticity & Modernity"

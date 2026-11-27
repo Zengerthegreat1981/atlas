@@ -4,6 +4,7 @@ id: "INS-0103"
 type: "أداة قياس"
 part: "psychology"
 level: "متوسط"
+quality: "unverified"
 title: "Hamilton Depression Rating Scale (HDRS / HAM-D)"
 en: "Hamilton Depression Rating Scale (HDRS / HAM-D)"
 crumb: "Psychology ← Instruments ← Hamilton Depression Rating Scale (HDRS / HAM-D)"
@@ -49,7 +50,7 @@ The classic and most widely recognized version comprises 17 items (HAM-D17):
 16. Loss of weight
 17. Insight
 
-Items are scored either on a 3-point (0–2) or 5-point (0–4) scale according to symptom complexity, yielding a cumulative score ranging from 0 to 52. Hamilton published an expanded 21-item version in 1967 (HAM-D21), which added items for diurnal variation, depersonalization/derealization, paranoid symptoms, and obsessional symptoms, though these additional items are typically omitted from primary efficacy totals.
+Items are scored either on a 3-point (0–2) or 5-point (0–4) scale according to symptom complexity, yielding a cumulative score ranging from 0 to 52. The original 1960 publication also listed four additional items (diurnal variation, depersonalization/derealization, paranoid symptoms, and obsessional symptoms), giving the 21-item format (HAM-D21); these four are not counted in the 17-item total.
 
 ## Scoring and Interpretation
 

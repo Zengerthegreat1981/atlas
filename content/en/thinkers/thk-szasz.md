@@ -3,6 +3,7 @@ slug: "thk-szasz"
 id: "THK-0371"
 type: "مفكر"
 level: "متقدم"
+quality: "unverified"
 title: "Thomas Szasz"
 en: "Thomas Szasz"
 crumb: "Psychology ← Thinkers ← Thomas Szasz"
@@ -60,7 +61,7 @@ Szasz's thought shares superficial common ground with existential psychotherapy 
 ## Limitations and Critique
 
 - **Rejection of Biological Psychiatry**: Szasz's categorical assertion that psychiatric disorders cannot have biological substrates is contradicted by decades of neuroimaging, molecular genetics, and neurochemical research demonstrating neurobiological vulnerabilities in conditions like schizophrenia and bipolar I disorder.
-- **Neglect of Acute Incapacity and Suffering**: Critics such as E. Fuller Torrey (*The Death of Psychiatry*, 1974) argued that Szaszian abolitionism abandons individuals experiencing acute psychotic disorientation, whose capacity for rational decision-making is severely impaired, leaving families and communities helpless under the guise of respecting civil liberty.
+- **Neglect of Acute Incapacity and Suffering**: Critics argue that Szaszian abolitionism abandons individuals experiencing acute psychotic disorientation, whose capacity for rational decision-making is severely impaired, leaving families and communities helpless under the guise of respecting civil liberty. E. Fuller Torrey, whose *The Death of Psychiatry* (1974) shared much of Szasz's critique of the medical model, later supported involuntary treatment, a position Szasz attacked.
 - **Narrow Pathology Criterion**: Modern philosophy of medicine contests Szasz's rigid Virchovian requirement of a gross cellular lesion, recognizing valid functional, regulatory, and systems-level pathogenetic dysfunctions.
 
 ## Major Works

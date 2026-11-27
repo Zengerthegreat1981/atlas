@@ -4,6 +4,7 @@ id: "DBT-0306"
 type: "جدل"
 part: philosophy
 level: ""
+quality: "unverified"
 title: "The British against the American Current"
 en: "Philosophy or technique?"
 crumb: "Existential School ← Debates ← The British against the American Current"
@@ -29,7 +30,7 @@ The framework proved extraordinarily teachable. It was translated into many lang
 
 ## The British objection — van Deurzen and Spinelli
 
-Emmy van Deurzen objected in *Existential Counselling & Psychotherapy in Practice* (1988) that Yalom's classification is a ready-made structure imposed on the client's experience instead of being drawn out of the client's own phenomenological description. Her alternative, which draws on Ludwig Binswanger's distinction of Umwelt, Mitwelt and Eigenwelt and adds a spiritual dimension of her own, describes the client's experience through four dimensions of existence — the physical (*Umwelt*), the social (*Mitwelt*), the personal (*Eigenwelt*), and the spiritual (*Überwelt*) — dimensions across which experience is described, not categories into which it is sorted in advance.
+Emmy van Deurzen objected in *Existential Counselling in Practice* (1988; later retitled *Existential Counselling & Psychotherapy in Practice*) that Yalom's classification is a ready-made structure imposed on the client's experience instead of being drawn out of the client's own phenomenological description. Her alternative, which draws on Ludwig Binswanger's distinction of Umwelt, Mitwelt and Eigenwelt and adds a spiritual dimension of her own, describes the client's experience through four dimensions of existence — the physical (*Umwelt*), the social (*Mitwelt*), the personal (*Eigenwelt*), and the spiritual (*Überwelt*) — dimensions across which experience is described, not categories into which it is sorted in advance.
 
 Ernesto Spinelli went further. In *The Interpreted World: An Introduction to Phenomenological Psychology* (1989) and later in *Practising Existential Psychotherapy: The Relational World* (2007), he argued that any prior classification of anxiety — including van Deurzen's own four dimensions if they are used as a checklist — violates the principle of the phenomenological epoché, the suspension of prior assumptions borrowed from Husserl. On Spinelli's view, the method demands description with no categories fixed in advance at all.
 
@@ -62,7 +63,7 @@ The long-term institutional effect is direct: this dispute decides which school 
 ## Sources
 
 - Yalom, I. D. (1980). *Existential Psychotherapy*. Basic Books.
-- van Deurzen, E. (1988). *Existential Counselling & Psychotherapy in Practice*. Sage.
+- van Deurzen, E. (1988). *Existential Counselling in Practice*. Sage.
 - Spinelli, E. (1989). *The Interpreted World: An Introduction to Phenomenological Psychology*. Sage.
 - Spinelli, E. (2007). *Practising Existential Psychotherapy: The Relational World*. Sage.
 - Cooper, M. (2003). *Existential Therapies*. Sage.

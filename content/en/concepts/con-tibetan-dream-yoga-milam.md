@@ -6,10 +6,10 @@ part: "religious-studies"
 level: "متقدم"
 title: "Tibetan Dream Yoga (Milam / rmi lam)"
 en: "Tibetan Dream Yoga (Milam)"
-dates: "A Tibetan contemplative tradition; contemporary academic documentation from 1999"
+dates: "A Tibetan contemplative tradition; documented in English since at least 1935"
 country: "Tibet; academic study from the United States"
 language: "Tibetan (original sources), English (studies)"
-active_start: 1999
+active_start: 1935
 active_end: "مستمر"
 crumb: "Religious Studies ← Concepts ← Tibetan Dream Yoga"
 edges:

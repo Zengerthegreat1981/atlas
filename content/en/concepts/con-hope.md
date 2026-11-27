@@ -4,6 +4,7 @@ id: "CON-19070"
 type: "مفهوم"
 part: psychology
 level: "متوسط"
+quality: "unverified"
 title: "Hope"
 en: "Hope"
 crumb: "Hope"
@@ -53,7 +54,7 @@ In psychotherapeutic practice, the existential therapist does not offer superfic
 
 ## Sources
 
-- Viktor E. Frankl, *Man's Search for Meaning*, 1959.
+- Viktor E. Frankl, *Man's Search for Meaning*, 1959 (first English edition titled *From Death-Camp to Existentialism*).
 - Rollo May, *Love and Will*, 1969.
 - Søren Kierkegaard, *The Sickness unto Death*, trans. H. V. Hong & E. H. Hong, 1980 (Danish original 1849).
 - Gabriel Marcel, *Homo Viator: Introduction to a Metaphysic of Hope*, 1951 (French original 1944).

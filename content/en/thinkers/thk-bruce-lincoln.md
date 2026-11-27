@@ -4,6 +4,7 @@ id: "THK-8032"
 type: "مفكر"
 part: "religious-studies"
 level: "متقدم"
+quality: "unverified"
 religious_tradition: "Multi-religious (critical comparative method: discourse and power)"
 study_approach: "Critical-methodological (analysis of discourse and myth as instruments of power)"
 title: "Bruce Lincoln"
@@ -25,7 +26,7 @@ gaps: []
 
 # Bruce Lincoln
 
-An American historian of religions and professor at the University of Chicago Divinity School, where Mircea Eliade and Jonathan Z. Smith also taught. He is a prominent figure among those who have tried to move beyond the sharp polarization between Eliade's universal comparison and Smith's contextual critique. He does this not by rejecting either side entirely, but by reformulating comparison as an act conscious of its own power.
+An American historian of religions and professor emeritus at the University of Chicago Divinity School, where Mircea Eliade and Jonathan Z. Smith also taught. He is a prominent figure among those who have tried to move beyond the sharp polarization between Eliade's universal comparison and Smith's contextual critique. He does this not by rejecting either side entirely, but by reformulating comparison as an act conscious of its own power.
 
 ## Definition
 
@@ -41,7 +42,7 @@ In his essay "Theses on Method" (*Method & Theory in the Study of Religion*, 199
 
 ## Principal Works
 
-In *Holy Terrors: Thinking about Religion after September 11* (2002), written directly in the aftermath of the attacks of 11 September 2001, Lincoln applies his analytical tools (discourse, myth and classification as instruments of power) to analyze extremist religious discourse, comparing it with the official American religious discourse opposing it. The book contributed to the wider scholarly discussion of religion and violence, which includes work such as R. Scott Appleby's *The Ambivalence of the Sacred* (2000).
+In *Holy Terrors: Thinking about Religion after September 11* (2003), written directly in the aftermath of the attacks of 11 September 2001, Lincoln applies his analytical tools (discourse, myth and classification as instruments of power) to analyze extremist religious discourse, comparing it with the official American religious discourse opposing it. The book contributed to the wider scholarly discussion of religion and violence, which includes work such as R. Scott Appleby's *The Ambivalence of the Sacred* (2000).
 
 ## Impact and Criticism
 
@@ -57,7 +58,7 @@ Lincoln belongs to a generation of historians of religion at Chicago who inherit
 
 ## Institutional Position
 
-Lincoln holds a named professorship in the history of religions at the University of Chicago Divinity School, a major centre of the discipline. Chicago has been associated with successive methodological approaches in the field: Eliade's comparative phenomenology, Smith's contextual critique, and Lincoln's critical, power-conscious comparison.
+Lincoln is Caroline E. Haskell Distinguished Service Professor Emeritus of the History of Religions at the University of Chicago Divinity School, a major centre of the discipline. Chicago has been associated with successive methodological approaches in the field: Eliade's comparative phenomenology, Smith's contextual critique, and Lincoln's critical, power-conscious comparison.
 
 ## Reception of His Work
 
@@ -73,4 +74,4 @@ Lincoln is an example of a scholar able to absorb a radical methodological criti
 - Lincoln, Bruce (1981). *Emerging from the Chrysalis: Studies in Rituals of Women's Initiation*. Harvard University Press.
 - Lincoln, Bruce (1996). "Theses on Method." *Method & Theory in the Study of Religion* 8(3): 225-227.
 - Lincoln, Bruce (1999). *Theorizing Myth: Narrative, Ideology, and Scholarship*. University of Chicago Press.
-- Lincoln, Bruce (2002). *Holy Terrors: Thinking about Religion after September 11*. University of Chicago Press.
+- Lincoln, Bruce (2003). *Holy Terrors: Thinking about Religion after September 11*. University of Chicago Press.

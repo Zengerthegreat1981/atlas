@@ -4,6 +4,7 @@ id: "PHL-30009"
 type: "مجال"
 part: philosophy
 level: "متوسط"
+quality: "unverified"
 title: "Aesthetics"
 en: "Aesthetics"
 crumb: "Philosophy ← Fields ← Aesthetics"

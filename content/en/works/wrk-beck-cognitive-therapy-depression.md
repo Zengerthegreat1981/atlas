@@ -4,6 +4,7 @@ id: "WRK-0765"
 type: "عمل / كتاب"
 part: "psychology"
 level: "متقدم"
+quality: "unverified"
 title: "Cognitive Therapy of Depression by Aaron T. Beck et al. (1979)"
 en: "Cognitive Therapy of Depression by Aaron T. Beck et al."
 crumb: "Psychology ← Works ← Cognitive Therapy of Depression"
@@ -47,7 +48,7 @@ Unlike Beck's earlier theoretical volumes, this text is an explicit **procedural
 
 ## Historical Context and Evidence Base
 
-The book was preceded by Beck's monographs *Depression: Clinical, Experimental, and Theoretical Aspects* (1967) and *Cognitive Therapy and the Emotional Disorders* (1976). What made the 1979 manual influential was its timing: it emerged directly from the landmark randomized controlled trial by Rush, Beck, Kovacs, and Hollon (1977), which reported that cognitive therapy was at least as effective as the tricyclic antidepressant imipramine in treating unipolar depression, with lower treatment dropout rates.
+The book was preceded by Beck's monographs *Depression: Clinical, Experimental, and Theoretical Aspects* (1967) and *Cognitive Therapy and the Emotional Disorders* (1976). What made the 1979 manual influential was its timing: it emerged directly from the landmark randomized controlled trial by Rush, Beck, Kovacs, and Hollon (1977), a small trial (41 outpatients with unipolar depression) which reported significantly greater improvement with cognitive therapy than with the tricyclic antidepressant imipramine, with lower treatment dropout.
 
 In the subsequent **NIMH Treatment of Depression Collaborative Research Program (TDCRP)** (Elkin et al., 1989), cognitive therapy was compared against interpersonal psychotherapy (IPT), imipramine with clinical management, and placebo. Overall outcome differences between active treatments were modest, though imipramine showed an advantage in more severe depression. Later, **DeRubeis et al.** (2005) reported that cognitive therapy was equivalent in efficacy to the SSRI paroxetine among moderately to severely depressed patients when delivered by experienced therapists. Furthermore, **Hollon et al.** (2005) reported that cognitive therapy was associated with lower relapse after treatment ended than discontinuation of medication. 
 

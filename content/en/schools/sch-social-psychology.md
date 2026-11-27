@@ -4,6 +4,7 @@ id: "SCH-0294"
 type: "مدرسة"
 part: "psychology"
 level: "مبتدئ"
+quality: "unverified"
 title: "Social Psychology"
 en: "Social Psychology"
 crumb: "Psychology ← Schools ← Social Psychology"
@@ -81,7 +82,7 @@ Social psychology is the scientific study of **how individuals perceive others, 
 - **Social identity theory** (Tajfel, Turner).
 - **The social psychology of discrimination** (discrimination, unconscious bias, *Implicit Bias*).
 - **Cross-cultural social psychology** (Markus & Kitayama, Triandis, Hofstede).
-- **Social neuroscience** (Lieberman, 2010s).
+- **Social neuroscience** (Ochsner, Lieberman, from the early 2000s).
 - **Evolutionary social psychology** (Buss, Cosmides, Tooby, 1990s-).
 - **Critical social psychology** (for example Henriques and colleagues, *Changing the Subject*, 1984).
 

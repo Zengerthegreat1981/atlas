@@ -53,6 +53,6 @@ He later turned increasingly to Islamic and early Arab history and to the New Te
 
 ## Sources
 
-- Wellhausen, J. (1878/1883). *Prolegomena zur Geschichte Israels*. Berlin: Georg Reimer. (English translation: *Prolegomena to the History of Ancient Israel*, 1885.)
+- Wellhausen, J. (1878/1883). *Prolegomena zur Geschichte Israels*. Berlin: Georg Reimer. (English translation: *Prolegomena to the History of Israel*, 1885.)
 - Nicholson, E. (1998). *The Pentateuch in the Twentieth Century: The Legacy of Julius Wellhausen*. Oxford: Oxford University Press.
 - Kraus, H.-J. (1969). *Geschichte der historisch-kritischen Erforschung des Alten Testaments*. 2nd ed. Neukirchen-Vluyn: Neukirchener Verlag.

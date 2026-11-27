@@ -11,7 +11,7 @@ active_start: 1974
 active_end: 1974
 study_year: 1974
 design: "Laboratory experiment (a series of dual-task paradigm experiments)"
-sample_size: "12 to 20 per experiment across 10 experiments"
+sample_size: "roughly 12 to 30 per group or experiment, across 10 experiments"
 main_finding: "Short-term memory is not a single store but a multicomponent system (central executive + phonological loop + visuospatial sketchpad) that processes different information in parallel"
 replication_status: "replicated"
 edges:

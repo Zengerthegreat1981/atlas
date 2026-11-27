@@ -4,6 +4,7 @@ id: "CON-0408"
 type: "مفهوم"
 part: philosophy
 level: "متوسط"
+quality: "unverified"
 title: "Guilt (Existentialist School View)"
 en: "Guilt (Existentialist School View)"
 crumb: "Philosophy ← Concepts ← Guilt (Existentialist School View)"

@@ -67,7 +67,7 @@ In recent years, leading clinical theorists (including Steven C. Hayes and Stefa
 
 ## Empirical Base and Clinical Scope
 
-Extensive meta-analyses confirm CBT's robust efficacy across a wide spectrum of psychological conditions, including major depressive disorder, generalized anxiety disorder, panic disorder, social anxiety disorder, post-traumatic stress disorder (PTSD), bulimia nervosa, and chronic insomnia (CBT-I, established as first-line therapy). While highly effective, meta-analytic reviews (e.g., Hofmann et al., 2012) emphasize that effect sizes vary contingent upon disorder severity, therapist competence, and whether comparisons involve active psychological controls or waitlists.
+Extensive meta-analyses confirm CBT's robust efficacy across a wide spectrum of psychological conditions, including major depressive disorder, generalized anxiety disorder, panic disorder, social anxiety disorder, post-traumatic stress disorder (PTSD), bulimia nervosa, and chronic insomnia (CBT-I, established as first-line therapy). A review of meta-analyses (Hofmann et al., 2012) found the strongest support for CBT in anxiety disorders, somatoform disorders, bulimia, anger control problems, and general stress, and called for further research. Effect sizes can also vary with the type of comparison used, such as active psychological controls or waitlists.
 
 ## Criticisms and Limitations
 

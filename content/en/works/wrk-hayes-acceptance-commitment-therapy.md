@@ -4,6 +4,7 @@ id: "WRK-0775"
 type: "عمل / كتاب"
 part: "psychology"
 level: "متقدم"
+quality: "unverified"
 title: "Steven Hayes's Acceptance and Commitment Therapy (1999)"
 en: "Acceptance and Commitment Therapy: An Experiential Approach to Behavior Change by Steven C. Hayes"
 crumb: "Psychology ← Works ← Acceptance and Commitment Therapy"
@@ -64,7 +65,7 @@ ACT stimulated widespread international interest, leading to the formation of th
 
 Major criticisms have focused on two issues:
 - **Evidence Quality and Specificity**: A prominent systematic review by **Lars-Göran Öst** (*Behaviour Research and Therapy*, 2008) argued that early third-wave trials exhibited lower methodological rigor than standard CBT and questioned whether ACT had satisfied the criteria for a firmly established treatment.
-- **Novelty vs. Rebranding**: In an influential review titled "Acceptance and mindfulness-based therapy: New wave or old hat?", **Stefan G. Hofmann and Gordon J. G. Asmundson** (2008) questioned whether ACT represented a genuinely new therapeutic paradigm or an amalgam of existing cognitive, behavioral, and humanistic techniques under new terminology.
+- **Novelty and Relation to CBT**: In a review titled "Acceptance and mindfulness-based therapy: New wave or old hat?", **Stefan G. Hofmann and Gordon J. G. Asmundson** (2008) compared ACT with cognitive-behavioral therapy through emotion-regulation research. They argued that, despite fundamental differences in philosophical foundation, the two target different stages of emotion generation (antecedent-focused and response-focused regulation) and that ACT techniques are fully compatible with CBT.
 
 ## Why It Is Included in the Atlas
 

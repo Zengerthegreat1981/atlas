@@ -28,13 +28,13 @@ Acceptance and Commitment Therapy (ACT, pronounced as the single word "act") is 
 
 ## Intellectual and Historical Context
 
-ACT originated in Steven C. Hayes's laboratory at the University of Nevada, Reno, in the early 1980s. An early experimental form of the protocol was termed "comprehensive distancing" (Zettle and Hayes, 1986). The name "Acceptance and Commitment Therapy" became formally established with the publication of the 1999 seminal volume by Steven C. Hayes, Kirk D. Strosahl, and Kelly G. Wilson. ACT is rooted philosophically in Functional Contextualism and empirically in Relational Frame Theory (RFT), a post-Skinnerian account of human language and cognition.
+ACT originated in Steven C. Hayes's laboratory at the University of North Carolina at Greensboro in the early 1980s; Hayes moved to the University of Nevada, Reno, in 1986. An early experimental form of the protocol was termed "comprehensive distancing" (Zettle and Hayes, 1986). The name "Acceptance and Commitment Therapy" became formally established with the publication of the 1999 seminal volume by Steven C. Hayes, Kirk D. Strosahl, and Kelly G. Wilson. ACT is rooted philosophically in Functional Contextualism and empirically in Relational Frame Theory (RFT), a post-Skinnerian account of human language and cognition.
 
 ACT developed partly in response to perceived limitations of traditional second-wave cognitive therapy. Rather than seeking to evaluate, challenge, or alter the content or frequency of dysfunctional thoughts (cognitive restructuring), ACT targets the individual's relationship to their cognitive and affective experiences, fostering acceptance and defusion while mobilizing values-directed action.
 
 ## The Founders and Early Contributors
 
-The principal architect of ACT is **Steven C. Hayes**, Foundation Professor of Psychology at the University of Nevada, Reno. Key early co-developers include **Robert D. Zettle**, who co-authored the early comprehensive distancing study (Zettle & Hayes, 1986), and **Kirk D. Strosahl** and **Kelly G. Wilson**, co-authors of the 1999 foundational manual. In 2005, Hayes and an international group of contextual behavioral scientists founded the **Association for Contextual Behavioral Science** (ACBS) as an open, non-hierarchical scientific home for ACT and RFT.
+The principal architect of ACT is **Steven C. Hayes**, Nevada Foundation Professor of Psychology at the University of Nevada, Reno (retired from the university in 2023). Key early co-developers include **Robert D. Zettle**, who co-authored the early comprehensive distancing study (Zettle & Hayes, 1986), and **Kirk D. Strosahl** and **Kelly G. Wilson**, co-authors of the 1999 foundational manual. In 2005, Hayes and an international group of contextual behavioral scientists founded the **Association for Contextual Behavioral Science** (ACBS) as an open, non-hierarchical scientific home for ACT and RFT.
 
 ## Core Theoretical Frameworks
 
@@ -69,7 +69,7 @@ The emergence of the "third wave" generated historical discussion regarding prio
 
 ## Clinical Applications and Evidence Base
 
-ACT possesses a broad empirical foundation evaluated in hundreds of randomized controlled trials (RCTs). Conditions with substantial empirical support include chronic pain (where ACT is recognized as a treatment with strong research support by APA Division 12), generalized anxiety disorder, major depressive disorder, obsessive-compulsive disorder, substance use disorders, and coping with chronic medical illnesses (cancer, diabetes). Beyond psychiatric settings, ACT has been adapted for organizational behavior management, athlete performance enhancement, and educational stress reduction.
+ACT possesses a broad empirical foundation evaluated in hundreds of randomized controlled trials (RCTs). Conditions with substantial empirical support include chronic pain (where the APA Division 12 listing rates ACT as having strong research support under its 1998 criteria and marks it for re-evaluation under its 2015 criteria), generalized anxiety disorder, major depressive disorder, obsessive-compulsive disorder, substance use disorders, and coping with chronic medical illnesses (cancer, diabetes). Beyond psychiatric settings, ACT has been adapted for organizational behavior management, athlete performance enhancement, and educational stress reduction.
 
 ## Criticism and Limits
 

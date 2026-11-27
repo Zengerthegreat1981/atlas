@@ -4,6 +4,7 @@ id: "BRN-0104"
 type: "تيار"
 part: psychology
 level: ""
+quality: "unverified"
 title: "British Existential-Phenomenological"
 en: "British Existential-Phenomenological"
 crumb: "Existential Psychotherapy ← Currents ← The British Current"
@@ -36,7 +37,7 @@ Instead of ultimate concerns to be faced, the British current works with four di
 
 ## The Figures and the Institutions
 
-The current has a prehistory in R. D. Laing, whose *The Divided Self* (1960) brought existential-phenomenological psychiatry into British discussion decades before the current took institutional form. Its founder and organiser is Emmy van Deurzen (born 1951), who founded the Society for Existential Analysis and its journal in 1988, the same year her *Existential Counselling in Practice* was first published, and who later founded the New School of Psychotherapy and Counselling in London in 1996. Her *Everyday Mysteries* (1997) is the clearest systematic statement of the approach. Ernesto Spinelli, the current's internal dissenter, proposed a relational version that gives greater weight to what actually happens between therapist and client moment by moment in the session; his *The Interpreted World* (1989) and *Practising Existential Psychotherapy* (2007) argue for a descriptive phenomenology closer to Husserl than to Heidegger. Around them stand figures such as Freddie Strasser, John Heaton, and Mick Cooper, whose *Existential Therapies* (2003) mapped the whole field and gave the British current its most widely read survey.
+The current has a prehistory in R. D. Laing, whose *The Divided Self* (1960) brought existential-phenomenological psychiatry into British discussion decades before the current took institutional form. Its founder and organiser is Emmy van Deurzen (born 1951), who founded the Society for Existential Analysis in 1988 (its journal, *Existential Analysis*, first appeared in 1990), the same year her *Existential Counselling in Practice* was first published, and who later founded the New School of Psychotherapy and Counselling in London in 1996. Her *Everyday Mysteries* (1997) is the clearest systematic statement of the approach. Ernesto Spinelli, the current's internal dissenter, proposed a relational version that gives greater weight to what actually happens between therapist and client moment by moment in the session; his *The Interpreted World* (1989) and *Practising Existential Psychotherapy* (2007) argue for a descriptive phenomenology closer to Husserl than to Heidegger. Around them stand figures such as Freddie Strasser, John Heaton, and Mick Cooper, whose *Existential Therapies* (2003) mapped the whole field and gave the British current its most widely read survey.
 
 ## Its Stance on Technique and Diagnosis
 

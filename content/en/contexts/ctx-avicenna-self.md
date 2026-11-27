@@ -37,7 +37,7 @@ Kitab al-Nafs contains one of the most famous thought experiments in philosophy:
 
 The Arabic text of *Kitab al-Nafs* constitutes the sixth treatise (*al-Fann al-Sadis*) of the Natural Philosophy (*al-Tabi'iyyat*) of Avicenna's *al-Shifa'*. Across its five constituent discourses (*maqalat*), Avicenna systematically organizes psychological inquiry:
 1. **Treatise 1**: Establishes the definition of the soul as the "first perfection of a natural body possessing organs" (*kamal awwal li-jism tabi'i ali*), addresses its faculties, and introduces the Flying Man thought experiment (reiterated in 5.7).
-2. **Treatise 2**: Analyzes the vegetative powers (*al-quwa al-nabatiyya*) and the five external senses.
+2. **Treatise 2**: Analyzes the vegetative powers (*al-quwa al-nabatiyya*), perception in general, and the senses of touch, taste, smell, and hearing.
 3. **Treatise 3**: Investigates the mechanics of vision and optics, systematically refuting mathematical extramission theories (*khuruj al-shu'a'*) in favor of physical intromission (*intiba'*).
 4. **Treatise 4**: Presents Avicenna's celebrated taxonomy of the internal senses (*al-hawass al-batinah*)—common sense (*al-hiss al-mushtarak*), formative imagination (*al-khayal* / *al-musawwira*), cogitative/compositive faculty (*al-mutakhayyila* / *al-mufakkira*), estimative intuition (*al-wahm*), and retentive memory (*al-hafiza* / *al-dhakira*)—mapping them to specific brain ventricles in dialogue with Galenic anatomy.
 5. **Treatise 5**: Establishes the rational soul (*al-nafs al-natiqa*), distinguishing theoretical and practical intellect, arguing for the soul's immateriality and post-mortem incorruptibility, and analyzing intuitive prophetic intellect (*al-'aql al-qudsi*).

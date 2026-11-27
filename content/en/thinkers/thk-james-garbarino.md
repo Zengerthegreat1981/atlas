@@ -4,12 +4,13 @@ id: "THK-13152"
 type: "مفكر"
 part: "psychiatry"
 level: "متقدم"
+quality: "unverified"
 title: "James Garbarino"
 en: "James Garbarino"
 crumb: "Psychiatry ← Thinkers ← James Garbarino"
-dates: "United States · born 1947"
+dates: "United States · 1947–2026"
 active_start: 1973
-active_end: "مستمر"
+active_end: 2026
 country: "United States"
 language: "English"
 edges:
@@ -21,15 +22,15 @@ gaps: []
 
 # James Garbarino
 
-An American developmental psychologist (born 1947) and one of the leading researchers on the relationship between child abuse and family and community violence on one side, and juvenile and adolescent violence on the other. He has served as a psychological expert witness in criminal trials, particularly in cases reviewing sentences imposed on juvenile offenders.
+An American developmental psychologist (1947–2026) and one of the leading researchers on the relationship between child abuse and family and community violence on one side, and juvenile and adolescent violence on the other. He served as a psychological expert witness in criminal trials, particularly in cases reviewing sentences imposed on juvenile offenders.
 
 ## Career
 
-Garbarino taught at several American universities and headed the Erikson Institute for Advanced Study in Child Development in Chicago. He served as a professor of human development at Cornell University, and from 2006 he held the Maude C. Clarke Chair in Humanistic Psychology at Loyola University Chicago, where he founded the Center for the Human Rights of Children. His research focused on the "social ecology" of child and adolescent development, that is, the study of how overlapping layers of family, school, community, and culture affect the course of psychological development. In this he was influenced by the developmental psychologist Urie Bronfenbrenner, whose theory of "the ecology of human development" was presented in his book published by Harvard University Press in 1979.
+Garbarino taught at several American universities and headed the Erikson Institute for Advanced Study in Child Development in Chicago. He served as a professor of human development at Cornell University, and from 2006 he held the Maude C. Clarke Chair in Humanistic Psychology at Loyola University Chicago, where he founded the Center for the Human Rights of Children. He died in Ithaca, New York, on 7 March 2026, aged 78. His research focused on the "social ecology" of child and adolescent development, that is, the study of how overlapping layers of family, school, community, and culture affect the course of psychological development. In this he was influenced by the developmental psychologist Urie Bronfenbrenner, whose theory of "the ecology of human development" was presented in his book published by Harvard University Press in 1979.
 
 ## Theoretical Framework: From Abuse to a Toxic Environment
 
-In 1977 Garbarino published "The Human Ecology of Child Maltreatment" in the *Journal of Marriage and the Family*, presenting a model in which abuse is not explained by the parent's traits alone, but by the interaction of family stress with social isolation and the absence of neighborhood support. His study with Ann Crouter in 1978, published in *Child Development*, supported this model. It compared rates of abuse among economically similar neighborhoods and found that differences followed the richness of social networks. The idea developed further in his book *Raising Children in a Socially Toxic Environment* (1995), in which he argued that poverty, violence, the media, and the breakdown of neighborhoods accumulate risks for the child. He added that children are affected not by a single factor but by the accumulation of factors, so that the more risk factors present, the greater the likelihood of behavioral problems.
+In 1977 Garbarino published "The Human Ecology of Child Maltreatment" in the *Journal of Marriage and the Family*, presenting a model in which abuse is not explained by the parent's traits alone, but by the interaction of family stress with social isolation and the absence of neighborhood support. His study with Ann Crouter in 1978, published in *Child Development*, supported this model by linking neighborhood rates of maltreatment to socioeconomic conditions and to the balance of stresses and supports around families. A 1980 study with Deborah Sherman compared two socioeconomically matched neighborhoods with different maltreatment risk and found that families in the higher-risk one described a weaker setting for child and family development. The idea developed further in his book *Raising Children in a Socially Toxic Environment* (1995), in which he argued that poverty, violence, the media, and the breakdown of neighborhoods accumulate risks for the child. He added that children are affected not by a single factor but by the accumulation of factors, so that the more risk factors present, the greater the likelihood of behavioral problems.
 
 ## Children of War and Community Violence
 
@@ -53,6 +54,7 @@ His explanatory framework relies mainly on the American context (wide access to 
 
 - Garbarino, James. "The Human Ecology of Child Maltreatment: A Conceptual Model for Research." *Journal of Marriage and the Family* 39, no. 4 (1977): 721–735.
 - Garbarino, James, and Ann Crouter. "Defining the Community Context for Parent-Child Relations: The Correlates of Child Maltreatment." *Child Development* 49, no. 3 (1978): 604–616.
+- Garbarino, James, and Deborah Sherman. "High-Risk Neighborhoods and High-Risk Families: The Human Ecology of Child Maltreatment." *Child Development* 51, no. 1 (1980): 188–198.
 - Garbarino, James, and Kathleen Kostelny. "The Effects of Political Violence on Palestinian Children's Behavior Problems: A Risk Accumulation Model." *Child Development* 67, no. 1 (1996): 33–45.
 - Garbarino, James. *Lost Boys: Why Our Sons Turn Violent and How We Can Save Them*. New York: Free Press, 1999.
 - Bronfenbrenner, Urie. *The Ecology of Human Development: Experiments by Nature and Design*. Cambridge, MA: Harvard University Press, 1979.

@@ -4,6 +4,7 @@ id: "WRK-13207"
 type: "عمل / كتاب"
 part: "arab-thought"
 level: "متقدم"
+quality: "unverified"
 title: "Woman and Sex (al-Mar'a wa al-Jins)"
 en: "Woman and Sex (al-Mar'a wa al-Jins)"
 crumb: "Arab Thought ← Works ← Woman and Sex (al-Mar'a wa al-Jins)"
@@ -38,7 +39,7 @@ The book did not come from a vacuum. In Egypt it was preceded by the Nahda debat
 
 ## Subjects and Argument
 
-The book deals with female circumcision, the standard of virginity and the hymen, the relationship between honour and ownership, and the image of women in proverbs and customs. El Saadawi builds her argument on her medical observations in the countryside and in the city. She describes circumcision as a bodily and psychological wound with no medical need and no decisive religious warrant, and she reads the control of the female body as part of the patriarchal family's control of lineage and inheritance. She holds that sexual repression cannot be separated from class and political repression, a thesis she developed further in *al-Wajh al-'Ari lil-Mar'a al-'Arabiyya* (Beirut, 1977), published in English as *The Hidden Face of Eve* (1980). Later public-health studies have found no medical benefit in the practice. It is a regional custom of the Nile Valley, found among Muslims and Christians there, and it is not prescribed by the Qur'an. The Egypt Demographic and Health Survey of 2008 reported that about 91 percent of ever-married women aged 15 to 49 had undergone it. A ministerial decree of 1996 restricted the practice but was weakly enforced. After further deaths of girls, including in 2007, the Ministry of Health tightened the ban, and the practice was made a criminal offence in 2008.
+The book deals with female circumcision, the standard of virginity and the hymen, the relationship between honour and ownership, and the image of women in proverbs and customs. El Saadawi builds her argument on her medical observations in the countryside and in the city. She describes circumcision as a bodily and psychological wound with no medical need and no decisive religious warrant, and she reads the control of the female body as part of the patriarchal family's control of lineage and inheritance. She holds that sexual repression cannot be separated from class and political repression, a thesis she developed further in *al-Wajh al-'Ari lil-Mar'a al-'Arabiyya* (Beirut, 1977), published in English as *The Hidden Face of Eve* (1980). Later public-health studies have found no medical benefit in the practice. In the Nile Valley it is a regional custom found among Muslims and Christians, it is also practised in other parts of Africa, the Middle East and Asia, and it is not prescribed by the Qur'an. The Egypt Demographic and Health Survey of 2008 reported that about 91 percent of ever-married women aged 15 to 49 had undergone it. A ministerial decree of 1996 restricted the practice but was weakly enforced. After further deaths of girls, including in 2007, the Ministry of Health tightened the ban, and the practice was made a criminal offence in 2008. Amendments in 2016 and 2021 raised the penalties.
 
 ## Circumcision Between Jurisprudence and Medicine
 
@@ -46,7 +47,7 @@ Classical jurists differed on female circumcision. Some treated it as obligatory
 
 ## Reception
 
-The book was attacked in the religious and official press, and its circulation was reportedly restricted for a time. El Saadawi then turned to fiction with *Woman at Point Zero* (*Imra'a 'inda Nuqtat al-Sifr*, 1975). In September 1981 she was among the opponents imprisoned by Sadat, and she was released after his death. In the West her later books circulated in translation, and she became one of the best-known Arab feminist voices there. Fedwa Malti-Douglas, in *Men, Women, and God(s)* (1995), reads the writings as an Arab feminist poetics.
+The book was attacked in the religious and official press, and its circulation was reportedly restricted for a time. El Saadawi had published fiction since the late 1950s, and her later novels include *Woman at Point Zero* (*Imra'a 'inda Nuqtat al-Sifr*, 1975). In September 1981 she was among the opponents imprisoned by Sadat, and she was released after his death. In the West her later books circulated in translation, and she became one of the best-known Arab feminist voices there. Fedwa Malti-Douglas, in *Men, Women, and God(s)* (1995), reads the writings as an Arab feminist poetics.
 
 ## Criticism and Limits
 

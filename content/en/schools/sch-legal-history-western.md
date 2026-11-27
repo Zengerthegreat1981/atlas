@@ -27,7 +27,7 @@ The classical account usually begins with Roman law and its codification in the 
 
 ## Central Ideas: Nation, Spirit and Custom
 
-At the start of the nineteenth century, in opposition to calls (notably by A. F. J. Thibaut, 1814) for codifying German law on the French model (the Napoleonic Code of 1804), **Friedrich Carl von Savigny** led what became known as the **Historical School of Law** (*Historische Rechtsschule*). He argued that law is not the product of abstract rational legislation that can be enacted at any time and place. Rather, it is an organic expression of the "spirit of the people" (*Volksgeist*), its history and customs. It grows gradually, like language, and is not made all at once by a legislative decision. This thesis later influenced the drafting of the **German Civil Code** (BGB, 1900) through his student Georg Friedrich Puchta and the Pandectist school.
+At the start of the nineteenth century, in opposition to calls (notably by A. F. J. Thibaut, 1814) for codifying German law on the French model (the Napoleonic Code of 1804), **Friedrich Carl von Savigny** led what became known as the **Historical School of Law** (*Historische Rechtsschule*). He argued that law is not the product of abstract rational legislation that can be enacted at any time and place. Rather, it is an organic expression of the "spirit of the people" (*Volksgeist*), its history and customs. It grows gradually, like language, and is not made all at once by a legislative decision. This thesis later influenced the drafting of the **German Civil Code** (BGB, 1900) through his follower Georg Friedrich Puchta and the Pandectist school.
 
 ## Key Thinkers: Henry Maine
 

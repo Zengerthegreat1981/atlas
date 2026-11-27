@@ -4,6 +4,7 @@ id: "DBT-0310"
 type: "جدل"
 part: "philosophy"
 level: ""
+quality: "unverified"
 title: "The Individualism Critique"
 en: "Individualism critique"
 crumb: "Existential School ← Debates ← The Individualism Critique"
@@ -41,7 +42,7 @@ The critique also has a practical corollary for training. A therapist trained on
 
 - Simone de Beauvoir, *The Ethics of Ambiguity*, 1947.
 - Herbert Marcuse, *One-Dimensional Man*, 1964.
-- Emmy van Deurzen, *Existential Counselling and Psychotherapy in Practice*, 1988; 3rd ed., 2012.
+- Emmy van Deurzen, *Existential Counselling in Practice*, 1988; later retitled *Existential Counselling and Psychotherapy in Practice*, 2nd ed. 2002, 3rd ed. 2012.
 - Ignacio Martín-Baró, *Writings for a Liberation Psychology*, 1994 (essays from the 1980s).
 - Ernesto Spinelli, *Practising Existential Psychotherapy: The Relational World*, 2007.
 - Mick Cooper, *Existential Therapies*, 2003.

@@ -4,6 +4,7 @@ id: "EXP-0001"
 type: "خبرة معيشة"
 part: philosophy
 level: "مبتدئ"
+quality: "unverified"
 title: "Frankl's First-Person Account of Meaning in the Camp"
 en: "Frankl's First-Person Account of Meaning in the Camp"
 crumb: "Existential Philosophy ← Experiences ← Frankl's First-Person Account of Meaning in the Camp"
@@ -27,7 +28,7 @@ Frankl was careful about the status of his account: it was a witness's report, n
 
 ## Remembering His Wife
 
-The most famous passage in the book describes a forced march at dawn, in bitter cold, when Frankl's thoughts turned to his wife, Tilly. He did not know whether she was alive — she was not; she died in Bergen-Belsen — but in that moment, he writes, the image of her face filled his mind so completely that the cold, the hunger, and the guards fell away. "Love," he concluded, "is the only way to grasp another human being in the innermost core of his personality" (*Man's Search for Meaning*, Part One).
+The most famous passage in the book describes a forced march at dawn, in bitter cold, when Frankl's thoughts turned to his wife, Tilly. He did not know whether she was alive — she was not; she died in Bergen-Belsen — but in that moment, he writes, the image of her face filled his mind so completely that the cold, the hunger, and the guards fell away. In the book's later outline of logotherapy he states the point generally: "Love," he writes, "is the only way to grasp another human being in the innermost core of his personality" (*Man's Search for Meaning*, "Logotherapy in a Nutshell", "The Meaning of Love").
 
 The passage is often quoted sentimentally, but its philosophical weight is precise: love was not a consolation prize for a man who had lost everything else; it was a way of knowing. In remembering his wife, he was not escaping reality but reaching the deepest reality available to him: the person he loved remained present to him as a meaning, regardless of whether she was physically alive.
 

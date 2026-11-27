@@ -46,8 +46,8 @@ Pavlov formulated a comprehensive neurophysiological theory explaining condition
 ## Modern Extensions: Evaluative and Immune Conditioning
 
 Contemporary behavioral science has extended Pavlovian associative principles beyond simple motor and visceral reflexes:
-- **Evaluative Conditioning**: The acquisition or alteration of affective valence toward a neutral conditioned stimulus (such as a brand, face, or abstract pattern) when paired with valenced stimuli. Unlike classical motor reflexes, evaluative conditioning demonstrates high resistance to extinction and shapes everyday human attitudes and consumer preferences (De Houwer et al., 2001).
-- **Conditioned Immunosuppression**: In landmark studies, Robert Ader and Nicholas Cohen (1975) paired a neutral taste stimulus (saccharin solution) with an immunosuppressive drug (cyclophosphamide) in rats. Subsequent exposure to saccharin alone produced significant suppression of humoral and cellular immune responses, and became an early landmark for the field of psychoneuroimmunology, showing that immune responses can be behaviorally conditioned.
+- **Evaluative Conditioning**: The acquisition or alteration of affective valence toward a neutral conditioned stimulus (such as a brand, face, or abstract pattern) when paired with valenced stimuli. It has been described as relatively resistant to extinction compared with other forms of Pavlovian conditioning and as shaping everyday attitudes and consumer preferences (De Houwer et al., 2001), although a later meta-analysis found that extinction procedures reduce, without eliminating, the effect (Hofmann et al., 2010).
+- **Conditioned Immunosuppression**: In landmark studies, Robert Ader and Nicholas Cohen (1975) paired a neutral taste stimulus (saccharin solution) with an immunosuppressive drug (cyclophosphamide) in rats. Subsequent exposure to saccharin alone produced significant suppression of antibody (humoral) responses to an injected antigen, and became an early landmark for the field of psychoneuroimmunology, showing that immune responses can be behaviorally conditioned.
 
 ## Historical Impact
 
@@ -60,3 +60,4 @@ Pavlov received the 1904 Nobel Prize in Physiology or Medicine for his pioneerin
 - Rescorla, R. A., & Wagner, A. R. (1972). A theory of Pavlovian conditioning: Variations in the effectiveness of reinforcement and nonreinforcement. In A. H. Black & W. F. Prokasy (Eds.), *Classical Conditioning II* (pp. 64-99). Appleton-Century-Crofts.
 - Ader, R., & Cohen, N. (1975). Behaviorally conditioned immunosuppression. *Psychosomatic Medicine*, 37(4), 333-340.
 - De Houwer, J., Thomas, S., & Baeyens, F. (2001). Association learning of likes and dislikes: A review of 25 years of research on human evaluative conditioning. *Psychological Bulletin*, 127(6), 853-869.
+- Hofmann, W., De Houwer, J., Perugini, M., Baeyens, F., & Crombez, G. (2010). Evaluative conditioning in humans: A meta-analysis. *Psychological Bulletin*, 136(3), 390-421.

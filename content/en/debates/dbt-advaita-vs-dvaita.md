@@ -4,6 +4,7 @@ id: "DBT-0313"
 type: "جدل"
 part: "philosophy"
 level: "متقدم"
+quality: "unverified"
 title: "Advaita Vedanta versus Dvaita Vedanta: Is the World Illusion or Reality?"
 en: "Advaita vs. Dvaita Vedanta: Is the World Illusion or Reality?"
 crumb: "Philosophy ← Debates ← The Advaita–Dvaita Debate"
@@ -59,7 +60,7 @@ One of the great debates in Indian philosophy, between the Advaita school associ
 ## Modern Scholarly Literature on Advaita Ethics
 
 A persistent issue in modern comparative scholarship is whether Advaita's non-dualism can sustain a normative ethics, given its doctrine that the world of plurality is *mithya* (not ultimately real):
-- **Paul Hacker and the "Tat Tvam Asi" Ethic**: Paul Hacker (1978) argued that modern interpreters (beginning with Swami Vivekananda and Sarvepalli Radhakrishnan, partly influenced by Arthur Schopenhauer and Paul Deussen) formulated an explicit Advaitic social ethic around the Chandogya Upanishad dictum "That thou art" (*tat tvam asi*)—the idea that one should love others because they are identical with one's own true self. Hacker argued that this universal altruism was a modern neo-Vedantic development rather than a feature of classical Advaita, which focused on ascetic renunciation (*samnyasa*).
+- **Paul Hacker and the "Tat Tvam Asi" Ethic**: In an essay of the early 1960s (reprinted in his *Kleine Schriften*, 1978), Paul Hacker argued that modern interpreters (beginning with Swami Vivekananda and Sarvepalli Radhakrishnan, partly influenced by Arthur Schopenhauer and Paul Deussen) formulated an explicit Advaitic social ethic around the Chandogya Upanishad dictum "That thou art" (*tat tvam asi*)—the idea that one should love others because they are identical with one's own true self. Hacker argued that this universal altruism was a modern neo-Vedantic development rather than a feature of classical Advaita, which focused on ascetic renunciation (*samnyasa*).
 - **Wilhelm Halbfass on Dharma and Levels of Truth**: Wilhelm Halbfass (*India and Europe*, 1988) refined this critique by clarifying how classical Advaita integrates ethics through the two levels of truth (*satya-dvaya*): the empirical/practical level (*vyavahara*) and the ultimate level (*paramartha*). On the empirical level, moral duties (*dharma*), social responsibilities, and karma are fully valid and binding; they serve as indispensable preliminary disciplines for purifying the mind (*citta-shuddhi*), even though all distinctions are sublated upon attaining liberating knowledge (*jnana*).
 - **Eliot Deutsch and Anantanand Rambachan**: Deutsch (1969) and Rambachan (2006) argue that non-dual realization does not obliterate moral concern, but provides an experiential ground for spontaneous compassion, as the liberated person (*jivanmukta*) sees all beings in the Self and the Self in all beings.
 

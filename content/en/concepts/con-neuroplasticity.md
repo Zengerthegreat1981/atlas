@@ -29,7 +29,7 @@ Neuroplasticity is the nervous system's capacity for **functional and structural
 2. **Functional Plasticity**: the brain's ability to shift specific functions from damaged areas to undamaged neural regions through practice and rehabilitative training.
 3. **Synaptic Plasticity**: activity-dependent modifications in the strength or efficacy of synaptic transmission. The primary cellular mechanisms are **Long-Term Potentiation (LTP)**—the persistent strengthening of synapses based on recent patterns of activity, first demonstrated by Timothy Bliss and Terje Lømo in 1973—and its counterpart, **Long-Term Depression (LTD)**, the persistent weakening of synapses.
 4. **Developmental Plasticity**: profound, rapid reorganization of neural circuits during critical and sensitive periods in infancy, childhood, and adolescence (e.g., binocular vision mapped by David Hubel and Torsten Wiesel).
-5. **Adult Neurogenesis**: the generation of functional new neurons in the adult brain. While once considered impossible in adult mammals, adult neurogenesis is robustly established in the subgranular zone of the hippocampal dentate gyrus and the subventricular zone; its exact rate and functional significance in adult humans remain an active area of investigation.
+5. **Adult Neurogenesis**: the generation of functional new neurons in the adult brain. While once considered impossible in adult mammals, adult neurogenesis is well established in rodents and several other mammals in the subgranular zone of the hippocampal dentate gyrus and the subventricular zone. In adult humans the evidence is contested: some post-mortem studies report persisting hippocampal neurogenesis while others find it undetectable, and new olfactory bulb neurons appear to be very rare.
 
 ## Major Discoveries and Pioneers
 
@@ -72,3 +72,6 @@ Maguire and colleagues used structural MRI to examine London licensed taxi drive
 - Maguire, E. A., et al. (2000). Navigation-related structural change in the hippocampi of taxi drivers. *Proceedings of the National Academy of Sciences*, 97(8), 4398-4403.
 - Merzenich, M. M., et al. (1984). Somatosensory cortical map changes following digit amputation in adult monkeys. *Journal of Comparative Neurology*, 224(4), 591-605.
 - Bach-y-Rita, P. (1972). *Brain Mechanisms in Sensory Substitution*. Academic Press.
+- Sorrells, S. F., et al. (2018). Human hippocampal neurogenesis drops sharply in children to undetectable levels in adults. *Nature*, 555, 377-381.
+- Boldrini, M., et al. (2018). Human hippocampal neurogenesis persists throughout aging. *Cell Stem Cell*, 22(4), 589-599.
+- Bergmann, O., et al. (2012). The age of olfactory bulb neurons in humans. *Neuron*, 74(4), 634-639.

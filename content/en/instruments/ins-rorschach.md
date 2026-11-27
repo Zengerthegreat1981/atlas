@@ -3,6 +3,7 @@ slug: "ins-rorschach"
 id: "INS-0066"
 type: "أداة قياس"
 level: "متقدم"
+quality: "unverified"
 title: "The Rorschach Inkblot Test"
 en: "Rorschach Inkblot Test (Exner Comprehensive System / R-PAS)"
 crumb: "Psychology ← Instruments ← The Rorschach Inkblot Test"
@@ -49,7 +50,7 @@ For decades, the **Comprehensive System (CS)** formulated by John E. Exner Jr. i
 
 The Rorschach has generated intense psychometric controversy. Critics, prominently James M. Wood and colleagues in *What's Wrong with the Rorschach?* (2003), demonstrated that Exner's normative reference samples skewed toward pathology, artificially inflating rates of perceived psychosis and depression among psychologically healthy individuals. 
 
-Subsequent meta-analyses by Joni L. Mihura and colleagues (2013) in *Psychological Bulletin* demonstrated that when scoring is restricted to empirically validated variables—specifically measures of thought disturbance, cognitive impairment, and perceptual distortion (such as the Thought and Perception Index / PTI)—the Rorschach shows meaningful validity for those variables, with effect sizes in the range reported for other psychological tests. However, variables assessing depression, anxiety, and trauma showed weaker empirical support. Its use in high-stakes forensic testimony (e.g., child custody or criminal responsibility) remains strictly conditioned on the Daubert and Frye standards for evidentiary admissibility.
+Subsequent meta-analyses by Joni L. Mihura and colleagues (2013) in *Psychological Bulletin* demonstrated that when scoring is restricted to empirically validated variables—specifically measures of thought disturbance, cognitive impairment, and perceptual distortion (such as the Perceptual-Thinking Index / PTI)—the Rorschach shows meaningful validity for those variables, with effect sizes in the range reported for other psychological tests. However, variables assessing depression, anxiety, and trauma showed weaker empirical support. Its use in high-stakes forensic testimony (e.g., child custody or criminal responsibility) remains strictly conditioned on the Daubert and Frye standards for evidentiary admissibility.
 
 ## Sources
 
@@ -57,4 +58,4 @@ Subsequent meta-analyses by Joni L. Mihura and colleagues (2013) in *Psychologic
 - Exner, J. E., Jr. (2003). *The Rorschach: A Comprehensive System, Vol. 1: Basic Foundations and Principles of Interpretation* (4th ed.). Hoboken, NJ: John Wiley & Sons.
 - Wood, J. M., Nezworski, M. T., Lilienfeld, S. O., & Garb, H. N. (2003). *What's Wrong with the Rorschach? Science Confronts the Controversial Inkblot Test*. San Francisco, CA: Jossey-Bass.
 - Mihura, J. L., Meyer, G. J., Dumitrascu, N., & Bombel, G. (2013). The validity of individual Rorschach variables: Systematic reviews and meta-analyses of the Comprehensive System. *Psychological Bulletin*, 139(3), 548–605.
-- Meyer, G. J., Viglione, D. J., Mihura, J. L., Erard, R. E., & Erdberg, P. (2011). *Rorschach Performance Assessment System: Administration, Coding, Interpretation, and Technical Manual*. San Antonio, TX: R-PAS.
+- Meyer, G. J., Viglione, D. J., Mihura, J. L., Erard, R. E., & Erdberg, P. (2011). *Rorschach Performance Assessment System: Administration, Coding, Interpretation, and Technical Manual*. Toledo, OH: Rorschach Performance Assessment System.

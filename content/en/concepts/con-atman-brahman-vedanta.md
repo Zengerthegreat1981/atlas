@@ -4,6 +4,7 @@ id: "CON-0912"
 type: "مفهوم"
 part: "philosophy"
 level: "متقدم"
+quality: "unverified"
 title: "Atman, Brahman, and the Unity of Cosmic Consciousness (Atman-Brahman)"
 en: "Atman and Brahman (Advaita Vedanta)"
 crumb: "Philosophy ← Concepts ← Atman and Brahman"
@@ -25,7 +26,7 @@ The deepest metaphysical and spiritual concept in Indian philosophy and in non-d
 
 In Advaita epistemology and psychology, the apparent division between the experiencing subject and the external objective world is an artifact of superimposition (*adhyāsa*). The empirical ego (*ahaṃkāra*) misidentifies pure consciousness with the mind-body apparatus (*upādhis*), projecting an external world of separate, multiplicity-laden objects.
 
-To dissolve this illusion, classical Advaita analyzes experience across three states of consciousness: waking (*jāgrat*), dreaming (*svapna*), and dreamless deep sleep (*suṣupti*). As articulated in the *Māṇḍūkya Upaniṣad*, while the contents of awareness and bodily sensations appear and disappear across these states, consciousness itself persists uninterrupted as the transcendental witness (*sākṣin*). In the fourth state (*turīya*), consciousness is realized in its pristine, non-dual nature—unconditioned by mental fluctuations (*vṛttis*) or the dichotomy of knower, known, and act of knowing.
+To dissolve this illusion, classical Advaita analyzes experience across three states of consciousness: waking (*jāgrat*), dreaming (*svapna*), and dreamless deep sleep (*suṣupti*). In Advaita readings of the *Māṇḍūkya Upaniṣad*, developed from Gauḍapāda's commentary onward, while the contents of awareness and bodily sensations appear and disappear across these states, consciousness itself persists uninterrupted as the transcendental witness (*sākṣin*). In the fourth state (*turīya*), consciousness is realized in its pristine, non-dual nature—unconditioned by mental fluctuations (*vṛttis*) or the dichotomy of knower, known, and act of knowing.
 
 ## The Root in the Upanishads
 

@@ -63,7 +63,7 @@ Psychiatry deals with conditions in which thought, mood, perception, behaviour o
 
 ## A short history
 
-The word "psychiatry" was coined in the early nineteenth century by Johann Christian Reil. Before that, madness was handled by families, religious institutions and, from the seventeenth century, increasingly by confinement. The late eighteenth and early nineteenth centuries saw reformers such as Philippe Pinel in France and William Tuke in England promote "moral treatment" in asylums, which emphasised humane care and routine. The asylum later grew into very large institutions, often overcrowded and custodial.
+The coining of the word "psychiatry" is usually credited to Johann Christian Reil in 1808, although a 2023 historical study reports an earlier use by Karl Friedrich Burdach in 1800. Before that, madness was handled by families, religious institutions and, from the seventeenth century, increasingly by confinement. The late eighteenth and early nineteenth centuries saw reformers such as Philippe Pinel in France and William Tuke in England promote "moral treatment" in asylums, which emphasised humane care and routine. The asylum later grew into very large institutions, often overcrowded and custodial.
 
 In the late nineteenth century Emil Kraepelin, in successive editions of his textbook, distinguished dementia praecox, later called schizophrenia, from manic-depressive illness on the basis of course and outcome. This approach to classification is often called neo-Kraepelinian in its modern form. Around the same time Sigmund Freud developed psychoanalysis, notably in *The Interpretation of Dreams* (1899), which treated symptoms as meaningful and shaped psychiatry, especially in the United States, for much of the twentieth century.
 
@@ -163,3 +163,4 @@ Diagnostic categories are conventions. They are useful for communication, resear
 - World Health Organization, *International Classification of Diseases, Eleventh Revision* (2019)
 - Thomas Szasz, *The Myth of Mental Illness* (1961)
 - Michel Foucault, *Histoire de la folie à l'âge classique* (1961); abridged English edition, *Madness and Civilization* (1965)
+- Diederik F. Janssen, "Naming Psychiatry: Apropos Earliest Use of the Term by Karl Friedrich Burdach (1800)," *History of Psychiatry* 34 (2023): 231-248

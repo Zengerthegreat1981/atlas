@@ -38,7 +38,7 @@ Bulkeley created the Sleep and Dream Database, a large digital archive of dream 
 
 ## Principal Works and Representatives
 
-In his central book *Dreaming in the World's Religions* (2008), he brought together a comparative survey of the functions of dreaming across the major religious traditions (including Judaism, Christianity, Islam, Hinduism and Buddhism, among others), showing how dreaming was used in each as a means of revelation, guidance or spiritual purification. Before this, he edited a reference anthology titled *Dreams: A Reader on Religious, Cultural and Psychological Dimensions of Dreaming* (2001), in which he gathered a variety of religious, psychological and anthropological approaches. He has also served as president of the International Association for the Study of Dreams (IASD).
+In his central book *Dreaming in the World's Religions* (2008), he brought together a comparative survey of the functions of dreaming across the major religious traditions (including Judaism, Christianity, Islam, Hinduism and Buddhism, among others), showing how dreaming was used in each as a means of revelation, guidance or spiritual purification. Before this, he edited a reference anthology titled *Dreams: A Reader on the Religious, Cultural and Psychological Dimensions of Dreaming* (2001), in which he gathered a variety of religious, psychological and anthropological approaches. He has also served as president of the International Association for the Study of Dreams (IASD).
 
 ## Relation to the Arab-Islamic Heritage
 
@@ -53,5 +53,5 @@ Bulkeley seeks to avoid a double reduction: he neither treats religious dreaming
 ## Sources
 
 - Bulkeley, K. (2008). *Dreaming in the World's Religions: A Comparative History*. New York: New York University Press.
-- Bulkeley, K. (Ed.) (2001). *Dreams: A Reader on Religious, Cultural and Psychological Dimensions of Dreaming*. New York: Palgrave Macmillan.
+- Bulkeley, K. (Ed.) (2001). *Dreams: A Reader on the Religious, Cultural and Psychological Dimensions of Dreaming*. New York: Palgrave Macmillan.
 - Lamoreaux, John C. (2002). *The Early Muslim Tradition of Dream Interpretation*. Albany: State University of New York Press.

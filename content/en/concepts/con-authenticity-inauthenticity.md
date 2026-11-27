@@ -49,7 +49,7 @@ Related concepts appear in humanistic psychology—such as Carl Rogers's notion 
 
 The dialectic has faced sustained philosophical and sociological critique:
 - Theodor Adorno's *The Jargon of Authenticity* (1964) criticized Heideggerian terminology as mystifying ideology that evades socio-historical critique.
-- Lionel Trilling (*Sincerity and Authenticity*, 1972) and Charles Taylor (*The Ethics of Authenticity*, 1991) traced the intellectual history of the ideal, warning that detached from communal horizons of meaning, authenticity risks devolving into self-absorbed individualism.
+- Lionel Trilling (*Sincerity and Authenticity*, 1972) and Charles Taylor (*The Ethics of Authenticity*, first published in 1991 as *The Malaise of Modernity*) traced the intellectual history of the ideal, warning that detached from communal horizons of meaning, authenticity risks devolving into self-absorbed individualism.
 - Social psychologists and sociological theorists emphasize that social roles and cultural interdependence are fundamental to identity, cautioning that an individualistic ideal of authenticity must not be used to blame individuals whose socio-economic constraints severely limit their practical choices.
 
 ## Related Concepts
@@ -70,6 +70,6 @@ This entry concentrates on the philosophical dialectic between authenticity and 
 - Bugental, J. F. T. (1987). *The Art of the Psychotherapist*. W. W. Norton.
 - Heidegger, M. (1962). *Being and Time* (J. Macquarrie & E. Robinson, Trans.). Harper & Row. (Original German work published 1927).
 - Sartre, J.-P. (1956). *Being and Nothingness: An Essay on Phenomenological Ontology* (H. E. Barnes, Trans.). Philosophical Library. (Original French work published 1943).
-- Taylor, C. (1991). *The Ethics of Authenticity*. Harvard University Press.
+- Taylor, C. (1992). *The Ethics of Authenticity*. Harvard University Press. (Originally published in Canada, 1991, as *The Malaise of Modernity*).
 - Trilling, L. (1972). *Sincerity and Authenticity*. Harvard University Press.
 - Yalom, I. D. (1980). *Existential Psychotherapy*. Basic Books.

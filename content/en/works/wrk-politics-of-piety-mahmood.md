@@ -6,6 +6,7 @@ part: "religious-studies"
 religious_tradition: "Islam (the Egyptian da'wa movement)"
 study_approach: "Critical contemporary ethnographic fieldwork"
 level: "متقدم"
+quality: "unverified"
 title: "Politics of Piety: The Islamic Revival and the Feminist Subject"
 en: "Politics of Piety: The Islamic Revival and the Feminist Subject"
 crumb: "Religious Studies ← Works ← Politics of Piety: The Islamic Revival and the Feminist Subject"
@@ -37,7 +38,7 @@ Mahmood argues that the dominant liberal feminist theoretical frameworks, which 
 
 ## Principal Works and Figures
 
-Saba Mahmood (1961–2018) was a Pakistani-American anthropologist and professor at the University of California, Berkeley. She was a prominent voice in the critique of secular liberal feminism within the anthropology of religion. An important article by her in *Cultural Anthropology* in 2001 preceded the book and carried the seeds of the same argument. Her work stands in critical dialogue with Talal Asad's anthropology of the secular and of religious discipline, and with Michel Foucault.
+Saba Mahmood (1962–2018) was a Pakistani-American anthropologist and professor at the University of California, Berkeley. She was a prominent voice in the critique of secular liberal feminism within the anthropology of religion. An important article by her in *Cultural Anthropology* in 2001 preceded the book and carried the seeds of the same argument. Her work stands in critical dialogue with Talal Asad's anthropology of the secular and of religious discipline, and with Michel Foucault.
 
 ## Impact and Criticism
 
@@ -49,7 +50,7 @@ Mahmood draws on the classical Islamic ethical heritage in her analysis, referri
 
 ## Additional Notes on Ritual Performance
 
-Mahmood documents the details of the bodily training that participants undergo in study circles: repeating the movements of prayer until they become automatic behavior that does not require continuous conscious thought, and training facial features in the expressions of modesty and humility as acquired skills refined through repeated practice, not ready-made innate traits. Here Mahmood borrows Pierre Bourdieu's concept of *habitus*, modifying it to show that this bodily habituation can be a conscious, intended act that the individual pursues by will to build a specific virtue, not merely a passive, unconscious social adaptation as Bourdieu's original analysis tends to assume.
+Mahmood documents the details of the bodily training that participants undergo in study circles: repeating the movements of prayer until they become automatic behavior that does not require continuous conscious thought, and training facial features in the expressions of modesty and humility as acquired skills refined through repeated practice, not ready-made innate traits. Here Mahmood draws on the older Aristotelian notion of *habitus*, an excellence acquired through repeated practice, which also appears in Islamic thought (as *malaka* in Ibn Khaldun), and distinguishes it from Pierre Bourdieu's use of the term: bodily habituation can be a conscious, intended act that the individual pursues to build a specific virtue, not mainly the unconscious social conditioning that Bourdieu's analysis emphasises.
 
 ## Additional Notes on the Da'wa Movement's Context
 

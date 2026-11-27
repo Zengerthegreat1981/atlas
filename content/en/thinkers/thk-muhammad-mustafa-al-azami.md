@@ -26,7 +26,7 @@ gaps: []
 
 # Muhammad Mustafa al-Azami
 
-An Indian-Saudi scholar of hadith sciences, who obtained his doctorate from the University of Cambridge (1966) under Western orientalist supervision. He became a prominent Muslim academic critic of the critical approach of Ignaz Goldziher and Joseph Schacht to the history of hadith and Islamic jurisprudence, using their own philological tools rather than rejecting them from outside. Al-Azami was a professor at King Saud University in Riyadh for many years, and he also taught in Qatar and Mecca. He was educated in India at Deoband and then at al-Azhar, and he received the King Faisal International Prize for Islamic Studies in 1980.
+An Indian-Saudi scholar of hadith sciences, who obtained his doctorate from the University of Cambridge (1966) under Western orientalist supervision. He became a prominent Muslim academic critic of the critical approach of Ignaz Goldziher and Joseph Schacht to the history of hadith and Islamic jurisprudence, using their own philological tools rather than rejecting them from outside. Al-Azami was a professor at King Saud University in Riyadh for many years, and he also worked in Qatar (as curator of the national public library) and taught in Mecca. He was educated in India at Deoband and then at al-Azhar, and he received the King Faisal International Prize for Islamic Studies in 1980.
 
 ## Critique of the Theory of "Retrospective Growth of the Isnad"
 

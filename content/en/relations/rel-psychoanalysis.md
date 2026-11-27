@@ -36,7 +36,7 @@ Binswanger, a friend and correspondent of Freud for thirty years, was the first 
 
 ## Contemporary Syntheses
 
-A minority of contemporary writers are actively rebuilding the bridge. The most sustained attempt is the phenomenological contextualism of Robert Stolorow and George Atwood, set out in *Contexts of Being* (1992): psychoanalysis rethought as the study of emotional experience as it takes form within relational contexts, with trauma understood not as an event stored in the mind but as severe emotional pain that found no relational home in which it could be held and integrated. These currents are a minority in both traditions — but they are active, and they keep the two schools from hardening into caricatures of one another.
+A minority of contemporary writers are actively rebuilding the bridge. The most sustained attempt is the phenomenological contextualism of Robert Stolorow and George Atwood, whose *Contexts of Being* (1992) is an early statement: psychoanalysis rethought as the study of emotional experience as it takes form within relational contexts. In Stolorow's later formulation, in *Trauma and Human Existence* (2007), trauma is understood not as an event stored in the mind but as severe emotional pain that found no relational home in which it could be held and integrated. These currents are a minority in both traditions — but they are active, and they keep the two schools from hardening into caricatures of one another.
 
 ## Why the Distinction Still Matters
 
@@ -52,3 +52,4 @@ The two schools still compete for the same territory: the serious, long-term tre
 - Medard Boss, *Psychoanalysis and Daseinsanalysis* (1963; German original *Psychoanalyse und Daseinsanalytik*, 1957).
 - Irvin D. Yalom, *Existential Psychotherapy* (New York: Basic Books, 1980).
 - Robert D. Stolorow and George E. Atwood, *Contexts of Being: The Intersubjective Foundations of Psychological Life* (1992).
+- Robert D. Stolorow, *Trauma and Human Existence: Autobiographical, Psychoanalytic, and Philosophical Reflections* (2007).

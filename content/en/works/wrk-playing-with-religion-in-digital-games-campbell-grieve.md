@@ -53,5 +53,5 @@ After the editors' introduction, "What Playing with Religion Offers Digital Game
 
 - Campbell, Heidi A.; Grieve, Gregory P. (eds.). *Playing with Religion in Digital Games*. Indiana University Press, 2014.
 - Grieve, Gregory P. *Cyber Zen: Imagining Authentic Buddhist Identity, Community, and Practices in the Virtual World of Second Life*. Routledge, 2016.
-- Campbell, Heidi A. (ed.). *When Religion Meets New Media*. Routledge, 2010.
+- Campbell, Heidi A. *When Religion Meets New Media*. Routledge, 2010.
 - Indiana University Press. *Playing with Religion in Digital Games*, publisher's description and contents. https://iupress.org/9780253012531/playing-with-religion-in-digital-games

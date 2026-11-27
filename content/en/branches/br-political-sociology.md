@@ -4,7 +4,6 @@ id: SOC-14412
 type: تيار
 part: sociology
 level: متوسط
-quality: "unverified"
 title: Political Sociology
 en: Political Sociology
 crumb: Sociology ← Political Sociology

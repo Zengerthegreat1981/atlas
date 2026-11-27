@@ -4,6 +4,7 @@ id: "CON-0414"
 type: "مفهوم"
 part: psychology
 level: "مبتدئ"
+quality: "unverified"
 title: "Shame and Guilt"
 en: "Shame and Guilt"
 crumb: "Psychology ← Concepts ← Shame and Guilt"

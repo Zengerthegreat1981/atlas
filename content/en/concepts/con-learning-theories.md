@@ -27,12 +27,12 @@ John B. Watson and Rosalie Rayner demonstrated conditioned emotional responses i
 
 ## Operant Conditioning
 
-Originating in Edward L. Thorndike's "law of effect" (1898)—which posited that responses followed by satisfying consequences are stamped in—operant conditioning was systematically formulated by B. F. Skinner (1938). In Skinner's radical behaviorism, organisms emit operant behaviors that operate on the environment, and their future probability is shaped by their consequences:
+Originating in Edward L. Thorndike's puzzle-box research (1898) and the "law of effect" he formulated from it (published in 1905 and restated in *Animal Intelligence*, 1911)—which posited that responses followed by satisfying consequences are stamped in—operant conditioning was systematically formulated by B. F. Skinner (1938). In Skinner's radical behaviorism, organisms emit operant behaviors that operate on the environment, and their future probability is shaped by their consequences:
 - **Reinforcement**: Increases the probability of a behavior, whether positive (presenting an appetitive stimulus) or negative (removing an aversive stimulus).
 - **Punishment**: Decreases the probability of a behavior, whether positive (presenting an aversive stimulus) or negative (removing a desirable stimulus).
 - **Schedules of Reinforcement**: Fixed-ratio, variable-ratio, fixed-interval, and variable-interval schedules generate distinct response rates; variable-ratio schedules yield high, steady rates exceptionally resistant to extinction.
 
-Applied behavior analysis (ABA), token economies, biofeedback, and exposure therapies represent direct clinical and educational applications of operant principles.
+Applied behavior analysis (ABA), token economies, and biofeedback represent direct clinical and educational applications of operant principles. Exposure therapies, by contrast, draw mainly on extinction of classically conditioned responses.
 
 ## Observational and Social Cognitive Learning
 
@@ -55,7 +55,7 @@ Cognitive theorists emphasize internal information processing, schema integratio
 ## Biological Constraints and Critiques
 
 Behaviorist assumptions that all stimuli and responses are equally associable (the "equipotentiality principle") were refuted by biological constraints on learning:
-- **Conditioned Taste Aversion (The Garcia Effect)**: John Garcia and Robert Koelling (1966) showed that rats naturally associate nausea with gustatory cues (taste) rather than auditory or visual cues, even across multi-hour delays, demonstrating evolutionary preparedness.
+- **Conditioned Taste Aversion (The Garcia Effect)**: John Garcia and Robert Koelling (1966) showed that rats readily associate induced illness with gustatory cues (taste) rather than auditory or visual cues; related work (Garcia, Ervin, and Koelling, 1966) found that taste aversions form even when illness is delayed, findings read as evidence of evolutionary preparedness.
 - **Instinctive Drift**: Keller and Marian Breland (1961) demonstrated that operantly conditioned animal behaviors frequently break down as innate biological instincts override learned conditioning.
 - **Linguistic Generativity**: Noam Chomsky's 1959 critique of Skinner's *Verbal Behavior* argued that operant conditioning cannot account for the creative, rule-governed syntax and rapid acquisition of human language.
 - **Debunking "Learning Styles"**: Empirical reviews (Pashler et al., 2008) have found no evidence that matching educational instruction to students' self-reported "learning styles" (e.g., visual, auditory, kinesthetic) improves learning outcomes.

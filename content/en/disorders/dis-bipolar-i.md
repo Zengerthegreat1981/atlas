@@ -3,6 +3,7 @@ slug: "dis-bipolar-i"
 id: "DIS-0019"
 type: "اضطراب/حالة إكلينيكية"
 level: "متقدم"
+quality: "unverified"
 title: "Bipolar I Disorder"
 en: "Bipolar I Disorder"
 crumb: "Psychology ← Disorders ← Bipolar I Disorder"
@@ -136,7 +137,7 @@ One must not confuse the manic and depressive episodes in BD-I, as diagnostic ca
 ## Cultural and Epidemiological Context
 
 - Reported rates of BD-I vary across cultures, which may reflect actual differences or differences in access to diagnosis. Epidemiological surveys from the WHO World Mental Health Survey Initiative report a pooled lifetime prevalence of BD-I of approximately 0.6% across diverse international settings (Merikangas et al., 2011).
-- In Arab and Middle Eastern populations, community surveys (e.g., Karam et al., 2006) indicate lifetime prevalence rates broadly comparable to international estimates, though formal epidemiological studies remain relatively limited across the region.
+- In Lebanon, a national community survey (Karam et al., 2006) found the overall 12-month prevalence of mental disorders (not bipolar disorder specifically) equivalent to that in Western Europe; data on bipolar disorder across the Arab world remain limited (Kronfol et al., 2015).
 - In Arab contexts, acute affective episodes are frequently conceptualized through cultural idioms of distress, such as "nerves" (*a'sab*), or attributed to spiritual causes such as "possession" or "the evil eye," which may delay psychiatric evaluation.
 - The psychotic symptoms accompanying mania may be interpreted culturally as "spiritual experiences," especially in religious contexts, which impedes treatment.
 - Women are usually diagnosed with more depressive episodes than men, although BD-I is equally prevalent between the sexes.
@@ -165,5 +166,6 @@ One must not confuse the manic and depressive episodes in BD-I, as diagnostic ca
 - World Health Organization. (2019). *International Classification of Diseases, 11th Revision (ICD-11)*. WHO.
 - Goodwin, F. K., & Jamison, K. R. (2007). *Manic-Depressive Illness: Bipolar Disorders and Recurrent Depression* (2nd ed.). Oxford University Press.
 - Karam, E. G., et al. (2006). Prevalence and treatment of mental disorders in Lebanon: A national epidemiological survey. *The Lancet*, 367(9515), 1000-1006.
+- Kronfol, Z., Zakaria Khalil, M., Kumar, P., Suhre, K., Karam, E., & McInnis, M. (2015). Bipolar disorders in the Arab world: A critical review. *Annals of the New York Academy of Sciences*, 1345, 59-66.
 - Miklowitz, D. J. (2019). *The Bipolar Disorder Survival Guide* (3rd ed.). Guilford Press.
 - Merikangas, K. R., Jin, R., He, J.-P., et al. (2011). Prevalence and correlates of bipolar spectrum disorder in the World Mental Health Survey Initiative. *Archives of General Psychiatry*, 68(3), 241-251.

@@ -48,4 +48,5 @@ Systemic family therapy has a substantial evidence base, reviewed for example by
 - Mara Selvini Palazzoli et al., *Paradox and Counterparadox: A New Model in the Therapy of the Family in Schizophrenic Transaction*, 1978.
 - Murray Bowen, *Family Therapy in Clinical Practice*, 1978.
 - Steve de Shazer, *Keys to Solution in Brief Therapy*, 1985.
+- Alan Carr, "The Effectiveness of Family Therapy and Systemic Interventions for Child-Focused Problems", *Journal of Family Therapy*, 2009.
 - Alan Carr, "The Effectiveness of Family Therapy and Systemic Interventions for Adult-Focused Problems", *Journal of Family Therapy*, 2009.

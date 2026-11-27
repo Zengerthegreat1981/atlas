@@ -4,7 +4,6 @@ id: "WRK-12340"
 type: "عمل / كتاب"
 part: "religious-studies"
 level: "متقدم"
-quality: "unverified"
 title: "Dreaming in the World's Religions: A Comparative History"
 en: "Dreaming in the World's Religions: A Comparative History"
 dates: "2008"
@@ -39,7 +38,7 @@ The book combines the reading of traditional religious sources with attention to
 
 ## Chapter sequence
 
-The 2008 New York University Press edition, as listed by Project MUSE and by the publisher's contents, is a single-author survey in ten chapters after a short introduction. Bulkeley says he organised them along three historical lines. The first runs from Hinduism (chapter 1) through the religions of China, chiefly Confucianism and Daoism (chapter 2), to Buddhism (chapter 3). The second begins with the Fertile Crescent, including Mesopotamia, Egypt and Judaism (chapter 4), then Greece and Rome (chapter 5), Christianity (chapter 6) and Islam (chapter 7). Chapters 8 to 10 treat the religions of Africa, Oceania and the Americas. A conclusion follows, with notes, bibliography and index. The book runs to about 330 pages of main text.
+The 2008 New York University Press edition, as listed by Project MUSE and by the publisher's contents, is a single-author survey in ten chapters after a short introduction. Bulkeley says he organised them along three historical lines. The first runs from Hinduism (chapter 1) through the religions of China, chiefly Confucianism and Daoism (chapter 2), to Buddhism (chapter 3). The second begins with the Fertile Crescent, including Mesopotamia, Egypt and Judaism (chapter 4), then Greece and Rome (chapter 5), Christianity (chapter 6) and Islam (chapter 7). Chapters 8 to 10 treat the religions of Africa, Oceania and the Americas. A conclusion follows, with notes, bibliography and index. The chapters and conclusion run to page 280, in a volume of xi and 331 pages.
 
 Section headings on the author's site show the grain inside those chapters. Hinduism moves from the Vedas and Upanishads to mythic literature and modern movements. Chinese religions include shamanic origins, Confucian teaching and dreaming in modern China. Buddhism includes Queen Maya's conception dream, the *Questions of King Milinda*, Japanese dream diaries and Tibetan tantric practice. The Fertile Crescent chapter includes Gilgamesh, Egyptian material and Jewish interpreters. Greece and Rome include Asclepius and the *Oneirocritica*. Islam includes the Qur'an, hadith, interpretation manuals, *istikhara*, Sufi visions and contemporary Islam. These headings are a map of topics, not a claim that each tradition receives equal depth.
 

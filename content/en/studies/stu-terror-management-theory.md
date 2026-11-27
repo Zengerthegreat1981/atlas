@@ -11,7 +11,7 @@ active_start: 1986
 active_end: "مستمر"
 study_year: 1989
 design: "Experimental social psychology (laboratory and field experiments using the mortality salience paradigm)"
-sample_size: "Varies across studies (e.g., N=22 municipal-court judges in Rosenblatt et al., 1989; N=2,281 across 21 labs in Many Labs 4, 2022)"
+sample_size: "Varies across studies (e.g., N=22 municipal-court judges in Rosenblatt et al., 1989; N=2,220 across 21 labs in Many Labs 4, 2022)"
 main_finding: "Mortality salience increases defense of cultural worldviews and self-esteem strivings, though the effect size and replicability across contexts remain actively contested."
 replication_status: "contested"
 edges: []

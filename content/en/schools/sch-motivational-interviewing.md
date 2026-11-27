@@ -4,6 +4,7 @@ id: "SCH-0363"
 type: "مدرسة"
 part: "psychology"
 level: "مبتدئ"
+quality: "unverified"
 title: "Motivational Interviewing (MI)"
 en: "Motivational Interviewing (MI)"
 crumb: "Psychology ← Cognitive-Behavioral Schools ← The Third Wave and Motivational Strategies ← MI"
@@ -77,7 +78,7 @@ The third edition (2013) describes **four overlapping processes** (not separate 
 The client rates the **importance of change** and **confidence in ability to change** on a 0-10 scale. The therapist asks: "Why did you give 6 instead of 2?", "What would need to happen for you to move from 6 to 7?".
 
 ### Decisional Balance
-A simple table: **advantages of change, disadvantages of the status quo** versus **disadvantages of change, advantages of the status quo**. It is used to amplify change talk.
+A simple table: **advantages of change, disadvantages of the status quo** versus **disadvantages of change, advantages of the status quo**. Miller and Rose caution that deliberately drawing out both sides can reduce commitment to change in people who are ambivalent, so the exercise suits situations where the practitioner means to stay neutral rather than to evoke change talk.
 
 ### DARN-CAT
 A mnemonic for the types of change talk: preparatory change talk (**D**esire, **A**bility, **R**easons, **N**eed) and mobilizing change talk (**C**ommitment, **A**ctivation, **T**aking steps).
@@ -123,8 +124,9 @@ Unlike contingency management, which reinforces abstinence with external materia
 - Miller, W. R., & Rollnick, S. (2013). *Motivational Interviewing: Helping People Change* (3rd ed.). Guilford Press.
 - Miller, W. R., & Rollnick, S. (2023). *Motivational Interviewing: Helping People Change and Grow* (4th ed.). Guilford Press.
 - Rollnick, S., Miller, W. R., & Butler, C. C. (2008). *Motivational Interviewing in Health Care: Helping Patients Change Behavior*. Guilford Press.
-- Moyers, T. B., Manuel, J. K., & Ernst, D. (2014). *Motivational Interviewing Treatment Integrity Code (MITI 4.2.1)*. University of New Mexico.
+- Moyers, T. B., Manuel, J. K., & Ernst, D. (2015). *Motivational Interviewing Treatment Integrity Coding Manual 4.2.1* (revised June 2015). University of New Mexico.
 - Hettema, J., Steele, J., & Miller, W. R. (2005). Motivational interviewing. *Annual Review of Clinical Psychology, 1*, 91-111.
+- Miller, W. R., & Rose, G. S. (2015). Motivational interviewing and decisional balance: Contrasting responses to client ambivalence. *Behavioural and Cognitive Psychotherapy, 43*(2), 129-141.
 - Lundahl, B., & Burke, B. L. (2009). "The Effectiveness and Applicability of Motivational Interviewing: A Practice-Friendly Review of Four Meta-Analyses." *Journal of Clinical Psychology, 65*(11), 1232-1245.
 - Rosengren, D. B. (2018). *Building Motivational Interviewing Skills* (2nd ed.). Guilford Press.
 - Naar, S., & Safren, S. A. (2017). *Motivational Interviewing and CBT: Combining Strategies for Maximum Effectiveness*. Guilford Press.

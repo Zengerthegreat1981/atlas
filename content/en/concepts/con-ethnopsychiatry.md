@@ -4,6 +4,7 @@ id: "CON-18295"
 type: "مفهوم"
 part: "psychiatry"
 level: "متقدم"
+quality: "unverified"
 title: "Ethnopsychiatry"
 en: "Ethnopsychiatry"
 crumb: "Psychiatry ← Concepts ← Ethnopsychiatry"
@@ -39,7 +40,7 @@ Frantz Fanon, who worked as a physician at the Blida-Joinville hospital in Alger
 
 ## Contemporary Ethnopsychiatry
 
-Georges Devereux (1908–1985) developed, in *Essais d'ethnopsychiatrie générale* (Gallimard, 1970), an approach combining psychoanalysis and anthropology (which he called complementarism). He held that each culture offers its members characteristic patterns of defense and "typical" or ethnic disorders, while the underlying psychic functioning is universal and expressed in culturally shaped forms. Tobie Nathan, who worked with Devereux's legacy, developed a clinic for migrant families in France and explains his approach in *L'influence qui guérit* (Odile Jacob, 1994). It takes seriously the representations of spirits, ancestors, and traditional healing from the patient's culture of origin within the therapeutic setting. Nathan has been criticized for adopting "cultural" classifications that may freeze the patient in an original identity.
+Georges Devereux (1908–1985) developed, in *Essais d'ethnopsychiatrie générale* (Gallimard, 1970), an approach combining psychoanalysis and anthropology (the complementarism he set out further in *Ethnopsychanalyse complémentariste*, 1972). He held that each culture offers its members characteristic patterns of defense and "typical" or ethnic disorders, while the underlying psychic functioning is universal and expressed in culturally shaped forms. Tobie Nathan, who worked with Devereux's legacy, developed a clinic for migrant families in France and explains his approach in *L'influence qui guérit* (Odile Jacob, 1994). It takes seriously the representations of spirits, ancestors, and traditional healing from the patient's culture of origin within the therapeutic setting. Nathan has been criticized for adopting "cultural" classifications that may freeze the patient in an original identity.
 
 ## What the Concept Means for the Arab World
 

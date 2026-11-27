@@ -152,7 +152,7 @@ Evolutionary psychology applies the principles of evolution and natural selectio
 
 **Sibling dynamics:**
 - Conflict over parental investment (divergence of individual reproductive interests)
-- Alliance (especially between siblings of different sexes)
+- Alliance (warmth and closeness are often reported as greater between same-sex siblings; Buhrmester & Furman, 1990)
 - Birth-order effects: the firstborn's privilege or the flexibility of later-borns
 
 **Family violence:**
@@ -296,6 +296,7 @@ These applications are largely conceptual: evolutionary clinical psychology offe
 ## Sources
 
 - Barkow, J. H., Cosmides, L., & Tooby, J. (Eds.). (1992). The adapted mind: Evolutionary psychology and the generation of culture. Oxford University Press.
+- Buhrmester, D., & Furman, W. (1990). Perceptions of sibling relationships during middle childhood and adolescence. Child Development, 61(5), 1387-1398.
 - Buss, D.M. (2015). Evolutionary psychology: The new science of the mind (5th ed.). Psychology Press/Routledge.
 - Daly, M., & Wilson, M. (1988). Homicide. Aldine de Gruyter.
 - Pinker, S. (1997). How the mind works. W.W. Norton.

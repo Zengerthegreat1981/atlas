@@ -4,6 +4,7 @@ id: "CON-P0431"
 type: "مفهوم"
 part: "philosophy"
 level: "مبتدئ"
+quality: "unverified"
 title: "Ahimsa (The Principle of Non-Harm)"
 en: "Ahimsa (Non-violence)"
 crumb: "Philosophy ← Concepts ← Ahimsa"
@@ -26,7 +27,7 @@ Ahimsa (Sanskrit *ahiṃsā*, "non-harming") is the principle of refraining from
 
 ## Early Appearances
 
-The term appears in the Upanishads (for example Chandogya Upanishad 8.15.1, which speaks of not harming any being), and the ideal is prominent in the *Mahabharata* and in the *Laws of Manu*, as well as in the edicts of the Mauryan emperor Ashoka (3rd century BCE), who urged restraint in the killing of animals. Modern scholars debate how far non-harm emerged from the renouncer (*śramaṇa*) movements of the first millennium BCE, in which both Jainism and Buddhism arose, and how far from Vedic traditions.
+The term appears in the Upanishads (for example Chandogya Upanishad 8.15.1, which speaks of not harming any being, except at holy places, that is, in sanctioned ritual contexts), and the ideal is prominent in the *Mahabharata* and in the *Laws of Manu*, as well as in the edicts of the Mauryan emperor Ashoka (3rd century BCE), who urged restraint in the killing of animals. Modern scholars debate how far non-harm emerged from the renouncer (*śramaṇa*) movements of the first millennium BCE, in which both Jainism and Buddhism arose, and how far from Vedic traditions.
 
 ## Dimensions
 
@@ -52,7 +53,7 @@ Ahimsa is usually defined negatively, as the avoidance of harm, but many interpr
 
 ## Arabic and Islamic Scholarly Reception
 
-The principle of non-harm (*ahimsa*) entered classical Arabic scholarship through Abu Rayhan al-Biruni (973–ca. 1050). In his extensive study *Tahqiq ma li-l-Hind* (Critical Study of What India Says, ca. 1030), al-Biruni provided a descriptive account of Indian philosophy, detailing the metaphysical grounding of harmlessness toward living beings across Jain, Buddhist, and Hindu traditions. In modern Arabic thought, the concept was explored primarily through Mahatma Gandhi's philosophy of nonviolence (*al-la-'unf*). Egyptian intellectual Abbas Mahmud al-Aqqad published an intellectual study, *Ruh 'Azim: Mahatma Gandhi*, examining *ahimsa* and *satyagraha* as ethical and political forces. Syrian Islamic thinker Jawdat Said (1931–2022) engaged with Gandhian nonviolence in works like *Madhhab Ibn Adam al-Awwal* (The Doctrine of the First Son of Adam, 1966), developing an Islamic philosophical framework of nonviolent resistance rooted in moral self-restraint.
+The principle of non-harm (*ahimsa*) entered classical Arabic scholarship through Abu Rayhan al-Biruni (973–ca. 1050). In his extensive study *Tahqiq ma li-l-Hind* (Critical Study of What India Says, ca. 1030), al-Biruni provided a descriptive account of Indian religion and philosophy, drawn mainly from Brahmanical Hindu sources; the information he could pass on about Buddhism was fragmentary. In modern Arabic thought, the concept was explored primarily through Mahatma Gandhi's philosophy of nonviolence (*al-la-'unf*). Egyptian intellectual Abbas Mahmud al-Aqqad published an intellectual study, *Ruh 'Azim: Mahatma Gandhi*, examining *ahimsa* and *satyagraha* as ethical and political forces. Syrian Islamic thinker Jawdat Said (1931–2022) engaged with Gandhian nonviolence in works like *Madhhab Ibn Adam al-Awwal* (The Doctrine of the First Son of Adam, 1966), developing an Islamic philosophical framework of nonviolent resistance rooted in moral self-restraint.
 
 ## Sources
 

@@ -37,7 +37,7 @@ Emmy van Deurzen provides a clinical framework classifying human constraints acr
 3. **Personal dimension (*Eigenwelt*)**: Psychological history, characterological habits, emotional vulnerabilities, and identity.
 4. **Spiritual dimension (*Überwelt*)**: Core philosophies, existential values, and ultimate questions of purpose.
 
-Rollo May (*Love and Will*, 1969) similarly described human freedom as existing only in vital dialectical tension with "destiny"—the limits, boundaries, and talents given to each person.
+Rollo May (*Freedom and Destiny*, 1981) similarly described human freedom as existing only in vital dialectical tension with "destiny"—the limits, boundaries, and talents given to each person.
 
 ## Psychotherapeutic Implications
 
@@ -66,6 +66,7 @@ Clinically, therapists must avoid using the language of "choice" in ways that bl
 - Frankl, V. E. (1959). *From Death-Camp to Existentialism* (later retitled *Man's Search for Meaning*). Beacon Press.
 - Heidegger, M. (1962). *Being and Time* (J. Macquarrie & E. Robinson, Trans.). Harper & Row. (Original German work published 1927).
 - May, R. (1969). *Love and Will*. W. W. Norton.
+- May, R. (1981). *Freedom and Destiny*. W. W. Norton.
 - Sartre, J.-P. (1956). *Being and Nothingness: An Essay on Phenomenological Ontology* (H. E. Barnes, Trans.). Philosophical Library. (Original French work published 1943).
 - van Deurzen, E. (2012). *Existential Counselling and Psychotherapy in Practice* (3rd ed.). Sage.
 - Yalom, I. D. (1980). *Existential Psychotherapy*. Basic Books.

@@ -41,7 +41,7 @@ A central breakthrough of the theory was the demonstration of **observational le
 
 ## Principal Experiments and Theoretical Shift
 
-In the landmark **Bobo Doll experiments** (1961, 1963) conducted at Stanford University with Dorothea Ross and Sheila A. Ross, nursery children observed adult models physically and verbally assaulting an inflatable doll. When subsequently frustrated, children who had observed aggressive models exhibited significantly higher rates of novel physical and verbal aggression compared to controls, even without receiving direct reinforcement. These findings established the critical distinction between the **acquisition** of a behavior (which occurs observationally) and its **performance** (which is modulated by expected consequences).
+In the landmark **Bobo Doll experiments** (1961, 1963) conducted at Stanford University with Dorothea Ross and Sheila A. Ross, nursery children observed adult models physically and verbally assaulting an inflatable doll. When subsequently frustrated, children who had observed aggressive models exhibited significantly higher rates of novel physical and verbal aggression compared to controls, even without receiving direct reinforcement. A 1965 follow-up by Bandura, which varied whether the model was rewarded or punished, established the critical distinction between the **acquisition** of a behavior (which occurs observationally) and its **performance** (which is modulated by expected consequences).
 
 In 1986, with the publication of *Social Foundations of Thought and Action*, Bandura formally renamed his framework from "Social Learning Theory" to **Social Cognitive Theory** to emphasize the central role of symbolic thought, self-regulation, and human agency.
 
@@ -67,6 +67,7 @@ Social cognitive theory has been challenged for placing insufficient emphasis on
 ## Sources
 
 - Bandura, A., Ross, D., & Ross, S. A. (1961). Transmission of aggression through imitation of aggressive models. *Journal of Abnormal and Social Psychology*, 63(3), 575–582.
+- Bandura, A. (1965). Influence of models' reinforcement contingencies on the acquisition of imitative responses. *Journal of Personality and Social Psychology*, 1(6), 589–595.
 - Bandura, A. (1977). *Social Learning Theory*. Prentice-Hall.
 - Bandura, A. (1977). Self-efficacy: Toward a unifying theory of behavioral change. *Psychological Review*, 84(2), 191–215.
 - Bandura, A. (1986). *Social Foundations of Thought and Action: A Social Cognitive Theory*. Prentice-Hall.

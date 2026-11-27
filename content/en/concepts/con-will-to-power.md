@@ -24,7 +24,7 @@ The "will to power" (German: *Wille zur Macht*) is a central concept in the phil
 
 ## Definition and Texts
 
-The idea first appears in *Thus Spoke Zarathustra* (1883-85), notably in the chapter "On Self-Overcoming", and is developed in *Beyond Good and Evil* (*Jenseits von Gut und Böse*, 1886), *On the Genealogy of Morals* (*Zur Genealogie der Moral*, 1887) and *Twilight of the Idols* (*Götzen-Dämmerung*, written 1888, published 1889). In *Beyond Good and Evil* (section 36) Nietzsche offers a thought experiment: if all organic functions could be traced back to a single basic will, then the world seen from within would be "will to power" and nothing else. He presents it there as a hypothesis to be tried out. Life itself, he says elsewhere, is to be understood as will to power, and self-preservation is only one of its indirect consequences (*The Gay Science*, section 349).
+The idea first appears in *Thus Spoke Zarathustra* (1883-85), notably in the chapter "On Self-Overcoming", and is developed in *Beyond Good and Evil* (*Jenseits von Gut und Böse*, 1886), *On the Genealogy of Morals* (*Zur Genealogie der Moral*, 1887) and *Twilight of the Idols* (*Götzen-Dämmerung*, written 1888, published 1889). In *Beyond Good and Evil* (section 36) Nietzsche offers a thought experiment: if all organic functions could be traced back to a single basic will, then the world seen from within would be "will to power" and nothing else. He presents it there as a hypothesis to be tried out. Life itself, he says elsewhere, is to be understood as will to power, and self-preservation is only one of its indirect consequences (*Beyond Good and Evil*, section 13; compare *The Gay Science*, section 349).
 
 ## The Posthumous Compilation
 

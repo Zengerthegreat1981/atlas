@@ -4,6 +4,7 @@ id: "THK-13156"
 type: "مفكر"
 part: "arab-thought"
 level: "متقدم"
+quality: "unverified"
 title: "Zuhayr ibn Abi Sulma"
 en: "Zuhayr ibn Abi Sulma"
 crumb: "Arab Thought ← Thinkers ← Zuhayr ibn Abi Sulma"
@@ -40,7 +41,7 @@ Zuhayr's famous Mu'allaqa revolves around **praise of the peace treaty of Dahis 
 
 ## Structure and Meanings of the Mu'allaqa
 
-The ode opens at an abandoned camp, *a-min Ummi Awfa dimnatun lam takallami*, "Is it the trace of Umm Awfa's camp that will not speak?" It praises al-Harith ibn Awf and Harim ibn Sinan, who are said to have paid, from their own wealth, the blood-money that ended the fighting. At the centre is a warning against taking the war up again. The poet says his hearers have tasted it, and that what he says is not hearsay: war grinds like a millstone, then conceives, bears and suckles further harm. The closing sentences turn the story into maxims. One of them says, in substance, that whoever does not conciliate in many affairs will be bitten by fangs and trampled by hooves. The Arabic verb is *yusani'*, to deal tactfully, not to flatter. Another famous line of his, not necessarily from this ode, says that he is weary of the burdens of life, and that whoever lives eighty years will grow weary.
+The ode opens at an abandoned camp, *a-min Ummi Awfa dimnatun lam takallami*, "Is it the trace of Umm Awfa's camp that will not speak?" It praises al-Harith ibn Awf and Harim ibn Sinan, who are said to have paid, from their own wealth, the blood-money that ended the fighting. At the centre is a warning against taking the war up again. The poet says his hearers have tasted it, and that what he says is not hearsay: war grinds like a millstone, then conceives, bears and suckles further harm. The closing sentences turn the story into maxims. One of them says, in substance, that whoever does not conciliate in many affairs will be bitten by fangs and trampled by hooves. The Arabic verb is *yusani'*, to deal tactfully, not to flatter. Another famous line of his, from the closing part of the same ode, says that he is weary of the burdens of life, and that whoever lives eighty years will grow weary.
 
 ## The Hawliyyat and the Craft of Poetry
 

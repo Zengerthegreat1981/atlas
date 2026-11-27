@@ -72,7 +72,7 @@ Ahmad ibn Hanbal's standing in later popular Sunni consciousness went beyond his
 
 ## Sources
 
-- Ibn Hanbal, Ahmad. *al-Musnad*. Edited by Shu'ayb al-Arna'ut and others. Beirut: Mu'assasat al-Risala, 1993–2001 (50 volumes).
+- Ibn Hanbal, Ahmad. *al-Musnad*. Edited by Shu'ayb al-Arna'ut and others. Beirut: Mu'assasat al-Risala, 1995–2001 (50 volumes).
 - Hurvitz, Nimrod. *The Formation of Hanbalism: Piety into Power*. London: RoutledgeCurzon, 2002.
 - Melchert, Christopher. *The Formation of the Sunni Schools of Law, 9th–10th Centuries C.E.* Leiden: Brill, 1997.
 - Nawas, John A. "A Reexamination of Three Current Explanations for al-Ma'mun's Introduction of the Mihna." *International Journal of Middle East Studies* 26, no. 4 (1994): 615–629.

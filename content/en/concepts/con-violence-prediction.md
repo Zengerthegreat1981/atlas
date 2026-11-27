@@ -33,7 +33,7 @@ Early studies (in the 1970s) were highly skeptical of psychiatrists' ability to 
 
 ## Scientific Evidence
 
-Systematic reviews find that instruments such as the HCR-20 predict later violence better than chance, with modest accuracy, and that structured methods generally outperform unaided clinical impression. Head-to-head comparisons do not show one instrument to be clearly better than the others (Singh, Grann and Fazel, 2011). Any score remains probabilistic. Tools produce false positives (rating as higher risk a person who does not later act violently) and false negatives.
+Systematic reviews find that instruments such as the HCR-20 predict later violence better than chance, with modest accuracy, and that structured methods generally outperform unaided clinical impression. Comparisons between instruments are not uniform: a 2010 meta-analysis found nine commonly used tools broadly interchangeable, with moderate accuracy (Yang, Wong and Coid, 2010), whereas a 2011 review reported differences between tools, with the youth instrument SAVRY performing best and the LSI-R and PCL-R least well (Singh, Grann and Fazel, 2011). Any score remains probabilistic. Tools produce false positives (rating as higher risk a person who does not later act violently) and false negatives.
 
 ## Applications and Debate
 
@@ -51,3 +51,4 @@ These tools are aids to structured decision-making, not substitutes for clinical
 - Monahan, John. *The Clinical Prediction of Violent Behavior*. National Institute of Mental Health, 1981.
 - Quinsey, Vernon L., et al. *Violent Offenders: Appraising and Managing Risk*. American Psychological Association, 1998.
 - Singh, Jay P., Martin Grann, and Seena Fazel. "A Comparative Study of Violence Risk Assessment Tools: A Systematic Review and Metaregression Analysis." *Clinical Psychology Review* 31, no. 3 (2011): 499-513.
+- Yang, Min, Stephen C. P. Wong, and Jeremy Coid. "The Efficacy of Violence Prediction: A Meta-Analytic Comparison of Nine Risk Assessment Tools." *Psychological Bulletin* 136, no. 5 (2010): 740-767.

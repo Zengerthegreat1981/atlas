@@ -41,7 +41,7 @@ Object relations theory rests on several foundational premises articulated by it
 
 ## Development and Splits
 
-Disagreements between Melanie Klein and Anna Freud (Sigmund Freud's daughter) over child analysis led to the "Controversial Discussions" in the British Psychoanalytical Society between 1941 and 1945, which ended in an arrangement dividing the Society's training into three streams: the Kleinians, the contemporary Freudians (followers of Anna Freud), and the Middle Group, later the "Independents," to which Winnicott and (as a Scottish-based analyst closely associated with the group) Fairbairn are usually assigned. The tradition later extended to the United States through Otto Kernberg, who from the 1960s and 1970s integrated object relations with American ego psychology in his theory of borderline personality organization.
+Disagreements between Melanie Klein and Anna Freud (Sigmund Freud's daughter) over child analysis led to the "Controversial Discussions" in the British Psychoanalytical Society between 1941 and 1945, which ended in a "gentlemen's agreement" (formalized in 1946) with two parallel training courses and, in due course, three groups: the Kleinians, the contemporary Freudians (followers of Anna Freud), and the Middle Group, later the "Independents," to which Winnicott and (as a Scottish-based analyst closely associated with the group) Fairbairn are usually assigned. The tradition later extended to the United States through Otto Kernberg, who from the 1960s and 1970s integrated object relations with American ego psychology in his theory of borderline personality organization.
 
 ## Clinical Technique and Transference
 

@@ -50,6 +50,6 @@ The documentation of many of these women's lives remains brief in classical sour
 - al-Zarkashi, Badr al-Din. *al-Ijaba li-Irad ma Istadrakathu 'A'isha 'ala al-Sahaba*. Edited by Sa'id al-Afghani. Damascus, 1939.
 - Nadwi, Mohammad Akram. *al-Muhaddithat: The Women Scholars in Islam*. Oxford: Interface Publications, 2007.
 - al-Sakhawi, Muhammad ibn Abd al-Rahman. *al-Daw' al-Lami' li-Ahl al-Qarn al-Tasi'*. 12 vols. Cairo, 1353–1355 AH/1934–1936.
-- Ibn Hajar al-Asqalani. *al-Isaba fi Tamyiz al-Sahaba*. Calcutta: Asiatic Society of Bengal, 1856–1873.
+- Ibn Hajar al-Asqalani. *al-Isaba fi Tamyiz al-Sahaba*. Calcutta: Asiatic Society of Bengal, 1856–1888.
 - Sayeed, Asma. *Women and the Transmission of Religious Knowledge in Islam*. Cambridge: Cambridge University Press, 2013.
 - Roded, Ruth. *Women in Islamic Biographical Collections: From Ibn Sa'd to Who's Who*. Lynne Rienner, 1994.

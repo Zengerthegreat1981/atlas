@@ -31,7 +31,7 @@ Some of Hillman's concepts draw on Islamic philosophy through Henry Corbin, a re
 
 In "Re-Visioning Psychology" (1975) he redefined analytical psychology: the move from "individuation of the ego" to "soul-making" (borrowing the phrase from John Keats), and from the "unity of the psyche" to **"polytheistic psychology"** (Polytheistic Psychology): that the psyche is not one thing striving for integration but is inhabited by a throng of quarreling archetypal figures — Zeus, Aphrodite, Hermes, and Hades — and that the demand for "unification" under a single ego is itself the source of illness, not its cure. He defined soul in *Re-Visioning Psychology* (1975) as follows:
 
-> "By soul I mean, first of all, a perspective rather than a substance, a viewpoint towards things rather than a thing itself."
+> "By soul I mean, first of all, a perspective rather than a substance, a viewpoint toward things rather than a thing itself."
 
 He also formulated "the Acorn Theory" in "The Soul's Code" (1996) — that every person is born with an individual daimon that calls forth the course of his life, so that whoever tries to fix himself against it is fighting his own fate.
 
@@ -39,11 +39,11 @@ Among his other methodological concepts is "staying with the image": the analyst
 
 ## His Place in the Current
 
-The "deepest split" within analytical psychology: he himself, from the official Zurich school, moved from rediscovering it to transforming it. Andrew Samuels, in his book *Jung and the Post-Jungians* (1985), classified later Jungians into three schools: the classical, the developmental (Fordham), and the archetypal (Hillman). He stepped down as Director of Studies at the Zurich institute in 1969 and moved to the United States. His life is documented in the first volume of Dick Russell's biography *The Life and Ideas of James Hillman: Volume I, The Making of a Psychologist* (2013), published after his death.
+The "deepest split" within analytical psychology: he himself, from the official Zurich school, moved from rediscovering it to transforming it. Andrew Samuels, in his book *Jung and the Post-Jungians* (1985), classified later Jungians into three schools: the classical, the developmental (Fordham), and the archetypal (Hillman). He stepped down as Director of Studies at the Zurich institute in 1969 and returned to the United States in 1978, when he helped found the Dallas Institute. His life is documented in the first volume of Dick Russell's biography *The Life and Ideas of James Hillman: Volume I, The Making of a Psychologist* (2013), published after his death.
 
 ## The Spring Circle and Collaborators
 
-During his tenure as editor of the journal *Spring: An Annual of Archetypal Psychology and Jungian Thought* (later associated with Spring Publications), Hillman worked with an influential circle of scholars who extended archetypal psychology across myth, literature, and the clinic. Foremost among them was Venezuelan analyst **Rafael López-Pedraza**, whose *Hermes and His Children* (1977) and *Dionysus in Exile* (2000) brought mythological archetypes directly into cultural psychology; classicist and poet **Charles Boer**, who translated the *Homeric Hymns* and collaborated closely with Hillman on mythological and literary essays; analyst **Patricia Berry**, whose *Echo's Subtle Body* (1982) contributed foundational archetypal and aesthetic perspectives; and philosopher of religion **David L. Miller**, author of *The New Polytheism* (1974). Together, this circle developed a distinct post-Jungian discourse that privileged poetic metaphor, aesthetic sensibility, and mythological complexity over diagnostic categorisation.
+During his tenure as editor of the journal *Spring: An Annual of Archetypal Psychology and Jungian Thought* (later associated with Spring Publications), Hillman worked with an influential circle of scholars who extended archetypal psychology across myth, literature, and the clinic. Foremost among them was the Cuban-born, Venezuela-based analyst **Rafael López-Pedraza**, whose *Hermes and His Children* (1977) and *Dionysus in Exile* (2000) brought mythological archetypes directly into cultural psychology; classicist and poet **Charles Boer**, who translated the *Homeric Hymns* and collaborated closely with Hillman on mythological and literary essays; analyst **Patricia Berry**, whose *Echo's Subtle Body* (1982) contributed foundational archetypal and aesthetic perspectives; and philosopher of religion **David L. Miller**, author of *The New Polytheism* (1974). Together, this circle developed a distinct post-Jungian discourse that privileged poetic metaphor, aesthetic sensibility, and mythological complexity over diagnostic categorisation.
 
 ## Limits and Criticism
 
@@ -63,4 +63,4 @@ Suicide and the Soul (1964) · The Myth of Analysis (1972) · Re-Visioning Psych
 - Andrew Samuels — *Jung and the Post-Jungians*. London: Routledge & Kegan Paul, 1985.
 - Dick Russell — *The Life and Ideas of James Hillman, Volume I: The Making of a Psychologist*. New York: Helios Press, 2013.
 - Rafael López-Pedraza — *Hermes and His Children*. Zurich: Spring Publications, 1977.
-- Charles Boer — *The Homeric Hymns*. Chicago: Spring Publications, 1970.
+- Charles Boer — *The Homeric Hymns*. Chicago: Swallow Press, 1970.

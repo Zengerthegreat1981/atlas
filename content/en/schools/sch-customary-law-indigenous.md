@@ -32,7 +32,7 @@ Among the pioneers of legal anthropology is **Bronisław Malinowski**, whose *Cr
 
 ## Impact and Application
 
-This field has influenced the constitutions of several countries (Bolivia, Ecuador, South Africa), which recognize customary or indigenous law to varying degrees, for example in matters of personal status, land and community justice. It has also influenced international tribunals that have relied on customary international law as a binding source independent of treaties under the statute of the International Court of Justice. It has contributed to claims for the return of land and for compensation over forced assimilation policies against indigenous peoples in Australia and Canada.
+This field has influenced the constitutions of several countries (Bolivia, Ecuador, South Africa), which recognize customary or indigenous law to varying degrees, for example in matters of personal status, land and community justice. It should be distinguished from customary international law, a body of rules arising from the practice of states, which Article 38 of the Statute of the International Court of Justice lists as a source distinct from treaties. It has contributed to claims for the return of land and for compensation over forced assimilation policies against indigenous peoples in Australia and Canada.
 
 ## Criticism
 
@@ -44,7 +44,7 @@ Customary law intersects sharply with **natural law jurisprudence**. Both assume
 
 ## Regional Models of Legal Pluralism
 
-Many states have adopted different formulas for reconciling positive and customary law. In South Africa, the Constitution (1996) recognizes customary law (sections 211 and 212), including in matters of marriage, inheritance and land, provided it is consistent with the constitutional Bill of Rights. In India, personal status law is applied according to the individual's religious community (Hindu, Muslim or Christian) in a system known as "personal legal pluralism." In New Zealand, the Treaty of Waitangi (1840) with the Māori peoples led to the establishment of the specialized Waitangi Tribunal (1975) to hear land-restitution claims based on indigenous custom. Australia remains the most prominent example of the legal debate over *terra nullius*, the treatment of land as legally "empty" before British colonization. The High Court of Australia rejected this assumption in *Mabo v Queensland (No 2)* (1992), in favor of recognizing the Aboriginal title of the indigenous population.
+Many states have adopted different formulas for reconciling positive and customary law. In South Africa, the Constitution (1996) recognizes customary law (sections 211 and 212), including in matters of marriage, inheritance and land, provided it is consistent with the constitutional Bill of Rights. In India, personal status law is applied according to the individual's religious community (Hindu, Muslim or Christian) in a system known as "personal legal pluralism." In New Zealand, the Treaty of Waitangi (1840) with the Māori peoples underlies the specialized Waitangi Tribunal, established in 1975 to inquire into Māori claims that the Crown has breached the principles of the Treaty, including claims over land. Australia remains the most prominent example of the legal debate over *terra nullius*, the treatment of land as legally "empty" before British colonization. The High Court of Australia rejected this assumption in *Mabo v Queensland (No 2)* (1992), in favor of recognizing the Aboriginal title of the indigenous population.
 
 ## Sources
 

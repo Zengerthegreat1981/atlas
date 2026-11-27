@@ -4,6 +4,7 @@ id: "CON-0401"
 type: "مفهوم"
 part: philosophy
 level: "مبتدئ"
+quality: "unverified"
 title: "Death"
 en: "Death"
 crumb: "Existential Philosophy ← Concepts ← Death"
@@ -33,7 +34,7 @@ Three disagreements that cannot be resolved. The first: structure or event? Heid
 
 Primary sources articulate fundamentally divergent ontological and clinical accounts of mortality:
 
-- **Martin Heidegger** (*Being and Time*, 1927, §§46–53): conceptualizes death ontologically as "being-toward-death" (*Sein-zum-Tode*). Death is Dasein's ownmost (*eigenste*), non-relational (*unbezügliche*), and unsurpassable (*unüberholbare*) possibility, which individuate the self out of the inauthentic distractions of the collective "They" (*das Man*).
+- **Martin Heidegger** (*Being and Time*, 1927, §§46–53): conceptualizes death ontologically as "being-toward-death" (*Sein-zum-Tode*). Death is Dasein's ownmost (*eigenste*), non-relational (*unbezügliche*), and unsurpassable (*unüberholbare*) possibility, which individuates the self out of the inauthentic distractions of the collective "They" (*das Man*).
 - **Jean-Paul Sartre** (*Being and Nothingness*, 1943, Part IV, Ch. 1): rejects Heidegger's view, defining death as a contingent, external absurdity that destroys personal possibilities from without and delivers one's life over to the judgment of the Other, rather than providing an authentic internal closure.
 - **Karl Jaspers** (*Philosophie*, 1932, Vol. II): identifies death as one of the four inescapable "limit situations" (*Grenzsituationen*), alongside suffering, struggle, and guilt, which cannot be mastered or transcended but demand an existential stance.
 - **Viktor Frankl** (*The Doctor and the Soul*, 1946; *Man's Search for Meaning*, 1946/1959): argues that the transitoriness of human life does not negate meaning but establishes existential responsibility, preserving realized deeds and choices permanently in the "storehouse of the past."
@@ -87,7 +88,7 @@ Many instruments for measuring "death anxiety" (such as Templer's Death Anxiety 
 - Karl Jaspers, *Philosophie*, 1932 (limit situations; the term appears earlier in *Psychologie der Weltanschauungen*, 1919).
 - Paul Tillich, *The Courage to Be*, Yale University Press, 1952.
 - Rollo May, *The Meaning of Anxiety*, Ronald Press, 1950.
-- Viktor E. Frankl, *Man's Search for Meaning* (German original 1946), Beacon Press, 1959 (English edition).
+- Viktor E. Frankl, *Man's Search for Meaning* (German original 1946; English first published as *From Death-Camp to Existentialism*, Beacon Press, 1959; revised under the present title, 1962).
 - Irvin D. Yalom, *Existential Psychotherapy*, Basic Books, 1980.
 - Sigmund Freud, "Zeitgemässes über Krieg und Tod" (Thoughts for the Times on War and Death), 1915.
 - Donald I. Templer, "The construction and validation of a Death Anxiety Scale", *Journal of General Psychology*, 1970.

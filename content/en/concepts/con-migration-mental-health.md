@@ -4,6 +4,7 @@ id: "CON-18297"
 type: "مفهوم"
 part: "psychiatry"
 level: "متقدم"
+quality: "unverified"
 title: "Migration & Mental Health"
 en: "Migration & Mental Health"
 crumb: "Psychiatry ← Concepts ← Migration & Mental Health"
@@ -36,7 +37,7 @@ Arabic literature knew the theme of estrangement and longing for homelands early
 
 ## Modern Formulations
 
-In 1932 Ødegaard published "Emigration and Insanity" in *Acta Psychiatrica et Neurologica Scandinavica*. He found higher rates of psychiatric hospital admission among Norwegian immigrants in Minnesota, which he explained by patients' selection for migration and by the effect of uprooting. In 1997 John Berry, in *Applied Psychology*, presented a model of acculturation based on four strategies (integration, assimilation, separation, and marginalization). Integration is often associated with better adaptation where the receiving society allows cultural maintenance and participation; it is not uniformly "best" in every setting. In 1991 Eisenbruch, in *Social Science & Medicine*, proposed the concept of "cultural bereavement" as an alternative to post-traumatic stress disorder for the suffering of Southeast Asian (notably Cambodian) refugees, to name the loss of homeland, symbols, and relationships. Bhugra and Becker, in *World Psychiatry* in 2005, extended the concept to cultural identity. Fanon's theory also addresses the experience of uprooting and discrimination (see the entry on Fanon).
+In 1932 Ødegaard published "Emigration and Insanity" in *Acta Psychiatrica et Neurologica Scandinavica*. He found higher rates of psychiatric hospital admission among Norwegian immigrants in Minnesota, which he explained by patients' selection for migration and by the effect of uprooting. In 1997 John Berry, in *Applied Psychology*, presented a model of acculturation based on four strategies (integration, assimilation, separation, and marginalization). Integration is often associated with better adaptation where the receiving society allows cultural maintenance and participation; it is not uniformly "best" in every setting. In 1991 Eisenbruch, in *Social Science & Medicine*, proposed the concept of "cultural bereavement" as a complement to, and a caution about, the diagnosis of post-traumatic stress disorder for the suffering of Southeast Asian (notably Cambodian) refugees, to name the loss of homeland, symbols, and relationships. Bhugra and Becker, in *World Psychiatry* in 2005, extended the concept to cultural identity. Fanon's theory also addresses the experience of uprooting and discrimination (see the entry on Fanon).
 
 ## Evidence from Studies
 

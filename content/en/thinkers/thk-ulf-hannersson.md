@@ -4,6 +4,7 @@ id: "ANT-13084"
 type: "مفكر"
 part: anthropology
 level: "متوسط"
+quality: "unverified"
 title: "Ulf Hannerz"
 en: "Ulf Hannerz"
 crumb: "Cosmopolitan Anthropology and Cultural Globalisation ← People ← Ulf Hannerz"

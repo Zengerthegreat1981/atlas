@@ -12,7 +12,7 @@ part: psychology
 study_year: 1973
 design: "Field study"
 sample_size: 8
-main_finding: "Psychiatrists failed to distinguish 8 sane pseudo-patients from real patients in 12 hospitals; all were admitted (seven with a diagnosis of schizophrenia, one with manic-depressive psychosis) for stays of 7 to 52 days, which Rosenhan took to show that psychiatric diagnosis in hospital settings is strongly shaped by context."
+main_finding: "Psychiatrists failed to distinguish 8 sane pseudo-patients from real patients in 12 hospitals; all were admitted (in 11 of the 12 admissions with a diagnosis of schizophrenia, in one with manic-depressive psychosis) for stays of 7 to 52 days, which Rosenhan took to show that psychiatric diagnosis in hospital settings is strongly shaped by context."
 replication_status: "contested"
 edges: []
 related: []
@@ -39,7 +39,7 @@ Following intense skepticism from clinicians who claimed they would never fall f
 
 In Phase 1, all 12 admissions were processed without a single pseudo-patient being detected by medical or nursing staff. Eleven admissions resulted in a primary diagnosis of schizophrenia, while one private hospital diagnosed manic-depressive psychosis. Lengths of hospitalization ranged from 7 to 52 days (averaging 19 days), and all pseudo-patients were eventually discharged with the clinical diagnosis of "schizophrenia in remission." 
 
-Rosenhan noted that while professional staff failed to recognize the pseudo-patients' sanity, 35 out of 118 real psychiatric inpatients openly voiced suspicions that the pseudo-patients were journalists, researchers, or undercover investigators checking on the hospital. Furthermore, staff interpreted benign daily activities pathologically: nursing staff documented a pseudo-patient writing field notes as exhibiting "compulsive note-taking behavior," and early arrival at the cafeteria was interpreted as "oral-acquisitive syndrome."
+Rosenhan noted that while professional staff failed to recognize the pseudo-patients' sanity, during the first three hospitalizations, when counts were kept, 35 out of 118 patients on the admissions ward openly voiced suspicions that the pseudo-patients were journalists, researchers, or undercover investigators checking on the hospital. Furthermore, staff interpreted benign daily activities pathologically: nursing records for three pseudo-patients treated their note-writing as an aspect of pathological behavior, and a psychiatrist interpreted other patients' early waiting outside the cafeteria as reflecting an oral-acquisitive feature of their condition.
 
 ## Methodological Critique and Historical Investigations
 
@@ -53,7 +53,7 @@ Despite methodological flaws, Rosenhan's paper added to the pressure for reform 
 
 The paper and related critiques of diagnostic reliability contributed to the push behind the DSM-III (1980), chaired by Robert Spitzer. DSM-III abandoned etiologic psychoanalytic speculations in favor of descriptive, operationalized symptom checklists with explicit inclusion, exclusion, and duration criteria, significantly elevating inter-rater reliability across clinical trials. 
 
-Subsequent editions—culminating in the DSM-5 (2013) and DSM-5-TR (2022)—refined these criteria through structured diagnostic interviews. However, DSM-5 field trials revealed that high reliability remained difficult to achieve for complex, heterogeneous disorders (such as generalized anxiety disorder or mixed personality pathology), prompting modern psychiatry to supplement categorical diagnoses with dimensional and neurodevelopmental frameworks, as reflected in the World Health Organization's ICD-11.
+Subsequent editions—culminating in the DSM-5 (2013) and DSM-5-TR (2022)—refined these criteria through structured diagnostic interviews. However, DSM-5 field trials revealed that high reliability remained difficult to achieve for complex, heterogeneous disorders (such as generalized anxiety disorder and major depressive disorder), prompting modern psychiatry to supplement categorical diagnoses with dimensional and neurodevelopmental frameworks, as reflected in the World Health Organization's ICD-11.
 
 ## Sources
 

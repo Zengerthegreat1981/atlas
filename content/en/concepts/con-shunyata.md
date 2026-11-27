@@ -4,6 +4,7 @@ id: "CON-0804"
 type: "مفهوم"
 part: "philosophy"
 level: "متقدم"
+quality: "unverified"
 title: "Śūnyatā (Emptiness / Essential Nihility)"
 en: "Śūnyatā (Emptiness / Essential Nihility)"
 crumb: "Philosophy ← Concepts ← Śūnyatā"
@@ -53,5 +54,5 @@ In modern cognitive and behavioral psychology, Buddhist mindfulness principles h
 - Nāgārjuna, *Mūlamadhyamakakārikā*, translated by Jay L. Garfield as *The Fundamental Wisdom of the Middle Way*, Oxford University Press, 1995.
 - Mark Siderits and Shōryū Katsura, *Nāgārjuna's Middle Way: Mūlamadhyamakakārikā*, Wisdom Publications, 2013.
 - Rupert Gethin, *The Foundations of Buddhism*, Oxford University Press, 1998.
-- Paul Williams, *Mahāyāna Buddhism: The Doctrinal Foundations*, 2nd ed., Routledge, 2008.
+- Paul Williams, *Mahāyāna Buddhism: The Doctrinal Foundations*, 2nd ed., Routledge, 2009.
 - Steven C. Hayes, Kirk D. Strosahl, and Kelly G. Wilson, *Acceptance and Commitment Therapy: An Experiential Approach to Behavior Change*, Guilford Press, 1999.

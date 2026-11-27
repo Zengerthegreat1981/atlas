@@ -4,7 +4,7 @@ id: "CTX-0001"
 type: "سياق/تقليد"
 part: arab-thought
 level: "مبتدئ"
-quality: "incomplete"
+quality: "incomplete, unverified"
 title: "The Self in Arabic-Islamic Intellectual Heritage"
 en: "The self in Arabic-Islamic intellectual heritage"
 crumb: "Arab-Islamic Heritage ← Contexts ← The Self in Arabic-Islamic Intellectual Heritage"

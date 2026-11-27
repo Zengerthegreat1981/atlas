@@ -4,6 +4,7 @@ id: "SCH-0311"
 type: "مدرسة"
 part: "psychology"
 level: "متوسط"
+quality: "unverified"
 title: "Transpersonal Psychology"
 en: "Transpersonal Psychology"
 crumb: "Psychology ← Schools ← Transpersonal Psychology"
@@ -42,8 +43,8 @@ Transpersonal psychology is sometimes called the "fourth force" in psychology (a
 
 - **Precursors** (early to mid-twentieth century): James, Jung, and later Maslow's work on "peak experiences" (*Religions, Values, and Peak-Experiences*, 1964) and "plateau experiences."
 - **Foundation** (1967-1972): the term "transpersonal" is adopted by Maslow, Anthony Sutich, Stanislav Grof, and colleagues; the *Journal of Transpersonal Psychology* begins publication in 1969; the Association for Transpersonal Psychology is founded in 1972. Charles Tart edits *Altered States of Consciousness* (1969).
-- **Consolidation** (1970s-1980s): Grof's *Realms of the Human Unconscious* (1975) reports his research with LSD and, later, holotropic breathwork; Ken Wilber's *The Spectrum of Consciousness* (1977) and *Up from Eden* (1981); the Institute of Transpersonal Psychology is founded in California in 1975.
-- **Integral and critical phase** (1990s-2000s): Wilber's integral theory (*Sex, Ecology, Spirituality*, 1995), which draws on the "Wilber-Combs lattice" (developed with Allan Combs) relating states and stages of consciousness, and critical discussion of how transpersonal claims can be tested; Walsh and Vaughan's *Paths Beyond Ego* (1993) as a collective statement.
+- **Consolidation** (1970s-1980s): Grof's *Realms of the Human Unconscious* (1975) reports his research with LSD (holotropic breathwork was developed later, with Christina Grof); Ken Wilber's *The Spectrum of Consciousness* (1977) and *Up from Eden* (1981); the Institute of Transpersonal Psychology is founded in California in 1975.
+- **Integral and critical phase** (1990s-2000s): Wilber's integral theory (*Sex, Ecology, Spirituality*, 1995) and, later, the "Wilber-Combs lattice" relating states and stages of consciousness (associated with Wilber and Allan Combs and presented in Wilber's *Integral Spirituality*, 2006), and critical discussion of how transpersonal claims can be tested; Walsh and Vaughan's *Paths Beyond Ego* (1993) as a collective statement.
 - **Recent period** (2000s to the present): contemplative science and mindfulness research, renewed clinical research on psychedelic-assisted therapy (including work associated with MAPS, founded by Rick Doblin in 1986), and cross-cultural transpersonal work.
 
 ## Founding Concepts
@@ -62,7 +63,7 @@ Transpersonal psychology is sometimes called the "fourth force" in psychology (a
 - **Abraham Maslow** (1908-1970): peak experiences; the "fourth force."
 - **Anthony Sutich** (1907-1976): co-founder of the *Journal of Transpersonal Psychology* and the Association for Transpersonal Psychology.
 - **Stanislav Grof** (1931-): psychedelic research, holotropic breathwork, perinatal psychology.
-- **Charles Tart** (1937-): altered states of consciousness.
+- **Charles Tart** (1937-2025): altered states of consciousness.
 - **Ken Wilber** (1949-): the spectrum of consciousness and integral theory.
 - **Roger Walsh** (1946–) and **Frances Vaughan**: transpersonal theory, meditation, and clinical applications.
 - **James Fadiman** (1939–): psychedelic research and transpersonal psychology.

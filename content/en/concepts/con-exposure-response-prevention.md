@@ -27,7 +27,7 @@ The treatment rests on two interlocking components. **Exposure** is the gradual 
 
 ## Historical Origins
 
-The method traces back to the psychiatrist **Victor Meyer**, who in 1966 reported improvement in a small series of inpatients with obsessive-compulsive rituals who were exposed to their triggers while being prevented from performing their rituals under supervision. This differed from the gradual, relaxation-based desensitization common in behavior therapy at the time. The method was developed in the 1970s by Stanley Rachman, Isaac Marks, and colleagues, and then, especially through the work of Edna Foa and colleagues in the 1980s, into organized systematic protocols, and was later incorporated into the broader framework of **cognitive behavioral therapy**.
+The method traces back to the British psychologist **Victor Meyer**, who in 1966 reported improvement in a small series of inpatients with obsessive-compulsive rituals who were exposed to their triggers while being prevented from performing their rituals under supervision. This differed from the gradual, relaxation-based desensitization common in behavior therapy at the time. The method was developed in the 1970s by Stanley Rachman, Isaac Marks, and colleagues, and then, especially through the work of Edna Foa and colleagues in the 1980s, into organized systematic protocols, and was later incorporated into the broader framework of **cognitive behavioral therapy**.
 
 ## Therapeutic Structure
 

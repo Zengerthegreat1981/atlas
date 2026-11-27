@@ -4,6 +4,7 @@ id: "SCH-0003"
 type: "مدرسة"
 part: philosophy
 level: "متقدم"
+quality: "unverified"
 title: "Academic Skepticism"
 en: "Academic Skepticism"
 crumb: "Philosophy ← Schools ← Academic Skepticism"
@@ -54,7 +55,7 @@ In the early third century BC Greek philosophy was passing through a transition:
 ## Relation to Pyrrhonian skepticism
 
 - Pyrrho of Elis (fourth century BC) preceded the Skeptical Academy, and ancient sources report some resemblance between his outlook and that of Arcesilaus, though the extent of any influence is disputed.
-- In the first century BC Aenesidemus of Knossos left the Academy, accusing it of being a disguised Stoicism since it accepts that the sage may hold an opinion, and he revived Pyrrhonian skepticism.
+- In the first century BC Aenesidemus of Knossos is traditionally said to have left the Academy, complaining that the Academics of his time were dogmatic, in effect Stoics quarrelling with Stoics, and he revived Pyrrhonian skepticism.
 - The disagreement between the two schools persisted: the Academy says knowledge is unattainable and accepts the persuasive, while Pyrrhonism remains in a state of inquiry and does not assert even negatively.
 
 ## Influence

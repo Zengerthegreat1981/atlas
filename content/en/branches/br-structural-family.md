@@ -40,19 +40,21 @@ Structural family therapy posits that psychological symptoms in an identified pa
 
 ## Historical Context and Development
 
-Minuchin formulated the approach while working with delinquent, economically disadvantaged youth at the Wiltwyck School in New York during the early 1960s, culminating in *Families of the Slums* (1967). This demonstrated that systemic family interventions were highly effective with multi-problem, low-income urban families, challenging contemporary psychoanalytic assumptions that underprivileged populations were unsuitable for psychotherapy. 
+Minuchin formulated the approach while working with delinquent, economically disadvantaged youth at the Wiltwyck School in New York during the early 1960s, culminating in *Families of the Slums* (1967). The work reported encouraging results with some multi-problem, low-income urban families, based on case series rather than controlled trials, and challenged contemporary psychoanalytic assumptions that underprivileged populations were unsuitable for psychotherapy. 
 
 In 1965, Minuchin became director of the Philadelphia Child Guidance Clinic (PCGC), establishing it as a world-renowned training center and detailing his clinical framework in *Families and Family Therapy* (1974).
 
 ## The Psychosomatic Family Model
 
 In collaborative clinical research on pediatric conditions—including brittle diabetes, asthma, and anorexia nervosa—Minuchin, Bernice Rosman, and Lester Baker formulated the **psychosomatic family model** (1978). They identified four recurrent systemic characteristics:
-- **Enmeshment**: Hypersensitivity to emotional distress across family members.
+- **Enmeshment**: Intense mutual over-involvement, with diffuse boundaries that limit individual autonomy.
 - **Overprotectiveness**: High mutual vigilance that retards developmental autonomy.
 - **Rigidity**: Extreme resistance to normative developmental transitions.
 - **Lack of Conflict Resolution**: Avoidance or premature defusing of interpersonal disagreements.
 
 In these systems, symptoms in the child frequently function to detour or defuse chronic parental conflict (*triangulation*), inadvertently stabilizing the parental relationship at the expense of the child's somatic health.
+
+This model is a historical clinical hypothesis: later empirical support is mixed, and the Academy for Eating Disorders (Le Grange et al., 2010) rejects the idea that family factors are the exclusive or primary cause of eating disorders.
 
 ## Clinical Method and Interventions
 

@@ -27,7 +27,7 @@ This entry documents exclusively the institutional history, structural organizat
 
 The American Psychiatric Association published the first edition of the DSM in 1952, followed by DSM-II (1968). The publication of DSM-III in 1980 marked a paradigm shift toward an explicit, descriptive, neo-Kraepelinian model designed to maximize diagnostic reliability and eliminate unproven psychoanalytic etiology. DSM-IV followed in 1994 (with a text revision, DSM-IV-TR, in 2000), and DSM-5 was published in 2013, removing the multiaxial diagnostic system. 
 
-DSM-5-TR (2022) represents a comprehensive text revision incorporating updated literature reviews, revised terminology (such as culturally sensitive language and updated gender dysphoria criteria), modified diagnostic codes aligned with ongoing ICD-10-CM updates, and the addition of Prolonged Grief Disorder to Section II.
+DSM-5-TR (2022) represents a comprehensive text revision incorporating updated literature reviews, revised terminology (such as culturally sensitive language and updated gender dysphoria terminology), modified diagnostic codes aligned with ongoing ICD-10-CM updates, and the addition of Prolonged Grief Disorder to Section II.
 
 ## Section I: Guidance on Manual Usage and the Definition of Mental Disorder
 

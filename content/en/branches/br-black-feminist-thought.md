@@ -4,7 +4,6 @@ id: SOC-14405
 type: تيار
 part: sociology
 level: متوسط
-quality: "unverified"
 title: Black Feminist Thought
 en: Black Feminist Thought
 crumb: Sociology ← Black Feminist Thought

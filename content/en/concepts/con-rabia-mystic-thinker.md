@@ -20,7 +20,7 @@ gaps: []
 
 # Rabi'a al-'Adawiyya: Pure Divine Love
 
-**Rabi'a al-'Adawiyya** of Basra (d. 185 AH / 801 CE) is the woman around whom later Sufi memory gathered the teaching of disinterested love of God (*mahabba*). A birth about 95–99 AH / 717 CE is a modern estimate from the traditional death date, not a fact recorded at the time. The nisba al-Qaysiyya appears in some later biographies and is not part of the earliest notices. She left no book. Almost everything said about her life was written long after she died.
+**Rabi'a al-'Adawiyya** of Basra (d. 185 AH / 801 CE) is the woman around whom later Sufi memory gathered the teaching of disinterested love of God (*mahabba*). A birth about 95–99 AH / c. 714–718 CE is a modern estimate from the traditional death date, not a fact recorded at the time. Al-Jahiz (d. 255 AH / 868–869 CE), among the earliest writers to mention her, calls her Rabi'a al-Qaysiyya. She left no book. Almost everything said about her life was written long after she died.
 
 ## What the sources actually give
 

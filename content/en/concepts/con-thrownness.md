@@ -46,5 +46,5 @@ Everyday existence is characterized by what Heidegger terms **falling** (*Verfal
 - Martin Heidegger, *Being and Time*, translated by John Macquarrie and Edward Robinson, Harper & Row, 1962 (German original *Sein und Zeit*, 1927).
 - Martin Heidegger, *Being and Time*, translated by Joan Stambaugh, revised by Dennis J. Schmidt, State University of New York Press, 2010.
 - Hubert L. Dreyfus, *Being-in-the-World: A Commentary on Heidegger's Being and Time, Division I*, MIT Press, 1991.
-- Jean-Paul Sartre, *Being and Nothingness: A Phenomenological Essay on Ontology*, translated by Hazel E. Barnes, Philosophical Library, 1956.
+- Jean-Paul Sartre, *Being and Nothingness: An Essay on Phenomenological Ontology*, translated by Hazel E. Barnes, Philosophical Library, 1956.
 - Ludwig Binswanger, *Being-in-the-World: Selected Papers of Ludwig Binswanger*, translated by Jacob Needleman, Basic Books, 1963.

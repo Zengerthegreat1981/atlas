@@ -39,7 +39,7 @@ ICD-11 groups OCD under "Obsessive-compulsive or related disorders" (6B20), with
 ## Core Symptoms
 
 - **Obsessions**: recurrent thoughts, mental images, or urges considered intrusive and unwanted. The person knows they are the product of his own mind. They differ from excessive worry in being specific and recurrent.
-- **Compulsions**: repetitive behaviors or mental acts that the person performs to prevent or reduce the anxiety associated with the obsessions. They are not connected in a realistic way to what they aim to prevent.
+- **Compulsions**: repetitive behaviors or mental acts that the person performs to prevent or reduce the anxiety associated with the obsessions. They are not connected in a realistic way to what they aim to prevent, or are clearly excessive.
 - **Resistance**: the attempt to resist the obsessions or compulsions.
 - **Functional distress**: a clear effect on work, relationships, and daily activities.
 

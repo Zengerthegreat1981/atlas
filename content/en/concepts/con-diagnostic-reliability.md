@@ -4,6 +4,7 @@ id: "CON-18214"
 type: "مفهوم"
 part: "psychology"
 level: "متقدم"
+quality: "unverified"
 title: "Diagnostic Reliability and Validity"
 en: "Diagnostic Reliability & Validity"
 crumb: "Psychology ← Concepts ← Diagnostic Reliability and Validity"
@@ -26,7 +27,7 @@ A foundational maxim of psychiatric epidemiology and measurement theory is that 
 
 ## Historical Evolution: The Robins and Guze Framework
 
-Through the mid-twentieth century, psychiatric nosology was plagued by low inter-rater reliability, largely due to vague psychoanalytic etiologies and unstandardized clinical interviewing. The landmark 1973 Rosenhan study ("On being sane in insane places") dramatically illustrated diagnostic vulnerability when eight pseudopatients gained admission to psychiatric hospitals by feigning auditory hallucinations, highlighting the fragility of categorical discrimination.
+Through the mid-twentieth century, psychiatric nosology was plagued by low inter-rater reliability, largely due to vague psychoanalytic etiologies and unstandardized clinical interviewing. The landmark 1973 Rosenhan study ("On being sane in insane places") dramatically illustrated diagnostic vulnerability when eight pseudopatients gained admission to psychiatric hospitals by feigning auditory hallucinations, highlighting the fragility of categorical discrimination. The study's accuracy has since been seriously questioned: journalist Susannah Cahalan (*The Great Pretender*, 2019) reported evidence that Rosenhan misrepresented, and probably fabricated, some of its data.
 
 In a seminal 1970 paper published in the *American Journal of Psychiatry*, psychiatrists **Eli Robins and Samuel B. Guze** of Washington University in St. Louis proposed a systematic, empirical five-phase methodology to establish the diagnostic validity of psychiatric illness:
 1. **Clinical Description**: Delineating the core clinical presentation, demographic boundaries, symptom profiles, and typical precipitating events.
@@ -52,10 +53,11 @@ These findings provoked widespread debate regarding whether low field-trial reli
 
 Persistent concerns regarding the questionable biological validity, excessive comorbidity, and arbitrary categorical thresholds of DSM-5 and ICD-11 fueled alternative nosological paradigms:
 - **Research Domain Criteria (RDoC)**: Launched by the US National Institute of Mental Health (NIMH; Insel et al., 2010; Cuthbert & Insel, 2013), RDoC departs entirely from categorical clinical syndromes. Instead, it conceptualizes psychopathology along dimensional functional domains (e.g., Negative Valence Systems, Cognitive Systems, Social Processes) investigated across multiple units of analysis—from genomics, molecules, and neural circuits to physiology, behavior, and self-reports.
-- **Hierarchical Taxonomy of Psychopathology (HiTOP)**: Formulated by an international consortium of clinical researchers (Kotov et al., 2017), HiTOP uses quantitative multivariate statistics to model mental disorders as a continuous, hierarchical dimensional spectrum (e.g., Internalizing, Externalizing, Thought Disorder spectra), resolving comorbidity and diagnostic instability through empirical dimensional scoring.
+- **Hierarchical Taxonomy of Psychopathology (HiTOP)**: Formulated by an international consortium of clinical researchers (Kotov et al., 2017), HiTOP uses quantitative multivariate statistics to model mental disorders as a continuous, hierarchical dimensional spectrum (e.g., Internalizing, Externalizing, Thought Disorder spectra), aiming to address comorbidity and diagnostic instability through empirical dimensional scoring.
 
 ## Sources
 
+- Cahalan, S. (2019). *The Great Pretender: The Undercover Mission That Changed Our Understanding of Madness*. Grand Central Publishing.
 - Clarke, D. E., et al. (2013). DSM-5 field trials in the United States and Canada, Part I: Study design, sampling strategy, implementation, and analytic approaches. *American Journal of Psychiatry*, 170(1), 43–58.
 - Cohen, J. (1960). A coefficient of agreement for nominal scales. *Educational and Psychological Measurement*, 20(1), 37–46.
 - Feighner, J. P., et al. (1972). Diagnostic criteria for use in psychiatric research. *Archives of General Psychiatry*, 26(1), 57–63.

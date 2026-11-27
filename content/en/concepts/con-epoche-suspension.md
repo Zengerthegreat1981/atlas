@@ -4,6 +4,7 @@ id: "CON-0983"
 type: "مفهوم"
 part: "philosophy"
 level: "متقدم"
+quality: "unverified"
 title: "Epoché (Suspension of Judgment)"
 en: "Epoché (Suspension of Judgment)"
 crumb: "Philosophy ← Concepts ← Epoché"
@@ -56,7 +57,7 @@ The difference is substantive, not verbal: the Pyrrhonist suspends in order to r
 
 ## The Difference from Academic Skepticism
 
-Pyrrhonian epoché is distinguished from the skepticism of the Middle Academy (Arcesilaus, Carneades): the Academic stops at the probable (τὸ πιθανόν) and uses it practically to give preference, while the Pyrrhonist regards the preference itself as a judgment and suspends it. Sextus draws this distinction in Book I of the *Outlines*.
+Pyrrhonian epoché is distinguished from the skepticism of the New Academy (Carneades and Clitomachus): the Academic stops at the probable (τὸ πιθανόν) and uses it practically to give preference, while the Pyrrhonist regards the preference itself as a judgment and suspends it. Sextus draws this distinction in Book I of the *Outlines*, where he treats Arcesilaus of the Middle Academy as very close to the Pyrrhonists.
 
 ## Sources
 

@@ -4,7 +4,6 @@ id: SOC-14414
 type: تيار
 part: sociology
 level: متوسط
-quality: "unverified"
 title: Organizational Sociology
 en: Organizational Sociology
 crumb: Sociology ← Organizational Sociology

@@ -4,6 +4,7 @@ id: "THK-8001"
 type: "مفكر"
 part: "religious-studies"
 level: "متقدم"
+quality: "unverified"
 religious_tradition: "Multi-religious (comparative history of religions)"
 study_approach: "Phenomenological-hermeneutic"
 title: "Mircea Eliade"
@@ -27,7 +28,7 @@ gaps: []
 
 # Mircea Eliade
 
-A Romanian historian of religions (1907–1986). He taught at the University of Chicago from 1956-1957 until his death and is among the influential scholars of comparative religion of the twentieth century, although his work has remained the subject of sharp methodological debate. Before his final emigration to the West, he studied philosophy in Bucharest. He spent three years in India (1928–1931) studying Sanskrit and yoga philosophy under Surendranath Dasgupta in Calcutta. This experience shaped his lasting interest in yoga and Indian mysticism, and led to his doctoral thesis on yoga and his book *Yoga: Essai sur les origines de la mystique indienne* (1936).
+A Romanian historian of religions (1907–1986). He taught at the University of Chicago from 1956-1957 until retiring in 1983 and is among the influential scholars of comparative religion of the twentieth century, although his work has remained the subject of sharp methodological debate. Before his final emigration to the West, he studied philosophy in Bucharest. He spent three years in India (1928–1931) studying Sanskrit and yoga philosophy under Surendranath Dasgupta in Calcutta. This experience shaped his lasting interest in yoga and Indian mysticism, and led to his doctoral thesis on yoga and his book *Yoga: Essai sur les origines de la mystique indienne* (1936).
 
 ## The Sacred and the Profane
 

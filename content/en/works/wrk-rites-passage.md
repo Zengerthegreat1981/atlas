@@ -4,7 +4,6 @@ id: "ANT-13134"
 type: "عمل / كتاب"
 part: "anthropology"
 level: "متوسط"
-quality: "unverified"
 title: "The Rites of Passage"
 en: "Rites of Passage"
 crumb: "Anthropology ← Works ← The Rites of Passage"
@@ -35,7 +34,7 @@ The analysis begins with spatial passage. Crossing a frontier, entering a villag
 
 ## Initiation and social age
 
-Van Gennep distinguishes physiological puberty from social puberty. Initiation rites need not coincide with bodily maturation, so they cannot be explained by it alone. Removal of marks or parts of the body, special dress, instruction, seclusion, and shared meals gain their meaning from their position in a sequence. This insistence on reading a rite within the whole ceremony, rather than collecting similar customs detached from context, set his method apart from much comparative writing of the period.
+Van Gennep distinguishes physiological puberty from social puberty. Initiation rites need not coincide with bodily maturation, so they cannot be explained by it alone. Bodily marking or removal of parts of the body, special dress, instruction, seclusion, and shared meals gain their meaning from their position in a sequence. This insistence on reading a rite within the whole ceremony, rather than collecting similar customs detached from context, set his method apart from much comparative writing of the period.
 
 ## Evidence and limits
 

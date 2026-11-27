@@ -38,7 +38,7 @@ Tolman maintained that organisms do not learn automatic, blind motor chains; rat
 
 Tolman established his theoretical positions through celebrated animal experiments:
 - **Latent Learning**: In a classic 1930 study with C. H. Honzik, three groups of rats ran a complex maze. The first group received food reward on every trial and steadily reduced errors. The second group received no food and showed minimal improvement. The third group received no food for the first ten days, then received food on day 11. Upon receiving food, the third group's errors dropped precipitously, immediately matching the performance of the continuously rewarded group. Tolman concluded that learning occurs continuously without reinforcement; reinforcement merely provides the motivation to *perform* what has already been learned.
-- **Cognitive Maps**: In "Cognitive Maps in Rats and Men" (1948) and maze experiments with Ritchie and Kalish (1946), Tolman trained rats in spatial mazes with winding paths. When the original path was blocked and multiple radial pathways were opened, rats systematically chose the direct shortcut pointing toward the physical location of the food. Tolman concluded that the animals had acquired an internal, field-like representation of spatial relationships—a "cognitive map"—rather than a rote sequence of left-right motor turns.
+- **Cognitive Maps**: In "Cognitive Maps in Rats and Men" (1948) and maze experiments with Ritchie and Kalish (1946), Tolman trained rats in spatial mazes with winding paths. When the original path was blocked and multiple radial pathways were opened, the most frequently chosen path (taken by roughly a third of the animals) led most directly toward the food's location, a result whose later replications and interpretations have been debated. Tolman concluded that the animals had acquired an internal, field-like representation of spatial relationships—a "cognitive map"—rather than a rote sequence of left-right motor turns.
 
 ### Intervening Variables
 
@@ -54,7 +54,7 @@ Tolman's work faced substantial contemporary criticism from orthodox behaviorist
 - **Edwin Guthrie's Critique**: Guthrie (1935) famously observed that by attributing learning to inner cognitive maps and sign-gestalts without specifying precise response triggers, Tolman left his experimental rat "buried in thought" at the choice point.
 - **Skinner and Hull**: Clark Hull and B. F. Skinner criticized Tolman's constructs for lacking strict mathematical predictability or for reintroducing mentalistic fictions into a natural science of behavior.
 
-Decades later, the emergence of cognitive psychology and cognitive neuroscience gave renewed support to Tolman's hypotheses. John O'Keefe and Lynn Nadel (*The Hippocampus as a Cognitive Map*, 1978) argued that hippocampal "place cells" provide a neural basis for Tolmanian spatial representations; O'Keefe's place-cell discovery for which O'Keefe shared the 2014 Nobel Prize in Physiology or Medicine with May-Britt and Edvard Moser.
+Decades later, the emergence of cognitive psychology and cognitive neuroscience gave renewed support to Tolman's hypotheses. John O'Keefe and Lynn Nadel (*The Hippocampus as a Cognitive Map*, 1978) argued that hippocampal "place cells" provide a neural basis for Tolmanian spatial representations; O'Keefe, who had discovered place cells, shared the 2014 Nobel Prize in Physiology or Medicine with May-Britt and Edvard Moser.
 
 ## Major Works
 

@@ -3,6 +3,7 @@ slug: "ins-mbti"
 id: "INS-0052"
 type: "أداة قياس"
 level: "مبتدئ"
+quality: "unverified"
 title: "Myers-Briggs Type Indicator (MBTI)"
 en: "Myers-Briggs Type Indicator (MBTI)"
 crumb: "Psychology ← Instruments ← Myers-Briggs Type Indicator (MBTI)"
@@ -26,7 +27,7 @@ The Myers-Briggs Type Indicator (MBTI) is a widely recognized self-report person
 
 ## Historical Development
 
-Katharine Briggs began studying personality typology in the 1920s after reading Jung's *Psychologische Typen* (1921). During the Second World War, Isabel Briggs Myers expanded her mother's work to create a practical pencil-and-paper instrument aimed at matching civilian workers, particularly women entering the industrial workforce, with suitable occupational roles. 
+Katharine Briggs began studying personality typology around 1917, developing her own scheme, and turned to Jung's theory after *Psychologische Typen* (1921) appeared in English in 1923. During the Second World War, Isabel Briggs Myers expanded her mother's work to create a practical pencil-and-paper instrument aimed at matching civilian workers, particularly women entering the industrial workforce, with suitable occupational roles. 
 
 The first test manuals were published experimentally by the Educational Testing Service (ETS) in 1962, though ETS later ceased publishing it. In 1975, publication was acquired by Consulting Psychologists Press (CPP, now The Myers-Briggs Company), which oversaw its commercial expansion into corporate consulting and human resources worldwide.
 

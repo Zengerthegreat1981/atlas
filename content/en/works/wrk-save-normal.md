@@ -4,6 +4,7 @@ id: "WRK-13190"
 type: "عمل / كتاب"
 part: "psychiatry"
 level: "متقدم"
+quality: "unverified"
 title: "Saving Normal"
 en: "Saving Normal"
 crumb: "Psychiatry ← Works ← Saving Normal"
@@ -38,7 +39,7 @@ The book was written by Allen Frances, Emeritus Professor of Psychiatry and form
 
 ## Ordinary Sorrow in the Arab Heritage
 
-The book's title relates to an old question: when does sorrow become normal, and when does it become an illness? In his treatise on dispelling sorrows (*Fi al-Hila li-Daf' al-Ahzan*), the philosopher Ya'qub ibn Ishaq al-Kindi treated sorrow as a psychological pain that arises from the loss of a beloved person or the disappearance of possessions. He held that it is not inevitable and can be alleviated through reason and through recognizing that what is lost was never permanently one's own. Ritter and Walzer published this treatise in 1938. Miskawayh devoted a chapter in *Tahdhib al-Akhlaq* to treating sorrow, grief, and fear, considering them emotions to be refined through upbringing and contemplation rather than illnesses to be treated with medication. In Arabic medicine, intense and persistent sorrow that overwhelmed its sufferer fell under melancholia, which required treatment. This is close to Frances's thesis: ordinary sorrow is an understandable human response, and the dividing line between it and illness requires careful clinical judgment rather than a mechanical checklist of symptoms, although the philosophical frameworks of the two sides differ considerably.
+The book's title relates to an old question: when does sorrow become normal, and when does it become an illness? In his treatise on dispelling sorrows (*Fi al-Hila li-Daf' al-Ahzan*), the philosopher Ya'qub ibn Ishaq al-Kindi treated sorrow as a psychological pain that arises from the loss of a beloved person or the disappearance of possessions. He held that it is not inevitable and can be alleviated through reason and through recognizing that what is lost was never permanently one's own. Ritter and Walzer published this treatise in 1938. Miskawayh devoted a chapter in *Tahdhib al-Akhlaq* to treating sorrow, grief, and fear, treating them as ailments of the soul to be addressed through reflection and moral self-discipline rather than with medication. In Arabic medicine, intense and persistent sorrow that overwhelmed its sufferer fell under melancholia, which required treatment. This is close to Frances's thesis: ordinary sorrow is an understandable human response, and the dividing line between it and illness requires careful clinical judgment rather than a mechanical checklist of symptoms, although the philosophical frameworks of the two sides differ considerably.
 
 ## Central Thesis
 

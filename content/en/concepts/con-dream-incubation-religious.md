@@ -23,7 +23,7 @@ gaps: []
 
 # Ritual Dream Incubation in Comparative Religious Practice
 
-"Dream incubation" (from the Greek *enkoimesis*) is a ritual practice based on deliberately sleeping in a sacred place in order to summon an instructive, healing or prophetic dream. It is not the waiting for a spontaneous dream, but its institutional pursuit through a specific ritual procedure.
+"Dream incubation" (Latin *incubatio*, Greek *enkoimesis*) is a ritual practice based on deliberately sleeping in a sacred place in order to summon an instructive, healing or prophetic dream. It is not the waiting for a spontaneous dream, but its institutional pursuit through a specific ritual procedure.
 
 ## The Greek Model: The Temples of Asclepius
 

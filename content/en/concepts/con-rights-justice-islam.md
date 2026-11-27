@@ -33,7 +33,7 @@ Al-Mawardi (d. 450 AH/1058 CE), in *al-Ahkam al-Sultaniyya*, sets out the duties
 
 ## The Modern Trend
 
-The *Universal Islamic Declaration of Human Rights* was issued by the Islamic Council of Europe in 1981. The *Cairo Declaration on Human Rights in Islam* was issued by the Organisation of the Islamic Conference in 1990, and it made the Sharia the only reference for interpreting its articles. Majid Khadduri wrote *The Islamic Conception of Justice* (1984), and Muhammad Hashim Kamali presented *Freedom, Equality and Justice in Islam* (2002).
+The *Universal Islamic Declaration of Human Rights* was issued by the Islamic Council of Europe in 1981. The *Cairo Declaration on Human Rights in Islam* was issued by the Organisation of the Islamic Conference in 1990, and it made the Sharia the only reference for interpreting its articles. In November 2020 the organisation's Council of Foreign Ministers, meeting in Niamey, adopted a revised text, the Cairo Declaration of the Organisation of Islamic Cooperation on Human Rights. Majid Khadduri wrote *The Islamic Conception of Justice* (1984), and Muhammad Hashim Kamali presented *Freedom, Equality and Justice in Islam* (2002).
 
 ## Critique
 

@@ -4,6 +4,7 @@ id: "CON-18343"
 type: "مفهوم"
 part: arab-thought
 level: "متقدم"
+quality: "unverified"
 title: "Essence vs Existence Debates"
 en: "Essence vs Existence Debates"
 crumb: "Arab Thought ← Concepts ← Essence vs Existence Debates"

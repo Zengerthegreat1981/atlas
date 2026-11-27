@@ -51,7 +51,7 @@ Academic researchers study Steiner within the field of "studies of modern Wester
 
 ## Relation to the Arab-Islamic Heritage
 
-Steiner's writings contain no direct treatment of the Islamic tradition or of Arabic philosophy. His non-Western reference points were largely limited to Hinduism and Buddhism, drawn from Theosophical sources.
+The Islamic tradition and Arabic thought are not central to Steiner's system, but he did address them in places, for example in his 1924 lectures on karmic relationships, which discuss the court of Harun al-Rashid in Baghdad. His principal non-Western reference points were Hinduism and Buddhism, drawn from Theosophical sources.
 
 ## Sources
 

@@ -4,6 +4,7 @@ id: "DBT-0303"
 type: "جدل"
 part: "philosophy"
 level: ""
+quality: "unverified"
 title: "Discovered or Created?"
 en: "Discovered or created?"
 crumb: "Existential School ← Debates ← Discovered or Created?"
@@ -22,7 +23,7 @@ Is meaning discovered or created? This is the deepest philosophical disagreement
 
 ## Frankl's Position — Meaning Is Discovered
 
-Viktor Frankl argued that every situation holds a latent meaning waiting to be discovered, even suffering that cannot be changed. In *Man's Search for Meaning* (1959; German original, 1946), he described his experience in the Nazi concentration camps of 1942–1945 as the empirical ground of this claim: those who survived with their humanity intact were those who found a meaning in their suffering — a task, a love, or an attitude toward the unavoidable. Life, in Frankl's famous formulation, asks the questions, and the human being answers with his life. The position presupposes an order of meaning wider than the individual: meaning is not invented but recognised, and the therapist may therefore direct, suggest, and encourage the client toward what the situation demands. Frankl's three sources of meaning — creative work, love, and the attitude taken toward unavoidable suffering — are presented as discoveries about the world, not preferences of the therapist.
+Viktor Frankl argued that every situation holds a latent meaning waiting to be discovered, even suffering that cannot be changed. In *Man's Search for Meaning* (German original, 1946; first English edition 1959 as *From Death-Camp to Existentialism*), he described his experience in the Nazi concentration camps of 1942–1945 as the empirical ground of this claim: those who survived with their humanity intact were those who found a meaning in their suffering — a task, a love, or an attitude toward the unavoidable. Life, in Frankl's famous formulation, asks the questions, and the human being answers with his life. The position presupposes an order of meaning wider than the individual: meaning is not invented but recognised, and the therapist may therefore direct, suggest, and encourage the client toward what the situation demands. Frankl's three sources of meaning — creative work, love, and the attitude taken toward unavoidable suffering — are presented as discoveries about the world, not preferences of the therapist.
 
 ## The Secular Position — Meaning Is Created
 
@@ -41,8 +42,8 @@ The debate also touches the question of who the therapist serves. If meaning is 
 ## Sources
 
 - Viktor E. Frankl, *Ein Psychologe erlebt das Konzentrationslager*, 1946.
-- Viktor E. Frankl, *Man's Search for Meaning*, 1959.
+- Viktor E. Frankl, *From Death-Camp to Existentialism*, 1959; retitled *Man's Search for Meaning*, 1962.
 - Jean-Paul Sartre, *Being and Nothingness*, 1943.
 - Irvin D. Yalom, *Existential Psychotherapy*, 1980.
 - Viktor E. Frankl, *The Will to Meaning*, 1969.
-- Emmy van Deurzen, *Existential Counselling and Psychotherapy in Practice*, 1988; 3rd ed., 2012.
+- Emmy van Deurzen, *Existential Counselling in Practice*, 1988; later retitled *Existential Counselling and Psychotherapy in Practice*, 2nd ed. 2002, 3rd ed. 2012.

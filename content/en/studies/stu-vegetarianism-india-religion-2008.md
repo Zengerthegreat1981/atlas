@@ -4,6 +4,7 @@ id: "STU-1219"
 type: "دراسة وبحث"
 part: "religious-studies"
 level: "متقدم"
+quality: "unverified"
 title: "A Field Study of Religious Vegetarianism in Hindu and Buddhist Contexts"
 dates: "2008"
 active_start: 2008

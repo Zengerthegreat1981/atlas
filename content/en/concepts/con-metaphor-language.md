@@ -31,7 +31,7 @@ Classical theory of majaz rested on a basic distinction between **haqiqa** (lite
 
 ## Use of Majaz in the Sciences of the Qur'an and Jurisprudence
 
-The study of majaz acquired special importance in **the principles of jurisprudence** (*usul al-fiqh*) and in Qur'anic exegesis. Commentators and jurists needed to distinguish literal from figurative words in the sacred text in order to control legal deduction. Some Zahiris and Hanbalis (such as Ibn Taymiyya) rejected the very existence of majaz in language or in the Qur'an, regarding this division as a late juristic innovation with no basis in the speech of the Arabs.
+The study of majaz acquired special importance in **the principles of jurisprudence** (*usul al-fiqh*) and in Qur'anic exegesis. Commentators and jurists needed to distinguish literal from figurative words in the sacred text in order to control legal deduction. Some Zahiris and Hanbalis (such as Ibn Taymiyya) rejected the very existence of majaz in language or in the Qur'an, regarding this division as a later terminological innovation, arising after the first three centuries of Islam, with no basis in the speech of the Arabs.
 
 ## Influence and Afterlife
 

@@ -36,11 +36,11 @@ The development of Arabic mystical poetry spans several distinct aesthetic and d
 
 ## Critical Debates and Modern Receptions
 
-Erotic and bacchic imagery drew repeated censure. Ibn al-Jawzi, in *Talbis Iblis*, attacked Sufi audition (*sama'*) and what he took to be confusion of divine love with sensual passion. Ibn Taymiyya criticized some Sufi practice, including forms of *sama'*, and rejected the monistic reading of Ibn 'Arabi associated with *wahdat al-wujud*. He did not treat every Sufi poem as illicit. Modern Arab critics have also reread the classical corpus as an aesthetic resource. In *al-Sufiyya wa-l-suryaliyya* (Beirut: Dar al-Saqi, 1995; English *Sufism and Surrealism*, 2005), the poet Adonis argued that Sufi visionary writing broke ordinary linguistic habit and shared features with later surrealism. That is his critical thesis, not a historical claim that classical Sufis were modernists.
+Erotic and bacchic imagery drew repeated censure. Ibn al-Jawzi, in *Talbis Iblis*, attacked Sufi audition (*sama'*) and what he took to be confusion of divine love with sensual passion. Ibn Taymiyya criticized some Sufi practice, including forms of *sama'*, and rejected the monistic reading of Ibn 'Arabi associated with *wahdat al-wujud*. He did not treat every Sufi poem as illicit. Modern Arab critics have also reread the classical corpus as an aesthetic resource. In *al-Sufiyya wa-l-suryaliyya* (Dar al-Saqi, first published 1992; a Beirut 1995 date is also catalogued; English *Sufism and Surrealism*, 2005), the poet Adonis argued that Sufi visionary writing broke ordinary linguistic habit and shared features with later surrealism. That is his critical thesis, not a historical claim that classical Sufis were modernists.
 
 ## Sources
 
-- Adonis. *Sufism and Surrealism*. Translated by Judith Cumberbatch. London: Saqi Books, 2005. Arabic original: *al-Sufiyya wa-l-suryaliyya*. Beirut: Dar al-Saqi, 1995.
+- Adonis. *Sufism and Surrealism*. Translated by Judith Cumberbatch. London: Saqi Books, 2005. Arabic original: *al-Sufiyya wa-l-suryaliyya*. Dar al-Saqi, 1992 (a Beirut 1995 date is also catalogued).
 - Ibn al-Jawzi. *Talbis Iblis*. Cairo: Idarat al-Tiba'a al-Muniriyya.
 - Massignon, Louis, ed. "Le Dîwân d'al-Hallâj." *Journal Asiatique* 218 (1931).
 - Homerin, Th. Emil. *From Arab Poet to Muslim Saint: Ibn al-Fāriḍ, His Verse, and His Shrine*. Columbia: University of South Carolina Press, 1994.

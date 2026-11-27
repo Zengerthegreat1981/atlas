@@ -4,6 +4,7 @@ id: "DBT-0311"
 type: "جدل"
 part: "philosophy"
 level: ""
+quality: "unverified"
 title: "The Spiritual and the Secular"
 en: "The spiritual dimension"
 crumb: "Existential School ← Debates ← The Spiritual and the Secular"
@@ -21,11 +22,11 @@ Does existential therapy possess an inherent spiritual dimension, or does admitt
 
 ## The Case for Spiritual Openness
 
-Viktor Frankl attributed to the human person an autonomous "noological" or spiritual dimension (*noëtische Dimension*) that remains inviolable and cannot fall ill, distinguishing human existence from somatic and purely psychological drives. Setting logotherapy apart from Freudian reductionism, Frankl argued in *The Doctor and the Soul* (1946/1955) and *Man's Search for Meaning* (1946) that freedom, personal responsibility, and conscience reside in this spiritual dimension, and that psychotherapy amputates the whole person if it ignores spiritual striving.
+Viktor Frankl attributed to the human person an autonomous "noological" or spiritual dimension (*noetische Dimension*) that remains inviolable and cannot fall ill, distinguishing human existence from somatic and purely psychological drives. Setting logotherapy apart from Freudian reductionism, Frankl argued in *The Doctor and the Soul* (1946/1955) and *Man's Search for Meaning* (1946) that freedom, personal responsibility, and conscience reside in this spiritual dimension, and that psychotherapy amputates the whole person if it ignores spiritual striving.
 
 Emmy van Deurzen similarly integrated a spiritual dimension (*Überwelt*) as the fourth mandatory axis in her structural model of existence, alongside the physical (*Umwelt*), social (*Mitwelt*), and personal (*Eigenwelt*). In van Deurzen's framework, the *Überwelt* encompasses the client's values, moral ideals, philosophies of life, and ultimate convictions.
 
-Christian existentialists such as Paul Tillich and Gabriel Marcel also influenced this branch. In *The Courage to Be* (1952), Tillich conceptualized faith as a state of "ultimate concern," analyzing how spiritual courage confronts existential anxieties of fate and death, emptiness and meaninglessness, and guilt and condemnation.
+Christian existentialists such as Paul Tillich and Gabriel Marcel also influenced this branch. In *Dynamics of Faith* (1957), Tillich defined faith as the state of being ultimately concerned, and in *The Courage to Be* (1952) he analyzed how spiritual courage confronts existential anxieties of fate and death, emptiness and meaninglessness, and guilt and condemnation.
 
 ## The Secular Phenomenological Critique
 
@@ -44,9 +45,10 @@ In traditional and non-Western settings, including the Arab and Islamic world, t
 ## Sources
 
 - Frankl, Viktor E. *The Doctor and the Soul: From Psychotherapy to Logotherapy*. Translated by Richard and Clara Winston. New York: Alfred A. Knopf, 1955. (German original: *Ärztliche Seelsorge*, 1946.)
-- Frankl, Viktor E. *Man's Search for Meaning*. Boston: Beacon Press, 1959. (German original: *Ein Psycholog erlebt das Konzentrationslager*, 1946.)
+- Frankl, Viktor E. *From Death-Camp to Existentialism*. Boston: Beacon Press, 1959 (revised and retitled *Man's Search for Meaning*, 1962). (German original: *Ein Psycholog erlebt das Konzentrationslager*, 1946.)
 - van Deurzen, Emmy. *Existential Counselling and Psychotherapy in Practice*. 3rd ed. London: SAGE Publications, 2012.
 - Tillich, Paul. *The Courage to Be*. New Haven: Yale University Press, 1952.
+- Tillich, Paul. *Dynamics of Faith*. 1957.
 - Sartre, Jean-Paul. *Being and Nothingness: An Essay on Phenomenological Ontology*. Translated by Hazel E. Barnes. New York: Philosophical Library, 1956.
 - Sartre, Jean-Paul. *Existentialism Is a Humanism*. 1946 (lecture given 1945).
 - al-Ghazali, Abu Hamid. *Ihya' 'Ulum al-Din* [*The Revival of the Religious Sciences*]. 4 vols. Cairo: al-Maktaba al-Tijariyya al-Kubra, n.d.

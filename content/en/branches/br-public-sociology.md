@@ -4,7 +4,6 @@ id: SOC-14456
 type: تيار
 part: sociology
 level: متوسط
-quality: "unverified"
 title: Public Sociology
 en: Public Sociology
 crumb: Sociology ← Public Sociology

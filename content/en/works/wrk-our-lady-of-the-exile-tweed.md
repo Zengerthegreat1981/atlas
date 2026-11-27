@@ -6,6 +6,7 @@ part: "religious-studies"
 religious_tradition: "Cuban-American Catholicism"
 study_approach: "Anthropological-historical"
 level: "متقدم"
+quality: "unverified"
 title: "Our Lady of the Exile: Diasporic Religion at a Cuban Catholic Shrine in Miami"
 en: "Our Lady of the Exile: Diasporic Religion at a Cuban Catholic Shrine in Miami"
 crumb: "Religious Studies ← Works ← Our Lady of the Exile: Diasporic Religion at a Cuban Catholic Shrine in Miami"
@@ -28,7 +29,7 @@ The book examines one specific case in ethnographic and historical depth: how a 
 
 ## Historical Context
 
-The worship of Our Lady of Charity in Cuba dates back to the early seventeenth century, when the appearance of a statue of the Virgin Mary to fishermen in Nipe Bay is said to have occurred, and it later became a symbol of Cuban national identity, until it was officially declared patroness of Cuba in 1916. After the Cuban Revolution of 1959 and the major waves of migration that followed to Florida, Cuban exiles in Miami established a new shrine to this same patroness (completed in 1973), thereby maintaining the continuity of the devotion on new ground, far from the homeland they had lost.
+The veneration of Our Lady of Charity in Cuba dates back to the early seventeenth century, when the appearance of a statue of the Virgin Mary to fishermen in Nipe Bay is said to have occurred, and it later became a symbol of Cuban national identity, until it was officially declared patroness of Cuba in 1916. After the Cuban Revolution of 1959 and the major waves of migration that followed to Florida, Cuban exiles in Miami established a new shrine to this same patroness (completed in 1973), thereby maintaining the continuity of the devotion on new ground, far from the homeland they had lost.
 
 ## Main Ideas and Method
 
@@ -44,7 +45,7 @@ The book is an early and influential work in the field of "religion, migration a
 
 ## Final Notes on Field Observation
 
-Tweed discusses the annual celebration of 8 September (the feast of Cuba's patroness) at the shrine, when thousands of Cuban Americans from across Florida gather, in an event that mixes religious piety with mourning for the lost homeland and opposition to the Cuban government. Tweed shows how religious devotion and political longing for Cuba are interwoven in the celebration.
+Tweed discusses the annual celebration of 8 September (the feast of Cuba's patroness) associated with the shrine, when thousands of Cuban Americans gather, with the main public Mass often held at venues larger than the shrine itself, in an event that mixes religious piety with mourning for the lost homeland and opposition to the Cuban government. Tweed shows how religious devotion and political longing for Cuba are interwoven in the celebration.
 
 ## Additional Notes on Symbolic Architecture
 

@@ -4,6 +4,7 @@ id: "WRK-0496"
 type: "عمل / كتاب"
 part: "psychology"
 level: "متوسط"
+quality: "unverified"
 title: "Attachment (Volume 1, 1969)"
 en: "Attachment (Attachment and Loss, Vol. 1)"
 crumb: "Psychology ← Works ← Attachment (Volume 1)"
@@ -50,7 +51,7 @@ The volume was published in 1969 jointly by the Hogarth Press and the Institute 
 
 ## Reception and Contemporary Psychoanalytic Reactions
 
-Upon publication, the book met fierce institutional resistance within the British Psychoanalytical Society. Many analysts, including those of the Kleinian group, criticized the work as a departure from psychoanalysis. Anna Freud similarly voiced strong objections, criticizing Bowlby for replacing dynamic drive theory and infantile fantasy with an externalized biological model borrowed from animal ethology.
+Upon publication, the book met fierce institutional resistance within the British Psychoanalytical Society. Many analysts, including those of the Kleinian group, criticized the work as a departure from psychoanalysis. Anna Freud similarly voiced strong objections, criticizing Bowlby for replacing dynamic drive theory and infantile fantasy with an externalized biological model borrowed from animal ethology. Much of this dispute had begun with Bowlby's preparatory papers of 1958–1960; Anna Freud was among those who published replies in 1960.
 
 Conversely, the work was enthusiastically received in developmental and comparative psychology because it translated clinical observations into empirically testable, evolutionarily grounded hypotheses. In the late 1960s and 1970s, **Mary Ainsworth** operationalized Bowlby's theoretical framework into the "Strange Situation" laboratory protocol and classified attachment patterns (secure, insecure-avoidant, insecure-resistant) through her field studies in Uganda (1967) and Baltimore. These empirical classifications and instruments represent Ainsworth's subsequent work, building directly on the theoretical framework established in this 1969 text.
 

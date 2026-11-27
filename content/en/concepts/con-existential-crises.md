@@ -51,7 +51,7 @@ The language of growth through crisis can be misleading if it implies that suffe
 ## Sources
 
 1. Yalom, I. D. (1980). *Existential Psychotherapy*. Basic Books.
-2. May, R. (1967). *Psychology and the Human Dilemma*. W. W. Norton.
+2. May, R. (1967). *Psychology and the Human Dilemma*. Van Nostrand.
 3. Frankl, V. E. (1959). *From Death-Camp to Existentialism* (later retitled *Man's Search for Meaning*). Beacon Press.
 4. van Deurzen, E. (2012). *Existential Counselling and Psychotherapy in Practice*. SAGE.
 5. Tillich, P. (1952). *The Courage to Be*. Yale University Press.

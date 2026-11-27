@@ -36,7 +36,7 @@ Each factor is a broad domain composed of narrower facets. The labels are descri
 
 ## Stability and change
 
-Personality traits are fairly stable, especially in adulthood, in the sense that rank order among people changes little over years. Stability is not absolute. Longitudinal studies show mean-level change across the lifespan: on average, people tend to become somewhat more conscientious, agreeable and emotionally stable from young adulthood into middle age, a pattern sometimes called the maturity principle. Major life events and deliberate effort can also shift traits modestly.
+Personality traits are fairly stable, especially in adulthood, in the sense that rank order among people changes little over years. Stability is not absolute. Longitudinal studies show mean-level change across the lifespan: on average, people tend to become somewhat more conscientious and emotionally stable, especially in young adulthood, and increases in agreeableness have also been reported later in life (the 2006 meta-analysis by Roberts and colleagues found agreeableness changing only in old age). This general trend is sometimes called the maturity principle. Major life events and deliberate effort can also shift traits modestly.
 
 ## Origins and uses
 

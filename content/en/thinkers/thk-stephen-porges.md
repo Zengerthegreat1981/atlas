@@ -4,6 +4,7 @@ id: "THK-1993"
 type: "مفكر"
 part: "psychology"
 level: "متقدم"
+quality: "unverified"
 title: "Stephen W. Porges"
 en: "Stephen W. Porges"
 crumb: "Psychology ← Thinkers ← Stephen W. Porges"
@@ -50,7 +51,7 @@ Practitioners carried the theory from the field of physiological research into t
 
 ## The physiological controversy
 
-The sharpest scientific criticism of the theory came from researchers in cardiac and respiratory physiology. Peter Grossman and Edwin Taylor published, in the same issue of *Biological Psychology* in 2007, a critical paper in which they argued that respiratory sinus arrhythmia does not measure cardiac vagal tone with the precision the theory assumes, and that the claim that the myelinated vagus is specific to mammals conflicts with what is known about some reptiles and fish. Grossman returned in 2023 to review the five premises of the theory, considering that they do not withstand the comparative data. Supporters of the theory respond that Porges describes it as a generative framework that produces testable hypotheses, and that its spread in therapy does not depend on the correctness of every anatomical detail, a response that critics see as conflating metaphorical value with scientific proof.
+The sharpest scientific criticism of the theory came from researchers in cardiac and respiratory physiology. Peter Grossman and Edwin Taylor published, in the same issue of *Biological Psychology* in 2007, a critical paper in which they argued that respiratory sinus arrhythmia does not measure cardiac vagal tone with the precision the theory assumes, and that the claim that the myelinated vagus is specific to mammals conflicts with what is known about some reptiles and fish. Grossman returned in 2023 to review the five premises of the theory, considering that they do not withstand the comparative data. In 2026 Grossman and 38 co-authors published a joint evaluation in *Clinical Neuropsychiatry* concluding that the core premises of the theory are untenable; Porges replied in the same journal that the critique targets a version of the theory he does not hold. Supporters of the theory respond that Porges describes it as a generative framework that produces testable hypotheses, and that its spread in therapy does not depend on the correctness of every anatomical detail, a response that critics see as conflating metaphorical value with scientific proof.
 
 ## His place in the tradition
 

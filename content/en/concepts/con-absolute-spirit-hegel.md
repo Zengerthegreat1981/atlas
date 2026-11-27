@@ -4,6 +4,7 @@ id: "CON-0870"
 type: "مفهوم"
 part: philosophy
 level: "متقدم"
+quality: "unverified"
 title: "Absolute Spirit and Its Manifestations (Absolute Spirit)"
 en: "Absolute Spirit and Its Manifestations"
 crumb: "Philosophy ← Concepts ← Absolute Spirit and Its Manifestations (Absolute Spirit)"
@@ -27,7 +28,7 @@ The highest stage of spirit's self-consciousness in Georg Wilhelm Friedrich Hege
 
 Hegel's notion of spirit has theological roots in his early writings of the Bern (1793-96) and Frankfurt (1797-1800) periods, where he reflected on the "spirit" of Christianity and of love as a unity overcoming division; these manuscripts were not published in his lifetime. The mature conception is developed in the *Phenomenology* and the *Encyclopedia*, and the Absolute Spirit section of the *Encyclopedia* appears in its definitive form in the third edition of 1830.
 
-Hegel first set out the course of consciousness that culminates in Absolute Spirit in 1807 in the "Phenomenology of Spirit," and then reformulated it in a methodical, concentrated way in the third part of the "Encyclopedia of the Philosophical Sciences" (1817) under the title "Philosophy of Spirit." Absolute Spirit forms the conclusion of the movement of the Hegelian dialectic (often popularly summarised as thesis, antithesis and synthesis, a triad Hegel himself rarely used; his own key term is sublation, *Aufhebung*) on which the whole system is built, and it is the concept from which the Hegelian school, in its right and left branches, proceeds in reading the history of consciousness, the state, and religion. In the Encyclopedia, spirit progresses from subjective spirit, that is, soul, consciousness, and reason, to objective spirit, that is, right, morality, and the state, and then reaches Absolute Spirit, where it knows itself with pure knowledge.
+Hegel first set out the course of consciousness that culminates in Absolute Spirit in 1807 in the "Phenomenology of Spirit," and then reformulated it in a methodical, concentrated way in the third part of the "Encyclopedia of the Philosophical Sciences" (1817) under the title "Philosophy of Spirit." Absolute Spirit forms the conclusion of the movement of the Hegelian dialectic (often popularly summarised as thesis, antithesis and synthesis, a triad Hegel himself rarely used; his own key term is sublation, *Aufhebung*) on which the whole system is built, and it is the concept from which the Hegelian school, in its right and left branches, proceeds in reading the history of consciousness, the state, and religion. In the Encyclopedia, spirit progresses from subjective spirit, that is, soul, consciousness, and mind (treated as anthropology, phenomenology and psychology), to objective spirit, that is, right, morality, and ethical life, which includes the state, and then reaches Absolute Spirit, where it knows itself with pure knowledge.
 
 ## Art, Religion, and Philosophy
 

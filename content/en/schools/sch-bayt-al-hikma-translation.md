@@ -4,6 +4,7 @@ id: "SCH-13116"
 type: "مدرسة"
 part: arab-thought
 level: "متقدم"
+quality: "unverified"
 title: "Baghdad Translation Movement (Graeco-Arabic)"
 en: "Baghdad Translation Movement (Graeco-Arabic)"
 crumb: "Arab Thought ← Schools ← Baghdad Translation Movement (Graeco-Arabic)"

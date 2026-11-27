@@ -4,6 +4,7 @@ id: "SCH-0247"
 type: "مدرسة"
 part: "psychology"
 level: "مبتدئ"
+quality: "unverified"
 title: "Positive Psychology"
 en: "Positive Psychology"
 crumb: "Psychology ← Schools ← Positive Psychology"
@@ -107,7 +108,7 @@ These programs are not substitutes for evaluation and treatment of mental illnes
 - **Western cultural bias**: models such as PERMA and the VIA classification arose in a Western context, and their cross-cultural validity is debated.
 - **Neglect of social context**: relatively little attention, especially in early work, to injustice, poverty, and discrimination.
 - **Commercial application**: the field's ideas have been absorbed by a large self-help and wellness industry, a trend Ehrenreich criticized in *Bright-Sided* (2009).
-- **Modest and variable effects**: meta-analyses of positive psychology interventions (for example Sin & Lyubomirsky, 2009; Bolier et al., 2013) find small-to-moderate effects on well-being and smaller effects on depression, with concerns about study quality.
+- **Modest and variable effects**: meta-analyses of positive psychology interventions (for example Sin & Lyubomirsky, 2009; Bolier et al., 2013) find small-to-moderate effects on well-being and depression (Sin and Lyubomirsky reported mean r of about .29 and .31; Bolier and colleagues reported smaller standardized differences of about 0.20 to 0.34), with concerns about study quality; a 2019 reanalysis (White, Uttl and Holder) concluded that the effects are much smaller than previously reported.
 
 ## The Ehrenreich Critique and Its Reception
 
@@ -139,6 +140,7 @@ In *Bright-Sided: How the Relentless Promotion of Positive Thinking Has Undermin
 - Seligman, M. E. P., Rashid, T., & Parks, A. C. (2006). Positive psychotherapy. *American Psychologist, 61*(8), 774-788.
 - Sin, N. L., & Lyubomirsky, S. (2009). Enhancing well-being and alleviating depressive symptoms with positive psychology interventions: A practice-friendly meta-analysis. *Journal of Clinical Psychology, 65*(5), 467-487.
 - Bolier, L., et al. (2013). Positive psychology interventions: A meta-analysis of randomized controlled studies. *BMC Public Health, 13*, 119.
+- White, C. A., Uttl, B., & Holder, M. D. (2019). Meta-analyses of positive psychology interventions: The effects are much smaller than previously reported. *PLOS ONE, 14*(5), e0216588.
 - Ehrenreich, B. (2009). *Bright-Sided: How the Relentless Promotion of Positive Thinking Has Undermined America*. Metropolitan Books.
 - Held, B. S. (2002). The tyranny of the positive attitude in America: Observation and speculation. *Journal of Clinical Psychology, 58*(9), 965-991.
 - Wong, P. T. P. (2011). Positive psychology 2.0: Towards a balanced interactive model of the good life. *Canadian Psychology, 52*(2), 69-81.

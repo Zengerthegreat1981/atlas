@@ -23,19 +23,19 @@ A classical Chinese concept describing the "two opposing poles" in the cosmos: y
 
 In their earliest uses the two characters denote the two sides of a hill: the shaded side (yin) and the sunny side (yang). The meaning then developed into a pair of forces tied to the alternation of night and day and of winter and summer. Neither is taken to mean good or evil.
 
-In the *Book of Changes*, the oldest layer (the hexagram and line texts) does not itself use the terms yin and yang; they become central in the later commentaries (the "Ten Wings," including the Xici), where broken and unbroken lines are interpreted as yin and yang. In pre-Han texts the pair also appears in discussions of the qi of heaven and earth, and the Yin-Yang School later systematized them in cosmological theory.
+In the *Book of Changes*, the oldest layer (the hexagram and line texts) does not use yin and yang as a paired cosmological concept; they become central in the later commentaries (the "Ten Wings," including the Xici), where broken and unbroken lines are interpreted as yin and yang. In pre-Han texts the pair also appears in discussions of the qi of heaven and earth, and the Yin-Yang School later systematized them in cosmological theory.
 
 ## What Distinguishes It
 
 - **The principle of opposition and unity**: yin and yang complement each other, and neither disappears entirely from anything. In the "Appended Statements" (Xici) of the Book of Changes (Yijing): "One yin and one yang is called the Dao."
 - **Mutual transformation**: when one reaches its extreme it turns into the other. In the *Daodejing* (chapter 42): "The ten thousand things carry yin on their backs and embrace yang."
 - **Application at all levels**: the cosmos, the seasons, the body, society, and politics. Earth, moon, cold, darkness, and femininity are on the side of yin, and heaven, sun, warmth, light, and masculinity on the side of yang. This classification is cosmological, not moral.
-- **The visual sign**: a circle divided into two interlocked halves, in each half a dot of the other's color, a symbol of mutual transformation. This familiar image (taijitu) is much later than the early texts, and in its common form goes back to the Song era.
+- **The visual sign**: a circle divided into two interlocked halves, in each half a dot of the other's color, a symbol of mutual transformation. This familiar image (taijitu) is much later than the early texts, growing out of Song-era diagram traditions; the swirling yin-yang form is credited to Zhao Huiqian (1351–1395), in the Ming.
 
 ## Difference from Similar Concepts
 
 - It differs from Greek and Persian dualism: yin and yang are not two separate conflicting principles but interpenetrating, each carrying the trace of the other.
-- It differs from substance and accident in Aristotle: yin and yang are changing, while substance and accident are fixed in Aristotelian terms.
+- It differs from substance and accident in Aristotle: yin and yang are alternating, interdependent phases, whereas in Aristotle a substance is a subject that persists while its accidents may change.
 - It differs from the Cartesian dualism of matter and spirit: yin and yang exchange and are not separable.
 - It differs from good and evil in the Abrahamic traditions: there is no evil in yin nor good in yang, but two poles in one process.
 

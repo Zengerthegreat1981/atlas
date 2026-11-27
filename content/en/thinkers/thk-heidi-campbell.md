@@ -41,7 +41,7 @@ Campbell's framework (the "religious-social shaping of technology", RSST) examin
 
 ## Later Projects
 
-Campbell extended her research project by editing additional collective volumes, among them *Digital Religion: Understanding Religious Practice in New Media Worlds* (2012; a revised second edition, co-edited with Ruth Tsuria, appeared in 2021), which gathered contributions from multiple researchers to map the field of digital religion comprehensively. She also undertook a joint project with Gregory Grieve on religion and digital games (wrk-playing-with-religion-in-digital-games-campbell-grieve). She directs the "Network for New Media, Religion and Digital Culture Studies", an international research platform connecting scholars working in this emerging field.
+Campbell extended her research project by editing additional collective volumes, among them *Digital Religion: Understanding Religious Practice in New Media Worlds* (2013; a revised second edition, co-edited with Ruth Tsuria, appeared in 2021), which gathered contributions from multiple researchers to map the field of digital religion comprehensively. She also undertook a joint project with Gregory Grieve on religion and digital games (wrk-playing-with-religion-in-digital-games-campbell-grieve). She directs the "Network for New Media, Religion and Digital Culture Studies", an international research platform connecting scholars working in this emerging field.
 
 ## Relation to the Arab-Islamic Heritage
 
@@ -63,6 +63,6 @@ Campbell's work has helped make digital religion an established sub-field of med
 
 - Campbell, Heidi A. *Exploring Religious Community Online: We Are One in the Network*. Peter Lang, 2005.
 - Campbell, Heidi A. *When Religion Meets New Media*. Routledge, 2010.
-- Campbell, Heidi A., ed. *Digital Religion: Understanding Religious Practice in New Media Worlds*. Routledge, 2012.
+- Campbell, Heidi A., ed. *Digital Religion: Understanding Religious Practice in New Media Worlds*. Routledge, 2013.
 - Campbell, Heidi A., ed. *Digital Judaism: Jewish Negotiations with Digital Media and Culture*. Routledge, 2015.
 - Campbell, Heidi A., and Gregory Price Grieve, eds. *Playing with Religion in Digital Games*. Indiana University Press, 2014.

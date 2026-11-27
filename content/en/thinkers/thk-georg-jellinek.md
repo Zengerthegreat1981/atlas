@@ -64,7 +64,7 @@ Jellinek is credited with a major role in separating the general **theory of the
 
 ## Sources
 
-- Jellinek, Georg. *Allgemeine Staatslehre*. 3rd ed., Berlin: Julius Springer, 1914 (1st ed. 1900).
+- Jellinek, Georg. *Allgemeine Staatslehre*. 3rd ed., Berlin: O. Häring, 1914 (1st ed. 1900).
 - Jellinek, Georg. *System der subjektiven öffentlichen Rechte*. Freiburg: Mohr, 1892.
 - Jellinek, Georg. *Verfassungsänderung und Verfassungswandlung*. Berlin: Häring, 1906.
 - Kelsen, Hans. *Der soziologische und der juristische Staatsbegriff*. Tübingen: Mohr, 1922.

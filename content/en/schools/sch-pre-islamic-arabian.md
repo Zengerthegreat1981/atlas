@@ -4,6 +4,7 @@ id: "SCH-13114"
 type: "مدرسة"
 part: arab-thought
 level: "متقدم"
+quality: "unverified"
 title: "Pre-Islamic Arabian Thought (Jāhiliyyah)"
 en: "Pre-Islamic Arabian Thought (Jāhiliyyah)"
 crumb: "Arab Thought ← Schools ← Pre-Islamic Arabian Thought (Jāhiliyyah)"

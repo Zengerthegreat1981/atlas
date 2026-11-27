@@ -4,6 +4,7 @@ id: "ANT-13255"
 type: "مفكر"
 part: anthropology
 level: "متوسط"
+quality: "unverified"
 title: "Abdalla M. Salem"
 en: "Abdalla M. Salem"
 crumb: "Anthropology ← Thinkers ← Abdalla M. Salem"

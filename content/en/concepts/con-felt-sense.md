@@ -34,7 +34,7 @@ Gendlin characterized the felt sense through four essential properties:
 
 Gendlin developed the construct during the 1950s and 1960s while working as a research associate with Carl Rogers at the Counseling Center of the University of Chicago. Investigating why some clients succeeded in client-centered therapy while others remained stagnant despite years of effort, Gendlin and his colleagues examined hundreds of recorded therapy transcripts.
 
-Their findings led to the development of the **Experiencing Scale** (Klein, Mathieu, Gendlin, & Kiesler, 1969), an observational rating scale measuring the degree to which a client references their ongoing, immediate internal experience. The researchers discovered that therapeutic success correlated reliably not with therapist orientation or client intellectual insight, but with the client's spontaneous habit of slowing down, checking inwardly against a vague bodily felt sense, and allowing new meanings to emerge directly from that somatic awareness.
+Their findings led to the development of the **Experiencing Scale** (Klein, Mathieu, Gendlin, & Kiesler, 1969), an observational rating scale measuring the degree to which a client references their ongoing, immediate internal experience. The researchers reported that therapeutic success was linked less to therapist orientation or client intellectual insight than to the client's spontaneous habit of slowing down, checking inwardly against a vague bodily felt sense, and allowing new meanings to emerge directly from that somatic awareness. A later meta-analysis of the Experiencing Scale (Pascual-Leone & Yeryomenko, 2017; 10 studies, 406 clients) found client experiencing to be a small-to-medium predictor of therapy outcome.
 
 ## The Focusing Method
 
@@ -50,11 +50,12 @@ To teach this intuitive experiential skill to clients who did not engage it spon
 
 The felt sense is rooted in Gendlin's broader philosophical treatise, *Experiencing and the Creation of Meaning* (1962), and his later work, *A Process Model* (written in the 1990s, published 2018). In this "Philosophy of the Implicit," Gendlin challenged Cartesian dualism and traditional representational theories of mind, arguing that human experiencing is inherently interactive, bodily, and forward-moving, always containing far more implicit intricacy than existing cultural concepts can capture.
 
-Gendlin's work laid the groundwork for Focusing-Oriented Psychotherapy (FOP) and significantly influenced somatic and trauma-informed therapies. Most notably, Peter Levine's Somatic Experiencing utilizes the tracking of the felt sense to renegotiate autonomic dysregulation, using bodily awareness to release trapped survival energy without overwhelming cognitive retraumatization.
+Gendlin's work laid the groundwork for Focusing-Oriented Psychotherapy (FOP) and significantly influenced somatic and trauma-informed therapies. Most notably, Peter Levine's Somatic Experiencing utilizes the tracking of the felt sense to renegotiate autonomic dysregulation, using bodily awareness with the aim, in Levine's account, of releasing trapped survival energy without overwhelming retraumatization; this explanatory model should not be read as established physiology.
 
 ## Sources
 
 - Eugene T. Gendlin, *Experiencing and the Creation of Meaning: A Philosophical and Psychological Approach to the Subjective*, 1962.
 - Eugene T. Gendlin, *Focusing*, 1978.
 - Eugene T. Gendlin, *Focusing-Oriented Psychotherapy: A Manual of the Experiential Method*, 1996.
+- Antonio Pascual-Leone & Nikita Yeryomenko, "The client 'experiencing' scale as a predictor of treatment outcomes: A meta-analysis on psychotherapy process", *Psychotherapy Research*, 2017. https://doi.org/10.1080/10503307.2016.1152409
 - Marjorie H. Klein, Philippa L. Mathieu, Eugene T. Gendlin, & Donald J. Kiesler, *The Experiencing Scale: A Research and Training Manual*, 1969.

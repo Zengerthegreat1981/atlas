@@ -33,7 +33,7 @@ Subsequent psychologists argued that cognitive abilities possess greater structu
 
 ## Measuring Intelligence
 
-In 1905, Alfred Binet and Théodore Simon designed the first practical intelligence scale in France to identify schoolchildren requiring specialized educational assistance. In 1912, German psychologist William Stern formulated the concept of the "intelligence quotient" (IQ) as the ratio of mental age to chronological age multiplied by 100. Lewis Terman at Stanford University revised and standardized the scale in 1916 as the Stanford-Binet Intelligence Scales.
+In 1905, Alfred Binet and Théodore Simon designed the first practical intelligence scale in France to identify schoolchildren requiring specialized educational assistance. In 1912, German psychologist William Stern proposed expressing performance as a quotient of mental age to chronological age. Lewis Terman at Stanford University revised and standardized the scale in 1916 as the Stanford-Binet, adopting the "intelligence quotient" (IQ), the ratio multiplied by 100.
 
 David Wechsler subsequently designed alternative scales—including the Wechsler Adult Intelligence Scale (WAIS) and Wechsler Intelligence Scale for Children (WISC)—introducing the modern "deviation IQ." Rather than a ratio, deviation IQ is a standardized score based on a normal distribution curve with a population mean of 100 and a standard deviation of 15. Standardized IQ scores reliably predict academic achievement, occupational attainment, and cognitive health outcomes, though they do not measure practical common sense, creativity, or emotional wisdom.
 
@@ -47,7 +47,7 @@ James R. Flynn (1984, 1987) documented that raw scores on standardized intellige
 
 ## Critiques and Alternative Models
 
-- **Multiple Intelligences**: Howard Gardner (1983) proposed that intelligence is modular rather than unitary, positing eight distinct intelligences (including musical, spatial, bodily-kinesthetic, and interpersonal). While influential in pedagogy, the theory faces criticism from psychometricians for lacking rigorous empirical test batteries and for recasting talents as intelligences.
+- **Multiple Intelligences**: Howard Gardner (1983) proposed that intelligence is modular rather than unitary, positing seven distinct intelligences (including musical, spatial, bodily-kinesthetic, and interpersonal) and later adding an eighth, the naturalistic. While influential in pedagogy, the theory faces criticism from psychometricians for lacking rigorous empirical test batteries and for recasting talents as intelligences.
 - **Triarchic Theory**: Robert Sternberg (1985) conceptualized successful intelligence through analytical, creative, and practical subtheories, arguing that standard tests neglect adaptive real-world performance.
 - **Cultural and Test Fairness**: Historically, intelligence testing was occasionally misapplied to support eugenic policies, forced sterilizations, and discriminatory immigration restrictions in the early twentieth century. Modern psychometricians emphasize test bias analysis, measurement invariance, and the confounding role of stereotype threat and socioeconomic disparities in score interpretations.
 

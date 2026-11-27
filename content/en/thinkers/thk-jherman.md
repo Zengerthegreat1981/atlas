@@ -24,7 +24,7 @@ An American psychiatrist and professor at Harvard University, one of the most im
 ## What She Contributed
 
 - **"Trauma and Recovery"** (1992): a landmark book that defines a model of "recovery from trauma" in 3 stages (safety, remembrance and mourning, reconnection).
-- **"Complex Post-Traumatic Stress Disorder"** (Complex PTSD): the concept of a new disorder describing the effects of repeated trauma within attachment relationships.
+- **"Complex Post-Traumatic Stress Disorder"** (Complex PTSD): the concept of a new disorder describing the effects of prolonged, repeated trauma, such as captivity or long-term abuse.
 - **"Father-Daughter Incest"** (1981): pioneering studies in the field of sexual trauma.
 
 ## Her Place in the Current

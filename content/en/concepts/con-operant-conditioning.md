@@ -78,7 +78,7 @@ The timing and pattern of reinforcement critically govern the rate, pattern, and
 
 ## Critiques and Limitations
 
-- **Cognitive Critiques**: Edward Tolman demonstrated *latent learning* in rats navigating mazes without explicit reinforcement, showing that organisms acquire cognitive maps rather than mere stimulus-response chains. In 1959, linguist Noam Chomsky published a landmark review of Skinner's *Verbal Behavior* (1957), arguing that operant conditioning cannot account for the generative syntax, poverty of the stimulus, and rapid acquisition of human language.
+- **Cognitive Critiques**: Edward Tolman demonstrated *latent learning* in rats navigating mazes without explicit reinforcement, showing that organisms acquire cognitive maps rather than mere stimulus-response chains. In 1959, linguist Noam Chomsky published a landmark review of Skinner's *Verbal Behavior* (1957), arguing that operant conditioning cannot account for the generative syntax and rapid acquisition of human language (concerns related to what was later called the poverty of the stimulus).
 - **Biological Constraints on Learning**: Keller and Marian Breland (1961) documented *instinctive drift* in "The Misbehavior of Organisms," demonstrating that innate species-specific evolutionary behaviors frequently override operant conditioning contingencies.
 - **Determinism and Autonomy**: Skinner's radical behaviorist stance (elaborated in *Beyond Freedom and Dignity*, 1971) rejected autonomous agency, attributing all human action to environmental history and genetic endowment, drawing enduring ethical and philosophical debate.
 

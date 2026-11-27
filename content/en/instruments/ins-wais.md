@@ -3,6 +3,7 @@ slug: "ins-wais"
 id: "INS-0086"
 type: "أداة قياس"
 level: "متقدم"
+quality: "unverified"
 title: "Wechsler Adult Intelligence Scale"
 en: "Wechsler Adult Intelligence Scale (WAIS-IV)"
 crumb: "Psychology ← Instruments ← Wechsler Adult Intelligence Scale"
@@ -33,7 +34,7 @@ The fourth edition (WAIS-IV, 2008) comprises 15 subtests divided into 10 core su
 3. **Working Memory Index (WMI)**: Core subtests include Digit Span and Arithmetic; Letter-Number Sequencing is supplemental. Measures the capacity to temporarily hold, manipulate, and mentally process auditory information.
 4. **Processing Speed Index (PSI)**: Core subtests include Symbol Search and Coding; Cancellation is supplemental. Measures mental processing speed, clerical accuracy, and visual-motor coordination under timed conditions.
 
-In addition to the FSIQ, examiners can derive the General Ability Index (GAI), which calculates an overall cognitive estimate based solely on VCI and PRI subtests, minimizing the confounding effects of working memory limitations or motor processing speed deficits. In the American standardization sample of 2,200 individuals, split-half and test-retest reliability for the FSIQ reached approximately 0.98, while reliability coefficients for the four composite indices ranged from 0.90 to 0.96.
+In addition to the FSIQ, examiners can derive the General Ability Index (GAI), which calculates an overall cognitive estimate based solely on VCI and PRI subtests, minimizing the confounding effects of working memory limitations or motor processing speed deficits. In the American standardization sample of 2,200 individuals, split-half (internal consistency) reliability for the FSIQ reached approximately 0.97 to 0.98 and short-term test-retest stability was highest for the FSIQ and Verbal Comprehension, while reliability coefficients for the four composite indices ranged from 0.90 to 0.96.
 
 ## Historical Evolution
 

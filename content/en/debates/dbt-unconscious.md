@@ -4,6 +4,7 @@ id: "DBT-0302"
 type: "جدل"
 part: "philosophy"
 level: ""
+quality: "unverified"
 title: "The Unconscious Question"
 en: "The unconscious question"
 crumb: "Existential School ← Debates ← The Unconscious Question"
@@ -45,4 +46,4 @@ The debate also colours the school's view of its own history. Existential therap
 - Sigmund Freud, *The Interpretation of Dreams*, 1900.
 - Martin Heidegger, *Being and Time*, 1927.
 - Ernesto Spinelli, *Practising Existential Psychotherapy: The Relational World*, 2007.
-- Emmy van Deurzen, *Existential Counselling and Psychotherapy in Practice*, 1988; 3rd ed., 2012.
+- Emmy van Deurzen, *Existential Counselling in Practice*, 1988; later retitled *Existential Counselling and Psychotherapy in Practice*, 2nd ed. 2002, 3rd ed. 2012.

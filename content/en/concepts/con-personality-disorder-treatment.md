@@ -52,4 +52,4 @@ This entry is educational and does not constitute clinical advice.
 - Giesen-Bloo, J., et al. (2006). Outpatient psychotherapy for borderline personality disorder: randomized trial of schema-focused therapy vs transference-focused psychotherapy. *Archives of General Psychiatry*, 63(6), 649-658.
 - Bateman, A., & Fonagy, P. (2008). 8-year follow-up of patients treated for borderline personality disorder: mentalization-based treatment versus treatment as usual. *American Journal of Psychiatry*, 165(5), 631-638.
 - Bateman, A., & Fonagy, P. (2009). Randomized controlled trial of outpatient mentalization-based treatment versus structured clinical management for borderline personality disorder. *American Journal of Psychiatry*, 166(12), 1355-1364.
-- Linehan, M. M., et al. (1991). Cognitive-behavioral treatment of chronic parasuicidal borderline patients. *Archives of General Psychiatry*, 48(12), 1060-1064.
+- Linehan, M. M., et al. (1991). Cognitive-behavioral treatment of chronically parasuicidal borderline patients. *Archives of General Psychiatry*, 48(12), 1060-1064.

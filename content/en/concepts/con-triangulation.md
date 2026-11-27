@@ -36,7 +36,7 @@ In Bowenian family systems theory, triangulation operates through predictable re
 ## Structural and Multi-Generational Perspectives
 
 Salvador Minuchin incorporated triangulation into structural family therapy, identifying specific dysfunctional triad structures:
-- **Rigid Triads and Cross-Generational Coalitions**: A parent forms an covert alliance with a child against the other parent, breaching appropriate generational boundaries and undermining parental authority.
+- **Rigid Triads and Cross-Generational Coalitions**: A parent forms a covert alliance with a child against the other parent, breaching appropriate generational boundaries and undermining parental authority.
 - **Detouring (Scapegoating or Overprotection)**: The parental couple maintains an illusion of harmony by uniting either to protect a "sick" child or to control a "problem" child, effectively masking marital conflict.
 
 Bowen also emphasized the multigenerational transmission of triangular patterns: individuals who exit highly triangulated family systems with low levels of differentiation tend to select partners with comparable differentiation, recreating similar triangular configurations in subsequent generations.

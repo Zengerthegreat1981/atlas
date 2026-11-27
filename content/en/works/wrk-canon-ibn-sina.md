@@ -4,6 +4,7 @@ id: "WRK-13198"
 type: "عمل / كتاب"
 part: arab-thought
 level: "متقدم"
+quality: "unverified"
 title: "Al-Qanun fi al-Tibb (The Canon of Medicine)"
 en: "Al-Qanun fi al-Tibb (The Canon of Medicine)"
 crumb: "Arab Thought ← Works ← Al-Qanun fi al-Tibb (The Canon of Medicine)"

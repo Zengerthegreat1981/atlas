@@ -48,7 +48,7 @@ Clinical clarity requires distinguishing despair from neighboring constructs:
 
 ## Despair and Grounded Hope
 
-Existential writers emphasize that mature hope is not the denial of despair, but the capacity to engage life courageously despite despair. In *Man's Search for Meaning*, Viktor Frankl described the "tragic optimism" required to maintain hope in the face of suffering, guilt, and death. Similarly, Rollo May (*The Courage to Create*, 1975) characterized authentic courage not as the absence of despair, but as the capacity to commit to values and creative action in the full awareness of human fragility and finitude.
+Existential writers emphasize that mature hope is not the denial of despair, but the capacity to engage life courageously despite despair. In a postscript added to the 1984 edition of *Man's Search for Meaning*, Viktor Frankl described the "tragic optimism" required to maintain hope in the face of suffering, guilt, and death. Similarly, Rollo May (*The Courage to Create*, 1975) characterized authentic courage not as the absence of despair, but as the capacity to commit to values and creative action in the full awareness of human fragility and finitude.
 
 ## Related Concepts
 

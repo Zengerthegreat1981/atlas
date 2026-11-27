@@ -48,7 +48,7 @@ Maslow identified **peak experiences** as transient, intensely joyful states of 
 ## Empirical Scrutiny and Critique
 
 While Maslow's theory achieved enormous influence across management, education, and positive psychology, it has faced notable scholarly critiques:
-- **Hierarchical Rigidity**: Cross-cultural research (such as global surveys by Tay and Diener, 2011) indicates that human needs can be pursued simultaneously rather than strictly consecutively; individuals in conditions of severe poverty or political danger frequently pursue social belonging, self-worth, and creative expression. Maslow himself acknowledged that the order of needs was not absolute or impermeable.
+- **Hierarchical Rigidity**: Cross-cultural research (such as global surveys by Tay and Diener, 2011) indicates that each need's association with subjective well-being is largely independent of whether other needs are met; people whose basic or safety needs are unmet can still benefit from fulfilling social and respect needs, so needs need not be satisfied in a strict sequence. Maslow himself acknowledged that the order of needs was not absolute or impermeable.
 - **Methodological Limitations**: Maslow's original criteria for identifying self-actualizing individuals relied on biographical case studies of historical figures and acquaintances, leading critics to argue that his descriptions reflected subjective cultural ideals.
 
 ## Legacy and Successor Currents
@@ -58,7 +58,7 @@ Maslow's work was foundational to establishing humanistic psychology as the "Thi
 ## Sources
 
 - Maslow, A. H. (1943). A theory of human motivation. *Psychological Review*, 50(4), 370–396.
-- Maslow, A. H. (1954). *Motivation and Personality*. Harper & Row.
+- Maslow, A. H. (1954). *Motivation and Personality*. Harper & Brothers.
 - Maslow, A. H. (1962). *Toward a Psychology of Being*. D. Van Nostrand.
 - Maslow, A. H. (1971). *The Farther Reaches of Human Nature*. Viking Press.
 - Tay, L., & Diener, E. (2011). Needs and subjective well-being around the world. *Journal of Personality and Social Psychology*, 101(2), 354–365.

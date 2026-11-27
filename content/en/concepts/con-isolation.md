@@ -4,6 +4,7 @@ id: "CON-0404"
 type: "مفهوم"
 part: philosophy
 level: "متوسط"
+quality: "unverified"
 title: "Isolation"
 en: "Isolation"
 crumb: "Existentialist School ← Concepts ← Isolation"
@@ -25,7 +26,7 @@ There are three kinds that must be separated before anything else is said: perso
 
 ## The Core Disputes Within the Concept
 
-An explicit rivalry: Sartre against Buber. Is genuine encounter possible, or is relationship a structural conflict? The answer determines what the therapist does: if encounter is possible, the therapeutic relationship is the tool; if it is not, it is at best a temporary relief.
+A clear opposition: Sartre against Buber. Is genuine encounter possible, or is relationship a structural conflict? The answer determines what the therapist does: if encounter is possible, the therapeutic relationship is the tool; if it is not, it is at best a temporary relief.
 
 ## Primary-Text Formulations
 
@@ -34,7 +35,7 @@ Primary existential literature articulates several distinct ontological and clin
 - **Søren Kierkegaard** (*Fear and Trembling*, 1843; *The Sickness unto Death*, 1849): depicts the single individual (*hiin Enkelte*) standing in solitary, unmediated responsibility before the Absolute, beyond the universal ethical norms of the collective.
 - **Martin Heidegger** (*Being and Time*, 1927, §§40, 53): describes how fundamental anxiety (*Angst*) isolates (*vereinzelt*) Dasein from its comforting immersion in the everyday conventions of "the They" (*das Man*), forcing the individual to confront their authentic Being-in-the-world.
 - **Jean-Paul Sartre** (*Being and Nothingness*, 1943, Part III, Ch. 1): portrays human relationships as structurally conflicted. The gaze of the Other (*le regard*) objectifies consciousness, transforming subjectivity into an object for another; true union between two conscious subjects is ontologically impossible.
-- **Martin Buber** (*I and Thou*, 1923): mounts a direct theological and relational challenge to Sartrean isolation. Buber posits the dialogical *I-Thou* (*Ich-Du*) encounter as an authentic meeting in the realm of the "between" (*das Zwischen*), where isolation is transcended through mutual presence without absorption.
+- **Martin Buber** (*I and Thou*, 1923): offers a theological and relational counterpoint that predates Sartre's account. Buber posits the dialogical *I-Thou* (*Ich-Du*) encounter as an authentic meeting in the realm of the "between" (*das Zwischen*), where isolation is transcended through mutual presence without absorption.
 - **Irvin D. Yalom** (*Existential Psychotherapy*, 1980, Part III): categorizes existential isolation as the third ultimate concern. It represents an unbridgeable gulf between the individual and the world that remains even in the most intimate relationship; Yalom analyzes pathological defenses against it, especially compulsive "fusion" (dissolving one's boundaries in another) and compulsive relating.
 - **Clark Moustakas** (*Loneliness*, 1961): provides an existential-humanistic analysis distinguishing defensive, anxious loneliness from existential loneliness, which he characterizes as an unavoidable and creatively vital condition of individual self-discovery.
 
@@ -70,8 +71,8 @@ Arabic terms for loneliness and withdrawal may not distinguish existential isola
 |---|---|---|---|
 | Kierkegaard | The individual alone before the Absolute. No one can stand in for you in your relation to what is greater than you. | Being alone is read as a site of choice, not as a social deficiency. | A theological framework that was lost in the secular transfer. |
 | Heidegger | Death individuates me: no one can stand in for me in it. And anxiety isolates me from the familiarity of "the they," so that my existence appears as existence. | Isolation here is revealing, not only painful: a moment in which the person sees himself. | Ontological, and does not translate into intervention. |
-| Sartre | Relationship is structural conflict: the gaze of the other turns me into an object. There is no complete meeting between two consciousnesses. | Hard to build on therapeutically, which is why Sartre is used selectively here. | The most pessimistic formulation, and Buber opposes it directly. |
-| Martin Buber | Against Sartre: genuine encounter exists. In the moment of "I-Thou," something happens between us that does not fall inside either of us. | The therapeutic relationship itself becomes the remedy, not a vessel for it. | The clearest rivalry within this concept: Sartre says there is no encounter, and Buber says encounter is possible and rare. |
+| Sartre | Relationship is structural conflict: the gaze of the other turns me into an object. There is no complete meeting between two consciousnesses. | Hard to build on therapeutically, which is why Sartre is used selectively here. | The most pessimistic formulation, and it stands in direct contrast with Buber. |
+| Martin Buber | In contrast to Sartre: genuine encounter exists. In the moment of "I-Thou," something happens between us that does not fall inside either of us. | The therapeutic relationship itself becomes the remedy, not a vessel for it. | The clearest rivalry within this concept: Sartre says there is no encounter, and Buber says encounter is possible and rare. |
 | Yalom | Existential isolation is a gulf that cannot be abolished. And the common defense against it is fusion: that one dissolves into a relationship in order to stop being separate. | Watching for relationships used as anesthesia: total merging, and being unable to bear solitude for a minute. | Practically combines Buber and Sartre: the gulf exists, and encounter eases it but does not abolish it. |
 | Clark Moustakas | Loneliness is not an enemy. It has a creative face, and whoever always flees from it loses what is given only within it. | Distinguishing between a solitude that is fled from and a solitude that is inhabited, which is a skill that can be learned. | The least famous of the voices and the most practically useful in this area. |
 | Van Deurzen | Isolation is examined in the social dimension: is it structural, or the result of a poverty of relationships, or the result of actual exclusion? | Prevents reading an isolation caused by poverty, migration, or discrimination as "existential isolation." | The most important safeguard against misuse of the concept. |
@@ -84,4 +85,4 @@ Arabic terms for loneliness and withdrawal may not distinguish existential isola
 - Martin Buber, *I and Thou* (*Ich und Du*, 1923), trans. Walter Kaufmann, Charles Scribner's Sons, 1970.
 - Clark Moustakas, *Loneliness*, Prentice-Hall, 1961.
 - Irvin D. Yalom, *Existential Psychotherapy*, Basic Books, 1980.
-- Emmy van Deurzen, *Existential Counselling and Psychotherapy in Practice*, Sage, 1998.
+- Emmy van Deurzen, *Existential Counselling and Psychotherapy in Practice*, 2nd edn, Sage, 2002.

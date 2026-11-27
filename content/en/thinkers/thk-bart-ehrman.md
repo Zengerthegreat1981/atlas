@@ -23,7 +23,7 @@ gaps: []
 
 # Bart D. Ehrman
 
-American scholar of New Testament and early Christian studies, James A. Gray Distinguished Professor of Religious Studies at the University of North Carolina at Chapel Hill, and a widely read author of books on the New Testament for a general readership. He was a student of Bruce Metzger, one of the foremost figures in New Testament textual criticism in the twentieth century, and later co-authored with him the fourth edition of *The Text of the New Testament* (2005), a standard reference work in the field.
+American scholar of New Testament and early Christian studies, James A. Gray Distinguished Professor Emeritus of Religious Studies at the University of North Carolina at Chapel Hill (he taught there from 1988 until retiring in 2025), and a widely read author of books on the New Testament for a general readership. He was a student of Bruce Metzger, one of the foremost figures in New Testament textual criticism in the twentieth century, and later co-authored with him the fourth edition of *The Text of the New Testament* (2005), a standard reference work in the field.
 
 ## Definition
 

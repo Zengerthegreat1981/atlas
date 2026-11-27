@@ -65,7 +65,7 @@ Shapiro proposes that traumatic memories are stored in an "unprocessed" state in
 
 ### Supporters' reply
 - **Shapiro and colleagues** replied that dismantling studies were inadequate tests of the model.
-- **Lee & Cuijpers (2013)**: a meta-analysis of experimental studies concluded that adding eye movements contributed to reducing the vividness and emotionality of memories, although this remains debated.
+- **Lee & Cuijpers (2013)**: a meta-analysis of treatment trials and laboratory studies concluded that adding eye movements contributed to reducing the vividness and emotionality of memories, although this remains debated.
 
 ## Applications
 
@@ -77,7 +77,7 @@ Shapiro proposes that traumatic memories are stored in an "unprocessed" state in
 
 ## Empirical impact and methodological controversy
 
-The Cochrane review (Bisson & Andrew, 2007) found EMDR and trauma-focused CBT, including prolonged exposure, to be effective for PTSD symptoms, with no clear difference between them. The most prominent controversy concerns the eye movement itself: studies such as Davidson and Parker (2001), in a meta-analysis, doubted that the movement adds a therapeutic effect beyond imaginal exposure and general bilateral stimulation, whereas Shapiro and her supporters hold that the neural processing mechanism is broader than mere exposure.
+The Cochrane review (Bisson & Andrew, 2007) found EMDR and trauma-focused CBT, including prolonged exposure, to be effective for PTSD symptoms, with no clear difference between them. The most prominent controversy concerns the eye movement itself: studies such as Davidson and Parker (2001), in a meta-analysis, found no significant incremental effect of the eye movements and no significant advantage of EMDR over other exposure techniques, whereas Shapiro and her supporters hold that the neural processing mechanism is broader than mere exposure.
 
 ## Sources
 

@@ -28,7 +28,7 @@ Mindfulness is the psychological state and practice of intentionally maintaining
 
 ## Operational Definition and Core Dimensions
 
-Jon Kabat-Zinn (1994) operationally defined mindfulness as "the awareness that arises through paying attention on purpose, in the present moment, and non-judgmentally." Psychometric and cognitive formulations identify several distinct operational facets:
+Jon Kabat-Zinn (1994) described mindfulness as a particular way of paying attention: purposeful, anchored in the present moment, and non-judgmental. His later operational definition (2003) frames it as the awareness that emerges from such attention. Psychometric and cognitive formulations identify several distinct operational facets:
 1. **Present-Moment Attention**: Deliberately anchoring attention to immediate internal and external events rather than drifting into past recollections or future anticipations.
 2. **Non-Judgmental Stance**: Refraining from evaluating sensations or thoughts as good or bad, desirable or intolerable.
 3. **Openness and Acceptance**: Allowing experiences to occur without avoidance, suppression, or compulsive striving to alter them.
@@ -38,7 +38,7 @@ Jon Kabat-Zinn (1994) operationally defined mindfulness as "the awareness that a
 
 A crucial distinction in cognitive clinical science concerns the difference between mindfulness and self-reflection. In cognitive psychology, self-focused attention is not a unitary phenomenon; researchers distinguish between two distinct modes of self-attention (Trapnell & Campbell, 1999; Watkins & Teasdale, 2001, 2004):
 - **Analytical, Evaluative Self-Reflection ("Thinking About")**: Involves abstract, conceptual, and teleological self-focus. When facing distress, individuals engage in analytical rumination, asking questions such as: "Why do I feel this way?", "What is wrong with my character?", and "What are the consequences of this failure?" In individuals vulnerable to depression, evaluative self-reflection activates depressive self-schemas, impairs problem-solving, and exacerbates emotional suffering.
-- **Experiential Mindful Awareness ("Direct Experiencing")**: Involves direct, concrete, sensory-perceptual monitoring of immediate present experience. Instead of constructing an evaluative narrative about the emotion, the individual attends to the bodily sensations, somatic feelings, and fleeting thoughts as they unfold from moment to moment. Experimental investigations (Watkins & Teasdale, 2004) demonstrate that experiential mindful self-focus rapidly interrupts depressive rumination and reduces overgeneral memory retrieval.
+- **Experiential Mindful Awareness ("Direct Experiencing")**: Involves direct, concrete, sensory-perceptual monitoring of immediate present experience. Instead of constructing an evaluative narrative about the emotion, the individual attends to the bodily sensations, somatic feelings, and fleeting thoughts as they unfold from moment to moment. In a small experimental study of depressed patients (Watkins & Teasdale, 2004), a brief experiential self-focus induction reduced overgeneral memory retrieval compared with analytical self-focus, although the two did not differ in their effects on mood.
 
 ## The Distinction between Mindfulness, Meditation, and Concentration
 

@@ -32,7 +32,7 @@ Patients with schizophrenia do not respond uniformly to drug treatment. The clin
 
 ## Predictors of Response
 
-Clinical research has identified several factors associated with a better response, though none predicts outcome reliably in an individual patient. These include a shorter interval between the onset of psychosis and the start of treatment (duration of untreated psychosis), less severe negative symptoms at the outset, better premorbid functioning, and early improvement in the first weeks of treatment. Prominent negative and cognitive symptoms, earlier illness onset, and a longer duration of untreated psychosis are associated with a weaker response. Cigarette smoking does not itself worsen psychosis but induces the liver enzyme CYP1A2 and lowers blood levels of some drugs, notably clozapine and olanzapine.
+Clinical research has identified several factors associated with a better response, though none predicts outcome reliably in an individual patient. These include a shorter interval between the onset of psychosis and the start of treatment (duration of untreated psychosis), less severe negative symptoms at the outset, better premorbid functioning, and early improvement in the first weeks of treatment. Prominent negative and cognitive symptoms, earlier illness onset, and a longer duration of untreated psychosis are associated with a weaker response. Cigarette smoking induces the liver enzyme CYP1A2 and lowers blood levels of some drugs, notably clozapine and olanzapine. Pooled comparisons have also reported more severe positive symptoms in smokers than in non-smokers, although individual studies are mixed and the association does not by itself establish cause.
 
 ## Clinical Significance
 

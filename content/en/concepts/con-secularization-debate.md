@@ -23,7 +23,7 @@ Secularism in Arab thought is a continuing debate about the relationship between
 
 ## The Caliphate and Ali Abd al-Raziq
 
-Mustafa Kemal abolished the Ottoman caliphate in March 1924, and the question grew heated: is the caliphate obligatory under the Sharia? The Azhari scholar **Ali Abd al-Raziq** (1888–1966) issued his book *al-Islam wa-usul al-hukm* (Islam and the Foundations of Government, 1925), arguing that the caliphate is not a religious foundation, and that the Prophet was a messenger, not a king. The Azhar sheikhs convened a disciplinary council in August 1925, expelled him from the body of senior scholars, and removed him from the Sharia judiciary. Rashid Rida and Muhammad al-Khidr Husayn, among others, replied. The book has remained a reference point in later debates. Albert Hourani, in *Arabic Thought in the Liberal Age*, treated it as a central text of the Egyptian liberal trend.
+Mustafa Kemal abolished the Ottoman caliphate in March 1924, and the question grew heated: is the caliphate obligatory under the Sharia? The Azhari scholar **Ali Abd al-Raziq** (1888–1966) issued his book *al-Islam wa-usul al-hukm* (Islam and the Foundations of Government, 1925), arguing that the caliphate is not a religious foundation, and that the Prophet was a messenger, not a king. The Azhar's Council of Senior Scholars, sitting as a disciplinary body in August 1925, expelled him from the ranks of the ulama, and he was then removed from the Sharia judiciary. Rashid Rida and Muhammad al-Khidr Husayn, among others, replied. The book has remained a reference point in later debates. Albert Hourani, in *Arabic Thought in the Liberal Age*, treated it as a central text of the Egyptian liberal trend.
 
 ## Islamists and Their Defenders
 

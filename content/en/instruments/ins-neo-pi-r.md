@@ -3,6 +3,7 @@ slug: "ins-neo-pi-r"
 id: "INS-0056"
 type: "أداة قياس"
 level: "متقدم"
+quality: "unverified"
 title: "The Revised NEO Personality Inventory"
 en: "Revised NEO Personality Inventory (NEO-PI-R / NEO-PI-3)"
 crumb: "Psychology ← Instruments ← Revised NEO Personality Inventory"
@@ -28,7 +29,7 @@ The Revised NEO Personality Inventory (NEO-PI-R) is a 240-item self-report quest
 
 The inventory evolved through several successive editions:
 - **NEO-PI (1985)**: The initial version measured only three domains: Neuroticism (N), Extraversion (E), and Openness to Experience (O), with six facets each, while Agreeableness and Conscientiousness were assessed only at the global domain level without facets.
-- **NEO-PI-R (1992)**: The fully developed revised version added six dedicated facets for Agreeableness and Conscientiousness, creating the standard 240-item taxonomy (30 facets × 8 items). A companion 60-item short form, the NEO Five-Factor Inventory (NEO-FFI), was published simultaneously for rapid domain-level screening.
+- **NEO-PI-R (1992)**: The fully developed revised version added six dedicated facets for Agreeableness and Conscientiousness, creating the standard 240-item taxonomy (30 facets × 8 items). A companion 60-item short form, the NEO Five-Factor Inventory (NEO-FFI), first appeared in 1989 and was carried into the revised manual for rapid domain-level assessment.
 - **NEO-PI-3 (2005)**: McCrae, Costa, and Thomas Martin revised 37 items to replace archaic or psychometrically complex expressions, lowering the readability threshold to make the instrument suitable for younger adolescents (aged 12 and older) and adults with lower educational attainment.
 
 ## Five-Factor Taxonomy and Facets

@@ -23,7 +23,7 @@ Reliability and validity are the two basic quality criteria of psychological mea
 A measure is reliable to the extent that it is free from random error. Classical test theory expresses this by treating an observed score as a true score plus error; reliability is the proportion of score variance attributable to true differences between people. Several kinds are distinguished:
 
 - **Test-retest reliability** is the correlation between scores from the same people on two occasions. It assumes the trait itself is stable over the interval.
-- **Internal consistency** asks whether the items of a scale measure the same underlying construct. It has traditionally been summarised by Cronbach's alpha ($\alpha$, 1951) or split-half methods; contemporary psychometrics increasingly recommends McDonald's omega ($\omega$, 1999) because alpha assumes tau-equivalence (equal factor loadings across items), an assumption frequently violated in practice.
+- **Internal consistency** asks whether the items of a scale measure the same underlying construct. It has traditionally been summarised by Cronbach's alpha ($\alpha$, 1951) or split-half methods; contemporary psychometrics increasingly recommends McDonald's omega ($\omega$; see McDonald, 1999) because alpha assumes tau-equivalence (equal factor loadings across items), an assumption frequently violated in practice.
 - **Inter-rater reliability** is the agreement between independent observers or coders, often summarised by Cohen's kappa for categorical judgements or by intraclass correlations.
 - **Parallel-forms reliability** compares two equivalent versions of a test.
 
@@ -63,3 +63,4 @@ Clinical diagnosis, educational selection, hiring and research all depend on sco
 - Samuel Messick, "Validity", in *Educational Measurement*, 3rd edition (1989)
 - Denny Borsboom, Gideon Mellenbergh and Jaap van Heerden, "The concept of validity", *Psychological Review* (2004)
 - Jum Nunnally and Ira Bernstein, *Psychometric Theory* (1994)
+- Roderick McDonald, *Test Theory: A Unified Treatment* (1999)

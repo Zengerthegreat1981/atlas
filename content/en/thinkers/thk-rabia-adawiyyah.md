@@ -4,6 +4,7 @@ id: "THK-13170"
 type: "مفكر"
 part: arab-thought
 level: "متقدم"
+quality: "unverified"
 title: "Rabi'a al-'Adawiyyah"
 en: "Rabi'a al-'Adawiyyah"
 crumb: "Arab Thought ← Thinkers ← Rabi'a al-'Adawiyyah"
@@ -46,9 +47,9 @@ Rabi'a left no written text, and most of the poetry attributed to her was preser
 ## Sources
 
 - Abu Talib al-Makki, *Qut al-Qulub fi Mu'amalat al-Mahbub* (*Nourishment of Hearts in the Treatment of the Beloved*). Cairo: al-Matba'a al-Maymaniyya, 1310 AH / 1893 CE.
-- Ibn al-Jawzi, *Sifat al-Safwa*, ed. Mahmud Fakhuri. Aleppo: Dar al-Wa'y, 1969–1970.
+- Ibn al-Jawzi, *Sifat al-Safwa*, ed. Mahmud Fakhuri. Aleppo: Dar al-Wa'y, 1969–1973.
 - Smith, Margaret. *Rabi'a the Mystic and Her Fellow-Saints in Islam*. Cambridge: Cambridge University Press, 1928.
 - Cornell, Rkia E. *Early Sufi Women: Dhikr an-niswa al-mutaʿabbidat as-sufiyyat by Abu ʿAbd al-Rahman al-Sulami*. Louisville: Fons Vitae, 1999.
 - Schimmel, Annemarie. *Mystical Dimensions of Islam*. Chapel Hill: University of North Carolina Press, 1975.
 - al-Jahiz. *al-Hayawan*. Edited by Abd al-Salam Muhammad Harun. Cairo: Mustafa al-Babi al-Halabi, 1938–1945.
-- al-Jahiz. *al-Bayan wa-l-Tabyin*. Edited by Abd al-Salam Muhammad Harun. Cairo: Maktabat al-Khanji, 1948–1950.
+- al-Jahiz. *al-Bayan wa-l-Tabyin*. Edited by Abd al-Salam Muhammad Harun. Cairo: Lajnat al-Ta'lif wa-l-Tarjama wa-l-Nashr, 1948–1950.

@@ -27,7 +27,7 @@ gaps: []
 
 ## The Classical Classification (Ainsworth)
 
-**Mary Ainsworth** and colleagues identified three primary infant patterns using the standardized "Strange Situation" laboratory procedure (Ainsworth & Bell, 1970; Ainsworth et al., 1978). The percentages below represent approximate normative baselines derived largely from North American, non-clinical cohorts, which exhibit meaningful cross-cultural variation:
+**Mary Ainsworth** and colleagues identified three primary infant patterns using the standardized "Strange Situation" laboratory procedure (Ainsworth & Bell, 1970; Ainsworth et al., 1978). The percentages below represent approximate normative baselines derived largely from North American, non-clinical cohorts, which exhibit meaningful cross-cultural variation. The figures for the first three patterns reflect three-category coding; when the disorganized category is also coded, the normative distribution is about 62% secure, 15% avoidant, 9% resistant and 15% disorganized (van IJzendoorn et al., 1999):
 
 ### 1. Secure Attachment
 - **Trust** in caregiver availability and responsiveness.
@@ -54,7 +54,7 @@ A fourth infant pattern was identified and validated by Mary Main and Judith Sol
 - **Absence of a coherent strategy**: contradictory behaviors (e.g., approaching with head averted, freezing, stereotypic movements).
 - **Apparent fear** or apprehension directed at the caregiver, placing the child in a biological paradox where the source of fear is also the designated haven of safety.
 - **Etiology**: strongly associated with caregiver fright, frightening behavior, severe neglect, maltreatment, or unresolved parental trauma.
-- **Prevalence**: roughly 15% in low-risk cohorts, rising substantially (to roughly half or more) in maltreated and other high-risk populations.
+- **Prevalence**: roughly 15% in low-risk cohorts, rising to roughly half in maltreated samples (about 48%), with smaller elevations in several other high-risk groups, such as low-income families (about 25%).
 
 ## Adult Romantic Attachment (Hazan & Shaver, 1987)
 
@@ -95,7 +95,7 @@ Subsequent psychometric research (Brennan, Clark, & Shaver, 1998; Fraley & Walle
 
 ## Stability and "Earned" Security
 
-Attachment styles show moderate longitudinal stability across life transitions, but internal working models remain open to revision. Research in developmental and relational psychology identifies the phenomenon of **"earned security"** (Main & Goldwyn, 1998): individuals who experienced adverse or insecure caregiving in childhood achieve secure adult attachment working models through coherent cognitive processing, reparative adult relationships, or sustained psychological therapy.
+Attachment styles show moderate longitudinal stability across life transitions, but internal working models remain open to revision. Research in developmental and relational psychology identifies the phenomenon of **"earned security"** (a label used by Pearson and colleagues, 1994, building on Main and Goldwyn's Adult Attachment Interview coding system): individuals who experienced adverse or insecure caregiving in childhood achieve secure adult attachment working models through coherent cognitive processing, reparative adult relationships, or sustained psychological therapy.
 
 ## Clinical Applications
 
@@ -119,4 +119,5 @@ Attachment styles show moderate longitudinal stability across life transitions, 
 - Fraley, R. C., & Waller, N. G. (1998). Adult attachment patterns: A test of the typological model. In J. A. Simpson & W. S. Rholes (Eds.), *Attachment Theory and Close Relationships* (pp. 77–114). Guilford Press.
 - Hazan, C., & Shaver, P. (1987). Romantic love conceptualized as an attachment process. *Journal of Personality and Social Psychology*, 52(3), 511–524.
 - Johnson, S. M. (2004). *The Practice of Emotionally Focused Couple Therapy: Creating Connection* (2nd ed.). Brunner-Routledge.
+- Pearson, J. L., Cohn, D. A., Cowan, P. A., & Cowan, C. P. (1994). Earned- and continuous-security in adult attachment: Relation to depressive symptomatology and parenting style. *Development and Psychopathology*, 6(2), 359–373.
 - Main, M., & Solomon, J. (1986). Discovery of an insecure-disorganized/disoriented attachment pattern. In T. B. Brazelton & M. W. Yogman (Eds.), *Affective Development in Infancy* (pp. 95–124). Ablex Publishing.

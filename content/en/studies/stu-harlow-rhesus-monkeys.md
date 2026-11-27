@@ -28,7 +28,7 @@ Famous experimental studies on infant rhesus monkeys separated from their mother
 
 ## Context and Experimental Design
 
-Harlow isolated newborn rhesus monkeys and placed them in cages with two models of artificial surrogate mothers: a mother made of coarse iron wire with a milk bottle attached for feeding, and another mother made of wood and covered with soft, warm cotton cloth but without milk. The hours the monkey spent with each mother were measured, along with its behavior when a frightening robot toy was introduced into the cage.
+Harlow isolated newborn rhesus monkeys and placed them in cages with two models of artificial surrogate mothers: a mother made of coarse iron wire with a milk bottle attached for feeding, and another mother made of wood and covered with soft, warm cotton cloth but without milk. In the 1958 experiment the feeding was counterbalanced: four infants received milk from the wire mother and four from the cloth mother. The hours the monkey spent with each mother were measured, along with its behavior when a frightening robot toy was introduced into the cage.
 
 ## Results and Conclusions
 

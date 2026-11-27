@@ -4,6 +4,7 @@ id: "CON-0406"
 type: "مفهوم"
 part: psychology
 level: "مبتدئ"
+quality: "unverified"
 title: "Anxiety (Existentialist School View)"
 en: "Anxiety (Existentialist School View)"
 crumb: "Psychology ← Concepts ← Anxiety (Existentialist School View)"

@@ -7,12 +7,12 @@ level: "متقدم"
 title: "Richard A. Posner"
 en: "Richard A. Posner"
 crumb: "Legal Theory ← Thinkers ← Richard A. Posner"
-dates: "New York, Chicago · born 1939"
+dates: "New York, Chicago · 1939–2026"
 country: "United States"
 language: "English"
 legal_tradition: "Law and economics"
 active_start: 1973
-active_end: "مستمر"
+active_end: 2026
 edges:
 - rel: "belongs_to", target: "Law and Economics", target_type: "مدرسة"
 related:
@@ -23,7 +23,7 @@ gaps: []
 ---
 # Richard A. Posner
 
-An American judge and jurist (born 1939), who served on the U.S. Court of Appeals for the Seventh Circuit from 1981 until 2017, and a leading theorist of the **economic analysis of law**, building on the work of **Ronald Coase**.
+An American judge and jurist (1939–2026), who served on the U.S. Court of Appeals for the Seventh Circuit from 1981 until 2017, and a leading theorist of the **economic analysis of law**, building on the work of **Ronald Coase**.
 
 ## "Economic Analysis of Law" (1973): Efficiency as a Comprehensive Standard
 
@@ -31,7 +31,7 @@ In his landmark book *Economic Analysis of Law* (first published in 1973; the ni
 
 ## The Thesis of "Evolutionary Efficiency" in the Common Law
 
-Posner advances a descriptive thesis that has provoked controversy: that the system of judicial precedent in the common law tends historically, without conscious central planning by the judges themselves, toward **economically more efficient rules** over time. On one influential explanation (developed by Posner and by Paul Rubin and George Priest), this is because parties harmed by inefficient rules are more inclined to litigate and challenge them than parties who benefit from rules that are already efficient, so inefficient rules tend to erode gradually through accumulated precedents.
+Posner advances a descriptive thesis that has provoked controversy: that the system of judicial precedent in the common law tends historically, without conscious central planning by the judges themselves, toward **economically more efficient rules** over time. Posner's own account emphasised judges' preference for efficient rules. On another influential explanation (developed by Paul Rubin and George Priest in 1977), this is because parties harmed by inefficient rules are more inclined to litigate and challenge them than parties who benefit from rules that are already efficient, so inefficient rules tend to erode gradually through accumulated precedents.
 
 ## Criticism
 
@@ -47,7 +47,7 @@ Posner's thought underwent a notable evolution over his career. Whereas his earl
 
 ## Legacy and Influence
 
-Despite criticism, Posner remains one of the most influential and prolific American jurists of recent decades. Together with Coase and Calabresi he helped establish law and economics as an academic field, and his book *Economic Analysis of Law* became a widely used textbook. He also founded the *Journal of Legal Studies* (1972), a leading academic platform for the field, and was a senior lecturer and professor at the University of Chicago Law School before his appointment to the bench.
+Despite criticism, Posner is regarded as one of the most influential and prolific American jurists of recent decades. Together with Coase and Calabresi he helped establish law and economics as an academic field, and his book *Economic Analysis of Law* became a widely used textbook. He also founded the *Journal of Legal Studies* (1972), a leading academic platform for the field, and was a professor at the University of Chicago Law School from 1969 until his appointment to the bench in 1981, after which he continued there as a senior lecturer.
 
 ## Antitrust Law as a Model Field of Application
 

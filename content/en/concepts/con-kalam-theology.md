@@ -52,6 +52,6 @@ With **Abu Hamid al-Ghazali** (d. 505 AH / 1111 CE), in *Tahafut al-Falasifa* (T
 
 - Al-Ash'ari, Abu al-Hasan. *Maqalat al-Islamiyyin wa-Ikhtilaf al-Musallin*. Edited by Helmut Ritter. Istanbul: Staatsdruckerei, 1929–1933.
 - Frank, Richard M. *Philosophy, Theology and Mysticism in Medieval Islam: Texts and Studies on the Development and History of Kalam*. Aldershot: Ashgate, 2005.
-- Van Ess, Josef. *Theology and Society in the Second and Third Centuries of the Hijra*. Vols. 1–6. Translated by John O'Kane. Leiden: Brill, 2017–2020.
+- Van Ess, Josef. *Theology and Society in the Second and Third Centuries of the Hijra*. Vols. 1–5. Translated by John O'Kane (vol. 1), Gwendolin Goldbloom (vols. 2–4), and Renee Otto (vol. 5, Bibliography and Indices). Leiden: Brill, 2017–2020.
 - Winter, Tim, ed. *The Cambridge Companion to Classical Islamic Theology*. Cambridge: Cambridge University Press, 2008.
 - Wolfson, Harry Austryn. *The Philosophy of the Kalam*. Cambridge, MA: Harvard University Press, 1976.

@@ -38,8 +38,8 @@ In *Mindset: The New Psychology of Success* (2006), Dweck articulated the transf
 Dweck's framework originated in experimental work in the 1970s examining why children of equal intellectual ability responded radically differently to failure. While some children displayed "learned helplessness" (attributing failure to fixed incompetence and deteriorating in performance), others displayed a "mastery-oriented" response, remaining engaged and viewing difficulty as an informative challenge.
 
 In seminal experiments with Claudia Mueller (1998), Dweck demonstrated the powerful impact of subtle variations in praise:
-- Children praised for their **intelligence** ("You must be smart at this") were pushed into a fixed mindset: they subsequently avoided challenging tasks, displayed diminished persistence after failure, and misreported their actual test scores to peers.
-- Children praised for their **effort and process** ("You worked hard at these problems") developed a growth mindset: they embraced difficult challenges, sustained resilience after setbacks, and showed improved performance.
+- Children praised for their **intelligence** ("You must be smart at these problems") were pushed into a fixed mindset: they subsequently avoided challenging tasks, displayed diminished persistence after failure, and misreported their actual test scores to peers.
+- Children praised for their **effort and process** ("You must have worked hard at these problems") developed a growth mindset: they embraced difficult challenges, sustained resilience after setbacks, and showed improved performance.
 
 ### Educational Applications: The Power of "Not Yet"
 
@@ -49,7 +49,7 @@ Dweck introduced the pedagogical concept of "Not Yet" to reframe academic evalua
 
 Dweck's framework has generated extensive debate and scrutiny within contemporary educational psychology:
 - **Replication Challenges and Effect Sizes**: Large-scale randomized evaluations have reported more modest effects than early laboratory experiments suggested. A major trial in English schools (Foliano et al., 2019) with approximately 5,000 pupils found negligible effects of universal growth-mindset interventions on standardized academic attainment. Meta-analyses, such as Sisk and colleagues (2018), concluded that overall effects on academic achievement are weak.
-- **Targeted versus Universal Impact**: The pre-registered National Study of Learning Mindsets (Yeager et al., 2019), surveying over 12,000 U.S. high school students, demonstrated that short digital growth-mindset interventions produce statistically significant, meaningful gains primarily among lower-achieving students and in classroom cultures that actively encourage challenge-seeking.
+- **Targeted versus Universal Impact**: The pre-registered National Study of Learning Mindsets (Yeager et al., 2019), surveying over 12,000 U.S. high school students, demonstrated that short digital growth-mindset interventions produce statistically significant, though modest, grade gains among lower-achieving students, with stronger effects in schools whose peer norms supported challenge-seeking.
 - **The "False Growth Mindset"**: Dweck addressed widespread distortions of her theory, cautioning against equating a growth mindset with mere cheerleading, blind optimism, or praising effort that yields no learning. She emphasized that genuine growth requires identifying ineffective strategies, seeking help, and adjusting learning approaches.
 - **Structural Critiques**: Sociologists and educational theorists warn that framing academic disparities primarily through individual psychology risks distracting from systemic inequalities, underfunded schools, and socioeconomic barriers.
 

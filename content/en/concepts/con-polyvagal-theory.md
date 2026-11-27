@@ -84,8 +84,9 @@ The framework has been applied in work with trauma (PTSD, complex trauma), anxie
 
 ## Criticism and Neuroanatomical Debates
 
-- **Comparative Neuroanatomy**: Paul Grossman and Edwin W. Taylor (2007) published a comprehensive critique in *Biological Psychology*, arguing that the theory's central evolutionary claims contradict established comparative vertebrate anatomy and physiology. They noted that unmyelinated and myelinated vagal fibers, as well as dual vagal motor nuclei (the dorsal motor nucleus and the nucleus ambiguus), exist across non-mammalian vertebrates (including fish, amphibians, and reptiles), challenging the idea of a uniquely mammalian evolutionary innovation.
+- **Comparative Neuroanatomy**: Paul Grossman and Edwin W. Taylor (2007) published a comprehensive critique in *Biological Psychology*, presenting evidence that the theory does not accurately depict the evolution of vagal control of heart-rate variability. Later comparative work (Monteiro et al., 2018; Taylor, Wang, & Leite, 2022) reported myelinated cardiac vagal fibers and variously located vagal preganglionic neurons in non-mammalian vertebrates such as lungfish and other groups, challenging the idea of a uniquely mammalian evolutionary innovation.
 - **Respiratory Sinus Arrhythmia (RSA)**: Grossman and Taylor also disputed the claim that RSA serves as a direct, unmediated index of mammalian social engagement or ventral vagal tone, demonstrating that RSA is substantially confounded by respiratory rate and tidal volume.
+- **Expert evaluation (2026)**: Grossman and 38 co-authors concluded in *Clinical Neuropsychiatry* that major tenets of the theory are not supported by current evidence and that it is untenable. A response published in the same issue argued that the critique misrepresents the theory.
 - **Translational Gap**: Many neuroscientists caution that while the theory has gained widespread popularity in clinical trauma therapy, its physiological mechanisms are often accepted metaphorically rather than demonstrated empirically.
 
 ## Therapeutic Legacy
@@ -100,3 +101,7 @@ The framework has been applied in work with trauma (PTSD, complex trauma), anxie
 - Porges, S. W. (2017). *The Pocket Guide to the Polyvagal Theory: The Transformative Power of Feeling Safe*. W. W. Norton.
 - Dana, D. (2018). *The Polyvagal Theory in Therapy: Engaging the Rhythm of Regulation*. W. W. Norton.
 - Grossman, P., & Taylor, E. W. (2007). Toward understanding respiratory sinus arrhythmia: Relations to cardiac vagal tone, evolution and biobehavioral functions. *Biological Psychology*, 74(2), 263-285.
+- Monteiro, D. A., et al. (2018). Cardiorespiratory interactions previously identified as mammalian are present in the primitive lungfish. *Science Advances*, 4(2), eaaq0800.
+- Taylor, E. W., Wang, T., & Leite, C. A. C. (2022). An overview of the phylogeny of cardiorespiratory control in vertebrates with some reflections on the 'Polyvagal Theory'. *Biological Psychology*, 172, 108382.
+- Grossman, P., et al. (2026). Why the polyvagal theory is untenable. *Clinical Neuropsychiatry*, 23(1), 100-112.
+- Porges, S. W. (2026). When a critique becomes untenable: A scholarly response to Grossman et al.'s evaluation of polyvagal theory. *Clinical Neuropsychiatry*, 23(1), 113-128.

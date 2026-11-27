@@ -4,6 +4,7 @@ id: "PHL-30007"
 type: "مجال"
 part: philosophy
 level: "متوسط"
+quality: "unverified"
 title: "Philosophy of Science"
 en: "Philosophy of Science"
 crumb: "Philosophy ← Fields ← Philosophy of Science"

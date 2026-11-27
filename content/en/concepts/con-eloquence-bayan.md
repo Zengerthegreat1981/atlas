@@ -31,7 +31,7 @@ Jurjani's project was not purely rhetorical; in essence it was a **theological-d
 
 ## Two formulations
 
-The two books state the point in his own terms. In *Dala'il al-i'jaz* he writes, in a direct rendering, that nazm is nothing other than putting one's speech into the arrangement that the science of grammar requires, working by its rules and principles, and not departing from the methods it has laid down. In *Asrar al-balagha* he defines metaphor (*isti'ara*) as intending a comparison, then refraining from stating the comparison openly, and lending the name of the thing compared-to to the thing compared. Both passages locate eloquence in a relation among meanings, not in a catalogue of verbal ornaments.
+Two passages state the point in his own terms. In *Dala'il al-i'jaz* he writes, in a direct rendering, that nazm is nothing other than putting one's speech into the arrangement that the science of grammar requires, working by its rules and principles, and not departing from the methods it has laid down. In the same book he defines metaphor (*isti'ara*) as intending a comparison, then refraining from stating the comparison openly, and lending the name of the thing compared-to to the thing compared. Both passages locate eloquence in a relation among meanings, not in a catalogue of verbal ornaments.
 
 ## Impact
 

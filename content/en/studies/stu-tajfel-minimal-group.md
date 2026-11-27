@@ -25,7 +25,7 @@ A foundational series of social psychological experiments conducted by Henri Taj
 
 ## Context and Experimental Design
 
-Seeking to isolate the baseline conditions necessary for intergroup bias to emerge, Henri Tajfel, Michael Billig, M. G. Bundy, and Claude Flament conducted experiments with schoolboys aged 14 to 15 in Bristol, England. The protocol systematically stripped away traditional drivers of discrimination: participants had no prior history of conflict, engaged in no face-to-face interaction during the task, remained anonymous, and could not allocate monetary rewards to themselves directly.
+Seeking to isolate the baseline conditions necessary for intergroup bias to emerge, Henri Tajfel, Michael Billig, R. P. Bundy, and Claude Flament conducted experiments with schoolboys aged 14 to 15 in Bristol, England. The protocol systematically stripped away traditional drivers of discrimination: participants had no prior history of conflict, engaged in no face-to-face interaction during the task, remained anonymous, and could not allocate monetary rewards to themselves directly.
 
 In the initial 1971 studies, boys were categorized based on trivial criteria:
 - **Experiment 1:** Participants estimated the number of dots flashed on a screen and were ostensibly classified into "overestimators" and "underestimators" (though assignment was actually random).
@@ -41,7 +41,7 @@ Tajfel designed sophisticated allocation matrices that allowed researchers to co
 3. **Maximum Differentiation (MD):** Choosing payoffs that maximized the positive gap or relative difference between the ingroup member and the outgroup member, even if this significantly diminished the absolute payoff received by the ingroup member.
 4. **Fairness (F):** Allocating identical point values to both recipients.
 
-The findings showed a striking and systematic pattern: participants consistently compromised both maximum joint profit and maximum absolute ingroup profit in order to achieve maximum differentiation. When faced with a choice between giving 19 points to an ingroup member and 25 to an outgroup member, versus giving 7 points to an ingroup member and 1 point to an outgroup member, participants frequently selected the latter. Relative advantage and group distinctiveness consistently superseded absolute collective or individual welfare.
+The findings showed a striking and systematic pattern: participants consistently compromised both maximum joint profit and maximum absolute ingroup profit in order to achieve maximum differentiation. When faced with a choice between giving 19 points to an ingroup member and 25 to an outgroup member, versus giving 7 points to an ingroup member and 1 point to an outgroup member, participants' choices were often pulled toward the latter end of the matrix. Relative advantage and group distinctiveness consistently superseded absolute collective or individual welfare.
 
 ## Social Identity Theory and Self-Categorization
 
@@ -62,7 +62,7 @@ Some research suggests that affective polarization shares features with minimal-
 
 ## Methodological Critique and Replication
 
-Critics initially raised methodological concerns, arguing that the artificial matrix structures created experimental demand characteristics that framed the task as a competitive game. However, extensive cross-cultural replications and meta-analyses (notably Mullen, Brown, & Smith, 1992) have affirmed the robustness of the minimal group effect across diverse populations, age groups, and reward structures, cementing the paradigm as a cornerstone of modern social psychology.
+Critics initially raised methodological concerns, arguing that the artificial matrix structures created experimental demand characteristics that framed the task as a competitive game. However, many replications and meta-analytic reviews of ingroup bias (including Mullen, Brown, & Smith, 1992, which covered artificial as well as real groups) have supported the robustness of the effect, although its strength varies with conditions; ingroup favoritism is greater, for example, when participants allocate positive rather than negative outcomes (Buhl, 1999). The findings thus cemented the paradigm as a cornerstone of modern social psychology.
 
 ## Sources
 
@@ -70,6 +70,7 @@ Critics initially raised methodological concerns, arguing that the artificial ma
 - Tajfel, H., & Turner, J. C. (1979). An integrative theory of intergroup conflict. In W. G. Austin & S. Worchel (Eds.), *The Social Psychology of Intergroup Relations* (pp. 33–47). Brooks/Cole.
 - Turner, J. C., Hogg, M. A., Oakes, P. J., Reicher, S. D., & Wetherell, M. S. (1987). *Rediscovering the Social Group: A Self-Categorization Theory*. Basil Blackwell.
 - Mullen, B., Brown, R., & Smith, C. (1992). Ingroup bias as a function of salience, relevance, and status: An integration. *European Journal of Social Psychology*, 22(2), 103–122.
+- Buhl, T. (1999). Positive-negative asymmetry in social discrimination: Meta-analytical evidence. *Group Processes & Intergroup Relations*, 2(1), 51–58.
 - Iyengar, S., Lelkes, Y., Levendusky, M., Malhotra, N., & Westwood, S. J. (2019). The origins and consequences of affective polarization in the United States. *Annual Review of Political Science, 22*, 129-146.
 - Mason, L. (2018). *Uncivil Agreement: How Politics Became Our Identity*. University of Chicago Press.
 - Iyengar, S., Sood, G., & Lelkes, Y. (2012). Affect, not ideology: A social identity perspective on polarization. *Public Opinion Quarterly*, 76(3), 405–431.

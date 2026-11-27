@@ -40,7 +40,7 @@ Fonagy conceptualizes mentalization as the capacity to implicitly and explicitly
 
 In *Affect Regulation, Mentalization, and the Development of the Self* (Fonagy et al., 2002), the authors developed this core construct at book length.
 
-In early collaborative research (Fonagy, Steele, Steele, Moran, & Higgitt, 1991), Fonagy and colleagues reported that secure parental attachment predicts the robust development of mentalizing competence in offspring, whereas attachment trauma and disorganized attachment impair the child's ability to read and regulate mental states.
+In early collaborative research (Fonagy, Steele, Steele, Moran, & Higgitt, 1991), Fonagy and colleagues reported that parents' reflective-self functioning, rated from Adult Attachment Interviews conducted before the child's birth, correlated significantly with later infant attachment security. Later theoretical work links attachment trauma and disorganized attachment to impairments in the child's ability to read and regulate mental states.
 
 ### Reflective Functioning (RF)
 
@@ -71,7 +71,7 @@ Fonagy occupies a unique integrative position:
 
 Critical discussions note:
 - **Broad Conceptual Reach**: As mentalization has been extended to diverse clinical populations, critics question whether the concept risks becoming an over-inclusive umbrella term.
-- **Distinguishing Epistemic Trust**: Cognitive theorists (e.g., Dan Sperber and colleagues, 2010) distinguish Fonagy's relational construct of epistemic trust from cognitive mechanisms of "epistemic vigilance," emphasizing that evaluating communication involves domain-specific cognitive filters alongside attachment security.
+- **Distinguishing Epistemic Trust**: Fonagy's relational construct of epistemic trust draws on, and should be distinguished from, the earlier cognitive account of "epistemic vigilance" by Dan Sperber and colleagues (2010), which concerns the cognitive mechanisms people use to evaluate communicated information.
 
 ## Major Works
 

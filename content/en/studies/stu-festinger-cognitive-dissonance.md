@@ -13,7 +13,7 @@ study_year: 1959
 design: "Laboratory experiment (between-groups)"
 sample_size: "71 male Stanford students took part; 60 were analyzed (20 each in the one-dollar, twenty-dollar, and control conditions)"
 main_finding: "Those who received only one dollar for lying about the task's enjoyability actually rated it as more enjoyable than those who received 20 dollars or the control group."
-replication_status: "replicated"
+replication_status: "contested"
 related:
 - id: "con-cognitive-dissonance", title: "Cognitive Dissonance", type: "مفهوم"
 gaps: []
@@ -38,7 +38,7 @@ Daryl Bem (1967) opposed this interpretation with 'Self-Perception Theory,' prop
 
 ## Theoretical Background and Subsequent Impact
 
-Leon Festinger built the experiment on his broader theory, published in 1957 in the book *A Theory of Cognitive Dissonance*, which assumed that individuals seek a state of internal consistency between their beliefs and their behavior, and that any contradiction between them generates psychological tension that drives a change in one of the two sides, usually the belief, because the behavior has already occurred and cannot be undone. The "one dollar versus twenty dollars" experiment became the reference experimental model of cognitive dissonance, and hundreds of studies branched from it in the fields of persuasion, propaganda, consumer decisions, and the justification of difficult choices (as in studies of post-decision justification when choosing between alternatives of similar attractiveness). Despite the continuing theoretical controversy between the dissonance and self-perception explanations, later work (for example Fazio, Zanna, and Cooper, 1977) suggested that both processes can operate: self-perception when the original attitude is weak or ambiguous, and dissonance when the behavior clearly conflicts with a firmly held attitude.
+Leon Festinger built the experiment on his broader theory, published in 1957 in the book *A Theory of Cognitive Dissonance*, which assumed that individuals seek a state of internal consistency between their beliefs and their behavior, and that any contradiction between them generates psychological tension that drives a change in one of the two sides, usually the belief, because the behavior has already occurred and cannot be undone. The "one dollar versus twenty dollars" experiment became the reference experimental model of cognitive dissonance, and hundreds of studies branched from it in the fields of persuasion, propaganda, consumer decisions, and the justification of difficult choices (as in studies of post-decision justification when choosing between alternatives of similar attractiveness). Despite the continuing theoretical controversy between the dissonance and self-perception explanations, later work (for example Fazio, Zanna, and Cooper, 1977) suggested that both processes can operate: self-perception when the behavior stays close to the person's existing attitude, and dissonance when the behavior clearly conflicts with that attitude. A preregistered multilab study (Vaidis et al., 2024; 39 laboratories, 4,898 participants) using a counterattitudinal-essay version of the induced-compliance paradigm did not replicate the predicted effect of high versus low choice on attitude change; it did not test the original one-dollar versus twenty-dollar procedure.
 
 ## Cultural Variation in Dissonance Effects
 
@@ -50,5 +50,6 @@ Subsequent cross-cultural research examined whether the psychological discomfort
 - Festinger, L. (1957). *A Theory of Cognitive Dissonance*. Stanford University Press.
 - Bem, D. J. (1967). Self-perception: An alternative interpretation of cognitive dissonance phenomena. *Psychological Review, 74*(3), 183-200.
 - Fazio, R. H., Zanna, M. P., & Cooper, J. (1977). Dissonance and self-perception: An integrative view of each theory's proper domain of application. *Journal of Experimental Social Psychology, 13*(5), 464-479.
+- Vaidis, D. C., Sleegers, W. W. A., et al. (2024). A multilab replication of the induced-compliance paradigm of cognitive dissonance. *Advances in Methods and Practices in Psychological Science, 7*(1). https://doi.org/10.1177/25152459231213375
 - Heine, S. J., & Lehman, D. R. (1997). Culture, dissonance, and self-affirmation. *Personality and Social Psychology Bulletin, 23*(4), 389-400.
 - Kitayama, S., Snibbe, A. C., Markus, H. R., & Suzuki, T. (2004). Is there any free choice? Self and dissonance in two cultures. *Psychological Science, 15*(8), 527-533.

@@ -42,7 +42,7 @@ For Jung, the central goal of human psychological development is **individuation
 
 ## Clinical Method
 
-Jungian analysis utilizes the method of **active imagination**, the amplification and interpretation of symbols and dreams, and the Word Association Test (developed by Jung and his colleagues at the Burghölzli psychiatric hospital in Zurich to diagnose unconscious complexes). Psychological symptoms are not viewed merely as pathologies or biological defects, but as purposive teleological communications from the unconscious directing the individual toward psychic compensation and developmental wholeness.
+Jungian analysis utilizes the method of **active imagination**, the amplification and interpretation of symbols and dreams, and the Word Association Test (an earlier experimental method that Jung and his colleagues at the Burghölzli psychiatric hospital in Zurich developed further to detect unconscious complexes). Psychological symptoms are not viewed merely as pathologies or biological defects, but as purposive teleological communications from the unconscious directing the individual toward psychic compensation and developmental wholeness.
 
 ## Influence and Extensions
 

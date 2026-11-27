@@ -4,6 +4,7 @@ id: "STU-0120"
 type: "دراسة وبحث"
 part: "psychology"
 level: "متقدم"
+quality: "unverified"
 title: "Wertheimer's Gestalt Perception Experiments: Phi Phenomenon (1912)"
 en: "Wertheimer's Gestalt Perception Experiments: Phi Phenomenon (1912)"
 crumb: "Psychology ← Studies ← Wertheimer's Gestalt Perception Experiments: Phi Phenomenon (1912)"
@@ -38,7 +39,7 @@ By systematically varying the inter-stimulus interval (ISI)—the precise tempor
 2. **Successive Perception (*Nacheinander*, ISI > 200 ms):** When the interval exceeded approximately 200 milliseconds, observers perceived two distinctly separate events: the first light flashed and vanished, followed by a noticeable pause, and then the second light flashed in its own position.
 3. **Optimal Apparent Motion (*Optimale Bewegung*, ISI ≈ 60 ms):** Within an intermediate temporal window (roughly 50 to 100 milliseconds, peaking sharply near 60 milliseconds), observers reported an unmistakable sensation of a single luminous line smoothly and continuously gliding across the empty dark space from the first position to the second.
 
-At slightly shorter intervals within this intermediate zone (around 40–50 ms), Wertheimer observed the remarkable **pure phi phenomenon** (*reine Phi-Bewegung*): observers experienced vivid, directional motion across the visual field without perceiving any localized object or line undergoing the displacement—a pure sensation of movement itself.
+At intervals slightly shorter than the optimum, after repeated exposures, Wertheimer observed the remarkable **pure phi phenomenon** (*reine Phi-Bewegung*): observers experienced vivid, directional motion across the visual field without perceiving any localized object or line undergoing the displacement—a pure sensation of movement itself.
 
 ## Theoretical Significance for Gestalt Psychology
 

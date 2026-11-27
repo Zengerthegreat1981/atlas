@@ -25,7 +25,7 @@ The **Unity of Being** (*wahdat al-wujud*) is a foundational metaphysical doctri
 
 ## Textual Origins and Terminology
 
-While modern scholarship and classical Islamic doxography uniformly link *wahdat al-wujud* to Ibn 'Arabi, the literal compound phrase does not occur as a technical term in his principal writings—notably *Fusus al-Hikam* (The Bezels of Wisdom, 627 AH / 1229–1230 CE) or *al-Futuhat al-Makkiyya* (The Meccan Openings). The concept was systematized into a formalized philosophical lexicon by his immediate disciples and commentators, most notably his stepson and chief disciple Sadr al-Din al-Qunawi (606–673 AH / 1210–1274 CE), Sa'id al-Din al-Farghani (d. c. 700 AH / 1300 CE), and 'Abd al-Razzaq al-Kashani (d. 730 AH / 1329 CE). It was subsequently consolidated as an umbrella term in the critical polemics of the Hanbali theologian Taqi al-Din Ibn Taymiyya (661–728 AH / 1263–1328 CE).
+While modern scholarship and classical Islamic doxography uniformly link *wahdat al-wujud* to Ibn 'Arabi, the literal compound phrase does not occur as a technical term in his principal writings—notably *Fusus al-Hikam* (The Bezels of Wisdom, 627 AH / 1229–1230 CE) or *al-Futuhat al-Makkiyya* (The Meccan Openings). The concept was systematized into a formalized philosophical lexicon by his immediate disciples and commentators, most notably his stepson and chief disciple Sadr al-Din al-Qunawi (606–673 AH / 1210–1274 CE), Sa'id al-Din al-Farghani (d. c. 700 AH / 1300 CE), and 'Abd al-Razzaq al-Kashani (d. 730 AH / 1329 CE; 736 AH / 1335 CE is also proposed). It was subsequently consolidated as an umbrella term in the critical polemics of the Hanbali theologian Taqi al-Din Ibn Taymiyya (661–728 AH / 1263–1328 CE).
 
 ## Core Metaphysical Architecture
 

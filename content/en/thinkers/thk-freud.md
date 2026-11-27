@@ -3,6 +3,7 @@ slug: "thk-freud"
 id: "THK-1053"
 type: "مفكر"
 level: "متقدم"
+quality: "unverified"
 title: "Sigmund Freud"
 en: "Sigmund Freud"
 crumb: "Psychology ← Thinkers ← Sigmund Freud"
@@ -34,10 +35,10 @@ He founded the "Wednesday Psychological Society" in Vienna in 1902, which develo
 - **The interpretation of dreams**: in *The Interpretation of Dreams* (*Die Traumdeutung*, issued in November 1899 with an imprint date of 1900), which he considered his most important work, he presented a systematic interpretation of dreams through free association as a disguised, symbolic attempt to fulfill a repressed wish. As he famously proclaimed in Chapter VII:
 
   > "The interpretation of dreams is the royal road to a knowledge of the unconscious activities of the mind." (*Die Traumdeutung*, 1900; Standard Edition, 5: 608)
-- **Sexual theory and developmental stages**: in *Three Essays on the Theory of Sexuality* (1905) he proposed the stages of psychosexual development (oral, anal, phallic, followed by latency and the genital stage). He had formulated the **Oedipus complex**, first in his correspondence of 1897 and then in *The Interpretation of Dreams*, as the prototype for the organization of childhood desire.
+- **Sexual theory and developmental stages**: beginning with *Three Essays on the Theory of Sexuality* (1905), and through later revised editions and papers, he developed the stages of psychosexual development (oral, anal, phallic, followed by latency and the genital stage); the full stage scheme was not in the 1905 first edition. He had formulated the **Oedipus complex**, first in his correspondence of 1897 and then in *The Interpretation of Dreams*, as the prototype for the organization of childhood desire.
 - **Defense mechanisms and repression**: the concept of **repression** (Verdrängung) as the basic mechanism that keeps painful contents out of consciousness, and the basis for the formation of neurotic symptoms.
 - **The tripartite psychic structure**: in *The Ego and the Id* (1923) he divided the psychic apparatus into the **id** (Es, instinctual drives), the **ego** (Ich, the realistic mediator), and the **superego** (Über-Ich, conscience and internalized standards), a structural model that provided the ground on which everything after it arose, whether in the directions of schism or in the directions of integration with phenomenological and existential philosophy.
-- **The two instincts**: in his later works, especially *Beyond the Pleasure Principle* (1920), he distinguished between the **life drive** (Eros) and the **death drive**, the latter often called "Thanatos," a term Freud himself did not use.
+- **The two instincts**: in his later works, especially *Beyond the Pleasure Principle* (1920), he distinguished between the **life drive** (Eros) and the **death drive**, the latter often called "Thanatos," a term Freud did not use in his writings, although Ernest Jones reported that he occasionally used it in conversation.
 
 ## His Place in This Atlas
 

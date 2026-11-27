@@ -26,7 +26,7 @@ This concept, which forms the core of the field of **psychoneuroimmunology**, ex
 
 ## Mechanism
 
-The immune system communicates with the brain through multidirectional pathways. Peripheral inflammatory cytokines, released into the blood, can reach the brain through neural pathways (such as the vagus nerve) and hormonal pathways (through the HPA axis), thereby activating an inflammatory response within the brain itself (neuroinflammation) through **microglia** cells. This brain inflammatory response in turn affects several systems related to mood: **monoamine** metabolism (diverting tryptophan away from the serotonin pathway and toward the kynurenine pathway), **glutamate** activity, and secretion of **brain-derived neurotrophic factor (BDNF)**, which is essential for neural plasticity.
+The immune system communicates with the brain through multidirectional pathways. Peripheral inflammatory cytokines, released into the blood, can reach the brain through neural pathways (such as the vagus nerve) and humoral pathways (through leaky regions of the blood-brain barrier and active transport), thereby activating an inflammatory response within the brain itself (neuroinflammation) through **microglia** cells. This brain inflammatory response in turn affects several systems related to mood: **monoamine** metabolism (diverting tryptophan away from the serotonin pathway and toward the kynurenine pathway), **glutamate** activity, and secretion of **brain-derived neurotrophic factor (BDNF)**, which is essential for neural plasticity.
 
 ## Key Features
 
@@ -36,7 +36,7 @@ The immune system communicates with the brain through multidirectional pathways.
 
 ## Impact
 
-This framework opened a new research horizon, exploring **anti-inflammatory drugs** (such as cyclooxygenase inhibitors and TNF inhibitors) as adjunctive treatment for depression. A meta-analysis (Köhler et al., 2014) found some benefit of anti-inflammatory add-on treatment, and a trial of the TNF antagonist infliximab (Raison et al., 2013) found benefit only in patients with high baseline C-reactive protein. These approaches remain experimental and are not established treatments. It also helped shift the explanatory model of mental illness from a narrow "monoamine" model to a broader **systemic-immune-neural** model that links bodily health to mental health.
+This framework opened a new research horizon, exploring **anti-inflammatory drugs** (such as cyclooxygenase inhibitors and TNF inhibitors) as adjunctive treatment for depression. A meta-analysis (Köhler et al., 2014) found some benefit of anti-inflammatory add-on treatment, and a trial of the TNF antagonist infliximab (Raison et al., 2013) found no overall benefit over placebo, although an interaction analysis favoured infliximab in patients with baseline C-reactive protein above 5 mg/L. These approaches remain experimental and are not established treatments. It also helped shift the explanatory model of mental illness from a narrow "monoamine" model to a broader **systemic-immune-neural** model that links bodily health to mental health.
 
 ## Limits
 

@@ -69,4 +69,4 @@ In his general works Momen describes the development of the Bahá'í administrat
 - Momen, M., ed. (1988). *Studies in Honor of the Late Hasan M. Balyuzi* (Studies in the Bábí and Bahá'í Religions, Vol. 5). Kalimát Press.
 - Momen, Moojan. Curriculum vitae (Wilmette Institute). Born 1950; Cambridge and Guy's Hospital training; combined medical practice and research.
 - Momen, Moojan (1983). "The Social Basis of the Babi Upheavals in Iran (1848–53): A Preliminary Analysis." *International Journal of Middle East Studies* 15.
-- Momen, Moojan, and Juan R. Cole (1986). "Mafia, Mob and Shi'ism: The Rebellion of Ottoman Karbala 1823–43." *Past and Present* 112.
+- Momen, Moojan, and Juan R. Cole (1986). "Mafia, Mob and Shi'ism in Iraq: The Rebellion of Ottoman Karbala 1824–1843." *Past and Present* 112.

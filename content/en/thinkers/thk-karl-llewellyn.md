@@ -27,7 +27,7 @@ An American law professor (1893–1962) who taught at Yale, Columbia (1925-51) a
 
 ## "The Bramble Bush": Law as Practiced, Not as Taught
 
-In his textbook *The Bramble Bush* (1930), based on his lectures to first-year students at Columbia, Llewellyn warns new students against confusing **"paper rules"** with **"real rules"**, meaning what courts actually do when a case is brought before them. He calls for studying law with a method focused on **actual judicial behavior** and patterns of decision rather than on formal texts alone. This is a direct extension of the spirit of Holmes's **prediction theory**.
+In his textbook *The Bramble Bush* (1930), based on his lectures to first-year students at Columbia, Llewellyn directs new students' attention to what courts and officials actually do when a dispute is brought before them. In an article of the same year, "A Realistic Jurisprudence: The Next Step" (*Columbia Law Review* 30), he distinguished **"paper rules"** from **"real rules"**. In the book he calls for studying law with a method focused on **actual judicial behavior** and patterns of decision rather than on formal texts alone. This is a direct extension of the spirit of Holmes's **prediction theory**.
 
 ## Situation Sense and Judicial Craft
 

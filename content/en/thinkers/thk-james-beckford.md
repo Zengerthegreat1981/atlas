@@ -4,16 +4,17 @@ id: "THK-11032"
 type: "مفكر"
 part: "religious-studies"
 level: "متوسط"
+quality: "unverified"
 religious_tradition: "Multiple (contemporary new religious movements)"
 study_approach: "Comparative sociological and institutional"
 title: "James A. Beckford"
 en: "James A. Beckford"
 crumb: "Religious Studies ← Thinkers ← James A. Beckford"
-dates: "United Kingdom · born 1942"
+dates: "United Kingdom · 1942–2022"
 country: "United Kingdom"
 language: "English"
 active_start: 1975
-active_end: "مستمر"
+active_end: 2022
 edges:
 - rel: "belongs_to", target: "Study of New Religious Movements and the 'Cult' Debate", target_type: "مدرسة"
 related:
@@ -25,7 +26,7 @@ gaps: []
 
 # James A. Beckford
 
-A British sociologist (born 1942), emeritus professor at the University of Warwick. He is a leading researcher in the sociology of new religious movements, alongside Eileen Barker, but with a different focus. Rather than the long-term ethnographic study of a particular membership, Beckford concentrated on analyzing the **institutional and comparative response** of states, official churches and the media to these movements across different European countries.
+A British sociologist (1942–2022), emeritus professor at the University of Warwick. He was a leading researcher in the sociology of new religious movements, alongside Eileen Barker, but with a different focus. Rather than the long-term ethnographic study of a particular membership, Beckford concentrated on analyzing the **institutional and comparative response** of states, official churches and the media to these movements across different European countries.
 
 ## His Founding Study: Societal Response to the Unification Church
 
@@ -49,7 +50,7 @@ With Danièle Joly and Farhad Khosrokhavar, Beckford co-authored *Muslims in Pri
 
 ## Academic Standing
 
-Beckford is considered a prominent contemporary British theorist of the sociology of religion. Through his long career at the University of Warwick he has influenced research on new religious movements and on religion and state in comparative European contexts.
+Beckford is considered a prominent British theorist of the sociology of religion. Through his long career at the University of Warwick he has influenced research on new religious movements and on religion and state in comparative European contexts.
 
 ## Additional Works
 

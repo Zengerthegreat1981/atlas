@@ -12,7 +12,7 @@ part: "psychology"
 study_year: 1975
 design: "Laboratory experiment"
 sample_size: ""
-main_finding: "Participants given misleading post-event information about a detail chose the correct picture far less often than controls (roughly 41% versus 75% in the 1978 slide study), showing that later information can alter reported memory"
+main_finding: "Participants given misleading post-event information about a detail chose the correct picture far less often than participants given consistent information (roughly 41% versus 75% in the 1978 slide study), showing that later information can alter reported memory"
 replication_status: "replicated"
 edges: []
 related: []
@@ -27,7 +27,7 @@ A classic line of cognitive experiments demonstrating that exposing eyewitnesses
 
 In the defining experiment by Elizabeth Loftus, David Miller, and Harold Burns (1978), university participants viewed a sequence of 30 color slides depicting a red Datsun driving along a side street, turning at an intersection, and striking a pedestrian. For half the participants, the intersection displayed a regulatory stop sign; for the other half, it displayed a yield sign.
 
-Following the slide presentation, participants completed a 20-question inventory. For the experimental group, Question 17 introduced misleading post-event information by embedding a false presupposition: "Did another car pass the red Datsun while it was stopped at the yield sign?" (when the participant had actually seen a stop sign) or vice versa. Control participants received neutral questions with no mention of the sign type. After a 20-minute retention interval filled with unrelated tasks, participants completed a 2-alternative forced-choice visual recognition test between two slides: one with the stop sign and one with the yield sign.
+Following the slide presentation, participants completed a 20-question inventory. For the experimental group, Question 17 introduced misleading post-event information by embedding a false presupposition: "Did another car pass the red Datsun while it was stopped at the yield sign?" (when the participant had actually seen a stop sign) or vice versa. In this experiment the comparison group received a consistent version of the question, naming the sign they had actually seen. After a 20-minute retention interval filled with unrelated tasks, participants completed a 2-alternative forced-choice visual recognition test between two slides: one with the stop sign and one with the yield sign.
 
 ## Results and Conclusions
 
@@ -37,7 +37,7 @@ In the 20-minute condition, participants exposed to consistent information corre
 
 Because Loftus's research program investigated several manifestations of memory malleability, sample sizes varied across specific experiments:
 - **Loftus and Palmer (1974)**: In Experiment 1, 45 students watched seven film clips of automobile accidents and were queried with varying verbs ("smashed", "collided", "bumped", "hit", "contacted", $N = 9$ per condition); speed estimates varied from 40.8 mph ("smashed") to 31.8 mph ("contacted"). In Experiment 2, 150 participants were divided into three groups of 50 ("smashed", "hit", and control); one week later, 32% of the "smashed" group falsely remembered seeing broken glass compared to 14% of the "hit" group and 12% of controls.
-- **Loftus, Miller, and Burns (1978)**: Tested 195 university students across immediate and delayed intervals (20 minutes, 2 days, and 1 week), showing that the susceptibility to misinformation increases substantially as the original memory trace fades over time.
+- **Loftus, Miller, and Burns (1978)**: Experiment 1 tested 195 university students (the 75% versus 41% result). A later experiment in the same paper, with separate participants, varied the retention interval from immediate testing up to one week and found that misleading information had a larger effect when presented just before a delayed test than immediately after the event.
 - **Loftus (1975)**: Used false presuppositions in questions about non-existent objects (such as a barn) to show that leading questions can introduce false details into reports.
 
 ## Warnings and Resistance to Misinformation

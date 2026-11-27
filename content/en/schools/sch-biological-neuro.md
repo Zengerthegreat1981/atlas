@@ -77,7 +77,7 @@ While biological psychology and evolutionary psychology both share Darwinian fou
 
 - **Structural and Functional Neuroimaging**: High-resolution structural MRI, functional MRI (fMRI) measuring blood-oxygen-level-dependent (BOLD) signals, and Positron Emission Tomography (PET).
 - **Electrophysiology**: High-density Electroencephalography (EEG) and event-related potentials (ERPs) with millisecond temporal resolution.
-- **Neuromodulation**: Transcranial Magnetic Stimulation (TMS) and Transcranial Direct Current Stimulation (tDCS), used in basic research and clinical management of treatment-resistant depression.
+- **Neuromodulation**: Transcranial Magnetic Stimulation (TMS) and Transcranial Direct Current Stimulation (tDCS), used in basic research and in the treatment of depression. Repetitive TMS is established for treatment-resistant depression, whereas the 2025 FDA approval of a home-use tDCS device covers major depressive disorder in adults not considered treatment-refractory to medication.
 - **Diffusion Tensor Imaging (DTI)**: In vivo tracking of white-matter tract integrity and axonal connectivity.
 
 ## Clinical Scope and Methodological Limitations
@@ -90,5 +90,5 @@ Biological psychology provides foundational neurobiological insights into DSM-5-
 
 - Bear, M. F., Connors, B. W., & Paradiso, M. A. (2016). *Neuroscience: Exploring the Brain* (4th ed.). Wolters Kluwer.
 - Kandel, E. R., Schwartz, J. H., Jessell, T. M., Siegelbaum, S. A., & Hudspeth, A. J. (Eds.). (2013). *Principles of Neural Science* (5th ed.). McGraw-Hill.
-- Kolb, B., & Whishaw, I. Q. (2014). *Fundamentals of Human Neuropsychology* (7th ed.). Worth Publishers.
+- Kolb, B., & Whishaw, I. Q. (2015). *Fundamentals of Human Neuropsychology* (7th ed.). Worth Publishers.
 - Panksepp, J. (1998). *Affective Neuroscience: The Foundations of Human and Animal Emotions*. Oxford University Press.

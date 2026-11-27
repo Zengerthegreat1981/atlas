@@ -4,6 +4,7 @@ id: "PHL-30005"
 type: "مجال"
 part: philosophy
 level: "متوسط"
+quality: "unverified"
 title: "Philosophy of Mind"
 en: "Philosophy of Mind"
 crumb: "Philosophy ← Fields ← Philosophy of Mind"
@@ -21,7 +22,7 @@ The central issue is the **mind-body problem**: how can conscious, meaningful me
 
 ## Dualism
 
-**Substance dualism** holds that mind and body are distinct kinds of thing. Its classic statement is by Rene Descartes in the *Meditations* (1641), who argued that the mind is a thinking, non-extended substance. The main objection, pressed by Princess Elisabeth of Bohemia in her correspondence with Descartes (1643), is the **interaction problem**: how can a non-physical thing causally affect a physical one? Descartes's own answers are generally considered unsatisfying. **Property dualism** holds that there is only one kind of substance but that it has both physical and irreducibly mental properties. David Chalmers, in *The Conscious Mind* (1996), defends a form of property dualism, arguing that the existence of experience is not logically entailed by physical facts. Dualist-leaning ideas appear also in Indian Samkhya, which distinguishes consciousness (*purusha*) from matter (*prakriti*), while Buddhist schools reject an enduring conscious self.
+**Substance dualism** holds that mind and body are distinct kinds of thing. Its classic statement is by René Descartes in the *Meditations* (1641), who argued that the mind is a thinking, non-extended substance. The main objection, pressed by Princess Elisabeth of Bohemia in her correspondence with Descartes (1643), is the **interaction problem**: how can a non-physical thing causally affect a physical one? Descartes's own answers are generally considered unsatisfying. **Property dualism** holds that there is only one kind of substance but that it has both physical and irreducibly mental properties. David Chalmers, in *The Conscious Mind* (1996), defends a form of property dualism, arguing that the existence of experience is not logically entailed by physical facts. Dualist-leaning ideas appear also in Indian Samkhya, which distinguishes consciousness (*purusha*) from matter (*prakriti*), while Buddhist schools reject an enduring conscious self.
 
 ## Physicalism
 

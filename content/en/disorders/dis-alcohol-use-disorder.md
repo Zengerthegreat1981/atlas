@@ -3,6 +3,7 @@ slug: "dis-alcohol-use-disorder"
 id: "DIS-0010"
 type: "اضطراب/حالة إكلينيكية"
 level: "متوسط"
+quality: "unverified"
 title: "Alcohol Use Disorder"
 en: "Alcohol Use Disorder (AUD)"
 crumb: "Psychology ← Disorders ← Alcohol Use Disorder"
@@ -58,7 +59,7 @@ ICD-11 maintains distinct categorical distinctions under *Disorders due to use o
 ## Global Epidemiology and Cross-Cultural Disparities
 
 According to the World Health Organization's global status reports on alcohol and health (WHO, 2018, 2024), alcohol use contributes to more than 2.6 million deaths annually and accounts for a substantial proportion of the global burden of disease:
-- **Global Prevalence**: Worldwide, alcohol use disorders affect an estimated 200 million or more people (on the order of 5-7% of the adult population in WHO estimates), with substantially higher rates among men than women.
+- **Global Prevalence**: Worldwide, an estimated 400 million people aged 15 and older (7% of that population) lived with alcohol use disorders in 2019, of whom 209 million (3.7%) had alcohol dependence (WHO, 2024), with substantially higher rates among men than women.
 - **Geographic Disparities**: Prevalence is highest in the WHO European Region and the Region of the Americas, where per capita alcohol consumption is elevated.
 - **Arab World and Conservative Cultural Contexts**: In the WHO Eastern Mediterranean Region (EMR), per capita alcohol consumption is the lowest globally due to religious, cultural, and legal prohibitions. However, individuals who develop AUD in these settings encounter severe social stigma, legal jeopardy, and profound barriers to seeking care. Clinical presentations in conservative environments are often marked by covert use, high risks from adulterated or toxic illicit alcohol (such as methanol toxicity), and late presentation with advanced cirrhosis, Wernicke-Korsakoff syndrome, or severe delirium tremens.
 

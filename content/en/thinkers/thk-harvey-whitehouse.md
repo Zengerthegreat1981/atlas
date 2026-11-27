@@ -40,7 +40,7 @@ Whitehouse is methodologically distinguished from Boyer and Barrett, who relied 
 
 ## The Foundational Fieldwork
 
-Whitehouse drew on his fieldwork in the late 1980s among followers of the Pomio Kivung movement in New Britain Province, Papua New Guinea. This was a local religious movement combining elements of Christianity with Melanesian millenarian beliefs about the return of the ancestors. Whitehouse observed a ritual schism within the movement between the main movement, with its routinised, frequently repeated teachings and rituals (closer to the "doctrinal" mode), and a splinter group that developed rare but highly arousing rites (closer to the "imagistic" mode). This direct field observation was the basis on which he later built his broader comparative theory, documented in more detail in his separate field study.
+Whitehouse drew on his fieldwork in the late 1980s among followers of the Pomio Kivung movement in East New Britain Province, Papua New Guinea. This was a local religious movement combining elements of Christianity with Melanesian millenarian beliefs about the return of the ancestors. Whitehouse observed a ritual schism within the movement between the main movement, with its routinised, frequently repeated teachings and rituals (closer to the "doctrinal" mode), and a splinter group that developed rare but highly arousing rites (closer to the "imagistic" mode). This direct field observation was the basis on which he later built his broader comparative theory, documented in more detail in his separate field study.
 
 ## The Critique of the Theory
 

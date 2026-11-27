@@ -20,7 +20,7 @@ A spiritual crisis is the collapse of meaning-making structures: religious faith
 
 ## Definition
 
-The term covers experiences in which a person's basic framework for understanding why life matters gives way. The trigger may be a loss, an illness, a betrayal by a community or leader, a loss of faith, or a gradual erosion. It differs from clinical depression in focus: its center is questions of meaning, truth and value, though in practice the two can occur together and cannot always be separated by the person experiencing them. In diagnostic classification, DSM-IV (1994) introduced, and DSM-5-TR (2022) maintains under Other Conditions That May Be a Focus of Clinical Attention, the category "Religious or Spiritual Problem" (code V62.89 / Z65.8), formally recognizing that existential and faith struggles warrant clinical attention without constituting psychopathology in themselves.
+The term covers experiences in which a person's basic framework for understanding why life matters gives way. The trigger may be a loss, an illness, a betrayal by a community or leader, a loss of faith, or a gradual erosion. It differs from clinical depression in focus: its center is questions of meaning, truth and value, though in practice the two can occur together and cannot always be separated by the person experiencing them. In diagnostic classification, DSM-IV (1994) introduced, under Other Conditions That May Be a Focus of Clinical Attention, the category "Religious or Spiritual Problem" (code V62.89). DSM-5-TR (2022) retained it (code Z65.8), and an APA update of September 2025 renamed it "Moral, Religious, or Spiritual Problem". The category recognizes that such struggles can be a focus of clinical attention without being mental disorders in themselves.
 
 ## Origins
 
@@ -55,3 +55,4 @@ Critics caution against romanticizing crisis. Severe distress, hopelessness, tho
 6. Fowler, J. W. (1981). *Stages of Faith*. Harper & Row.
 7. Grof, S., & Grof, C. (Eds.). (1989). *Spiritual Emergency: When Personal Transformation Becomes a Crisis*. J. P. Tarcher.
 8. Pargament, K. I. (1997). *The Psychology of Religion and Coping: Theory, Research, Practice*. Guilford Press.
+9. American Psychiatric Association. (2025). *DSM-5-TR Update: Supplement to Diagnostic and Statistical Manual of Mental Disorders, September 2025*.

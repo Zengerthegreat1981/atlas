@@ -4,6 +4,7 @@ id: "STU-0121"
 type: "دراسة وبحث"
 part: "psychology"
 level: "متقدم"
+quality: "unverified"
 title: "The Leipzig Lab 1879: Founding of Experimental Psychology"
 en: "The Leipzig Lab 1879: Founding of Experimental Psychology"
 crumb: "Psychology ← Studies ← The Leipzig Lab 1879"
@@ -37,9 +38,9 @@ Wundt established strict methodological standards centered on:
 ## Early Researchers and Doctoral Cadre
 
 During his four decades at Leipzig (1875–1917), Wundt directed an extraordinary training ground, supervising well over a hundred doctoral dissertations. International scholars flocked to Leipzig, absorbing experimental techniques before returning to establish academic departments and laboratories worldwide:
-- **James McKeen Cattell:** Wundt's first laboratory assistant (1885-86; PhD 1886), Cattell pioneered mental testing, individual differences, and reaction-time research in the United States at the University of Pennsylvania and Columbia University.
-- **Granville Stanley Hall:** Arriving in Leipzig in 1879, Hall established the first dedicated American psychological laboratory at Johns Hopkins University (1883), founded Clark University (1889), and launched the American Psychological Association (APA) in 1892.
-- **Emil Kraepelin:** A student and collaborator (MD thesis 1882), Kraepelin applied Wundt's experimental methods to psychopathology, creating the diagnostic classification system that distinguished dementia praecox (schizophrenia) from manic-depressive insanity.
+- **James McKeen Cattell:** An early volunteer assistant in Wundt's laboratory (from 1885–86; PhD 1886), Cattell pioneered mental testing, individual differences, and reaction-time research in the United States at the University of Pennsylvania and Columbia University.
+- **Granville Stanley Hall:** Arriving in Leipzig in 1879, Hall established the first dedicated American psychological laboratory at Johns Hopkins University (1883), became the first president of Clark University (1889), and launched the American Psychological Association (APA) in 1892.
+- **Emil Kraepelin:** Having taken his medical degree at Würzburg (1878), he worked in Wundt's laboratory after returning to Leipzig in 1882; Kraepelin applied Wundt's experimental methods to psychopathology, creating the diagnostic classification system that distinguished dementia praecox (schizophrenia) from manic-depressive insanity.
 - **Edward Bradford Titchener:** A British student (PhD 1892), Titchener brought a rigid variant of Wundtian introspection to Cornell University, establishing American structuralism.
 - **Hugo Münsterberg:** PhD 1885 under Wundt, Münsterberg was recruited by William James to direct the Harvard psychological laboratory and founded applied, legal, and industrial psychology.
 - **Oswald Külpe:** Student and assistant (1886–1894), Külpe subsequently founded the Würzburg School, investigating complex judgment and "imageless thought" (*unanschauliches Denken*).

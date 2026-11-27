@@ -18,7 +18,7 @@ gaps: []
 
 # Adjustment Disorders
 
-Adjustment disorders are characterized by clinically significant emotional or behavioral symptoms that develop in response to an identifiable psychosocial stressor or life transition (such as divorce, unemployment, severe medical illness, financial crisis, or migration). The symptoms emerge within 3 months of stressor onset and resolve within 6 months after the stressor or its consequences terminate, unless the stressor is chronic. The condition is marked by psychological distress that is out of proportion to the expected severity or intensity of the stressor, or causes significant impairment in social, occupational, or academic functioning.
+Adjustment disorders are characterized by clinically significant emotional or behavioral symptoms that develop in response to an identifiable psychosocial stressor or life transition (such as divorce, unemployment, severe medical illness, financial crisis, or migration). The symptoms emerge within 3 months of stressor onset (DSM-5-TR; ICD-11 describes onset usually within 1 month) and resolve within 6 months after the stressor or its consequences terminate, unless the stressor is chronic. The condition is marked by psychological distress that is out of proportion to the expected severity or intensity of the stressor, or causes significant impairment in social, occupational, or academic functioning.
 
 ## Clinical Ceiling
 
@@ -56,7 +56,7 @@ In pediatric and adolescent populations, adjustment disorders frequently manifes
 Differential diagnosis requires careful clinical boundary demarcation:
 - **Normal (Uncomplicated) Grief**: Characterized by sadness, pangs of yearning (*pangs of grief*), and crying spells that occur primarily in waves evoked by reminders of the deceased. Self-esteem is typically preserved, positive memories can still be accessed, and the reaction is aligned with cultural and religious bereavement rituals.
 - **Adjustment Disorder**: Diagnosed only when bereavement reactions produce emotional distress or behavioral dysfunction that substantially exceeds expected cultural norms, or when the stressor is non-bereavement related.
-- **Prolonged Grief Disorder**: If intense yearning, preoccupation with the deceased, and emotional pain persist beyond the time thresholds (in DSM-5-TR, at least 12 months after the loss in adults and 6 months in children and adolescents; in ICD-11, at least 6 months) accompanied by functional disability, the appropriate diagnosis is Prolonged Grief Disorder (DSM-5-TR F43.8 / ICD-11 6B42), which supersedes adjustment disorder.
+- **Prolonged Grief Disorder**: If intense yearning, preoccupation with the deceased, and emotional pain persist beyond the time thresholds (in DSM-5-TR, at least 12 months after the loss in adults and 6 months in children and adolescents; in ICD-11, at least 6 months) accompanied by functional disability, the appropriate diagnosis is Prolonged Grief Disorder (DSM-5-TR F43.8 as first printed, updated to ICD-10-CM F43.81 from October 2022 / ICD-11 6B42), which supersedes adjustment disorder.
 
 ## Evidence-Based Clinical Management
 
@@ -72,4 +72,4 @@ Because adjustment disorders are by definition stress-precipitated and time-limi
 - World Health Organization. (2019). *International Classification of Diseases, 11th Revision (ICD-11)*. World Health Organization.
 - Casey, P., & Bailey, S. (2011). Adjustment disorders: The state of the art. *World Psychiatry*, 10(1), 11–18.
 - O'Donnell, M. L., Agathos, J. A., Metcalf, O., Gibson, K., & Lau, W. (2019). Adjustment disorder: Current developments and future directions. *International Journal of Environmental Research and Public Health*, 16(14), 2537.
-- Strain, J. J., & Friedman, M. J. (2011). Evaluating DSM-5 proposals for adjustment disorders and PTSD. *Depression and Anxiety*, 28(9), 818–823.
+- Strain, J. J., & Friedman, M. J. (2011). Considering adjustment disorders as stress response syndromes for DSM-5. *Depression and Anxiety*, 28(9), 818–823.

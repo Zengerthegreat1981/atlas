@@ -44,7 +44,7 @@ The paper became the bedrock of behavioral economics and behavioral finance, pro
 
 Prospect theory's central phenomena—framing effects, the reflection effect, and loss aversion—have been replicated in hundreds of laboratory and field studies across economics, psychology, and neuroscience. In 1992, Tversky and Kahneman refined the model into Cumulative Prospect Theory to handle continuous distributions and satisfy first-order stochastic dominance. 
 
-Methodological debates persist regarding the magnitude and universality of loss aversion: aggregate reviews (such as Yechiam, 2019) have argued that loss aversion is attenuated in small-stakes gambles, routine market transactions, or environments where outcomes are learned through repeated feedback rather than described in hypothetical vignettes. Nonetheless, prospect theory remains the dominant descriptive model of individual decision-making under risk.
+Methodological debates persist regarding the magnitude and universality of loss aversion: reviews such as Yechiam (2019) have argued that the early evidence was over-interpreted, since very large losses were overweighted while smaller losses often were not, and other work reports that loss aversion is weaker or absent in some conditions, such as small stakes, decisions with outcome feedback (Ert and Erev, 2013), or money and goods exchanged as intended (Novemsky and Kahneman, 2005). Nonetheless, prospect theory remains the dominant descriptive model of individual decision-making under risk.
 
 ## Sources
 
@@ -52,4 +52,6 @@ Methodological debates persist regarding the magnitude and universality of loss 
 - Tversky, A., & Kahneman, D. (1992). Advances in prospect theory: Cumulative representation of uncertainty. *Journal of Risk and Uncertainty*, 5(4), 297-323.
 - Kahneman, D. (2011). *Thinking, Fast and Slow*. Farrar, Straus and Giroux.
 - Thaler, R. H., & Sunstein, C. R. (2008). *Nudge: Improving Decisions About Health, Wealth, and Happiness*. Yale University Press.
+- Ert, E., & Erev, I. (2013). On the descriptive value of loss aversion in decisions under risk: Six clarifications. *Judgment and Decision Making, 8*(3), 214-235.
+- Novemsky, N., & Kahneman, D. (2005). The boundaries of loss aversion. *Journal of Marketing Research, 42*(2), 119-128.
 - Yechiam, E. (2019). Acceptable losses: The debatable origins of loss aversion. *Psychological Research*, 83(7), 1327-1339.

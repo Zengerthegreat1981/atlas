@@ -4,7 +4,7 @@ id: "THK-13171"
 type: "مفكر"
 part: "arab-thought"
 level: "متقدم"
-quality: "incomplete"
+quality: "incomplete, unverified"
 title: "Mawlana Jalal al-Din Rumi"
 en: "Rumi (Jalaluddin Rumi)"
 crumb: "Arab Thought ← Thinkers ← Mawlana Jalal al-Din Rumi"
@@ -29,7 +29,7 @@ Jalal al-Din Muhammad ibn Baha' al-Din, known as **Rumi** or **Mawlana**, was a 
 
 The decisive turn was his meeting in 642 AH / 1244 CE with the wandering dervish **Shams al-Din Tabrizi**. Shams left Konya, returned, and then disappeared about 1247. The grief of that loss is the traditional setting of the **Divan-e Shams-e Tabrizi**, a large Persian lyric collection, on the order of tens of thousands of lines. In many ghazals the pen-name is Shams rather than Rumi. After Shams, Salah al-Din Zarkub and then Husam al-Din Chelebi were his close companions.
 
-His major didactic poem is the **Masnavi-ye Ma'navi**, six books and about 25,000 couplets. At Husam al-Din's urging he began dictating it in the early 1260s and continued nearly until his death. The sixth book is shorter and has no formal close. The poem sets popular tales beside Qur'anic comment and reflection on annihilation, love and the return to God. A line commonly credited to Jami (d. 1492) calls it "the Qur'an in Persian." The phrase expresses Sufi esteem. It is not a claim that the poem equals scripture, and the attribution to Jami should be kept as an attribution.
+His major didactic poem is the **Masnavi-ye Ma'navi**, six books and about 25,000 couplets. At Husam al-Din's urging he began dictating it in the early 1260s and continued nearly until his death. The sixth book breaks off without a formal close. The poem sets popular tales beside Qur'anic comment and reflection on annihilation, love and the return to God. A line commonly credited to Jami (d. 1492) calls it "the Qur'an in Persian." The phrase expresses Sufi esteem. It is not a claim that the poem equals scripture, and the attribution to Jami should be kept as an attribution.
 
 After his death his circle, and especially his son Sultan Walad, gave the **Mevlevi** path an institutional form. The *sema*, with its turning, grew out of the audition (*sama'*) already practiced around Rumi. It is a later ceremony, not a rite he wrote down. The Turkish Republic closed the Sufi lodges in 1925. Mevlevi turning was later allowed again as a cultural performance, above all at the December commemoration in Konya.
 

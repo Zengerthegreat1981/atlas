@@ -36,10 +36,12 @@ In inauthentic everyday existence (*das Man*), individuals neutralize the terror
 
 Ernest Becker's Pulitzer Prize-winning *The Denial of Death* (1973) synthesized psychoanalytic and existential insights, asserting that human civilization and individual character are largely organized as defenses against the paralyzing terror of finitude. Humans create symbolic "immortality projects"—accumulating wealth, constructing enduring monuments, building empires, or identifying with religions and ideologies—to transcend physical death.
 
-In social psychology, Jeff Greenberg, Sheldon Solomon, and Tom Pyszczynski (1986, 1997) experimentally operationalized Becker's theses into **Terror Management Theory (TMT)**. Decades of empirical studies using the "mortality salience" paradigm demonstrate that reminding people of their mortality elicits predictable defensive responses:
+In social psychology, Jeff Greenberg, Sheldon Solomon, and Tom Pyszczynski (1986, 1997) experimentally operationalized Becker's theses into **Terror Management Theory (TMT)**. Decades of empirical studies using the "mortality salience" paradigm have reported that reminding people of their mortality elicits predictable defensive responses:
 - Increased adherence to and defense of cultural worldviews.
 - Heightened aggression toward out-group members or opposing belief systems.
 - Striving to bolster self-esteem to maintain psychological equilibrium.
+
+The robustness of these effects is debated: the multi-site Many Labs 4 project (published 2022; 21 laboratories) did not replicate a classic mortality salience finding.
 
 ## Clinical Psychotherapy: Death as an Ultimate Concern
 

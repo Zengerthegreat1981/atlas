@@ -4,12 +4,13 @@ id: "THK-0309"
 type: "مفكر"
 part: "psychology"
 level: "متوسط"
+quality: "unverified"
 title: "Paul T. P. Wong"
 en: "Paul T. P. Wong"
 crumb: "Psychology ← Thinkers ← Paul T. P. Wong"
-dates: "Canada / China · 1937–"
+dates: "Canada / China · 1937–2024"
 active_start: 1970
-active_end: "مستمر"
+active_end: 2024
 country: "Canada"
 language: "English"
 edges:
@@ -22,7 +23,7 @@ gaps: []
 
 # Paul T. P. Wong
 
-Paul T. P. Wong (born 1937) is a Chinese-Canadian clinical psychologist, researcher, and educator who carried Viktor Frankl's tradition of logotherapy and meaning-oriented psychology into contemporary empirical science and positive psychology. A professor emeritus at Trent University in Ontario, Wong is the founding president of the International Network on Personal Meaning (INPM) and the Meaning-Centered Counselling Institute in Toronto, as well as the founding editor-in-chief of the *International Journal of Existential Psychology and Psychotherapy*.
+Paul T. P. Wong (1937–2024) was a Chinese-Canadian clinical psychologist, researcher, and educator who carried Viktor Frankl's tradition of logotherapy and meaning-oriented psychology into contemporary empirical science and positive psychology. A professor emeritus at Trent University in Ontario, Wong was the founding president of the International Network on Personal Meaning (INPM) and the Meaning-Centered Counselling Institute in Toronto, as well as the founding editor-in-chief of the *International Journal of Existential Psychology and Psychotherapy*.
 
 ## Context and Intellectual Synthesis
 

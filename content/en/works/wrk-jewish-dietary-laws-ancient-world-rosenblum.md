@@ -4,6 +4,7 @@ id: "WRK-12009"
 type: "عمل / كتاب"
 part: "religious-studies"
 level: "متقدم"
+quality: "unverified"
 religious_tradition: "Judaism (classical Rabbinic)"
 study_approach: "Social history of the Rabbinic text"
 title: "The Jewish Dietary Laws in the Ancient World"
@@ -23,15 +24,15 @@ gaps: []
 
 # The Jewish Dietary Laws in the Ancient World
 
-Jordan Rosenblum's book, published in 2016 by Cambridge University Press, is a historical study of the development of Jewish dietary laws (*kashrut*) from the Hebrew Bible to classical Rabbinic literature (the Mishnah and the Talmud). Rosenblum is a professor of classical Judaism at the University of Wisconsin-Madison.
+Jordan Rosenblum's book, published in 2016 by Cambridge University Press, is a historical study of how ancient Jews defended the Jewish dietary laws (*kashrut*), and how Greek, Roman and early Christian writers criticised them, from the Hebrew Bible to Rabbinic and early Christian literature. Rosenblum is a professor of classical Judaism at the University of Wisconsin-Madison.
 
 ## Definition
 
-The book deals with the system of *kashrut* (the laws of Jewishly permitted food), which determines the animals permitted for eating (ruminants with cloven hooves) and those forbidden (such as the pig), the lawful methods of slaughter (*shechita*), and the strict separation between meat and dairy products. It traces how these laws developed from their concise biblical textual origins (the books of Leviticus and Deuteronomy) to their extended elaboration in later Rabbinic literature.
+The book deals with the system of *kashrut* (the laws of Jewishly permitted food), which determines the animals permitted for eating (ruminants with cloven hooves) and those forbidden (such as the pig), the lawful methods of slaughter (*shechita*), and the strict separation between meat and dairy products. It follows how ancient commentators understood, applied and updated rules that begin in concise biblical texts (the books of Leviticus and Deuteronomy).
 
 ## Thesis
 
-Rosenblum argues that Jewish dietary laws were not a fixed system from the start. They developed gradually over centuries of Rabbinic interpretation until they became a comprehensive mechanism for regulating the Jewish body and delineating the boundaries of the community in the face of the surrounding Hellenistic and Roman cultures. This corresponds, without literal identity, to similar theses about the function of dietary laws in building religious otherness in general. However, Rosenblum confines himself to the Jewish tradition alone, with greater textual depth, rather than comparing the three Abrahamic religions.
+Rosenblum argues that ancient interpretations of the dietary laws were shaped by theological, moral, political, social and financial motives. He analyses three rhetorical strategies used to justify the laws: reason, revelation and allegory. The chapters move through the Hebrew Bible, Greek and Roman sources, Hellenistic Jewish writings and the New Testament, early Rabbinic (Tannaitic) sources, and later Rabbinic (Amoraic) and Christian sources. The subject remains the Jewish dietary laws; the book is not a comparison of the dietary systems of the three Abrahamic religions.
 
 ## Closing Note
 
@@ -51,7 +52,7 @@ Jordan Rosenblum is known for his specialization in classical Rabbinic Judaism, 
 
 ## Method
 
-Rosenblum combines close philological analysis of the Mishnah and Talmud texts with theories from cultural anthropology about the function of food in building social identity. He engages anthropological work such as Mary Douglas's on the symbolic classification of food and impurity. He applies this theoretical framework to specific Jewish texts, rather than confining himself to a descriptive account of the history of the laws alone.
+Rosenblum reads each ancient source in its own context and groups the explanations it offers under reason, revelation and allegory. He also engages modern accounts of the rationale for these laws, such as those of Mary Douglas, Jacob Milgrom and Marvin Harris.
 
 ## Historical Context
 

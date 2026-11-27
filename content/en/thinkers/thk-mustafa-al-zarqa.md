@@ -29,7 +29,7 @@ A Syrian jurist, a prominent Islamic jurist of the twentieth century who combine
 
 ## Life and context
 
-Al-Zarqa was born in Aleppo to a family known for its religious scholarship; his father, Shaykh Ahmad al-Zarqa, was a well-known jurist of Aleppo. In his training he combined traditional Islamic legal study with the study of modern law, a rare combination in his generation, which gave his scholarly method a distinctly comparative character between Islamic jurisprudence and modern civil law. He taught at the University of Damascus for decades, took part in international jurisprudential bodies (such as the International Islamic Fiqh Academy), received the King Faisal International Prize for Islamic Studies (1984), and wrote on issues of the modern Islamic economy such as insurance and banking. He died in Amman in 1999.
+Al-Zarqa was born in Aleppo to a family known for its religious scholarship; his father, Shaykh Ahmad al-Zarqa, was a well-known jurist of Aleppo. In his training he combined traditional Islamic legal study with the study of modern law, a rare combination in his generation, which gave his scholarly method a distinctly comparative character between Islamic jurisprudence and modern civil law. He taught at the University of Damascus for decades, took part in international jurisprudential bodies (such as the International Islamic Fiqh Academy), received the King Faisal International Prize for Islamic Studies (1984), and wrote on issues of the modern Islamic economy such as insurance and banking. He died in Riyadh in 1999.
 
 ## Central ideas
 

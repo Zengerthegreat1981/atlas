@@ -3,6 +3,7 @@ slug: "stu-harvard-adult-development"
 id: "STU-0045"
 type: "دراسة وبحث"
 level: "متقدم"
+quality: "unverified"
 title: "Harvard Study of Adult Development (Grant & Glueck Longitudinal Studies)"
 en: "Harvard Study of Adult Development (Grant & Glueck Longitudinal Studies)"
 crumb: "Psychology ← Studies ← Harvard Study of Adult Development"
@@ -30,7 +31,7 @@ The project brought together two distinct, contrasting cohorts:
 1. The Grant Study: Founded in 1938 by Arlie Bock, chief of the Department of Hygiene at Harvard University, and funded by retail philanthropist W. T. Grant. It recruited 268 physically and mentally robust Harvard sophomore men (from the graduating classes of 1939 to 1944) to study healthy human development rather than pathology.
 2. The Glueck Study: Initiated in 1939 by criminologists Sheldon and Eleanor Glueck of Harvard Law School, tracking 456 inner-city non-delinquent boys aged 11 to 16 from socioeconomically disadvantaged Boston neighborhoods as a control cohort for juvenile delinquency research.
 
-The cohorts were periodically reassessed with comprehensive questionnaires every two years, in-depth psychological interviews and medical physical exams every five years, and in later waves modern biomarkers, blood analyses, DNA epigenetic testing, and functional neuroimaging (fMRI). The study has spanned more than 85 years, making it one of the longest continuous prospective longitudinal studies in scientific history.
+The cohorts were periodically reassessed with comprehensive questionnaires every two years, health information from the men and their physicians about every five years, in-depth interviews at intervals, and in later waves modern biomarkers, blood analyses, DNA epigenetic testing, and functional neuroimaging (fMRI). The study has spanned more than 85 years, making it one of the longest continuous prospective longitudinal studies in scientific history.
 
 ## Results and Conclusions
 

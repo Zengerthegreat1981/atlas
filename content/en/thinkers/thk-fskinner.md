@@ -37,7 +37,7 @@ The founder of behaviorism in its radical form, and the source of two distinct b
 ## Limitation
 The greatest scientific objection raised against him is Noam Chomsky's critique of his book *Verbal Behavior* (1959 review): that reinforcement and shaping do not explain the child's ability to produce sentences it has never heard, and that the vocabulary of behaviorism ("stimulus," "response") loses all specificity when transferred to language. That review is regarded as one of the most influential texts in the field's shift toward cognitivism.
 
-There is also a common myth that trails his name: that he raised his daughter Deborah in a "Skinner Box" and she became psychotic and killed herself. None of that is true. The "Air Crib" was a temperature-controlled crib, not an experimental apparatus, and Deborah Skinner Buzan herself responded publicly to the story while alive, working as an artist in London. The conflation between her and "Little Albert" in Watson's experiment is groundless.
+There is also a common myth that trails his name: that he raised his daughter Deborah in a "Skinner Box" and she became psychotic and killed herself. None of that is true. The "Air Crib" was a temperature-controlled crib, not an experimental apparatus, and Deborah Skinner Buzan, an artist living in London, publicly rejected the story herself in 2004. The conflation between her and "Little Albert" in Watson's experiment is groundless.
 
 ## His Most Important Works
 

@@ -31,7 +31,7 @@ Experimental psychometricians and clinical scientists—prominently Scott Lilien
 
 In response to psychometric criticisms, contemporary proponents have reconceptualized the Rorschach not as a mystical projective conduit for the unconscious, but as an objective, performance-based behavioral task:
 - **The Rorschach Performance Assessment System (R-PAS)**: Developed by Gregory Meyer, Donald Viglione, Joni Mihura, Philip Erdberg, and Thomas Shaffer (2011), R-PAS addresses key methodological vulnerabilities of the Exner system. It standardizes the number of responses (controlling for response-productivity confounds), employs updated international adult and child norms, and grounds all interpretation in empirically supported variables.
-- **Meta-Analytic Evidence**: In an extensive meta-analysis published in *Psychological Bulletin*, Mihura, Meyer, Dumitrascu, and Bombel (2013) evaluated the validity of individual Rorschach variables. They identified robust empirical support for specific scales—particularly those assessing cognitive impairment, formal thought disorder, and perceptual accuracy (e.g., Form Quality and the Thought and Perception Index)—while explicitly distinguishing them from poorly supported scales.
+- **Meta-Analytic Evidence**: In an extensive meta-analysis published in *Psychological Bulletin*, Mihura, Meyer, Dumitrascu, and Bombel (2013) evaluated the validity of individual Rorschach variables. They identified robust empirical support for specific scales—particularly those assessing cognitive impairment, formal thought disorder, and perceptual accuracy (e.g., Form Quality and the Perceptual-Thinking Index)—while explicitly distinguishing them from poorly supported scales.
 - **Resistance to Impression Management**: Proponents argue that performance-based tasks are less susceptible to conscious impression management, malingering, or social desirability biases than self-report questionnaires, offering valuable supplementary clinical data when individuals intentionally dissimulate.
 
 ## Forensic Admissibility and Courtroom Standards
@@ -42,7 +42,7 @@ In United States jurisprudence, the admissibility of expert psychological testim
 3. Has been subjected to peer-reviewed publication; and
 4. Has standards controlling its operation and is generally accepted in the relevant scientific community.
 
-Projective testimony in child custody disputes and criminal evaluations frequently faces *Daubert* challenges. While courts vary, expert testimony relying on unstandardized projective interpretation is increasingly excluded, whereas standardized R-PAS evaluations focused on empirically validated cognitive variables demonstrate greater legal durability.
+The admissibility of projective testimony in child custody disputes and criminal evaluations remains debated, and courts vary. A review of psychological assessment evidence in general (Neal et al., 2019) found that legal challenges were uncommon, occurring in about 5% of the cases sampled, so admission in court should not be read as proof of scientific adequacy.
 
 ## Contemporary Consensus
 
@@ -51,6 +51,7 @@ Mainstream clinical consensus strongly discourages using projective instruments 
 ## Sources
 
 - Lilienfeld, S. O., Wood, J. M., & Garb, H. N. (2000). The scientific status of projective techniques. *Psychological Science in the Public Interest*, 1(2), 27–66.
-- Wood, J. M., Nezworski, M. T., Lilienfeld, S. O., & Garb, H. N. (2003). *What's Wrong with the Rorschach? Science Confronts the Controversy*. Jossey-Bass.
+- Wood, J. M., Nezworski, M. T., Lilienfeld, S. O., & Garb, H. N. (2003). *What's Wrong with the Rorschach? Science Confronts the Controversial Inkblot Test*. Jossey-Bass.
 - Meyer, G. J., Viglione, D. J., Mihura, J. L., Erdberg, P., & Shaffer, T. W. (2011). *Rorschach Performance Assessment System (R-PAS): Administration, Coding, Interpretation, and Technical Manual*. R-PAS LLC.
 - Mihura, J. L., Meyer, G. J., Dumitrascu, N., & Bombel, G. (2013). The validity of individual Rorschach variables: Systematic reviews and meta-analyses of the Comprehensive System. *Psychological Bulletin*, 139(3), 548–605.
+- Neal, T. M. S., Slobogin, C., Saks, M. J., Faigman, D. L., & Geisinger, K. F. (2019). Psychological assessments in legal contexts: Are courts keeping "junk science" out of the courtroom? *Psychological Science in the Public Interest*, 20(3), 135–164.

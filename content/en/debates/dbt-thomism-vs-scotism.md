@@ -4,6 +4,7 @@ id: "DBT-0352"
 type: "جدل"
 part: "philosophy"
 level: "متقدم"
+quality: "unverified"
 title: "Thomism versus Scotism: Intellect or Will?"
 en: "Thomism vs. Scotism: Intellect vs. Will"
 crumb: "Philosophy ← Debates ← The Thomism–Scotism Debate"
@@ -32,9 +33,9 @@ One of the great debates of Latin scholasticism, associated with the **Dominican
 
 ## The second position: Scotism (the will's self-determination)
 
-- **John Duns Scotus** (c. 1265/66-1308), in the *Ordinatio* (his Oxford lectures, revised c. 1300-1304; see for example Book II, Distinction 25 on freedom, and Book IV, Distinction 49 on beatitude): the will is a distinct rational power that is not determined by the intellect. It is "self-determining": even when the intellect presents an object, the will can will it, refuse it, or will something else. Scotus connects this with his view of freedom as the capacity for opposite acts (contingency in the will itself).
+- **John Duns Scotus** (c. 1265/66-1308), in the *Ordinatio* (a revision of his Oxford lectures, begun by 1300 and still unfinished at his death; see for example Book IV, Distinction 49 on beatitude; on freedom see also *Lectura* II, Distinction 25, a distinction the *Ordinatio* lacks): the will is a distinct rational power that is not determined by the intellect. It is "self-determining": even when the intellect presents an object, the will can will it, refuse it, or will something else. Scotus connects this with his view of freedom as the capacity for opposite acts (contingency in the will itself).
 - **Ethics and beatitude**: Scotus holds that beatitude consists chiefly in an act of the will, loving God, rather than in the intellect's vision. Charity is the highest of the virtues.
-- **Theology**: God's will is free in relation to creation: the created order is contingent because God freely wills it. On Scotus's view only the first table of the Decalogue (duties toward God) is strictly necessary, while the second table depends on God's free choice.
+- **Theology**: God's will is free in relation to creation: the created order is contingent because God freely wills it. On Scotus's view only precepts of the first table of the Decalogue (duties toward God) are strictly necessary, though not the choice of a particular Sabbath day, while the second table depends on God's free choice.
 - **Distinctive doctrines**: Scotus also taught the univocity of being (that "being" has one sense when said of God and creatures) and individuation by "thisness" (*haecceitas*).
 
 ## The main points of difference
@@ -53,7 +54,7 @@ One of the great debates of Latin scholasticism, associated with the **Dominican
 ## Sources
 
 - Aquinas, Thomas. *Summa Theologiae*. c. 1265-1273.
-- Duns Scotus, John. *Ordinatio* (Opus Oxoniense). c. 1300-1304.
+- Duns Scotus, John. *Ordinatio* (Opus Oxoniense). Begun c. 1300.
 - Cross, Richard. *Duns Scotus*. Oxford University Press, 1999.
 - Williams, Thomas (ed.). *The Cambridge Companion to Duns Scotus*. Cambridge University Press, 2003.
 - Kent, Bonnie. *Virtues of the Will: The Transformation of Ethics in the Late Thirteenth Century*. Catholic University of America Press, 1995.

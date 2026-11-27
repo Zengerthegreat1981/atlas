@@ -43,7 +43,7 @@ Beginning in 2009, Frances published a series of articles in *Psychiatric Times*
 
 ### Other Writings
 
-Frances wrote *Essentials of Psychiatric Diagnosis*, to help clinicians apply the criteria of the manual with caution. In 2013 he published an article in *Annals of Internal Medicine* on the crisis of confidence in psychiatric diagnosis. In 2017 he published *Twilight of American Sanity*, in which he discussed the psychology of U.S. President Donald Trump, despite the Goldwater rule, which prevents physicians from diagnosing public figures remotely.
+Frances wrote *Essentials of Psychiatric Diagnosis*, to help clinicians apply the criteria of the manual with caution. In 2013 he published an article in *Annals of Internal Medicine* on the crisis of confidence in psychiatric diagnosis. In 2017 he published *Twilight of American Sanity*, in which he examined the social psychology behind the rise of U.S. President Donald Trump and argued against assigning Trump a psychiatric diagnosis. (The American Psychiatric Association's Goldwater rule bars its members from giving professional opinions on public figures they have not examined.)
 
 ## Legacy
 

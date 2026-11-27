@@ -4,6 +4,7 @@ id: "CON-18399"
 type: "مفهوم"
 part: arab-thought
 level: "متقدم"
+quality: "unverified"
 title: "Postcolonial Arab Feminism"
 en: "Postcolonial Arab Feminism"
 crumb: "Arab Thought ← Concepts ← Postcolonial Arab Feminism"
@@ -30,7 +31,7 @@ The intellectual architecture of postcolonial Arab feminism was profoundly influ
 
 ## Major Thinkers and Theoretical Contributions
 
-- **Nawal El Saadawi (1931–2021)**: An Egyptian physician, novelist, and activist, El Saadawi combined clinical analysis with radical structural critique. In foundational texts such as *Al-Mar'a wa-l-jins* (*Women and Sex*, 1972) and *Al-Wajh al-'ari li-l-mar'a al-'Arabiyya* (*The Hidden Face of Eve*, 1977), she attacked female genital mutilation (FGM), virginity cults, and sexual violence. She linked local gender oppression to class exploitation, authoritarian rule, imperialism, and what she regarded as religious patriarchy, and she treated women's emancipation as inseparable from that wider social critique.
+- **Nawal El Saadawi (1931–2021)**: An Egyptian physician, novelist, and activist, El Saadawi combined clinical analysis with radical structural critique. In foundational texts such as *Al-Mar'a wa-l-jins* (*Women and Sex*; Britannica dates it to 1969, and 1972 is also widely given) and *Al-Wajh al-'ari li-l-mar'a al-'Arabiyya* (*The Hidden Face of Eve*, 1977), she attacked female genital mutilation (FGM), virginity cults, and sexual violence. She linked local gender oppression to class exploitation, authoritarian rule, imperialism, and what she regarded as religious patriarchy, and she treated women's emancipation as inseparable from that wider social critique.
 - **Fatima Mernissi (1940–2015)**: A Moroccan sociologist, Mernissi wrote both sociological studies of gender and critical readings of Islamic sources. *Beyond the Veil* (1975) analyzes male-female dynamics in a Moroccan setting. In *Le harem politique* (1987; English *The Veil and the Male Elite*), she reexamined hadith reports used to restrict women's public authority, including the report that a people who appoint a woman as their ruler will not prosper, and argued that some such reports were put to work in political conflict. Her hadith criticism is contested. In *Sultanes oubliées* (1990; *The Forgotten Queens of Islam*), she assembled evidence for Muslim women who held sovereign or near-sovereign power.
 - **Islamic Feminist Hermeneutics**: A related, and not specifically Arab, current rereads the Qur'an against patriarchal jurisprudence. The Pakistani-American scholar Asma Barlas, in *"Believing Women" in Islam* (2002), distinguishes the Qur'anic text from the male juristic tradition (*fiqh*) that, in her argument, turned social patriarchy into law. Her work is widely read beside Arab and Maghrebi feminist writing. It is not itself an Arab source.
 

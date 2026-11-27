@@ -39,7 +39,7 @@ Sapir cautioned against treating "culture" as a reified, external mechanical ent
 
 ## Psychoanalytic Integration: Abram Kardiner and Basic Personality Structure
 
-During the late 1930s, psychoanalyst **Abram Kardiner (1891–1981)** initiated a collaborative seminar at the Columbia University Psychoanalytic Clinic with anthropologists including Ralph Linton, Cora Du Bois, and Ruth Benedict. Kardiner sought to ground the school in explicit developmental mechanisms, formulating the theory of the **basic personality structure**:
+In the mid-1930s, psychoanalyst **Abram Kardiner (1891–1981)** initiated a collaborative seminar at the New York Psychoanalytic Institute, later moved to Columbia University's Department of Anthropology, with anthropologists including Ralph Linton, Cora Du Bois, and Ruth Benedict. Kardiner sought to ground the school in explicit developmental mechanisms, formulating the theory of the **basic personality structure**:
 - *Primary Institutions*: Foundational cultural practices of infant care and childhood rearing (breastfeeding schedules, weaning, toilet training, emotional discipline, subsistence patterns).
 - *Basic Personality*: The shared psychological matrix and adaptive ego structure produced in individuals by experiencing these primary institutions.
 - *Secondary Institutions*: Projective cultural systems (mythology, folklore, religion, taboos, rituals) created by adults as unconscious projections and symbolic resolutions of the emotional conflicts instilled during early childhood socialization.

@@ -40,11 +40,12 @@ The Muslim hajj to Mecca is sometimes cited as a comparative test of both models
 
 ## Later Synthesis in the Literature
 
-Later scholars, among them Simon Coleman and John Eade in the edited volume *Reframing Pilgrimage* (2004), suggested that the two positions are not necessarily contradictory, but describe two coexisting aspects of the same phenomenon. On this view, moments of communitas can arise within the ritual itself (for example, collective moments within the pilgrimage rites), while a broader institutional structure of contestation over the management of the site and the interpretation of its meaning continues in parallel among the different actors. This synthesis does not cancel the original disagreement between Turner and Eade and Sallnow. It suggests, however, that choosing one of the two models as an exclusive explanation may be an excessive simplification of a phenomenon that is multi-layered in time and society.
+Later scholarship sought to move beyond the opposition. Simon Coleman (2002) argued that the communitas and contestation paradigms share an important, largely implicit theoretical overlap, and the volume *Reframing Pilgrimage* (2004), edited by Coleman and John Eade, shifted attention to movement and wider forms of cultural mobility. The two positions can also be read as describing coexisting aspects of the same phenomenon. On this view, moments of communitas can arise within the ritual itself (for example, collective moments within the pilgrimage rites), while a broader institutional structure of contestation over the management of the site and the interpretation of its meaning continues in parallel among the different actors. This synthesis does not cancel the original disagreement between Turner and Eade and Sallnow. It suggests, however, that choosing one of the two models as an exclusive explanation may be an excessive simplification of a phenomenon that is multi-layered in time and society.
 
 ## Sources
 
 - Turner, V. (1969). *The Ritual Process: Structure and Anti-Structure*. Aldine Publishing.
 - Turner, V., & Turner, E. (1978). *Image and Pilgrimage in Christian Culture*. Columbia University Press.
 - Eade, J., & Sallnow, M. J. (Eds.). (1991). *Contesting the Sacred: The Anthropology of Christian Pilgrimage*. Routledge.
+- Coleman, S. (2002). "Do You Believe in Pilgrimage? Communitas, Contestation and Beyond." *Anthropological Theory*.
 - Coleman, S., & Eade, J. (Eds.) (2004). *Reframing Pilgrimage: Cultures in Motion*. Routledge.

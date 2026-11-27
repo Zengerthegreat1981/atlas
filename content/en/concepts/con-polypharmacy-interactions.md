@@ -52,7 +52,7 @@ Not every multiple prescription is an error. Some conditions, such as treatment-
 ## Sources
 
 - Mojtabai, R., & Olfson, M. (2010). National trends in psychotropic medication polypharmacy in office-based psychiatry. Archives of General Psychiatry, 67(1), 26–36.
-- Tiihonen, J., et al. (2012). Polypharmacy with antipsychotics, antidepressants, and benzodiazepines and mortality in schizophrenia. Archives of General Psychiatry, 69(5), 476–483.
+- Tiihonen, J., et al. (2012). Polypharmacy with antipsychotics, antidepressants, or benzodiazepines and mortality in schizophrenia. Archives of General Psychiatry, 69(5), 476–483.
 - Boyer, E. W., & Shannon, M. (2005). The serotonin syndrome. New England Journal of Medicine, 352(11), 1112–1120.
 - Taylor, D., Barnes, T. R. E., & Young, A. H. (2018). The Maudsley Prescribing Guidelines in Psychiatry (13th ed.). Chichester: Wiley.
 - Pormann, P. E., & Savage-Smith, E. (2007). Medieval Islamic Medicine. Edinburgh: Edinburgh University Press.

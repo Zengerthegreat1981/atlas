@@ -4,6 +4,7 @@ id: "WRK-11705"
 type: "عمل / كتاب"
 part: "religious-studies"
 level: "متقدم"
+quality: "unverified"
 title: "Mama Lola: A Vodou Priestess in Brooklyn (the book)"
 en: "Mama Lola: A Vodou Priestess in Brooklyn"
 crumb: "Religious Studies ← Works ← Mama Lola: A Vodou Priestess in Brooklyn"
@@ -34,7 +35,7 @@ The roots of Haitian Vodou lie in the blending of West African beliefs (especial
 
 ## Main Ideas and Method
 
-The book traces several generations of Vodou practitioners in Alourdes's family. It presents Haitian Vodou as a living religious practice rooted in the everyday life of immigrants: healing, kinship, migration, and the central role of women as priestesses and intermediaries between the human world and the world of the *lwa* (the intermediary spirits invoked in rituals). Brown adopts an intimate feminist ethnographic method that gives the native informant's voice a central narrative space. Entire chapters are presented in Alourdes's own voice, as the researcher transcribed and organized them literarily. This was widely discussed at the time as an experimental approach within academic anthropology.
+The book traces several generations of Vodou practitioners in Alourdes's family. It presents Haitian Vodou as a living religious practice rooted in the everyday life of immigrants: healing, kinship, migration, and the central role of women as priestesses and intermediaries between the human world and the world of the *lwa* (the intermediary spirits invoked in rituals). Brown adopts an intimate feminist ethnographic method that gives the native informant's voice a central narrative space. Chapters of ethnography alternate with chapters of ethnographic fiction, in which Brown retells stories about Alourdes's family and ancestors, and her analytic and personal voice is interwoven with the voices of her subjects. This was widely discussed at the time as an experimental approach within academic anthropology.
 
 ## Principal Works and Figures
 
@@ -46,9 +47,9 @@ The book is widely regarded as an influential model of an intimate feminist ethn
 
 ## Concluding Notes on Method
 
-Brown wrote some chapters in the first person in Alourdes's own voice, based on long recorded conversations that she organized and edited. This ethnographic technique provoked a broad methodological debate on the limits of textual mediation between the voice of the informant and the voice of the researcher. The 2001 expanded edition added new material updating the story of Alourdes's family after the first edition appeared.
+Brown described the book's fictionalized short stories as based on accounts of Alourdes's late relatives and ancestors, and she also wrote herself into the text as a character. This ethnographic technique provoked a broad methodological debate on the limits of textual mediation between the voice of the informant and the voice of the researcher. The 2001 expanded edition added new material updating the story of Alourdes's family after the first edition appeared.
 
-The book also discusses initiation (*kanzo*), the ritual process through which a person becomes a recognized Vodou priest or priestess. Brown shows how this ritual trajectory intersects with the experience of migration itself: Alourdes, like many priestesses of her generation, carried to America a ritual knowledge inherited from her mother and grandmother, keeping it alive despite her move from rural Haiti to an urban neighborhood in Brooklyn.
+The book also discusses initiation (*kanzo*), the ritual process through which a person becomes a recognized Vodou priest or priestess. Brown shows how this ritual trajectory intersects with the experience of migration itself: Alourdes, like many priestesses of her generation, carried to America a ritual knowledge inherited from her mother and grandmother, keeping it alive after her move from Haiti, where she was born in Port-au-Prince, to an urban neighborhood in Brooklyn.
 
 ## Sources
 

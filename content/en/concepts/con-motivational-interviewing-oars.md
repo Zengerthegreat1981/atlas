@@ -19,7 +19,7 @@ gaps: []
 ---
 # The OARS Technique in Motivational Interviewing
 
-The four core communication skills of Motivational Interviewing (MI), developed by William R. Miller and Stephen Rollnick (first described in 1991, with revised editions in 2002, 2013, and 2023): open questions, affirmations, reflective listening, and summaries. OARS represents the procedural core of MI, but these skills function effectively only when grounded in the underlying "MI Spirit"—the clinician's collaborative, person-centered stance defined by Partnership, Acceptance, Compassion, and Evocation (often abbreviated as PACE).
+The four core communication skills of Motivational Interviewing (MI), developed by William R. Miller and Stephen Rollnick (MI was first described by Miller in 1983; their book appeared in 1991, with revised editions in 2002, 2013, and 2023): open questions, affirmations, reflective listening, and summaries. OARS represents the procedural core of MI, but these skills function effectively only when grounded in the underlying "MI Spirit"—the clinician's collaborative, person-centered stance defined by Partnership, Acceptance, Compassion, and Evocation (often abbreviated as PACE). This wording follows the 2013 third edition; the 2023 fourth edition broadened Evocation to Empowerment.
 
 ## The Four Tools
 
@@ -63,7 +63,7 @@ In earlier formulations (Miller & Rollnick, 1991, 2002), MI was described throug
 - **Roll with resistance**: avoiding confrontation and reframing reluctance collaboratively.
 - **Support self-efficacy**: fostering belief in the possibility of change.
 
-In the third (2013) and fourth (2023) editions, Miller and Rollnick reorganized MI around **four sequential and overlapping processes**:
+In the third (2013) and fourth (2023) editions, Miller and Rollnick reorganized MI around **four sequential and overlapping processes** (called "tasks" in the fourth edition):
 1. **Engaging**: establishing a trusting, collaborative working relationship using OARS.
 2. **Focusing**: identifying and maintaining a specific direction or behavioral goal for change.
 3. **Evoking**: eliciting the client's own motivations, values, and "change talk" (arguments for change) while skillfully responding to "sustain talk" (arguments for the status quo) and relationship discord, which replaced the earlier concept of "resistance."
@@ -71,8 +71,8 @@ In the third (2013) and fourth (2023) editions, Miller and Rollnick reorganized 
 
 ## Research Evidence
 
-- **Lundahl et al. (2010)**: a meta-analysis of 119 empirical studies found that MI produced statistically significant, small-to-moderate effects across a wide range of target outcomes, including alcohol, tobacco, and illicit drug use, as well as treatment adherence and medical outcomes.
-- **Rubak et al. (2005)**: a systematic review and meta-analysis of randomized controlled trials demonstrated that MI had significant positive effects on health-related lifestyle behaviors, blood pressure, and cholesterol, outperforming standard advice-giving in roughly 75% of included trials.
+- **Lundahl et al. (2010)**: a meta-analysis of 119 studies, covering outcomes such as substance use, health-related behaviors, gambling, and treatment engagement, found that MI produced statistically significant, durable effects in the small range against weak comparison groups (average g = 0.28), but nonsignificant differences when compared with other specific treatments (average g = 0.09).
+- **Rubak et al. (2005)**: a systematic review and meta-analysis of randomized controlled trials across 72 trials, found significant combined effects for body mass index, total blood cholesterol, systolic blood pressure, and blood alcohol measures, but not for cigarettes per day or HbA1c; a significant, clinically relevant effect appeared in approximately three out of four studies.
 - **Cross-cultural considerations**: while the majority of trials have been conducted in Western clinical settings, adapted MI interventions have shown promise across diverse cultural groups, though culturally tailored adaptations remain an area of ongoing investigation.
 
 ## Clinical Applications
@@ -91,3 +91,4 @@ In the third (2013) and fourth (2023) editions, Miller and Rollnick reorganized 
 - Rollnick, S., Miller, W. R., & Butler, C. C. (2008). *Motivational Interviewing in Health Care: Helping Patients Change Behavior*. Guilford Press.
 - Lundahl, B. W., Kunz, C., Brownell, C., Tollefson, D., & Burke, B. L. (2010). A meta-analysis of motivational interviewing: Twenty-five years of empirical studies. *Research on Social Work Practice*, 20(2), 137-160.
 - Rubak, S., Sandbaek, A., Lauritzen, T., & Christensen, B. (2005). Motivational interviewing: A systematic review and meta-analysis. *British Journal of General Practice*, 55(513), 305-312.
+- Miller, W. R. (1983). Motivational interviewing with problem drinkers. *Behavioural Psychotherapy*, 11(2), 147-172.

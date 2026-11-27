@@ -7,9 +7,9 @@ level: "متقدم"
 title: "Marsha M. Linehan"
 en: "Marsha M. Linehan"
 crumb: "Psychiatry ← Thinkers ← Marsha M. Linehan"
-dates: "United States · 1943–present"
+dates: "United States · 1943–2026"
 active_start: 1977
-active_end: "مستمر"
+active_end: 2026
 country: "United States"
 language: "English"
 edges:
@@ -21,11 +21,11 @@ gaps: []
 
 # Marsha M. Linehan
 
-An American clinical psychologist (born 1943), professor at the University of Washington, and developer of Dialectical Behavior Therapy (DBT), one of the most empirically documented psychological treatments for borderline personality disorder and chronic suicidal behavior.
+An American clinical psychologist (1943–2026), professor at the University of Washington, and developer of Dialectical Behavior Therapy (DBT), one of the most empirically documented psychological treatments for borderline personality disorder and chronic suicidal behavior.
 
 ## Personal and Professional Path
 
-Linehan earned her doctorate in clinical psychology from Loyola University Chicago in 1971, worked for several years at the Catholic University of America, and joined the University of Washington in 1977, where she spent decades developing DBT and testing it empirically. In 2011 she publicly disclosed that at the age of seventeen she had suffered a severe psychiatric disorder that required hospitalization, and that she had been given a diagnosis of schizophrenia at the time; she later said her difficulties were more consistent with borderline personality disorder. She told her story at length in her memoir *Building a Life Worth Living* (2020). The disclosure drew wide attention as a rare case of a therapist who developed a treatment for a disorder she had herself experienced.
+Linehan earned her doctorate in psychology, with clinical training, from Loyola University Chicago in 1971, worked for several years at the Catholic University of America, and joined the University of Washington in 1977, where she spent decades developing DBT and testing it empirically. In 2011 she publicly disclosed that at the age of seventeen she had suffered a severe psychiatric disorder that required hospitalization, and that she had been given a diagnosis of schizophrenia at the time; she later said her difficulties were more consistent with borderline personality disorder. She told her story at length in her memoir *Building a Life Worth Living* (2020). The disclosure drew wide attention as a rare case of a therapist who developed a treatment for a disorder she had herself experienced. She died in Seattle on 10 November 2026, aged 83.
 
 ## Contributions
 

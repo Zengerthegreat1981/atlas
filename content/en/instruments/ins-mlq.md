@@ -4,6 +4,7 @@ id: "INS-0002"
 type: "أداة قياس"
 part: "psychology"
 level: "مبتدئ"
+quality: "unverified"
 title: "Meaning in Life Questionnaire (MLQ)"
 en: "Meaning in Life Questionnaire (MLQ)"
 crumb: "Psychological Measurement and Diagnosis ← Instruments ← Meaning in Life Questionnaire (MLQ)"
@@ -31,7 +32,7 @@ Respondents rate items on a 7-point Likert scale ranging from 1 ("absolutely unt
 ## Psychometric Properties
 
 The MLQ exhibits robust psychometric properties across diverse populations:
-- **Internal Consistency**: Cronbach's alpha coefficients routinely range from 0.81 to 0.86 for the Presence subscale and from 0.84 to 0.88 for the Search subscale.
+- **Internal Consistency**: Cronbach's alpha coefficients routinely range from 0.81 to 0.86 for the Presence subscale and from 0.84 to 0.92 for the Search subscale.
 - **Stability**: Test-retest reliability over one- to two-month intervals ranges between 0.70 and 0.73.
 - **Factorial Validity**: Confirmatory factor analysis robustly replicates the two-factor orthogonal model over unidimensional alternatives across clinical and non-clinical cohorts.
 - **Construct Validity**: Presence of Meaning correlates positively with life satisfaction, positive affect, optimism, and intrinsic religiosity, while correlating negatively with depression and suicidal ideation. Search for Meaning displays more complex relationships, correlating positively with rumination and neuroticism in some samples, and its relation to well-being appears to vary across cultural contexts.

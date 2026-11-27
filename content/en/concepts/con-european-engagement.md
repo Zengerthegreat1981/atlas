@@ -4,6 +4,7 @@ id: "CON-18382"
 type: "مفهوم"
 part: "arab-thought"
 level: "متقدم"
+quality: "unverified"
 title: "European Intellectual Engagement"
 en: "European Intellectual Engagement"
 crumb: "Arab Thought ← Concepts ← European Intellectual Engagement"
@@ -50,4 +51,4 @@ As Ibrahim Abu-Lughod argued in *Arab Rediscovery of Europe* (1963), the initial
 - Elshakry, Marwa. *Reading Darwin in Arabic, 1860–1950*. Chicago: University of Chicago Press, 2013.
 - Hourani, Albert. *Arabic Thought in the Liberal Age 1798–1939*. Oxford: Oxford University Press, 1962.
 - Zaydan, Jurji. *Tarikh Adab al-Lugha al-'Arabiyya*. Cairo: Matba'at al-Hilal, 1911–1914.
-- Patel, Abdulrazzak. *The Arab Nahdah: The Making of an Intellectual and Humanist Movement*. Edinburgh: Edinburgh University Press, 2013.
+- Patel, Abdulrazzak. *The Arab Nahdah: The Making of the Intellectual and Humanist Movement*. Edinburgh: Edinburgh University Press, 2013.

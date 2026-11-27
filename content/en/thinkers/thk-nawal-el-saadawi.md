@@ -4,6 +4,7 @@ id: "THK-13180"
 type: "مفكر"
 part: "arab-thought"
 level: "متقدم"
+quality: "unverified"
 title: "Nawal El Saadawi"
 en: "Nawal El Saadawi"
 crumb: "Arab Thought ← Thinkers ← Nawal El Saadawi"
@@ -31,7 +32,7 @@ In September 1981, during a wave of arrests of opponents of President Anwar Sada
 
 ## Her Contributions
 
-- **Female genital cutting and control of the body**: In *Woman and Sex* (1972), the book that cost her the ministry post, she wrote from medical work in rural Egypt. She treated female genital cutting as a social mechanism for controlling women's sexuality, tied to family honour, and not as a practice that could be explained by scripture or hygiene alone.
+- **Female genital cutting and control of the body**: In *Woman and Sex* (first published 1969), the book that cost her the ministry post, she wrote from medical work in rural Egypt. She treated female genital cutting as a social mechanism for controlling women's sexuality, tied to family honour, and not as a practice that could be explained by scripture or hygiene alone.
 - **A layered account of oppression**: *The Hidden Face of Eve* appeared in Arabic in 1977 as *al-Wajh al-Ari lil-Mar'a al-Arabiyya*. It connects women's subordination to economic dependence, personal-status law, male interpretation of religious texts and control of the body, and it sets those factors beside class and colonial power. The English book of 1980, translated and edited by Sherif Hetata, is an adaptation of the Arabic, shaped in part for readers outside the Arab world. The two texts differ.
 - **Fiction as social argument**: The novel *Woman at Point Zero* (*Imra'a inda Nuqtat al-Sifr*, 1975) draws on her meeting with a woman prisoner, Firdaus, who was awaiting execution for killing a man who had exploited her. The novel has been widely read in feminist literary studies. It is a novel built from an interview, not a case history.
 - **The interconnection of colonialism, patriarchy and religion**: She held that the oppression of Arab women was the product of a threefold intersection: the colonial legacy, local patriarchal structures, and the use of religious discourse to control the female body. This position brought her close to Third-Worldist and postcolonial feminist currents, despite her disagreements with some Western ones.
@@ -43,14 +44,14 @@ She is a major voice in late twentieth-century Arab feminist writing. She did no
 
 ## Major Works
 
-- *Woman and Sex* (1972).
+- *Woman and Sex* (1969).
 - *Woman at Point Zero* (1975).
 - *The Hidden Face of Eve* (1977).
 - *Memoirs from the Women's Prison* (1984).
 
 ## Sources
 
-- El Saadawi, Nawal. *Woman and Sex* [*al-Mar'a wa-l-jins*]. 1972.
+- El Saadawi, Nawal. *Woman and Sex* [*al-Mar'a wa-l-jins*]. 1969.
 - El Saadawi, Nawal. *The Hidden Face of Eve: Women in the Arab World*. Translated and edited by Sherif Hetata. London: Zed Press, 1980. Arabic text, *al-Wajh al-Ari lil-Mar'a al-Arabiyya*, 1977. The English is an adaptation.
 - El Saadawi, Nawal. *Woman at Point Zero*, trans. Sherif Hetata. Zed Books, 1983 (Arabic original 1975).
 - El Saadawi, Nawal. *Memoirs from the Women's Prison*, trans. Marilyn Booth. The Women's Press, 1986.

@@ -4,6 +4,7 @@ id: "DIS-0001"
 type: "اضطراب/حالة إكلينيكية"
 part: "psychology"
 level: "مبتدئ"
+quality: "unverified"
 title: "Generalized Anxiety Disorder (GAD)"
 en: "Generalized Anxiety Disorder (GAD)"
 crumb: "Psychiatry and Diagnosis ← Disorders and Clinical Conditions ← Generalized Anxiety Disorder (GAD)"
@@ -34,7 +35,7 @@ DSM-5-TR requires excessive anxiety and worry, occurring more days than not for 
 
 ## History
 
-Generalised anxiety has a long history under other names. Nineteenth-century physicians described neurasthenia, a state of nervous exhaustion that included chronic worry among its symptoms, and early psychoanalytic writing treated free-floating anxiety as a central clinical problem. The modern category was created by DSM-III in 1980, which defined generalised anxiety disorder as a residual category for anxiety that did not fit the other anxiety disorders, and it was substantially revised in DSM-III-R (1987), which made excessive, uncontrollable worry the central feature and set the six-month duration, and in DSM-IV (1994). Thomas Borkovec and colleagues, beginning with a 1983 study of the characteristics of worry and developing the account over later decades, gave the field its dominant model of worry itself: worry is a form of cognitive avoidance, an attempt to think one's way out of threat that prevents the emotional processing of the feared material and thereby maintains the anxiety. DSM-5 (2013) and DSM-5-TR (2022) retained the category with minor changes, while ICD-11 (2019) adopted it as code 6B00 and also recognised mixed anxiety and depressive disorder (6A73) as a separate category for presentations that combine symptoms of both without meeting the full threshold of either.
+Generalised anxiety has a long history under other names. Nineteenth-century physicians described neurasthenia, a state of nervous exhaustion that included chronic worry among its symptoms, and early psychoanalytic writing treated free-floating anxiety as a central clinical problem. The modern category was created by DSM-III in 1980, which defined generalised anxiety disorder as a residual category for anxiety that did not fit the other anxiety disorders, and it was substantially revised in DSM-III-R (1987), which made excessive or unrealistic worry the central feature and set the six-month duration, and again in DSM-IV (1994), which added the requirement that the worry be difficult to control. Thomas Borkovec and colleagues, beginning with a 1983 study of the characteristics of worry and developing the account over later decades, gave the field its dominant model of worry itself: worry is a form of cognitive avoidance, an attempt to think one's way out of threat that prevents the emotional processing of the feared material and thereby maintains the anxiety. DSM-5 (2013) and DSM-5-TR (2022) retained the category with minor changes, while ICD-11 (2019) adopted it as code 6B00 and also recognised mixed anxiety and depressive disorder (6A73) as a separate category for presentations that combine symptoms of both without meeting the full threshold of either.
 
 ## Causes and mechanisms
 
@@ -42,7 +43,7 @@ The causes of GAD are best described as a combination of temperament, learning, 
 
 ## Treatment
 
-The interventions with the broadest evidence support are cognitive behavioural therapy — in particular cognitive reappraisal and imaginal exposure to the worried-about future — and selective serotonin reuptake inhibitors, according to reviews by NICE and the American Psychiatric Association. Medication is effective for many patients, and the combination of medication and CBT is sometimes used for severe or chronic presentations. This is a summary of the literature, not a recommendation for any individual; treatment decisions belong to a clinician who has assessed the person.
+The interventions with the broadest evidence support are cognitive behavioural therapy — in particular cognitive reappraisal and imaginal exposure to the worried-about future — and selective serotonin reuptake inhibitors, according to the NICE guideline (CG113) and Stein and Sareen's 2015 review. Medication is effective for many patients, and the combination of medication and CBT is sometimes used for severe or chronic presentations. This is a summary of the literature, not a recommendation for any individual; treatment decisions belong to a clinician who has assessed the person.
 
 ## The philosophical distinction
 
@@ -54,15 +55,17 @@ Borkovec and colleagues' 1983 paper is an early empirical study of worry, and Bo
 
 ## Epidemiological and Cultural Context
 
-Epidemiological surveys indicate that generalized anxiety disorder has a lifetime prevalence of approximately 3.7% to 5.7% in high-income Western countries (Kessler et al., 2005; Stein & Sareen, 2015). In the Arab world and Middle Eastern populations, epidemiological studies (such as the WHO World Mental Health Surveys in Lebanon and national surveys in the Gulf) report prevalence estimates broadly comparable to international figures, although regional data remain limited. Cultural presentation in Arab contexts frequently emphasizes somatic manifestations of anxiety—such as muscle tension, gastrointestinal complaints, palpitations, and chronic headaches—rather than purely psychological worry. As a result, individuals with GAD often seek care initially in general medical or primary care clinics rather than mental health settings.
+Epidemiological surveys indicate a lifetime prevalence of generalized anxiety disorder of about 5.7% for DSM-IV criteria in the United States (Kessler et al., 2005); across 26 World Mental Health survey countries, DSM-5 lifetime prevalence was 3.7% overall and 5.0% in high-income countries (Ruscio et al., 2017). In the Arab world, regional data remain limited; the Saudi National Mental Health Survey, for example, found generalized anxiety disorder estimates substantially lower than those of World Mental Health surveys in other high-income countries (Altwaijri et al., 2020). Cultural presentation in Arab contexts frequently emphasizes somatic manifestations of anxiety—such as muscle tension, gastrointestinal complaints, palpitations, and chronic headaches—rather than purely psychological worry. As a result, individuals with GAD often seek care initially in general medical or primary care clinics rather than mental health settings.
 
 ## Sources
 
+- Altwaijri, Yasmin A., et al. (2020). Twelve-month prevalence and severity of mental disorders in the Saudi National Mental Health Survey. *International Journal of Methods in Psychiatric Research*, 29(3), e1831.
 - American Psychiatric Association (1980). *Diagnostic and Statistical Manual of Mental Disorders*, 3rd ed. (DSM-III).
 - Borkovec, Thomas D., Robinson, Elwood, Pruzinsky, Thomas, and DePree, Jean A. (1983). Preliminary exploration of worry: some characteristics and processes. *Behaviour Research and Therapy*, 21(1), 9–16.
 - Borkovec, Thomas D., Alcaine, Ovsanna M., and Behar, Evelyn (2004). Avoidance theory of worry and generalized anxiety disorder. In R. G. Heimberg, C. L. Turk, and D. S. Mennin (Eds.), *Generalized Anxiety Disorder: Advances in Research and Practice*. Guilford Press.
 - Kessler, R. C., et al. (2005). Lifetime prevalence and age-of-onset distributions of DSM-IV disorders in the National Comorbidity Survey Replication. *Archives of General Psychiatry*, 62(6), 593–602.
 - May, Rollo (1977). *The Meaning of Anxiety*, rev. ed. W. W. Norton.
+- Ruscio, Ayelet Meron, et al. (2017). Cross-sectional comparison of the epidemiology of DSM-5 generalized anxiety disorder across the globe. *JAMA Psychiatry*, 74(5), 465–475.
 - Spitzer, Robert L., et al. (2006). A brief measure for assessing generalized anxiety disorder: the GAD-7. *Archives of Internal Medicine*, 166(10), 1092–1097.
 - Stein, Murray B., and Sareen, Jitender (2015). Generalized anxiety disorder. *New England Journal of Medicine*, 373(21), 2059–2068.
 - American Psychiatric Association (2022). *Diagnostic and Statistical Manual of Mental Disorders*, 5th ed., Text Revision (DSM-5-TR).

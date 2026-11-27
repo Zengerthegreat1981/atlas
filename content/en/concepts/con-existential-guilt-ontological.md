@@ -16,7 +16,7 @@ gaps: []
 ---
 # Ontological Guilt
 
-In Heidegger: a feeling of indebtedness or lack that does not arise from a specific moral wrong, but from the very structure of human existence: we are always incomplete and unable to realize all our possibilities at once. Heidegger treats it in *Being and Time* (1927), sections 54-60, within his analysis of conscience (*Gewissen*) and resoluteness (*Entschlossenheit*).
+In Heidegger: a condition of indebtedness or lack (not an emotion) that does not arise from a specific moral wrong, but from the very structure of human existence: we are always incomplete and unable to realize all our possibilities at once. Heidegger treats it in *Being and Time* (1927), sections 54-60, within his analysis of conscience (*Gewissen*) and resoluteness (*Entschlossenheit*).
 
 ## Terminology
 

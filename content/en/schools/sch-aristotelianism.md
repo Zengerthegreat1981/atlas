@@ -4,6 +4,7 @@ id: "SCH-0034"
 type: "مدرسة"
 part: "philosophy"
 level: "مبتدئ"
+quality: "unverified"
 title: "Peripatetic / Aristotelianism"
 en: "Peripatetic / Aristotelianism"
 crumb: "Philosophy ← Schools ← Peripatetic / Aristotelianism"
@@ -25,7 +26,7 @@ gaps: []
 ---
 # Peripatetic / Aristotelianism
 
-A philosophical movement founded in Athens in 335 BCE when **Aristotle** (384–322 BCE) established his school at the temple of "Apollo Lykeios" (Λύκειον). It came to be called the "Peripatetic" school (Peripatos) after the covered walkway (περίπατος) in which its members taught. Aristotelianism remained a major philosophical force in antiquity, especially through its commentary tradition (to about 600 CE), and returned in the 12th century in both Christian Europe and the Islamic world.
+A philosophical movement founded in Athens in 335 BCE when **Aristotle** (384–322 BCE) established his school in the Lyceum (Λύκειον), a gymnasium and sanctuary sacred to Apollo Lykeios. It came to be called the "Peripatetic" school (Peripatos) after the covered walkway (περίπατος) in which its members taught. Aristotelianism remained a major philosophical force in antiquity, especially through its commentary tradition (to about 600 CE), and returned in the 12th century in both Christian Europe and the Islamic world.
 
 ## Phases
 
@@ -44,10 +45,10 @@ A philosophical movement founded in Athens in 335 BCE when **Aristotle** (384–
 
 ## Central Concepts
 
-- **The four causes (αἰτίαι)**: the "material cause" (ὕλη), the "formal cause" (εἶδος), the "efficient cause" (ποιοῦν), the "final cause" (τέλος). Every phenomenon is explained by all four causes together.
+- **The four causes (αἰτίαι)**: the "material cause" (ὕλη), the "formal cause" (εἶδος), the "efficient cause" (ποιοῦν), the "final cause" (τέλος). A full explanation cites whichever of these apply; not every phenomenon has all four (a lunar eclipse, for example, has no final cause).
 - **The golden mean (μεσότης)**: virtue is a mean between two vices (for example, courage between recklessness and cowardice).
 - **The syllogism (συλλογισμός)**: the "demonstrative syllogism" (apodeictic syllogism) yields certain knowledge from necessary premises.
-- **The first philosopher (πρῶτος φιλόσοφος)**: the unmoved first cause (ὃ οὐ κινούμενον κινεῖ), that is, the "Unmoved Mover" (God).
+- **The first mover (πρῶτον κινοῦν)**: the unmoved first cause (ὃ οὐ κινούμενον κινεῖ), that is, the "Unmoved Mover" (God).
 - **Nature (φύσις)**: every being has a nature (a principle of motion and rest), and the realization of nature is a natural end (φύσει τέλος).
 - **The soul (ψυχή)**: "the first actuality of a natural organic body" (ἐντελέχεια ἡ πρώτη σώματος φυσικοῦ ὀργανικοῦ) — neither pure spirit nor the body.
 - **Politics as a science**: man is a political animal (ζῷον πολιτικόν); the state is natural.

@@ -4,6 +4,7 @@ id: "BRN-0101"
 type: "تيار"
 part: philosophy
 level: ""
+quality: "unverified"
 title: "Daseinsanalysis"
 en: "Daseinsanalysis"
 crumb: "Existential Philosophy ← Currents ← Daseinsanalysis"
@@ -34,7 +35,7 @@ The question is not "What is wrong with this person?" but "How does this person'
 
 Ludwig Binswanger (1881–1966), medical director of the Bellevue sanatorium at Kreuzlingen from 1911 to 1956, was the first physician to combine psychotherapy systematically with existential and phenomenological ideas. Reading Heidegger's *Being and Time* (1927) gave him a vocabulary for what he had already felt clinically: that a patient must be understood through their *Weltentwurf*, their world-design, the basic pattern by which they project a world around themselves. He distinguished three dimensions of existence lived simultaneously — *Umwelt*, the surrounding physical and biological world; *Mitwelt*, the shared social world; and *Eigenwelt*, the world of one's relation to oneself. His systematic statement, *Grundformen und Erkenntnis menschlichen Daseins* (1942), argued against Heidegger himself that love, not only care (*Sorge*), is a fundamental structure of existence. His most famous case, that of Ellen West, published in 1944 and 1945, read a young woman's eating and despair as a constriction of her world-design rather than as a drive conflict.
 
-Medard Boss (1903–1990) of Zurich produced the version that worked most directly with Heidegger himself. Boss invited Heidegger to give seminars to his students and colleagues at Zollikon, near Zurich, between 1959 and 1969; Boss recorded the exchanges and edited them for publication as the *Zollikon Seminars* (German 1987; English 2001). Where Binswanger built a theory of world-designs, Boss emphasised *Gelichtetheit*, openness: health is the capacity to let what meets us show itself, and illness is a closing-down of that openness. His *Psychoanalysis and Daseinsanalysis* (1957; English 1963) reinterpreted dreaming without Freud's censor and wish, and his *Grundriss der Medizin und der Psychologie* (1971; English as *Existential Foundations of Medicine and Psychology*, 1979) extended the approach from psychiatry to medicine as a whole.
+Medard Boss (1903–1990) of Zurich produced the version that worked most directly with Heidegger himself. Boss invited Heidegger to give seminars to his students and colleagues at Zollikon, near Zurich, between 1959 and 1969; Boss recorded the exchanges and edited them for publication as the *Zollikon Seminars* (German 1987; English 2001). Where Binswanger built a theory of world-designs, Boss emphasised *Gelichtetheit*, openness: health is the capacity to let what meets us show itself, and illness is a closing-down of that openness. His *Psychoanalysis and Daseinsanalysis* (1957; English 1963) reinterpreted dreaming without Freud's censor and wish, and his *Grundriss der Medizin* (1971; revised edition 1975; English as *Existential Foundations of Medicine and Psychology*, 1979) extended the approach from psychiatry to medicine as a whole.
 
 ## The Wider Circle
 

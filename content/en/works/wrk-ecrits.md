@@ -3,6 +3,7 @@ slug: "wrk-ecrits"
 id: "WRK-0289"
 type: "عمل / كتاب"
 level: "متقدم"
+quality: "unverified"
 title: "Écrits — Jacques Lacan"
 en: "Écrits — Jacques Lacan"
 crumb: "Psychology ← Works ← Écrits"
@@ -41,7 +42,7 @@ The collection gathers pivotal chronological landmarks in the development of Lac
 - **"The Function and Field of Speech and Language in Psychoanalysis"** (the *Rome Discourse*, 1953): The founding manifesto of Lacanian clinical practice, contrasting "empty speech" (*parole vide*), in which the subject is trapped in the imaginary ego, with "full speech" (*parole pleine*), which articulates the unconscious truth of desire.
 - **"The Instance of the Letter in the Unconscious, or Reason Since Freud"** (1957): The formal presentation of the linguistic algorithms of metaphor and metonymy.
 - **"Seminar on 'The Purloined Letter'"** (1956): An extended reading of Edgar Allan Poe demonstrating how the course of the subject is determined by the trajectory of a signifier.
-- **"The Signification of the Phallus"** (1958) and **"Subversion of the Subject and Dialectic of Desire"** (1960): Introducing the Graph of Desire (*graphe du désir*), distinguishing need, demand, and desire, and articulating the fundamental registers: the **Imaginary** (*l'Imaginaire*), the **Symbolic** (*le Symbolique*), and the **Real** (*le Réel*).
+- **"The Signification of the Phallus"** (1958) and **"Subversion of the Subject and Dialectic of Desire"** (1960): Texts that elaborate the distinction between need, demand, and desire and (in the latter) the Graph of Desire (*graphe du désir*), drawing on the three registers Lacan had developed earlier: the **Imaginary** (*l'Imaginaire*), the **Symbolic** (*le Symbolique*), and the **Real** (*le Réel*).
 
 ## Historical Context of Publication
 
@@ -51,7 +52,7 @@ The collection appeared in November 1966 at the height of French structuralism. 
 
 The publication of *Écrits* was an unexpected commercial and cultural sensation in France, despite its notorious difficulty. It became a central text of Lacanian psychoanalysis and exerted an immense influence across literary theory, feminist philosophy, film studies, and continental philosophy. 
 
-Critical reception has focused on Lacan's obscurity and mathematical borrowings: critics like Noam Chomsky dismissed his linguistic formulations as pretentious and scientifically unsound, while Alan Sokal and Jean Bricmont criticized his use of mathematical topology. In psychoanalysis, mainstream IPA analysts criticized his clinical technique, notably the variable-length session. Nonetheless, an initial partial English translation by Alan Sheridan (*Écrits: A Selection*, 1977) and the first complete English translation by Bruce Fink (2006) cemented its status as a cornerstone of modern European thought.
+Critical reception has focused on Lacan's obscurity and mathematical borrowings: critics like Noam Chomsky dismissed him as a charlatan, while Alan Sokal and Jean Bricmont criticized his use of mathematical topology. In psychoanalysis, mainstream IPA analysts criticized his clinical technique, notably the variable-length session. Nonetheless, an initial partial English translation by Alan Sheridan (*Écrits: A Selection*, 1977) and the first complete English translation by Bruce Fink (2006) cemented its status as a cornerstone of modern European thought.
 
 ## Why It Is Included in the Atlas
 

@@ -3,6 +3,7 @@ slug: "thk-rogers"
 id: "THK-0366"
 type: "مفكر"
 level: "متقدم"
+quality: "unverified"
 title: "Carl Rogers"
 en: "Carl Rogers"
 crumb: "Psychology ← Thinkers ← Carl Rogers"
@@ -33,7 +34,7 @@ He worked as a professor at Ohio State University, the University of Chicago, an
 ## What He Contributed
 
 - **Non-directive therapy**: in his first major book, *Counseling and Psychotherapy* (1942), he put forward the idea of **non-directive therapy**, rejecting the model of the expert therapist who interprets and directs, in favor of a therapist who accompanies the client in their discovery of themselves.
-- **The actualizing tendency**: in *Client-Centered Therapy* (1951) he crystallized his mature theory: that every human being has an **innate tendency toward self-actualization** (Actualizing Tendency), and that psychological growth falters when the person receives "conditional positive regard," that is, love and acceptance conditional on performance or obedience, so that a split arises between the person's real self and their self "as it ought to be."
+- **The actualizing tendency**: in *Client-Centered Therapy* (1951) he crystallized his mature theory: that every human being has an **innate tendency toward self-actualization** (Actualizing Tendency), and that psychological growth falters when the person receives "conditional positive regard," that is, love and acceptance conditional on performance or obedience, so that a split arises between the person's real self and their self "as it ought to be." (The vocabulary of conditional positive regard was developed after 1951, by Standal in 1954 and by Rogers in 1959.)
 - **The core therapist conditions**: within the six necessary and sufficient conditions he set out in 1957, the three conditions provided by the therapist are: **congruence** or genuineness (Congruence/Authenticity), **unconditional positive regard**, and **accurate empathic understanding**. These conditions, in his view, are sufficient in themselves to bring about constructive personality change without any interpretation or analysis on the therapist's part, a thesis that constituted an explicit break with both classical psychoanalysis and behaviorism.
 - **Extension of the model to education and groups**: he later extended his model to education ("student-centered learning") and group relations ("encounter groups"), and in his book *On Becoming a Person* (1961), one of the best-selling popular psychology books, he presented his vision of the "Fully Functioning Person" as the goal of healthy psychological growth.
 
@@ -63,7 +64,7 @@ His radical optimism about human nature and his assumption of an innate tendency
 
 ## His Upbringing and Professional Formation
 
-Carl Rogers was born on 8 January 1902 in Oak Park, Illinois, to a conservative Protestant family. He studied agriculture and then history at the University of Wisconsin and moved to Union Theological Seminary in New York before leaving theology for psychology at Teachers College, Columbia University, where he received his doctorate in 1931. He then worked for about twelve years in Rochester with delinquent and deprived children at the Society for the Prevention of Cruelty to Children, and learned from the field that the interpretations a therapist offers often fall short of the client's experience. He moved to Ohio State University in 1940, then established the counseling center at the University of Chicago in 1945, and returned to Wisconsin in 1957; after 1964 he settled in California, where he took part in founding the Center for Studies of the Person (1968). He died in La Jolla on 4 February 1987.
+Carl Rogers was born on 8 January 1902 in Oak Park, Illinois, to a conservative Protestant family. He studied agriculture and then history at the University of Wisconsin and moved to Union Theological Seminary in New York before leaving theology for psychology at Teachers College, Columbia University, where he received his doctorate in 1931. He worked for about twelve years, from 1928, in Rochester with delinquent and deprived children at the Society for the Prevention of Cruelty to Children, and learned from the field that the interpretations a therapist offers often fall short of the client's experience. He moved to Ohio State University in 1940, then established the counseling center at the University of Chicago in 1945, and returned to Wisconsin in 1957; after 1964 he settled in California, where he took part in founding the Center for Studies of the Person (1968). He died in La Jolla on 4 February 1987.
 
 ## Debates and Research
 
@@ -83,7 +84,7 @@ Rogers entered the Arab world mainly through **psychological guidance and counse
 
 ## Additional Notes on the Model's Limits
 
-Researchers in cross-cultural psychology such as Derald Wing Sue have pointed out that the Rogerian model assumes an independent individual who speaks about their feelings and makes their own decisions, an assumption that does not always suit cultures that put the group and the family first. In addition, the principle of non-directiveness may be understood in some settings as passivity on the part of the therapist. His students, among them Gendlin and Greenberg, tried to address these limits by introducing procedural tasks and bodily focus.
+Researchers in cross-cultural psychology such as Derald Wing Sue have pointed out that the Rogerian model assumes an independent individual who speaks about their feelings and makes their own decisions, an assumption that does not always suit cultures that put the group and the family first. In addition, the principle of non-directiveness may be understood in some settings as passivity on the part of the therapist. Later figures in the tradition, among them his student Gendlin, and Greenberg (who trained in the client-centered approach with Rogers's student Laura Rice), tried to address these limits by introducing procedural tasks and bodily focus.
 
 ## Sources
 

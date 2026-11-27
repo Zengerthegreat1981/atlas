@@ -4,6 +4,7 @@ id: "DBT-0304"
 type: "جدل"
 part: "philosophy"
 level: ""
+quality: "unverified"
 title: "Längle against Frankl: The Viennese Split"
 en: "The Viennese split"
 crumb: "Existential School ← Debates ← Längle against Frankl: The Viennese Split"
@@ -52,7 +53,7 @@ Today there are two independent institutional networks, and two terms that are s
 
 ## Sources
 
-- Frankl, V. E. (1946). *Ein Psycholog erlebt das Konzentrationslager*. Verlag für Jugend und Volk. (English: *Man's Search for Meaning*, Beacon Press, 1959 in its first English edition.)
+- Frankl, V. E. (1946). *Ein Psycholog erlebt das Konzentrationslager*. Verlag für Jugend und Volk. (English: first published as *From Death-Camp to Existentialism*, Beacon Press, 1959; revised and retitled *Man's Search for Meaning*, 1962.)
 - Frankl, V. E. (1969). *The Will to Meaning: Foundations and Applications of Logotherapy*. World Publishing.
 - Frankl, V. E. (1955). *The Doctor and the Soul: From Psychotherapy to Logotherapy*. Knopf.
 - Längle, A. (2003). The method of personal existential analysis. *European Psychotherapy, 4*(1), 37–53.

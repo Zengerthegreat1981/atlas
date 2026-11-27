@@ -50,7 +50,7 @@ In *Summa Theologiae*, Ia-IIae, q. 94, a. 2, Aquinas identifies the first, indem
 - **Biological reproduction and child-rearing**: The inclination shared with other animals to mate, procreate, and educate offspring.
 - **Rational and social goods**: The inclinations unique to rational creatures to know the truth about God and to live in community with others.
 
-Aquinas distinguishes between fundamental primary principles (which are universal, immutable, and known to all) and secondary proximate conclusions (which may fail in rare circumstances through corrupt customs or distorted reasoning). Because positive human law derives its binding moral force from natural law, an unjust statute that violates natural justice is not genuine law, but an act of violence (*non lex, sed legis corruptio*, q. 95, a. 2).
+Aquinas distinguishes between fundamental primary principles (which are universal, immutable, and known to all) and secondary proximate conclusions (which may fail in rare circumstances through corrupt customs or distorted reasoning). Because positive human law derives its binding moral force from natural law, an unjust statute that violates natural justice is not genuine law but a corruption of law (*non lex, sed legis corruptio*, q. 95, a. 2); unjust laws are "acts of violence rather than laws" (q. 96, a. 4).
 
 ## Subsequent Development and Modern Secularization
 

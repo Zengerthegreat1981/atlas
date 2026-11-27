@@ -34,7 +34,7 @@ Hind is reported at the **Battle of Uhud** (Shawwal 3 AH / 625 CE) with the wome
 
 ## Family and Standing in Quraysh
 
-Hind was the daughter of 'Utba ibn Rabi'a, of the Banu 'Abd Shams. Her uncle Shayba ibn Rabi'a and her brother al-Walid ibn 'Utba were notables of Mecca before the Hijra. Genealogical books report that she was first married to al-Fakih ibn al-Mughira al-Makhzumi, from whom she was later separated, and then married Abu Sufyan ibn Harb, chief of the Banu Umayya, by whom she bore Yazid, Mu'awiya and others. Mu'awiya is usually said to have been born in the first years of the seventh century, and her birth is therefore placed, only approximately, around 570 CE.
+Hind was the daughter of 'Utba ibn Rabi'a, of the Banu 'Abd Shams. Her uncle Shayba ibn Rabi'a and her brother al-Walid ibn 'Utba were notables of Mecca before the Hijra. Genealogical books report that she was first married to al-Fakih ibn al-Mughira al-Makhzumi, from whom she was later separated, and then married Abu Sufyan ibn Harb, chief of the Banu Umayya, by whom she bore Mu'awiya, 'Utba and others. Abu Sufyan's son Yazid was Mu'awiya's half-brother, born to another wife, Zaynab bint Nawfal. Mu'awiya is usually said to have been born in the first years of the seventh century, and her birth is therefore placed, only approximately, around 570 CE.
 
 ## Uhud and Poetic Incitement
 
@@ -46,7 +46,7 @@ Al-Tabari and Ibn Ishaq report that Hind came with the women of Mecca on the day
 
 ## Later Life and Changing Image
 
-Some books of the conquests report that she went to Syria with Abu Sufyan and her son Yazid, that she urged the fighters on at Yarmuk (15 AH / 636 CE), and that she died in the caliphate of Umar. Those reports are late and uncertain. The story that she mutilated Hamza ibn Abd al-Muttalib after Uhud and chewed his liver is already in Ibn Ishaq, as transmitted by Ibn Hisham, and in al-Tabari. It was written generations after the battle. Later retellings enlarged it. It is part of the sira's narrative, not a detail that can be checked independently, and it is not a specifically Shi'i invention.
+Some books of the conquests report that she went to Syria with Abu Sufyan and his son Yazid, that she urged the fighters on at Yarmuk (15 AH / 636 CE), and that she died in the caliphate of Umar. Those reports are late and uncertain. The story that she mutilated Hamza ibn Abd al-Muttalib after Uhud and chewed his liver is already in Ibn Ishaq, as transmitted by Ibn Hisham, and in al-Tabari. It was written generations after the battle. Later retellings enlarged it. It is part of the sira's narrative, not a detail that can be checked independently, and it is not a specifically Shi'i invention.
 
 ## Key Features
 

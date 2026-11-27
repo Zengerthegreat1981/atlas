@@ -101,7 +101,7 @@ SFBT differs from cognitive behavioral therapy (CBT) in not targeting distorted 
 
 ## Evidence and Effectiveness
 
-The evidence base for SFBT consists mainly of small and moderate-sized studies. A review of controlled outcome studies (Gingerich & Eisengart, 2000) found the evidence promising but limited, and a later meta-analysis (Kim, 2008) reported small positive effects across several outcome domains (including internalizing, externalizing, and family problems), while noting the limits of the available studies. The atlas therefore rates the evidence at the "probably efficacious" level. SFBT is used in school, child and family, and community settings, but evidence for severe disorders is limited.
+The evidence base for SFBT consists mainly of small and moderate-sized studies. A review of controlled outcome studies (Gingerich & Eisengart, 2000) found the evidence promising but limited, and a later meta-analysis (Kim, 2008) reported small positive effects across several outcome domains (externalizing, internalizing, and family and relationship problems), of which only the effect on internalizing problems was statistically significant, while noting the limits of the available studies. The atlas therefore rates the evidence at the "probably efficacious" level. SFBT is used in school, child and family, and community settings, but evidence for severe disorders is limited.
 
 ## Critique and Limits
 

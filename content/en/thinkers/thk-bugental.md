@@ -4,6 +4,7 @@ id: "THK-0110"
 type: "مفكر"
 part: psychology
 level: "متوسط"
+quality: "unverified"
 title: "James Bugental"
 en: "James Bugental"
 crumb: "Existential Psychotherapy ← People ← James Bugental"

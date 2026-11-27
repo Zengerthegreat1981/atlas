@@ -20,7 +20,7 @@ gaps: []
 ---
 # Carl Schmitt
 
-A German constitutional jurist and political theorist, born in 1888 in Plettenberg in the Catholic region of Westphalia. He studied law at the universities of Berlin, Munich and Strasbourg, and died in 1985 in his native town. He was interned by the Allies after 1945, never returned to a university chair, and spent his last decades in relative isolation, though he remained influential. He is one of the most controversial legal and political thinkers of the twentieth century: for the originality of his theoretical arguments on the one hand, and for joining the Nazi Party in 1933 and giving intellectual justification to authoritarian measures on the other.
+A German constitutional jurist and political theorist, born in 1888 to a Catholic family in Plettenberg, a predominantly Protestant town in Westphalia. He studied law at the universities of Berlin, Munich and Strasbourg, and died in 1985 in his native town. He was interned by the Allies after 1945, never returned to a university chair, and spent his last decades in relative isolation, though he remained influential. He is one of the most controversial legal and political thinkers of the twentieth century: for the originality of his theoretical arguments on the one hand, and for joining the Nazi Party in 1933 and giving intellectual justification to authoritarian measures on the other.
 
 ## The opening thesis: "Sovereign is he who decides on the exception"
 

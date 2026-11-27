@@ -4,6 +4,7 @@ id: "CON-0421"
 type: "مفهوم"
 part: philosophy
 level: "متقدم"
+quality: "unverified"
 title: "Being-Toward-Death"
 en: "Being-Toward-Death (Sein-zum-Tode)"
 crumb: "Existential Philosophy ← Concepts ← Being-Toward-Death"

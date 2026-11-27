@@ -28,7 +28,7 @@ The **Arabic logical tradition** (*'ilm al-mantiq*) is the philosophical and for
 
 The movement began in Abbasid Baghdad, where scholars associated with the circle of Hunayn ibn Ishaq and later the Christian translator Abu Bishr Matta ibn Yunus (d. 328 AH / 940 CE) translated the entire Aristotelian logical corpus into Arabic (often via Syriac). In the Arabic tradition, the *Organon* was expanded to include nine books: Porphyry's *Isagoge*, the *Categories*, *De Interpretatione*, *Prior Analytics*, *Posterior Analytics*, *Topics*, *Sophistical Refutations*, alongside the *Rhetoric* and *Poetics*.
 
-A celebrated dispute in 937 CE (326 AH) between the logician Abu Bishr Matta and the grammarian Abu Sa'id al-Sirafi crystallized the debate over logic's cultural legitimacy. While al-Sirafi argued that Greek logic was merely the syntax of the Greek language masquerading as universal thought, logicians maintained that logic was an overarching canon of reason (*alat al-fikr*) that transcends natural languages.
+A celebrated dispute, dated to 326 AH / 937–938 CE (some accounts give 320 AH / 932 CE), between the logician Abu Bishr Matta and the grammarian Abu Sa'id al-Sirafi crystallized the debate over logic's cultural legitimacy. While al-Sirafi argued that Greek logic was merely the syntax of the Greek language masquerading as universal thought, logicians maintained that logic was an overarching canon of reason (*alat al-fikr*) that transcends natural languages.
 
 ## Foundational Figures and Innovations
 

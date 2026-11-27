@@ -22,7 +22,7 @@ Motivation encompasses the psychological and physiological processes that initia
 
 Early twentieth-century biological models conceptualized motivation as tension-reduction. Introduced by Robert Woodworth (1918) and formalized mathematically by Clark Hull (1943) in his mathematico-deductive system, **drive-reduction theory** posited that biological deprivations (such as food or water deficits) disrupt homeostasis (Cannon, 1932), generating an internal state of physiological tension known as **drive** ($D$). Behaviors that reduce this drive are reinforced through habit formation ($sHr$).
 
-While drive-reduction explained primary homeostatic motives, it proved unable to explain exploratory behavior, curiosity, sensation-seeking, and play, where organisms voluntarily increase physiological arousal and seek novel stimulation. The **Yerkes-Dodson Law** (1908) demonstrated an inverted-U relationship between physiological arousal and performance, establishing that moderate levels of arousal optimize performance across diverse tasks.
+While drive-reduction explained primary homeostatic motives, it proved unable to explain exploratory behavior, curiosity, sensation-seeking, and play, where organisms voluntarily increase physiological arousal and seek novel stimulation. The **Yerkes-Dodson Law** derives from a 1908 experiment on discrimination learning in mice, which found that the most effective strength of electric shock depended on task difficulty. Later formulations state that the relationship between arousal and performance can be linear or curvilinear (inverted-U), according to the difficulty of the task.
 
 ## Intrinsic and Extrinsic Motivation: Self-Determination Theory
 
@@ -45,7 +45,7 @@ The **overjustification effect** (Deci, Koestner, & Ryan, 1999; Lepper, Greene, 
 
 ## Maslow's Need Hierarchy and Growth Motivation
 
-Abraham Maslow (1943) introduced humanistic motivation through his hierarchy of needs, progressing from deficiency needs (physiological, safety, belongingness, esteem) to growth needs (self-actualization, and later self-transcendence). While Maslow's framework highlighted human growth potential, subsequent empirical studies (Wahba & Bridwell, 1976; Tay & Diener, 2011) revealed that human needs do not follow a rigid, invariant chronological hierarchy; individuals in diverse cultural contexts frequently pursue self-actualization and social connection even when physiological and safety needs are severely compromised.
+Abraham Maslow (1943) introduced humanistic motivation through his hierarchy of needs, progressing from deficiency needs (physiological, safety, belongingness, esteem) to growth needs (self-actualization, and later self-transcendence). While Maslow's framework highlighted human growth potential, a research review (Wahba & Bridwell, 1976) found limited support for the proposed hierarchy, and a study across 123 countries (Tay & Diener, 2011) found that the associations between specific needs and subjective well-being were largely independent of whether other needs were fulfilled.
 
 ## Neurobiology of Motivation: Wanting versus Liking
 
@@ -63,3 +63,7 @@ This dissociation explains how addiction and compulsive behaviors occur: individ
 - Locke, E. A., & Latham, G. P. (2002). "Building a practically useful theory of goal setting and task motivation: A 35-year odyssey". *American Psychologist*, 57(9), 705–717.
 - Maslow, A. H. (1943). "A theory of human motivation". *Psychological Review*, 50(4), 370–396.
 - Ryan, R. M., & Deci, E. L. (2000). "Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being". *American Psychologist*, 55(1), 68–78.
+- Yerkes, R. M., & Dodson, J. D. (1908). "The relation of strength of stimulus to rapidity of habit-formation". *Journal of Comparative Neurology and Psychology*, 18(5), 459–482.
+- Diamond, D. M., Campbell, A. M., Park, C. R., Halonen, J., & Zoladz, P. R. (2007). "The temporal dynamics model of emotional memory processing". *Neural Plasticity*, 2007, 60803.
+- Tay, L., & Diener, E. (2011). "Needs and subjective well-being around the world". *Journal of Personality and Social Psychology*, 101(2), 354–365.
+- Wahba, M. A., & Bridwell, L. G. (1976). "Maslow reconsidered: A review of research on the need hierarchy theory". *Organizational Behavior and Human Performance*, 15(2), 212–240.

@@ -4,7 +4,6 @@ id: SOC-14205
 type: مفهوم
 part: sociology
 level: متوسط
-quality: "unverified"
 title: Norm
 en: Norm
 crumb: Sociology ← Norm

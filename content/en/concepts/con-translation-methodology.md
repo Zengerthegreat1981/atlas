@@ -48,4 +48,4 @@ These conventions should not be overstated as a codified method. They are closer
 - Bergsträsser, Gotthelf. *Ḥunain ibn Isḥāq über die syrischen und arabischen Galen-Übersetzungen*. Abhandlungen für die Kunde des Morgenlandes XVII/2. Leipzig: Brockhaus, 1925.
 - Gutas, Dimitri. *Greek Thought, Arabic Culture*. London: Routledge, 1998.
 - Rosenthal, Franz. *The Classical Heritage in Islam*. Translated by Emile and Jenny Marmorstein. London: Routledge and Kegan Paul, 1975.
-- Salama-Carr, Myriam. *La traduction à l'époque abbasside: l'école de Hunayn ibn Ishaq et la formation du vocabulaire arabe de la traduction*. Paris: Didier Érudition, 1990.
+- Salama-Carr, Myriam. *La traduction à l'époque abbasside: l'école de Hunayn ibn Ishaq et son importance pour la traduction*. Paris: Didier Érudition, 1990.

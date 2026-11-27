@@ -4,6 +4,7 @@ id: "THK-13128"
 type: "مفكر"
 part: "psychiatry"
 level: "متقدم"
+quality: "unverified"
 title: "Stephen Stahl"
 en: "Stephen Stahl"
 crumb: "Psychiatry ← Thinkers ← Stephen Stahl"
@@ -23,7 +24,7 @@ gaps: []
 
 # Stephen Stahl
 
-An American psychiatrist and psychopharmacologist (born 1951 in Wauseon, Ohio), widely read as a teacher of drug mechanisms through *Essential Psychopharmacology*, which explains how drugs act at receptors, transmitters and circuits in plain language and with schematic illustrations. He has held an adjunct professorship in psychiatry at the University of California, San Diego, and founded the Neuroscience Education Institute in Carlsbad, California, in 2003. He trained in medicine at Northwestern University.
+An American psychiatrist and psychopharmacologist (born 1951 in Wauseon, Ohio), widely read as a teacher of drug mechanisms through *Essential Psychopharmacology*, which explains how drugs act at receptors, transmitters and circuits in plain language and with schematic illustrations. He has held an adjunct professorship in psychiatry at the University of California, San Diego, and founded the Neuroscience Education Institute in Carlsbad, California, in 2000. He trained in medicine at Northwestern University.
 
 ## Background: Psychiatric Medication Before Neurochemistry
 

@@ -33,7 +33,7 @@ Dialectical Behavior Therapy. She worked in her research clinic at the Universit
 
 The biosocial theory. It holds that emotion-regulation disorder arises from the interaction of a high emotional sensitivity and reactivity with an "invalidating" environment that denies emotions, punishes them, or oversimplifies problems. This is the ground that gives the treatment its logic.
 
-Treatment structure. It combines individual sessions with group training in four skills: mindfulness, distress tolerance, emotion regulation, and interpersonal effectiveness, with telephone consultation between sessions and a team of therapists who support one another. The skills manual was published in its second edition under the title "DBT Skills Training Handouts and Worksheets" (2015, Guilford).
+Treatment structure. It combines individual sessions with group training in four skills: mindfulness, distress tolerance, emotion regulation, and interpersonal effectiveness, with telephone consultation between sessions and a team of therapists who support one another. The second edition of the skills training manual appeared with its companion "DBT Skills Training Handouts and Worksheets" (2015, Guilford).
 
 Extension. The treatment expanded to include adolescents (Miller, Rathus, and Linehan 2007), substance use disorders, in which there is what is called "dialectical abstinence" (Linehan and others 1999, in the American Journal on Addictions), and eating disorders.
 
@@ -57,7 +57,7 @@ Meta-analytic reviews showed a moderate effect of DBT on self-harm and suicide, 
 
 - Linehan, M. M., Armstrong, H. E., Suarez, A., Allmon, D., & Heard, H. L. (1991). "Cognitive-Behavioral Treatment of Chronically Parasuicidal Borderline Patients." *Archives of General Psychiatry*, 48(12), 1060–1064.
 - Linehan, M. M. (1993). *Cognitive-Behavioral Treatment of Borderline Personality Disorder*. Guilford Press.
-- Linehan, M. M., et al. (2006). "Two-year randomized controlled trial and follow-up of dialectical behavior therapy vs therapy by nonbehavioral psychologists for borderline personality disorder." *Archives of General Psychiatry*, 63(7), 757–766.
+- Linehan, M. M., et al. (2006). "Two-year randomized controlled trial and follow-up of dialectical behavior therapy vs therapy by experts for suicidal behaviors and borderline personality disorder." *Archives of General Psychiatry*, 63(7), 757–766.
 - Kliem, S., Kröger, C., & Kosfelder, J. (2010). "Dialectical behavior therapy for borderline personality disorder: A meta-analysis using mixed-effects modeling." *Journal of Consulting and Clinical Psychology*, 78(6), 936–951.
 - McMain, S. F., et al. (2009). "A Randomized Trial of Dialectical Behavior Therapy Versus General Psychiatric Management for Borderline Personality Disorder." *American Journal of Psychiatry*, 166(12), 1365–1374.
 - Carey, B. (2011, June 23). "Expert on Mental Illness Reveals Her Own Fight." *The New York Times*.

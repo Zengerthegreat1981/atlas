@@ -25,7 +25,7 @@ A seminal theoretical paper in cognitive psychology published by George A. Mille
 
 ## Context and Theoretical Synthesis
 
-Presented originally as Miller's presidential address before the Eastern Psychological Association in 1955 and published in the *Psychological Review*, the paper synthesized disparate empirical data from psychophysics, speech perception, and verbal learning. Miller applied mathematical concepts from Claude Shannon's Information Theory—specifically channel capacity, bits of information, and signal transmission—to human perceptual and cognitive systems.
+Presented originally as an invited address by Miller before the Eastern Psychological Association in 1955 and published in the *Psychological Review*, the paper synthesized disparate empirical data from psychophysics, speech perception, and verbal learning. Miller applied mathematical concepts from Claude Shannon's Information Theory—specifically channel capacity, bits of information, and signal transmission—to human perceptual and cognitive systems.
 
 Miller distinguished between two fundamentally different cognitive processes that surprisingly converged on roughly the same numerical span:
 
@@ -40,7 +40,7 @@ Miller observed that while adding independent stimulus dimensions (e.g., combini
 ### 2. Immediate Memory Span and Chunking
 In contrast to absolute judgment, which is strictly bounded by the amount of information measured in *bits*, immediate memory span is bounded by the *number of items or "chunks"*, regardless of the information content per chunk. Miller showed that whether remembering binary digits (1 bit per item), decimal digits (3.3 bits per item), letters (4.7 bits), or English words (roughly 10 bits), an individual's immediate recall span remains approximately seven items ($7 \pm 2$).
 
-To explain how the human mind circumvents this bottleneck, Miller introduced the concept of **recoding** or **chunking**: organizing separate, discrete bits of information into larger, semantically rich units. Citing Sidney Smith's (1954) memory experiments, Miller noted that when trained to recode binary digits into octal numbers, a person's immediate memory span expanded from 12 binary digits to 40 binary digits, which Miller took to show that span is limited by chunks rather than bits.
+To explain how the human mind circumvents this bottleneck, Miller introduced the concept of **recoding** or **chunking**: organizing separate, discrete bits of information into larger, semantically rich units. Citing Sidney Smith's (1954) memory experiments, Miller noted that subjects' initial span was about 9 binary digits and that recoding raised it; after drilling himself extensively on the recoding schemes, Smith could repeat back about 36 binary digits using octal (3:1) recoding and about 40 using 4:1 and 5:1 recoding, which Miller took to show that span is limited by chunks rather than bits.
 
 ## Modern Revisions: Cowan and Baddeley
 

@@ -4,6 +4,7 @@ id: "DBT-0309"
 type: "جدل"
 part: philosophy
 level: ""
+quality: "unverified"
 title: "Should We Demand Empirical Evidence?"
 en: "The evidence fight"
 crumb: "Existential School ← Debates ← Should We Demand Empirical Evidence?"
@@ -62,5 +63,5 @@ Institutionally, this dispute decides the school's future directly: whether it b
 - Breitbart, W., Rosenfeld, B., Pessin, H., Applebaum, A., Kulikowski, J., & Lichtenthal, W. G. (2015). Meaning-centered group psychotherapy: An effective intervention for improving psychological well-being in patients with advanced cancer. *Journal of Clinical Oncology, 33*(7), 749–754.
 - Breitbart, W., Poppito, S., Rosenfeld, B., Vickers, A. J., Li, Y., Abbey, J., Olden, M., Pessin, H., Lichtenthal, W., Sjoberg, D., & Cassileth, B. R. (2012). Pilot randomized controlled trial of individual meaning-centered psychotherapy for patients with advanced cancer. *Journal of Clinical Oncology, 30*(12), 1304–1309.
 - Cooper, M. (2003). *Existential Therapies*. Sage.
-- Frankl, V. E. (1946). *Ein Psycholog erlebt das Konzentrationslager*. Verlag für Jugend und Volk. (English: *Man's Search for Meaning*, 1959.)
+- Frankl, V. E. (1946). *Ein Psycholog erlebt das Konzentrationslager*. Verlag für Jugend und Volk. (English: *From Death-Camp to Existentialism*, 1959; revised as *Man's Search for Meaning*, 1962.)
 - Yalom, I. D. (1980). *Existential Psychotherapy*. Basic Books.

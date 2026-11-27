@@ -3,6 +3,7 @@ slug: "thk-wampold"
 id: "THK-0559"
 type: "مفكر"
 level: "متقدم"
+quality: "unverified"
 title: "Bruce Wampold"
 en: "Bruce Wampold"
 crumb: "Psychology ← Thinkers ← Bruce Wampold"
@@ -43,13 +44,13 @@ In direct opposition to the **medical model**—which conceptualizes psychothera
 
 ## The Therapist Effect
 
-A major focus of Wampold's research is the **therapist effect**. Analyzing large clinical datasets from naturalistic settings and managed care (e.g., Wampold & Brown, 2005), Wampold reported that the individual therapist accounts for 5% to 9% of total outcome variance, whereas differences between specific treatment methods account for less than 1%. Highly effective therapists consistently demonstrate superior facilitative interpersonal skills (warmth, empathy, alliance-building capacity, and verbal fluency) rather than stricter adherence to manualized treatment protocols. Consequently, Wampold advocates for training focused on deliberate practice and systematic client feedback (such as Routine Outcome Monitoring) rather than brand-specific technique manualization.
+A major focus of Wampold's research is the **therapist effect**. Analyzing large clinical datasets from naturalistic settings and managed care (e.g., Wampold & Brown, 2005), Wampold reported that the individual therapist accounts for roughly 5% to 8% of outcome variance (about 5% in the 2005 managed-care study after adjusting for initial severity), whereas he estimates that differences between specific treatment methods account for less than 1%. Highly effective therapists consistently demonstrate superior facilitative interpersonal skills (warmth, empathy, alliance-building capacity, and verbal fluency) rather than stricter adherence to manualized treatment protocols. Consequently, Wampold advocates for training focused on deliberate practice and systematic client feedback (such as Routine Outcome Monitoring) rather than brand-specific technique manualization.
 
 ## Critique and Controversies
 
 Wampold's contextual model has sparked vigorous debate, particularly from proponents of cognitive-behavioral therapy (CBT) and empirically supported treatments (ESTs):
 - **Disorder-Specific Efficacy**: Critics such as David Tolin argue that aggregate meta-analyses obscure vital treatment specificity. For certain conditions—notably obsessive-compulsive disorder (exposure and response prevention), panic disorder, and specific phobias—focused behavioral and cognitive interventions exhibit documented superiority over unstructured supportive therapies.
-- **Methodological Debates**: Researchers including Pim Cuijpers and colleagues (2019) have cautioned that the common factors framework can be overly broad and difficult to falsify, noting that empirical evidence across the different pathways of the contextual model remains uneven.
+- **Methodological Debates**: Researchers including Pim Cuijpers and colleagues (2019) have cautioned that evidence on mechanisms of change is largely correlational and that no common or specific factor has yet been shown to cause improvement, so it remains unknown whether therapies work through common factors, specific factors, or both.
 - Wampold acknowledges that therapists must adhere to a specific coherent rationale and set of techniques, but insists that their therapeutic potency derives from the psychological context of healing rather than specific biochemical or cognitive mechanisms.
 
 ## Major Works

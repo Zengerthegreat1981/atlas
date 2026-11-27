@@ -75,7 +75,7 @@ A note on terminology: the formula "thesis, antithesis, synthesis" is not Hegel'
 
 ### 8. Marx and Engels
 
-Marx adopted the Hegelian method and, in his own words in the afterword to the second German edition of *Capital* (1873), stood it "on its feet": dialectic became a movement of material social relations and of class conflict rather than of ideas, applied in *Capital* (1867) to the analysis of the commodity and capital. Engels extended the idea to nature in *Dialectics of Nature* (written 1873-83, published 1925).
+Marx adopted the Hegelian method and, in the afterword to the second German edition of *Capital* (1873), held that in Hegel it stood on its head and had to be turned the right way up: dialectic became a movement of material social relations and of class conflict rather than of ideas, applied in *Capital* (1867) to the analysis of the commodity and capital. Engels extended the idea to nature in *Dialectics of Nature* (written 1873-83, published 1925).
 
 ### 9. Twentieth-Century Developments
 

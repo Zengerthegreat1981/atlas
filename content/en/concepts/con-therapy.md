@@ -55,7 +55,7 @@ Existential therapy is not opposed to other therapies but can complement them. A
 
 ## Evidence and limits
 
-The evidence base for existential therapy is smaller than for approaches such as cognitive-behavioral therapy. A 2015 meta-analysis (Vos, Craig and Cooper) found existential therapies associated with benefits on several outcomes, but the studies vary in quality. Existential therapy is generally used alongside, not instead of, medical and other evidence-based care for severe conditions such as major depression.
+The evidence base for existential therapy is smaller than for approaches such as cognitive-behavioral therapy. A 2015 meta-analysis (Vos, Craig and Cooper) of randomized trials found benefits mainly for meaning-focused therapies (on meaning in life, and more moderately on psychopathology and self-efficacy), while the few trials of experiential-existential and cognitive-existential therapies showed no significant effects; the studies were few and often of low quality. Existential therapy is generally used alongside, not instead of, medical and other evidence-based care for severe conditions such as major depression.
 
 ## Sources
 

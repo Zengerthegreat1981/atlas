@@ -4,7 +4,6 @@ id: SOC-14452
 type: تيار
 part: sociology
 level: متوسط
-quality: "unverified"
 title: Institutional Sociology
 en: Institutional Sociology
 crumb: Sociology ← Institutional Sociology
@@ -27,7 +26,7 @@ Institutions were central to classical sociology, especially in Emile Durkheim's
 
 ## The New Institutionalism
 
-John Meyer and Brian Rowan's 1977 article argued that organisations adopt formal structures that function as myths and ceremonies, signalling conformity to wider expectations, while often decoupling those structures from everyday work. Paul DiMaggio and Walter Powell's "The Iron Cage Revisited" (1983) asked why organisations in a field come to resemble one another. They identified coercive pressures, from law and resource dependence; mimetic pressures, imitation under uncertainty; and normative pressures, linked to professions. Their edited volume of 1991 consolidated the approach, and W. Richard Scott's *Institutions and Organizations* (1995) distinguished regulative, normative, and cultural-cognitive elements of institutions.
+John Meyer and Brian Rowan's 1977 article argued that organisations adopt formal structures that function as myths and ceremonies, signalling conformity to wider expectations, while often decoupling those structures from everyday work. Paul DiMaggio and Walter Powell's "The Iron Cage Revisited" (1983) asked why organisations in a field come to resemble one another. They identified coercive pressures, from law and resource dependence; mimetic pressures, imitation under uncertainty; and normative pressures, linked to professions. Their edited volume of 1991 consolidated the approach, and W. Richard Scott's *Institutions and Organizations* (1995) distinguished regulative, normative, and cognitive elements of institutions, the last termed cultural-cognitive in later editions.
 
 ## Empirical Examples
 

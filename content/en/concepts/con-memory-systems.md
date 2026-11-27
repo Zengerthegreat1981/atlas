@@ -54,7 +54,7 @@ Neuropsychological investigations of patient H.M. (Henry Molaison), studied exte
 
 ## Memory as Active Reconstruction
 
-Frederic Bartlett's classic 1932 experiments using the folk tale *The War of the Ghosts* demonstrated that memory is not a veridical reproduction or static recording, but an active, imaginative reconstruction shaped by preexisting cultural schemas and expectations. Elizabeth Loftus (1974, 1979) established the **misinformation effect**, showing that introducing misleading post-event information readily alters eyewitness recollections and can implant entirely false autobiographical memories.
+Frederic Bartlett's classic 1932 experiments using the folk tale *The War of the Ghosts* demonstrated that memory is not a veridical reproduction or static recording, but an active, imaginative reconstruction shaped by preexisting cultural schemas and expectations. Elizabeth Loftus (1974, 1979) established the **misinformation effect**, showing that introducing misleading post-event information can alter eyewitness recollections. Later work (Loftus & Pickrell, 1995) indicated that some participants can come to report entirely false autobiographical memories.
 
 ## Sources
 

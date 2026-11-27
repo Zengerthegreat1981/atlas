@@ -26,7 +26,7 @@ The Atlas has a separate entry for the concept of authenticity (con-authenticity
 
 ## Kierkegaard: Authenticity as a Leap of Faith
 
-Søren Kierkegaard gave the question its modern form. In *Either/Or* (1843), *Fear and Trembling* (1843), and *The Sickness Unto Death* (1849), he argued that authentic existence requires passing through three stages — the aesthetic, the ethical, and the religious — and ends in a leap of faith: an individual, inward commitment that cannot be justified by reason or by the crowd. For Kierkegaard, the inauthentic life is the life dissolved into "the crowd" (*Mængden*), the anonymous public whose opinions replace personal responsibility. Authenticity, by contrast, is a solitary relation to the absolute, taken up by the single individual. His answer already contains the tension that runs through the whole tradition: authenticity demands standing apart from what everyone else does, yet it cannot be proved to anyone else that one has done so.
+Søren Kierkegaard gave the question its modern form. His writings, many of them pseudonymous, among them *Either/Or* (1843), *Fear and Trembling* (1843), and *The Sickness Unto Death* (1849), explore what it is to become a self. Readers commonly draw from his work three stages or spheres of existence — the aesthetic, the ethical, and the religious — culminating in a leap of faith: an individual, inward commitment that cannot be justified by reason or by the crowd. For Kierkegaard, the inauthentic life is the life dissolved into "the crowd" (*Mængden*), the anonymous public whose opinions replace personal responsibility. Authenticity, by contrast, is a solitary relation to the absolute, taken up by the single individual. His answer already contains the tension that runs through the whole tradition: authenticity demands standing apart from what everyone else does, yet it cannot be proved to anyone else that one has done so.
 
 ## Heidegger: Authenticity as Anticipation of Death
 
@@ -56,5 +56,5 @@ Five serious answers to one question, and they do not agree even on whether auth
 - Heidegger, M. (1927). *Being and Time*.
 - Sartre, J.-P. (1943). *Being and Nothingness*.
 - Camus, A. (1942). *The Myth of Sisyphus*. Gallimard.
-- Frankl, V. E. (1946). *…trotzdem Ja zum Leben sagen: Ein Psychologe erlebt das Konzentrationslager*. English translation first published 1959 as *From Death-Camp to Existentialism*; later titled *Man's Search for Meaning* (Beacon Press, 1962 edition).
+- Frankl, V. E. (1946). *Ein Psychologe erlebt das Konzentrationslager*. Vienna: Verlag für Jugend und Volk (later German editions are titled *…trotzdem Ja zum Leben sagen*). English translation first published 1959 as *From Death-Camp to Existentialism*; later titled *Man's Search for Meaning* (Beacon Press, 1962 edition).
 - Sartre, J.-P. (1946). *L'existentialisme est un humanisme*. Nagel.

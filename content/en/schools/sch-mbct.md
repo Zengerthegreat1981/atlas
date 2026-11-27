@@ -8,7 +8,7 @@ title: "Mindfulness-Based Cognitive Therapy (MBCT)"
 en: "Mindfulness-Based Cognitive Therapy (MBCT)"
 crumb: "Psychology ← Schools ← Mindfulness-Based Cognitive Therapy (MBCT)"
 dates: "Britain, Canada · 2002 to today"
-country: "United Kingdom (Oxford, Cambridge, Toronto)"
+country: "United Kingdom and Canada (Oxford, Cambridge, Toronto)"
 language: "English"
 cultural_origin: "anglo-american"
 active_start: 2002
@@ -31,7 +31,7 @@ gaps: []
 ---
 
 # Mindfulness-Based Cognitive Therapy (MBCT)
-Mindfulness-Based Cognitive Therapy (MBCT) is a structured group therapy developed by Zindel Segal, Mark Williams and John Teasdale in the late 1990s; its founding book was published in 2002. MBCT combines mindfulness techniques (inspired by Jon Kabat-Zinn's MBSR program) with elements of cognitive therapy in a short protocol (eight weeks) whose main aim is to **reduce the risk of depressive relapse** in people who have had recurrent episodes of depression. It is counted among the "third wave" therapies best supported by empirical evidence, and national guidance such as that of NICE in the United Kingdom recommends it for people who are currently well but have had three or more depressive episodes.
+Mindfulness-Based Cognitive Therapy (MBCT) is a structured group therapy developed by Zindel Segal, Mark Williams and John Teasdale in the late 1990s; its founding book was published in 2002. MBCT combines mindfulness techniques (inspired by Jon Kabat-Zinn's MBSR program) with elements of cognitive therapy in a short protocol (eight weeks) whose main aim is to **reduce the risk of depressive relapse** in people who have had recurrent episodes of depression. It is counted among the "third wave" therapies best supported by empirical evidence, and national guidance such as that of NICE in the United Kingdom includes group MBCT among the options for preventing relapse in people whose depression has remitted but who are at higher risk of relapse.
 
 ## Intellectual and historical context
 
@@ -74,8 +74,8 @@ MBCT occupies a unique position among the "third wave" schools (Hayes, Linehan, 
 
 - **Teasdale et al. (2000)**: a randomized controlled trial in patients recovered from recurrent depression found that MBCT, added to usual care, reduced relapse among those with three or more previous episodes; no such benefit was seen for those with only two episodes.
 - **Ma & Teasdale (2004)**: a second randomized trial that replicated the finding in a similar group.
-- **Kuyken et al. (2016)**: an individual-patient-data meta-analysis in *JAMA Psychiatry* found that MBCT was associated with a lower risk of relapse than usual care, and was not clearly different from maintenance antidepressant treatment.
-- **NICE (2009, updated 2022)**: guidance recommends MBCT for people who are currently well but have had three or more episodes.
+- **Kuyken et al. (2016)**: an individual-patient-data meta-analysis in *JAMA Psychiatry* found that MBCT was associated with a lower risk of relapse than usual care, and also showed a lower risk than active treatments (hazard ratio 0.79), which included maintenance antidepressants.
+- **NICE**: the 2009 depression guideline recommended MBCT for people who were currently well but had had three or more episodes; the 2022 guideline (NG222) offers group CBT or MBCT for relapse prevention to people in remission who are at higher risk of relapse.
 - **Other applications**: MBCT has been studied for a wider range of conditions (for example anxiety and residual symptoms of depression), with less consistent evidence than for relapse prevention.
 
 ## Sources

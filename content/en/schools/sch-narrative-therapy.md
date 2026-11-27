@@ -4,6 +4,7 @@ id: "SCH-0364"
 type: "مدرسة"
 part: psychology
 level: "متوسط"
+quality: "unverified"
 title: "Narrative Therapy"
 en: "Narrative Therapy"
 crumb: "Psychology ← Constructivist and Postmodern Schools ← Narrative Therapy"

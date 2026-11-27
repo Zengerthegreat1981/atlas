@@ -102,7 +102,7 @@ The terms "family therapy," "couple therapy," and "systemic therapy" overlap: "f
 
 - **Psychoanalysis**: Bowen trained as a psychiatrist in a psychoanalytic milieu, then moved from the individual to the family as the unit of study.
 - **Humanistic therapy**: Satir's growth model and Whitaker's experiential approach have humanistic and experiential roots.
-- **CBT**: cognitive-behavioral couple therapy (CBCT, Christensen).
+- **CBT**: cognitive-behavioral couple therapy (CBCT, Epstein and Baucom) and the related integrative behavioral couple therapy (Christensen and Jacobson).
 - **Postmodernism / narrative** (White, Epston, Anderson, Goolishian): later developments.
 
 ## Criticism and Limits

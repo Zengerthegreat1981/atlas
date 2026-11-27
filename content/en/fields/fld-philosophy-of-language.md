@@ -4,6 +4,7 @@ id: "PHL-30006"
 type: "مجال"
 part: philosophy
 level: "متوسط"
+quality: "unverified"
 title: "Philosophy of Language"
 en: "Philosophy of Language"
 crumb: "Philosophy ← Fields ← Philosophy of Language"

@@ -33,7 +33,7 @@ For Epicurus (341–270 BCE) ataraxia is a goal reached through physics. His log
 - Fear of the gods: removed by atomic physics — that the world is a composition of atoms and void, and that the gods, if they exist, live in untroubled blessedness and neither manage our affairs nor punish. So there is no place for fear of divine wrath.
 - Fear of death: removed by a famous logical argument: death is the dissolution of the composite, so there is no sensation after it. What has no sensation has no evil, so "death is nothing to us". The one who fears death fears a state in which he will not be present.
 
-Epicurus adds a division of pleasures into natural and necessary (such as food), natural but unnecessary (such as luxurious food), and neither natural nor necessary (such as wealth and fame) — and that restricting desire to the first produces self-sufficiency (αὐτάρκεια), from which peace comes. Epicureanism is thus a moderate and practical discipline, not license, contrary to what became common about it. For Epicurus the highest pleasure is the absence of pain in the body (aponia) and of disturbance in the soul (ataraxia).
+Epicurus adds a division of desires into natural and necessary (such as food), natural but unnecessary (such as luxurious food), and neither natural nor necessary (such as wealth and fame) — and that restricting desire to the first produces self-sufficiency (αὐτάρκεια), from which peace comes. Epicureanism is thus a moderate and practical discipline, not license, contrary to what became common about it. For Epicurus the highest pleasure is the absence of pain in the body (aponia) and of disturbance in the soul (ataraxia).
 
 What best sums this up is the "fourfold remedy" (tetrapharmakos), a formula preserved in a Herculaneum papyrus of Philodemus and attributed to the school: that the divine is not to be feared, that death is not to be felt, that the good is easy to obtain, and that evil is endurable.
 
@@ -83,7 +83,7 @@ Comparative philosophers have noted suggestive parallels between Hellenistic tra
 
 ## Sources
 
-- *Epistula ad Menoeceum* (Letter to Menoeceus) and *Kyriai Doxai* (Principal Doctrines), Epicurus — transmitted in Diogenes Laertius's *Lives of Eminent Philosophers*, Book X; they are the most important of what survives of Epicurus in his own words, and contain the argument on death and the division of pleasures.
+- *Epistula ad Menoeceum* (Letter to Menoeceus) and *Kyriai Doxai* (Principal Doctrines), Epicurus — transmitted in Diogenes Laertius's *Lives of Eminent Philosophers*, Book X; they are the most important of what survives of Epicurus in his own words, and contain the argument on death and the division of desires.
 - *De rerum natura*, Lucretius, 1st century BCE — the complete verse exposition of Epicurean physics and its effect in removing fear, the fullest surviving source of the doctrine.
 - *Πυρρώνειοι ὑποτυπώσεις* (*Outlines of Pyrrhonism*), Sextus Empiricus, 2nd century CE — Book I: the sequence of isostheneia, then epoché, then ataraxia, and the example of Apelles.
 - *Diatribai* (Discourses) and *Encheiridion*, Epictetus — the opposing Stoic side: apatheia by correcting judgment, not by withholding it.

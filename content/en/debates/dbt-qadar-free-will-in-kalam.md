@@ -4,6 +4,7 @@ id: "DBT-0409"
 type: "جدل"
 part: "philosophy"
 level: "متقدم"
+quality: "unverified"
 title: "The Debate over Qadar, Compulsion and Choice in Islamic Kalam"
 en: "Qadar Free Will In Kalam"
 crumb: "Philosophy ← Debates ← The Debate over Qadar, Compulsion and Choice in Islamic Kalam"
@@ -36,7 +37,7 @@ Abu al-Hasan al-Ash'ari (d. 324 AH / 935–936 CE), reacting against Mu'tazili r
 
 ## Textual Traditions and Critical Editions
 
-The core texts of this dispute were preserved in distinct textual transmissions. Al-Qadi Abd al-Jabbar's encyclopedic *al-Mughni fi abwab al-tawhid wa-l-'adl*, rediscovered in Yemen in 1951, was critically edited under the general supervision of Taha Hussein and Ibrahim Madkour and published in Cairo (al-Mu'assasa al-Misriyya al-'Amma, 1960–1969). Key volumes addressing action, justice, and responsibility include Volume 6, Part 1 (*al-Ta'dil wa-l-tajwir*, ed. Ahmad Fu'ad al-Ahwani and George Anawati, 1962), Volume 8 (*al-Makhluq*, ed. Mahmoud Muhammad Qasim, 1965), and Volume 11 (*al-Taklif*, 1965).
+The core texts of this dispute were preserved in distinct textual transmissions. Al-Qadi Abd al-Jabbar's encyclopedic *al-Mughni fi abwab al-tawhid wa-l-'adl*, rediscovered in Yemen in 1951, was critically edited under the general supervision of Taha Hussein and Ibrahim Madkour and published in Cairo (al-Mu'assasa al-Misriyya al-'Amma, 1960–1969). Key volumes addressing action, justice, and responsibility include Volume 6, Part 1 (*al-Ta'dil wa-l-tajwir*, ed. Ahmad Fu'ad al-Ahwani, 1962), Volume 8 (*al-Makhluq*, ed. Tawfiq al-Tawil and Sa'id Zayid, 1965), and Volume 11 (*al-Taklif*, 1965).
 
 For the Ash'ari school, Abu al-Hasan al-Ash'ari's primary polemical work, *Kitab al-Luma' fi al-radd 'ala ahl al-zaygh wa-l-bida'*, was critically edited with an English translation and analysis by Richard J. McCarthy in *The Theology of al-Ash'ari* (Beirut: Imprimerie Catholique, 1953). His traditionalist creed, *al-Ibana 'an usul al-diyana*, has seen multiple scholarly printings, notably edited by Fawqiyya Husayn Mahmud (Cairo: Dar al-Ansar, 1977).
 

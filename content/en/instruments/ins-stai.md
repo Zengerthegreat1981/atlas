@@ -4,6 +4,7 @@ id: "INS-0001"
 type: "أداة قياس"
 part: "psychology"
 level: "مبتدئ"
+quality: "unverified"
 title: "State-Trait Anxiety Inventory (STAI)"
 en: "State-Trait Anxiety Inventory (STAI)"
 crumb: "Psychological Measurement and Diagnosis ← Instruments ← State-Trait Anxiety Inventory (STAI)"
@@ -43,7 +44,7 @@ The STAI has been translated into more than sixty languages. In the Arab world, 
 Spielberger's operational distinction between emotional state and personality trait established a paradigm that was systematically extended to assessment instruments for other core emotions:
 - **Anger**: The State-Trait Anger Expression Inventory (STAXI; Spielberger, 1988, 1999) operationalized state anger, trait anger temperament, and anger expression styles (anger-in vs. anger-out).
 - **Curiosity**: The State-Trait Curiosity Inventory (STCI; Spielberger, 1979) evaluated transient cognitive curiosity versus stable epistemic traits.
-- **Sadness and Affect**: Instruments such as the Positive and Negative Affect Schedule (PANAS; Watson, Clark, & Tellegen, 1988) utilize instructional time frames to assess state versus trait sadness and negative emotionality.
+- **Affect**: Instruments such as the Positive and Negative Affect Schedule (PANAS; Watson, Clark, & Tellegen, 1988) utilize instructional time frames to assess state versus trait positive and negative affect.
 - **Fear**: Domain-specific inventories, including the Fear Survey Schedule (FSS; Wolpe & Lang) and Marks & Mathews' Fear Questionnaire (FQ), differentiate specific phobic fear responses from generalized state anxiety.
 - **Shame and Guilt**: Measures such as the Test of Self-Conscious Affect (TOSCA; Tangney et al.) evaluate trait tendencies toward shame and guilt across scenarios.
 

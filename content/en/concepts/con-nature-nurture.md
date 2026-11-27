@@ -52,3 +52,4 @@ Critics point to the difficulty of separating genes from environment in observat
 - Avshalom Caspi and others, "Influence of life stress on depression", *Science* (2003)
 - Richard Lewontin, "The analysis of variance and the analysis of causes", *American Journal of Human Genetics* (1974)
 - Thomas Bouchard and others, "Sources of human psychological differences: the Minnesota study of twins reared apart", *Science* (1990)
+- Richard Lewontin, "Race and intelligence", *Bulletin of the Atomic Scientists* (1970)

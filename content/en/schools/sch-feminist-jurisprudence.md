@@ -4,6 +4,7 @@ id: "SCH-8904"
 type: "مدرسة"
 part: "legal-theory"
 level: "متقدم"
+quality: "unverified"
 title: "Feminist Jurisprudence"
 en: "Feminist Jurisprudence"
 crumb: "Legal Theory ← Schools ← Feminist Jurisprudence"
@@ -22,7 +23,7 @@ gaps: []
 ---
 # Feminist Jurisprudence
 
-A critical current that developed partly in dialogue with **critical legal studies**, prompted by an observation similar to the one that produced **critical race theory**: that CLS, despite its radical critique of law's neutrality, neglected **gender** as an independent axis requiring special analysis that cannot be reduced to a general class analysis. Earlier feminist legal waves (the late 1960s and early 1970s) had focused mainly on formal equality before the law (the right to vote, the right to work, the prohibition of direct discrimination). From the late 1970s, feminist jurisprudence developed toward a deeper critique, asking whether legal "neutrality" is possible at all in a system whose basic rules were historically formulated in the absence of women from the positions where law is made.
+A critical current that developed partly in dialogue with **critical legal studies**, prompted by an observation similar to the one that produced **critical race theory**: that CLS, despite its radical critique of law's neutrality, neglected **gender** as an independent axis requiring special analysis that cannot be reduced to a general class analysis. Earlier feminist legal waves (the late 1960s and early 1970s) had focused mainly on formal equality before the law (equal rights, the right to work, the prohibition of direct discrimination). From the late 1970s, feminist jurisprudence developed toward a deeper critique, asking whether legal "neutrality" is possible at all in a system whose basic rules were historically formulated in the absence of women from the positions where law is made.
 
 ## Anticipation from Islamic jurisprudence: the specificity of women's rulings and the ijtihad of jurists
 

@@ -4,6 +4,7 @@ id: "CON-0786"
 type: "مفهوم"
 part: philosophy
 level: "متقدم"
+quality: "unverified"
 title: "Wahdat al-Wujud (Unity of Being)"
 en: "Wahdat al-Wujud (Unity of Being)"
 crumb: "Philosophy ← Concepts ← Wahdat al-Wujud"
@@ -38,7 +39,7 @@ Ibn Arabi's expression on this point is that the world is "He and not He": it is
 
 ## Backgrounds
 
-- **al-Hallaj** (d. 309 AH): "I am the Real", the earliest ecstatic utterance that later figures read in a unitive way.
+- **al-Hallaj** (d. 309 AH): "I am the Real", one of the most famous early ecstatic utterances (Abu Yazid al-Bistami, who died decades before him, is known for others), later read by some in a unitive way.
 - **al-Junayd** (d. 298 AH): the saying attributed to him that "the color of the water is the color of its vessel", on the meaning of annihilation of the self and subsistence in God.
 - **Ibn Sina**: the theory of emanation, in which existents proceed from the Necessary Being in order.
 - **al-Suhrawardi**: the world of images and light, as a bridge between the Essence and creation.
@@ -60,8 +61,8 @@ Ahmad al-Sirhindi (d. 1034 AH) held that what is perceived in the station of ann
 
 ## Influence
 
-- In later philosophical Sufism: Ibn Sab'in, Abd al-Karim al-Jili in *The Perfect Human*, Ibn al-Farid, and Abd al-Ghani al-Nabulusi.
-- In Persian poetry: Jalal al-Din Rumi and Fakhr al-Din Iraqi, and in another mode Hafez of Shiraz.
+- In later philosophical Sufism: Ibn Sab'in, Abd al-Karim al-Jili in *The Perfect Human*, and Abd al-Ghani al-Nabulusi; the poetry of Ibn al-Farid (d. 632 AH / 1235 CE), a contemporary of Ibn Arabi, was interpreted in this framework by commentators such as al-Farghani.
+- In Persian poetry: Fakhr al-Din Iraqi and, in readings whose extent of influence is debated, Jalal al-Din Rumi and Hafez of Shiraz.
 - In later Islamic philosophy: Mulla Sadra, who took the idea of the one gradational (*mushakkik*) being and merged it into the Transcendent Wisdom.
 - In modern studies: Henry Corbin, Toshihiko Izutsu, Chittick, and Annemarie Schimmel.
 

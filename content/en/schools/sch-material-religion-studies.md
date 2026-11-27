@@ -31,7 +31,7 @@ Morgan began his project by studying popular American Protestant religious image
 
 ## Key Works and Extensions
 
-Sally Promey extended this method by editing a collective volume entitled *Sensational Religion*, which examined how religious practice addresses all the senses rather than sight alone (touch, smell, taste), as channels for producing religious meaning. Birgit Meyer, the Dutch scholar specialising in Ghanaian Christianity, in her edited volume *Aesthetic Formations* developed the concept of "aesthetic formations" to analyse how sensory media (image, sound, dress) shape religious and political communities together, showing that the aesthetic, the political and the religious are structurally intertwined rather than separate.
+Sally Promey extended this method by editing a collective volume entitled *Sensational Religion*, which examined how religious practice addresses all the senses rather than sight alone (touch, smell, taste), as channels for producing religious meaning. Birgit Meyer, a German-born scholar based in the Netherlands and specialising in Ghanaian Christianity, in her edited volume *Aesthetic Formations* developed the concept of "aesthetic formations" to analyse how sensory media (image, sound, dress) shape religious and political communities together, showing that the aesthetic, the political and the religious are structurally intertwined rather than separate.
 
 The journal *Material Religion*, founded in 2005, became the field's main scholarly forum; Morgan is among its founding editors.
 

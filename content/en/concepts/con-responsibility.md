@@ -4,6 +4,7 @@ id: "CON-0403"
 type: "مفهوم"
 part: psychology
 level: "متوسط"
+quality: "unverified"
 title: "Responsibility"
 en: "Responsibility"
 crumb: "Existential Psychotherapy ← Concepts ← Responsibility"

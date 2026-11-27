@@ -5,6 +5,7 @@ type: "مفكر"
 part: "anthropology"
 anthropological_tradition: "political-economy"
 level: "متقدم"
+quality: "unverified"
 title: "David Graeber"
 en: "David Graeber"
 crumb: "Anthropology ← Thinkers ← David Graeber"
@@ -32,7 +33,7 @@ An American anthropologist, philosopher, and political activist (1961–2020), k
 
 ## Biography
 
-Born in New York in 1961, he took his undergraduate degree at SUNY Purchase and received his PhD from the **University of Chicago** in 1996 under the supervision of **Marshall Sahlins**. Between 1989 and 1991 he carried out ethnographic fieldwork in Betafo, a town in the central highlands of Madagascar, among Malagasy people descended from both slave-owning and enslaved families, and later published his findings in *Lost People* (2007). He asked not only which goods were exchanged but what people considered valuable and why, documenting how the legacy of slavery, memory, and relations with ancestors shape local ideas of power, obligation, and magic. He taught at **Yale University** from 1998, then at **Goldsmiths** in London (2007 to 2013), and from 2013 until his death he was professor of anthropology at the **London School of Economics**. He took part in the early organizing of Occupy Wall Street (2011), and is often credited, though the attribution is contested, with helping to popularize the slogan "We are the 99%." He died in Venice in September 2020, at the age of 59.
+Born in New York in 1961, he took his undergraduate degree at SUNY Purchase and received his PhD from the **University of Chicago** in 1996 under the supervision of **Marshall Sahlins**. Between 1989 and 1991 he carried out ethnographic fieldwork in Betafo, a rural community in the central highlands of Madagascar, among Malagasy people descended from both slave-owning and enslaved families, and later published his findings in *Lost People* (2007). He asked not only which goods were exchanged but what people considered valuable and why, documenting how the legacy of slavery, memory, and relations with ancestors shape local ideas of power, obligation, and magic. He taught at **Yale University** from 1998, then at **Goldsmiths** in London (2007 to 2013), and from 2013 until his death he was professor of anthropology at the **London School of Economics**. He took part in the early organizing of Occupy Wall Street (2011), and is often credited, though the attribution is contested, with helping to popularize the slogan "We are the 99%." He died in Venice in September 2020, at the age of 59.
 
 ## What He Gave
 
@@ -52,7 +53,7 @@ He was among the best-known anarchist thinkers of his era, alongside Noam Chomsk
 
 ## The Most Famous Controversy
 
-In May 2005, Yale University decided not to renew his contract, denying him promotion to tenure. A petition gathering thousands of signatures was organized, and many supporters believed the reason was his declared anarchism and his support for the graduate students' union. Yale did not publicly state its reasons, and senior colleagues, Marshall Sahlins among them, defended the quality of his scholarship. He left Yale and his academic career moved to Britain.
+In May 2005, Yale University decided not to renew his contract, denying him promotion to tenure. A petition gathering thousands of signatures was organized, and many supporters believed the reason was his declared anarchism and his support for the graduate students' union. Yale did not publicly state its reasons, and senior anthropologists, Marshall Sahlins among them, defended the quality of his scholarship. He left Yale and his academic career moved to Britain.
 
 ## Limitations and Criticisms
 

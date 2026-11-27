@@ -60,7 +60,7 @@ Developmental psychology is structured around specialized subdisciplines:
 
 ### Early Infant Cognition and Specialized Pioneers
 Modern experimental paradigms revealed that infants possess sophisticated cognitive and perceptual endowments far earlier than classical theories assumed:
-- **Andrew Meltzoff**: Reported imitation of facial and manual gestures by very young infants (Meltzoff & Moore, 1977; the 1977 study tested infants a few weeks old, and later work extended this to newborns), proposing the "Like-Me" framework wherein infants recognize others as sentient beings like themselves, providing the foundation for social cognition and theory of mind.
+- **Andrew Meltzoff**: Reported imitation of facial and manual gestures by very young infants (Meltzoff & Moore, 1977; the 1977 study tested infants a few weeks old, and later work extended this to newborns), proposing the "Like-Me" framework wherein infants recognize others as sentient beings like themselves, providing the foundation for social cognition and theory of mind. Whether neonatal imitation exists remains disputed; a large longitudinal study (Oostenbroek et al., 2016) found no clear evidence for it.
 - **Patricia Kuhl**: Mapped infant phonetic learning and neural commitment, identifying *perceptual narrowing* (where infants transition from universal phonetic discriminators to culture-bound language specialists by 10–12 months) and formulating the *social gating hypothesis*, which proposes that social interaction facilitates early speech-sound learning.
 - **Renée Baillargeon**: Utilized the violation-of-expectation (VOE) paradigm to argue that infants possess early object permanence, solidity principles, and physical reasoning as early as roughly 3.5 to 5 months of age (an interpretation that remains debated).
 
@@ -91,4 +91,5 @@ Modern experimental paradigms revealed that infants possess sophisticated cognit
 - Berk, L. E. (2018). *Development Through the Lifespan* (7th ed.). Pearson.
 - Kuhl, P. K. (2010). "Brain mechanisms in early language acquisition." *Neuron*, 67(5), 713–727.
 - Meltzoff, A. N., & Moore, M. K. (1977). "Imitation of facial and manual gestures by human neonates." *Science*, 198(4312), 75–78.
+- Oostenbroek, J., Suddendorf, T., Nielsen, M., et al. (2016). "Comprehensive longitudinal study challenges the existence of neonatal imitation in humans." *Current Biology*, 26(10), 1334–1338.
 - Piaget, J. (1952). *The Origins of Intelligence in Children*. International Universities Press.

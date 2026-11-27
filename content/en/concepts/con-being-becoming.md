@@ -4,6 +4,7 @@ id: "CON-0426"
 type: "مفهوم"
 part: "psychology"
 level: "متوسط"
+quality: "unverified"
 title: "Being and Becoming"
 en: "Being and Becoming"
 crumb: "Being and Becoming"
@@ -22,7 +23,7 @@ Jean-Paul Sartre's foundational principle "existence precedes essence" encapsula
 
 The contrast between being and becoming ranks among the oldest debates in Western philosophy:
 - **Parmenides** posited that true reality is unchanging, immutable, and unitary being (*einai*).
-- **Heraclitus** argued that permanence is an illusion and that reality consists of continuous flux and dynamic becoming (*panta rhei*).
+- **Heraclitus** argued that permanence is an illusion and that reality consists of continuous flux and dynamic becoming (summed up in the formula *panta rhei*, which comes from later tradition and is not found in the surviving fragments).
 - **G. W. F. Hegel** synthesized these poles in *Science of Logic* (1812), showing that abstract Being (*Sein*) and Nothing (*Nichts*) pass dialectically into one another through the dynamic category of Becoming (*Werden*).
 
 Existential philosophy translated this metaphysical dispute into an existential description of human selfhood:
@@ -66,7 +67,7 @@ Philosophical and psychological critics note that radical assertions of "existen
 
 - Heidegger, M. (1962). *Being and Time* (J. Macquarrie & E. Robinson, Trans.). Harper & Row. (Original German work published 1927).
 - Kierkegaard, S. (1980). *The Sickness Unto Death* (H. V. Hong & E. H. Hong, Trans.). Princeton University Press. (Original Danish work published 1849).
-- May, R. (1967). *Psychology and the Human Dilemma*. W. W. Norton.
+- May, R. (1967). *Psychology and the Human Dilemma*. Van Nostrand.
 - Rogers, C. R. (1961). *On Becoming a Person: A Therapist's View of Psychotherapy*. Houghton Mifflin.
 - Sartre, J.-P. (1956). *Being and Nothingness: An Essay on Phenomenological Ontology* (H. E. Barnes, Trans.). Philosophical Library. (Original French work published 1943).
 - van Deurzen, E. (2012). *Existential Counselling and Psychotherapy in Practice* (3rd ed.). Sage.

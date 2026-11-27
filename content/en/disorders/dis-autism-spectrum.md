@@ -39,7 +39,7 @@ ICD-11 (6A02) uses the label "autism spectrum disorder" with a similar two-domai
 Autism spectrum disorder is a neurodevelopmental disorder; **no medications treat the core of the spectrum**. Pharmacological treatment (such as atypical antipsychotics for irritability, SSRIs for co-occurring anxiety/depression) targets only co-occurring symptoms.
 
 The core evidence-based interventions:
-- **Early structured education** (Early Intensive Behavioral Intervention, EIBI, built on ABA principles): the most evidence-supported approach for preschool-age children.
+- **Early structured education** (Early Intensive Behavioral Intervention, EIBI, built on ABA principles): one of the most studied approaches for preschool-age children, although the certainty of its evidence is rated low or very low (Reichow et al., 2018).
 - **Social Skills Training**: especially at the milder levels and in older ages.
 - **Speech and language therapy**: to treat co-occurring language delay/disorder.
 - **Occupational therapy (OT)**: to treat sensory processing difficulties and fine motor skills.
@@ -71,14 +71,15 @@ DSM-IV listed several separate pervasive developmental disorders, including auti
 
 ## Cultural and Epidemiological Context
 
-Global epidemiological studies estimate the prevalence of autism spectrum disorder at approximately 1% of the population (roughly 100 per 10,000 children; Zeidan et al., 2022). In the Arab world and broader non-Western regions, epidemiological research has expanded, though reported estimates vary widely (ranging from approximately 1.4 to 29 per 10,000; Salhia et al., 2014). This variation largely reflects methodological differences across studies, including screening instruments, diagnostic thresholds, accessibility of developmental assessment services, and variable public awareness. Cultural beliefs and stigma surrounding developmental differences may also influence the timing of parental help-seeking and initial clinical evaluation.
+Global epidemiological studies estimate the prevalence of autism spectrum disorder at approximately 1% of the population (roughly 100 per 10,000 children; Zeidan et al., 2022). In the Arab world and broader non-Western regions, epidemiological research has expanded, though reported estimates vary widely (in the Arab Gulf countries, from approximately 1.4 to 29 per 10,000; Salhia et al., 2014). This variation largely reflects methodological differences across studies, including screening instruments, diagnostic thresholds, accessibility of developmental assessment services, and variable public awareness. Cultural beliefs and stigma surrounding developmental differences may also influence the timing of parental help-seeking and initial clinical evaluation.
 
 ## Sources
 
 - American Psychiatric Association. (2022). *Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, Text Revision (DSM-5-TR)*. APA.
 - World Health Organization. (2019). *International Classification of Diseases, 11th Revision (ICD-11)*. WHO.
 - National Institute for Health and Care Excellence (NICE). (2013). *Autism spectrum disorder in under 19s: support and management* (CG170).
-- Salhia, H. O., et al. (2014). Systemic review of the epidemiology of autism in Arab countries. *Neurosciences (Riyadh)*, 19(4), 291-296.
+- Reichow, B., Hume, K., Barton, E. E., & Boyd, B. A. (2018). Early intensive behavioral intervention (EIBI) for young children with autism spectrum disorders (ASD). *Cochrane Database of Systematic Reviews*, 5, CD009260.
+- Salhia, H. O., et al. (2014). Systemic review of the epidemiology of autism in Arab Gulf countries. *Neurosciences (Riyadh)*, 19(4), 291-296.
 - van Steensel, F. J. A., Bögels, S. M., & Perrin, S. (2011). Anxiety disorders in children and adolescents with autistic spectrum disorders: A meta-analysis. *Clinical Child and Family Psychology Review*, 14(3), 302-317.
 - Volkmar, F. R., Paul, R., Rogers, S. J., & Pelphrey, K. A. (Eds.). (2014). *Handbook of Autism and Pervasive Developmental Disorders* (4th ed.). Wiley.
 - Zeidan, J., et al. (2022). Global prevalence of autism: A systematic review update. *Autism Research*, 15(5), 778-790.

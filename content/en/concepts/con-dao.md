@@ -41,7 +41,7 @@ Tradition ascribes the *Daodejing* to Laozi, an older contemporary of Confucius 
 - The Greek *logos* is usually understood as a rational order accessible to reason, whereas the Dao is an unspeakable pattern of transformation that is followed rather than formulated as laws. Comparison is nonetheless complicated by the varied senses of *logos*.
 - Brahman in Advaita Vedanta is the one reality underlying appearances, whereas the Dao is better understood as a pattern of ceaseless transformation. Both are said to exceed ordinary description.
 - It differs from the God of the Abrahamic religions in that there is no creating will or purpose.
-- It is not literal nothingness (無 *wu*): being and non-being arise together (chapter 2, chapter 40), so the Dao is the source in which both appear.
+- It is not literal nothingness (無 *wu*): being and non-being give rise to each other (chapter 2), and chapter 40 says that being is born of non-being, so the Dao is the source in which both appear.
 
 ## The Dao in Other Traditions
 

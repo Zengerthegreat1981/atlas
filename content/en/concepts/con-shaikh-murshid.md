@@ -26,7 +26,7 @@ The guiding master (*shaykh murshid*) in Sufism is the one who takes the discipl
 
 ## The Disciple Before the Master
 
-Menahem Milson translated *Adab al-Muridin* into English as *A Sufi Rule for Novices* (1975). The rule covers service, surrender of one's own preference, asking leave, keeping to litanies (*awrad*), and attending spiritual audition (*sama'*) only with the master's permission. A later and widespread saying compares the disciple before the master to the corpse in the hands of the washer. Another, widely attributed to Abu Yazid al-Bistami, says that he who has no master has Satan as his leader. That sentence is not securely placed in al-Qushayri's *Risala*. The *Risala* does treat the shaykh's direction as part of the novice's discipline.
+Menahem Milson translated *Adab al-Muridin* into English as *A Sufi Rule for Novices* (1975). The rule covers service, surrender of one's own preference, asking leave, keeping to litanies (*awrad*), and attending spiritual audition (*sama'*) only with the master's permission. A later and widespread saying compares the disciple before the master to the corpse in the hands of the washer. Another, widely attributed to Abu Yazid al-Bistami, says that he who has no master has Satan as his leader. Al-Qushayri quotes it from Abu Yazid in the chapter of counsel to novices in the *Risala*, where the shaykh's direction is treated as part of the novice's discipline.
 
 ## The Functions of the Master
 

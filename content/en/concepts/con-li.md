@@ -36,7 +36,7 @@ While formal sacrificial rituals predated Confucius (551–479 BCE), the *Analec
 ## Conceptual Distinctions
 
 Confucian thinkers carefully contrasted *li* with other normative mechanisms:
-- **Contrast with Law (*Fa*, 法)**: In *Analects* 2.3, Confucius contrasts governance through penal law (*fa*) and punishments (*xing*) with governance through virtue (*de*) and ritual (*li*). Under coercive law, people seek merely to evade punishment and develop no sense of shame; guided by ritual, they acquire an inner moral sense and reform themselves voluntarily.
+- **Contrast with Law (*Fa*, 法)**: In *Analects* 2.3, Confucius contrasts governance through regulations (*zheng*, 政) and punishments (*xing*) with governance through virtue (*de*) and ritual (*li*). Under coercive rule, people seek merely to evade punishment and develop no sense of shame; guided by ritual, they acquire an inner moral sense and reform themselves voluntarily.
 - **Contrast with Mere Custom (*Su*, 俗)**: Unlike unconscious social habits, *li* represents an intentionally transmitted, aesthetically refined tradition endorsed by sages for ethical development.
 - **Contrast with Purely Transcendent Ritual**: Although *li* encompasses ancestral sacrifices and seasonal state rites, its primary focus remains human-centered, social, and immanent.
 

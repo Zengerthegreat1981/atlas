@@ -56,10 +56,10 @@ Frankl's Man's Search for Meaning (1946) and Jaspers's The Question of Guilt (19
 
 - Jaspers, K. (1919). *Psychologie der Weltanschauungen*. Springer.
 - Jaspers, K. (1946). *Die Schuldfrage*. Lambert Schneider.
-- Frankl, V. E. (1946). *Ein Psycholog erlebt das Konzentrationslager*. Verlag für Jugend und Volk. English ed.: *Man's Search for Meaning*. Beacon Press, 1959.
+- Frankl, V. E. (1946). *Ein Psycholog erlebt das Konzentrationslager*. Verlag für Jugend und Volk. English ed.: *From Death-Camp to Existentialism*. Beacon Press, 1959; revised as *Man's Search for Meaning*, 1962.
 - Arendt, H. (1950). The Aftermath of Nazi Rule: Report from Germany. *Commentary*, 10(4), 342–353.
 - Sartre, J.-P. (1946). *L'Existentialisme est un humanisme*. Nagel. English ed.: *Existentialism Is a Humanism*, trans. C. Macomber. Yale University Press, 2007.
 - Judt, T. (2005). *Postwar: A History of Europe Since 1945*. Penguin Press.
-- Mazower, M. (1998). *Dark Continent: Europe's Twentieth Century*. Alfred A. Knopf.
+- Mazower, M. (1999). *Dark Continent: Europe's Twentieth Century*. Alfred A. Knopf (US ed. 1999; first published London: Allen Lane, 1998).
 - Levi, P. (1947). *Se questo è un uomo*. De Silva. English ed.: *If This Is a Man*. Orion Press, 1959.
 - Jaspers, K. (1913). *Allgemeine Psychopathologie*. Springer. English ed.: *General Psychopathology*. Manchester University Press, 1963.

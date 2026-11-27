@@ -63,11 +63,11 @@ To dismantle the CAS, Wells formulated the **Attention Training Technique (ATT)*
 2. **Attention Switching**: Rapidly and deliberately shifting focus between different spatial auditory locations.
 3. **Divided Attention**: Expanding attentional capacity to monitor multiple distinct auditory streams simultaneously.
 
-By strengthening executive control over attention, ATT empowers patients to disengage from rumination and threat monitoring, restoring cognitive flexibility across affective disorders.
+By training executive control over attention, ATT aims to help patients disengage from rumination and threat monitoring and regain cognitive flexibility.
 
 ## Clinical Relevance
 
-Attentional impairments represent diagnostic criteria for Attention-Deficit/Hyperactivity Disorder (ADHD), characterized in DSM-5-TR by persistent patterns of inattention, distractibility, and executive dysfunction. In addition, selective attentional biases toward threat cues maintain panic, social anxiety, and posttraumatic stress disorder (PTSD), while depressive disorders involve difficulty disengaging attention from mood-congruent negative stimuli. Attentional regulation also serves as the foundational mechanism in Mindfulness-Based Cognitive Therapy (MBCT).
+Attentional impairments represent diagnostic criteria for Attention-Deficit/Hyperactivity Disorder (ADHD), characterized in DSM-5-TR by a persistent pattern of inattention and/or hyperactivity-impulsivity that interferes with functioning or development. In addition, selective attentional biases toward threat cues maintain panic, social anxiety, and posttraumatic stress disorder (PTSD), while depressive disorders involve difficulty disengaging attention from mood-congruent negative stimuli. Attentional regulation also serves as the foundational mechanism in Mindfulness-Based Cognitive Therapy (MBCT).
 
 ## Sources
 

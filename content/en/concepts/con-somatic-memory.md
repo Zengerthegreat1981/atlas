@@ -4,6 +4,7 @@ id: "CON-1294"
 type: "مفهوم"
 part: "psychology"
 level: "متقدم"
+quality: "unverified"
 title: "Somatic Memory"
 en: "Somatic Memory: The Body as Recorder of Experience"
 crumb: "Psychology ← Concepts ← Somatic Memory"
@@ -31,7 +32,7 @@ This framework distinguishes several forms of somatic memory: muscle memory (a c
 
 ## Notable Works or Representatives
 
-Alongside van der Kolk and Ogden, this framework intersects with Peter Levine's "Somatic Experiencing" approach, which uses tracking of bodily sensation to complete frozen physiological defense cycles, and also with Eye Movement Desensitization and Reprocessing (EMDR), the technique developed by Francine Shapiro in 1989, an approach with good evidence for PTSD; how it works, including the role of bilateral stimulation, is still debated.
+Alongside van der Kolk and Ogden, this framework intersects with Peter Levine's "Somatic Experiencing" approach, which uses tracking of bodily sensation to complete frozen physiological defense cycles, and also with Eye Movement Desensitization and Reprocessing (EMDR), the technique introduced by Francine Shapiro in a 1989 publication, an approach with good evidence for PTSD; how it works, including the role of bilateral stimulation, is still debated.
 
 ## Somatic memory and implicit memory
 

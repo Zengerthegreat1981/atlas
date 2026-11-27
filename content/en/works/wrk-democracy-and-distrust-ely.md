@@ -53,7 +53,7 @@ Ely's theory has been criticized, notably by Laurence Tribe and Ronald Dworkin, 
 
 ## The Author's Professional Context
 
-Ely (1938–1996) wrote this work after a professional experience that combined academia and practice at the highest levels of the American judiciary: he served as a law clerk to Chief Justice Earl Warren at the Supreme Court, and then as a professor of law at Yale, Harvard and Stanford (where he was also dean of the law school), and later at the University of Miami. This dual experience between academic theory and actual judicial practice gave him a particular sensitivity to the gap between abstract philosophical theses about the legitimacy of judicial review and the constraints of day-to-day judicial practice, a sensitivity that is clearly reflected in the book's relatively practical style compared with the abstraction of some contemporary philosophical debates on the same subject.
+Ely (1938–2003) wrote this work after a professional experience that combined academia and practice at the highest levels of the American judiciary: he served as a law clerk to Chief Justice Earl Warren at the Supreme Court, and then as a professor of law at Yale, Harvard and Stanford (where he was also dean of the law school), and later at the University of Miami. This dual experience between academic theory and actual judicial practice gave him a particular sensitivity to the gap between abstract philosophical theses about the legitimacy of judicial review and the constraints of day-to-day judicial practice, a sensitivity that is clearly reflected in the book's relatively practical style compared with the abstraction of some contemporary philosophical debates on the same subject.
 
 ## Sources
 

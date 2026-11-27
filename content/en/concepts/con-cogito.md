@@ -49,7 +49,7 @@ The *Meditations* do not contain the words *cogito, ergo sum*, and Descartes in 
 
 ## Precedents
 
-Augustine argued against the skeptics that "if I am mistaken, I am" (*si fallor, sum*; *City of God* XI.26; also *On the Trinity* X). Antoine Arnauld pointed out the similarity in the Fourth Objections, and Descartes accepted it while noting that he used the point for a different purpose. Ancient and medieval skepticism, including the Academic and Pyrrhonian traditions, formed part of the background against which the doubt was framed.
+Augustine argued against the skeptics that "if I am mistaken, I am" (*si fallor, sum*; *City of God* XI.26; also *On the Trinity* X). Antoine Arnauld recalled an Augustinian parallel in the Fourth Objections; and in a letter of November 1640 to Andreas Colvius, who had drawn his attention to a passage of Augustine, Descartes noted that he used the point for a different purpose, to show that the thinking self is immaterial. Ancient and medieval skepticism, including the Academic and Pyrrhonian traditions, formed part of the background against which the doubt was framed.
 
 ## Objections and Criticism
 

@@ -4,6 +4,7 @@ id: "SCH-12431"
 type: "مدرسة"
 part: "legal-theory"
 level: "متقدم"
+quality: "unverified"
 title: "History of Non-Western Law"
 en: "History of Non-Western Law"
 crumb: "Legal Theory ← Schools ← History of Non-Western Law"
@@ -35,11 +36,11 @@ Islamic jurisprudence remains a principal source of legislation in personal stat
 
 Comparisons among non-Western systems are also significant. Traditional Chinese law favored family and community mediation over formal litigation in order to avoid tearing the social fabric. Islamic jurisprudence offers a similar principle in preferring reconciliation (sulh) over litigation in financial disputes, while the right to resort to the courts remains fully guaranteed. Studies in legal orientalism, from Ignaz Goldziher through Schacht, sought to understand the Sharia from the perspective of the historical development of its texts. This approach met sharp criticism from Muslim and Western scholars alike for neglecting the internal coherence of the discipline of usul al-fiqh. The central question in this field remains whether non-Western legal systems can be understood with the very analytical tools of Western law, or whether these systems require an independent legal epistemology drawn from their own sources. This question intersects with post-colonial debates in comparative legal studies.
 
-European colonialism also reshaped non-Western legal systems. Colonial administrations in Egypt, India, and Nigeria imposed civil and criminal codes derived from the European tradition, while largely retaining Islamic jurisprudence or local customs in the sphere of personal status. This produced a legal dualism whose effects remain visible in many contemporary Arab and African constitutions. The legal historian Wael Hallaq studied this phenomenon in depth in *Shari'a: Theory, Practice, Transformations*. He showed how the replacement of the traditional judicial structure by the modern nation-state stripped the Sharia of many of its independent institutional mechanisms, such as the plurality of legal schools and the decentralized system of legal opinion (ifta').
+European colonialism also reshaped non-Western legal systems. Colonial administrations in India and Nigeria introduced courts and codes derived from the European tradition, and in Egypt French-modelled codes were adopted for the Mixed Courts (1875) and, after the British occupation, for the National Courts (1883), while largely retaining Islamic jurisprudence or local customs in the sphere of personal status. This produced a legal dualism whose effects remain visible in many contemporary Arab and African constitutions. The legal historian Wael Hallaq studied this phenomenon in depth in *Shari'a: Theory, Practice, Transformations*. He showed how the replacement of the traditional judicial structure by the modern nation-state stripped the Sharia of many of its independent institutional mechanisms, such as the plurality of legal schools and the decentralized system of legal opinion (ifta').
 
 ## Sources
 
 - Hallaq, Wael B. *A History of Islamic Legal Theories: An Introduction to Sunni Usul al-Fiqh*. Cambridge University Press, 1997.
 - Hallaq, Wael B. *Sharī'a: Theory, Practice, Transformations*. Cambridge University Press, 2009.
 - Schacht, Joseph. *An Introduction to Islamic Law*. Oxford University Press, 1964.
-- al-Sanhuri, Abd al-Razzaq. *Masadir al-haqq fi al-fiqh al-islami* [*Sources of Right in Islamic Jurisprudence*]. Cairo: Ma'had al-Buhuth wa-l-Dirasat al-'Arabiyya, 1954–1959.
+- al-Sanhuri, Abd al-Razzaq. *Masadir al-haqq fi al-fiqh al-islami* [*Sources of Right in Islamic Jurisprudence*]. Cairo: Ma'had al-Dirasat al-'Arabiyya al-'Aliya, 1954–1959.

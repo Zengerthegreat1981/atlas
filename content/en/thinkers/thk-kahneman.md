@@ -34,12 +34,12 @@ With his colleague Amos Tversky, Kahneman formed an unusual scientific partnersh
 
 - **Prospect Theory**: presented with Amos Tversky in 1979 as an empirical account of choice under risk, it showed that the value of a human decision is computed in terms of losses and gains rather than absolute value, and that people dislike a loss more strongly than they like an equivalent reward. The theory became a cornerstone of behavioral economics and redefined the very idea of "rationality." It was later developed into "Cumulative Prospect Theory" (1992) to extend its scope to multiple outcomes.
 
-- **The research program on judgment under uncertainty (Heuristics and Biases)**: a series of experimental studies he began with Tversky and Paul Slovic in the 1970s and 1980s, which documented how people resort to "rules of thumb" (heuristics) such as availability, representativeness, and anchoring, and how these rules produce systematic, replicable biases. The edited volume *Judgment Under Uncertainty* (1982) became a standard reference for this research program.
+- **The research program on judgment under uncertainty (Heuristics and Biases)**: a series of experimental studies he began with Tversky, to which Paul Slovic and others contributed, in the 1970s and 1980s, which documented how people resort to "rules of thumb" (heuristics) such as availability, representativeness, and anchoring, and how these rules produce systematic, replicable biases. The edited volume *Judgment Under Uncertainty* (1982) became a standard reference for this research program.
 - **Systems 1 and 2 in *Thinking, Fast and Slow*** (2011): a long-standing general presentation of a mental map of cognitive processing, in which he divided human cognition into "System 1" (fast, intuitive, automatic, emotional) and "System 2" (slow, analytical, effortful, conscious). The book unified decades of research in a single narrative accessible to the general reader, and so achieved wide circulation and became one of the most influential behavioral-science books of its generation.
 
 ## His Place in the Movement
 
-Kahneman stands at the heart of what came to be known as the "cognitive bias revolution," and with Tversky and Thaler he is counted among the key figures of behavioral economics. His work redrew the boundaries between psychology and economics, and opened the door to "economic psychology" as an independent academic discipline. Wider fields were also influenced by him: design, medicine, law, and public policy (applications of nudging).
+Kahneman stands at the heart of what came to be known as the "cognitive bias revolution," and with Tversky and Thaler he is counted among the key figures of behavioral economics. His work redrew the boundaries between psychology and economics, and strengthened the dialogue with economic psychology, a field that predates him. Wider fields were also influenced by him: design, medicine, law, and public policy (applications of nudging).
 
 His last book, *Noise: A Flaw in Human Judgment* (2021, with Sibony and Sunstein), helped widen the scope of the problem from bias to unjustified variability in professional judgments, and with it proposed "decision hygiene" practices to reduce variability.
 
@@ -78,7 +78,7 @@ Kahneman's impact goes beyond the academy into three applied domains:
 ## Sources
 
 - Kahneman, D. (1973). *Attention and Effort*. Prentice-Hall.
-- Kahneman, D. & Tversky, A. "Judgment under Uncertainty: Heuristics and Biases", *Science* (1974).
+- Tversky, A. & Kahneman, D. "Judgment under Uncertainty: Heuristics and Biases", *Science* (1974).
 - Kahneman, D. & Tversky, A. "Prospect Theory: An Analysis of Decision under Risk", *Econometrica* (1979).
 - Tversky, A. & Kahneman, D. "Extensional versus Intuitive Reasoning: The Conjunction Fallacy in Probability Judgment" (the Linda problem), *Psychological Review* (1983).
 - Kahneman, D., Slovic, P. & Tversky, A. (eds.), *Judgment Under Uncertainty: Heuristics and Biases* (1982).

@@ -59,7 +59,7 @@ Nevertheless, there is a striking intersection. Hart's idea of the "rule of reco
 
 ## Personal life and career
 
-Before being appointed professor at Oxford in 1952, Hart practiced as a barrister in London from the early 1930s. He then served in British intelligence (MI5) during the Second World War, an experience that sharpened his practical sense of institutions, which he did not lose when he turned to abstract philosophical theory. He held the chair of jurisprudence at Oxford from 1952 until 1968, and later served as Principal of Brasenose College (1973-78). Until his death in 1992 he remained among the most cited names in the philosophy of law, although his output, by the measure of quantity, is relatively limited: one major book (*The Concept of Law*) and a group of influential articles, later collected in volumes such as *Essays in Jurisprudence and Philosophy* (1983).
+Before being appointed professor at Oxford in 1952, Hart practiced as a barrister in London from the early 1930s. He then served in British intelligence (MI5) during the Second World War, an experience that sharpened his practical sense of institutions, which he did not lose when he turned to abstract philosophical theory. He held the chair of jurisprudence at Oxford from 1952 until 1968, and later served as Principal of Brasenose College (1973-78). Until his death in 1992 he remained among the most cited names in the philosophy of law, and *The Concept of Law* is his best-known book, alongside works such as *Causation in the Law* (with Tony Honoré, 1959), *Law, Liberty and Morality* (1963), *Punishment and Responsibility* (1968), *Essays on Bentham* (1982) and the collection *Essays in Jurisprudence and Philosophy* (1983).
 
 ## Later impact and critique
 

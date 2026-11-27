@@ -64,7 +64,7 @@ Their development of Prospect Theory (1979) founded behavioral economics, leadin
 
 ## Reconstructive Memory and Eyewitness Testimony
 
-**Elizabeth Loftus** revolutionized memory research by demonstrating that human memory is not an accurate recording device, but an active, malleable reconstructive process. Through classic experiments (e.g., Loftus & Palmer, 1974), she identified the *misinformation effect*, showing that post-event suggestive questioning can alter eyewitness recollections of accidents and crimes, and even implant entirely false autobiographical memories. Her work has been influential in debates about eyewitness reliability and recovered memory therapies.
+**Elizabeth Loftus** revolutionized memory research by demonstrating that human memory is not an accurate recording device, but an active, malleable reconstructive process. Through classic experiments (e.g., Loftus & Palmer, 1974), she identified the *misinformation effect*, showing that post-event suggestive questioning can alter eyewitness recollections of accidents and crimes. Later work (e.g., Loftus & Pickrell, 1995) reported that entirely false autobiographical memories can also be implanted in some participants. Her work has been influential in debates about eyewitness reliability and recovered memory therapies.
 
 ## Methodological Critiques and Contemporary Directions
 
@@ -77,6 +77,7 @@ Their development of Prospect Theory (1979) founded behavioral economics, leadin
 - Atkinson, R. C., & Shiffrin, R. M. (1968). "Human memory: A proposed system and its control processes." In K. W. Spence & J. T. Spence (Eds.), *The Psychology of Learning and Motivation* (Vol. 2, pp. 89–195). Academic Press.
 - Baddeley, A. D., & Hitch, G. (1974). "Working memory." In G. H. Bower (Ed.), *The Psychology of Learning and Motivation* (Vol. 8, pp. 47–89). Academic Press.
 - Broadbent, D. E. (1958). *Perception and Communication*. Pergamon Press.
+- Loftus, E. F., & Pickrell, J. E. (1995). "The formation of false memories." *Psychiatric Annals*, 25(12), 720–725.
 - Miller, G. A. (1956). "The magical number seven, plus or minus two: Some limits on our capacity for processing information." *Psychological Review*, 63(2), 81–97.
 - Neisser, U. (1967). *Cognitive Psychology*. Appleton-Century-Crofts.
 - Tulving, E. (1983). *Elements of Episodic Memory*. Oxford University Press.

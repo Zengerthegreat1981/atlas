@@ -78,7 +78,7 @@ IPT has been applied across a wide range of disorders: major depression (the pri
 
 ## The Target Disorder and the Competing Technique
 
-IPT's primary indication is **major depressive disorder**, and it has been classified in the guidelines as a "well-established" treatment for this disorder, based on the original trials by Klerman, Weissman, and colleagues in the 1970s and the comparative trials that followed. IPT can be contrasted with **Behavioral Activation (BA)**, a behavioral alternative for treating depression: while IPT focuses on rebuilding relationships and addressing loss and role transitions, BA aims at directly increasing reinforcing behaviors regardless of the relational content.
+IPT's primary indication is **major depressive disorder**, and the APA Division 12 (Society of Clinical Psychology) listing rates it as having strong research support for depression under its 1998 criteria (with re-evaluation under the 2015 criteria still outstanding), drawing on the original trials by Klerman, Weissman, and colleagues in the 1970s and the comparative trials that followed. IPT can be contrasted with **Behavioral Activation (BA)**, a behavioral alternative for treating depression: while IPT focuses on rebuilding relationships and addressing loss and role transitions, BA aims at directly increasing reinforcing behaviors regardless of the relational content.
 
 ## Sources
 

@@ -4,6 +4,7 @@ id: "DBT-0344"
 type: "جدل"
 part: "philosophy"
 level: "متقدم"
+quality: "unverified"
 title: "Realism versus Nominalism: Universals — Real or Just Names?"
 en: "Realism vs. Nominalism: Universals — Real or Just Names?"
 crumb: "Philosophy ← Debates ← The Realism–Nominalism Debate"
@@ -43,14 +44,14 @@ Peter Abelard, in his *Historia calamitatum*, recounts that he challenged his te
 ## Major Points of Difference
 
 - **The concept of substance**: the realists said "substance = a common essence," the nominalists said "substance = an individual."
-- **The concept of property**: the realists said "property = a subsidiary entity," the nominalists said "property = an accidental conjunction between two individuals."
+- **The concept of property**: the realists said "property = a subsidiary entity," the nominalists held that whatever properties exist are themselves individual (for Ockham, particular qualities such as this whiteness), not entities shared by many things.
 - **In theology**: the Trinity was the classic test case. If a shared divine nature is only a name, the three persons risk becoming three individuals; the realists therefore insisted on a real common nature.
 
 ## Why Does the Debate Matter?
 
-1. **Early modern philosophy**: Hobbes held a nominalist view of general terms, and Locke, Berkeley, and Hume, in different ways, rejected real universals and abstract general ideas, shaping British empiricism.
+1. **Early modern philosophy**: Hobbes held a nominalist view of general terms, and Locke, Berkeley, and Hume, in different ways, rejected real universals, shaping British empiricism; Locke explained general terms through abstract general ideas, which Berkeley and Hume rejected.
 2. **Ockham's legacy**: Ockham's parsimony ("Ockham's razor") and logic of terms influenced late medieval and early modern thought.
-3. **Analytic philosophy**: in the 20th century, Russell (*The Problems of Philosophy*, 1912) defended universals, while Quine and Goodman argued for nominalism, and D. M. Armstrong later defended realism about universals.
+3. **Analytic philosophy**: in the 20th century, Russell (*The Problems of Philosophy*, 1912) defended universals, while Goodman and Quine argued for nominalism in a joint paper of 1947 (Quine later accepted abstract classes), and D. M. Armstrong later defended realism about universals.
 4. **A comparison with Islamic theology**: the debate over divine attributes is sometimes compared loosely to it, since the Mu'tazila denied attributes distinct from God's essence while the Ash'aris affirmed real attributes that are "neither identical with nor other than" the essence. The analogy is imperfect, as the Islamic discussion has its own terms.
 
 ## Sources

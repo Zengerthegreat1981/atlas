@@ -67,7 +67,7 @@ Comprehensive standard DBT comprises four mandatory modalities:
 A notable development in clinical DBT was the development of the **DBT Prolonged Exposure (DBT-PE)** protocol by Melanie Harned. Historically, PTSD among individuals with BPD and chronic self-injurious behavior went untreated because standard exposure therapies were considered too destabilizing for high-risk cohorts.
 
 DBT-PE is an integrated protocol implemented in Stage 2 of treatment, following strict readiness criteria:
-- The patient must achieve Stage 1 behavioral stabilization, demonstrated by the absence of imminent suicidal behavior, past-month self-injury, or active therapy-interfering behaviors.
+- The patient must achieve Stage 1 behavioral stabilization, including no imminent suicide risk, no suicidal behavior or non-suicidal self-injury for at least two months in outpatient settings (one month in intensive settings), and no serious therapy-interfering behavior.
 - The protocol adapts Edna Foa's Prolonged Exposure framework, incorporating structured imaginal exposure to traumatic memories, in vivo exposure to avoided safe trauma cues, and cognitive processing of trauma-related emotions (such as misplaced self-blame, trauma-related guilt, and shame).
 - A pilot randomized controlled trial (Harned et al., 2014) found that adding DBT-PE to DBT improved PTSD outcomes without an increase in suicidal or self-harming behaviors, challenging the historical assumption that trauma exposure is unsafe in this population; evidence remains limited and the protocol requires specialist training.
 

@@ -39,7 +39,7 @@ Dworkin later extended the argument in a deeper thesis, in *A Matter of Principl
 
 ## Hart's Reply (Postscript, 1994, After His Death)
 
-In the Postscript added to the second edition of *The Concept of Law*, based on a draft Hart left behind, he defended a position later called **soft or inclusive positivism**. The rule of recognition may **incorporate a moral criterion** (such as principles of justice) among the conditions of a law's validity in a given system, without this overturning the general positivist separation between law and morality. The incorporation itself is a conventional social choice, not a conceptual necessity as Dworkin claims.
+In the Postscript added to the second edition of *The Concept of Law*, based on a draft Hart left behind, he defended a position he called **soft positivism**, often discussed as **inclusive positivism**. The rule of recognition may **incorporate a moral criterion** (such as principles of justice) among the conditions of a law's validity in a given system, without this overturning the general positivist separation between law and morality. The incorporation itself is a conventional social choice, not a conceptual necessity as Dworkin claims.
 
 ## The Importance of the Debate
 

@@ -4,6 +4,7 @@ id: "CON-0894"
 type: "مفهوم"
 part: "philosophy"
 level: "متقدم"
+quality: "unverified"
 title: "Recollection and the Recall of Knowledge (Anamnesis)"
 en: "Anamnesis Recollection"
 crumb: "Philosophy ← Concepts ← Recollection and the Recall of Knowledge (Anamnesis)"
@@ -34,7 +35,7 @@ In the *Meno*, Meno raises the paradox of inquiry (often called Meno's paradox):
 
 ## The proof in the Phaedo
 
-In the "Phaedo" the proof is built on our awareness of absolute equality: we see things that are approximately equal and judge them deficient in relation to a standard that the senses did not present, so we must have known equality itself before we saw the first sensible thing. Knowledge is thus prior to experience, and this supports belief in the survival of the soul before birth and after death.
+In the "Phaedo" the proof is built on our awareness of absolute equality: we see things that are approximately equal and judge them deficient in relation to a standard that the senses did not present, so we must have known equality itself before we saw the first sensible thing. Knowledge is thus prior to experience, and this supports belief that the soul existed before birth; for its survival after death too, Socrates asks that this be combined with the earlier argument from opposites (77b-d).
 
 ## Echo in Islamic thought
 

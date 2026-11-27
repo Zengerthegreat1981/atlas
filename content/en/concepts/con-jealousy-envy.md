@@ -4,6 +4,7 @@ id: "CON-0415"
 type: "مفهوم"
 part: psychology
 level: "مبتدئ"
+quality: "unverified"
 title: "Jealousy and Envy"
 en: "Jealousy and Envy"
 crumb: "Emotion Psychology ← Concepts ← Jealousy and Envy"
@@ -23,7 +24,7 @@ Jealousy and envy are frequently conflated in everyday discourse, yet psychologi
 
 Envy, in cognitive appraisal theory, arises from an unfavorable upward social comparison that induces feelings of inferiority, resentment, and longing. The core appraisal is one of subjective lack: another person possesses something that the envier values but does not have. Jealousy, by contrast, centers on the threat of relational loss or displacement. The core appraisal is one of existential insecurity: a third party threatens to sever or diminish the affection, fidelity, or attention of a partner or attachment figure.
 
-Although jealousy and envy can co-occur—such as when an individual envies a rival's charm while experiencing jealousy over their partner's attention to that rival—their emotional profiles differ significantly. In empirical studies by Parrott and Smith (1993), envy was characterized predominantly by feelings of inferiority, longing, self-pity, and bitterness. Jealousy was defined by anger toward the rival, fear of rejection, betrayal, and suspicious vigilance.
+Although jealousy and envy can co-occur—such as when an individual envies a rival's charm while experiencing jealousy over their partner's attention to that rival—their emotional profiles differ significantly. In empirical studies by Parrott and Smith (1993), envy was characterized by feelings of inferiority, longing, resentment, and disapproval of the emotion. Jealousy was characterized by fear of loss, distrust, anxiety, and anger.
 
 ## Empirical Classifications and Evolutionary Perspectives
 

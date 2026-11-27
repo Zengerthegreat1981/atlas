@@ -4,6 +4,7 @@ id: "THK-0999"
 type: "مفكر"
 part: "psychology"
 level: "متوسط"
+quality: "unverified"
 title: "Elizabeth F. Loftus"
 en: "Elizabeth F. Loftus"
 crumb: "Psychology ← Thinkers ← Elizabeth Loftus"
@@ -44,13 +45,13 @@ Extending her research from modifying specific details to implanting entirely fa
 
 Loftus has served as an expert witness or consultant in hundreds of criminal and civil trials, evaluating the reliability of eyewitness identification, lineup administration procedures, and recovered memory claims. 
 
-During the 1980s and 1990s, Loftus became a central figure in the contentious "Memory Wars," challenging claims that traumatic experiences of childhood abuse could be completely repressed for decades and subsequently recovered intact through suggestive psychotherapeutic techniques (such as guided imagery, hypnosis, or sodium amytal). In *The Myth of Repressed Memory* (1994, with Katherine Ketcham), she argued that many recovered memories were unintended iatrogenic artifacts of therapeutic suggestion. This stance sparked intense legal, professional, and personal controversy, including a high-profile legal battle (*Taus v. Loftus*, 2007) in which the California Supreme Court ruled largely in her favor under anti-SLAPP statutes protecting academic inquiry.
+During the 1980s and 1990s, Loftus became a central figure in the contentious "Memory Wars," challenging claims that traumatic experiences of childhood abuse could be completely repressed for decades and subsequently recovered intact through suggestive psychotherapeutic techniques (such as guided imagery, hypnosis, or sodium amytal). In *The Myth of Repressed Memory* (1994, with Katherine Ketcham), she argued that many recovered memories were unintended iatrogenic artifacts of therapeutic suggestion. This stance sparked intense legal, professional, and personal controversy, including a high-profile legal battle (*Taus v. Loftus*, 2007) in which the California Supreme Court ruled largely in her favor under California's anti-SLAPP statute, allowing only one claim to proceed.
 
 ## Critical Debates and Limitations
 
 - **Plausibility and Boundary Conditions**: Researchers such as Kathy Pezdek and colleagues (1997) demonstrated that the rate of false memory implantation depends strongly on the perceived plausibility and cultural familiarity of the event; bizarre or physically invasive events are far more difficult to implant than common mishaps like getting lost.
 - **Laboratory versus Traumatic Reality**: Critics have argued that laboratory simulations involving videotaped accidents or neutral childhood stories cannot capture the emotional intensity, terror, or neurobiological processing characteristic of severe trauma.
-- **Prevalence in Systematic Reviews**: Meta-analytic and systematic reviews (e.g., Brewin & Andrews, 2017) emphasize that while memory implantation reliably occurs in laboratory settings, complete false autobiographical memories typically form in a minority of subjects (around 20–30%), underscoring that memory is neither perfectly indelible nor infinitely pliable.
+- **Prevalence in Systematic Reviews**: Meta-analytic and systematic reviews (e.g., Brewin & Andrews, 2017) report that across laboratory paradigms about half of participants (47% on average) showed some recollective experience of a suggested event, but only about 15% were rated as having full memories, underscoring that memory is neither perfectly indelible nor infinitely pliable.
 
 ## Major Works
 
@@ -66,5 +67,5 @@ During the 1980s and 1990s, Loftus became a central figure in the contentious "M
 - Loftus, E. F. (1979). *Eyewitness Testimony*. Cambridge, MA: Harvard University Press.
 - Loftus, E. F., & Pickrell, J. E. (1995). "The formation of false memories." *Psychiatric Annals*, 25(12), 720–725.
 - Loftus, E. F. (2005). "Planting misinformation in the human mind: A 30-year investigation of the malleability of memory." *Learning & Memory*, 12(4), 361–366.
-- Pezdek, K., Finger, K., & Hodge, D. (1997). "Planting false childhood memories: The role of event plausibility." *Child Development*, 68(5), 887–895.
+- Pezdek, K., Finger, K., & Hodge, D. (1997). "Planting false childhood memories: The role of event plausibility." *Psychological Science*, 8(6), 437–441.
 - Brewin, C. R., & Andrews, B. (2017). Creating memories for false autobiographical events in childhood: A systematic review. *Applied Cognitive Psychology*, 31(1), 2–23.

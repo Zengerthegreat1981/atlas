@@ -29,7 +29,7 @@ The word is borrowed from the Tungusic languages of Siberia (šaman). It passed 
 
 ## The Foundational Position: Eliade
 
-Mircea Eliade, in *Le Chamanisme et les techniques archaïques de l'extase* (1951), offered the most influential academic formulation of the concept. He defined the shaman as an "Ecstasy Specialist" who undertakes spiritual journeys to other worlds, celestial or subterranean, for healing or for mediation between his community and spiritual powers. He distinguished between the shaman who "ascends" by his own will and spirit, and the possessed person in whom spirits dwell. He held that the first structure recurs across distant cultures, which justifies treating it as a single comparative category.
+Mircea Eliade, in *Le Chamanisme et les techniques archaïques de l'extase* (1951), offered the most influential academic formulation of the concept. He defined shamanism as a technique of ecstasy, and the shaman as a specialist in it who undertakes spiritual journeys to other worlds, celestial or subterranean, for healing or for mediation between his community and spiritual powers. He distinguished between the shaman who "ascends" by his own will and spirit, and the possessed person in whom spirits dwell. He held that the first structure recurs across distant cultures, which justifies treating it as a single comparative category.
 
 ## Possessed Persons and Priests in the Arab Heritage: The Limits of Comparison
 

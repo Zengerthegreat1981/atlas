@@ -31,7 +31,7 @@ The book studies how religious communities, including Jewish, Christian and Musl
 
 ## Impact
 
-The book became a frequently cited reference in religion and digital media studies. Campbell later edited *Digital Religion: Understanding Religious Practice in Digital Media* (first edition 2013; second edition 2021 with Ruth Tsuria), which surveys the field more broadly, and developed the idea of "networked religion" in subsequent work.
+The book became a frequently cited reference in religion and digital media studies. Campbell later edited *Digital Religion* (first edition 2013, subtitled *Understanding Religious Practice in New Media Worlds*; second edition 2021 with Ruth Tsuria, subtitled *Understanding Religious Practice in Digital Media*), which surveys the field more broadly, and developed the idea of "networked religion" in subsequent work.
 
 ## Methodology
 
@@ -44,6 +44,6 @@ Heidi A. Campbell is a professor of communication at Texas A&M University and a 
 ## Sources
 
 - Campbell, Heidi A. *When Religion Meets New Media*. Routledge, 2010.
-- Campbell, Heidi A. (ed.). *Digital Religion: Understanding Religious Practice in Digital Media*. Routledge, 2013.
+- Campbell, Heidi A. (ed.). *Digital Religion: Understanding Religious Practice in New Media Worlds*. Routledge, 2013.
 - Campbell, Heidi A., and Ruth Tsuria (eds.). *Digital Religion: Understanding Religious Practice in Digital Media*, 2nd ed. Routledge, 2021.
 - Helland, Christopher. "Online Religion as Lived Religion: Methodological Issues in the Study of Religious Participation on the Internet." *Online - Heidelberg Journal of Religions on the Internet*, vol. 1, no. 1, 2005.

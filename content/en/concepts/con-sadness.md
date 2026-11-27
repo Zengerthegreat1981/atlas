@@ -64,4 +64,4 @@ Sadness is also entangled with questions of meaning. The loss of a person can be
 - Panksepp, J. (1998). *Affective Neuroscience: The Foundations of Human and Animal Emotions*. Oxford University Press.
 - Mesquita, B., & Frijda, N. H. (1992). Cultural variations in emotions: A review. *Psychological Bulletin*, 112(2), 179–204.
 - Al-Balkhi, A. Z. (d. 934). *Masalih al-Abdan wa al-Anfus* [Sustenance of the Body and the Soul]. English translation: Badri, M. (2013). *Abu Zayd al-Balkhi's Sustenance of the Soul*. International Institute of Islamic Thought.
-- Al-Kindi, Y. (c. 870). *Risalah fi al-Hilah li-Daf' al-Ahzan* [The Art of Dispelling Sorrows]. (H. Ritter & R. Walzer, Eds., 1938). *Studi su al-Kindi II*, Atti della R. Accademia Nazionale dei Lincei.
+- Al-Kindi, Y. (c. 870). *Risalah fi al-Hilah li-Daf' al-Ahzan* [The Art of Dispelling Sorrows]. (H. Ritter & R. Walzer, Eds., 1938). *Studi su al-Kindi II*, Memorie della R. Accademia Nazionale dei Lincei.

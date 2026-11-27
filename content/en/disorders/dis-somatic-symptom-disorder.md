@@ -168,4 +168,4 @@ This change has been debated. Critics argued that, because medically unexplained
 - World Health Organization. (2019). *International Classification of Diseases, 11th Revision (ICD-11)*. WHO.
 - Barsky, A. J., & Wyshak, G. (1990). Hypochondriasis and somatosensory amplification. *British Journal of Psychiatry*, 157, 404-409.
 - Kirmayer, L. J., & Sartorius, N. (2007). Cultural models and somatic syndromes. *Psychosomatic Medicine*, 69(9), 832-840.
-- Rief, W., & Martin, A. (2014). How to use the new DSM-5 somatic symptom disorder diagnosis in research and practice: A critical evaluation and a proposal for modifications. *Psychotherapy and Psychosomatics*, 83(6), 331-340.
+- Rief, W., & Martin, A. (2014). How to use the new DSM-5 somatic symptom disorder diagnosis in research and practice: A critical evaluation and a proposal for modifications. *Annual Review of Clinical Psychology*, 10, 339-367.

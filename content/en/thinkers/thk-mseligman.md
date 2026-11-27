@@ -81,5 +81,5 @@ His role in the Comprehensive Soldier Fitness program, which the US Army adopted
 - Maier, S. F., & Seligman, M. E. P. "Learned helplessness at fifty: Insights from neuroscience." Psychological Review, 123(4), 2016.
 - Abramson, L. Y., Seligman, M. E. P., & Teasdale, J. D. (1978). Learned helplessness in humans: Critique and reformulation. Journal of Abnormal Psychology, 87(1), 49–74.
 - Ehrenreich, B. (2009). Bright-Sided: How Positive Thinking Is Undermining America. Metropolitan Books.
-- Eidelson, R., Pilisuk, M., & Soldz, S. (2011). The dark side of Comprehensive Soldier Fitness. American Psychologist, 66(7), 643–651.
+- Eidelson, R., Pilisuk, M., & Soldz, S. (2011). The dark side of Comprehensive Soldier Fitness. American Psychologist, 66(7), 643–644.
 - Becker, D., & Marecek, J. "Positive psychology: History in the remaking?" Theory & Psychology, 18(5), 2008.

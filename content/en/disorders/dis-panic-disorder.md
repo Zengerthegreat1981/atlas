@@ -4,6 +4,7 @@ id: "DIS-0003"
 type: "اضطراب/حالة إكلينيكية"
 part: "psychology"
 level: "مبتدئ"
+quality: "unverified"
 title: "Panic Disorder"
 en: "Panic Disorder"
 crumb: "Psychiatry and Diagnosis ← Disorders and Clinical Conditions ← Panic Disorder"
@@ -32,7 +33,7 @@ DSM-5-TR defines a panic attack as an abrupt surge of intense fear or discomfort
 
 ## History
 
-Panic as a clinical problem was recognised long before it had a name: nineteenth-century physicians described "effort syndrome" and "soldier's heart," and early twentieth-century accounts of anxiety neurosis included attacks of the same kind. The modern category was created by Donald Klein, whose 1964 paper delineated two drug-responsive anxiety syndromes and showed that imipramine blocked panic attacks while leaving general anxiety untouched — evidence that panic was a distinct condition with its own mechanism. The category entered DSM-III in 1980 as panic disorder, was refined through DSM-IV (1994) and DSM-5 (2013), and is retained in DSM-5-TR (2022). David Clark's cognitive model, published in 1986, gave the field its dominant psychological account: panic arises when normal bodily sensations are catastrophically misinterpreted — a racing heart read as a heart attack, breathlessness read as suffocation — and the misinterpretation amplifies the arousal it fears.
+Panic as a clinical problem was recognised long before it had a name: nineteenth-century physicians described "irritable heart" or "soldier's heart" (Da Costa, 1871), a picture relabelled "effort syndrome" during the First World War, and Freud's account of anxiety neurosis in the 1890s included attacks of the same kind. The modern category was created by Donald Klein, whose 1964 paper delineated two drug-responsive anxiety syndromes and showed that imipramine blocked panic attacks while leaving general anxiety untouched — evidence that panic was a distinct condition with its own mechanism. The category entered DSM-III in 1980 as panic disorder, was refined through DSM-IV (1994) and DSM-5 (2013), and is retained in DSM-5-TR (2022). David Clark's cognitive model, published in 1986, gave the field its dominant psychological account: panic arises when normal bodily sensations are catastrophically misinterpreted — a racing heart read as a heart attack, breathlessness read as suffocation — and the misinterpretation amplifies the arousal it fears.
 
 ## Causes and mechanisms
 

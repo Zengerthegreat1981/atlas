@@ -4,6 +4,7 @@ id: "SCH-0004"
 type: "مدرسة"
 part: "philosophy"
 level: "مبتدئ"
+quality: "unverified"
 title: "Platonic Academy (Old / Middle / New Skeptical)"
 en: "Platonic Academy (Old / Middle / New Skeptical)"
 crumb: "Philosophy ← Schools ← Platonic Academy"
@@ -70,7 +71,7 @@ A philosophical institution founded by Plato (c. 428–348 BCE) near the grove o
 
 ## The Closure
 
-- The historian Agathias reports that Damascius, Simplicius, and four others left Athens after the teaching of philosophy was banned in Justinian's legislation around 529 CE, and then returned after the peace treaty with the Persians in 532. In 1969 Alan Cameron reread the episode and warned against exaggerating it: there was no continuous Academy in the institutional sense, and philosophy continued to be taught in Alexandria.
+- The historian Agathias reports that Damascius, Simplicius, and five others went to the Persian court of Khosrow, disappointed their hopes there, and returned under the protection of the peace treaty of 532. Their departure is usually linked to Justinian's restrictions on pagan teaching around 529 CE. In 1969 Alan Cameron reread the evidence and argued that 529 was less decisive than often supposed, suggesting that the school at Athens may have carried on for a time on its own resources; philosophy also continued to be taught in Alexandria.
 
 ## Limits
 

@@ -33,7 +33,7 @@ Childhood anxiety disorders include separation anxiety, specific phobia, social 
 
 ## From Little Hans to Epidemiological Studies
 
-In 1909 Freud studied the case of "Little Hans," a boy who was afraid of horses, and read it in the light of the Oedipal conflict. In 1920 Watson and Rayner responded in the *Journal of Experimental Psychology* with the "Little Albert" experiment, which presented fear as something learned through conditioning. In 1924 Mary Cover Jones showed that a child's fear could be reduced through gradual counterconditioning (pairing the feared object with food) in the case of "Peter." The epidemiological shift came with the Great Smoky Mountains study, whose results were published by Costello and colleagues in *Archives of General Psychiatry* in 2003. It found that roughly one-third of children had met criteria for at least one psychiatric disorder by age sixteen.
+In 1909 Freud studied the case of "Little Hans," a boy who was afraid of horses, and read it in the light of the Oedipal conflict. In 1920 Watson and Rayner reported in the *Journal of Experimental Psychology* the "Little Albert" experiment, which presented fear as something learned through conditioning, and contrasted this account with Freudian explanations. In 1924 Mary Cover Jones showed that a child's fear could be reduced through gradual counterconditioning (pairing the feared object with food) in the case of "Peter." The epidemiological shift came with the Great Smoky Mountains study, whose results were published by Costello and colleagues in *Archives of General Psychiatry* in 2003. It found that roughly one-third of children had met criteria for at least one psychiatric disorder by age sixteen.
 
 ## Temperament and Development
 

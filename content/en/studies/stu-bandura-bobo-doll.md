@@ -27,7 +27,7 @@ Pioneering experiments in developmental and social psychology showing that nurse
 
 ## Context and Experimental Design
 
-Seventy-two children (36 boys and 36 girls, aged roughly 3 to 6) from the Stanford University nursery school were divided into three groups: one group watched an adult model carry out distinctive verbal and physical aggression against the Bobo doll (hitting it with a mallet, kicking it, and shouting phrases such as 'Pow, Boom'); one group watched a non-aggressive model playing quietly; and one was a control group. Afterward, all the children were exposed to a mild frustration situation (being prevented from playing with attractive toys) and were placed in a room containing a Bobo doll and other toys so that their behavior could be observed.
+Seventy-two children (36 boys and 36 girls, aged roughly 3 to 6) from the Stanford University nursery school were divided into three groups: one group watched an adult model carry out distinctive verbal and physical aggression against the Bobo doll (hitting it with a mallet, kicking it, and shouting phrases such as 'Pow'); one group watched a non-aggressive model playing quietly; and one was a control group. Afterward, all the children were exposed to a mild frustration situation (being prevented from playing with attractive toys) and were placed in a room containing a Bobo doll and other toys so that their behavior could be observed.
 
 ## Results and Conclusions
 
@@ -58,4 +58,4 @@ These conclusions, however, remain contested within contemporary psychology. Met
 - Bandura, A. (1977). *Social Learning Theory*. Prentice-Hall.
 - Anderson, C. A., et al. (2010). Violent video game effects on aggression, empathy, and prosocial behavior in Eastern and Western countries: A meta-analytic review. *Psychological Bulletin, 136*(2), 151-173.
 - Anderson, C. A., & Bushman, B. J. (2001). Effects of violent video games on aggressive behavior, aggressive cognition, aggressive affect, physiological arousal, and prosocial behavior: A meta-analytic review of the scientific literature. *Psychological Science*, 12(5), 353–359.
-- Ferguson, C. J. (2015). Do video games promote violent crime? A test of the culture-delinquency and media effects theories. *Journal of Communication*, 65(4), 646–660.
+- Ferguson, C. J. (2015). Does movie or video game violence predict societal violence? It depends on what you look at and when. *Journal of Communication*, 65(1), 193–212.

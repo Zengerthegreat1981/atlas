@@ -86,7 +86,7 @@ The Hart-Fuller debate (1958) and the later Hart-Dworkin debate frame the standa
 
 ## Legal realism and its heirs
 
-American realists such as Oliver Wendell Holmes Jr. ("The Path of the Law", 1897), Karl Llewellyn (The Bramble Bush, 1930) and Jerome Frank (Law and the Modern Mind, 1930) questioned whether legal rules determine outcomes and urged attention to what courts actually do. Scandinavian realists such as Alf Ross (On Law and Justice, 1953) took a different, more philosophical route. Realism's descendants include empirical legal studies and the behavioural study of judicial decisions.
+American realists such as Oliver Wendell Holmes Jr. ("The Path of the Law", 1897), Karl Llewellyn (The Bramble Bush, 1930) and Jerome Frank (Law and the Modern Mind, 1930) questioned whether legal rules determine outcomes and urged attention to what courts actually do. Scandinavian realists such as Alf Ross (On Law and Justice, Danish original 1953, English 1958) took a different, more philosophical route. Realism's descendants include empirical legal studies and the behavioural study of judicial decisions.
 
 ## Critical, feminist and race-conscious approaches
 
