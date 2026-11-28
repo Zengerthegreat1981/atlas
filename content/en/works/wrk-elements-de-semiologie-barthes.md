@@ -14,7 +14,7 @@ dates: "1964"
 country: "France"
 language: "French"
 edges:
-- rel: "belongs_to", target: "Structuralist Semiology", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-structuralist-semiology", target_type: "مدرسة"
 related:
 - id: "sch-structuralist-semiology", title: "Structuralist Semiology", type: "مدرسة"
 - id: "thk-ferdinand-de-saussure", title: "Ferdinand de Saussure", type: "مفكر"

@@ -16,7 +16,7 @@ cultural_origin: "european"
 active_start: 1898
 active_end: 1929
 edges:
-- rel: "belongs_to", target: "Rankean School and Historical Positivism", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-rankean-historical-positivism", target_type: "مدرسة"
 related:
 - id: "thk-seignobos-langlois", title: "Charles Seignobos and Charles-Victor Langlois", type: "مفكر"
 - id: "sch-rankean-historical-positivism", title: "Rankean School and Historical Positivism ('As It Actually Happened' and Source Criticism)", type: "مدرسة"

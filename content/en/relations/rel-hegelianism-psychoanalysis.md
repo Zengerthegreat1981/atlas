@@ -10,7 +10,7 @@ crumb: "Bridges ← Relations ← Hegelianism and Psychoanalysis: Dialectics of 
 active_start: 1930
 active_end: "مستمر"
 edges:
-  - rel: "relates_to", target: "German Idealism (umbrella)", target_type: "مدرسة"
+  - rel: "relates_to", target: "sch-german-idealism", target_type: "مدرسة"
   - rel: "relates_to", target: "Psychoanalysis", target_type: "مدرسة"
 related:
   - id: "sch-german-idealism", title: "German Idealism (as an umbrella)", type: "مدرسة"

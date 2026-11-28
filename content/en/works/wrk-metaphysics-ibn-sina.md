@@ -18,7 +18,7 @@ active_end: 1020
 language: "Arabic"
 register: "academic"
 edges:
-- rel: "written_by", target: "Ibn Sina", target_type: "مفكر"
+- rel: "authored_by", target: "Ibn Sina", target_type: "مفكر"
 - rel: "belongs_to", target: "Medieval Islamic Philosophy", target_type: "مدرسة"
 related:
 - id: "thk-ibn-sina", title: "Abu Ali al-Husayn ibn Abdallah ibn Sina", type: "مفكر"

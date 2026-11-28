@@ -17,8 +17,8 @@ active_end: 796
 language: "Arabic"
 register: "academic"
 edges:
-- rel: "written_by", target: "Sibawayh", target_type: "مفكر"
-- rel: "belongs_to", target: "Arabic Linguistic and Literary Thought", target_type: "مدرسة"
+- rel: "authored_by", target: "Sibawayh", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-arabic-linguistic-literary", target_type: "مدرسة"
 related:
 - id: "thk-sibawayhi", title: "Sibawayh", type: "مفكر"
 - id: "sch-arabic-linguistic-literary", title: "Arabic Linguistic and Literary Thought", type: "مدرسة"

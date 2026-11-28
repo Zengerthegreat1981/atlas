@@ -11,7 +11,7 @@ crumb: "Psychology ← Concepts ← Fundamental Attribution Error"
 active_start: 1977
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Social Psychology", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-social-psychology", target_type: "مدرسة"
 related:
 - id: "sch-social-psychology", title: "Social Psychology", type: "مدرسة"
 gaps: []

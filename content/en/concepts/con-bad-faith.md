@@ -8,7 +8,7 @@ title: "Bad Faith"
 en: "Bad Faith"
 crumb: "Existential Psychotherapy ← Concepts ← Bad Faith"
 edges:
-  - rel: "belongs_to", target: "Existentialist School", target_type: "مدرسة"
+  - rel: "belongs_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
   - id: "con-freedom", title: "Freedom", type: "مفهوم"
   - id: "con-responsibility", title: "Responsibility", type: "مفهوم"

@@ -9,8 +9,8 @@ en: "Woman's Evolution"
 crumb: "Anthropology ← Works ← Woman's Evolution"
 dates: "1975 · Reed"
 edges:
-  - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
-  - rel: "written_by", target: "Reed", target_type: "مفكر"
+  - rel: "belongs_to", target: "fld-anthropology", target_type: "مجال"
+  - rel: "authored_by", target: "Reed", target_type: "مفكر"
 related:
   []
 sources:

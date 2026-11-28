@@ -15,7 +15,7 @@ policy_orientation: "Radical interventionist: the instability of capitalism is s
 active_start: 1950
 active_end: "مستمر"
 edges:
-- rel: "evolved_from", target: "Keynesian Economics", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-keynesian-economics", target_type: "مدرسة"
 related:
 - id: "con-lender-of-last-resort", title: "Lender of Last Resort", type: "مفهوم"
 - id: "thk-joan-robinson", title: "Joan Robinson", type: "مفكر"

@@ -10,7 +10,7 @@ en: "British Existential-Phenomenological"
 crumb: "Existential Psychotherapy ← Currents ← The British Current"
 dates: "Britain · from the 1980s"
 edges:
-  - rel: "part_of", target: "Existentialist School", target_type: "مدرسة"
+  - rel: "part_of", target: "sch-existentialism", target_type: "مدرسة"
   - rel: "developed_by", target: "van Deurzen", target_type: "مفكرة"
   - rel: "critiques", target: "American current", target_type: "تيار"
   - rel: "influenced_by", target: "Phenomenology", target_type: "منهج"

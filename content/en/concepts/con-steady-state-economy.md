@@ -11,7 +11,7 @@ economic_school: "Ecological economics and degrowth"
 active_start: 1977
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Ecological and Degrowth Economics", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-ecological-and-degrowth-economics", target_type: "مدرسة"
 related:
 - id: "sch-ecological-and-degrowth-economics", title: "Ecological and Degrowth Economics", type: "مدرسة"
 - id: "thk-herman-daly", title: "Herman Daly", type: "مفكر"

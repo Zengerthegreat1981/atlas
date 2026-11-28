@@ -13,7 +13,7 @@ active_end: 2021
 country: "United States"
 language: "English"
 edges:
-- rel: "belongs_to", target: "Foundations of Psychotherapy", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-psychotherapy-foundations", target_type: "مدرسة"
 related:
 - id: "sch-psychotherapy-foundations", title: "Foundations of Psychotherapy", type: "مدرسة"
 gaps: []

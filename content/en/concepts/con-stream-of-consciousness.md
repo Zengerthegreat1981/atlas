@@ -10,7 +10,7 @@ crumb: "Bridges ← Concepts ← Stream of Consciousness"
 active_start: 1890
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Classical Pragmatism", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-pragmatism-classical", target_type: "مدرسة"
 related:
 - id: "thk-james", title: "William James", type: "مفكر"
 - id: "thk-husserl", title: "Edmund Husserl", type: "مفكر"

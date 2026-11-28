@@ -9,7 +9,7 @@ en: "The Tiwi of North Australia"
 crumb: "Anthropology ← Works ← The Tiwi of North Australia"
 dates: "1960 · Hart & Pilling"
 edges:
-  - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
+  - rel: "belongs_to", target: "fld-anthropology", target_type: "مجال"
 related:
   []
 gaps:

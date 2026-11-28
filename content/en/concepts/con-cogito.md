@@ -10,8 +10,8 @@ crumb: "Philosophy ← Concepts ← Cogito, ergo sum"
 active_start: 1637
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Cartesianism", target_type: "مدرسة"
-- rel: "formulated_by", target: "René Descartes", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-cartesianism", target_type: "مدرسة"
+- rel: "formulated_by", target: "thk-descartes", target_type: "مفكر"
 related:
 - id: "thk-descartes", title: "René Descartes", type: "مفكر"
 - id: "sch-cartesianism", title: "Cartesianism", type: "مدرسة"

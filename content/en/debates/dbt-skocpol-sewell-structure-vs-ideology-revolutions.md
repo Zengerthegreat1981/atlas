@@ -11,7 +11,7 @@ crumb: "Sociology ← Debates ← The Debate of Structure vs. Ideology"
 active_start: 1979
 active_end: 1985
 edges:
-- rel: "belongs_to", target: "Skocpol's Comparative-Historical Sociology of Revolutions", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-skocpol-comparative-historical-revolutions", target_type: "مدرسة"
 related:
 - id: "thk-skocpol", title: "Theda Skocpol", type: "مفكر"
 gaps: []

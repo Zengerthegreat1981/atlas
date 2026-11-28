@@ -13,7 +13,7 @@ country: "United States"
 language: "English"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "Classical Pragmatism", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-pragmatism-classical", target_type: "مدرسة"
 related:
 - id: "thk-heidegger", title: "Martin Heidegger", type: "مفكر"
 - id: "thk-nietzsche", title: "Friedrich Nietzsche", type: "مفكر"

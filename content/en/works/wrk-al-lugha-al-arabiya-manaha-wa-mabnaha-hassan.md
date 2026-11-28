@@ -15,7 +15,7 @@ language: "Arabic"
 active_start: 1973
 active_end: 1973
 edges:
-- rel: "belongs_to", target: "Modern Arabic Linguistics", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-modern-arabic-linguistics", target_type: "مدرسة"
 related:
 - id: "sch-modern-arabic-linguistics", title: "Modern Arabic Linguistics", type: "مدرسة"
 - id: "thk-tammam-hassan", title: "Tammam Hassan", type: "مفكر"

@@ -14,7 +14,7 @@ language: "English"
 active_start: 1970
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Forensic Psychiatry", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-forensic-psychiatry", target_type: "مدرسة"
 related:
 - id: "sch-forensic-psychiatry", title: "Forensic Psychiatry", type: "مدرسة"
 gaps:

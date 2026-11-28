@@ -27,7 +27,7 @@ gaps: []
 
 ## The Central Thesis
 
-Aristotle asks about the ultimate end (telos) that is sought for its own sake and not for another's, and answers: **eudaimonia**, which is closer to "flourishing" or "fulfillment" than to "happiness" in its fleeting pleasurable sense. Eudaimonia is not a momentary state of feeling but an **activity** (energeia) of the rational soul in accordance with virtue, extended over a complete life and not a moment of it. Hence moral virtue is defined as a disposition acquired by habituation (neither innate nor purely cognitive) that lies as a mean between two opposed vices, excess and deficiency, such as courage between cowardice and rashness, and generosity between stinginess and extravagance. The determination of this mean in each particular situation is not by a ready general rule but by the faculty of seasoned practical judgment, namely **phronesis** (practical wisdom), which distinguishes actual virtuous action from mere theoretical knowledge of virtue.
+Aristotle asks about the ultimate end (telos) that is sought for its own sake and not for another's, and answers: **eudaimonia**. He opens by observing that every art, inquiry, and action aims at some good, and that some ends are only means to others (as wealth is a means to comfort). He rejects identifying the highest good with pleasure in the sense of bodily gratification, with honour (which depends on others' esteem rather than the person's own worth), or with wealth (a means, not an end). Eudaimonia is closer to "flourishing" or "fulfillment" than to "happiness" in its fleeting pleasurable sense. Eudaimonia is not a momentary state of feeling but an **activity** (energeia) of the rational soul in accordance with virtue, extended over a complete life and not a moment of it. Hence moral virtue is defined as a disposition acquired by habituation (neither innate nor purely cognitive) that lies as a mean between two opposed vices, excess and deficiency, such as courage between cowardice and rashness, and generosity between stinginess and extravagance. The determination of this mean in each particular situation is not by a ready general rule but by the faculty of seasoned practical judgment, namely **phronesis** (practical wisdom), which distinguishes actual virtuous action from mere theoretical knowledge of virtue. The moral virtues, acquired through repeated practice, differ from the intellectual virtues, such as theoretical wisdom (*sophia*) and practical wisdom, which owe their growth mainly to teaching and experience.
 
 ## Structure of the Work
 
@@ -39,7 +39,7 @@ It is likely that the material of the book is lecture material delivered at the 
 
 ## Reception and Critique
 
-It is the founding text of the "virtue ethics" tradition in its contemporary sense, revived in the twentieth century by Elizabeth Anscombe in her influential essay on "Modern Moral Philosophy" (1958) and continued by Alasdair MacIntyre, in contrast to the earlier dominance of Kantian deontological ethics and utilitarian ethics of consequences. In the Middle Ages Ibn Rushd of Andalusia commented on it, in commentaries that were translated into Latin and influenced the Christian West, and Thomas Aquinas, who also wrote a commentary on it, relied on it directly in the material on the virtues in the *Summa Theologiae*. It remained a reference text in European university curricula up to the threshold of modernity.
+It is the founding text of the "virtue ethics" tradition in its contemporary sense, revived in the twentieth century by Elizabeth Anscombe in her influential essay on "Modern Moral Philosophy" (1958) and continued by Alasdair MacIntyre in *After Virtue* (1981), in contrast to the earlier dominance of Kantian deontological ethics and utilitarian ethics of consequences. In the Middle Ages Ibn Rushd of Andalusia commented on it, in commentaries that were translated into Latin and influenced the Christian West, and Thomas Aquinas, who also wrote a detailed commentary on it (*Sententia libri Ethicorum*, c. 1270s), relied on it directly in the material on the virtues in the *Summa Theologiae*, integrating it into his theological system and treating the Aristotelian virtues as completed by the theological virtues of faith, hope, and charity. It remained a reference text in European university curricula up to the threshold of modernity. Anscombe argued that the modern concept of moral duty had lost its foundation with the decline of the religious framework that produced it, and urged a return to the study of virtue. Later contributors to the virtue ethics revival include Philippa Foot, Martha Nussbaum, and Rosalind Hursthouse; Aristotle's idea of human flourishing also informs the capability approach associated with Amartya Sen and, more explicitly, with Nussbaum.
 
 ## Arabic Translations
 
@@ -47,7 +47,11 @@ It was transmitted into Arabic in the Abbasid period within the Aristotelian tra
 
 ## The Function Argument and the Definition of Virtue
 
-In Book I Aristotle builds the definition of the human good on the "function" of the human being: everything has a function that determines its perfection, and the human being's specific function is the activity of the soul in accordance with reason, so his highest good is its activity in accordance with the best virtue in a complete life. In Book II he formulates a comprehensive definition of moral virtue: it is a settled state concerned with choice, lying in a mean relative to us, determined by reason as the practically wise person would determine it. The mean is not a fixed arithmetical average but varies by person and situation: the food that suits the wrestler does not suit the beginner. Related to this is his saying that morals are acquired by practice, so that a person becomes just by doing just acts and not by knowing about justice.
+In Book I Aristotle builds the definition of the human good on the "function" of the human being: everything has a function that determines its perfection, and the human being's specific function is the activity of the soul in accordance with reason, so his highest good is its activity in accordance with the best virtue in a complete life. In Book II he formulates a comprehensive definition of moral virtue: it is a settled state concerned with choice, lying in a mean relative to us, determined by reason as the practically wise person would determine it. The mean is not a fixed arithmetical average but varies by person and situation: the food that suits the wrestler does not suit the beginner. Further examples are generosity, between prodigality and meanness, and temperance, between self-indulgence and insensibility. Related to this is his saying that morals are acquired by practice, so that a person becomes just by doing just acts and not by knowing about justice.
+
+## Applied Example: Courage on the Battlefield
+
+The soldier in battle illustrates the doctrine. The coward flees at slight danger, which is a deficiency in facing fear; the rash man charges without weighing the real dangers and destroys himself and his comrades to no purpose, which is an excess. The courageous man feels the fear appropriate to the danger but faces it steadfastly because a noble end, such as the defence of the city, is worth the risk. Telling steadfastness from rashness in a given case calls for practical wisdom and cannot be reduced to a fixed rule.
 
 ## Will, Responsibility and Justice
 
@@ -55,7 +59,7 @@ Book III presents voluntary and involuntary action, making responsibility rest w
 
 ## Pleasure and the Contemplative Life
 
-Aristotle treats pleasure twice: first in Book VII and again in Book X, holding that pleasure is not a motion but the completion of activity, and that the good is neither pleasure alone nor life without pleasure. He then concludes by preferring the contemplative life as the highest kind of happy life, because it exercises the highest thing in the human being and is the most self-sufficient and enduring, and he acknowledges that the virtuous political life comes second. This raises an old debate: is happiness one activity, contemplation, or a group of virtuous activities?
+Aristotle treats pleasure twice: first in Book VII and again in Book X, holding that pleasure is not a motion but the completion of activity, and that the good is neither pleasure alone nor life without pleasure. Between these treatments, Books VIII and IX distinguish friendships of utility, of pleasure, and of virtue; only the last, grounded in love of the friend for his character rather than for benefit or enjoyment, is complete. He then concludes by preferring the contemplative life as the highest kind of happy life, because it exercises the highest thing in the human being, is the activity closest to that of the divine intellect, and is the most self-sufficient and enduring, and he acknowledges that the virtuous political life comes second. This raises an old debate: is happiness one activity, contemplation, or a group of virtuous activities?
 
 ## The Eudemian Ethics and the Name
 
@@ -63,12 +67,12 @@ Aristotle has a parallel book, the *Eudemian Ethics*, which shares three books w
 
 ## The Book's Influence on Arabic Thought
 
-Ishaq ibn Hunayn transmitted it into Arabic, and thinkers circulated the text and drew from it the theory of the virtues. Its influence appears in Miskawayh's *Tahdhib al-akhlaq* and in al-Tusi's *Akhlaq-i Nasiri*. Among the most notable things preserved by the Hebrew and Latin translation is Ibn Rushd's Middle Commentary, whose Arabic original was lost. Al-Farabi in *Tahsil al-sa'ada* presented a conception of happiness derived from Aristotle and Plato.
+Ishaq ibn Hunayn transmitted it into Arabic, and thinkers circulated the text and drew from it the theory of the virtues. Its influence appears in Miskawayh's *Tahdhib al-akhlaq*, which combined the doctrine of the mean with Persian and Islamic wisdom in an original synthesis, and in al-Tusi's *Akhlaq-i Nasiri*. Among the most notable things preserved by the Hebrew and Latin translation is Ibn Rushd's Middle Commentary, whose Arabic original was lost. Al-Farabi in *Tahsil al-sa'ada* presented a conception of happiness derived from Aristotle and Plato.
 
 ## Limits of the Book
 
 - An aristocratic ethics: it presupposes a free man with wealth and leisure, and excludes slaves, women and workers from the complete life.
-- Vagueness in the theory of the mean: it gives no independent criterion for determining the mean other than the judgment of the wise person, and this raises the worry of circularity.
+- Vagueness in the theory of the mean: it gives no independent criterion for determining the mean other than the judgment of the wise person, and this raises the worry of circularity, or the charge that advice to be moderate is empty. Defenders reply that this is intended: ethics is not an exact science like mathematics but a practical domain requiring judgment acquired through experience.
 - It oscillates between regarding happiness as a comprehensive activity and regarding it as pure contemplation.
 - It presents no theory of absolute duty or of rights, which readers of modern ethics miss.
 
@@ -77,5 +81,7 @@ Ishaq ibn Hunayn transmitted it into Arabic, and thinkers circulated the text an
 - The Greek critical edition: Ingram Bywater (ed.), *Aristotelis Ethica Nicomachea*, Oxford Classical Texts, 1894.
 - Arabic translation: Ahmad Lutfi al-Sayyid (trans.), *'Ilm al-akhlaq ila Nicomachus*, Egyptian University (Cairo), 1924.
 - Aristotle. *Nicomachean Ethics*. Translated by Terence Irwin. 2nd ed. Indianapolis: Hackett, 1999.
+- Aristotle. *The Nicomachean Ethics*. Translated by W. D. Ross. Oxford: Clarendon Press, 1925.
 - Kraut, Richard. *Aristotle on the Human Good*. Princeton: Princeton University Press, 1989.
 - Anscombe, G. E. M. "Modern Moral Philosophy." *Philosophy* 33, no. 124 (1958): 1–19.
+- MacIntyre, Alasdair. *After Virtue*. University of Notre Dame Press, 1981.

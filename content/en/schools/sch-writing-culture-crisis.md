@@ -15,7 +15,7 @@ cultural_origin: "anglo-american"
 active_start: 1986
 active_end: 1995
 edges:
-- rel: "belongs_to", target: "Postcolonial Critique of Anthropology", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-postcolonial-critique-anthropology", target_type: "مدرسة"
 related:
 - id: "thk-james-clifford", title: "James Clifford", type: "مفكر"
 gaps: []

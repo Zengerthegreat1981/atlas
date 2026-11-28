@@ -10,7 +10,7 @@ crumb: "Linguistics ← Branches ← Historical and Comparative Linguistics"
 active_start: 1786
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Historical-Comparative Linguistics", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-historical-comparative-linguistics", target_type: "مدرسة"
 related:
 - id: "sch-historical-comparative-linguistics", title: "Historical-Comparative Linguistics", type: "مدرسة"
 - id: "con-grammaticalization", title: "Grammaticalization", type: "مفهوم"

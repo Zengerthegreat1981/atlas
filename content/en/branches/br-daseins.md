@@ -10,7 +10,7 @@ en: "Daseinsanalysis"
 crumb: "Existential Philosophy ← Currents ← Daseinsanalysis"
 dates: "Switzerland and Germany · from the 1930s"
 edges:
-  - rel: "part_of", target: "Existentialist School", target_type: "مدرسة"
+  - rel: "part_of", target: "sch-existentialism", target_type: "مدرسة"
   - rel: "influenced_by", target: "Heidegger", target_type: "مفكر"
   - rel: "developed_by", target: "Binswanger and Boss", target_type: "مفكرون"
   - rel: "contrasts_with", target: "American current", target_type: "تيار"

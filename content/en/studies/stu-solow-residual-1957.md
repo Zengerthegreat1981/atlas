@@ -11,7 +11,7 @@ economic_school: "Marshallian neoclassical economics"
 active_start: 1956
 active_end: 1957
 edges:
-- rel: "belongs_to", target: "Marshallian Neoclassical Economics", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-marshallian-neoclassical-economics", target_type: "مدرسة"
 related: []
 study_year: 1957
 design: "Quantitative accounting analysis of the contribution of factors of production (capital and labour) to the growth of US gross domestic product, using an aggregate production function, with calculation of the 'residual' not explained by the accumulation of the factors of production themselves"

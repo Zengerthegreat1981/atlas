@@ -10,7 +10,7 @@ title: "Aphasiology & Aphasia Classification"
 en: "Aphasiology & Aphasia Classification"
 crumb: "Linguistics ← Concepts ← Aphasiology & Aphasia Classification"
 edges:
-- rel: "belongs_to", target: "Classical Neurolinguistics", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-classical-neurolinguistics", target_type: "مدرسة"
 related:
 - id: "con-broca-wernicke-lichtheim-model", title: "Broca-Wernicke-Lichtheim Model", type: "مفهوم"
 gaps: []

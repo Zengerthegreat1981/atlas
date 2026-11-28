@@ -14,7 +14,7 @@ language: "English"
 active_start: 1884
 active_end: "مستمر"
 edges:
-- rel: "relates_to", target: "Cognitive Psychology", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-cognitive-psychology", target_type: "مدرسة"
 related:
 - id: "sch-cognitive-psychology", title: "Cognitive Psychology", type: "مدرسة"
 - id: "thk-james", title: "William James", type: "مفكر"

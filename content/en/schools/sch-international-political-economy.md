@@ -15,7 +15,7 @@ policy_orientation: "Multi-method analysis: study of the reciprocal relationship
 active_start: 1970
 active_end: "مستمر"
 edges:
-- rel: "evolved_from", target: "Classical Political Economy", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-classical-political-economy", target_type: "مدرسة"
 related:
 - id: "sch-latin-american-structuralism-cepal", title: "Latin American Structuralism: CEPAL (ECLAC)", type: "مدرسة"
 - id: "thk-samir-amin", title: "Samir Amin", type: "مفكر"

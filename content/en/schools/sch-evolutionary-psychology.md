@@ -7,7 +7,7 @@ en: "Evolutionary Psychology"
 crumb: "Psychology ← Schools ← Evolutionary Psychology"
 dates: "1980s to the present"
 parent: "major schools"
-edges:
+edges: []
 related: []
 gaps: []
 ---

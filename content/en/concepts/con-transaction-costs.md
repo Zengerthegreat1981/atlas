@@ -11,7 +11,7 @@ economic_school: "New institutional economics"
 active_start: 1937
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "New Institutional Economics", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-new-institutional-economics", target_type: "مدرسة"
 related:
 - id: "sch-new-institutional-economics", title: "New Institutional Economics", type: "مدرسة"
 gaps: []

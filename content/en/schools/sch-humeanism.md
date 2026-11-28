@@ -4,6 +4,7 @@ id: "SCH-0140"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"
+quality: "unverified"
 title: "Humeanism (Empirical Skepticism)"
 en: "Humeanism (Empirical Skepticism)"
 crumb: "Philosophy ← Schools ← Humeanism"
@@ -103,7 +104,7 @@ Hume the historical philosopher, whose positions were often more nuanced and som
 - **Continental rationalism and Kant**: Kant's *Critique of Pure Reason* (1781) answers Hume's challenge about causation with the categories as conditions of experience.
 - **Utilitarianism**: Bentham acknowledged Hume's influence on his thinking about utility.
 - **Logical positivism**: Ayer and Carnap drew on Hume's distinction between relations of ideas and matters of fact ("Hume's fork") in criticising metaphysics.
-- **The Church of Scotland**: Hume was passed over for chairs at Edinburgh (1744-45) and Glasgow (1752) amid accusations of atheism, and an attempt to have him censured by the General Assembly in 1755-56 failed.
+- **The Church of Scotland**: Hume was passed over for chairs at Edinburgh (1744-45) and Glasgow (1751-52) amid accusations of atheism, and an attempt to have him censured by the General Assembly in 1755-56 failed.
 
 ## Later Influence
 

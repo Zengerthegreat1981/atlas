@@ -16,7 +16,7 @@ active_start: 2004
 active_end: "مستمر"
 edges:
 - rel: "authored_by", target: "Timur Kuran", target_type: "مفكر"
-- rel: "belongs_to", target: "Islamic Banking and Finance", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-islamic-banking-and-finance", target_type: "مدرسة"
 related:
 - id: "sch-islamic-banking-and-finance", title: "Islamic Banking and Finance", type: "مدرسة"
 - id: "sch-modern-islamic-economics", title: "Modern Islamic Economics", type: "مدرسة"

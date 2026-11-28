@@ -211,6 +211,9 @@ function edgeTargetHTML(text,currentNodeId){
  if(!text) return text;
  const aliasId=EDGE_TARGET_ALIASES[text.trim()];
  if(aliasId) return '<a class="autolink" data-go="'+aliasId+'">'+text+'</a>';
+ // target written as a slug: link it and show the page title
+ const bySlug=DATA.nodes[text.trim()];
+ if(bySlug) return '<a class="autolink" data-go="'+text.trim()+'">'+bySlug.title+'</a>';
  return autoLink(text,currentNodeId);
 }
 
@@ -872,7 +875,7 @@ function readNextFor(key){
   const tgt=DATA.nodes[r[0]];
   if(!tgt)return null;
   let reason='';
-  const eMatch=(n.edges||[]).find(e=>e[1]===r[1]);
+  const eMatch=(n.edges||[]).find(e=>e[1]===r[0]||e[1]===r[1]);
   if(eMatch)reason=eMatch[0];
   return {id:r[0],title:r[1],type:tgt.type,reason,tgtLede:tgt.lede};
  }).filter(Boolean);
@@ -1995,7 +1998,7 @@ function plain(html) { const d = document.createElement('div'); d.innerHTML = ht
 /* ---------- 2. ترجمة مسمّيات العلاقات (طبقة عرض فقط) ---------- */
 const REL_AR = {
   belongs_to: 'ينتمي إلى', part_of: 'جزء من', contains: 'يحتوي على', is_a: 'هو',
-  written_by: 'كتبه', developed_by: 'طوّره', revised_by: 'راجعه',
+  written_by: 'كتبه', authored_by: 'كتبه', developed_by: 'طوّره', revised_by: 'راجعه',
   influenced_by: 'تأثّر بـ', influenced: 'أثّر في',
   occurs_within: 'يقع داخل', discussed_in: 'يُناقَش في', explains: 'يفسّر',
   neighbour_of: 'جار لـ', adjacent_to: 'مجاور لـ',
@@ -2455,7 +2458,7 @@ function nextStep(key) {
   const unseen = n.related.filter(r => ST.hist.indexOf(r[0]) < 0 && DATA.nodes[r[0]]);
   const pick = (unseen.length ? unseen : n.related.filter(r => DATA.nodes[r[0]]))[0];
   if (!pick) return '';
-  const why = relMap[DATA.nodes[pick[0]].title] || relMap[pick[1]];
+  const why = relMap[pick[0]] || relMap[DATA.nodes[pick[0]].title] || relMap[pick[1]];
   const rest = n.related.filter(r => r[0] !== pick[0] && DATA.nodes[r[0]]).slice(0, 4);
   return '<div class="nextcard"><h5>الخطوة التالية</h5>' +
     '<div class="why2">' +

@@ -11,7 +11,7 @@ legal_tradition: "Analytical philosophy of criminal law"
 active_start: 1843
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Philosophy of Criminal Law and Responsibility", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-criminal-law-philosophy-responsibility", target_type: "مدرسة"
 related:
 - id: "sch-criminal-law-philosophy-responsibility", title: "Philosophy of Criminal Law and Responsibility", type: "مدرسة"
 - id: "con-mens-rea-criminal-intent", title: "Mens Rea (Criminal Intent)", type: "مفهوم"

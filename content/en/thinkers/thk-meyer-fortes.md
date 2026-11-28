@@ -9,7 +9,7 @@ en: "Meyer Fortes"
 crumb: "Anthropology ← Descent Theory ← Meyer Fortes"
 dates: "UK · 1906-1983"
 edges:
-  - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
+  - rel: "belongs_to", target: "fld-anthropology", target_type: "مجال"
 related:
   []
 gaps:

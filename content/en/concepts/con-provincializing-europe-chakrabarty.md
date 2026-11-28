@@ -10,7 +10,7 @@ crumb: "Historiography ← Concepts ← Provincializing Europe (Chakrabarty)"
 active_start: 2000
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Subaltern Studies as a Critique of Elite Historiography (Guha, Chakrabarty)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-subaltern-studies-historiographical-critique", target_type: "مدرسة"
 related:
 - id: "sch-subaltern-studies-historiographical-critique", title: "Subaltern Studies as a Critique of Elite Historiography (Guha, Chakrabarty)", type: "مدرسة"
 - id: "thk-dipesh-chakrabarty", title: "Dipesh Chakrabarty", type: "مفكر"

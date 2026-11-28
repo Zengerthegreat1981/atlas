@@ -13,10 +13,10 @@ active_end: "مستمر"
 language: "English"
 edges:
 - rel: "belongs_to", target: "Cultural Psychiatry", target_type: "مدرسة"
-- rel: "relates_to", target: "Frantz Fanon", target_type: "مفكر"
+- rel: "relates_to", target: "thk-fanon", target_type: "مفكر"
 - rel: "relates_to", target: "Ethnopsychiatry and Culture-Bound Syndromes", target_type: "مدرسة"
 - rel: "relates_to", target: "Fanonian Sociology of Liberation", target_type: "مدرسة"
-- rel: "relates_to", target: "Mental Illness in Non-Western Contexts", target_type: "مفهوم"
+- rel: "relates_to", target: "con-mental-illness-non-western", target_type: "مفهوم"
 related:
 - id: "sch-cultural-psychiatry", title: "Cultural (Transcultural) Psychiatry", type: "مدرسة"
 - id: "thk-fanon", title: "Frantz Fanon", type: "مفكر"

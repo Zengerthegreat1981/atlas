@@ -8,7 +8,7 @@ title: "Psychoanalysis"
 en: "Psychoanalysis"
 crumb: "Existential Philosophy ← Relations ← Psychoanalysis"
 edges:
-  - rel: "neighbour_of", target: "Existentialist School", target_type: "مدرسة"
+  - rel: "neighbour_of", target: "sch-existentialism", target_type: "مدرسة"
 related:
   - id: "dbt-unconscious", title: "The Unconscious Question", type: "جدل"
 gaps: []

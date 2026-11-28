@@ -13,9 +13,9 @@ active_end: "مستمر"
 language: "English"
 edges:
 - rel: "relates_to", target: "Bipolar Spectrum", target_type: "مفهوم"
-- rel: "relates_to", target: "Drug Side-Effects Management", target_type: "مفهوم"
+- rel: "relates_to", target: "con-side-effects-management", target_type: "مفهوم"
 - rel: "relates_to", target: "Polypharmacy and Drug Interactions", target_type: "مفهوم"
-- rel: "relates_to", target: "Major Depressive Disorder", target_type: "مفهوم"
+- rel: "relates_to", target: "con-major-depressive-disorder", target_type: "مفهوم"
 related:
 - id: "con-bipolar-spectrum", title: "Bipolar Spectrum", type: "مفهوم"
 - id: "con-side-effects-management", title: "Drug Side-Effects Management", type: "مفهوم"

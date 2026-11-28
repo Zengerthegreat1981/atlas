@@ -4,6 +4,7 @@ id: "SCH-0039"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"
+quality: "unverified"
 title: "Augustinianism"
 en: "Augustinianism"
 crumb: "Philosophy ← Medieval Christianity ← Augustinianism"
@@ -14,7 +15,7 @@ cultural_origin: "european"
 active_start: 354
 active_end: 1600
 edges:
-- rel: "evolved_from", target: "Patristics", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-patristics", target_type: "مدرسة"
 - rel: "evolved_from", target: "Middle Platonism", target_type: "مدرسة"
 related:
 - id: "sch-patristics", title: "Christian Patristics", type: "مدرسة"
@@ -28,7 +29,7 @@ A philosophical-theological tradition founded by **Augustine of Hippo** (354–4
 
 ## Founding Context
 
-Augustine was born in Tagaste (present-day Algeria) to a Christian mother (Monica) and a pagan father (Patricius). He studied rhetoric in Carthage and was influenced by Mani (Manichaeism) before being converted to Christianity in Milan in 386 CE at the hands of Bishop Ambrose (Ambrose of Milan). He was baptized, then returned to Africa and became bishop of Hippo (395 CE until his death in 430 CE). He lived through the fall of Rome to the Visigoths (410 CE), and wrote *The City of God* in response to the pagans.
+Augustine was born in Tagaste (present-day Algeria) to a Christian mother (Monica) and a pagan father (Patricius). He studied rhetoric in Carthage and was influenced by Mani (Manichaeism) before being converted to Christianity in Milan in 386 CE, under the influence of Bishop Ambrose (Ambrose of Milan). Ambrose baptized him in 387; he then returned to Africa and became bishop of Hippo (395 CE until his death in 430 CE). He lived through the fall of Rome to the Visigoths (410 CE), and wrote *The City of God* in response to the pagans.
 
 ## Prominent Figures
 
@@ -99,7 +100,7 @@ The *Confessions* (Confessiones) are a self-recollection (a spiritual autobiogra
 
 - **In medieval theology**: it shaped much of Latin theology (Thomas Aquinas, Bonaventure, Duns Scotus).
 - **In the Protestant Reformation**: Luther and Calvin drew on it, especially on the questions of "grace" and "justification by faith."
-- **In modern philosophy**: Augustine's "if I am mistaken, I am" (*si fallor, sum*, *City of God* XI.26) was compared to Descartes's cogito by contemporaries such as Arnauld, and his analysis of time and inner experience influenced twentieth-century phenomenology (for example Heidegger and Husserl's lectures on time).
+- **In modern philosophy**: Augustine's "if I am mistaken, I am" (*si fallor, sum*, *City of God* XI.26) was compared to Descartes's cogito by his contemporaries (Arnauld, in the Fourth Objections, pointed to the parallel argument in *On Free Choice of the Will*, Book II), and his analysis of time and inner experience influenced twentieth-century phenomenology (for example Heidegger and Husserl's lectures on time).
 - **In contemporary philosophy**: recent political theologians such as Eric Gregory and Charles Mathewes have returned to Augustine's account of love and the two cities.
 
 ## The Philosophical Predicament

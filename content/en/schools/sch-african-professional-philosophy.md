@@ -15,7 +15,7 @@ language: "English, French"
 active_start: 1970
 active_end: "مستمر"
 edges:
-- rel: "evolved_from", target: "Ethnophilosophy", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-ethnophilosophy", target_type: "مدرسة"
 related:
 - id: "sch-ethnophilosophy", title: "Ethnophilosophy", type: "مدرسة"
 gaps: []

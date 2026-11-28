@@ -11,7 +11,7 @@ active_start: 1980
 active_end: "مستمر"
 language: "Arabic, English"
 edges:
-- rel: "belongs_to", target: "Forensic Psychiatry", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-forensic-psychiatry", target_type: "مدرسة"
 related:
 - id: "sch-forensic-psychiatry", title: "Forensic Psychiatry", type: "مدرسة"
 - id: "con-competency-evaluation", title: "Competency Evaluation", type: "مفهوم"

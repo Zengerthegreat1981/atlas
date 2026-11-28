@@ -14,7 +14,7 @@ language: "English"
 active_start: 1966
 active_end: "مستمر"
 edges:
-- rel: "split_into", target: "Cultural Psychology", target_type: "مدرسة"
+- rel: "split_into", target: "sch-cultural-psychology", target_type: "مدرسة"
 related:
 - id: "sch-cultural-psychology", title: "Cultural Psychology", type: "مدرسة"
 gaps: []

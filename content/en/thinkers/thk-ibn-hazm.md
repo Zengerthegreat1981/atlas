@@ -13,7 +13,7 @@ language: "Arabic"
 active_start: 1020
 active_end: 1064
 edges:
-- rel: "belongs_to", target: "Islamic Legal Theory (Usul al-Fiqh)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-usul-al-fiqh-legal-theory", target_type: "مدرسة"
 related:
 - id: "sch-usul-al-fiqh-legal-theory", title: "Islamic Legal Theory (Usul al-Fiqh)", type: "مدرسة"
 - id: "sch-islamic-law-shariah", title: "Islamic Law and Sharia", type: "مدرسة"

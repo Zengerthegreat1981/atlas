@@ -10,7 +10,7 @@ crumb: "Anthropology ← Concepts ← Lineage System"
 active_start: 1861
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Descent Theory", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-descent-theory", target_type: "مدرسة"
 related:
 - id: "sch-descent-theory", title: "Descent Theory", type: "مدرسة"
 - id: "con-segmentary-lineage-system", title: "Segmentary Lineage System", type: "مفهوم"

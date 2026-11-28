@@ -11,7 +11,7 @@ active_start: null
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "Humanistic Psychology", target_type: "مدرسة"
-- rel: "formulated_by", target: "Eugene Gendlin", target_type: "مفكر"
+- rel: "formulated_by", target: "thk-gendlin", target_type: "مفكر"
 related:
 - id: "thk-gendlin", title: "Eugene Gendlin", type: "مفكر"
 - id: "thk-rogers", title: "Carl Rogers", type: "مفكر"

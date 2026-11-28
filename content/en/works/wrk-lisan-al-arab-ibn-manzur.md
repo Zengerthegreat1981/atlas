@@ -16,7 +16,7 @@ active_start: 1280
 active_end: 1290
 active_source: "estimate"
 edges:
-- rel: "belongs_to", target: "Classical Arabic Grammatical Tradition", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-arabic-grammatical-tradition", target_type: "مدرسة"
 - rel: "authored_by", target: "Ibn Manzur", target_type: "مفكر"
 related: []
 gaps: []

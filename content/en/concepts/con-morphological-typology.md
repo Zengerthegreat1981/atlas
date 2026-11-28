@@ -10,7 +10,7 @@ title: "Morphological Typology"
 en: "Morphological Typology"
 crumb: "Linguistics ← Concepts ← Morphological Typology"
 edges:
-- rel: "belongs_to", target: "Linguistic Typology & Language Universals", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-linguistic-typology", target_type: "مدرسة"
 related:
 - id: "sch-linguistic-typology", title: "Linguistic Typology & Language Universals", type: "مدرسة"
 - id: "sch-historical-comparative-linguistics", title: "Historical-Comparative Linguistics", type: "مدرسة"

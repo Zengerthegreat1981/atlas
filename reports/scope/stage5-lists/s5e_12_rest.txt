@@ -1,0 +1,8 @@
+content/en/thinkers/thk-lwittgenstein.md
+content/en/thinkers/thk-macintyre.md
+content/en/thinkers/thk-mahavira.md
+content/en/thinkers/thk-marcel.md
+content/en/thinkers/thk-marcus-aurelius.md
+content/en/thinkers/thk-mbuber.md
+content/en/thinkers/thk-mencius.md
+content/en/thinkers/thk-merleau-ponty.md

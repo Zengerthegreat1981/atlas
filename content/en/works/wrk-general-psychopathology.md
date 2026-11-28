@@ -17,8 +17,8 @@ language: "German"
 active_start: 1913
 active_end: 1959
 edges:
-  - rel: "written_by", target: "Jaspers", target_type: "مفكر"
-  - rel: "belongs_to", target: "Existentialist School", target_type: "مدرسة"
+  - rel: "authored_by", target: "Jaspers", target_type: "مفكر"
+  - rel: "belongs_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
   - id: "thk-jaspers", title: "Karl Jaspers", type: "مفكر"
   - id: "rel-phenopath", title: "Phenomenological Psychopathology", type: "علاقة"

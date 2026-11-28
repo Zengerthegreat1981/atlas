@@ -10,7 +10,7 @@ crumb: "Bridges ← Relations ← The Shared Foucault: From Critical Philosophy 
 active_start: 1961
 active_end: "مستمر"
 edges:
-- rel: "relates_to", target: "Michel Foucault", target_type: "مفكر"
+- rel: "relates_to", target: "thk-foucault", target_type: "مفكر"
 - rel: "relates_to", target: "Foucauldian Power-Knowledge and Discursive Formations", target_type: "مدرسة"
 - rel: "relates_to", target: "Foucauldian Disciplinary Power", target_type: "مدرسة"
 related:

@@ -14,7 +14,7 @@ economic_school: "Post-Keynesian economics (the American monetary strand)"
 active_start: 1957
 active_end: 1996
 edges:
-- rel: "belongs_to", target: "Post-Keynesian Economics", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-post-keynesian-economics", target_type: "مدرسة"
 related:
 - id: "sch-post-keynesian-economics", title: "Post-Keynesian Economics", type: "مدرسة"
 - id: "con-financial-instability-hypothesis", title: "Financial Instability Hypothesis", type: "مفهوم"

@@ -13,9 +13,9 @@ language: "English"
 edges:
 - rel: "belongs_to", target: "Cultural Psychiatry (Cross-Cultural)", target_type: "مدرسة"
 - rel: "relates_to", target: "Kleinman's Explanatory Models", target_type: "مدرسة"
-- rel: "relates_to", target: "Arthur Kleinman", target_type: "مفكر"
+- rel: "relates_to", target: "thk-arthur-kleinman", target_type: "مفكر"
 - rel: "relates_to", target: "Healing Traditions", target_type: "مفهوم"
-- rel: "relates_to", target: "Culture-Bound Syndromes", target_type: "مفهوم"
+- rel: "relates_to", target: "con-culture-bound-syndromes", target_type: "مفهوم"
 related:
 - id: "sch-cultural-psychiatry", title: "Cultural Psychiatry (Cross-Cultural)", type: "مدرسة"
 - id: "con-healing-traditions", title: "Healing Traditions", type: "مفهوم"

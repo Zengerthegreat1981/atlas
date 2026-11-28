@@ -16,7 +16,7 @@ cultural_origin: "western"
 active_start: 1996
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Cognitive Science of Religion", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-science-of-religion", target_type: "مدرسة"
 related:
 - id: "sch-cognitive-science-of-religion", title: "Cognitive Science of Religion", type: "مدرسة"
 - id: "con-hyperactive-agency-detection", title: "The Hyperactive Agency Detection Device (HADD)", type: "مفهوم"

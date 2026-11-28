@@ -21,7 +21,6 @@ edges:
 - rel: "belongs_to", target: "Cognitive-Behavioral Psychology", target_type: "مدرسة"
 related:
 - id: "thk-beck", title: "Aaron Temkin Beck", type: "مفكر"
-- id: "wrk-beck-cognitive-therapy-depression", title: "Cognitive Therapy and the Emotional Disorders", type: "عمل / كتاب"
 - id: "dis-mdd", title: "Major Depressive Disorder (MDD)", type: "اضطراب/حالة إكلينيكية"
 gaps: []
 ---

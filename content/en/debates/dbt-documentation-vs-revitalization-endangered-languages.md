@@ -10,7 +10,7 @@ crumb: "Linguistics ← Debates ← Documentation vs. Revitalization Priorities 
 active_start: 1992
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Language Documentation", target_type: "فرع"
+- rel: "belongs_to", target: "br-language-documentation", target_type: "فرع"
 related:
 - id: "br-language-documentation", title: "Language Documentation: Recording Endangered Linguistic Heritage", type: "فرع"
 - id: "sch-language-policy-endangerment", title: "Language Policy & Endangerment", type: "مدرسة"

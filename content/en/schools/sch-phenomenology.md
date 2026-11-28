@@ -4,6 +4,7 @@ id: "SCH-0240"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"
+quality: "unverified"
 title: "Phenomenology (Phänomenologie)"
 en: "Phenomenology"
 crumb: "Philosophy ← Schools ← Phenomenology"
@@ -14,7 +15,7 @@ language: "German, French, English"
 active_start: 1900
 active_end: "مستمر"
 edges:
-- rel: "split_into", target: "Existential Phenomenology", target_type: "مدرسة"
+- rel: "split_into", target: "sch-phenomenology-existential", target_type: "مدرسة"
 - rel: "split_into", target: "Hermeneutic Phenomenology", target_type: "مدرسة"
 - rel: "split_into", target: "Somatic Phenomenology", target_type: "مدرسة"
 related:
@@ -52,7 +53,7 @@ In his first stage Husserl turned to describing the essences of meanings and the
 
 ## Relation to Logical Positivism
 
-The relation was mostly one of opposition. The Vienna Circle rejected Husserl's claim to intuit essences and his transcendental idealism, and Carnap criticized Heidegger's metaphysics in 1932. Yet Carnap had attended Husserl's seminars in Freiburg in 1924-1925, and the constructional project of his *Logical Structure of the World* (1928) shows traces of Husserl's influence.
+The relation was mostly one of opposition. The Vienna Circle rejected Husserl's claim to intuit essences and his transcendental idealism, and Carnap criticized Heidegger's metaphysics in 1932. Yet Carnap is reported to have attended Husserl's seminars in Freiburg in 1924-1925, although the extent of his attendance is disputed, as is how far the constructional project of his *Logical Structure of the World* (1928) reflects Husserl's influence.
 
 ## Phenomenology and the Islamic heritage
 

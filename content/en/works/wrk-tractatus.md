@@ -17,8 +17,8 @@ original_language: "German"
 active_start: 1921
 active_end: 1961
 edges:
-- rel: "belongs_to", target: "Logical Atomism", target_type: "مدرسة"
-- rel: "written_by", target: "Ludwig Wittgenstein", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-logical-atomism", target_type: "مدرسة"
+- rel: "authored_by", target: "thk-lwittgenstein", target_type: "مفكر"
 related:
 - id: "thk-lwittgenstein", title: "Ludwig Wittgenstein", type: "مفكر"
 - id: "sch-logical-atomism", title: "Logical Atomism", type: "مدرسة"

@@ -45,7 +45,7 @@ related:
   - id: "con-historical-relativism", title: "Historical Relativism", type: "مفهوم"
   - id: "con-covering-law-model-hempel", title: "Covering Law Model (Hempel)", type: "مفهوم"
   - id: "con-lieu-de-memoire-nora", title: "Lieu de Mémoire (Nora)", type: "مفهوم"
-  - id: "con-memory-history", title: "Memory and History", type: "مفهوم"
+  - id: "con-memory", title: "Memory and History", type: "مفهوم"
   - id: "con-forgetting-historical-silences", title: "Silencing the Past", type: "مفهوم"
 ---
 # Historical Method and Sources

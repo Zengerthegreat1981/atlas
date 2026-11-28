@@ -15,7 +15,7 @@ language: "Hawaiian, English"
 active_start: 1983
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Language Policy & Endangerment", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-language-policy-endangerment", target_type: "مدرسة"
 related:
 - id: "sch-language-policy-endangerment", title: "Language Policy & Endangerment", type: "مدرسة"
 - id: "stu-hebrew-language-revival", title: "The Revival of Modern Hebrew: A Rare Case", type: "دراسة"

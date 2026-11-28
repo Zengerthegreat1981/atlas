@@ -9,7 +9,7 @@ en: "Structural Anthropology"
 crumb: "Anthropology ← Schools ← Structural Anthropology"
 dates: "France · 1950s-1970s"
 edges:
-  - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
+  - rel: "belongs_to", target: "fld-anthropology", target_type: "مجال"
 related:
   []
 gaps: []

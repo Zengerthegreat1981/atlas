@@ -13,7 +13,7 @@ country: "Germany"
 language: "German"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "German Idealism (umbrella)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-german-idealism", target_type: "مدرسة"
 related:
 - id: "thk-kierkegaard", title: "Søren Kierkegaard", type: "مفكر"
 - id: "thk-heidegger", title: "Martin Heidegger", type: "مفكر"

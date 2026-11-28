@@ -11,7 +11,7 @@ active_start: 1961
 active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "Sociology of Total Institutions", target_type: "مدرسة"
-- rel: "relates_to", target: "Erving Goffman", target_type: "مفكر"
+- rel: "relates_to", target: "thk-goffman", target_type: "مفكر"
 related:
 - id: "thk-goffman", title: "Erving Goffman", type: "مفكر"
 gaps: []

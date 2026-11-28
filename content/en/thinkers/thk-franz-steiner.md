@@ -9,7 +9,7 @@ en: "Franz Steiner"
 crumb: "Anthropology ← British Social Anthropology ← Franz Steiner"
 dates: "Austria-UK · 1909-1952"
 edges:
-  - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
+  - rel: "belongs_to", target: "fld-anthropology", target_type: "مجال"
 related:
   []
 gaps:

@@ -10,7 +10,7 @@ title: "Cherology & Sign Parameters (Stokoe)"
 en: "Cherology & Sign Parameters (Stokoe)"
 crumb: "Linguistics ← Concepts ← Cherology & Sign Parameters (Stokoe)"
 edges:
-- rel: "belongs_to", target: "Sign Language Linguistics", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-sign-language-linguistics", target_type: "مدرسة"
 related:
 - id: "sch-sign-language-linguistics", title: "Sign Language Linguistics", type: "مدرسة"
 - id: "thk-william-stokoe", title: "William Stokoe", type: "مفكر"

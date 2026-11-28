@@ -13,7 +13,7 @@ language: "German, Latin"
 active_start: 1764
 active_end: 1804
 edges:
-- rel: "belongs_to", target: "Critical Kantianism", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-kant-critical", target_type: "مدرسة"
 related:
 - id: "sch-kant-critical", title: "Critical Kantianism", type: "مدرسة"
 - id: "thk-hume", title: "David Hume", type: "مفكر"
@@ -58,7 +58,7 @@ Three major objections have accompanied Kant since his lifetime:
 
 **First: the thing in itself.** **Jacobi** formulated it in a phrase that became proverbial: one cannot enter Kant's system without presupposing the thing in itself, and one cannot remain in it with this presupposition. For the categories, including **causality**, apply only to appearances by Kant's own statement; so how can it be said that the thing in itself **produces** impressions in us? This objection is what led Fichte and Hegel to drop the thing in itself and build German Idealism.
 
-**Second: the formalism of ethics.** **Hegel** charges that the categorical imperative is an **empty** criterion: the test of universalizability prevents logical contradiction and gives no moral content, since hideous maxims can be universalized without contradiction. **The utilitarians** charge him with neglecting consequences, and their famous example is Kant's answer on the question of **lying to the murderer** who asks about the location of his victim: he insisted on the prohibition of lying absolutely, a position most readers today regard as evidence of a flaw in the system rather than of its soundness. **Schiller**, and then **Bernard Williams**, charge that making moral worth lie in acting **from the motive of duty alone** removes love and feeling from ethics, so that one who helps his friend out of love for him becomes less moral than one who helps him reluctantly.
+**Second: the formalism of ethics.** **Hegel** charges that the categorical imperative is an **empty** criterion: the test of universalizability prevents logical contradiction and gives no moral content, since hideous maxims can be universalized without contradiction. **The utilitarians** charge him with neglecting consequences, and a much-discussed example is Kant's answer, in his 1797 reply to Benjamin Constant, on the question of **lying to the murderer** who asks about the location of his victim: he insisted on the prohibition of lying absolutely, a position most readers today regard as evidence of a flaw in the system rather than of its soundness. **Schiller**, and then **Bernard Williams**, charge that making moral worth lie in acting **from the motive of duty alone** removes love and feeling from ethics, so that one who helps his friend out of love for him becomes less moral than one who helps him reluctantly.
 
 **Third: his writings on the human races.** In his lectures on anthropology and physical geography Kant wrote an explicit hierarchy among the races, in terms that read today as unambiguously racist. These texts are established; the dispute concerns their place in the system and how far his later writings revised them. One camp holds that they are the opinions of his age that do not touch the critical philosophy, and that his views changed in the 1790s; another camp (Charles Mills and Robert Bernasconi) holds that the extension of **dignity** to every human being in his moral theory directly contradicts the exclusion of peoples from it in his anthropology, and that this contradiction is structural in eighteenth-century Enlightenment, not incidental to it. The debate is alive and has not been settled.
 

@@ -9,7 +9,7 @@ title: "Is Psychosis a Meaningful Journey?"
 en: "Laing and psychosis"
 crumb: "Existential School ← Debates ← Is Psychosis a Meaningful Journey?"
 edges:
-  - rel: "occurs_within", target: "Existentialist School", target_type: "مدرسة"
+  - rel: "occurs_within", target: "sch-existentialism", target_type: "مدرسة"
 related:
   - id: "thk-laing", title: "R. D. Laing", type: "مفكر"
   - id: "rel-phenopath", title: "Phenomenological Psychopathology", type: "علاقة"

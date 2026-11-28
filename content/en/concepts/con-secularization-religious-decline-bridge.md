@@ -10,7 +10,7 @@ crumb: "Bridges ← Concepts ← Secularization and Decline of Religious Practic
 active_start: 1900
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Disenchantment of the World (Weber)", target_type: "مفهوم"
+- rel: "belongs_to", target: "con-disenchantment-weber", target_type: "مفهوم"
 related:
 - id: "con-disenchantment-weber", title: "Disenchantment of the World (Weber)", type: "مفهوم"
 gaps: []

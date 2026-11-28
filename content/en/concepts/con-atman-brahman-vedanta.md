@@ -13,7 +13,6 @@ active_end: "مستمر"
 edges: []
 related:
 - id: "sch-advaita-vedanta", title: "Advaita Vedānta (Non-Dualism)", type: "مدرسة"
-- id: "con-atman-brahman-vedanta", title: "Brahman (the Absolute / Cosmic Reality)", type: "مفهوم"
 - id: "sch-transpersonal", title: "Transpersonal Psychology", type: "مدرسة"
 gaps: []
 ---

@@ -16,7 +16,7 @@ active_start: 1946
 active_end: 1992
 active_source: "lifespan"
 edges:
-- rel: "belongs_to", target: "American Structural Linguistics (Distributionalism)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-american-structural-linguistics", target_type: "مدرسة"
 related:
 - id: "thk-leonard-bloomfield", title: "Leonard Bloomfield", type: "مفكر"
 - id: "sch-generative-grammar", title: "Generative-Transformational Grammar", type: "مدرسة"

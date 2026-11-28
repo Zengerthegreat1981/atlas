@@ -14,7 +14,7 @@ legal_tradition: "Law and economics"
 active_start: 1960
 active_end: 2013
 edges:
-- rel: "belongs_to", target: "Law and Economics", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-law-and-economics", target_type: "مدرسة"
 related:
 - id: "sch-law-and-economics", title: "Law and Economics", type: "مدرسة"
 - id: "con-coase-theorem", title: "The Coase Theorem", type: "مفهوم"

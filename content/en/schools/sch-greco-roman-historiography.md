@@ -16,7 +16,7 @@ cultural_origin: "european"
 active_start: -440
 active_end: 120
 edges:
-- rel: "belongs_to", target: "Ibn Khaldun's Method of Historical Report Criticism", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-ibn-khaldun-naqd-al-akhbar", target_type: "مدرسة"
 related: []
 gaps: []
 ---

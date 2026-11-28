@@ -9,7 +9,7 @@ en: "Marshall Sahlins"
 crumb: "Anthropology ← Economic Anthropology ← Marshall Sahlins"
 dates: "USA · 1930–2021"
 edges:
-  - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
+  - rel: "belongs_to", target: "fld-anthropology", target_type: "مجال"
 related:
   []
 gaps:

@@ -8,7 +8,7 @@ title: "Anthropology & Militarization"
 en: "Anthropology & Militarization"
 crumb: "Anthropology ← Debates ← Anthropology & Militarization"
 debate_period: "1960-2026"
-edges:
+edges: []
 related: []
 gaps: []
 ---

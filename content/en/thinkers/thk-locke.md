@@ -24,7 +24,7 @@ gaps: []
 
 # John Locke
 
-An English philosopher and physician (1632–1704), he studied at **Christ Church**, Oxford, joined in 1666 the service of **Anthony Ashley Cooper**, the first Earl of Shaftesbury, as physician and adviser, and was elected to the **Royal Society** in 1668. He spent his exile in the Netherlands between 1683 and 1689, and after the revolution of 1688 he published in a single year — 1689 — the three works that made his name.
+An English philosopher and physician (1632–1704), he studied at **Christ Church**, Oxford, met **Anthony Ashley Cooper**, later the first Earl of Shaftesbury, in 1666 and in 1667 moved into his service as physician and adviser, and was elected to the **Royal Society** in 1668. He spent his exile in the Netherlands between 1683 and 1689, and after the revolution of 1688 he published in a single year — 1689 — the three works that made his name.
 
 ## What He Contributed
 
@@ -32,7 +32,7 @@ An English philosopher and physician (1632–1704), he studied at **Christ Churc
 It appeared in late 1689 with the date 1690 on its title page, in four books: **Of Innate Notions**, **Of Ideas**, **Of Words**, **Of Knowledge and Opinion**.
 
 - **The rejection of innate ideas** is the whole subject of the first book: there are no theoretical or practical principles in the mind before experience. The two sources of ideas in the second book are **sensation** and **reflection**.
-- **The image of the blank page**: in II.i.2 Locke writes that the mind is "white paper". The name **Tabula Rasa** is later than him and does not occur in the text of the *Essay*, and it is therefore counted a metaphor, not an expression of the author.
+- **The image of the blank page**: in II.i.2 Locke writes that the mind is "white paper". The Latin phrase **tabula rasa** is older than Locke but does not occur in the text of the *Essay*, so as a label for his view it is not the author's own expression.
 - **Primary and secondary qualities** in II.viii: solidity, extension, shape, motion and number are in the body itself, whereas color, sound and taste are powers in it to produce ideas in us, not qualities of it.
 - **Personal identity** in II.xxvii, a chapter added in the **second edition (1694)**: the person is not a substance but **continuity of consciousness** extending to past actions — hence the example of the prince and the cobbler.
 - **The association of ideas** in II.xxxiii, a chapter added in the **fourth edition (1700)** alone: accidental associations explain "unreasonableness" in judgments, and from it the line extends to the laws of conditioning.

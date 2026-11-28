@@ -15,7 +15,7 @@ language: "Arabic"
 active_start: 1078
 active_end: 1078
 edges:
-- rel: "belongs_to", target: "Classical Arabic Grammatical Tradition", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-arabic-grammatical-tradition", target_type: "مدرسة"
 related:
 - id: "thk-al-jurjani", title: "Abd al-Qahir al-Jurjani", type: "مفكر"
 - id: "sch-arabic-grammatical-tradition", title: "The Classical Arabic Grammatical and Linguistic Tradition", type: "مدرسة"

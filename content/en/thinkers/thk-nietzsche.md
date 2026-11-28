@@ -9,7 +9,7 @@ en: "Friedrich Nietzsche"
 crumb: "Nietzscheanism ← People ← Friedrich Nietzsche"
 dates: "Germany · 1844–1900"
 edges:
-  - rel: "belongs_to", target: "Existentialist School", target_type: "مدرسة"
+  - rel: "belongs_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
   - id: "thk-frankl", title: "Viktor Frankl: Will to Meaning", type: "مفكر"
   - id: "con-meaning", title: "Meaning and Meaninglessness: The School's Dividing Line", type: "مفهوم"

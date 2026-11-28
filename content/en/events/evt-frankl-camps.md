@@ -9,7 +9,7 @@ title: "Frankl's Concentration Camp Experience"
 en: "Frankl's Concentration Camp Experience"
 crumb: "Existential Philosophy ← Events ← Frankl's Concentration Camp Experience"
 edges:
-  - rel: "relates_to", target: "Existentialist School", target_type: "مدرسة"
+  - rel: "relates_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
   - id: "ctx-post-war-europe", title: "Post-WWI/WWII European Context", type: "سياق/تقليد"
   - id: "tec-meaning-centered-psychotherapy", title: "Meaning-Centered Psychotherapy", type: "تقنية/تدخل علاجي"

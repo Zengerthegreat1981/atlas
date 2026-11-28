@@ -10,7 +10,7 @@ crumb: "Linguistics ← Branches ← Language Documentation"
 active_start: 1992
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Language Policy & Endangerment", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-language-policy-endangerment", target_type: "مدرسة"
 related:
 - id: "sch-language-policy-endangerment", title: "Language Policy and Language Endangerment and Revitalization (Language Policy & Endangerment)", type: "مدرسة"
 gaps: []

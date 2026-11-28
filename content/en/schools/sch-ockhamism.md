@@ -4,6 +4,7 @@ id: "SCH-0228"
 type: "مدرسة"
 part: "philosophy"
 level: "متقدم"
+quality: "unverified"
 title: "Ockhamism / Nominalism"
 en: "Ockhamism / Nominalism"
 crumb: "Philosophy ← Schools ← Ockhamism / Nominalism"
@@ -35,7 +36,7 @@ Ockham studied and lectured at Oxford in the 1310s, commenting on Lombard's *Sen
 
 - **William of Ockham** (c. 1287-1347): the central figure.
 - **Walter Chatton** (c. 1290-1343): Franciscan contemporary and critic of Ockham at Oxford.
-- **Adam Wodeham** (c. 1298-1358): Franciscan who first studied with Ockham and developed his own influential positions.
+- **Adam Wodeham** (c. 1295-1358): Franciscan who studied with Chatton and then with Ockham, and developed his own influential positions.
 - **Robert Holcot** (c. 1290-1349): Dominican theologian influenced by nominalist trends.
 - **Jean Buridan** (c. 1300-after 1358): Paris arts master and logician who developed terminist logic and the impetus theory of motion; the famous "Buridan's ass" example is not found in his surviving writings.
 - **Albert of Saxony** (c. 1320-1390): logician and natural philosopher at Paris and Vienna.

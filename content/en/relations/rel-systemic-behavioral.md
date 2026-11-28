@@ -11,7 +11,7 @@ active_end: "مستمر"
 part: bridges
 edges:
 - rel: "belongs_to", target: "Family Systems Therapy", target_type: "مدرسة"
-- rel: "relates_to", target: "Behaviorism", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-behaviorism", target_type: "مدرسة"
 related:
 - id: "br-radical-behaviorism", title: "Radical Behaviorism and Applied Behavior Analysis (ABA)", type: "تيار"
 - id: "thk-sminuchin", title: "Salvador Minuchin", type: "مفكر"

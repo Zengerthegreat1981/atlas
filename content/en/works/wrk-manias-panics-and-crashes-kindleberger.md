@@ -16,7 +16,7 @@ economic_school: "Post-Keynesian economics (historical financial instability the
 active_start: 1978
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Post-Keynesian Economics", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-post-keynesian-economics", target_type: "مدرسة"
 related:
 - id: "sch-post-keynesian-economics", title: "Post-Keynesian Economics", type: "مدرسة"
 - id: "dbt-efficient-markets-vs-behavioral-finance", title: "Debate: Efficient Markets vs. Behavioral Finance", type: "جدل"

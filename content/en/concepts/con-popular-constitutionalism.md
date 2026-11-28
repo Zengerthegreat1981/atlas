@@ -11,7 +11,7 @@ legal_tradition: "American constitutional theory"
 active_start: 2001
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Constitutional Law Theory", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-constitutional-law-theory", target_type: "مدرسة"
 related:
 - id: "sch-constitutional-law-theory", title: "Constitutional Law Theory", type: "مدرسة"
 gaps: []

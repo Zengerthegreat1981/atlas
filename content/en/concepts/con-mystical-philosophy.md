@@ -11,7 +11,7 @@ active_start: 1000
 active_end: 1636
 language: "Arabic"
 edges:
-- rel: "belongs_to", target: "Medieval Islamic Philosophy (Falsafa)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-medieval-islamic-philosophy", target_type: "مدرسة"
 related:
 - id: "sch-medieval-islamic-philosophy", title: "Medieval Islamic Philosophy (Falsafa)", type: "مدرسة"
 - id: "thk-suhrawardi", title: "Shihab al-Din Yahya ibn Habash al-Suhrawardi (Shaykh al-Ishraq)", type: "مفكر"

@@ -10,7 +10,7 @@ crumb: "Psychology ← Concepts ← Window of Tolerance"
 active_start: 1999
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Polyvagal-Informed Therapy", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-polyvagal-informed-therapy", target_type: "مدرسة"
 related:
 - id: "thk-dsiegel", title: "Dan Siegel", type: "مفكر"
 - id: "thk-stephen-porges", title: "Stephen Porges", type: "مفكر"

@@ -4,6 +4,7 @@ id: "THK-0747"
 type: "مفكر"
 part: philosophy
 level: "مبتدئ"
+quality: "unverified"
 title: "Jeremy Bentham"
 en: "Jeremy Bentham"
 crumb: "Philosophy ← Thinkers ← Bentham"
@@ -42,7 +43,7 @@ A design for a **prison** that allows the observer to see all prisoners **withou
 
 ### *Anarchical Fallacies* (written about 1795; published in French in 1816 and in English in Bowring's edition in 1843)
 
-A critique of the French Declaration of the Rights of Man and of the Citizen (Déclaration des droits de l'homme et du citoyen) of 1789. His most famous phrase on natural rights: "simple nonsense, rhetorical nonsense, nonsense upon stilts" — for he holds that rights are not innate or natural, but a product of positive law, and must be demonstrated by utility.
+A critique of the French Declaration of the Rights of Man and of the Citizen (Déclaration des droits de l'homme et du citoyen) of 1789. His most famous phrase on natural rights: "Natural rights is simple nonsense: natural and imprescriptible rights, rhetorical nonsense, nonsense upon stilts" — for he holds that rights are not innate or natural, but a product of positive law, and must be demonstrated by utility.
 
 ## Reform projects
 

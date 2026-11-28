@@ -10,7 +10,7 @@ crumb: "Linguistics ← Branches ← Arabic Dialectology"
 active_start: 1900
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Classical Arabic Grammatical Tradition", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-arabic-grammatical-tradition", target_type: "مدرسة"
 related:
 - id: "sch-arabic-grammatical-tradition", title: "Classical Arabic Grammatical and Linguistic Tradition", type: "مدرسة"
 - id: "sch-variationist-sociolinguistics", title: "Labovian Variationist Sociolinguistics", type: "مدرسة"

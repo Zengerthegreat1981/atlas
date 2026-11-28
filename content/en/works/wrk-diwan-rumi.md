@@ -17,8 +17,8 @@ active_end: 1273
 language: "Persian"
 register: "academic"
 edges:
-- rel: "belongs_to", target: "Classical Islamic Sufism (Tasawwuf)", target_type: "مدرسة"
-- rel: "written_by", target: "Mawlana Jalal al-Din Rumi", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-islamic-sufism", target_type: "مدرسة"
+- rel: "authored_by", target: "thk-rumi", target_type: "مفكر"
 related:
 - id: "sch-islamic-sufism", title: "Classical Islamic Sufism (Tasawwuf)", type: "مدرسة"
 - id: "thk-rumi", title: "Mawlana Jalal al-Din Rumi", type: "مفكر"

@@ -14,7 +14,7 @@ language: "Chinese, English"
 active_start: 1935
 active_end: 2000
 edges:
-- rel: "belongs_to", target: "Malinowskian Functionalism & Participant Observation", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-malinowskian-functionalism", target_type: "مدرسة"
 related:
 - id: "sch-malinowskian-functionalism", title: "Malinowskian Functionalism & Participant Observation", type: "مدرسة"
 - id: "thk-malinowski", title: "Bronislaw Malinowski: Modern Ethnographic Fieldwork", type: "مفكر"

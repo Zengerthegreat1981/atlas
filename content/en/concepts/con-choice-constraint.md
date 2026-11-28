@@ -8,7 +8,7 @@ title: "Choice and Constraint"
 en: "Choice and Constraint"
 crumb: "Choice and Constraint"
 edges:
-  - rel: "discussed_in", target: "Existentialist School", target_type: "مدرسة"
+  - rel: "discussed_in", target: "sch-existentialism", target_type: "مدرسة"
 related:
   - id: "con-authenticity", title: "Authenticity", type: "مفهوم"
 gaps: []

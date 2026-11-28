@@ -13,7 +13,7 @@ active_end: 2004
 country: "United States"
 language: "English"
 edges:
-- rel: "belongs_to", target: "Neurobiology of Mental Illness", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-neurobiology-mental-illness", target_type: "مدرسة"
 related:
 - id: "sch-neurobiology-mental-illness", title: "Biological Neuroscience of Mental Illness", type: "مدرسة"
 - id: "thk-solomon-snyder", title: "Solomon Snyder", type: "مفكر"

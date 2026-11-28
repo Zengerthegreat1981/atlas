@@ -11,7 +11,7 @@ active_start: 750
 active_end: "مستمر"
 language: "Arabic"
 edges:
-- rel: "belongs_to", target: "Arabic Linguistic and Literary Thought", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-arabic-linguistic-literary", target_type: "مدرسة"
 related:
 - id: "sch-arabic-linguistic-literary", title: "Arabic Linguistic and Literary Thought", type: "مدرسة"
 - id: "wrk-kitab-sibawayhi", title: "Al-Kitab (Sibawayhi)", type: "عمل / كتاب"

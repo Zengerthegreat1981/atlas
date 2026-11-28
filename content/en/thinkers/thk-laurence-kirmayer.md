@@ -13,7 +13,7 @@ active_end: "مستمر"
 country: "Canada"
 language: "English"
 edges:
-- rel: "belongs_to", target: "Cultural (Transcultural) Psychiatry", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cultural-psychiatry", target_type: "مدرسة"
 related:
 - id: "sch-cultural-psychiatry", title: "Cultural (Transcultural) Psychiatry", type: "مدرسة"
 gaps: []

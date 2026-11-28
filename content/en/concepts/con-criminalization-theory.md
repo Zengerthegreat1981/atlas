@@ -11,7 +11,7 @@ legal_tradition: "Contemporary philosophy of criminal law"
 active_start: 1968
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Criminal Law Theory", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-criminal-law-theory", target_type: "مدرسة"
 related:
 - id: "sch-criminal-law-theory", title: "Criminal Law Theory", type: "مدرسة"
 - id: "thk-herbert-packer", title: "Herbert L. Packer", type: "مفكر"

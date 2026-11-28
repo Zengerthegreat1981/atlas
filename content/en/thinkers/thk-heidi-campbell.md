@@ -16,7 +16,7 @@ cultural_origin: "western"
 active_start: 2002
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Digital Religion Studies", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-religion-digital-technology", target_type: "مدرسة"
 related:
 - id: "con-networked-religion-campbell", title: "Networked Religion in Heidi Campbell's Work", type: "مفهوم"
 - id: "wrk-when-religion-meets-new-media-campbell", title: "When Religion Meets New Media", type: "عمل / كتاب"

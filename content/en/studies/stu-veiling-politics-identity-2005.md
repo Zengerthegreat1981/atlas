@@ -12,7 +12,7 @@ active_start: 2005
 active_end: 2005
 crumb: "Religious Studies ← Studies ← An Anthropological Study of the Veil and Identity"
 edges:
-- rel: "belongs_to", target: "Comparative Religious Gender, Feminist, and Queer Studies", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-comparative-religious-gender-queer", target_type: "مدرسة"
 related:
 - id: "sch-comparative-religious-gender-queer", title: "Comparative Religious Gender, Feminist, and Queer Studies", type: "مدرسة"
 gaps: []

@@ -11,7 +11,7 @@ active_start: 1902
 active_end: "مستمر"
 language: "English"
 edges:
-- rel: "belongs_to", target: "Developmental Child Psychiatry", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-developmental-child-psychiatry", target_type: "مدرسة"
 - rel: "relates_to", target: "Autism Spectrum", target_type: "مفهوم"
 - rel: "relates_to", target: "Developmental Trajectories of Psychiatric Illness", target_type: "مفهوم"
 - rel: "relates_to", target: "Management of Medication Side Effects", target_type: "مفهوم"

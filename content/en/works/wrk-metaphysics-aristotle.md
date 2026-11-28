@@ -15,7 +15,7 @@ publication_year: -330
 original_language: "Greek"
 edges:
 - rel: "belongs_to", target: "Aristotelianism", target_type: "مدرسة"
-- rel: "written_by", target: "Aristotle", target_type: "مفكر"
+- rel: "authored_by", target: "thk-aristotle", target_type: "مفكر"
 gaps: []
 ---
 

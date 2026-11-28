@@ -11,7 +11,7 @@ legal_tradition: "Codified Hanafi law (Ottoman state)"
 active_start: 1839
 active_end: 1926
 edges:
-- rel: "belongs_to", target: "Islamic Law and Sharia", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-islamic-law-shariah", target_type: "مدرسة"
 related:
 - id: "wrk-majallat-al-ahkam-al-adliyya", title: "Majalla al-Ahkam al-Adliyya", type: "عمل / كتاب"
 - id: "wrk-al-ashbah-wa-al-nazair-ibn-nujaym", title: "Al-Ashbah wa al-Naza'ir", type: "عمل / كتاب"

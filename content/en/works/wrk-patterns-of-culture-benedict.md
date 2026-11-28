@@ -9,8 +9,8 @@ en: "Patterns of Culture"
 crumb: "Benedict · Culture as Integration"
 dates: "1934 · Benedict"
 edges:
-  - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
-  - rel: "written_by", target: "Benedict", target_type: "مفكر"
+  - rel: "belongs_to", target: "fld-anthropology", target_type: "مجال"
+  - rel: "authored_by", target: "Benedict", target_type: "مفكر"
 related:
   - id: "wrk-coming-of-age-samoa-mead", title: "Coming of Age in Samoa", type: "عمل"
 sources:

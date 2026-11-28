@@ -10,7 +10,7 @@ crumb: "Bridges ← Concepts ← Lifeworld"
 active_start: 1936
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Phenomenology", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-phenomenology", target_type: "مدرسة"
 related:
 - id: "thk-husserl", title: "Edmund Husserl", type: "مفكر"
 - id: "thk-merleau-ponty", title: "Maurice Merleau-Ponty", type: "مفكر"

@@ -13,7 +13,7 @@ language: "English"
 active_start: 1983
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Cognitive Psychology", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-psychology", target_type: "مدرسة"
 related:
 - id: "sch-cognitive-psychology", title: "Cognitive Psychology", type: "مدرسة"
 - id: "con-emotional-intelligence", title: "Emotional Intelligence: The Concept", type: "مفهوم"

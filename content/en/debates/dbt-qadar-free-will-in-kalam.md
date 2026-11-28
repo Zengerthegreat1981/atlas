@@ -11,7 +11,7 @@ crumb: "Philosophy ← Debates ← The Debate over Qadar, Compulsion and Choice 
 active_start: 750
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "The Mu'tazila", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-mutazila", target_type: "مدرسة"
 related:
 - id: "thk-al-ghazali", title: "Abu Hamid al-Ghazali", type: "مفكر"
 - id: "sch-mutazila", title: "The Mu'tazila", type: "مدرسة"

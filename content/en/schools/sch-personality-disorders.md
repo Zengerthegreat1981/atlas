@@ -24,7 +24,7 @@ related:
 - id: "con-narcissistic-personality", title: "Narcissistic Personality Disorder", type: "مفهوم"
 - id: "con-personality-disorder-treatment", title: "Treatment of Personality Disorders", type: "مفهوم"
 - id: "con-trait-vs-categorical", title: "Trait-Based Versus Categorical Models", type: "مفهوم"
-- id: "thk-marsha-linehan", title: "Marsha Linehan", type: "مفكر"
+- id: "thk-mlinehan", title: "Marsha M. Linehan", type: "مفكر"
 - id: "thk-theodore-millon", title: "Theodore Millon", type: "مفكر"
 gaps: []
 ---

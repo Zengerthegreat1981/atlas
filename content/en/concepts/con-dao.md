@@ -10,7 +10,7 @@ crumb: "Philosophy ← Concepts ← Dao"
 active_start: -600
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Philosophical Daoism", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-daoism-philosophical", target_type: "مدرسة"
 related:
 - id: "sch-daoism-philosophical", title: "Philosophical Daoism", type: "مدرسة"
 - id: "thk-laozi", title: "Laozi (Lao Dan)", type: "مفكر"

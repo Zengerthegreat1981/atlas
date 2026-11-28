@@ -4,6 +4,7 @@ id: "SCH-0230"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"
+quality: "unverified"
 title: "Ordinary Language Philosophy"
 en: "Ordinary Language Philosophy"
 crumb: "Philosophy ← Schools ← Ordinary Language Philosophy"
@@ -14,7 +15,7 @@ active_start: 1930
 active_end: 1970
 cultural_origin: "anglo-american"
 edges:
-- rel: "evolved_from", target: "Logical Atomism", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-logical-atomism", target_type: "مدرسة"
 - rel: "superseded_by", target: "Formal Philosophy of Language", target_type: "مدرسة"
 related:
 - id: "thk-lwittgenstein", title: "Ludwig Wittgenstein", type: "مفكر"
@@ -60,7 +61,7 @@ The current had a great impact on the philosophy of language, mind, action, and 
 
 ## Limits and Criticism
 
-Ernest Gellner attacked it in *Words and Things* (1959) as conservative and as turning philosophy into a description of the habits of the Oxford elite, which provoked wide controversy in the journal *Mind* until Ryle refused to publish a review of the book. Quine criticized the reliance on the distinction between meaning and fact, and others held that ordinary usage may contain inherited philosophical errors. The current declined in the 1970s in favor of systematic theories of semantics, such as those of Davidson and Kripke. Moreover, "ordinary language" varies with languages, communities, and classes, so there is no final authority in any language; hence it seemed to critics that what a philosopher takes to be an "ordinary saying" may reflect the habits of a particular social group.
+Ernest Gellner attacked it in *Words and Things* (1959) as conservative and as turning philosophy into a description of the habits of the Oxford elite, and Ryle's refusal to have the book reviewed in the journal *Mind*, which he edited, provoked wide controversy in the letters columns of *The Times*. Quine criticized the reliance on the distinction between meaning and fact, and others held that ordinary usage may contain inherited philosophical errors. The current declined in the 1970s in favor of systematic theories of semantics, such as those of Davidson and Kripke. Moreover, "ordinary language" varies with languages, communities, and classes, so there is no final authority in any language; hence it seemed to critics that what a philosopher takes to be an "ordinary saying" may reflect the habits of a particular social group.
 
 ## Sources
 

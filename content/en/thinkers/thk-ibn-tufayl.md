@@ -4,6 +4,7 @@ id: "THK-13520"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"
+quality: "unverified"
 title: "Abu Bakr Muhammad ibn Abd al-Malik ibn Tufayl"
 en: "Abu Bakr ibn Tufayl (Abubacer)"
 crumb: "Philosophy ← Thinkers ← Ibn Tufayl"
@@ -33,7 +34,7 @@ Ibn Tufayl was born in Wadi Ash (Guadix) near Granada around 500 AH / 1105 CE (t
 
 ### *Hayy ibn Yaqzan*: Philosophy in the Form of a Romance
 
-His only work to have reached us complete is the treatise *Hayy ibn Yaqzan*, a philosophical tale about a child who grows up alone on an isolated tropical island (either born by spontaneous generation according to the first account in the story, or cast into the sea by his mother out of fear for him according to the second), who is nursed by a gazelle, and who grows up relying only on his senses and his unaided reason. Through successive stages of life (each seven years a stage) Hayy discovers by himself, with no teacher, book or revelation, physics and anatomy (by dissecting the body of the gazelle that reared him) and astronomy, arriving at a rational knowledge that the world has one creator and that the human soul must connect with the First Principle. At the end of the story Hayy meets a man named Asal who has come from an inhabited island where people follow a transmitted law, and the two discover that what Hayy reached by pure reason corresponds in essence to what the law carries in its outward symbolic form; but their later attempt to convey the abstract rational truths to the common people fails, and they return to the isolated island to live in private contemplation.
+His best-known work, and the only philosophical one to have reached us complete, is the treatise *Hayy ibn Yaqzan*, a philosophical tale about a child who grows up alone on an isolated tropical island (either born by spontaneous generation according to the first account in the story, or cast into the sea by his mother out of fear for him according to the second), who is nursed by a gazelle, and who grows up relying only on his senses and his unaided reason. Through successive stages of life (each seven years a stage) Hayy discovers by himself, with no teacher, book or revelation, physics and anatomy (by dissecting the body of the gazelle that reared him) and astronomy, arriving at a rational knowledge that the world has one creator and that the human soul must connect with the First Principle. At the end of the story Hayy meets a man named Asal who has come from an inhabited island where people follow a transmitted law, and the two discover that what Hayy reached by pure reason corresponds in essence to what the law carries in its outward symbolic form; but their later attempt to convey the abstract rational truths to the common people fails, and they return to the isolated island to live in private contemplation.
 
 ### The Thesis of the Independence of Reason from Revelation
 
@@ -49,11 +50,12 @@ In the introduction to *Hayy ibn Yaqzan* Ibn Tufayl surveys, in brief critical f
 
 ## Limitation
 
-The greatest problem facing the study of Ibn Tufayl is the loss of nearly all his other works: he is said to have written on medicine and astronomy (including a critique of Ptolemy's astronomical model mentioned by his disciple al-Bitruji), but nothing reliable of that has reached us, so our judgment of his philosophy rests entirely on a single text. The central thesis of *Hayy ibn Yaqzan*, that pure reason attains the great religious truths apart from any society and language, has also been subjected to methodological critique: how can sophisticated conceptual thinking (including abstract concepts such as unity and causality) form without any language or social interaction? This is a philosophical problem of the possibility of abstract thought arising apart from language that Ibn Tufayl did not treat in sufficient detail, since he passed over it narratively rather than addressing it demonstratively. Some scholars also note a deliberate ambiguity at the end of the work concerning Ibn Tufayl's final position on the usefulness of philosophy for the general public, as he seems inclined to a reserved elitist position closer to al-Ghazali's than the outward philosophical text suggests.
+The greatest problem facing the study of Ibn Tufayl is the loss of nearly all his other works: he is said to have written on medicine and astronomy (including a critique of Ptolemy's astronomical model mentioned by his disciple al-Bitruji). A long medical poem in rajaz metre attributed to him survives in manuscript, but his philosophy has to be judged essentially from a single text. The central thesis of *Hayy ibn Yaqzan*, that pure reason attains the great religious truths apart from any society and language, has also been subjected to methodological critique: how can sophisticated conceptual thinking (including abstract concepts such as unity and causality) form without any language or social interaction? This is a philosophical problem of the possibility of abstract thought arising apart from language that Ibn Tufayl did not treat in sufficient detail, since he passed over it narratively rather than addressing it demonstratively. Some scholars also note a deliberate ambiguity at the end of the work concerning Ibn Tufayl's final position on the usefulness of philosophy for the general public, as he seems inclined to a reserved elitist position closer to al-Ghazali's than the outward philosophical text suggests.
 
 ## Major Works
 
 - *Hayy ibn Yaqzan*
+- *al-Urjuza fi al-Tibb*, a long medical poem in rajaz metre attributed to him
 - Lost works on medicine and astronomy (mentioned in the sources of his disciples, such as al-Bitruji)
 
 ## Sources

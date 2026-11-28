@@ -4,6 +4,7 @@ id: "SCH-0177"
 type: "مدرسة"
 part: "philosophy"
 level: "متقدم"
+quality: "unverified"
 title: "Kyoto School"
 en: "Kyoto School (Kyōto-gakuha)"
 crumb: "Philosophy ← Schools ← Kyoto School"
@@ -50,7 +51,7 @@ A Japanese philosophical current that took shape around Kyoto Imperial Universit
 
 ## The Political Controversy
 
-Some figures of the school were involved in wartime discourse: Nishida wrote "The Problem of Japanese Culture" (1940), Tanabe lectured on the logic of species and the state (his postwar *Metanoetics* was written partly as self-criticism), and Kosaka and Nishitani took part in symposia that later critics regarded as support for the ideology of Japanese expansion (the Greater East Asia Co-Prosperity Sphere). David Williams, in *Defending Japan's Pacific War* (2005), re-examined these positions as an attempt to criticize the West from within nationalist discourse. Others have argued that their texts resisted military censorship.
+Some figures of the school were involved in wartime discourse: Nishida wrote "The Problem of Japanese Culture" (1940), Tanabe lectured on the logic of species and the state (his postwar *Metanoetics* was written partly as self-criticism), and Kosaka and Nishitani took part in symposia that later critics regarded as support for the ideology of Japanese expansion (the Greater East Asia Co-Prosperity Sphere). David Williams, in *Defending Japan's Pacific War* (2004), re-examined these positions as an attempt to criticize the West from within nationalist discourse. Others have argued that their texts resisted military censorship.
 
 ## Influence
 
@@ -68,5 +69,5 @@ Some figures of the school were involved in wartime discourse: Nishida wrote "Th
 - Nishida, Kitarō. *An Inquiry into the Good*, trans. Masao Abe and Christopher Ives. New Haven: Yale University Press, 1990.
 - Heisig, James W. *Philosophers of Nothingness: An Essay on the Kyoto School*. Honolulu: University of Hawai'i Press, 2001.
 - Heisig, James W., Thomas P. Kasulis, and John C. Maraldo (eds.). *Japanese Philosophy: A Sourcebook*. Honolulu: University of Hawai'i Press, 2011.
-- Williams, David. *Defending Japan's Pacific War: The Kyoto School Philosophers and Post-White Power*. London: Routledge, 2005.
+- Williams, David. *Defending Japan's Pacific War: The Kyoto School Philosophers and Post-White Power*. London: RoutledgeCurzon, 2004.
 - Nishitani, Keiji. *Religion and Nothingness*, trans. Jan Van Bragt. Berkeley: University of California Press, 1982.

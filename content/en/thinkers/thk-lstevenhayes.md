@@ -15,7 +15,7 @@ language: "English"
 register: "academic"
 evidence_level: "well-established"
 edges:
-- rel: "belongs_to", target: "Acceptance and Commitment Therapy (ACT)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-act", target_type: "مدرسة"
 related:
 - id: "sch-act", title: "Acceptance and Commitment Therapy (ACT)", type: "مدرسة"
 - id: "sch-transpersonal", title: "Transpersonal Psychology", type: "مدرسة"

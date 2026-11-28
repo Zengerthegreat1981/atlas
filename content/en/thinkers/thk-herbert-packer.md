@@ -15,7 +15,7 @@ legal_tradition: "American criminal law philosophy"
 active_start: 1964
 active_end: 1972
 edges:
-- rel: "belongs_to", target: "Criminal Law Theory", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-criminal-law-theory", target_type: "مدرسة"
 related:
 - id: "sch-criminal-law-theory", title: "Criminal Law Theory", type: "مدرسة"
 - id: "con-criminalization-theory", title: "Criminalization Theory", type: "مفهوم"

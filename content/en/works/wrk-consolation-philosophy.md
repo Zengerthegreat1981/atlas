@@ -17,8 +17,8 @@ author_slug: "thk-boethius"
 publication_year: 524
 original_language: "Latin"
 edges:
-- rel: "written_by", target: "Boethius", target_type: "مفكر"
-- rel: "belongs_to", target: "Patristics", target_type: "مدرسة"
+- rel: "authored_by", target: "Boethius", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-patristics", target_type: "مدرسة"
 related:
 - id: "sch-patristics", title: "Christian Patristics", type: "مدرسة"
 gaps: []

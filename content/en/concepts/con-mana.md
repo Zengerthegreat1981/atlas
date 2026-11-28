@@ -9,7 +9,7 @@ en: "Mana"
 crumb: "Anthropology ← Religion and Symbolism ← Mana"
 dates: ""
 edges:
-  - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
+  - rel: "belongs_to", target: "fld-anthropology", target_type: "مجال"
 related:
   []
 gaps:

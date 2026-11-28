@@ -15,7 +15,7 @@ related:
   - id: "sch-herodotus-inquiry-method", title: "Herodotus's Method of Inquiry and Narration", type: "مدرسة"
   - id: "thk-herodotus", title: "Herodotus the Historian", type: "مفكر"
 edges:
-- rel: "authored_by", target: "Herodotus", target_type: "مفكر"
+- rel: "authored_by", target: "hst-herodotus", target_type: "مفكر"
 gaps: []
 ---
 

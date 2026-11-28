@@ -16,7 +16,7 @@ active_start: 1968
 active_end: 2014
 active_source: "lifespan"
 edges:
-- rel: "belongs_to", target: "Construction Grammar", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-construction-grammar", target_type: "مدرسة"
 related:
 - id: "thk-adele-goldberg", title: "Adele Goldberg", type: "مفكر"
 - id: "sch-construction-grammar", title: "Construction Grammar", type: "مدرسة"

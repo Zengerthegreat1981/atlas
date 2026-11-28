@@ -18,7 +18,7 @@ publication_year: 1941
 original_language: "English"
 edges:
   - rel: "belongs_to", target: "Psychoanalysis", target_type: "مدرسة"
-  - rel: "authored_by", target: "Erich Fromm", target_type: "مفكر"
+  - rel: "authored_by", target: "thk-fromm", target_type: "مفكر"
 related:
   - id: "thk-fromm", title: "Erich Fromm", type: "مفكر"
   - id: "wrk-ethics-ambiguity", title: "The Ethics of Ambiguity (Pour une morale de l'ambiguïté)", type: "عمل / كتاب"

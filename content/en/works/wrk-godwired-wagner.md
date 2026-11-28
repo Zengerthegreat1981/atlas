@@ -15,7 +15,7 @@ crumb: "Religious Studies ← Works ← Godwired: Religion, Ritual and Virtual R
 active_start: 2012
 active_end: 2012
 edges:
-- rel: "belongs_to", target: "Digital Religion Studies", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-religion-digital-technology", target_type: "مدرسة"
 related:
 - id: "wrk-when-religion-meets-new-media-campbell", title: "When Religion Meets New Media", type: "عمل / كتاب"
 gaps:

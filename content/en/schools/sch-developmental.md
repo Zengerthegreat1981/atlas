@@ -16,7 +16,7 @@ register: "academic"
 evidence_level: "well-established"
 cultural_origin: "anglo-american"
 edges:
-- rel: "split_into", target: "Attachment Theory", target_type: "تيار"
+- rel: "split_into", target: "br-attachment-theory", target_type: "تيار"
 related:
 - id: "thk-piaget", title: "Jean Piaget", type: "مفكر"
 - id: "thk-vygotsky", title: "Lev Vygotsky", type: "مفكر"

@@ -11,11 +11,11 @@ active_start: 1948
 active_end: "مستمر"
 language: "English"
 edges:
-- rel: "belongs_to", target: "Cultural (Transcultural) Psychiatry", target_type: "مدرسة"
-- rel: "relates_to", target: "Human Rights in Islam", target_type: "مفهوم"
+- rel: "belongs_to", target: "sch-cultural-psychiatry", target_type: "مدرسة"
+- rel: "relates_to", target: "con-human-rights-islam", target_type: "مفهوم"
 - rel: "relates_to", target: "International Human Rights", target_type: "مفهوم"
 - rel: "relates_to", target: "Psychiatric Reform", target_type: "مفهوم"
-- rel: "relates_to", target: "Community Mental Health", target_type: "مفهوم"
+- rel: "relates_to", target: "con-community-mental-health", target_type: "مفهوم"
 related:
 - id: "sch-cultural-psychiatry", title: "Cultural (Transcultural) Psychiatry", type: "مدرسة"
 - id: "con-community-mental-health", title: "Community Mental Health", type: "مفهوم"

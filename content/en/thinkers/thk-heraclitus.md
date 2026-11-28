@@ -4,6 +4,7 @@ id: "THK-2375"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"
+quality: "unverified"
 title: "Heraclitus of Ephesus"
 en: "Heraclitus of Ephesus"
 crumb: "Philosophy ← Thinkers ← Heraclitus"
@@ -25,7 +26,7 @@ A Greek philosopher from Ephesus in Ionia (c. 535 – 475 BCE), the philosopher 
 
 ## Life and Context
 
-Heraclitus was born in Ephesus, one of the largest cities of Ionia on the coast of Asia Minor, into an aristocratic family said to descend from the founders of the city. His inheritance there was the hereditary priestly office of "king," which, according to the account of Diogenes Laertius (Book IX), he relinquished to his brother. In ancient tradition he was known by the epithet "the Obscure" (ho skoteinos) for the obscurity and density of his style, and for his contempt for ordinary people and for the great poets and sages: he attacked Homer, Hesiod, Pythagoras, and Xenophanes for their abundance of learning without understanding. According to the ancient account he deposited his book in the temple of Artemis at Ephesus, and only fragments of it have reached us, 126 numbered fragments in the Diels-Kranz edition.
+Heraclitus was born in Ephesus, one of the largest cities of Ionia on the coast of Asia Minor, into an aristocratic family said to descend from the founders of the city. His inheritance there was the hereditary priestly office of "king," which, according to the account of Diogenes Laertius (Book IX), he relinquished to his brother. In ancient tradition he was known by the epithet "the Obscure" (ho skoteinos) for the obscurity and density of his style, and for his contempt for ordinary people and for the great poets and sages: he attacked Hesiod, Pythagoras, Xenophanes, and Hecataeus for their abundance of learning without understanding, and he also criticized Homer. According to the ancient account he deposited his book in the temple of Artemis at Ephesus, and only fragments of it have reached us, 126 numbered fragments in the Diels-Kranz edition.
 
 ## What He Gave
 

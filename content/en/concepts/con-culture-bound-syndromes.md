@@ -15,7 +15,7 @@ edges:
 - rel: "relates_to", target: "Definition of Culture-Bound Syndrome", target_type: "مفهوم"
 - rel: "relates_to", target: "Zar", target_type: "متلازمة"
 - rel: "relates_to", target: "Ethnopsychiatry and Culture-Bound Syndromes", target_type: "مدرسة"
-- rel: "relates_to", target: "Arthur Kleinman", target_type: "مفكر"
+- rel: "relates_to", target: "thk-arthur-kleinman", target_type: "مفكر"
 related:
 - id: "sch-cultural-psychiatry", title: "Cultural (Transcultural) Psychiatry", type: "مدرسة"
 gaps: []

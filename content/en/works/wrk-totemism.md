@@ -9,8 +9,8 @@ en: "Totemism"
 crumb: "Lévi-Strauss · Classification & Symbol"
 dates: "1962 · Lévi-Strauss"
 edges:
-  - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
-  - rel: "written_by", target: "Lévi-Strauss", target_type: "مفكر"
+  - rel: "belongs_to", target: "fld-anthropology", target_type: "مجال"
+  - rel: "authored_by", target: "Lévi-Strauss", target_type: "مفكر"
 related:
   - id: "con-totemism", title: "Totemism", type: "مفهوم"
   - id: "wrk-savage-mind", title: "The Savage Mind", type: "عمل"

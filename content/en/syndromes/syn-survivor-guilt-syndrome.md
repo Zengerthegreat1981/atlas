@@ -8,7 +8,7 @@ title: "Survivor Guilt Syndrome"
 en: "Survivor Guilt Syndrome"
 crumb: "Existential Therapy ← Syndromes ← Survivor Guilt Syndrome"
 edges:
-- rel: "relates_to", target: "Existentialist School", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
 - id: "dis-ptsd", title: "Post-Traumatic Stress Disorder (PTSD)", type: "اضطراب/حالة إكلينيكية"
 - id: "dis-prolonged-grief", title: "Prolonged Grief Disorder", type: "اضطراب/حالة إكلينيكية"

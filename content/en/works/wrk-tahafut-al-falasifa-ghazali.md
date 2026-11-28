@@ -12,7 +12,7 @@ language: "Arabic"
 active_start: 1095
 active_end: 1095
 edges:
-- rel: "belongs_to", target: "Ash'ariyya", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-ashariyya", target_type: "مدرسة"
 related:
 - id: "thk-ibn-rushd", title: "Abu al-Walid Muhammad ibn Ahmad ibn Rushd (Averroes)", type: "مفكر"
 - id: "thk-ibn-sina", title: "Abu Ali al-Husayn ibn Abd Allah ibn Sina (Avicenna)", type: "مفكر"

@@ -15,7 +15,7 @@ legal_tradition: "Liberal theory of international law"
 active_start: 1968
 active_end: 2009
 edges:
-- rel: "belongs_to", target: "International Law Theory", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-international-law-theory", target_type: "مدرسة"
 related:
 - id: "sch-international-law-theory", title: "International Law Theory", type: "مدرسة"
 gaps: []

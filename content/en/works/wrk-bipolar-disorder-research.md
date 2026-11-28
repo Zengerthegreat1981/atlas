@@ -18,8 +18,8 @@ active_end: 2007
 language: "English"
 register: "academic"
 edges:
-- rel: "belongs_to", target: "Mood Disorders", target_type: "مدرسة"
-- rel: "written_by", target: "Frederick Goodwin", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-mood-disorders", target_type: "مدرسة"
+- rel: "authored_by", target: "Frederick Goodwin", target_type: "مفكر"
 related:
 - id: "sch-mood-disorders", title: "Mood Disorders", type: "مدرسة"
 - id: "thk-frederick-goodwin", title: "Frederick Goodwin", type: "مفكر"

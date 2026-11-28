@@ -8,7 +8,7 @@ title: "Existential Vacuum"
 en: "Existential Vacuum"
 crumb: "Existential Psychotherapy ← Concepts ← Existential Vacuum"
 edges:
-  - rel: "belongs_to", target: "Existentialist School", target_type: "مدرسة"
+  - rel: "belongs_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
   - id: "con-sadness", title: "Sadness", type: "مفهوم"
   - id: "dis-mdd", title: "Major Depressive Disorder (MDD)", type: "اضطراب/حالة إكلينيكية"

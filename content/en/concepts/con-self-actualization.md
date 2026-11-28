@@ -11,7 +11,7 @@ active_start: null
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "Humanistic Psychology", target_type: "مدرسة"
-- rel: "formulated_by", target: "Abraham Maslow", target_type: "مفكر"
+- rel: "formulated_by", target: "thk-maslow", target_type: "مفكر"
 related:
 - id: "thk-maslow", title: "Abraham Maslow", type: "مفكر"
 - id: "br-self-actualization-maslow", title: "Psychology of Self-Actualization and Human Motivation (Maslow)", type: "تيار"

@@ -13,7 +13,7 @@ language: "Latin, French, German"
 active_start: 1666
 active_end: 1716
 edges:
-- rel: "belongs_to", target: "Leibnizianism", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-leibnizianism", target_type: "مدرسة"
 - rel: "belongs_to", target: "Continental Rationalism", target_type: "مدرسة"
 related:
 - id: "sch-leibnizianism", title: "Leibnizianism", type: "مدرسة"

@@ -9,7 +9,7 @@ en: "Ethnographic Fieldwork: Anthropological Locations"
 crumb: "Anthropology ← Works ← Ethnographic Fieldwork"
 dates: "1997 · Gupta & Ferguson"
 edges:
-  - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
+  - rel: "belongs_to", target: "fld-anthropology", target_type: "مجال"
 related:
   []
 gaps: []

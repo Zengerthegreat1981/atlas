@@ -15,7 +15,7 @@ policy_orientation: "Eclectic: free markets in the long run, combined with Keyne
 active_start: 1937
 active_end: 1975
 edges:
-- rel: "evolved_from", target: "Keynesian Economics", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-keynesian-economics", target_type: "مدرسة"
 related:
 - id: "thk-john-hicks", title: "John Hicks", type: "مفكر"
 - id: "thk-paul-samuelson", title: "Paul Samuelson", type: "مفكر"

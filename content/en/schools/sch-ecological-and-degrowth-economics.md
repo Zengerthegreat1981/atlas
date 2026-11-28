@@ -15,7 +15,7 @@ policy_orientation: "Radical critique of growth: redesigning the economy within 
 active_start: 1977
 active_end: "مستمر"
 edges:
-- rel: "evolved_from", target: "Economics of Inequality", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-economics-of-inequality", target_type: "مدرسة"
 related:
 - id: "thk-herman-daly", title: "Herman Daly", type: "مفكر"
 - id: "thk-kate-raworth", title: "Kate Raworth", type: "مفكر"

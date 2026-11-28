@@ -8,7 +8,7 @@ title: "Sadness"
 en: "Sadness"
 crumb: "Emotion Psychology ← Concepts ← Sadness"
 edges:
-  - rel: "belongs_to", target: "Existentialist School", target_type: "مدرسة"
+  - rel: "belongs_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
   - id: "con-fear", title: "Fear", type: "مفهوم"
   - id: "con-death", title: "Death", type: "مفهوم"

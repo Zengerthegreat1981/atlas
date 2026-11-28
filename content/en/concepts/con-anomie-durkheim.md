@@ -12,7 +12,7 @@ crumb: "Sociology ← Concepts ← Anomie"
 active_start: 1893
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Durkheimian Structural Functionalism", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-durkheimian-structural-functionalism", target_type: "مدرسة"
 related:
 - id: "thk-durkheim", title: "Émile Durkheim", type: "مفكر"
 gaps: []

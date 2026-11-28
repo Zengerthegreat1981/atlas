@@ -15,7 +15,7 @@ economic_school: "Austrian School"
 active_start: 1945
 active_end: "مستمر"
 edges:
-- rel: "authored_by", target: "Friedrich August von Hayek", target_type: "مفكر"
+- rel: "authored_by", target: "thk-friedrich-august-von-hayek", target_type: "مفكر"
 - rel: "belongs_to", target: "Hayekian Spontaneous Order", target_type: "مدرسة"
 related:
 - id: "thk-friedrich-august-von-hayek", title: "Friedrich August von Hayek", type: "مفكر"

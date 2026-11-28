@@ -12,7 +12,7 @@ author_slug: "thk-thucydides"
 publication_year: -400
 original_language: "Greek"
 edges:
-- rel: "authored_by", target: "Thucydides", target_type: "مفكر"
+- rel: "authored_by", target: "hst-thucydides", target_type: "مفكر"
 related:
 - id: "sch-thucydides-source-criticism", title: "Thucydides' Method of Rational Criticism and Sources", type: "مدرسة"
 - id: "thk-livy", title: "Titus Livy", type: "مفكر"

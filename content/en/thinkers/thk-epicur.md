@@ -13,7 +13,7 @@ language: "Ancient Greek"
 active_start: -310
 active_end: -270
 edges:
-- rel: "belongs_to", target: "Epicureanism", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-epicureanism", target_type: "مدرسة"
 related:
 - id: "con-ataraxia", title: "Ataraxia and Psychological Tranquility", type: "مفهوم"
 - id: "sch-epicureanism", title: "Epicureanism", type: "مدرسة"

@@ -18,7 +18,7 @@ original_language: "German"
 active_start: 1986
 active_end: "مستمر"
 edges:
-- rel: "written_by", target: "Pierre Bourdieu", target_type: "مفكر"
+- rel: "authored_by", target: "thk-bourdieu", target_type: "مفكر"
 related:
 - id: "thk-bourdieu", title: "Pierre Bourdieu", type: "مفكر"
 gaps:

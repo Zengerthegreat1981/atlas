@@ -13,7 +13,7 @@ language: "German"
 active_start: 1919
 active_end: 1976
 edges:
-  - rel: "belongs_to", target: "Existentialist School", target_type: "مدرسة"
+  - rel: "belongs_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
   - id: "br-daseins", title: "Existential Analysis", type: "تيار"
   - id: "dbt-boss-binswanger", title: "The Dispute over His Reading", type: "جدل"

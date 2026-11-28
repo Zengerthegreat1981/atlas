@@ -14,7 +14,7 @@ active_end: 2007
 country: "United States (born in Netherlands)"
 language: "English"
 edges:
-  - rel: "belongs_to", target: "Existentialist School", target_type: "مدرسة"
+  - rel: "belongs_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
   - id: "dbt-spiritual", title: "The Spiritual Dispute", type: "جدل"
   - id: "br-humanistic", title: "The American Current", type: "تيار"

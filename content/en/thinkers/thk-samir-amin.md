@@ -14,7 +14,7 @@ economic_school: "Marxism (theory of unequal exchange and dependency)"
 active_start: 1957
 active_end: 2018
 edges:
-- rel: "belongs_to", target: "Classical Theories of Imperialism", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-classical-theories-of-imperialism", target_type: "مدرسة"
 related:
 - id: "sch-classical-theories-of-imperialism", title: "Classical Theories of Imperialism", type: "مدرسة"
 - id: "thk-vladimir-lenin", title: "Vladimir Lenin", type: "مفكر"

@@ -10,8 +10,8 @@ en: "The Kung Bushmen"
 crumb: "Lee · Hunter-Gatherer Economics"
 dates: "1979 · Lee"
 edges:
-  - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
-  - rel: "written_by", target: "Lee", target_type: "مفكر"
+  - rel: "belongs_to", target: "fld-anthropology", target_type: "مجال"
+  - rel: "authored_by", target: "Lee", target_type: "مفكر"
 related: []
 sources:
   - Lee, Richard B. The !Kung San: Men, Women, and Work in a Foraging Society. Cambridge University Press, 1979.

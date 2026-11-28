@@ -11,7 +11,7 @@ economic_school: "New institutional economics"
 active_start: 2001
 active_end: 2001
 edges:
-- rel: "belongs_to", target: "New Institutional Economics", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-new-institutional-economics", target_type: "مدرسة"
 related: []
 study_year: 2001
 design: "Cross-country study using an instrumental variable: the mortality rates of early European settlers in different colonies, to isolate the causal effect of institutional quality on current income"

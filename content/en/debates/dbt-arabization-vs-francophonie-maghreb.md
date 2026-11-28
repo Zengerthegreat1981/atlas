@@ -10,7 +10,7 @@ crumb: "Linguistics ← Debates ← Arabization vs. French in the Maghreb"
 active_start: 1962
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Sociolinguistics: Language in Its Social Context", target_type: "فرع"
+- rel: "belongs_to", target: "br-sociolinguistics", target_type: "فرع"
 related:
 - id: "br-sociolinguistics", title: "Sociolinguistics: Language in Its Social Context", type: "فرع"
 gaps: []

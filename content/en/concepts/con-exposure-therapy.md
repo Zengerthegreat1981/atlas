@@ -11,11 +11,11 @@ active_start: 1924
 active_end: "مستمر"
 language: "English"
 edges:
-- rel: "belongs_to", target: "Foundations of Psychotherapy", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-psychotherapy-foundations", target_type: "مدرسة"
 - rel: "relates_to", target: "Exposure Hierarchy", target_type: "مفهوم"
-- rel: "relates_to", target: "Exposure and Response Prevention", target_type: "مفهوم"
+- rel: "relates_to", target: "con-exposure-response-prevention", target_type: "مفهوم"
 - rel: "relates_to", target: "Habituation through Exposure", target_type: "مفهوم"
-- rel: "relates_to", target: "Anxiolytics & Benzodiazepines", target_type: "مفهوم"
+- rel: "relates_to", target: "con-anxiolytics-benzodiazepines", target_type: "مفهوم"
 related:
 - id: "sch-psychotherapy-foundations", title: "Foundations of Psychotherapy", type: "مدرسة"
 - id: "con-exposure-response-prevention", title: "Exposure and Response Prevention", type: "مفهوم"

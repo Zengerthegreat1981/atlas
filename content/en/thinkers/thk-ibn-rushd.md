@@ -4,6 +4,7 @@ id: "THK-13519"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"
+quality: "unverified"
 title: "Abu al-Walid Muhammad ibn Ahmad ibn Rushd"
 en: "Abu al-Walid ibn Rushd (Averroes)"
 crumb: "Philosophy ← Thinkers ← Abu al-Walid ibn Rushd (Averroes)"
@@ -34,7 +35,7 @@ Ibn Rushd was born in Córdoba in 520 AH/1126 CE into a distinguished Cordoban f
 
 ### The Three Kinds of Commentary on Aristotle
 
-On most of Aristotle's works Ibn Rushd wrote three kinds of commentary: the "Jawami'" (brief summaries), the "Talkhisat" (middle commentaries that restate the text), and the "Great Commentaries" (line-by-line analysis of the full Aristotelian text, which no other commentator did in such detail). These Great Commentaries (especially his commentary on the *Physics*, the *Metaphysics* and *On the Soul*) are what earned him in Latin Europe the absolute title of "the Commentator," after they were translated into Latin and Hebrew and became a basic reference for reading Aristotle in the universities of Paris and Bologna from the thirteenth century.
+Ibn Rushd wrote three kinds of commentary on Aristotle, though all three exist for only five works (the *Posterior Analytics*, *Physics*, *On the Heavens*, *On the Soul* and *Metaphysics*): the "Jawami'" (brief summaries), the "Talkhisat" (middle commentaries that restate the text), and the "Great Commentaries" (line-by-line analysis of the full Aristotelian text, which no other commentator did in such detail). These Great Commentaries (especially his commentary on the *Physics*, the *Metaphysics* and *On the Soul*) are what earned him in Latin Europe the absolute title of "the Commentator," after they were translated into Latin and Hebrew and became a basic reference for reading Aristotle in the universities of Paris and Bologna from the thirteenth century.
 
 ### *Tahafut al-Tahafut*: The Reply to al-Ghazali
 
@@ -62,7 +63,7 @@ Scholars (such as Majid Fakhry) observe that Ibn Rushd's project of returning to
 
 ## Textual Transmission and Attribution of the Commentaries
 
-A major area of modern scholarship concerns the textual transmission, recensions, and attribution of Ibn Rushd's short (*jawami'*, epitomes) and middle (*talkhisat*) commentaries. While he composed three distinct tiers of commentary across much of the Aristotelian corpus, a substantial portion of these writings did not survive in the original Arabic. Many middle commentaries and epitomes (especially in logic, natural philosophy, and metaphysics) were preserved solely through medieval Hebrew translations (produced by translators such as Jacob Anatoli, Moses ibn Tibbon, and Zerahiah Hen) and Renaissance Latin translations made from the Hebrew (such as those by Jacob Mantino). Furthermore, textual research by scholars such as Gerhard Endress and Charles Butterworth has shown that Ibn Rushd revised several commentaries repeatedly across his career. These multiple redactions generated textual divergences between surviving Arabic manuscripts and the Hebrew-Latin textual families, requiring philologists to reconstruct the development of his thought through comparative analysis of all surviving linguistic recensions.
+A major area of modern scholarship concerns the textual transmission, recensions, and attribution of Ibn Rushd's short (*jawami'*, epitomes) and middle (*talkhisat*) commentaries. While he composed commentaries at three distinct levels on the Aristotelian corpus, a substantial portion of these writings did not survive in the original Arabic. Many middle commentaries and epitomes (especially in logic, natural philosophy, and metaphysics) were preserved solely through medieval Hebrew translations (produced by translators such as Jacob Anatoli, Moses ibn Tibbon, and Zerahiah Hen) and Renaissance Latin translations made from the Hebrew (such as those by Jacob Mantino). Furthermore, textual research by scholars such as Gerhard Endress and Charles Butterworth has shown that Ibn Rushd revised several commentaries repeatedly across his career. These multiple redactions generated textual divergences between surviving Arabic manuscripts and the Hebrew-Latin textual families, requiring philologists to reconstruct the development of his thought through comparative analysis of all surviving linguistic recensions.
 
 ## His Key Terminology
 

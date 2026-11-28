@@ -16,7 +16,7 @@ author_slug: "thk-merleau-ponty"
 publication_year: 1945
 original_language: "French"
 edges:
-- rel: "relates_to", target: "Phenomenology", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-phenomenology", target_type: "مدرسة"
 related:
 - id: "thk-merleau-ponty", title: "Maurice Merleau-Ponty", type: "مفكر"
 - id: "thk-husserl", title: "Edmund Husserl", type: "مفكر"

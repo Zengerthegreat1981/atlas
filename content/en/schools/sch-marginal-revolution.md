@@ -15,7 +15,7 @@ policy_orientation: "Relatively policy-neutral mathematical analysis that focuse
 active_start: 1871
 active_end: 1890
 edges:
-- rel: "evolved_from", target: "Classical Political Economy", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-classical-political-economy", target_type: "مدرسة"
 related:
 - id: "sch-classical-political-economy", title: "Classical Political Economy", type: "مدرسة"
 - id: "thk-carl-menger", title: "Carl Menger", type: "مفكر"

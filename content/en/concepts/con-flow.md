@@ -12,7 +12,7 @@ evidence_level: "well-established"
 active_start: null
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Positive Psychology", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-positive-psychology", target_type: "مدرسة"
 related:
 - id: "thk-csikszentmihalyi", title: "Mihaly Csikszentmihalyi", type: "مفكر"
 - id: "thk-mseligman", title: "Martin Seligman", type: "مفكر"

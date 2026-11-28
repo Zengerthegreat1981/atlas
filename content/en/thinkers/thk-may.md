@@ -13,7 +13,7 @@ language: "English"
 active_start: 1950
 active_end: 1994
 edges:
-  - rel: "belongs_to", target: "Existentialist School", target_type: "مدرسة"
+  - rel: "belongs_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
   - id: "br-humanistic", title: "The American Current", type: "تيار"
   - id: "thk-yalom", title: "Yalom", type: "مفكر"

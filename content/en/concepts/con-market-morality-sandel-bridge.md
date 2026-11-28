@@ -11,8 +11,8 @@ crumb: "Bridges ← Concepts ← Markets and Morality: What Money Can't Buy"
 active_start: 2012
 active_end: "مستمر"
 edges:
-- rel: "relates_to", target: "Consumer Surplus", target_type: "مفهوم"
-- rel: "relates_to", target: "Michael Sandel", target_type: "مفكر"
+- rel: "relates_to", target: "con-consumer-surplus", target_type: "مفهوم"
+- rel: "relates_to", target: "thk-sandel", target_type: "مفكر"
 related:
 - id: "thk-sandel", title: "Michael Sandel", type: "مفكر"
 - id: "con-commodification", title: "Commodification", type: "مفهوم"

@@ -10,8 +10,8 @@ crumb: "Philosophy ← Concepts ← Dialectic"
 active_start: -380
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Hegelianism", target_type: "مدرسة"
-- rel: "formulated_by", target: "Georg Wilhelm Friedrich Hegel", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-hegelianism", target_type: "مدرسة"
+- rel: "formulated_by", target: "thk-hegel", target_type: "مفكر"
 - rel: "belongs_to", target: "Platonic Academy", target_type: "مدرسة"
 related:
 - id: "thk-ibn-sina", title: "Abu Ali al-Husayn ibn Abd Allah ibn Sina", type: "مفكر"

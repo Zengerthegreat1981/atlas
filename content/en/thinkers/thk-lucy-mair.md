@@ -9,7 +9,7 @@ en: "Lucy Mair"
 crumb: "Anthropology ← British Social Anthropology ← Lucy Mair"
 dates: "UK · 1901-1986"
 edges:
-  - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
+  - rel: "belongs_to", target: "fld-anthropology", target_type: "مجال"
 related:
   []
 gaps:

@@ -9,7 +9,7 @@ en: "Digital Anthropology"
 crumb: "Anthropology ← Schools ← Digital Anthropology"
 dates: "International · 2000s-present"
 edges:
-  - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
+  - rel: "belongs_to", target: "fld-anthropology", target_type: "مجال"
 related:
   []
 gaps:

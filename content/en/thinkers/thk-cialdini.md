@@ -13,7 +13,7 @@ language: "English"
 active_start: 1970
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Social Psychology", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-social-psychology", target_type: "مدرسة"
 related: []
 gaps: []
 ---

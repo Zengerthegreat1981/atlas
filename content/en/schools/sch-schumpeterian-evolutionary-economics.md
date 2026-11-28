@@ -15,7 +15,7 @@ policy_orientation: "Not tied to a single political doctrine: it focuses on unde
 active_start: 1911
 active_end: "مستمر"
 edges:
-- rel: "evolved_from", target: "Marginal Revolution", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-marginal-revolution", target_type: "مدرسة"
 related:
 - id: "thk-joseph-schumpeter", title: "Joseph Schumpeter", type: "مفكر"
 - id: "wrk-capitalism-socialism-and-democracy-schumpeter", title: "Capitalism, Socialism and Democracy", type: "عمل / كتاب"

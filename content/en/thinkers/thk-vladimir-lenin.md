@@ -14,7 +14,7 @@ economic_school: "Marxism (theory of imperialism)"
 active_start: 1893
 active_end: 1924
 edges:
-- rel: "belongs_to", target: "Classical Theories of Imperialism", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-classical-theories-of-imperialism", target_type: "مدرسة"
 related:
 - id: "sch-classical-theories-of-imperialism", title: "Classical Theories of Imperialism", type: "مدرسة"
 - id: "wrk-imperialism-the-highest-stage-of-capitalism-lenin", title: "Imperialism, the Highest Stage of Capitalism", type: "عمل / كتاب"

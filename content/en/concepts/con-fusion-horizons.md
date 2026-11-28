@@ -10,7 +10,7 @@ crumb: "Bridges ← Concepts ← Fusion of Horizons: Understanding the Self Thro
 active_start: 1960
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "Philosophical Hermeneutics (Philosophische Hermeneutik)", target_type: "مدرسة"
+  - rel: "belongs_to", target: "sch-hermeneutics", target_type: "مدرسة"
 related:
   - id: "thk-gadamer", title: "Hans-Georg Gadamer", type: "مفكر"
   - id: "thk-heidegger", title: "Martin Heidegger", type: "مفكر"

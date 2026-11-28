@@ -14,7 +14,7 @@ active_end: 801
 country: "Iraq"
 language: "Arabic"
 edges:
-- rel: "belongs_to", target: "Classical Islamic Sufism (Tasawwuf)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-islamic-sufism", target_type: "مدرسة"
 related:
 - id: "sch-islamic-sufism", title: "Classical Islamic Sufism (Tasawwuf)", type: "مدرسة"
 gaps: []

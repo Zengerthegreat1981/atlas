@@ -4,6 +4,7 @@ id: "SCH-0097"
 type: "مدرسة"
 part: "philosophy"
 level: "مبتدئ"
+quality: "unverified"
 title: "Enlightenment Philosophy (umbrella)"
 en: "Enlightenment Philosophy (umbrella)"
 crumb: "Philosophy ← Schools ← Enlightenment Philosophy"
@@ -16,7 +17,7 @@ active_end: 1815
 edges:
 - rel: "evolved_from", target: "British Empiricism", target_type: "مدرسة"
 - rel: "evolved_from", target: "Continental Rationalism", target_type: "مدرسة"
-- rel: "evolved_from", target: "Renaissance Humanism", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-renaissance-humanism", target_type: "مدرسة"
 related:
 - id: "sch-british-empiricism", title: "British Empiricism (umbrella)", type: "مدرسة"
 gaps: []

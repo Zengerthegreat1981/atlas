@@ -37,8 +37,8 @@ def build_index(base):
     index, ids = {}, collections.defaultdict(list)
     for f in all_files:
         raw = open(f, encoding='utf-8').read()
-        s = re.search(r'^slug:\s*"(.*?)"', raw, re.M)
-        i = re.search(r'^id:\s*"(.*?)"', raw, re.M)
+        s = re.search(r'^slug:[ \t]*"?([^"\r\n]*?)"?[ \t]*\r?$', raw, re.M)
+        i = re.search(r'^id:[ \t]*"?([^"\r\n]*?)"?[ \t]*\r?$', raw, re.M)
         if s:
             index[s.group(1)] = f
         if i:
@@ -73,7 +73,7 @@ def check_lang(lang, targets_arg):
         base_name = os.path.basename(f)[:-3]
         fm = raw.split('---')[1] if raw.startswith('---') else ''
 
-        s = re.search(r'^slug:\s*"(.*?)"', fm, re.M)
+        s = re.search(r'^slug:[ \t]*"?([^"\r\n]*?)"?[ \t]*\r?$', fm, re.M)
         if s and s.group(1) != base_name:
             problems.append(f"[{lang}] {base_name}: slug «{s.group(1)}» لا يطابق اسم الملف")
 
@@ -81,8 +81,8 @@ def check_lang(lang, targets_arg):
         head = subprocess.run(['git', 'cat-file', '-p', f'HEAD:{f}'],
                               capture_output=True, text=True)
         if head.returncode == 0:
-            mo = re.search(r'^id:\s*"(.*?)"', head.stdout, re.M)
-            mn = re.search(r'^id:\s*"(.*?)"', fm, re.M)
+            mo = re.search(r'^id:[ \t]*"?([^"\r\n]*?)"?[ \t]*\r?$', head.stdout, re.M)
+            mn = re.search(r'^id:[ \t]*"?([^"\r\n]*?)"?[ \t]*\r?$', fm, re.M)
             if mo and mn and mo.group(1) != mn.group(1):
                 problems.append(
                     f"[{lang}] {base_name}: انزياح id — في HEAD «{mo.group(1)}» وفي الملف «{mn.group(1)}». "

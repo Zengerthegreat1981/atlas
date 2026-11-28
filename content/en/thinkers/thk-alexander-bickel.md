@@ -14,7 +14,7 @@ legal_tradition: "Constitutional Law Theory"
 active_start: 1956
 active_end: 1974
 edges:
-- rel: "belongs_to", target: "Constitutional Law Theory", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-constitutional-law-theory", target_type: "مدرسة"
 related:
 - id: "sch-constitutional-law-theory", title: "Constitutional Law Theory", type: "مدرسة"
 - id: "con-counter-majoritarian-difficulty-bickel", title: "Counter-Majoritarian Difficulty", type: "مفهوم"

@@ -11,7 +11,7 @@ economic_school: "Classical Political Economy / Marxism"
 active_start: 1776
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Marx's Critique of Political Economy", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-marx-critique-of-political-economy", target_type: "مدرسة"
 related:
 - id: "sch-marx-critique-of-political-economy", title: "Marx's Critique of Political Economy", type: "مدرسة"
 - id: "thk-david-ricardo", title: "David Ricardo", type: "مفكر"

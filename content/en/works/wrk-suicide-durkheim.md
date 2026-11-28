@@ -18,8 +18,8 @@ original_language: "French"
 active_start: 1897
 active_end: 1897
 edges:
-- rel: "written_by", target: "Émile Durkheim", target_type: "مفكر"
-- rel: "belongs_to", target: "Durkheimian Structural Functionalism", target_type: "مدرسة"
+- rel: "authored_by", target: "thk-durkheim", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-durkheimian-structural-functionalism", target_type: "مدرسة"
 related:
 - id: "thk-durkheim", title: "Émile Durkheim", type: "مفكر"
 - id: "con-anomie-durkheim", title: "Anomie in Durkheim", type: "مفهوم"

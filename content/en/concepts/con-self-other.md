@@ -8,7 +8,7 @@ title: "Self and Other"
 en: "Self and Other"
 crumb: "Self and Other"
 edges:
-  - rel: "discussed_in", target: "Existentialist School", target_type: "مدرسة"
+  - rel: "discussed_in", target: "sch-existentialism", target_type: "مدرسة"
 related:
   - id: "con-authenticity", title: "Authenticity", type: "مفهوم"
 gaps: []

@@ -11,7 +11,7 @@ crumb: "Linguistics ← Studies ← Ferguson's Study of Diglossia (1959)"
 active_start: 1959
 active_end: 1959
 edges:
-- rel: "belongs_to", target: "Modern Arabic Linguistics", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-modern-arabic-linguistics", target_type: "مدرسة"
 related:
 - id: "sch-modern-arabic-linguistics", title: "Modern Arabic Linguistics", type: "مدرسة"
 - id: "con-diglossia", title: "Diglossia", type: "مفهوم"

@@ -14,7 +14,7 @@ active_end: 2024
 country: "Canada"
 language: "English"
 edges:
-  - rel: "belongs_to", target: "Existentialist School", target_type: "مدرسة"
+  - rel: "belongs_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
   - id: "thk-frankl", title: "Frankl", type: "مفكر"
   - id: "br-logotherapy", title: "Branches of Meaning", type: "تيار"

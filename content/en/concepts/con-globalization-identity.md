@@ -12,7 +12,7 @@ active_start: 1990
 active_end: "مستمر"
 language: "Arabic"
 edges:
-- rel: "belongs_to", target: "Contemporary Arab Intellectual Movements", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-contemporary-arab-movements", target_type: "مدرسة"
 related:
 - id: "sch-contemporary-arab-movements", title: "Contemporary Arab Intellectual Movements", type: "مدرسة"
 - id: "thk-samir-amin", title: "Samir Amin", type: "مفكر"

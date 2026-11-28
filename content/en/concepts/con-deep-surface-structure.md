@@ -14,7 +14,7 @@ language: "English"
 active_start: 1965
 active_end: 1995
 edges:
-- rel: "belongs_to", target: "Generative-Transformational Grammar", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-generative-grammar", target_type: "مدرسة"
 related:
 - id: "sch-generative-grammar", title: "Generative-Transformational Grammar", type: "مدرسة"
 - id: "wrk-syntactic-structures", title: "Syntactic Structures", type: "عمل / كتاب"

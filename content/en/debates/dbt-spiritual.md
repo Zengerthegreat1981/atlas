@@ -9,7 +9,7 @@ title: "The Spiritual and the Secular"
 en: "The spiritual dimension"
 crumb: "Existential School ← Debates ← The Spiritual and the Secular"
 edges:
-  - rel: "occurs_within", target: "Existentialist School", target_type: "مدرسة"
+  - rel: "occurs_within", target: "sch-existentialism", target_type: "مدرسة"
 related:
   - id: "br-logotherapy", title: "Logotherapy & Existential Analysis", type: "تيار"
   - id: "br-british", title: "British Existential-Phenomenological", type: "تيار"

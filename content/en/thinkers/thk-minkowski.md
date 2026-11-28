@@ -9,7 +9,7 @@ en: "Eugène Minkowski"
 crumb: "Existential Philosophy ← People ← Eugène Minkowski"
 dates: "France · 1885–1972"
 edges:
-  - rel: "belongs_to", target: "Existentialist School", target_type: "مدرسة"
+  - rel: "belongs_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
   - id: "rel-phenopath", title: "Psychopathological Phenomenology", type: "علاقة"
   - id: "br-daseins", title: "Daseinsanalysis", type: "تيار"

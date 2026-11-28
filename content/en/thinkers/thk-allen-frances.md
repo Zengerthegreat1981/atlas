@@ -13,7 +13,7 @@ active_end: "مستمر"
 country: "United States"
 language: "English"
 edges:
-- rel: "belongs_to", target: "Psychiatric Diagnostic Nosology", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-diagnostic-nosology", target_type: "مدرسة"
 related:
 - id: "sch-diagnostic-nosology", title: "Psychiatric Diagnostic Nosology", type: "مدرسة"
 gaps: []

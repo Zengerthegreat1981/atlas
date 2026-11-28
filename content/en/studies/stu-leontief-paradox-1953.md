@@ -11,7 +11,7 @@ economic_school: "Marshallian neoclassical economics"
 active_start: 1951
 active_end: 1953
 edges:
-- rel: "belongs_to", target: "Marshallian Neoclassical Economics", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-marshallian-neoclassical-economics", target_type: "مدرسة"
 related: []
 study_year: 1953
 design: "Empirical analysis of the structure of US foreign trade using input-output tables, to test the predictions of the Heckscher–Ohlin theory of international trade"

@@ -10,7 +10,7 @@ crumb: "Anthropology ← Thinkers ← Dell Hymes"
 dates: "Portland, Oregon · 1927–2009"
 birth_country: "United States"
 edges:
-- rel: "belongs_to", target: "Ethnography of Communication", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-ethnography-of-communication", target_type: "مدرسة"
 related:
 - id: "con-communicative-competence-hymes", title: "Hymes's Communicative Competence", type: "مفهوم"
 gaps: []

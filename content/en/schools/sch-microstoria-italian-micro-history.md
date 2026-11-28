@@ -16,7 +16,7 @@ cultural_origin: "european"
 active_start: 1976
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "The Linguistic Turn: History as Narrative (Hayden White)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-linguistic-turn-metahistory-white", target_type: "مدرسة"
 related:
 - id: "thk-carlo-ginzburg", title: "Carlo Ginzburg", type: "مفكر"
 - id: "con-exceptional-normal-ginzburg", title: "Exceptional Normal (Ginzburg)", type: "مفهوم"

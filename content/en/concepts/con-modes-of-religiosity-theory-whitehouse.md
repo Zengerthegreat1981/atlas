@@ -13,7 +13,7 @@ crumb: "Religious Studies ← Concepts ← Modes of Religiosity Theory: Doctrina
 active_start: 1995
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Cognitive Science of Religion", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-science-of-religion", target_type: "مدرسة"
 related:
 - id: "thk-harvey-whitehouse", title: "Harvey Whitehouse", type: "مفكر"
 - id: "sch-cognitive-science-of-religion", title: "Cognitive Science of Religion", type: "مدرسة"

@@ -9,7 +9,7 @@ en: "Economic Anthropology"
 crumb: "Anthropology ← Schools ← Economic Anthropology"
 dates: "USA/International · 1940s-present"
 edges:
-  - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
+  - rel: "belongs_to", target: "fld-anthropology", target_type: "مجال"
 related:
   []
 gaps:

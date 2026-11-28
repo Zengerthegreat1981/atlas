@@ -13,7 +13,7 @@ country: "United States"
 language: "English"
 part: "sociology"
 edges:
-- rel: "belongs_to", target: "Durkheimian Sociology of Religion", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-durkheimian-sociology-of-religion", target_type: "مدرسة"
 related:
 - id: "sch-durkheimian-sociology-of-religion", title: "Durkheimian Sociology of Religion", type: "مدرسة"
 gaps: []

@@ -9,7 +9,7 @@ title: "Who Read Heidegger Right?"
 en: "Who read Heidegger right?"
 crumb: "Existential School ← Debates ← Who Read Heidegger Right?"
 edges:
-  - rel: "occurs_within", target: "Existentialist School", target_type: "مدرسة"
+  - rel: "occurs_within", target: "sch-existentialism", target_type: "مدرسة"
 related:
   - id: "thk-binswanger", title: "Ludwig Binswanger", type: "مفكر"
   - id: "thk-boss", title: "Medard Boss", type: "مفكر"

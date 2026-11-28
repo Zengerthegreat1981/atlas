@@ -13,7 +13,7 @@ language: "English"
 active_start: 1975
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Developmental Psychology", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-developmental", target_type: "مدرسة"
 related: []
 gaps: []
 ---

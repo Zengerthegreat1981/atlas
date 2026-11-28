@@ -18,7 +18,7 @@ edges: []
 related:
 - id: "thk-freud", title: "Sigmund Freud", type: "مفكر"
 - id: "thk-rogers", title: "Carl Rogers", type: "مفكر"
-- id: "thk-aaron-beck", title: "Aaron Beck", type: "مفكر"
+- id: "thk-beck", title: "Aaron Temkin Beck", type: "مفكر"
 - id: "thk-ellis", title: "Albert Ellis", type: "مفكر"
 - id: "con-psychoanalytic-theory", title: "Psychoanalytic Theory", type: "مفهوم"
 - id: "con-humanistic-therapy", title: "Humanistic Therapy", type: "مفهوم"

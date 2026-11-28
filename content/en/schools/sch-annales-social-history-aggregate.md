@@ -15,7 +15,7 @@ cultural_origin: "european"
 active_start: 1960
 active_end: 1980
 edges:
-- rel: "part_of_section", target: "historiography-section-18", target_type: "section"
+- rel: "part_of_section", target: "Historiography Section 18", target_type: "section"
 related:
 - id: "con-oral-history-methods", title: "Oral History Methods", type: "مفهوم"
 gaps: []

@@ -15,7 +15,7 @@ language: "English"
 active_start: 2003
 active_end: 2003
 edges:
-- rel: "belongs_to", target: "Usage-Based Grammar", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-usage-based-grammar", target_type: "مدرسة"
 related:
 - id: "sch-usage-based-grammar", title: "Usage-Based Grammar", type: "مدرسة"
 - id: "thk-michael-tomasello", title: "Michael Tomasello", type: "مفكر"

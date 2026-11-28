@@ -9,8 +9,8 @@ en: "Le Temps vécu"
 crumb: "Philosophy ← Works ← Lived Time"
 dates: "1933 · Minkowski"
 edges:
-  - rel: "written_by", target: "Minkowski", target_type: "مفكر"
-  - rel: "belongs_to", target: "Existentialist School", target_type: "مدرسة"
+  - rel: "authored_by", target: "Minkowski", target_type: "مفكر"
+  - rel: "belongs_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
   - id: "thk-minkowski", title: "Eugène Minkowski", type: "مفكر"
   - id: "rel-phenopath", title: "Phenomenological Psychopathology", type: "علاقة"

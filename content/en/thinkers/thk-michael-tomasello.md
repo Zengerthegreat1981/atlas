@@ -18,7 +18,7 @@ fields: ["usage-based linguistics", "child development", "construction grammar",
 affiliation: "Duke University; formerly Max Planck Institute for Evolutionary Anthropology"
 primary_school: "sch-usage-based-grammar"
 edges:
-- rel: "belongs_to", target: "Usage-Based Grammar", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-usage-based-grammar", target_type: "مدرسة"
 related:
 - id: "sch-usage-based-grammar", title: "Usage-Based Grammar", type: "مدرسة"
 gaps: []

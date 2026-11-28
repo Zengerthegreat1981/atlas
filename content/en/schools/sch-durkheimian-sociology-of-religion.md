@@ -15,7 +15,7 @@ language: "French"
 active_start: 1912
 active_end: 1917
 edges:
-- rel: "belongs_to", target: "Durkheimian Structural Functionalism", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-durkheimian-structural-functionalism", target_type: "مدرسة"
 related:
 - id: "thk-durkheim", title: "Émile Durkheim", type: "مفكر"
 gaps: []

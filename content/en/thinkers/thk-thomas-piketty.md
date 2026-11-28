@@ -14,7 +14,7 @@ economic_school: "Economics of inequality"
 active_start: 2001
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Economics of Inequality", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-economics-of-inequality", target_type: "مدرسة"
 related:
 - id: "sch-economics-of-inequality", title: "Economics of Inequality", type: "مدرسة"
 - id: "wrk-capital-in-the-twenty-first-century-piketty", title: "Capital in the Twenty-First Century", type: "عمل / كتاب"

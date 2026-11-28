@@ -9,8 +9,8 @@ en: "The Divided Self"
 crumb: "Philosophy ← Works ← The Divided Self"
 dates: "1960 · Laing"
 edges:
-  - rel: "written_by", target: "Laing", target_type: "مفكر"
-  - rel: "belongs_to", target: "Existentialist School", target_type: "مدرسة"
+  - rel: "authored_by", target: "Laing", target_type: "مفكر"
+  - rel: "belongs_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
   - id: "thk-laing", title: "R. D. Laing", type: "مفكر"
   - id: "dbt-laing", title: "Is Psychosis a Meaningful Journey?", type: "جدل"

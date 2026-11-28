@@ -9,7 +9,7 @@ title: "The Unconscious Question"
 en: "The unconscious question"
 crumb: "Existential School ← Debates ← The Unconscious Question"
 edges:
-  - rel: "occurs_within", target: "Existentialist School", target_type: "مدرسة"
+  - rel: "occurs_within", target: "sch-existentialism", target_type: "مدرسة"
 related:
   - id: "br-daseins", title: "Daseinsanalysis", type: "تيار"
   - id: "rel-psychoanalysis", title: "Psychoanalysis", type: "علاقة"

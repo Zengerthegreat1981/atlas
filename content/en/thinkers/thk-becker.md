@@ -9,7 +9,7 @@ en: "Ernest Becker"
 crumb: "Anthropology ← Ernest Becker"
 dates: "USA · 1924-1974"
 edges:
-  - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
+  - rel: "belongs_to", target: "fld-anthropology", target_type: "مجال"
 related:
   []
 gaps:

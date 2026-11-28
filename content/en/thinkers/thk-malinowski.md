@@ -10,7 +10,7 @@ en: "Bronislaw Malinowski"
 crumb: "Anthropology ← Methods & Epistemology ← Bronislaw Malinowski"
 dates: "Poland-UK · 1884-1942"
 edges:
-  - rel: "belongs_to", target: "British Functionalism", target_type: "مدرسة"
+  - rel: "belongs_to", target: "sch-british-functionalism", target_type: "مدرسة"
   - rel: "developed_method", target: "Participant Observation", target_type: "مفهوم"
   - rel: "influenced", target: "Ethnographic Fieldwork", target_type: "مفهوم"
 related:

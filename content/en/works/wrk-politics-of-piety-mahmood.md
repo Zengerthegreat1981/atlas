@@ -14,7 +14,7 @@ dates: "2005"
 active_start: 2005
 active_end: 2005
 edges:
-- rel: "belongs_to", target: "Ethnography of Religion and Fieldwork", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-ethnography-of-religion-fieldwork", target_type: "مدرسة"
 related:
 - id: "sch-ethnography-of-religion-fieldwork", title: "Ethnography of Religion and Fieldwork", type: "مدرسة"
 gaps: []

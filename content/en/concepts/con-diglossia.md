@@ -14,7 +14,7 @@ language: "English"
 active_start: 1959
 active_end: 1959
 edges:
-- rel: "belongs_to", target: "Labovian Variationist Sociolinguistics", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-variationist-sociolinguistics", target_type: "مدرسة"
 related:
 - id: "sch-variationist-sociolinguistics", title: "Labovian Variationist Sociolinguistics", type: "مدرسة"
 - id: "con-code-switching-mixing", title: "Code-Switching and Code-Mixing", type: "مفهوم"

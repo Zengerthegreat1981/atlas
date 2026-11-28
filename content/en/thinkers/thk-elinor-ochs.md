@@ -14,7 +14,7 @@ birth_country: "United States"
 active_start: 1974
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Ethnography of Communication", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-ethnography-of-communication", target_type: "مدرسة"
 related:
 - id: "sch-ethnography-of-communication", title: "Ethnography of Communication", type: "مدرسة"
 - id: "thk-alessandro-duranti", title: "Alessandro Duranti", type: "مفكر"

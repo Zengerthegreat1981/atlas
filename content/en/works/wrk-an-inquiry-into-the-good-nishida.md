@@ -14,7 +14,7 @@ author_slug: "thk-nishida"
 publication_year: 1911
 original_language: "Japanese"
 edges:
-- rel: "belongs_to", target: "Kyoto School", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-kyoto", target_type: "مدرسة"
 related:
 - id: "sch-kyoto", title: "The Kyoto School", type: "مدرسة"
 gaps: []

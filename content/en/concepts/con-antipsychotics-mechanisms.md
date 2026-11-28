@@ -12,7 +12,7 @@ active_end: "مستمر"
 language: "English"
 edges:
 - rel: "relates_to", target: "Dopamine and Psychosis", target_type: "مفهوم"
-- rel: "relates_to", target: "Antipsychotic Response", target_type: "مفهوم"
+- rel: "relates_to", target: "con-antipsychotic-response", target_type: "مفهوم"
 - rel: "relates_to", target: "Schizophrenia", target_type: "مفهوم"
 - rel: "relates_to", target: "Recovery from Psychosis", target_type: "مفهوم"
 related:

@@ -50,7 +50,7 @@ In *An Enquiry Concerning Human Understanding* (1748), the most mature formulati
 ## Influence
 
 - **Kant**: said that Hume "awakened him from his dogmatic slumber," and built his critique of pure reason as a reply to him.
-- **Adam Smith**: a close friend, who built the *Theory of Moral Sentiments* on the same Humean ground of sympathy, though differing in its details; he is the one who wrote the famous letter describing Hume's calm, unafraid death, which provoked more anger than all of Hume's books did.
+- **Adam Smith**: a close friend, who built the *Theory of Moral Sentiments* on the same Humean ground of sympathy, though differing in its details; he is the one who wrote the famous letter describing Hume's calm, unafraid death; Smith later remarked that it brought him far more abuse than his attack on Britain's commercial system in *The Wealth of Nations*.
 - **Logical Positivism**: the Vienna Circle drew on his distinction between propositions concerning relations of ideas and propositions concerning matters of fact.
 - **Pragmatism**: James and Dewey were influenced by Hume's empiricism.
 

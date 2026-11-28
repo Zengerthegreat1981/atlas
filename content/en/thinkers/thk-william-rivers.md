@@ -9,7 +9,7 @@ en: "William H.R. Rivers"
 crumb: "Anthropology ← British Social Anthropology ← William H. R. Rivers"
 dates: "UK · 1864-1922"
 edges:
-  - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
+  - rel: "belongs_to", target: "fld-anthropology", target_type: "مجال"
 related:
   []
 gaps:

@@ -13,7 +13,7 @@ language: "English"
 active_start: 1953
 active_end: 2025
 edges:
-- rel: "belongs_to", target: "Communitarianism", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-communitarianism", target_type: "مدرسة"
 related:
 - id: "sch-communitarianism", title: "Communitarianism", type: "مدرسة"
 - id: "thk-sandel", title: "Michael Sandel", type: "مفكر"

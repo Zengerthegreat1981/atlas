@@ -14,7 +14,7 @@ crumb: "Historiography ← Works ← Montaillou: The Promised Land of Error"
 active_start: 1975
 active_end: "مستمر"
 edges:
-- rel: "authored_by", target: "Emmanuel Le Roy Ladurie", target_type: "مفكر"
+- rel: "authored_by", target: "thk-emmanuel-le-roy-ladurie", target_type: "مفكر"
 related:
 - id: "thk-emmanuel-le-roy-ladurie", title: "Emmanuel Le Roy Ladurie", type: "مفكر"
 - id: "sch-annales-third-generation-mentalities", title: "Third Generation of the Annales and the History of Mentalities (Le Goff, Duby, Chartier)", type: "مدرسة"

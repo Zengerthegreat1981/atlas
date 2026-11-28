@@ -5,6 +5,7 @@ type: "مدرسة"
 part: "philosophy"
 cultural_origin: "european"
 level: "متوسط"
+quality: "unverified"
 title: "German Idealism (umbrella)"
 en: "German Idealism (umbrella)"
 crumb: "Philosophy ← Schools ← German Idealism"
@@ -16,9 +17,9 @@ active_end: 1831
 edges:
 - rel: "split_into", target: "Fichteanism", target_type: "مدرسة"
 - rel: "split_into", target: "Schellingianism", target_type: "مدرسة"
-- rel: "split_into", target: "Hegelianism", target_type: "مدرسة"
+- rel: "split_into", target: "sch-hegelianism", target_type: "مدرسة"
 - rel: "split_into", target: "Neo-Kantianism", target_type: "مدرسة"
-- rel: "evolved_from", target: "Critical Kantianism", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-kant-critical", target_type: "مدرسة"
 related:
 - id: "thk-fichte", title: "Johann Gottlieb Fichte", type: "مفكر"
 - id: "thk-schelling", title: "Friedrich Schelling", type: "مفكر"
@@ -46,7 +47,7 @@ A broad philosophical umbrella extending from the "critical" Kant (1781) to the 
 - **Kant** (1724–1804): in the *Critique of Pure Reason* (1781/1787) he defined the conditions of the possibility of knowledge, and in the *Critique of Practical Reason* (1788) and the *Critique of the Power of Judgment* (1790) he completed the structure.
 - **Fichte** (1762–1814): made the active "I" the first principle of all knowledge.
 - **Schelling** (1775–1854): extended idealism to include nature in the *Philosophy of Nature* (1797) and the *System of Transcendental Idealism* (1800), then turned to the philosophy of identity and then the philosophy of revelation.
-- **Hölderlin, Hegel, and Schelling in Tübingen**: the three took part in the "Oldest Systematic Program of German Idealism" (c. 1796), a short text of disputed authorship that calls for an aesthetic philosophy and a religion of reason.
+- **Hölderlin, Hegel, and Schelling**: the three, who had been fellow students in Tübingen, are the usual candidates for authorship of the "Oldest Systematic Program of German Idealism" (c. 1796), a short text of disputed authorship that calls for an aesthetic philosophy and a religion of reason.
 - **Hegel** (1770–1831): in the *Phenomenology of Spirit* (1807) and the *Science of Logic* (1812–1816) he moves the project to an absolute doctrine that sees all reality as the expression of the Idea in necessary development.
 - **Branchings after Hegel**: the current split into right, center, and left.
 

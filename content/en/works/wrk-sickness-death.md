@@ -9,8 +9,8 @@ en: "Sygdommen til Døden · The Sickness unto Death"
 crumb: "Philosophy ← Works ← The Sickness unto Death"
 dates: "1849 · Kierkegaard"
 edges:
-  - rel: "written_by", target: "Kierkegaard", target_type: "مفكر"
-  - rel: "belongs_to", target: "Existentialist School", target_type: "مدرسة"
+  - rel: "authored_by", target: "Kierkegaard", target_type: "مفكر"
+  - rel: "belongs_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
   - id: "thk-kierkegaard", title: "Søren Kierkegaard", type: "مفكر"
   - id: "thk-holzhey", title: "Alice Holzhey-Kunz", type: "مفكرة"

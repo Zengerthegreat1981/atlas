@@ -13,7 +13,7 @@ language: "German"
 active_start: 1918
 active_end: 1936
 edges:
-- rel: "belongs_to", target: "Speculative Philosophy of History (Vico, Hegel, Marx, Toynbee, Spengler)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-speculative-philosophy-of-history", target_type: "مدرسة"
 related:
 - id: "sch-speculative-philosophy-of-history", title: "Speculative Philosophy of History (Vico, Hegel, Marx, Toynbee, Spengler)", type: "مدرسة"
 - id: "thk-giambattista-vico", title: "Giambattista Vico", type: "مفكر"

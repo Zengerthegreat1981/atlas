@@ -11,7 +11,7 @@ economic_school: "Economics of inequality"
 active_start: 2014
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Economics of Inequality", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-economics-of-inequality", target_type: "مدرسة"
 related:
 - id: "thk-thomas-piketty", title: "Thomas Piketty", type: "مفكر"
 - id: "con-r-greater-than-g-piketty", title: "The r > g Law", type: "مفهوم"

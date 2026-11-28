@@ -14,7 +14,7 @@ economic_school: "Study of Long Economic Cycles"
 active_start: 1922
 active_end: 1938
 edges:
-- rel: "belongs_to", target: "Schumpeterian Evolutionary Economics", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-schumpeterian-evolutionary-economics", target_type: "مدرسة"
 related:
 - id: "sch-schumpeterian-evolutionary-economics", title: "Schumpeterian Evolutionary Economics", type: "مدرسة"
 - id: "thk-alexander-chayanov", title: "Alexander Chayanov", type: "مفكر"

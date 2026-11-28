@@ -14,7 +14,7 @@ original_language: "English"
 active_start: 1993
 active_end: 1993
 edges:
-  - rel: "belongs_to", target: "Postcolonial Critique of Anthropology", target_type: "مدرسة"
+  - rel: "belongs_to", target: "sch-postcolonial-critique-anthropology", target_type: "مدرسة"
 related:
   - id: "thk-talal-asad", title: "Talal Asad", type: "مفكر"
 gaps: []

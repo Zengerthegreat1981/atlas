@@ -10,7 +10,7 @@ crumb: "Linguistics ← Debates ← The Sign Language Legitimacy Debate"
 active_start: 1960
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Sign Language Linguistics", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-sign-language-linguistics", target_type: "مدرسة"
 related:
 - id: "sch-sign-language-linguistics", title: "Sign Language Linguistics", type: "مدرسة"
 - id: "br-neurolinguistics", title: "Neurolinguistics: The Brain Structures of Language", type: "فرع"

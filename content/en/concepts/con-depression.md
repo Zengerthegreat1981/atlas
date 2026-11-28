@@ -9,7 +9,7 @@ title: "Depression"
 en: "Depression"
 crumb: "Depression"
 edges:
-  - rel: "discussed_in", target: "Existentialist School", target_type: "مدرسة"
+  - rel: "discussed_in", target: "sch-existentialism", target_type: "مدرسة"
 related:
   - id: "con-meaninglessness", title: "Meaninglessness", type: "مفهوم"
   - id: "con-despair", title: "Despair", type: "مفهوم"

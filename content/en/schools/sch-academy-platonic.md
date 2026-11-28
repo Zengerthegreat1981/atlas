@@ -16,8 +16,8 @@ active_start: -387
 active_end: 529
 edges:
 - rel: "evolved_into", target: "Middle Platonism", target_type: "مدرسة"
-- rel: "evolved_into", target: "Academic Skepticism", target_type: "مدرسة"
-- rel: "evolved_into", target: "Neoplatonism", target_type: "مدرسة"
+- rel: "evolved_into", target: "sch-academic-skepticism", target_type: "مدرسة"
+- rel: "evolved_into", target: "sch-neoplatonism", target_type: "مدرسة"
 related:
 - id: "sch-sophistry", title: "Sophistry", type: "مدرسة"
 - id: "sch-aristotelianism", title: "Peripatetic / Aristotelian School (Aristotelianism)", type: "مدرسة"

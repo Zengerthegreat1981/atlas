@@ -10,7 +10,7 @@ crumb: "Philosophy ← Debates ← The Mind–Body Problem Debate: Dualism versu
 active_start: 1641
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Analytic Philosophy of Mind (umbrella)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-phil-mind-analytic", target_type: "مدرسة"
 related:
 - id: "thk-descartes", title: "René Descartes", type: "مفكر"
 - id: "con-hard-problem-of-consciousness", title: "The Hard Problem of Consciousness and Qualia", type: "مفهوم"

@@ -11,7 +11,7 @@ active_start: null
 active_end: "مستمر"
 language: "English"
 edges:
-- rel: "belongs_to", target: "Mood Disorders", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-mood-disorders", target_type: "مدرسة"
 - rel: "relates_to", target: "Depression Subtypes", target_type: "مفهوم"
 - rel: "relates_to", target: "Bipolar Spectrum", target_type: "مفهوم"
 - rel: "relates_to", target: "Ibn Sina", target_type: "مفكر"

@@ -13,7 +13,7 @@ published_year: 2011
 publisher: "Melville House"
 edition_language: "English"
 edges:
-- rel: "belongs_to", target: "Anthropological Political Economy", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-anthropological-political-economy", target_type: "مدرسة"
 related:
 - id: "con-gift-economy", title: "Gift Economy", type: "مفهوم"
 - id: "thk-graeber", title: "David Graeber", type: "مفكر"

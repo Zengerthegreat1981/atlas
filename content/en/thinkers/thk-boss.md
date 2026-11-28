@@ -11,7 +11,7 @@ dates: "Switzerland · 1903–1990"
 active_start: 1935
 active_end: 1990
 edges:
-  - rel: "belongs_to", target: "Existentialist School", target_type: "مدرسة"
+  - rel: "belongs_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
   - id: "thk-binswanger", title: "Binswanger", type: "مفكر"
   - id: "thk-heidegger", title: "Heidegger", type: "مفكر"

@@ -10,7 +10,7 @@ crumb: "Bridges ← Relations ← Damasio's Somatic Markers and Spinoza's Theory
 active_start: 1994
 active_end: "مستمر"
 edges:
-- rel: "relates_to", target: "Spinozism", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-spinozism", target_type: "مدرسة"
 - rel: "relates_to", target: "Biological Neuroscience", target_type: "مدرسة"
 related:
 - id: "rel-confucian-self-cultivation-family-systems", title: "Confucian Self-Cultivation and Bowen Family Systems Therapy", type: "علاقة بين مدرستين"

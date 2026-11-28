@@ -4,6 +4,7 @@ id: "SCH-0314"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"
+quality: "unverified"
 title: "Contemporary Ubuntu Philosophy"
 en: "Contemporary Ubuntu Philosophy"
 crumb: "Philosophy ← Schools ← Contemporary Ubuntu"
@@ -44,7 +45,7 @@ Ubuntu has become a cornerstone of the national narrative of the new South Afric
 
 ## Limits and Criticism
 
-Critics hold that contemporary ubuntu has become a flexible general slogan used to embellish the policies of the state and corporations. Matolino and Kwindingwi wrote an article titled "The End of Ubuntu" (2013) in which they argued that the concept is incapable of confronting poverty and corruption, and that it is closer to a distant moral ideal than to the reality of society. Others have pointed out that the idea may be used to silence protest in the name of harmony, or to oblige victims to reconcile before justice. Christian Gade, in a survey of how African writers have defined ubuntu, showed that the concept is understood in divergent ways. The problem of generalizing from the experience of specific societies to an all-embracing "African philosophy" remains.
+Critics hold that contemporary ubuntu has become a flexible general slogan used to embellish the policies of the state and corporations. Matolino and Kwindingwi wrote an article titled "The End of Ubuntu" (2013) in which they argued that the concept is incapable of confronting poverty and corruption, and that it is closer to a distant moral ideal than to the reality of society. Others have pointed out that the idea may be used to silence protest in the name of harmony, or to oblige victims to reconcile before justice. Christian Gade, in a study of how South Africans of African descent answer the question of what ubuntu is (2012), showed that the concept is understood in divergent ways. The problem of generalizing from the experience of specific societies to an all-embracing "African philosophy" remains.
 
 ## Restorative Justice and Law
 

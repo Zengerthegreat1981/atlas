@@ -18,7 +18,7 @@ publication_year: 2011
 original_language: "English"
 edges:
 - rel: "belongs_to", target: "Cognitive Behavioral Therapy", target_type: "مدرسة"
-- rel: "authored_by", target: "Daniel Kahneman", target_type: "مفكر"
+- rel: "authored_by", target: "thk-kahneman", target_type: "مفكر"
 related:
 - id: "stu-kahneman-tversky-heuristics-biases", title: "Kahneman and Tversky's Study of Heuristics and Biases (1974)", type: "دراسة وبحث"
 gaps: []

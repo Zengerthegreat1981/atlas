@@ -8,7 +8,7 @@ title: "Trauma"
 en: "Trauma"
 crumb: "Trauma"
 edges:
-  - rel: "discussed_in", target: "Existentialist School", target_type: "مدرسة"
+  - rel: "discussed_in", target: "sch-existentialism", target_type: "مدرسة"
 related:
   - id: "con-anxiety-existential", title: "Existential Anxiety", type: "مفهوم"
   - id: "con-responsibility", title: "Responsibility", type: "مفهوم"

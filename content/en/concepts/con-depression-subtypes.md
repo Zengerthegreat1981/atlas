@@ -11,7 +11,7 @@ active_start: 1980
 active_end: "مستمر"
 language: "English"
 edges:
-- rel: "belongs_to", target: "Mood Disorders", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-mood-disorders", target_type: "مدرسة"
 related:
 - id: "sch-mood-disorders", title: "Mood Disorders", type: "مدرسة"
 gaps: []

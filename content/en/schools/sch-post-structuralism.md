@@ -4,6 +4,7 @@ id: "SCH-0250"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"
+quality: "unverified"
 title: "Post-Structuralism"
 en: "Post-Structuralism"
 crumb: "Philosophy ← Schools ← Post-Structuralism"
@@ -15,9 +16,8 @@ active_start: 1966
 active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "Structuralism", target_type: "مدرسة"
-- rel: "split_into", target: "Deconstruction", target_type: "مدرسة"
+- rel: "split_into", target: "sch-deconstruction", target_type: "مدرسة"
 related:
-- id: "sch-post-structuralism", title: "Structuralism", type: "مدرسة"
 - id: "sch-deconstruction", title: "Deconstruction", type: "مدرسة"
 - id: "sch-postmodernism-philosophical", title: "Philosophical Postmodernism", type: "مدرسة"
 - id: "sch-frankfurt-school", title: "Critical Theory / The Frankfurt School", type: "مدرسة"

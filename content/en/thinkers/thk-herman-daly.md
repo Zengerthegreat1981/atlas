@@ -14,7 +14,7 @@ economic_school: "Ecological economics"
 active_start: 1968
 active_end: 2022
 edges:
-- rel: "belongs_to", target: "Ecological and Degrowth Economics", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-ecological-and-degrowth-economics", target_type: "مدرسة"
 related:
 - id: "sch-ecological-and-degrowth-economics", title: "Ecological and Degrowth Economics", type: "مدرسة"
 - id: "con-steady-state-economy", title: "Steady-State Economy", type: "مفهوم"

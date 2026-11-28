@@ -9,7 +9,7 @@ en: "Franz Boas"
 crumb: "Anthropology ← Methods & Epistemology ← Franz Boas"
 dates: "Germany-USA · 1858-1942"
 edges:
-  - rel: "belongs_to", target: "Cultural Relativism", target_type: "مدرسة"
+  - rel: "belongs_to", target: "con-cultural-relativism-boas", target_type: "مدرسة"
   - rel: "developed_method", target: "Ethnographic Fieldwork", target_type: "مفهوم"
   - rel: "pioneered", target: "Four-Field Anthropology", target_type: "مفهوم"
 related:

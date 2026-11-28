@@ -8,7 +8,7 @@ title: "Aging"
 en: "Aging"
 crumb: "Aging"
 edges:
-  - rel: "discussed_in", target: "Existentialist School", target_type: "مدرسة"
+  - rel: "discussed_in", target: "sch-existentialism", target_type: "مدرسة"
 related:
   - id: "con-mortality", title: "Mortality", type: "مفهوم"
   - id: "con-death", title: "Death", type: "مفهوم"

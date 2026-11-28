@@ -9,7 +9,7 @@ en: "Schism and Continuity in an African Society"
 crumb: "Anthropology ← Works ← Schism and Continuity"
 dates: "1957 · Turner"
 edges:
-  - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
+  - rel: "belongs_to", target: "fld-anthropology", target_type: "مجال"
 related:
   []
 gaps: []

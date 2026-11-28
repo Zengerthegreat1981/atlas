@@ -14,7 +14,7 @@ legal_tradition: "Law and economics"
 active_start: 1973
 active_end: 2026
 edges:
-- rel: "belongs_to", target: "Law and Economics", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-law-and-economics", target_type: "مدرسة"
 related:
 - id: "sch-law-and-economics", title: "Law and Economics", type: "مدرسة"
 - id: "thk-ronald-coase", title: "Ronald H. Coase", type: "مفكر"

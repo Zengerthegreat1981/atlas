@@ -9,7 +9,7 @@ title: "Authenticity (Existentialist School View)"
 en: "Authenticity (Existentialist School View)"
 crumb: "Psychology ← Concepts ← Authenticity (Existentialist School View)"
 edges:
-  - rel: "discussed_in", target: "Existentialist School", target_type: "مدرسة"
+  - rel: "discussed_in", target: "sch-existentialism", target_type: "مدرسة"
 related:
   - id: "con-authenticity-inauthenticity", title: "Authenticity-Inauthenticity Dialectic", type: "مفهوم"
   - id: "thk-heidegger", title: "Heidegger", type: "مفكر"

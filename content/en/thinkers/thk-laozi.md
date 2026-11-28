@@ -4,6 +4,7 @@ id: "THK-1431"
 type: "مفكر"
 part: "philosophy"
 level: "مبتدئ"
+quality: "unverified"
 title: "Laozi (Lao Dan)"
 en: "Laozi (Lao Dan)"
 crumb: "Philosophy ← Thinkers ← Laozi (Lao Dan)"
@@ -14,7 +15,7 @@ active_start: -600
 active_end: -500
 active_source: "lifespan"
 edges:
-- rel: "belongs_to", target: "Philosophical Daoism", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-daoism-philosophical", target_type: "مدرسة"
 related:
 - id: "sch-daoism-philosophical", title: "Philosophical Daoism", type: "مدرسة"
 - id: "thk-zhuangzi", title: "Zhuangzi", type: "مفكر"
@@ -36,7 +37,7 @@ A traditional figure to whom the founding of philosophical Daoism and the author
 
 ## The Traditional Account
 
-The historian Sima Qian reports in the *Records of the Grand Historian* that Lao Dan was an archivist in the court of Zhou, and was from the southern land of Chu. He saw the decline of Zhou and headed west, and at the Hangu Pass the gatekeeper Yin Xi asked him to write down what he had; he wrote a book of about five thousand characters and then went on, and his fate was not known. Sima Qian also mentions two other possibilities about Laozi's identity, and this hesitation shows that the matter was disputed in his own time. Afterward, the Daoist religion raised him to the rank of "Laojun", a deity, and later texts portrayed him as a teacher of the barbarians in the west, so that he became part of a controversy between Daoism and Buddhism.
+The historian Sima Qian reports in the *Records of the Grand Historian* that Lao Dan was an archivist in the court of Zhou, and was from the southern land of Chu. He saw the decline of Zhou and headed west, and at a frontier pass (traditionally identified as the Hangu Pass; the *Records* do not name it) the gatekeeper Yin Xi asked him to write down what he had; he wrote a book of about five thousand characters and then went on, and his fate was not known. Sima Qian also mentions two other possibilities about Laozi's identity, and this hesitation shows that the matter was disputed in his own time. Afterward, the Daoist religion raised him to the rank of "Laojun", a deity, and later texts portrayed him as a teacher of the barbarians in the west, so that he became part of a controversy between Daoism and Buddhism.
 
 ## The Text and Commentaries
 
@@ -49,7 +50,7 @@ The text of the *Dao De Jing* is often read as a counterpoint to the Confucian e
 ## Limits
 
 - Laozi's historical existence is a matter of radical disagreement. Some academics (such as A. C. Graham) hold that "Laozi" is a legendary figure and that the DDJ was written by "Laozian philosophers" whose names are unknown. Others, following Sima Qian, accept a historical Lao Dan, though the relation of this figure to the text remains uncertain.
-- The traditional encounter between Laozi and Confucius, as related in the *Zhuangzi* and in Sima Qian's *Records of the Historian*, is mythical rather than historical in character.
+- The traditional encounter between Laozi and Confucius, as related in the *Zhuangzi* and in Sima Qian's *Records of the Historian*, is treated by many scholars as legendary rather than historical.
 - Archaeological discoveries, including the Guodian slips (around 300 BCE) and the Mawangdui manuscripts (168 BCE), have shown versions older than the text, but they do not settle the author's identity.
 
 ## His Most Important Works (Attributed)

@@ -13,7 +13,7 @@ active_start: 1960
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "Systemic/Family Therapy", target_type: "مدرسة"
-- rel: "developed_by", target: "Salvador Minuchin", target_type: "مفكر"
+- rel: "developed_by", target: "thk-sminuchin", target_type: "مفكر"
 related:
 - id: "sch-systemic-family", title: "Systemic/Family Therapy", type: "مدرسة"
 - id: "thk-sminuchin", title: "Salvador Minuchin", type: "مفكر"

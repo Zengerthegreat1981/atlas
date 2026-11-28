@@ -79,7 +79,6 @@ related:
   - id: "stu-potlatch-kwakwakawakw", title: "Potlatch Among Northwest Coast Peoples", type: "دراسة"
   - id: "stu-yanomami-ethnography-chagnon", title: "Yanomami Ethnography and Fieldwork", type: "دراسة"
   - id: "stu-african-initiation-rituals", title: "African Initiation Rituals and Life Transitions", type: "دراسة"
-  - id: "stu-nuer-evans-pritchard", title: "The Nuer", type: "دراسة"
   - id: "dbt-positionality-reflexivity-fieldwork", title: "Positionality and Reflexivity in Ethnographic Fieldwork", type: "جدل"
   - id: "dbt-nature-culture-anthropology", title: "Nature vs. Culture", type: "جدل"
   - id: "dbt-anthropology-militarization", title: "Anthropology & Militarization", type: "جدال"

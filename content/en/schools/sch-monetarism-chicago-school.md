@@ -15,7 +15,7 @@ policy_orientation: "Market-oriented: a fixed monetary rule in place of discreti
 active_start: 1956
 active_end: "مستمر"
 edges:
-- rel: "evolved_from", target: "Classical Political Economy", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-classical-political-economy", target_type: "مدرسة"
 related:
 - id: "thk-milton-friedman", title: "Milton Friedman", type: "مفكر"
 - id: "wrk-a-monetary-history-of-the-united-states", title: "A Monetary History of the United States, 1867–1960", type: "عمل / كتاب"

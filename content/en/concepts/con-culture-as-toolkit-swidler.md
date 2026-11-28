@@ -10,7 +10,7 @@ crumb: "Sociology ← Concepts ← Culture as a Toolkit"
 active_start: 1986
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Sociology of Culture and Lifestyles", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-sociology-of-culture-lifestyles", target_type: "مدرسة"
 related:
 - id: "sch-sociology-of-culture-lifestyles", title: "Sociology of Culture and Lifestyles", type: "مدرسة"
 - id: "thk-ann-swidler", title: "Ann Swidler", type: "مفكر"

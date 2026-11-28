@@ -4,12 +4,13 @@ id: "THK-0315"
 type: "مفكر"
 part: philosophy
 level: "متقدم"
+quality: "unverified"
 title: "Nikolai Berdyaev"
 en: "Nikolai Berdyaev"
 crumb: "Existential Philosophy ← People ← Nikolai Berdyaev"
 dates: "Kyiv / Paris · 1874–1948"
 edges:
-  - rel: "belongs_to", target: "Existentialist School", target_type: "مدرسة"
+  - rel: "belongs_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
   - id: "thk-marcel", title: "Gabriel Marcel", type: "مفكر"
   - id: "thk-shestov", title: "Lev Shestov", type: "مفكر"

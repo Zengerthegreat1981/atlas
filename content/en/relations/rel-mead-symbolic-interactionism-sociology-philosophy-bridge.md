@@ -10,7 +10,7 @@ crumb: "Bridges ← Relations ← George Herbert Mead Between Pragmatism and Sym
 active_start: 1934
 active_end: "مستمر"
 edges:
-- rel: "relates_to", target: "George Herbert Mead", target_type: "مفكر"
+- rel: "relates_to", target: "thk-george-herbert-mead", target_type: "مفكر"
 - rel: "relates_to", target: "Pragmatist Foundations of Symbolic Interactionism", target_type: "مدرسة"
 related:
 - id: "thk-george-herbert-mead", title: "George Herbert Mead (founder of social behaviorism)", type: "مفكر"

@@ -11,7 +11,7 @@ crumb: "Sociology ← Debates ← The Disengagement vs. Life Course Debate"
 active_start: 1961
 active_end: 1974
 edges:
-- rel: "belongs_to", target: "Sociology of Aging & Life Course", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-sociology-of-aging-life-course", target_type: "مدرسة"
 related:
 - id: "thk-glen-elder", title: "Glen Elder", type: "مفكر"
 gaps: []

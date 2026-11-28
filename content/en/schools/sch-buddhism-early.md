@@ -4,6 +4,7 @@ id: "SCH-0052"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"
+quality: "unverified"
 title: "Early Buddhism (Pre-sectarian)"
 en: "Early Buddhism (Pre-sectarian)"
 crumb: "Philosophy ← Schools ← Early Buddhism"
@@ -25,7 +26,7 @@ The first Buddhist teachings before the sectarian divisions, that is, during the
 
 ## The Founder and Context
 
-Siddhartha Gautama was born of the Shakya clan in Kapilavastu on the borders of present-day Nepal. Traditionally his life is dated between 563 and 483 BCE, but modern research, including the Göttingen conference (1988) published by Heinz Bechert, tends to place his death in the fifth or early fourth century BCE. Tradition relates that he left palace life at twenty-nine, attained enlightenment at thirty-five under the Bodhi tree at Bodh Gaya, and taught for about forty-five years until his death at Kushinagar. His teaching came in the climate of the Shramanas, the wandering ascetics of the Ganges valley, who denied the authority of the Vedas and offered different solutions for salvation, as did the Jains, the Ajivikas, and the materialists.
+Siddhartha Gautama was born into the Shakya clan, by tradition at Lumbini near the Shakya centre of Kapilavastu, in the borderlands of present-day Nepal. Traditionally his life is dated between 563 and 483 BCE, but modern research, including the Göttingen conference (1988) published by Heinz Bechert, tends to place his death in the fifth or early fourth century BCE. Tradition relates that he left palace life at twenty-nine, attained enlightenment at thirty-five under the Bodhi tree at Bodh Gaya, and taught for about forty-five years until his death at Kushinagar. His teaching came in the climate of the Shramanas, the wandering ascetics of the Ganges valley, who denied the authority of the Vedas and offered different solutions for salvation, as did the Jains, the Ajivikas, and the materialists.
 
 ## Central Ideas
 
@@ -43,7 +44,7 @@ The teachings were transmitted orally in the community of monks. The first counc
 
 ## Disciples and Community
 
-Among his direct disciples were Mahakassapa, who presided over the first council; Ananda, who memorized the discourses and, through the intercession of Prajapati, secured the admission of nuns; Sariputta, in wisdom; Moggallana, in meditative powers; Anuruddha; and Upali, who recited the Vinaya. The monks and nuns established a community (sangha) that relied on alms and wandering, then residence during the rainy season. In the third century BCE the Emperor Ashoka spread the teaching and sent missions to Sri Lanka and the northwest, a step that is generally seen as important in Buddhism's spread beyond its region of origin.
+Among his direct disciples were Mahakassapa, who presided over the first council; Ananda, who memorized the discourses and, interceding on behalf of Prajapati, secured the admission of nuns; Sariputta, in wisdom; Moggallana, in meditative powers; Anuruddha; and Upali, who recited the Vinaya. The monks and nuns established a community (sangha) that relied on alms and wandering, then residence during the rainy season. In the third century BCE the Emperor Ashoka spread the teaching and sent missions to Sri Lanka and the northwest, a step that is generally seen as important in Buddhism's spread beyond its region of origin.
 
 ## Influence and the Connection to Arab Heritage
 

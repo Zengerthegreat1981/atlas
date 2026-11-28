@@ -13,7 +13,7 @@ country: "United States"
 language: "English"
 part: "sociology"
 edges:
-- rel: "belongs_to", target: "Sociology of Aging & Life Course", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-sociology-of-aging-life-course", target_type: "مدرسة"
 related:
 - id: "sch-sociology-of-aging-life-course", title: "Sociology of Aging & Life Course", type: "مدرسة"
 - id: "con-life-course-theory-elder", title: "Elder's Life Course Theory", type: "مفهوم"

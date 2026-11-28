@@ -9,7 +9,7 @@ en: "Debt and Obligation"
 crumb: "Anthropology ← Economy and Exchange ← Debt and Obligation"
 dates: ""
 edges:
-  - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
+  - rel: "belongs_to", target: "fld-anthropology", target_type: "مجال"
 related:
   []
 gaps:

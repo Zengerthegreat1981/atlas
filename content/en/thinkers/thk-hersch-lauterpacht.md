@@ -14,7 +14,7 @@ legal_tradition: "Liberal positivism in international law"
 active_start: 1927
 active_end: 1960
 edges:
-- rel: "belongs_to", target: "International Law Theory", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-international-law-theory", target_type: "مدرسة"
 related:
 - id: "sch-international-law-theory", title: "International Law Theory", type: "مدرسة"
 gaps: []

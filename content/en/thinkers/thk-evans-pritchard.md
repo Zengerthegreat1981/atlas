@@ -10,7 +10,7 @@ en: "E.E. Evans-Pritchard"
 crumb: "Anthropology ← Methods & Epistemology ← E.E. Evans-Pritchard"
 dates: "UK · 1902-1973"
 edges:
-  - rel: "belongs_to", target: "British Functionalism", target_type: "مدرسة"
+  - rel: "belongs_to", target: "sch-british-functionalism", target_type: "مدرسة"
   - rel: "developed_method", target: "Segmentary Lineage Analysis", target_type: "مفهوم"
   - rel: "pioneered", target: "Political Anthropology", target_type: "مفهوم"
 related:

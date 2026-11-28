@@ -14,7 +14,7 @@ author_slug: "thk-ibn-sina"
 publication_year: 1027
 original_language: "Arabic"
 edges:
-- rel: "written_by", target: "Ibn Sina (Avicenna)", target_type: "مفكر"
+- rel: "authored_by", target: "Ibn Sina (Avicenna)", target_type: "مفكر"
 - rel: "belongs_to", target: "Islamic Peripatetic Philosophy", target_type: "مدرسة"
 related:
 - id: "thk-ibn-sina", title: "Abu Ali al-Husayn ibn Abd Allah ibn Sina", type: "مفكر"

@@ -4,6 +4,7 @@ id: "SCH-0330"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"
+quality: "unverified"
 title: "School of Mind-Heart (Xinxue / Lu-Wang)"
 en: "School of Mind-Heart (Xinxue / Lu-Wang)"
 crumb: "Philosophy ← Schools ← School of Mind-Heart (Xinxue / Lu-Wang)"
@@ -45,11 +46,11 @@ Wang Shouren (Yangming) was born in Zhejiang. He served as an official and milit
 
 ## Branches and Disagreement
 
-After Wang's death his followers divided: the "Zhejiang school" (Qian Dehong and Wang Ji) saw in the phrase "neither good nor evil" a liberation closer to Buddhism; the "Jiangyou school" (Nie Bao and Luo Hongxian) stressed effort and discipline; and the "Taizhou school", founded by Wang Gen (1483–1541), spread among the common people and reached the furthest critique of the establishment with Li Zhi (1527–1602). Liu Zongzhou (1578–1645) then came and criticized the tendency to "wildness" among some of them, stressed "watchfulness in solitude" (shen du), and fasted until he died after the fall of the Ming. Critics in the seventeenth century, among them Gu Yanwu, said that "empty talk about the heart-mind and nature" weakened the state, and the "Kaozheng" school returned to textual research.
+After Wang's death his followers divided: within the "Zhejiang school", Qian Dehong and Wang Ji differed over the Four-Sentence Teaching: Qian accepted it as the master's doctrine, while Wang Ji doubted that it was the ultimate formulation and carried "neither good nor evil" further, in a direction closer to Buddhism; the "Jiangyou school" (Nie Bao and Luo Hongxian) stressed effort and discipline; and the "Taizhou school", founded by Wang Gen (1483–1541), spread among the common people and reached the furthest critique of the establishment with Li Zhi (1527–1602). Liu Zongzhou (1578–1645) then came and criticized the tendency to "wildness" among some of them, stressed "watchfulness in solitude" (shen du), and fasted until he died after the fall of the Ming. Critics in the seventeenth century, among them Gu Yanwu, said that "empty talk about the heart-mind and nature" weakened the state, and the "Kaozheng" school returned to textual research.
 
 ## Influence in East Asia and the Islamic World
 
-The school passed to Japan, where it became known as "Yōmeigaku" through Nakae Tōju (1608–1648) and Kumazawa Banzan (1619–1691), and inspired Ōshio Heihachirō in the Osaka uprising of 1837 and some thinkers of the Meiji reform such as Yoshida Shōin. In Korea Yi Hwang (Toegye) criticized it in the sixteenth century, while Jeong Jedu (1649–1736) adopted it. In the twentieth century New Confucian thinkers such as Mou Zongsan and Tang Junyi revived it. Muslim China produced an attempt to connect Islam and Neo-Confucianism: Wang Daiyu and Liu Zhi (c. 1660–1730) wrote in Chinese, drawing on Persian Islamic Sufi works such as those of Najm al-Dīn Rāzī and Jāmī and comparing them with the ideas of heart-mind and principle in Neo-Confucianism, as Sachiko Murata shows in her study.
+The school passed to Japan, where it became known as "Yōmeigaku" through Nakae Tōju (1608–1648) and Kumazawa Banzan (1619–1691), and inspired Ōshio Heihachirō in the Osaka uprising of 1837 and figures of the late Tokugawa movement that led to the Meiji Restoration, such as Yoshida Shōin (1830–1859). In Korea Yi Hwang (Toegye) criticized it in the sixteenth century, while Jeong Jedu (1649–1736) adopted it. In the twentieth century New Confucian thinkers such as Mou Zongsan and Tang Junyi revived it. Muslim China produced an attempt to connect Islam and Neo-Confucianism: Wang Daiyu and Liu Zhi (c. 1660–1730) wrote in Chinese, drawing on Persian Islamic Sufi works such as those of Najm al-Dīn Rāzī and Jāmī and comparing them with the ideas of heart-mind and principle in Neo-Confucianism, as Sachiko Murata shows in her study.
 
 ## Limits
 

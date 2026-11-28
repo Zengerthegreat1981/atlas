@@ -4,6 +4,7 @@ id: "SCH-0105"
 type: "مدرسة"
 part: "philosophy"
 level: "مبتدئ"
+quality: "unverified"
 title: "Existentialism"
 en: "Existentialism"
 crumb: "Philosophy ← Schools ← Existentialism"
@@ -14,7 +15,7 @@ cultural_origin: "european"
 active_start: 1930
 active_end: 1990
 edges:
-- rel: "split_into", target: "Atheist Existentialism", target_type: "مدرسة"
+- rel: "split_into", target: "sch-existentialism-atheist", target_type: "مدرسة"
 - rel: "split_into", target: "Religious (Christian) Existentialism", target_type: "مدرسة"
 - rel: "evolved_into", target: "Absurdism", target_type: "مدرسة"
 related:

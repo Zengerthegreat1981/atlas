@@ -15,7 +15,7 @@ policy_orientation: "Practical partial analysis of a specific market, the founda
 active_start: 1890
 active_end: 1930
 edges:
-- rel: "evolved_from", target: "Marginal Revolution", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-marginal-revolution", target_type: "مدرسة"
 related:
 - id: "br-new-economic-geography", title: "New Economic Geography: Industrial Clustering and Increasing Returns in Space", type: "تيار"
 - id: "br-endogenous-growth-theory", title: "Endogenous Growth Theory: Knowledge and Innovation as a Self-Sustaining Engine of Growth", type: "تيار"

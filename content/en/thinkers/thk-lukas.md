@@ -4,6 +4,7 @@ id: "THK-0319"
 type: "مفكر"
 part: "philosophy"
 level: "مبتدئ"
+quality: "unverified"
 title: "Elisabeth Lukas"
 en: "Elisabeth Lukas"
 crumb: "Existentialist School ← People ← Elisabeth Lukas"
@@ -13,7 +14,7 @@ language: "German"
 active_start: 1972
 active_end: مستمر
 edges:
-  - rel: "belongs_to", target: "Existentialist School", target_type: "مدرسة"
+  - rel: "belongs_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
   - id: "thk-frankl", title: "Viktor Frankl", type: "مفكر"
   - id: "thk-langle", title: "Alfried Längle", type: "مفكر"
@@ -26,7 +27,7 @@ Elisabeth Lukas (born 12 November 1942 in Vienna) is an Austrian clinical psycho
 
 ## Biography and Academic Career
 
-Lukas studied psychology at the University of Vienna, where she attended Viktor Frankl's lectures and became his student and close associate. She completed her doctorate (Dr. phil.) with a dissertation introducing the **Logo-Test**, a standardized psychometric instrument designed to assess an individual's degree of meaning fulfillment versus existential frustration.
+Lukas studied psychology at the University of Vienna, where she attended Viktor Frankl's lectures and became his student and close associate. She completed her doctorate (Dr. phil.) in 1972 with a dissertation on logotherapy as a theory of personality (*Logotherapie als Persönlichkeitstheorie*), and as a doctoral student developed the **Logo-Test**, a standardized psychometric instrument designed to assess an individual's degree of meaning fulfillment versus existential frustration.
 
 After completing clinical training, Lukas later moved to Germany, working in clinical psychology, family guidance, and psychotherapy. In 1986, she founded the South German Institute of Logotherapy (Süddeutsches Institut für Logotherapie) in Fürstenfeldbruck near Munich, which she directed until 2003. She has taught as a guest lecturer at universities worldwide and authored numerous books, many translated into other languages, making logotherapeutic insights accessible to therapists, healthcare workers, educators, and the general public. In 2003, she returned to Austria, settling in Vorarlberg, where she continues to write and mentor logotherapists.
 
@@ -47,7 +48,8 @@ Within the wider existential-humanistic landscape, Lukas represents the orthodox
 ## Major Works
 
 - *Auch dein Leben hat Sinn: Logotherapeutische Wege zur Gesundung* (1980; English translation: *Meaningful Living*, 1984)
-- *Von der Trotzmacht des Geistes: Menschenbild und Methoden der Logotherapie* (1986; English translation: *Meaning in Suffering: Comfort in Crisis through Logotherapy*, 1986)
+- *Von der Trotzmacht des Geistes: Menschenbild und Methoden der Logotherapie* (1986)
+- *Meaning in Suffering: Comfort in Crisis through Logotherapy* (1986), the English edition of *Auch dein Leiden hat Sinn*
 - *Lehrbuch der Logotherapie: Menschenbild und Methoden* (Munich: Profil Verlag, 1998)
 
 ## Sources

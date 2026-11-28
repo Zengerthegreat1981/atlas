@@ -17,7 +17,7 @@ cultural_origin: "european"
 active_start: 1990
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Cognitive Science of Religion", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-science-of-religion", target_type: "مدرسة"
 related:
 - id: "sch-cognitive-science-of-religion", title: "Cognitive Science of Religion", type: "مدرسة"
 - id: "con-minimally-counterintuitive-concepts", title: "Minimally Counterintuitive Concepts", type: "مفهوم"

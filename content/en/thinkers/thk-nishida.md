@@ -13,7 +13,7 @@ country: "Japan"
 language: "Japanese"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "Kyoto School", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-kyoto", target_type: "مدرسة"
 related:
 - id: "sch-kyoto", title: "Kyoto School", type: "مدرسة"
 - id: "thk-husserl", title: "Edmund Husserl", type: "مفكر"

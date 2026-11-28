@@ -4,6 +4,7 @@ id: "SCH-0253"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"
+quality: "unverified"
 title: "Philosophical Postmodernism"
 en: "Philosophical Postmodernism"
 crumb: "Philosophy ← Schools ← Philosophical Postmodernism"
@@ -14,7 +15,7 @@ active_start: 1979
 active_end: "مستمر"
 cultural_origin: "french"
 edges:
-- rel: "evolved_from", target: "Post-Structuralism", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-post-structuralism", target_type: "مدرسة"
 related:
 - id: "sch-post-structuralism", title: "Post-Structuralism", type: "مدرسة"
 - id: "sch-deconstruction", title: "Deconstruction", type: "مدرسة"
@@ -31,7 +32,7 @@ Philosophical postmodernism is a critical stance that does not describe a histor
 
 ## Emergence of the Term
 
-The term was first used in art, architecture and literature, for example by the Egyptian-born critic Ihab Hassan in *The Dismemberment of Orpheus* (1971) and by Charles Jencks in *The Language of Post-Modern Architecture* (1977). Jean-François Lyotard then carried the term into philosophy in *The Postmodern Condition* (1979), a report on knowledge in advanced societies commissioned from him by the Quebec university council. It was translated into Arabic in the 1990s.
+Before it entered philosophy, the term already circulated in the arts and history; it was taken up, for example, by the Egyptian-born critic Ihab Hassan in *The Dismemberment of Orpheus* (1971) and by Charles Jencks in *The Language of Post-Modern Architecture* (1977). Jean-François Lyotard then carried the term into philosophy in *The Postmodern Condition* (1979), a report on knowledge in advanced societies commissioned from him by the Quebec university council. It was translated into Arabic in the 1990s.
 
 ## Arab Reception
 

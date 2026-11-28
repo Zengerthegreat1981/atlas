@@ -9,7 +9,7 @@ en: "Robert H. Lowie"
 crumb: "Anthropology ← The American School ← Boasian Cultural Relativism ← Robert H. Lowie"
 dates: "USA · 1883-1957"
 edges:
-  - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
+  - rel: "belongs_to", target: "fld-anthropology", target_type: "مجال"
 related:
   []
 gaps:

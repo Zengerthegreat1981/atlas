@@ -12,7 +12,7 @@ crumb: "Anthropology ← Concepts ← Moka Exchange"
 evidence_level: "well-established"
 edges:
 - rel: "belongs_to", target: "Maussian Gift Theory", target_type: "مدرسة"
-- rel: "belongs_to", target: "Feminist Anthropology", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-feminist-anthropology", target_type: "مدرسة"
 related:
 - id: "con-gift-economy", title: "Gift Economy", type: "مفهوم"
 - id: "stu-strathern-hagen-ceremonial-exchange", title: "Hagen Ceremonial Exchange: Women and Men in Melanesia", type: "دراسة"

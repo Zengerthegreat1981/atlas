@@ -11,7 +11,7 @@ economic_school: "Rentier state theory"
 active_start: 1952
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Rentier State Theory", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-rentier-state-theory", target_type: "مدرسة"
 related:
 - id: "sch-rentier-state-theory", title: "Rentier State Theory", type: "مدرسة"
 - id: "con-rentier-state", title: "The Rentier State Concept", type: "مفهوم"

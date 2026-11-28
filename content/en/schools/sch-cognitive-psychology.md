@@ -14,7 +14,7 @@ language: "English"
 active_start: 1956
 active_end: "مستمر"
 edges:
-- rel: "evolved_from", target: "Behaviorism", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-behaviorism", target_type: "مدرسة"
 related:
 - id: "sch-behaviorism", title: "Behaviorism", type: "مدرسة"
 - id: "sch-cognitive-behavioral", title: "Cognitive Behavioral Therapy (CBT)", type: "مدرسة"

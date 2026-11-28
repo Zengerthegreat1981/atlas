@@ -14,7 +14,7 @@ economic_school: "Marshallian Neoclassical Economics"
 active_start: 1890
 active_end: 1924
 edges:
-- rel: "belongs_to", target: "Marshallian Neoclassical Economics", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-marshallian-neoclassical-economics", target_type: "مدرسة"
 related:
 - id: "sch-marshallian-neoclassical-economics", title: "Marshallian Neoclassical Economics", type: "مدرسة"
 - id: "con-consumer-surplus", title: "Consumer Surplus", type: "مفهوم"

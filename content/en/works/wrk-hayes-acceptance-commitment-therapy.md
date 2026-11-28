@@ -15,8 +15,8 @@ author_slug: "thk-lstevenhayes"
 publication_year: 1999
 original_language: "English"
 edges:
-- rel: "belongs_to", target: "Acceptance and Commitment Therapy (ACT)", target_type: "مدرسة"
-- rel: "authored_by", target: "Steven C. Hayes", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-act", target_type: "مدرسة"
+- rel: "authored_by", target: "thk-lstevenhayes", target_type: "مفكر"
 related:
 - id: "thk-lstevenhayes", title: "Steven C. Hayes", type: "مفكر"
 - id: "sch-act", title: "Acceptance and Commitment Therapy (ACT)", type: "مدرسة"

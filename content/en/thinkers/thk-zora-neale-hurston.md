@@ -9,7 +9,7 @@ en: "Zora Neale Hurston"
 crumb: "Anthropology ← American Anthropology ← Zora Neale Hurston"
 dates: "USA · 1891-1960"
 edges:
-  - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
+  - rel: "belongs_to", target: "fld-anthropology", target_type: "مجال"
 related:
   []
 gaps:

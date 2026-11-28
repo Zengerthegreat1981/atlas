@@ -16,8 +16,8 @@ legal_tradition: "Analytical legal positivism"
 active_start: 1959
 active_end: "مستمر"
 edges:
-- rel: "authored_by", target: "H.L.A. Hart", target_type: "مفكر"
-- rel: "belongs_to", target: "Philosophy of Law", target_type: "مدرسة"
+- rel: "authored_by", target: "thk-hla-hart", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-philosophy-of-law", target_type: "مدرسة"
 related:
 - id: "thk-hla-hart", title: "H.L.A. Hart", type: "مفكر"
 - id: "sch-philosophy-of-law", title: "Philosophy of Law", type: "مدرسة"

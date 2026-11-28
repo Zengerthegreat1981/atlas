@@ -9,7 +9,7 @@ en: "Deep Play: Notes on the Balinese Cockfight"
 crumb: "Anthropology ← Works ← Deep Play: Notes on the Balinese Cockfight"
 dates: "1972 · Geertz"
 edges:
-  - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
+  - rel: "belongs_to", target: "fld-anthropology", target_type: "مجال"
 related:
   []
 gaps:

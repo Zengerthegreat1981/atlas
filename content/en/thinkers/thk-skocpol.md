@@ -13,7 +13,7 @@ country: "United States"
 language: "English"
 part: "sociology"
 edges:
-- rel: "belongs_to", target: "Skocpol's Comparative-Historical Sociology of Revolutions", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-skocpol-comparative-historical-revolutions", target_type: "مدرسة"
 related:
 - id: "sch-skocpol-comparative-historical-revolutions", title: "Historical and Comparative Sociology of Revolutions", type: "مدرسة"
 gaps: []

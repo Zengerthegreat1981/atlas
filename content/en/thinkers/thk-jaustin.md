@@ -13,7 +13,7 @@ language: "English"
 active_start: 1939
 active_end: 1960
 edges:
-- rel: "belongs_to", target: "Ordinary Language Philosophy", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-ordinary-language", target_type: "مدرسة"
 related:
 - id: "sch-ordinary-language", title: "Ordinary Language Philosophy", type: "مدرسة"
 gaps: []
@@ -50,7 +50,7 @@ Austin subsequently argued that the simple dichotomy between performative and co
 
 ### Critique of Sense-Data and Ordinary Perception
 
-In *Sense and Sensibilia* (reconstructed from lectures delivered between 1947 and 1959), Austin mounted a sustained critique of the epistemological theory of sense-data advanced by A. J. Ayer and H. H. Price. Austin argued that sense-data theories depend on a false dichotomy between direct perception and illusion, distorting ordinary words such as "real," "looks," and "appears." By analyzing how ordinary language actually operates in everyday contexts, His critique is often read as supporting a direct-realist view of perception, though Austin did not himself advance a positive theory.
+In *Sense and Sensibilia* (reconstructed from lectures delivered between 1947 and 1959), Austin mounted a sustained critique of the epistemological theory of sense-data advanced by A. J. Ayer and H. H. Price. Austin argued that sense-data theories depend on a false dichotomy between direct perception and illusion, distorting ordinary words such as "real," "looks," and "appears." He analyzed how ordinary language actually operates in everyday contexts. His critique is often read as supporting a direct-realist view of perception, though Austin did not himself advance a positive theory.
 
 ### The Grammar of Action: "A Plea for Excuses"
 

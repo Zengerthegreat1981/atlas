@@ -11,7 +11,7 @@ active_end: "مستمر"
 part: bridges
 edges:
 - rel: "belongs_to", target: "Psychedelic-Assisted Therapy", target_type: "مدرسة"
-- rel: "relates_to", target: "Transpersonal Psychology", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-transpersonal", target_type: "مدرسة"
 related:
 - id: "rel-aristotle-positive-psychology", title: "Aristotelian Ethics and Positive Psychology", type: "علاقة بين مدرستين"
 gaps: []

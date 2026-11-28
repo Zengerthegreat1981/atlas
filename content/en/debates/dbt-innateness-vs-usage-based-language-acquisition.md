@@ -10,7 +10,7 @@ crumb: "Linguistics ← Debates ← Innateness vs. Usage-Based Debate in Languag
 active_start: 1959
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Generative-Transformational Grammar", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-generative-grammar", target_type: "مدرسة"
 related:
 - id: "sch-generative-grammar", title: "Generative-Transformational Grammar", type: "مدرسة"
 - id: "sch-first-language-acquisition", title: "First Language Acquisition and Its Stages", type: "مدرسة"

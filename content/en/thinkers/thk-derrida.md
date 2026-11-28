@@ -4,6 +4,7 @@ id: "THK-2326"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"
+quality: "unverified"
 title: "Jacques Derrida"
 en: "Jacques Derrida"
 crumb: "Philosophy ← Thinkers ← Jacques Derrida"
@@ -13,7 +14,7 @@ language: "French"
 active_start: 1967
 active_end: 2004
 edges:
-- rel: "belongs_to", target: "Deconstruction", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-deconstruction", target_type: "مدرسة"
 related:
 - id: "thk-foucault", title: "Michel Foucault", type: "مفكر"
 - id: "sch-deconstruction", title: "Deconstruction (Déconstruction)", type: "مدرسة"
@@ -76,7 +77,7 @@ He influenced American literary criticism after his lecture, and feminist studie
 
 ## Limits and Critique
 
-John Searle, in his controversy with Derrida over speech act theory, held that Derrida misunderstood Austin, and Derrida replied in "Signature Event Context" and then in "Limited Inc" (1988). Jürgen Habermas, in *The Philosophical Discourse of Modernity* (1985), criticized the erasure of the boundaries between philosophy and literature. The controversy escalated in 1992 when analytic philosophers objected to the University of Cambridge awarding Derrida an honorary doctorate, regarding his work as linguistic nonsense, while the university voted by a majority in his favor. He was also accused of relativism and of difficulty of style, and of abolishing the possibility of truth, a charge denied by his defenders, who read his work as a critique of the structure of truth and not its negation.
+John Searle, in his controversy with Derrida over speech act theory, held that Derrida misunderstood Austin. The exchange began with Derrida's essay "Signature Event Context"; Searle replied in 1977, and Derrida answered in "Limited Inc a b c ..." (1977), collected in *Limited Inc* (1988). Jürgen Habermas, in *The Philosophical Discourse of Modernity* (1985), criticized the erasure of the boundaries between philosophy and literature. The controversy escalated in 1992 when analytic philosophers objected to the University of Cambridge awarding Derrida an honorary doctorate, regarding his work as linguistic nonsense, while the university voted by a majority in his favor. He was also accused of relativism and of difficulty of style, and of abolishing the possibility of truth, a charge denied by his defenders, who read his work as a critique of the structure of truth and not its negation.
 
 ## Sources
 

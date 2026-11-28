@@ -9,7 +9,7 @@ en: "Structure and Function in Primitive Society"
 crumb: "Anthropology ← Works ← Structure and Function in Primitive Society"
 dates: "1952 · Radcliffe-Brown"
 edges:
-  - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
+  - rel: "belongs_to", target: "fld-anthropology", target_type: "مجال"
 related:
   []
 gaps:

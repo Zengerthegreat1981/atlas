@@ -4,6 +4,7 @@ id: "THK-0111"
 type: "مفكر"
 part: "philosophy"
 level: "متوسط"
+quality: "unverified"
 title: "R. D. Laing"
 en: "R. D. Laing"
 crumb: "Existential Philosophy ← People ← R. D. Laing"
@@ -13,7 +14,7 @@ language: "English"
 active_start: 1953
 active_end: 1989
 edges:
-  - rel: "belongs_to", target: "Existentialist School", target_type: "مدرسة"
+  - rel: "belongs_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
   - id: "dbt-laing", title: "The Psychosis Dispute", type: "جدل"
   - id: "rel-phenopath", title: "Psychopathological Phenomenology", type: "علاقة"

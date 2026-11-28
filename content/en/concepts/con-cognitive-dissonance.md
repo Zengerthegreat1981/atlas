@@ -10,7 +10,7 @@ crumb: "Psychology ← Concepts ← Cognitive Dissonance"
 active_start: 1957
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Social Psychology", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-social-psychology", target_type: "مدرسة"
 related:
 - id: "stu-festinger-cognitive-dissonance", title: "Festinger and Carlsmith's Experiment on Cognitive Dissonance and Insufficient Justification", type: "دراسة وبحث"
 gaps: []

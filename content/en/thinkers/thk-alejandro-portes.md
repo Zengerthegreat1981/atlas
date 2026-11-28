@@ -13,7 +13,7 @@ country: "Cuba, United States"
 language: "English, Spanish"
 part: "sociology"
 edges:
-- rel: "belongs_to", target: "Sociology of Migration, Asylum & Diaspora", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-sociology-of-migration-diaspora", target_type: "مدرسة"
 related:
 - id: "sch-sociology-of-migration-diaspora", title: "Sociology of Migration, Asylum & Diaspora", type: "مدرسة"
 gaps: []

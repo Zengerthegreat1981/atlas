@@ -9,7 +9,7 @@ en: "Arnold van Gennep"
 crumb: "Ritual Theory ← Rite of Passage ← Arnold van Gennep"
 dates: "France · 1873–1957"
 edges:
-  - rel: "belongs_to", target: "Structural Anthropology", target_type: "مدرسة"
+  - rel: "belongs_to", target: "scl-structural-anthropology", target_type: "مدرسة"
   - rel: "founder_of", target: "Ritual Studies", target_type: "تيار"
 related:
   - id: "thk-max-gluckman", title: "Max Gluckman", type: "مفكر"

@@ -4,6 +4,7 @@ id: "THK-13518"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"
+quality: "unverified"
 title: "Abu Yusuf Ya'qub ibn Ishaq al-Kindi (Alkindus)"
 en: "Abu Yusuf Ya'qub ibn Ishaq al-Kindi (Alkindus)"
 crumb: "Philosophy ← Thinkers ← al-Kindi"
@@ -27,7 +28,7 @@ An Arab philosopher of pure Arab Qahtani descent (from the Banu Kinda), traditio
 
 ## Biography
 
-Al-Kindi was born in Kufa or Basra around 185 AH/801 CE, into a family of the nobles of Kinda; his father Ishaq ibn al-Sabbah was governor of Kufa in the time of al-Mahdi and al-Rashid. He moved to Baghdad in his youth to seek knowledge and was in contact with the Abbasid court under al-Ma'mun (who founded the House of Wisdom) and then al-Mu'tasim, whose son Ahmad he tutored, and so al-Kindi attributed some of his treatises to him. Al-Kindi reached the peak of his standing under al-Mu'tasim and al-Wathiq, but under al-Mutawakkil — after the caliph inclined toward Hanbali rigor and retreated from Mu'tazilism — he suffered a trial said to have included being beaten and having his library (the "Kindiyya") confiscated for a period, on the denunciation of his opponents among the Banu Musa ibn Shakir. He died in Baghdad; the date of his death is uncertain, with 252 AH/866 CE the most widely adopted and other sources giving a later date, up to about 873 CE.
+Al-Kindi was born in Kufa or Basra around 185 AH/801 CE, into a family of the nobles of Kinda; his father Ishaq ibn al-Sabbah was governor of Kufa in the time of al-Mahdi and al-Rashid. He moved to Baghdad in his youth to seek knowledge and was in contact with the Abbasid court under al-Ma'mun (who founded the House of Wisdom) and then al-Mu'tasim, whose son Ahmad he tutored (*On First Philosophy* is dedicated to al-Mu'tasim himself). Al-Kindi reached the peak of his standing under al-Mu'tasim and al-Wathiq, but under al-Mutawakkil — after the caliph inclined toward Hanbali rigor and retreated from Mu'tazilism — he suffered a trial said to have included being beaten and having his library (the "Kindiyya") confiscated for a period, on the denunciation of his opponents among the Banu Musa ibn Shakir. He died in Baghdad; the date of his death is uncertain, with 252 AH/866 CE the most widely adopted and other sources giving a later date, up to about 873 CE.
 
 ## What He Contributed
 

@@ -10,7 +10,7 @@ en: "Caste and the Economic Frontier"
 crumb: "Anthropology ← Works ← Caste and the Economic Frontier"
 dates: "1957 · Bailey"
 edges:
-  - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
+  - rel: "belongs_to", target: "fld-anthropology", target_type: "مجال"
 related:
   []
 gaps: []

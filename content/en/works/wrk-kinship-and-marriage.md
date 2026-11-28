@@ -9,8 +9,8 @@ en: "Kinship and Marriage"
 crumb: "Fox · Kinship Synthesis"
 dates: "1967 · Fox"
 edges:
-  - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
-  - rel: "written_by", target: "Fox", target_type: "مفكر"
+  - rel: "belongs_to", target: "fld-anthropology", target_type: "مجال"
+  - rel: "authored_by", target: "Fox", target_type: "مفكر"
 related:
   - id: "wrk-elementary-structures", title: "The Elementary Structures of Kinship", type: "عمل"
 sources:

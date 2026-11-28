@@ -4,6 +4,7 @@ id: "THK-0918"
 type: "مفكر"
 part: "philosophy"
 level: "متوسط"
+quality: "unverified"
 title: "John Dewey"
 en: "John Dewey"
 crumb: "Philosophy ← Thinkers ← John Dewey"
@@ -13,7 +14,7 @@ language: "English"
 active_start: 1886
 active_end: 1952
 edges:
-- rel: "belongs_to", target: "Classical Pragmatism", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-pragmatism-classical", target_type: "مدرسة"
 related:
 - id: "thk-james", title: "William James", type: "مفكر"
 - id: "sch-pragmatism-classical", title: "Classical Pragmatism", type: "مدرسة"

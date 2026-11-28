@@ -18,8 +18,8 @@ author_slug: "thk-bowlby"
 publication_year: 1969
 original_language: "English"
 edges:
-- rel: "belongs_to", target: "Attachment Theory", target_type: "تيار"
-- rel: "authored_by", target: "John Bowlby", target_type: "مفكر"
+- rel: "belongs_to", target: "br-attachment-theory", target_type: "تيار"
+- rel: "authored_by", target: "thk-bowlby", target_type: "مفكر"
 related:
 - id: "thk-bowlby", title: "John Bowlby", type: "مفكر"
 - id: "con-attachment-styles", title: "Attachment Styles", type: "مفهوم"

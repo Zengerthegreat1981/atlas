@@ -11,7 +11,7 @@ economic_school: "Neoclassical-Keynesian synthesis"
 active_start: 1958
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Neoclassical-Keynesian Synthesis", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-neoclassical-keynesian-synthesis", target_type: "مدرسة"
 related:
 - id: "sch-neoclassical-keynesian-synthesis", title: "Neoclassical-Keynesian Synthesis", type: "مدرسة"
 - id: "thk-milton-friedman", title: "Milton Friedman", type: "مفكر"

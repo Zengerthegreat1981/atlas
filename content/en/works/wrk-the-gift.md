@@ -9,8 +9,8 @@ en: "The Gift"
 crumb: "Mauss · Gift Exchange"
 dates: "1923-24 · Mauss"
 edges:
-  - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
-  - rel: "written_by", target: "Mauss", target_type: "مفكر"
+  - rel: "belongs_to", target: "fld-anthropology", target_type: "مجال"
+  - rel: "authored_by", target: "Mauss", target_type: "مفكر"
 related:
   - id: "con-reciprocity", title: "Reciprocity", type: "مفهوم"
   - id: "con-exchange", title: "Exchange Systems", type: "مفهوم"

@@ -4,6 +4,7 @@ id: "SCH-0276"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"
+quality: "unverified"
 title: "Scholasticism (umbrella)"
 en: "Scholasticism (umbrella)"
 crumb: "Philosophy ← Schools ← Scholasticism"
@@ -14,8 +15,8 @@ active_start: 1050
 active_end: 1650
 cultural_origin: "european"
 edges:
-- rel: "evolved_from", target: "Patristics", target_type: "مدرسة"
-- rel: "evolved_from", target: "Augustinianism", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-patristics", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-augustinianism", target_type: "مدرسة"
 - rel: "evolved_from", target: "Byzantine Philosophy", target_type: "مدرسة"
 related:
 - id: "sch-thomism", title: "Thomism", type: "مدرسة"

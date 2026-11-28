@@ -9,7 +9,7 @@ title: "Guilt (Existentialist School View)"
 en: "Guilt (Existentialist School View)"
 crumb: "Philosophy ← Concepts ← Guilt (Existentialist School View)"
 edges:
-  - rel: "discussed_in", target: "Existentialist School", target_type: "مدرسة"
+  - rel: "discussed_in", target: "sch-existentialism", target_type: "مدرسة"
 related:
   - id: "con-existential-guilt-ontological", title: "Ontological Guilt", type: "مفهوم"
   - id: "con-responsibility", title: "Responsibility", type: "مفهوم"

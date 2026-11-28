@@ -17,7 +17,7 @@ register: "academic"
 evidence_level: "probably-efficacious"
 edges:
 - rel: "founded_by", target: "Insoo Kim Berg", target_type: "مفكر"
-- rel: "founded_by", target: "Steve de Shazer", target_type: "مفكر"
+- rel: "founded_by", target: "thk-sdeshacer", target_type: "مفكر"
 - rel: "belongs_to", target: "sch-systemic-family", target_type: "مدرسة"
 related:
 - id: "sch-systemic-family", title: "Systemic/Family Therapy", type: "مدرسة"

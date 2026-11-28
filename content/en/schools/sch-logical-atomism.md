@@ -4,6 +4,7 @@ id: "SCH-0186"
 type: "مدرسة"
 part: "philosophy"
 level: "متقدم"
+quality: "unverified"
 title: "Logical Atomism"
 en: "Logical Atomism"
 crumb: "Philosophy ← Schools ← Logical Atomism"
@@ -15,7 +16,7 @@ active_start: 1911
 active_end: 1930
 edges:
 - rel: "evolved_into", target: "Vienna Circle", target_type: "مدرسة"
-- rel: "superseded_by", target: "Ordinary Language Philosophy", target_type: "مدرسة"
+- rel: "superseded_by", target: "sch-ordinary-language", target_type: "مدرسة"
 related:
 - id: "thk-bertrand-russell", title: "Bertrand Russell", type: "مفكر"
 - id: "thk-lwittgenstein", title: "Ludwig Wittgenstein", type: "مفكر"
@@ -25,7 +26,7 @@ gaps: []
 
 # Logical Atomism
 
-A philosophical doctrine that appeared in Cambridge between roughly 1910 and 1925, associated with the work of Bertrand Russell (1872–1970) and his student Ludwig Wittgenstein (1889–1951). It holds that the world is composed of logically independent facts, that a precise language is composed of independent atomic propositions that picture these facts, and that logical analysis reveals the structure of reality beneath the structure of ordinary language. The name was coined by Russell in his 1918 lectures ("The Philosophy of Logical Atomism"), and the atomism here is logical, not physical, since the process of analysis stops at it even if physical atoms were not known. The doctrine arose in reaction to British idealism (Bradley), which holds that reality is one whole and that relations are unreal, and in this way it was one of the founders of analytic philosophy.
+A philosophical doctrine that appeared in Cambridge between roughly 1910 and 1925, associated with the work of Bertrand Russell (1872–1970) and his student Ludwig Wittgenstein (1889–1951). It holds that the world is composed of logically independent facts, that a precise language is composed of independent atomic propositions that picture these facts, and that logical analysis reveals the structure of reality beneath the structure of ordinary language. Russell introduced the name in 1911 and developed the doctrine in his 1918 lectures ("The Philosophy of Logical Atomism"); the atomism here is logical, not physical, since the process of analysis stops at it even if physical atoms were not known. The doctrine arose in reaction to British idealism (Bradley), which holds that reality is one whole and that relations are unreal, and in this way it was one of the founders of analytic philosophy.
 
 ## Background
 

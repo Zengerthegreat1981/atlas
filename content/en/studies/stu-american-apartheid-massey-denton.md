@@ -11,7 +11,7 @@ crumb: "Sociology ← Studies ← Massey and Denton's Study of Residential Segre
 active_start: 1980
 active_end: 1993
 edges:
-- rel: "belongs_to", target: "Urban Sociology and City Planning", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-urban-sociology-spatial-planning", target_type: "مدرسة"
 related:
 - id: "sch-urban-sociology-spatial-planning", title: "Urban Sociology and City Planning", type: "مدرسة"
 - id: "stu-truly-disadvantaged-wilson", title: "The Truly Disadvantaged", type: "دراسة وبحث"

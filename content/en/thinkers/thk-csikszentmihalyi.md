@@ -15,7 +15,7 @@ language: "English, Hungarian"
 register: "academic"
 evidence_level: "well-established"
 edges:
-- rel: "belongs_to", target: "Positive Psychology", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-positive-psychology", target_type: "مدرسة"
 related:
 - id: "thk-mseligman", title: "Martin Seligman", type: "مفكر"
 - id: "thk-maslow", title: "Abraham Maslow", type: "مفكر"

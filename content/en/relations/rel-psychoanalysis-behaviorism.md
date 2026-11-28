@@ -11,7 +11,7 @@ active_end: "مستمر"
 part: bridges
 edges:
 - rel: "belongs_to", target: "Psychoanalysis", target_type: "مدرسة"
-- rel: "relates_to", target: "Behaviorism", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-behaviorism", target_type: "مدرسة"
 related:
 - id: "br-classical-psychoanalysis", title: "Classical Freudian Psychoanalysis", type: "تيار"
 - id: "thk-freud", title: "Sigmund Freud", type: "مفكر"

@@ -8,7 +8,7 @@ title: "Kinship Studies as a Subfield"
 en: "Kinship Studies as a Subfield"
 crumb: "Anthropology ← Branches ← Kinship Studies as a Subfield"
 edges:
-- rel: "belongs_to", target: "Comparative Kinship Systems", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-kinship-systems-comparative", target_type: "مدرسة"
 related:
 - id: "sch-kinship-systems-comparative", title: "Comparative Kinship Systems", type: "مدرسة"
 - id: "sch-descent-theory", title: "Descent Theory", type: "مدرسة"

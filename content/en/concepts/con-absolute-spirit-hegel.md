@@ -11,7 +11,7 @@ crumb: "Philosophy ← Concepts ← Absolute Spirit and Its Manifestations (Abso
 active_start: 1807
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Hegelianism", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-hegelianism", target_type: "مدرسة"
 related:
 - id: "thk-hegel", title: "Georg Wilhelm Friedrich Hegel", type: "مفكر"
 - id: "sch-hegelianism", title: "Hegelianism", type: "مدرسة"

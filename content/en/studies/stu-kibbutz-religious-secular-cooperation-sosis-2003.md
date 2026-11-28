@@ -13,7 +13,7 @@ dates: "2003"
 active_start: 2003
 active_end: 2003
 edges:
-- rel: "belongs_to", target: "Cognitive Science of Religion", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-science-of-religion", target_type: "مدرسة"
 related:
 - id: "con-costly-signaling-theory-of-religion", title: "The Costly Signalling Theory of Religion", type: "مفهوم"
 - id: "sch-cognitive-science-of-religion", title: "Cognitive Science of Religion", type: "مدرسة"

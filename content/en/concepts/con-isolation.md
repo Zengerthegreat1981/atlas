@@ -9,7 +9,7 @@ title: "Isolation"
 en: "Isolation"
 crumb: "Existentialist School ← Concepts ← Isolation"
 edges:
-  - rel: "discussed_in", target: "Existentialist School", target_type: "مدرسة"
+  - rel: "discussed_in", target: "sch-existentialism", target_type: "مدرسة"
 related:
   - id: "thk-yalom", title: "Yalom", type: "مفكر"
   - id: "con-relation", title: "Relationship and Encounter", type: "مفهوم"

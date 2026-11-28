@@ -13,7 +13,7 @@ active_end: 1910
 country: "United States"
 language: "English"
 edges:
-- rel: "belongs_to", target: "Classical Pragmatism", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-pragmatism-classical", target_type: "مدرسة"
 related:
 - id: "thk-husserl", title: "Edmund Husserl", type: "مفكر"
 - id: "con-time", title: "Time", type: "مفهوم"

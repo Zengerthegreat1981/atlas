@@ -13,7 +13,7 @@ part: "psychology"
 active_start: 1925
 active_end: 2021
 edges:
-- rel: "belongs_to", target: "Behaviorism", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-behaviorism", target_type: "مدرسة"
 related:
 - id: "thk-fskinner", title: "Burrhus Frederic Skinner", type: "مفكر"
 - id: "con-self-efficacy", title: "Self-Efficacy (Perceived Self-Efficacy)", type: "مفهوم"

@@ -4,6 +4,7 @@ id: "SCH-0258"
 type: "مدرسة"
 part: "philosophy"
 level: "متقدم"
+quality: "unverified"
 title: "Pyrrhonian Skepticism"
 en: "Pyrrhonian Skepticism"
 crumb: "Philosophy ← Schools ← Pyrrhonian Skepticism"
@@ -14,7 +15,7 @@ cultural_origin: "greek"
 active_start: -360
 active_end: 250
 edges:
-- rel: "evolved_into", target: "Academic Skepticism", target_type: "مدرسة"
+- rel: "evolved_into", target: "sch-academic-skepticism", target_type: "مدرسة"
 related:
 - id: "sch-academic-skepticism", title: "Academic Skepticism", type: "مدرسة"
 - id: "sch-sophistry", title: "Sophistry", type: "مدرسة"

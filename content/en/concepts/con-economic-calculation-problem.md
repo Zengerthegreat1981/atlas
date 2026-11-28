@@ -11,7 +11,7 @@ economic_school: "Austrian School"
 active_start: 1920
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Austrian School of Economics", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-austrian-school-of-economics", target_type: "مدرسة"
 related:
 - id: "sch-austrian-school-of-economics", title: "Austrian School of Economics", type: "مدرسة"
 - id: "thk-ludwig-von-mises", title: "Ludwig von Mises", type: "مفكر"

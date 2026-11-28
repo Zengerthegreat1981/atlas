@@ -18,7 +18,7 @@ original_language: "English"
 active_start: 1984
 active_end: "مستمر"
 edges:
-- rel: "written_by", target: "Charles Perrow", target_type: "مفكر"
+- rel: "authored_by", target: "Charles Perrow", target_type: "مفكر"
 related: []
 gaps: []
 ---

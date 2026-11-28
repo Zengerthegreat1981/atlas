@@ -10,7 +10,7 @@ crumb: "Bridges ← Concepts ← Qualia: The 'What-It-Is-Likeness' of Experience
 active_start: 1974
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "Analytic Philosophy of Mind (umbrella)", target_type: "مدرسة"
+  - rel: "belongs_to", target: "sch-phil-mind-analytic", target_type: "مدرسة"
 related:
   - id: "con-mind-body", title: "The Mind-Body Problem", type: "مفهوم"
   - id: "thk-nagel", title: "Thomas Nagel", type: "مفكر"

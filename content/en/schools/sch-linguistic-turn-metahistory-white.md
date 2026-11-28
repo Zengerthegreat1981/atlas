@@ -16,7 +16,7 @@ cultural_origin: "north-american"
 active_start: 1973
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Ibn Khaldun's Method of Historical Report Criticism", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-ibn-khaldun-naqd-al-akhbar", target_type: "مدرسة"
 related:
 - id: "thk-hayden-white", title: "Hayden White", type: "مفكر"
 - id: "sch-french-methodical-school", title: "The French Methodical School (Seignobos, Langlois and the Introduction to Historical Studies)", type: "مدرسة"

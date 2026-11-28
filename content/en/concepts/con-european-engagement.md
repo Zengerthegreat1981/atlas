@@ -12,7 +12,7 @@ active_start: 1798
 active_end: "مستمر"
 language: "Arabic"
 edges:
-- rel: "belongs_to", target: "The Arab Nahda: Intellectual Modernization", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-nahda-modernization", target_type: "مدرسة"
 related:
 - id: "sch-nahda-modernization", title: "The Arab Nahda: Intellectual Modernization", type: "مدرسة"
 - id: "con-nahda-movement", title: "The Arab Nahda Movement", type: "مفهوم"

@@ -11,7 +11,7 @@ economic_school: "Economics of inequality"
 active_start: 2014
 active_end: 2014
 edges:
-- rel: "belongs_to", target: "Economics of Inequality", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-economics-of-inequality", target_type: "مدرسة"
 related: []
 study_year: 2014
 design: "A large-scale statistical analysis of anonymized US federal individual income tax records, linking parents' income to the later income of their children as adults, compared across different US geographical areas (counties and cities)"

@@ -16,7 +16,7 @@ sample_size: 253
 main_finding: "Most children (67%) preferred the white doll to play with and tended to attribute positive qualities to it, and some became distressed when asked to pick the doll that looked like them"
 replication_status: "contested"
 edges:
-- rel: "belongs_to", target: "Social Psychology", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-social-psychology", target_type: "مدرسة"
 related: []
 gaps: []
 ---

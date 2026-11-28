@@ -9,8 +9,8 @@ en: "Pour une morale de l'ambiguïté"
 crumb: "Philosophy ← Works ← The Ethics of Ambiguity"
 dates: "1947 · Simone de Beauvoir"
 edges:
-  - rel: "written_by", target: "Simone de Beauvoir", target_type: "مفكر"
-  - rel: "belongs_to", target: "Existentialist School", target_type: "مدرسة"
+  - rel: "authored_by", target: "thk-beauvoir", target_type: "مفكر"
+  - rel: "belongs_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
   - id: "thk-beauvoir", title: "Simone de Beauvoir", type: "مفكرة"
   - id: "dbt-individualism", title: "The Individualism Critique", type: "جدل"

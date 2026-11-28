@@ -15,11 +15,10 @@ policy_orientation: "Interventionist and protectionist: import-substituting indu
 active_start: 1949
 active_end: "مستمر"
 edges:
-- rel: "evolved_from", target: "Development Economics", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-development-economics", target_type: "مدرسة"
 related:
 - id: "con-prebisch-singer-hypothesis", title: "Prebisch-Singer Hypothesis", type: "مفهوم"
 - id: "sch-latin-american-dependency-theory", title: "Dependency Theory", type: "مدرسة"
-- id: "sch-latin-american-dependency-theory", title: "Latin American Sociological Dependency Theory", type: "مدرسة"
 - id: "thk-samir-amin", title: "Samir Amin", type: "مفكر"
 - id: "sch-development-economics", title: "Development Economics", type: "مدرسة"
 gaps: []

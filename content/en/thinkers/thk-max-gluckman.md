@@ -9,7 +9,7 @@ en: "Max Gluckman"
 crumb: "Structural Anthropology ← Ritual Analysis ← Max Gluckman"
 dates: "South Africa-UK · 1911–1975"
 edges:
-  - rel: "belongs_to", target: "Structural Anthropology", target_type: "مدرسة"
+  - rel: "belongs_to", target: "scl-structural-anthropology", target_type: "مدرسة"
   - rel: "founder_of", target: "Manchester School Anthropology", target_type: "تيار"
 related:
   - id: "thk-edmund-leach", title: "Edmund Leach", type: "مفكر"

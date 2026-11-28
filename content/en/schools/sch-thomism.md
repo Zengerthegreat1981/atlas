@@ -4,6 +4,7 @@ id: "SCH-0305"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"
+quality: "unverified"
 title: "Thomism"
 en: "Thomism"
 crumb: "Philosophy ← Schools ← Thomism"
@@ -15,7 +16,7 @@ active_end: "مستمر"
 cultural_origin: "european"
 edges:
 - rel: "belongs_to", target: "Scholasticism", target_type: "مدرسة"
-- rel: "evolved_from", target: "Patristics", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-patristics", target_type: "مدرسة"
 - rel: "evolved_from", target: "Islamic Peripatetic Philosophy", target_type: "مدرسة"
 related:
 - id: "sch-scholasticism", title: "Scholasticism (as an umbrella)", type: "مدرسة"
@@ -63,7 +64,7 @@ Aquinas was born around 1225 at Roccasecca in southern Italy into a noble family
 
 - **Theology and Church teaching**: Thomism shaped Catholic theology, moral theology and canon law, and many Anglican and Protestant scholars have also studied Aquinas.
 - **Law and politics**: Thomist natural-law theory fed the work of Spanish scholastics such as Vitoria and Suárez on the law of nations and rights, and it remains a reference point in modern Catholic social thought.
-- **Medieval philosophy**: Aquinas drew on Islamic and Jewish philosophy (Avicenna, Averroes, Maimonides), and his position on the eternity of the world, on the unity of the intellect against Latin Averroism, and on faith and reason, were contested in the Parisian condemnations of 1270 and 1277.
+- **Medieval philosophy**: Aquinas drew on Islamic and Jewish philosophy (Avicenna, Averroes, Maimonides). Questions he had addressed, such as the eternity of the world, the unity of the intellect (a Latin Averroist thesis that he opposed) and the relation of faith and reason, were at issue around the Parisian condemnations of 1270 and 1277, and the 1277 condemnations included some theses associated with him.
 
 ## Limits and criticisms
 

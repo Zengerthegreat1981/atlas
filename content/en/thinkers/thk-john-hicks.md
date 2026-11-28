@@ -14,7 +14,7 @@ economic_school: "Neoclassical-Keynesian synthesis"
 active_start: 1932
 active_end: 1989
 edges:
-- rel: "belongs_to", target: "Neoclassical-Keynesian Synthesis", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-neoclassical-keynesian-synthesis", target_type: "مدرسة"
 related:
 - id: "sch-neoclassical-keynesian-synthesis", title: "Neoclassical-Keynesian Synthesis", type: "مدرسة"
 - id: "thk-john-maynard-keynes", title: "John Maynard Keynes", type: "مفكر"

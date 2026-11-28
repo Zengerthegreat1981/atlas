@@ -15,7 +15,7 @@ active_start: 1913
 active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "Psychoanalysis", target_type: "مدرسة"
-- rel: "founded_by", target: "Carl Gustav Jung", target_type: "مفكر"
+- rel: "founded_by", target: "thk-jung", target_type: "مفكر"
 related:
 - id: "thk-jung", title: "Carl Gustav Jung", type: "مفكر"
 - id: "br-jungian", title: "Jungian Analysis", type: "تيار"

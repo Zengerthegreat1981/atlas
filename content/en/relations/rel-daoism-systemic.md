@@ -10,8 +10,8 @@ crumb: "Bridges ← Relations ← Philosophical Daoism and Systemic/Family Thera
 active_start: 1970
 active_end: "مستمر"
 edges:
-  - rel: "relates_to", target: "Philosophical Daoism", target_type: "مدرسة"
-  - rel: "relates_to", target: "Systemic and Family Therapy", target_type: "مدرسة"
+  - rel: "relates_to", target: "sch-daoism-philosophical", target_type: "مدرسة"
+  - rel: "relates_to", target: "sch-systemic-family", target_type: "مدرسة"
 related:
   - id: "thk-laozi", title: "Laozi (Lao Dan)", type: "مفكر"
   - id: "thk-zhuangzi", title: "Zhuangzi", type: "مفكر"

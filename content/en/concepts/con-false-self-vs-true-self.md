@@ -12,7 +12,6 @@ active_start: null
 active_end: "مستمر"
 edges: []
 related:
-- id: "thk-robert-merton", title: "Thomas Merton", type: "مفكر"
 - id: "sch-existential-therapy", title: "Existential Therapy", type: "مدرسة"
 - id: "thk-winnicott", title: "Donald Winnicott", type: "مفكر"
 - id: "thk-sartre", title: "Jean-Paul Sartre", type: "مفكر"

@@ -14,7 +14,7 @@ language: "French, German"
 active_start: 1861
 active_end: 1885
 edges:
-- rel: "belongs_to", target: "Classical Neurolinguistics", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-classical-neurolinguistics", target_type: "مدرسة"
 related:
 - id: "sch-classical-neurolinguistics", title: "Classical Neurolinguistics", type: "مدرسة"
 gaps: []

@@ -10,7 +10,7 @@ crumb: "Linguistics ← Branches ← Computational Linguistics"
 active_start: 1950
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Computational Linguistics & NLP", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-computational-linguistics-nlp", target_type: "مدرسة"
 related:
 - id: "sch-computational-linguistics-nlp", title: "Computational Linguistics & Natural Language Processing", type: "مدرسة"
 - id: "sch-corpus-linguistics", title: "Corpus Linguistics and Its Methods", type: "مدرسة"

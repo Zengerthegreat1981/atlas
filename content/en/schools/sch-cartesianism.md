@@ -4,6 +4,7 @@ id: "SCH-0057"
 type: "مدرسة"
 part: philosophy
 level: "متوسط"
+quality: "unverified"
 title: "Cartesianism"
 en: "Cartesianism"
 crumb: "Philosophy ← Schools ← Cartesianism"

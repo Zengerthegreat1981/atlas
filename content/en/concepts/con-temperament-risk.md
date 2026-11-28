@@ -11,7 +11,7 @@ active_start: 1963
 active_end: "مستمر"
 language: "English"
 edges:
-- rel: "belongs_to", target: "Developmental Child Psychiatry", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-developmental-child-psychiatry", target_type: "مدرسة"
 - rel: "relates_to", target: "Ibn Sina", target_type: "مفكر"
 - rel: "relates_to", target: "Hunayn ibn Ishaq", target_type: "مفكر"
 - rel: "relates_to", target: "Childhood Anxiety", target_type: "مفهوم"

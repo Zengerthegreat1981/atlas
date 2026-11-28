@@ -3,6 +3,7 @@ slug: "thk-bergson"
 id: "THK-0578"
 type: "مفكر"
 level: "متقدم"
+quality: "unverified"
 title: "Henri Bergson"
 en: "Henri Bergson"
 crumb: "Philosophy ← Thinkers ← Henri Bergson"
@@ -79,6 +80,6 @@ Bertrand Russell objected to Bergson in "The Philosophy of Bergson" (1912) that 
 - Henri Bergson, Les Deux Sources de la morale et de la religion, Félix Alcan, Paris, 1932.
 - Henri Bergson, La Pensée et le mouvant, Félix Alcan, Paris, 1934.
 - Gilles Deleuze, Le Bergsonisme, Presses universitaires de France, Paris, 1966.
-- Henri Bergson, Time and Free Will, trans. F. L. Pogson, London: Allen & Unwin, 1910.
+- Henri Bergson, Time and Free Will, trans. F. L. Pogson, London: George Allen, 1910.
 - Henri Bergson, Creative Evolution, trans. Arthur Mitchell, New York: Henry Holt, 1911.
 - Muhammad Iqbal, The Reconstruction of Religious Thought in Islam, Oxford University Press, London, 1934.

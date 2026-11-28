@@ -20,7 +20,7 @@ original_language: "English"
 active_start: 1978
 active_end: 1978
 edges:
-- rel: "written_by", target: "Victor Turner", target_type: "مفكر"
+- rel: "authored_by", target: "thk-victor-turner", target_type: "مفكر"
 related:
 - id: "thk-victor-turner", title: "Victor Turner", type: "مفكر"
 - id: "thk-mircea-eliade", title: "Mircea Eliade", type: "مفكر"

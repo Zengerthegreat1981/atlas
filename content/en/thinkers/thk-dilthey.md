@@ -3,6 +3,7 @@ slug: "thk-dilthey"
 id: "THK-0377"
 type: "مفكر"
 level: "متقدم"
+quality: "unverified"
 title: "Wilhelm Dilthey"
 en: "Wilhelm Dilthey"
 crumb: "Philosophy ← Thinkers ← Wilhelm Dilthey"
@@ -59,7 +60,7 @@ Dilthey makes "life" the starting point: human life is not empirical matter exte
 
 ## Descriptive Psychology and Interpretation
 
-In 1894 Dilthey published *Ideas Concerning a Descriptive and Analytical Psychology*, in which he criticized explanatory psychology based on causal hypotheses and held that psychology should describe psychic life in its unity as it is lived, which provoked a reply from Hermann Ebbinghaus, who accused him of abandoning experiment. He then turned in *The Rise of Hermeneutics* (1900) to making interpretation the general method of the human sciences, tracing the line from Schleiermacher. Among his literary works is *Poetry and Experience* (1905), and among his late works is *The Formation of the Historical World in the Human Sciences* (1910), in which he tried to ground what he called the "critique of historical reason" on the concepts of significance, structure, value and purpose.
+In 1894 Dilthey published *Ideas Concerning a Descriptive and Analytical Psychology*, in which he criticized explanatory psychology based on causal hypotheses and held that psychology should describe psychic life in its unity as it is lived, which provoked a reply from Hermann Ebbinghaus, who accused him of abandoning experiment. He then turned in *The Rise of Hermeneutics* (1900) to making interpretation the general method of the human sciences, tracing the line from Schleiermacher. Among his literary works is *Poetry and Experience* (1906), and among his late works is *The Formation of the Historical World in the Human Sciences* (1910), in which he tried to ground what he called the "critique of historical reason" on the concepts of significance, structure, value and purpose.
 
 ## The Theory of Worldviews
 

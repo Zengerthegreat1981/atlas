@@ -13,7 +13,7 @@ language: "English"
 active_start: 1982
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Communitarianism", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-communitarianism", target_type: "مدرسة"
 related:
 - id: "sch-communitarianism", title: "Communitarianism", type: "مدرسة"
 - id: "thk-rawls", title: "John Rawls", type: "مفكر"

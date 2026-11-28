@@ -14,7 +14,7 @@ economic_school: "Development Economics"
 active_start: 1954
 active_end: 1991
 edges:
-- rel: "belongs_to", target: "Development Economics", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-development-economics", target_type: "مدرسة"
 related:
 - id: "sch-development-economics", title: "Development Economics", type: "مدرسة"
 - id: "thk-albert-o-hirschman", title: "Albert O. Hirschman", type: "مفكر"

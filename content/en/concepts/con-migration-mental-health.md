@@ -13,10 +13,10 @@ active_end: "مستمر"
 language: "English"
 edges:
 - rel: "belongs_to", target: "Cultural (Cross-Cultural) Psychiatry", target_type: "مدرسة"
-- rel: "relates_to", target: "Frantz Fanon", target_type: "مفكر"
+- rel: "relates_to", target: "thk-fanon", target_type: "مفكر"
 - rel: "relates_to", target: "Historical Trauma", target_type: "مفهوم"
-- rel: "relates_to", target: "Trauma", target_type: "مفهوم"
-- rel: "relates_to", target: "Cultural Competence in Psychiatry", target_type: "مفهوم"
+- rel: "relates_to", target: "con-trauma", target_type: "مفهوم"
+- rel: "relates_to", target: "con-cultural-competence", target_type: "مفهوم"
 related:
 - id: "sch-cultural-psychiatry", title: "Cultural (Cross-Cultural) Psychiatry", type: "مدرسة"
 - id: "thk-fanon", title: "Frantz Fanon", type: "مفكر"

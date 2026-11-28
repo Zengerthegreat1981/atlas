@@ -18,8 +18,8 @@ active_end: 1096
 language: "Arabic"
 register: "academic"
 edges:
-- rel: "written_by", target: "Abu Hamid al-Ghazali", target_type: "مفكر"
-- rel: "belongs_to", target: "Early Islamic & Classical Period", target_type: "مدرسة"
+- rel: "authored_by", target: "thk-al-ghazali", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-early-islamic-classical", target_type: "مدرسة"
 related:
 - id: "thk-al-ghazali", title: "Abu Hamid al-Ghazali", type: "مفكر"
 - id: "sch-early-islamic-classical", title: "Early Islamic & Classical Period", type: "مدرسة"

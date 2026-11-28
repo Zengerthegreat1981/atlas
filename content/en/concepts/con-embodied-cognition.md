@@ -11,7 +11,7 @@ active_start: 1980
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "Somatic Phenomenology", target_type: "مدرسة"
-- rel: "relates_to", target: "Cognitive Neuroscience", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-cognitive-neuroscience", target_type: "مدرسة"
 related:
 - id: "thk-david-chalmers", title: "David Chalmers", type: "مفكر"
 - id: "con-body-schema", title: "Body Schema: The Unconscious System of Movement and Posture", type: "مفهوم"

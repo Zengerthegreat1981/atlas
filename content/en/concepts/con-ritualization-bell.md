@@ -13,7 +13,7 @@ dates: "United States · 1992"
 active_start: 1992
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Catherine Bell", target_type: "مفكر"
+- rel: "belongs_to", target: "thk-catherine-bell", target_type: "مفكر"
 related:
 - id: "thk-catherine-bell", title: "Catherine Bell", type: "مفكر"
 - id: "sch-ritual-theory-religious-studies", title: "Theories of Ritual in Religious Studies: From Robertson Smith to Hubert and Mauss", type: "مدرسة"

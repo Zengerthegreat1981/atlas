@@ -13,7 +13,7 @@ language: "Ancient Greek (the language of the Meditations)"
 active_start: 161
 active_end: 180
 edges:
-- rel: "belongs_to", target: "Stoicism", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-stoicism", target_type: "مدرسة"
 related:
 - id: "thk-epictetus", title: "Epictetus", type: "مفكر"
 - id: "sch-stoicism", title: "Stoicism", type: "مدرسة"

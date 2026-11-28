@@ -15,7 +15,7 @@ active_start: 1970
 active_end: "مستمر"
 crumb: "Sociology ← Thinkers ← Robert D. Putnam"
 edges:
-- rel: "belongs_to", target: "Social Capital and Civil Society", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-social-capital-civic", target_type: "مدرسة"
 related:
 - id: "thk-weber", title: "Max Weber", type: "مفكر"
 - id: "thk-coleman", title: "James Coleman", type: "مفكر"

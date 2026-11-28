@@ -12,7 +12,7 @@ author_slug: "thk-polybius"
 publication_year: -150
 original_language: "Greek"
 edges:
-- rel: "authored_by", target: "Polybius", target_type: "مفكر"
+- rel: "authored_by", target: "hst-polybius", target_type: "مفكر"
 related:
   - id: "sch-polybius-pragmatic-history", title: "Pragmatic History and Causal Explanation", type: "مدرسة"
 gaps: []

@@ -11,7 +11,7 @@ active_start: 1850
 active_end: "مستمر"
 study_approach: "Historical and comparative anthropology"
 edges:
-- rel: "belongs_to", target: "Comparative Kinship Systems", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-kinship-systems-comparative", target_type: "مدرسة"
 related:
 - id: "thk-meyer-fortes", title: "Meyer Fortes", type: "مفكر"
 - id: "thk-radcliffe-brown", title: "A. R. Radcliffe-Brown", type: "مفكر"

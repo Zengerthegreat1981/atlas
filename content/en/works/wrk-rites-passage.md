@@ -11,7 +11,7 @@ dates: "1909 · van Gennep"
 active_start: 1909
 active_end: 1909
 edges:
-  - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
+  - rel: "belongs_to", target: "fld-anthropology", target_type: "مجال"
 related:
   - id: "thk-arnold-van-gennep", title: "Arnold van Gennep: Rites of Passage and Liminality", type: "مفكر"
   - id: "con-rite-of-passage", title: "Rites of Passage", type: "مفهوم"

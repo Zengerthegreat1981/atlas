@@ -12,7 +12,7 @@ author_slug: "thk-plutarch"
 publication_year: 110
 original_language: "Greek"
 edges:
-- rel: "authored_by", target: "Plutarch", target_type: "مفكر"
+- rel: "authored_by", target: "hst-plutarch", target_type: "مفكر"
 related:
 - id: "sch-plutarch-parallel-biography", title: "Plutarch's Parallel Lives", type: "مدرسة"
 gaps: []

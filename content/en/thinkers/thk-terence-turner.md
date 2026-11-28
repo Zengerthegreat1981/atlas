@@ -9,7 +9,7 @@ en: "Terence Turner"
 crumb: "Anthropology ← Amazonian Anthropology ← Terence Turner"
 dates: "USA · 1935-2015"
 edges:
-  - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
+  - rel: "belongs_to", target: "fld-anthropology", target_type: "مجال"
 related:
   []
 gaps:

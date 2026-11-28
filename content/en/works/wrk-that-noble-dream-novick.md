@@ -14,7 +14,7 @@ crumb: "Historiography ← Works ← That Noble Dream"
 active_start: 1988
 active_end: "مستمر"
 edges:
-- rel: "authored_by", target: "Peter Novick", target_type: "مفكر"
+- rel: "authored_by", target: "thk-peter-novick", target_type: "مفكر"
 related:
   - id: "thk-peter-novick", title: "Peter Novick", type: "مفكر"
   - id: "sch-objectivity-debate-carr-elton-novick", title: "The Question of Objectivity and Interpretation: Carr, Elton and Novick", type: "مدرسة"

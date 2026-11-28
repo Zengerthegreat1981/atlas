@@ -4,12 +4,13 @@ id: "THK-0104"
 type: "مفكر"
 part: philosophy
 level: "متوسط"
+quality: "unverified"
 title: "Simone de Beauvoir"
 en: "Simone de Beauvoir"
 crumb: "Existential Philosophy ← People ← Simone de Beauvoir"
 dates: "Paris, France · 1908–1986"
 edges:
-  - rel: "belongs_to", target: "Existentialist School", target_type: "مدرسة"
+  - rel: "belongs_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
   - id: "dbt-individualism", title: "The Individualism Dispute", type: "جدل"
   - id: "thk-sartre", title: "Jean-Paul Sartre", type: "مفكر"
@@ -42,7 +43,7 @@ Her presence in presentations of existentialism has long been smaller than her a
 
 ## Selected Quotations
 
-"One is not born, but rather becomes, a woman." — *The Second Sex*, 1949 (Vol. 2, Book 1)
+"One is not born, but rather becomes, a woman." — *The Second Sex*, 1949 (opening of vol. 2; wording of the 1953 Parshley translation)
 
 ## Criticisms and Debates
 
@@ -51,7 +52,7 @@ Critics have asked how far her account of freedom and of the body remains tied t
 ## Sources
 
 - Beauvoir, Simone de, *The Ethics of Ambiguity*, trans. Bernard Frechtman, New York: Philosophical Library, 1948.
-- Beauvoir, Simone de, *The Second Sex*, trans. Constance Borde and Sheila Malovany-Chevallier, New York: Knopf, 2009.
+- Beauvoir, Simone de, *The Second Sex*, trans. Constance Borde and Sheila Malovany-Chevallier, New York: Knopf, 2010.
 - Bair, Deirdre, *Simone de Beauvoir: A Biography*, New York: Summit Books, 1990.
 - Kruks, Sonia, *Situation and Human Existence: Freedom, Subjectivity and Society*, London: Unwin Hyman, 1990.
 - Moi, Toril, *Simone de Beauvoir: The Making of an Intellectual Woman*, Oxford: Blackwell, 1994.

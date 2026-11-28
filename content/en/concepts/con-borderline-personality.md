@@ -11,7 +11,7 @@ active_start: 1980
 active_end: "مستمر"
 language: "Arabic, English"
 edges:
-- rel: "belongs_to", target: "Personality Disorders", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-personality-disorders", target_type: "مدرسة"
 related:
 - id: "sch-personality-disorders", title: "Personality Disorders", type: "مدرسة"
 - id: "con-dialectical-behavior-therapy", title: "Dialectical Behavior Therapy", type: "مفهوم"

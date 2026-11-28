@@ -11,8 +11,8 @@ active_start: -3000
 active_end: null
 cultural_origin: null
 edges:
-- rel: "related_to", target: "Authority of the Scribe and Documentarian", target_type: "مفهوم"
-- rel: "related_to", target: "Propaganda and Royal Inscription", target_type: "مفهوم"
+- rel: "relates_to", target: "Authority of the Scribe and Documentarian", target_type: "مفهوم"
+- rel: "relates_to", target: "Propaganda and Royal Inscription", target_type: "مفهوم"
 related:
   - id: "con-propaganda-stele", title: "Propaganda and Royal Inscription", type: "مفهوم"
   - id: "con-historical-evidence-interpretation", title: "Historical Evidence and Interpretation", type: "مفهوم"

@@ -9,8 +9,8 @@ en: "Claude Lévi-Strauss"
 crumb: "Anthropology ← Methods & Epistemology ← Claude Lévi-Strauss"
 dates: "France · 1908-2009"
 edges:
-  - rel: "belongs_to", target: "Structural Anthropology", target_type: "مدرسة"
-  - rel: "developed_method", target: "Structural Analysis", target_type: "مفهوم"
+  - rel: "belongs_to", target: "scl-structural-anthropology", target_type: "مدرسة"
+  - rel: "developed_method", target: "con-structural-analysis", target_type: "مفهوم"
   - rel: "influenced", target: "Comparative Mythology", target_type: "مفهوم"
 related:
   - id: "con-structural-analysis", title: "Structural Analysis in Anthropology", type: "مفهوم"

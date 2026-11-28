@@ -4,6 +4,7 @@ id: "THK-2338"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"
+quality: "unverified"
 title: "Epictetus"
 en: "Epictetus"
 crumb: "Philosophy ← Thinkers ← Epictetus"
@@ -13,7 +14,7 @@ language: "Greek"
 active_start: 90
 active_end: 135
 edges:
-- rel: "belongs_to", target: "Stoicism", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-stoicism", target_type: "مدرسة"
 related:
 - id: "sch-stoicism", title: "Stoicism", type: "مدرسة"
 - id: "thk-marcus-aurelius", title: "Marcus Aurelius", type: "مفكر"

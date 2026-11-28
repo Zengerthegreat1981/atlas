@@ -8,7 +8,7 @@ title: "What Makes Existence Authentic?"
 en: "What Makes Existence Authentic?"
 crumb: "Existential Philosophy ← Questions ← What Makes Existence Authentic?"
 edges:
-  - rel: "relates_to", target: "Existentialist School", target_type: "مدرسة"
+  - rel: "relates_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
   - id: "con-authenticity", title: "Authenticity", type: "مفهوم"
   - id: "thk-heidegger", title: "Martin Heidegger", type: "مفكر"

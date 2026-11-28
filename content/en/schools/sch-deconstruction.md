@@ -4,6 +4,7 @@ id: "SCH-0084"
 type: "مدرسة"
 part: philosophy
 level: "متقدم"
+quality: "unverified"
 title: "Deconstruction (Déconstruction)"
 en: "Deconstruction"
 crumb: "Philosophy ← Schools ← Deconstruction"
@@ -14,7 +15,7 @@ language: "French, English"
 active_start: 1967
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Post-structuralism", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-post-structuralism", target_type: "مدرسة"
 related:
 - id: "sch-post-structuralism", title: "Post-structuralism (Post-structuralisme)", type: "مدرسة"
 - id: "sch-postmodernism-philosophical", title: "Philosophical Postmodernism", type: "مدرسة"

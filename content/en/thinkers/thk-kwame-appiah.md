@@ -9,7 +9,7 @@ en: "Kwame Anthony Appiah"
 crumb: "Anthropology ← Kwame Anthony Appiah"
 dates: "Ghana-USA · 1954-"
 edges:
-  - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
+  - rel: "belongs_to", target: "fld-anthropology", target_type: "مجال"
 related:
   []
 gaps:

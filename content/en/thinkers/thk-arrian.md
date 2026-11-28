@@ -15,6 +15,7 @@ related:
   - id: "hst-plutarch", type: "مفكر"
   - id: "hst-con-source-criticism-ancient", type: "مفكر"
   - id: "hst-con-military-history-ancient", type: "مفكر"
+  - id: "hst-xenophon", type: "مفكر"
 gaps: []
 ---
 
@@ -50,10 +51,12 @@ Where Ptolemy and Aristobulus agreed, Arrian accepted their narrative as establi
 ## Major Works
 
 Beyond the *Anabasis*, Arrian composed an extensive corpus:
-- **The *Indica***: a companion monograph to the *Anabasis* written in the Ionic dialect in imitation of Herodotus, describing the geography, flora, fauna, and caste divisions of India, and preserving the journal of Alexander's admiral Nearchus detailing the fleet's voyage from the Indus delta to the mouth of the Euphrates.
+- **The *Indica***: a companion monograph to the *Anabasis* written in the Ionic dialect in imitation of Herodotus, describing the geography, flora, fauna, and caste divisions of India, and preserving the journal of Alexander's admiral Nearchus detailing the fleet's voyage from the Indus delta to the mouth of the Euphrates. It also draws on Megasthenes's account of India.
 - **The *Events after Alexander* (*Ta meta Alexandron*, in ten books)**: an extensive history of the Wars of the Diadochi (Successors) down to 320 BCE, which survives only in epitomes preserved by the Byzantine patriarch Photius in his *Bibliotheca*.
 - **The *Parthica* (in seventeen books)**: a contemporary history of Trajan's campaigns in Mesopotamia, preserved in fragments.
 - **The *Periplus Ponti Euxini* (Circumnavigation of the Black Sea)**: an administrative and geographical report addressed directly to Emperor Hadrian detailing ports, garrisons, and distances along the Black Sea coast.
+- **The *Techne Taktike***: a manual of military tactics.
+- **The *Cynegeticus***: a treatise on hunting that updated Xenophon's work.
 
 ## Theoretical Framework
 
@@ -67,10 +70,12 @@ Arrian remains the principal foundational text for modern historians of Alexande
 
 ## Limitations and Critical Perspectives
 
-While Arrian's reliance on Ptolemy and Aristobulus yielded military clarity, modern scholars—notably A. B. Bosworth—have argued that Arrian was sometimes overly trusting of his primary authorities. Ptolemy had political interests of his own during the Wars of the Diadochi, leading him to minimize the contributions of rivals like Perdiccas and Antigonus while exaggerating his own role. Furthermore, Arrian's elite military and administrative focus left little room for the social, fiscal, and cultural transformations experienced by the subjugated Persian and Asian populations.
+While Arrian's reliance on Ptolemy and Aristobulus yielded military clarity, modern scholars—notably A. B. Bosworth—have argued that Arrian was sometimes overly trusting of his primary authorities. Ptolemy had political interests of his own during the Wars of the Diadochi, leading him to minimize the contributions of rivals like Perdiccas and Antigonus while exaggerating his own role. Reliance on such Macedonian court-connected sources could also play down internal opposition to Alexander and soften the king's autocratic tendencies. Furthermore, Arrian's elite military and administrative focus left little room for the social, fiscal, and cultural transformations experienced by the subjugated Persian and Asian populations.
 
 ## Sources
 
+- Arrian. *Anabasis of Alexander and Indica*. Translated by P. A. Brunt (2 vols.). Loeb Classical Library, Harvard University Press, 1976–1983.
+- Bosworth, A. B. (1988). *Conquest and Empire: The Reign of Alexander the Great*. Cambridge University Press.
 - Bosworth, A. B. (1988). *From Arrian to Alexander: Studies in Historical Interpretation*. Oxford University Press.
 - Bosworth, A. B. (1980–1995). *A Historical Commentary on Arrian's History of Alexander* (2 vols.). Oxford University Press.
 - Stadter, P. A. (1980). *Arrian of Nicomedia*. University of North Carolina Press.

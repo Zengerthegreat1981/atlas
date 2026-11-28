@@ -16,7 +16,7 @@ active_start: 1910
 active_end: "مستمر"
 edges:
 - rel: "authored_by", target: "Rudolf Hilferding", target_type: "مفكر"
-- rel: "belongs_to", target: "Classical Theories of Imperialism", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-classical-theories-of-imperialism", target_type: "مدرسة"
 related:
 - id: "sch-classical-theories-of-imperialism", title: "Classical Theories of Imperialism", type: "مدرسة"
 - id: "thk-vladimir-lenin", title: "Vladimir Lenin", type: "مفكر"

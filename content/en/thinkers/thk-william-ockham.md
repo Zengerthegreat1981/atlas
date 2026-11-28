@@ -13,7 +13,7 @@ active_end: 1347
 country: "England, Germany (the Holy Roman Empire)"
 language: "Latin"
 edges:
-- rel: "belongs_to", target: "Ockhamism / Nominalism", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-ockhamism", target_type: "مدرسة"
 related:
 - id: "sch-ockhamism", title: "Ockhamism / Nominalism", type: "مدرسة"
 gaps: []

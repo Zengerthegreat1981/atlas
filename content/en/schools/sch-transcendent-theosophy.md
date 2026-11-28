@@ -4,6 +4,7 @@ id: "SCH-0307"
 type: "مدرسة"
 part: "philosophy"
 level: "متقدم"
+quality: "unverified"
 title: "Transcendent Theosophy (Mullā Ṣadrā)"
 en: "Transcendent Theosophy (Mullā Ṣadrā)"
 crumb: "Philosophy ← Schools ← Transcendent Theosophy"
@@ -30,7 +31,7 @@ Transcendent Theosophy is a philosophical doctrine formulated by Sadr al-Din Muh
 
 ## Biography and Context
 
-Mulla Sadra was born in Shiraz to a well-off family and studied in Isfahan, the capital of Shah Abbas I, under Mir Damad (d. 1041 AH), Shaykh Baha'i (d. 1030 AH) and Mir Abu al-Qasim Findiriski. He then withdrew under pressure from conservative jurists who were displeased with his philosophy, and spent many years in the village of Kahak near Qom, in contemplation and revision. Later he returned to Shiraz to teach at the school built by the governor of Fars, and he wrote many of his major works. He died in Basra on his way to the pilgrimage for the seventh time. His work was not a break with what came before but the product of dialogue with the commentators of Suhrawardi and Ibn Sina in Shiraz and Isfahan.
+Mulla Sadra was born in Shiraz to a well-off family and studied in Isfahan, the capital of Shah Abbas I, under Mir Damad (d. 1041 AH) and Shaykh Baha'i (d. 1030 AH); later accounts often add Mir Abu al-Qasim Findiriski, though historical evidence that Sadra studied with him is lacking. He then withdrew under pressure from conservative jurists who were displeased with his philosophy, and spent many years in the village of Kahak near Qom, in contemplation and revision. Later he returned to Shiraz to teach at the school built by the governor of Fars, and he wrote many of his major works. He died in Basra on his way to the pilgrimage for the seventh time. His work was not a break with what came before but the product of dialogue with the commentators of Suhrawardi and Ibn Sina in Shiraz and Isfahan.
 
 ## The Major Principles
 

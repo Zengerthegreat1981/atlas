@@ -14,7 +14,7 @@ dates: "France / United States / Germany · 1949–1979 (with ongoing influence)
 active_start: 1949
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "The Founding of the 'Science of Religion': Max Müller and the Birth of Comparative Religion", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-founding-comparative-religion-science-of-religion", target_type: "مدرسة"
 related:
 - id: "thk-claude-levi-strauss", title: "Claude Lévi-Strauss", type: "مفكر"
 - id: "thk-mircea-eliade", title: "Mircea Eliade", type: "مفكر"

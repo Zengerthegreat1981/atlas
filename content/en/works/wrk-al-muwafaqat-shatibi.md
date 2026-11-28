@@ -16,7 +16,7 @@ legal_tradition: "Islamic usul al-fiqh"
 active_start: 1388
 active_end: "مستمر"
 edges:
-- rel: "authored_by", target: "Abu Ishaq al-Shatibi", target_type: "مفكر"
+- rel: "authored_by", target: "thk-al-shatibi", target_type: "مفكر"
 related:
 - id: "thk-al-shatibi", title: "Abu Ishaq Ibrahim ibn Musa al-Shatibi", type: "مفكر"
 - id: "con-maqasid-al-shariah-shatibi", title: "Maqasid al-Shari'ah according to al-Shatibi", type: "مفهوم"

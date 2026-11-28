@@ -10,7 +10,7 @@ title: "Myth & Second-Order Signification (Barthes)"
 en: "Myth & Second-Order Signification (Barthes)"
 crumb: "Linguistics ← Concepts ← Myth & Second-Order Signification (Barthes)"
 edges:
-- rel: "belongs_to", target: "Structuralist Semiology", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-structuralist-semiology", target_type: "مدرسة"
 related:
 - id: "sch-structuralist-semiology", title: "Structuralist Semiology", type: "مدرسة"
 - id: "con-signifier-signified", title: "Signifier and Signified", type: "مفهوم"

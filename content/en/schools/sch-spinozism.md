@@ -4,6 +4,7 @@ id: "SCH-0297"
 type: "مدرسة"
 part: "philosophy"
 level: "متقدم"
+quality: "unverified"
 title: "Spinozism"
 en: "Spinozism"
 crumb: "Philosophy ← Schools ← Spinozism"
@@ -15,7 +16,7 @@ active_start: 1660
 active_end: 1750
 edges:
 - rel: "belongs_to", target: "Continental Rationalism", target_type: "مدرسة"
-- rel: "evolved_from", target: "Cartesianism", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-cartesianism", target_type: "مدرسة"
 related:
 - id: "sch-cartesianism", title: "Cartesianism", type: "مدرسة"
 - id: "sch-leibnizianism", title: "Leibnizianism", type: "مدرسة"
@@ -50,7 +51,7 @@ Spinoza was born in Amsterdam to a family of Portuguese Jews who had left Portug
 ## Reception and development
 
 - **Bayle and the Radical Enlightenment**: Pierre Bayle's article "Spinoza" in his *Dictionnaire* (1697) presented Spinoza as an atheist and a figure of scandal. Jonathan Israel argues that Spinozism was the centre of a radical, secular tendency in the early Enlightenment.
-- **Contemporaries**: Adriaan Koerbagh (1633–1669), Lodewijk Meyer (1629–1681, *Philosophia S. Scripturae Interpres*, 1666) and the publisher Jan Rieuwertsz (1616–1687) belonged to Spinoza's circle in the Dutch Republic. Henry More attacked Spinoza in his *Enchiridion metaphysicum* (1671). Leibniz visited him in 1676, was influenced by him, but rejected his necessitarianism and his single substance in favour of a plurality of monads.
+- **Contemporaries**: Adriaan Koerbagh (1633–1669), Lodewijk Meyer (1629–1681, *Philosophia S. Scripturae Interpres*, 1666) and the publisher Jan Rieuwertsz (1616–1687) belonged to Spinoza's circle in the Dutch Republic. Henry More attacked Spinoza in two Latin tracts published in his *Opera omnia* (1679). Leibniz visited him in 1676, was influenced by him, but rejected his necessitarianism and his single substance in favour of a plurality of monads.
 - **German thought**: F. H. Jacobi's *Letters on the Doctrine of Spinoza* (1785) provoked the "pantheism controversy" with Moses Mendelssohn, and made Spinoza central to Herder, Goethe, Schelling and Hegel, who said that to be a philosopher one must first be a Spinozist.
 - **Twentieth century**: Gilles Deleuze (*Spinoza et le problème de l'expression*, 1968; *Spinoza: philosophie pratique*, 1970), Louis Althusser, Pierre Macherey (*Hegel ou Spinoza*, 1979), Étienne Balibar and Antonio Negri revived Spinoza as a thinker of power, affect and politics. Einstein said in 1929 that he believed in "Spinoza's God", who reveals himself in the lawful harmony of what exists.
 

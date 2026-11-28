@@ -13,7 +13,7 @@ language: "German"
 active_start: 1913
 active_end: 1969
 edges:
-  - rel: "belongs_to", target: "Existentialist School", target_type: "مدرسة"
+  - rel: "belongs_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
   - id: "br-daseins", title: "Existential Analysis", type: "تيار"
 gaps: []
@@ -25,7 +25,7 @@ Karl Jaspers (1883–1969) was a German psychiatrist and philosopher who introdu
 
 ## Life and Academic Career
 
-Jaspers was born in Oldenburg on 23 February 1883. He studied law briefly before turning to medicine, receiving his medical degree in 1908. From 1909 to 1915 he worked at the psychiatric clinic of Heidelberg University under the direction of Franz Nissl. In 1913 he completed his habilitation in psychology, became a professor of psychology at Heidelberg in 1916, and transitioned to the chair of philosophy in 1921. 
+Jaspers was born in Oldenburg on 23 February 1883. He studied law briefly before turning to medicine, receiving his medical degree in 1909. From 1909 to 1915 he worked at the psychiatric clinic of Heidelberg University under the direction of Franz Nissl. In 1913 he completed his habilitation in psychology, became a professor of psychology at Heidelberg in 1916, and transitioned to the chair of philosophy in 1921. 
 
 His marriage to Gertrud Mayer, who was Jewish, placed him in grave danger under the National Socialist regime. Stripped of his professorship in 1937 and placed under a total publication ban in 1938, the couple lived under constant threat of deportation until Heidelberg was liberated in 1945. Jaspers was reinstated to his chair and helped rebuild the university, before accepting a professorship at the University of Basel in Switzerland in 1948, where he taught until his retirement in 1961. He died in Basel on 26 February 1969.
 
@@ -33,7 +33,7 @@ His marriage to Gertrud Mayer, who was Jewish, placed him in grave danger under 
 
 In his seminal treatise *General Psychopathology* (*Allgemeine Psychopathologie*, 1913), Jaspers reshaped psychiatric method by applying Edmund Husserl's early phenomenological method and Wilhelm Dilthey's distinction between explanatory sciences (*Naturwissenschaften*) and interpretive sciences (*Geisteswissenschaften*). 
 
-He distinguished sharply between **explaining** (*Erklären*), which traces psychological symptoms to external somatic or neurobiological causes, and **understanding** (*Verstehen*), which grasps psychological phenomena from within through empathetic comprehension of subjective meaning. In clinical diagnosis, Jaspers drew a distinction between understandable reactive developments from the "un-understandable" (*unverständlich*) radical psychic alterations characteristic of schizophrenic psychosis, alongside his classic classification of primary delusions (*Wahnwahrnehmungen*) versus delusion-like ideas (*wahnhafte Ideen*).
+He distinguished sharply between **explaining** (*Erklären*), which traces psychological symptoms to external somatic or neurobiological causes, and **understanding** (*Verstehen*), which grasps psychological phenomena from within through empathetic comprehension of subjective meaning. In clinical diagnosis, Jaspers drew a distinction between understandable reactive developments from the "un-understandable" (*unverständlich*) radical psychic alterations characteristic of schizophrenic psychosis, alongside his classic distinction between delusions proper (*echte Wahnideen*) and delusion-like ideas (*wahnhafte Ideen*).
 
 ## Limit Situations and the Philosophy of Existenz
 

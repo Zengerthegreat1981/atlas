@@ -13,7 +13,7 @@ language: "German, then English"
 active_start: 1911
 active_end: 1951
 edges:
-- rel: "belongs_to", target: "Logical Atomism", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-logical-atomism", target_type: "مدرسة"
 related:
 - id: "thk-bertrand-russell", title: "Bertrand Russell", type: "مفكر"
 - id: "sch-logical-atomism", title: "Logical Atomism", type: "مدرسة"

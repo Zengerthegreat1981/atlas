@@ -13,8 +13,8 @@ language: "English"
 active_start: 1871
 active_end: 1914
 edges:
-- rel: "belongs_to", target: "Classical Pragmatism", target_type: "مدرسة"
-- rel: "founded", target: "Classical Pragmatism", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-pragmatism-classical", target_type: "مدرسة"
+- rel: "founded", target: "sch-pragmatism-classical", target_type: "مدرسة"
 related:
 - id: "thk-dewey", title: "John Dewey", type: "مفكر"
 - id: "thk-james", title: "William James", type: "مفكر"

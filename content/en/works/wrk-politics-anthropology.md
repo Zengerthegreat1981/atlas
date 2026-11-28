@@ -12,7 +12,7 @@ dates: "1967; English 1970 · Balandier"
 active_start: 1967
 active_end: 1967
 edges:
-  - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
+  - rel: "belongs_to", target: "fld-anthropology", target_type: "مجال"
 related:
   - id: "br-political-anthropology-subfield", title: "Political Anthropology", type: "مدرسة"
   - id: "sch-manchester-school", title: "Manchester School of Anthropology", type: "مدرسة"

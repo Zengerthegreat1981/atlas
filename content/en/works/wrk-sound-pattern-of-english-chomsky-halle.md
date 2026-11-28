@@ -16,7 +16,7 @@ language: "English"
 active_start: 1968
 active_end: 1968
 edges:
-- rel: "belongs_to", target: "Generative Phonology", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-generative-phonology", target_type: "مدرسة"
 related:
 - id: "sch-generative-phonology", title: "Generative Phonology", type: "مدرسة"
 - id: "con-distinctive-features-phonology", title: "Distinctive Features", type: "مفهوم"

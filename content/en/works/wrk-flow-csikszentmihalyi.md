@@ -17,7 +17,7 @@ author_slug: "thk-csikszentmihalyi"
 publication_year: 1990
 original_language: "English"
 edges:
-- rel: "written_by", target: "Mihaly Csikszentmihalyi", target_type: "مفكر"
+- rel: "authored_by", target: "thk-csikszentmihalyi", target_type: "مفكر"
 related:
 - id: "thk-csikszentmihalyi", title: "Mihaly Csikszentmihalyi", type: "مفكر"
 - id: "con-flow", title: "Flow", type: "مفهوم"

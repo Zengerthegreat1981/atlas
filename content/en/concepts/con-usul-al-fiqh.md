@@ -11,7 +11,7 @@ active_start: 767
 active_end: "مستمر"
 language: "English"
 edges:
-- rel: "belongs_to", target: "Early Islamic & Classical Period", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-early-islamic-classical", target_type: "مدرسة"
 related:
 - id: "sch-early-islamic-classical", title: "Early Islamic & Classical Period", type: "مدرسة"
 - id: "con-fiqh-schools", title: "Fiqh Schools", type: "مفهوم"

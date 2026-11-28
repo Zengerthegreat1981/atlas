@@ -17,7 +17,7 @@ cultural_origin: "western"
 active_start: 1877
 active_end: 1922
 edges:
-- rel: "belongs_to", target: "Academic Study of Hinduism and Buddhism (Indology & Buddhology)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-academic-buddhist-indic-studies", target_type: "مدرسة"
 related:
 - id: "sch-academic-buddhist-indic-studies", title: "Academic Study of Hinduism and Buddhism (Indology & Buddhology)", type: "مدرسة"
 - id: "thk-eugene-burnouf", title: "Eugène Burnouf", type: "مفكر"

@@ -13,7 +13,7 @@ language: "German"
 active_start: 1920
 active_end: 1967
 edges:
-- rel: "belongs_to", target: "Psychotic Disorders and Schizophrenia", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-psychotic-schizophrenia", target_type: "مدرسة"
 related:
 - id: "sch-psychotic-schizophrenia", title: "Psychotic Disorders and Schizophrenia", type: "مدرسة"
 gaps: []

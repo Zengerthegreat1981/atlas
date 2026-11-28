@@ -10,7 +10,7 @@ crumb: "Legal Theory ← Concepts ← Judicial Review"
 active_start: 1803
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Constitutional Law Theory", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-constitutional-law-theory", target_type: "مدرسة"
 related: []
 gaps: []
 ---

@@ -9,7 +9,7 @@ title: "Being-Toward-Death"
 en: "Being-Toward-Death (Sein-zum-Tode)"
 crumb: "Existential Philosophy ← Concepts ← Being-Toward-Death"
 edges:
-  - rel: "belongs_to", target: "Existentialist School", target_type: "مدرسة"
+  - rel: "belongs_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
   - id: "con-fear", title: "Fear", type: "مفهوم"
   - id: "con-death", title: "Death", type: "مفهوم"

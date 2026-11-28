@@ -16,7 +16,7 @@ active_start: 1965
 active_end: 2015
 active_source: "lifespan"
 edges:
-- rel: "belongs_to", target: "Language Policy & Endangerment", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-language-policy-endangerment", target_type: "مدرسة"
 related:
 - id: "sch-language-policy-endangerment", title: "Language Policy & Endangerment", type: "مدرسة"
 - id: "con-diglossia", title: "Diglossia", type: "مفهوم"

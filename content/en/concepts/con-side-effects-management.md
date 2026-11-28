@@ -11,8 +11,8 @@ active_start: 1990
 active_end: "مستمر"
 language: "English"
 edges:
-- rel: "relates_to", target: "Antipsychotic Mechanisms", target_type: "مفهوم"
-- rel: "relates_to", target: "Serotonin Reuptake Inhibitors", target_type: "مفهوم"
+- rel: "relates_to", target: "con-antipsychotics-mechanisms", target_type: "مفهوم"
+- rel: "relates_to", target: "con-antidepressants-ssri", target_type: "مفهوم"
 - rel: "relates_to", target: "Mood Stabilizers and Lithium", target_type: "مفهوم"
 - rel: "relates_to", target: "Mental Health Stigma", target_type: "مفهوم"
 related:

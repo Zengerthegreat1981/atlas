@@ -15,7 +15,7 @@ legal_tradition: "Islamic legal theory (contemporary studies)"
 active_start: 1984
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Islamic Legal Theory (Usul al-Fiqh)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-usul-al-fiqh-legal-theory", target_type: "مدرسة"
 related:
 - id: "sch-usul-al-fiqh-legal-theory", title: "Islamic Legal Theory (Usul al-Fiqh)", type: "مدرسة"
 - id: "con-gate-of-ijtihad-debate-hallaq", title: "The Gate of Ijtihad Debate", type: "مفهوم"

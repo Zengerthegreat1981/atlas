@@ -4,6 +4,7 @@ id: "SCH-0101"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"
+quality: "unverified"
 title: "Ethnophilosophy"
 en: "Ethnophilosophy"
 crumb: "Philosophy ← Schools ← Ethnophilosophy"
@@ -33,7 +34,7 @@ The current began in its well-known form with:
 ## Central Ideas
 
 - **African philosophy = a shared worldview**: every community has a unified vision of being, representing the implicit philosophy of the people.
-- **Bantu ontology**: in Tempels and Alexis Kagame, the categories Muntu (human being), Kintu (thing), Hantu (place and time) and Kuntu (modality and manner), a system of categories that parallels Aristotle's system.
+- **Bantu ontology**: in Alexis Kagame, writing after Tempels, the categories Muntu (human being), Kintu (thing), Hantu (place and time) and Kuntu (modality and manner), a system of categories that parallels Aristotle's system.
 - **Language as ontology**: the grammar and vocabulary of a language reveal a view of the world, as Kagame showed in "The Bantu-Rwandan Philosophy of Being" (1956).
 - **Practical wisdom**: proverbs, traditions and rituals are the source of values.
 - **Person and community**: in John Mbiti, the phrase "I am because we are," which stresses the priority of the community in constituting the person.

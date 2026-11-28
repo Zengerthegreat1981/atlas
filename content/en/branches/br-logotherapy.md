@@ -9,7 +9,7 @@ en: "Logotherapy & Existential Analysis"
 crumb: "Existential Psychotherapy ← Currents ← Logotherapy & Existential Analysis"
 dates: "Austria · from the 1930s"
 edges:
-  - rel: "part_of", target: "Existentialist School", target_type: "مدرسة"
+  - rel: "part_of", target: "sch-existentialism", target_type: "مدرسة"
   - rel: "developed_by", target: "Frankl", target_type: "مفكر"
   - rel: "revised_by", target: "Längle", target_type: "مفكر"
   - rel: "influenced", target: "Meaning-centred therapy", target_type: "تدخّل"

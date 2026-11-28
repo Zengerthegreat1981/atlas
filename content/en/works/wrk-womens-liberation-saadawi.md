@@ -18,7 +18,7 @@ active_end: 1972
 language: "Arabic"
 register: "academic"
 edges:
-- rel: "written_by", target: "Nawal El Saadawi", target_type: "مفكر"
+- rel: "authored_by", target: "thk-nawal-el-saadawi", target_type: "مفكر"
 - rel: "belongs_to", target: "Contemporary Intellectual Movements School", target_type: "مدرسة"
 related:
 - id: "thk-nawal-el-saadawi", title: "Nawal El Saadawi", type: "مفكر"

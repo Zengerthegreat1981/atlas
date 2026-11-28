@@ -12,11 +12,11 @@ active_start: 1980
 active_end: "مستمر"
 language: "English"
 edges:
-- rel: "belongs_to", target: "Developmental Child Psychiatry", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-developmental-child-psychiatry", target_type: "مدرسة"
 - rel: "relates_to", target: "Temperament and Risk Factors", target_type: "مفهوم"
-- rel: "relates_to", target: "Attachment Theory & Development", target_type: "مفهوم"
+- rel: "relates_to", target: "con-attachment-theory", target_type: "مفهوم"
 - rel: "relates_to", target: "Schizophrenia", target_type: "مفهوم"
-- rel: "relates_to", target: "Childhood Anxiety & Depression", target_type: "مفهوم"
+- rel: "relates_to", target: "con-childhood-anxiety", target_type: "مفهوم"
 related:
 - id: "sch-developmental-child-psychiatry", title: "Developmental Child Psychiatry", type: "مدرسة"
 - id: "con-temperament-risk", title: "Temperament and Risk Factors", type: "مفهوم"

@@ -9,7 +9,7 @@ en: "Applied Anthropology"
 crumb: "Anthropology ← Schools ← Applied Anthropology"
 dates: "USA/International · 1930s-present"
 edges:
-  - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
+  - rel: "belongs_to", target: "fld-anthropology", target_type: "مجال"
 related: []
 gaps:
   []

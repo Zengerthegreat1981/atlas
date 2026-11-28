@@ -9,7 +9,7 @@ en: "Ethnobotany"
 crumb: "Anthropology ← Schools ← Ethnobotany"
 dates: "International · 1970s-present"
 edges:
-  - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
+  - rel: "belongs_to", target: "fld-anthropology", target_type: "مجال"
 related:
   []
 gaps:

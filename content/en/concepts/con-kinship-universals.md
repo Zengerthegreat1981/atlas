@@ -10,7 +10,7 @@ crumb: "Anthropology ← Concepts ← Kinship Universals"
 active_start: 1949
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "Descent Theory", target_type: "مدرسة"
+  - rel: "belongs_to", target: "sch-descent-theory", target_type: "مدرسة"
 related:
   - id: "sch-descent-theory", title: "Descent Theory", type: "مدرسة"
   - id: "con-lineage-system", title: "Lineage System", type: "مفهوم"

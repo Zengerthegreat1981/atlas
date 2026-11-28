@@ -9,8 +9,8 @@ en: "The Elementary Structures of Kinship"
 crumb: "Lévi-Strauss · Kinship & Exchange"
 dates: "1949 · Lévi-Strauss (orig. French 1949)"
 edges:
-  - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
-  - rel: "written_by", target: "Lévi-Strauss", target_type: "مفكر"
+  - rel: "belongs_to", target: "fld-anthropology", target_type: "مجال"
+  - rel: "authored_by", target: "Lévi-Strauss", target_type: "مفكر"
 related:
   - id: "wrk-the-gift", title: "The Gift", type: "عمل"
 gaps: []

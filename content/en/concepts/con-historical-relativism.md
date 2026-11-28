@@ -8,7 +8,7 @@ title: "Historical Relativism"
 en: "Historical Relativism"
 crumb: "Historiography ← Concepts ← Historical Relativism"
 edges:
-- rel: "related_to", target: "Anachronism in History", target_type: "مفهوم"
+- rel: "relates_to", target: "Anachronism in History", target_type: "مفهوم"
 related:
 - id: "con-anachronism-history", title: "Anachronism", type: "مفهوم"
 - id: "con-historiographical-consciousness", title: "Historical Consciousness", type: "مفهوم"

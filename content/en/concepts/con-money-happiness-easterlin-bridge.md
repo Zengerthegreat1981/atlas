@@ -11,7 +11,7 @@ active_start: 1974
 active_end: "مستمر"
 edges:
   - rel: "relates_to", target: "Diminishing Returns", target_type: "مفهوم"
-  - rel: "relates_to", target: "Daniel Kahneman", target_type: "مفكر"
+  - rel: "relates_to", target: "thk-kahneman", target_type: "مفكر"
 related:
   - id: "thk-kahneman", title: "Daniel Kahneman", type: "مفكر"
 gaps: []

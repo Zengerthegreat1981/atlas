@@ -9,7 +9,7 @@ en: "Paul Bohannan"
 crumb: "Anthropology ← Economic Anthropology ← Paul Bohannan"
 dates: "USA · 1920-2007"
 edges:
-  - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
+  - rel: "belongs_to", target: "fld-anthropology", target_type: "مجال"
 related:
   []
 gaps:

@@ -16,8 +16,8 @@ register: "clinical"
 evidence_level: "controversial"
 cultural_origin: "anglo-american"
 edges:
-- rel: "belongs_to", target: "Trauma Psychology", target_type: "مدرسة"
-- rel: "developed_by", target: "Francine Shapiro", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-trauma-psychology", target_type: "مدرسة"
+- rel: "developed_by", target: "thk-francine-shapiro", target_type: "مفكر"
 - rel: "belongs_to", target: "Cognitive-Behavioral Therapy", target_type: "مدرسة"
 related:
 - id: "dis-ptsd", title: "Post-Traumatic Stress Disorder (PTSD)", type: "اضطراب/حالة إكلينيكية"

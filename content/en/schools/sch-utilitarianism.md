@@ -4,6 +4,7 @@ id: "SCH-0317"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"
+quality: "unverified"
 title: "Utilitarianism"
 en: "Utilitarianism"
 crumb: "Philosophy ← Schools ← Utilitarianism"
@@ -15,7 +16,7 @@ active_start: 1789
 active_end: 1900
 edges:
 - rel: "evolved_into", target: "Contemporary Utilitarianism", target_type: "مدرسة"
-- rel: "belongs_to", target: "Comtean Positivism", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-comtean-positivism", target_type: "مدرسة"
 related:
 - id: "thk-bentham", title: "Jeremy Bentham", type: "مفكر"
 gaps: []

@@ -16,7 +16,7 @@ legal_tradition: "Islamic criminal jurisprudence compared with positive law"
 active_start: 1949
 active_end: "مستمر"
 edges:
-- rel: "authored_by", target: "Abd al-Qadir Awda", target_type: "مفكر"
+- rel: "authored_by", target: "thk-abd-al-qadir-awda", target_type: "مفكر"
 related:
 - id: "thk-abd-al-qadir-awda", title: "Abd al-Qadir Awda", type: "مفكر"
 gaps:

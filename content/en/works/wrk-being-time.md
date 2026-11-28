@@ -9,8 +9,8 @@ en: "Sein und Zeit · Being and Time"
 crumb: "Existential Philosophy ← Works ← Being and Time"
 dates: "1927 · Heidegger"
 edges:
-  - rel: "written_by", target: "Heidegger", target_type: "مفكر"
-  - rel: "belongs_to", target: "Existentialist School", target_type: "مدرسة"
+  - rel: "authored_by", target: "Heidegger", target_type: "مفكر"
+  - rel: "belongs_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
   - id: "thk-heidegger", title: "Martin Heidegger", type: "مفكر"
   - id: "wrk-zollikon", title: "Zollikon Seminars: Protocols — Conversations — Letters", type: "عمل"

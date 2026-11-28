@@ -15,8 +15,8 @@ economic_school: "Economics of inequality"
 active_start: 2013
 active_end: "مستمر"
 edges:
-- rel: "authored_by", target: "Thomas Piketty", target_type: "مفكر"
-- rel: "belongs_to", target: "Economics of Inequality", target_type: "مدرسة"
+- rel: "authored_by", target: "thk-thomas-piketty", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-economics-of-inequality", target_type: "مدرسة"
 related:
 - id: "thk-thomas-piketty", title: "Thomas Piketty", type: "مفكر"
 - id: "sch-economics-of-inequality", title: "Economics of Inequality", type: "مدرسة"

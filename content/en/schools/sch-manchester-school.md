@@ -15,7 +15,7 @@ cultural_origin: "european"
 active_start: 1949
 active_end: 1970
 edges:
-- rel: "belongs_to", target: "Radcliffe-Brownian Structural Functionalism", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-radcliffe-brown-structural-functionalism", target_type: "مدرسة"
 related:
 - id: "thk-max-gluckman", title: "Max Gluckman", type: "مفكر"
 - id: "sch-descent-theory", title: "Descent Theory", type: "مدرسة"

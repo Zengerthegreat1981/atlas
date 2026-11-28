@@ -17,7 +17,7 @@ author_slug: "thk-laozi"
 publication_year: null
 original_language: "Classical Chinese"
 edges:
-- rel: "belongs_to", target: "Philosophical Daoism", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-daoism-philosophical", target_type: "مدرسة"
 - rel: "authored_by", target: "Laozi", target_type: "مفكر"
 related:
 - id: "sch-daoism-philosophical", title: "Philosophical Daoism", type: "مدرسة"

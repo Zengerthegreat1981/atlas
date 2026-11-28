@@ -10,7 +10,7 @@ part: "bridges"
 active_start: null
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Existentialism", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
 - id: "thk-szasz", title: "Thomas Szasz", type: "مفكر"
 - id: "thk-sartre", title: "Jean-Paul Sartre", type: "مفكر"

@@ -11,7 +11,7 @@ economic_school: "Development economics"
 active_start: 1982
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Development Economics", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-development-economics", target_type: "مدرسة"
 related:
 - id: "dbt-dutch-disease-and-resource-curse", title: "Dutch Disease and the Resource Curse", type: "جدل"
 gaps: []

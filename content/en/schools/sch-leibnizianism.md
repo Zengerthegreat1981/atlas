@@ -4,6 +4,7 @@ id: "SCH-0181"
 type: "مدرسة"
 part: "philosophy"
 level: "متقدم"
+quality: "unverified"
 title: "Leibnizianism"
 en: "Leibnizianism"
 crumb: "Philosophy ← Schools ← Leibnizianism"
@@ -15,7 +16,7 @@ active_start: 1680
 active_end: 1831
 edges:
 - rel: "belongs_to", target: "Continental Rationalism", target_type: "مدرسة"
-- rel: "evolved_from", target: "Cartesianism", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-cartesianism", target_type: "مدرسة"
 - rel: "evolved_from", target: "Second Salamanca Scholasticism", target_type: "تيار"
 related:
 - id: "sch-cartesianism", title: "Cartesianism", type: "مدرسة"

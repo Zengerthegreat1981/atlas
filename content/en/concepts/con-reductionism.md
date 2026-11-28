@@ -9,7 +9,7 @@ en: "Reductionism"
 crumb: "Bridges ← Concepts ← Reductionism"
 active_start: 1930
 active_end: "مستمر"
-edges:
+edges: []
 related:
 - id: "thk-descartes", title: "René Descartes", type: "مفكر"
 - id: "sch-vienna-circle", title: "Logical Positivism (the Vienna Circle)", type: "مدرسة"

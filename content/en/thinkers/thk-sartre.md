@@ -13,7 +13,7 @@ language: "French"
 active_start: 1936
 active_end: 1980
 edges:
-  - rel: "belongs_to", target: "Existentialist School", target_type: "مدرسة"
+  - rel: "belongs_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
   - id: "thk-beauvoir", title: "Simone de Beauvoir", type: "مفكرة"
   - id: "thk-heidegger", title: "Martin Heidegger", type: "مفكر"

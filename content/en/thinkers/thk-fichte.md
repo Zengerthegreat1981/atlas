@@ -4,11 +4,12 @@ id: "THK-1037"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"
+quality: "unverified"
 title: "Johann Gottlieb Fichte"
 en: "Johann Gottlieb Fichte"
 crumb: "Philosophy ← Thinkers ← Johann Gottlieb Fichte"
 dates: "Germany (Jena, Berlin) · 1762–1814"
-country: "Germany (Duchy of Saxony, Kingdom of Prussia)"
+country: "Germany (Electorate of Saxony, Kingdom of Prussia)"
 language: "German"
 active_start: 1792
 active_end: 1814

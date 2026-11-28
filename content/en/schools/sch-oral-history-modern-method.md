@@ -15,7 +15,7 @@ language: "Multiple"
 active_start: 1948
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Internal and External Source Criticism (General Method)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-internal-external-source-criticism", target_type: "مدرسة"
 related: []
 gaps: []
 ---

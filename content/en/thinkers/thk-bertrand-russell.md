@@ -4,6 +4,7 @@ id: "THK-0796"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"
+quality: "unverified"
 title: "Bertrand Russell"
 en: "Bertrand Russell"
 crumb: "Philosophy ← Thinkers ← Bertrand Russell"
@@ -13,7 +14,7 @@ language: "English"
 active_start: 1900
 active_end: 1970
 edges:
-- rel: "belongs_to", target: "Logical Atomism", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-logical-atomism", target_type: "مدرسة"
 related:
 - id: "thk-lwittgenstein", title: "Ludwig Wittgenstein", type: "مفكر"
 - id: "thk-gfrege", title: "Gottlob Frege", type: "مفكر"
@@ -58,7 +59,7 @@ In "The Problems of Philosophy" (1912) Russell distinguished between "knowledge 
 
 ## The Public Philosopher
 
-Russell wrote works directed to the general reader on ethics, education, politics and religion, among them "Marriage and Morals" (1929), "Why I Am Not a Christian" (1927) and "A History of Western Philosophy" (1945), which Zaki Naguib Mahmoud translated into Arabic in three parts (Cairo, Committee for Authorship, Translation and Publication, 1954–1957), while Fu'ad Zakariyya translated "The Wisdom of the West" (Alam al-Ma'rifa, 1983). He opposed the First World War, and was dismissed from Trinity College in 1916, and was imprisoned for six months in 1918 in Brixton Prison, where he wrote "Introduction to Mathematical Philosophy" (1919). He visited China (1920–1921) and wrote about it. In 1940 he was barred by court ruling from teaching at the College of the City of New York because of his views on sexual ethics. He received the Nobel Prize in Literature in 1950, and signed the 1955 Russell–Einstein Manifesto against nuclear weapons, which led to the Pugwash conferences. He also initiated the International War Crimes Tribunal on the Vietnam War, known as the "Russell Tribunal" (1966–1967).
+Russell wrote works directed to the general reader on ethics, education, politics and religion, among them "Marriage and Morals" (1929), "Why I Am Not a Christian" (1927) and "A History of Western Philosophy" (1945), which Zaki Naguib Mahmoud translated into Arabic in three parts (Cairo, Committee for Authorship, Translation and Publication, 1954–1957), while Fu'ad Zakariyya translated "The Wisdom of the West" (Alam al-Ma'rifa, 1983). He opposed the First World War, and was dismissed from Trinity College in 1916, and was sentenced in 1918 to six months' imprisonment, serving about five months in Brixton Prison, where he wrote "Introduction to Mathematical Philosophy" (1919). He visited China (1920–1921) and wrote about it. In 1940 he was barred by court ruling from teaching at the College of the City of New York because of his views on sexual ethics. He received the Nobel Prize in Literature in 1950, and signed the 1955 Russell–Einstein Manifesto against nuclear weapons, which led to the Pugwash conferences. He also initiated the International War Crimes Tribunal on the Vietnam War, known as the "Russell Tribunal" (1966–1967).
 
 ## Impact and Reception
 

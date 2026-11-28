@@ -14,7 +14,7 @@ language: "English"
 part: "psychology"
 edges:
 - rel: "belongs_to", target: "Humanistic Psychology", target_type: "مدرسة"
-- rel: "developed_by", target: "Carl Rogers", target_type: "مفكر"
+- rel: "developed_by", target: "thk-rogers", target_type: "مفكر"
 related:
 - id: "thk-rogers", title: "Carl Rogers", type: "مفكر"
 - id: "thk-maslow", title: "Abraham Maslow", type: "مفكر"

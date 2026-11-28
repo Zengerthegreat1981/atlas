@@ -17,8 +17,8 @@ active_end: 1900
 language: "German"
 register: "academic"
 edges:
-- rel: "written_by", target: "Sigmund Freud", target_type: "مفكر"
-- rel: "belongs_to", target: "Foundations of Psychotherapy", target_type: "مدرسة"
+- rel: "authored_by", target: "thk-freud", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-psychotherapy-foundations", target_type: "مدرسة"
 related:
 - id: "thk-freud", title: "Sigmund Freud", type: "مفكر"
 - id: "sch-psychotherapy-foundations", title: "Foundations of Psychotherapy", type: "مدرسة"

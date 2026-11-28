@@ -12,7 +12,7 @@ crumb: "Sociology ← Concepts ← Double Consciousness (Du Bois)"
 active_start: 1897
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Du Boisian Sociology", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-du-boisian-sociology", target_type: "مدرسة"
 related:
 - id: "sch-du-boisian-sociology", title: "The Critical Sociology of Race and Double Consciousness", type: "مدرسة"
 gaps: []

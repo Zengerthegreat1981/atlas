@@ -11,7 +11,7 @@ economic_school: "Post-Keynesian economics (contemporary monetary extension)"
 active_start: 1996
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Post-Keynesian Economics", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-post-keynesian-economics", target_type: "مدرسة"
 related:
 - id: "sch-post-keynesian-economics", title: "Post-Keynesian Economics", type: "مدرسة"
 - id: "con-effective-demand", title: "Effective Demand", type: "مفهوم"

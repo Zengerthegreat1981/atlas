@@ -14,12 +14,12 @@ active_start: 1955
 active_end: "مستمر"
 cultural_origin: "anglo-american"
 edges:
-- rel: "evolved_from", target: "Behaviorism", target_type: "مدرسة"
-- rel: "evolved_from", target: "Rational Emotive Behavior Therapy (REBT)", target_type: "مدرسة"
-- rel: "split_into", target: "Acceptance and Commitment Therapy (ACT)", target_type: "مدرسة"
-- rel: "split_into", target: "Dialectical Behavior Therapy (DBT)", target_type: "مدرسة"
-- rel: "founded_by", target: "Aaron T. Beck", target_type: "مفكر"
-- rel: "founded_by", target: "Albert Ellis", target_type: "مفكر"
+- rel: "evolved_from", target: "sch-behaviorism", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-rebt", target_type: "مدرسة"
+- rel: "split_into", target: "sch-act", target_type: "مدرسة"
+- rel: "split_into", target: "sch-dbt", target_type: "مدرسة"
+- rel: "founded_by", target: "thk-beck", target_type: "مفكر"
+- rel: "founded_by", target: "thk-ellis", target_type: "مفكر"
 related:
 - id: "dis-ptsd", title: "Post-Traumatic Stress Disorder (PTSD)", type: "اضطراب/حالة إكلينيكية"
 - id: "dis-mdd", title: "Major Depressive Disorder (MDD)", type: "اضطراب/حالة إكلينيكية"

@@ -11,10 +11,10 @@ active_start: 1983
 active_end: null
 cultural_origin: "german"
 edges:
-- rel: "related_to", target: "Historical Relativism", target_type: "مفهوم"
+- rel: "relates_to", target: "con-historical-relativism", target_type: "مفهوم"
 related:
 - id: "con-historical-relativism", title: "Historical Relativism", type: "مفهوم"
-- id: "con-memory-history", title: "Memory and History", type: "مفهوم"
+- id: "con-memory", title: "Memory and History", type: "مفهوم"
 - id: "con-anachronism-history", title: "Anachronism", type: "مفهوم"
 gaps: []
 ---

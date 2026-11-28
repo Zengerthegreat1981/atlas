@@ -18,7 +18,7 @@ active_end: 1973
 language: "English"
 register: "academic"
 edges:
-- rel: "written_by", target: "David Rosenhan", target_type: "مفكر"
+- rel: "authored_by", target: "David Rosenhan", target_type: "مفكر"
 - rel: "belongs_to", target: "Psychiatric Classification and Diagnosis (Nosology)", target_type: "مدرسة"
 related:
 - id: "sch-diagnostic-nosology", title: "Psychiatric Classification and Diagnosis (Nosology)", type: "مدرسة"

@@ -12,7 +12,7 @@ legal_tradition: "Islamic usul al-fiqh and judicial institutions"
 active_start: 650
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Islamic Legal Theory (Usul al-Fiqh)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-usul-al-fiqh-legal-theory", target_type: "مدرسة"
 related:
 - id: "sch-usul-al-fiqh-legal-theory", title: "Islamic Legal Theory (Usul al-Fiqh)", type: "مدرسة"
 - id: "con-ifta-mufti-legal-authority", title: "Ifta' (Mufti's Legal Authority)", type: "مفهوم"

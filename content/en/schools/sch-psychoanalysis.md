@@ -14,8 +14,8 @@ cultural_origin: "european"
 active_start: 1896
 active_end: "مستمر"
 edges:
-- rel: "split_into", target: "Classical Freudian Psychoanalysis", target_type: "تيار"
-- rel: "split_into", target: "Jungian Analytical Psychology", target_type: "تيار"
+- rel: "split_into", target: "br-classical-psychoanalysis", target_type: "تيار"
+- rel: "split_into", target: "br-jungian", target_type: "تيار"
 - rel: "split_into", target: "Adlerian Individual Psychology", target_type: "تيار"
 - rel: "split_into", target: "Ego Psychology", target_type: "تيار"
 - rel: "split_into", target: "Intersubjective Psychoanalysis", target_type: "تيار"

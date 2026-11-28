@@ -9,7 +9,7 @@ title: "School or Attitude?"
 en: "School or attitude?"
 crumb: "Existential School ← Debates ← School or Attitude?"
 edges:
-  - rel: "occurs_within", target: "Existentialist School", target_type: "مدرسة"
+  - rel: "occurs_within", target: "sch-existentialism", target_type: "مدرسة"
 related:
   - id: "dbt-evidence", title: "Should We Demand Empirical Evidence?", type: "جدل"
   - id: "br-british", title: "British Existential-Phenomenological", type: "تيار"

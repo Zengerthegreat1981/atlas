@@ -10,7 +10,7 @@ crumb: "Bridges ← Concepts ← Facticity"
 active_start: 1943
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Existential Phenomenology", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-phenomenology-existential", target_type: "مدرسة"
 related:
 - id: "thk-sartre", title: "Jean-Paul Sartre", type: "مفكر"
 - id: "thk-heidegger", title: "Martin Heidegger", type: "مفكر"

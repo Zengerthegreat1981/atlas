@@ -15,7 +15,7 @@ economic_school: "Classical political economy (the Ricardian strand)"
 active_start: 1817
 active_end: "مستمر"
 edges:
-- rel: "authored_by", target: "David Ricardo", target_type: "مفكر"
+- rel: "authored_by", target: "thk-david-ricardo", target_type: "مفكر"
 - rel: "belongs_to", target: "Ricardian Political Economy", target_type: "مدرسة"
 related:
 - id: "thk-david-ricardo", title: "David Ricardo", type: "مفكر"

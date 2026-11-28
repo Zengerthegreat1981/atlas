@@ -13,7 +13,7 @@ language: "German"
 active_start: 1824
 active_end: 1886
 edges:
-  - rel: "belongs_to", target: "Rankean School and Historical Positivism", target_type: "مدرسة"
+  - rel: "belongs_to", target: "sch-rankean-historical-positivism", target_type: "مدرسة"
 related:
   - id: "sch-rankean-historical-positivism", title: "Rankean School and Historical Positivism ('As It Actually Happened' and Source Criticism)", type: "مدرسة"
 gaps: []

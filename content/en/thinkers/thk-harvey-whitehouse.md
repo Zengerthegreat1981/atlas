@@ -15,7 +15,7 @@ active_start: 1995
 active_end: "مستمر"
 crumb: "Religious Studies ← Thinkers ← Harvey Whitehouse"
 edges:
-- rel: "belongs_to", target: "Cognitive Science of Religion", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-science-of-religion", target_type: "مدرسة"
 related:
 - id: "sch-cognitive-science-of-religion", title: "Cognitive Science of Religion", type: "مدرسة"
 - id: "con-modes-of-religiosity-theory-whitehouse", title: "Theory of Modes of Religiosity: Doctrinal vs. Imagistic", type: "مفهوم"

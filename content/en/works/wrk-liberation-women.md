@@ -18,8 +18,8 @@ active_end: 1899
 language: "Arabic"
 register: "academic"
 edges:
-- rel: "belongs_to", target: "The Arab Nahda: Intellectual Modernization", target_type: "مدرسة"
-- rel: "written_by", target: "Qasim Amin", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-nahda-modernization", target_type: "مدرسة"
+- rel: "authored_by", target: "thk-qasim-amin", target_type: "مفكر"
 related:
 - id: "sch-nahda-modernization", title: "The Arab Nahda: Intellectual Modernization", type: "مدرسة"
 - id: "thk-qasim-amin", title: "Qasim Amin", type: "مفكر"

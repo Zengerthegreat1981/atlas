@@ -14,7 +14,7 @@ original_language: "French"
 active_start: 1714
 active_end: 1714
 edges:
-- rel: "belongs_to", target: "Leibnizianism", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-leibnizianism", target_type: "مدرسة"
 related:
 - id: "sch-leibnizianism", title: "Leibnizianism", type: "مدرسة"
 gaps: []

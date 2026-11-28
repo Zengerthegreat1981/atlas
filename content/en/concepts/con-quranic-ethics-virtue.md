@@ -11,7 +11,7 @@ active_start: 610
 active_end: "مستمر"
 language: "Arabic"
 edges:
-- rel: "belongs_to", target: "Islamic Ethics and Political Thought", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-islamic-ethics-political", target_type: "مدرسة"
 related:
 - id: "sch-islamic-ethics-political", title: "Islamic Ethics and Political Thought", type: "مدرسة"
 gaps: []

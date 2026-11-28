@@ -13,7 +13,7 @@ active_end: 1926
 country: "Germany"
 language: "German"
 edges:
-- rel: "belongs_to", target: "Psychotic Disorders and Schizophrenia", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-psychotic-schizophrenia", target_type: "مدرسة"
 related:
 - id: "sch-psychotic-schizophrenia", title: "Psychotic Disorders and Schizophrenia", type: "مدرسة"
 gaps: []

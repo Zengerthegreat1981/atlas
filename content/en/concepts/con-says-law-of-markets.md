@@ -11,7 +11,7 @@ economic_school: "Classical political economy"
 active_start: 1803
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Classical Political Economy", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-classical-political-economy", target_type: "مدرسة"
 related:
 - id: "sch-classical-political-economy", title: "Classical Political Economy", type: "مدرسة"
 - id: "thk-thomas-robert-malthus", title: "Thomas Robert Malthus", type: "مفكر"

@@ -9,7 +9,7 @@ en: "Cultural Relativism"
 crumb: "Anthropology ← Schools ← Cultural Relativism"
 dates: "USA · 1900s-1950s"
 edges:
-  - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
+  - rel: "belongs_to", target: "fld-anthropology", target_type: "مجال"
 related: []
 gaps: []
 ---
@@ -22,7 +22,7 @@ Cultural relativism is the principle that a culture can only be understood on it
 
 Cultural relativism was forged in the early twentieth century by Franz Boas and his students at Columbia University, in deliberate opposition to the evolutionism of the nineteenth century. Boas's *The Mind of Primitive Man* (1911) argued that there was no evidence for the mental inferiority of so-called primitive peoples, and that cultural differences were the product of history, not of biology or of stages of development. His students carried the argument into ethnography: Ruth Benedict's *Patterns of Culture* (1934) showed how cultures are integrated wholes, each with its own configuration of values, and Margaret Mead's *Coming of Age in Samoa* (1928) used a Pacific society to unsettle American assumptions about adolescence and sexuality.
 
-The principle was given its classic formulation by Melville Herskovits in *Man and His Works* (1948), where he argued that judgments of right and wrong are relative to cultural context, and that no culture holds a privileged standard. Its most famous institutional expression came in 1947, when the American Anthropological Association issued its Statement on Human Rights, warning the United Nations that a universal declaration of human rights risked imposing Western values on the rest of the world. The statement was drafted by Herskovits and remains a landmark in the debate between universalism and relativism. The term "ethnocentrism" — the tendency to judge other cultures by one's own standards — had been popularised earlier by William Graham Sumner in *Folkways* (1906), and relativism was, in effect, the program for overcoming it.
+The principle was given its classic formulation by Melville Herskovits in *Man and His Works* (1948), where he argued that judgments of right and wrong are relative to cultural context, and that no culture holds a privileged standard. Its most famous institutional expression came in 1947, when the American Anthropological Association issued its Statement on Human Rights, warning the United Nations that a universal declaration of human rights risked imposing Western values on the rest of the world. The statement was drafted mainly by Herskovits and remains a landmark in the debate between universalism and relativism. The term "ethnocentrism" — the tendency to judge other cultures by one's own standards — had been popularised earlier by William Graham Sumner in *Folkways* (1906), and relativism was, in effect, the program for overcoming it.
 
 ## Key Figures
 
@@ -46,13 +46,19 @@ The discipline's response has generally been to hold relativism as a methodologi
 
 The methodological rule does not by itself say that every practice is morally right; that stronger position, usually called moral relativism, is a further and contested step. A practice can be made intelligible without being approved, and because description depends on translation into the writer's language, the rule checks premature judgment without guaranteeing a neutral account. In *Patterns of Culture*, Benedict developed her argument through portraits of the Pueblo peoples (chiefly Zuni), the Dobu and the Kwakwaka'wakw. Mead's Samoan ethnography later became a public controversy after Derek Freeman's *Margaret Mead and Samoa* (1983). That dispute concerns the evidence about Samoa rather than refuting relativism as a whole, but it showed how much public argument had rested on a single case.
 
+## Sociological Angle
+
+In sociology the principle serves mainly as a corrective to ethnocentrism. It is useful to separate several claims: methodological relativism asks the researcher to suspend evaluation long enough to learn what a practice means to those who take part in it; cognitive relativism holds that standards of truth or rationality vary between cultures; moral relativism holds that there is no culture-independent basis for judging right and wrong. Accepting the first does not commit a researcher to the other two. Critics add that a strong moral relativism would rule out criticism of oppressive practices even by members of the society concerned, that cultures are mixed and contested and not internally uniform, and that the demand to respect all cultural standards is itself a universal moral claim.
+
+The principle informs ethnography, comparative research, and studies of religion, family life, health and migration, where assumptions drawn from the researcher's own setting can easily distort description. In multicultural societies it also raises practical questions about how far public institutions should accommodate differing norms, and who is entitled to speak for a culture.
+
 ## Sources
 
-- Sumner, William Graham. *Folkways: A Study of the Sociological Importance of Usages, Manners, Customs, Mores, and Morals*. 1906.
+- Sumner, William Graham. *Folkways: A Study of the Sociological Importance of Usages, Manners, Customs, Mores, and Morals*. Ginn, 1906.
 - Boas, Franz. *The Mind of Primitive Man*. 1911.
 - Mead, Margaret. *Coming of Age in Samoa*. 1928.
-- Benedict, Ruth. *Patterns of Culture*. 1934.
+- Benedict, Ruth. *Patterns of Culture*. Houghton Mifflin, 1934.
 - American Anthropological Association. "Statement on Human Rights." *American Anthropologist* 49, no. 4. 1947.
-- Herskovits, Melville J. *Man and His Works: The Science of Cultural Anthropology*. 1948.
+- Herskovits, Melville J. *Man and His Works: The Science of Cultural Anthropology*. Alfred A. Knopf, 1948.
 - Geertz, Clifford. "Anti Anti-Relativism." *American Anthropologist* 86, no. 2. 1984.
 - Freeman, Derek. *Margaret Mead and Samoa: The Making and Unmaking of an Anthropological Myth*. Cambridge, MA: Harvard University Press, 1983.

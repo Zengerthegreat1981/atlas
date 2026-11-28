@@ -9,8 +9,8 @@ en: "Purity and Danger"
 crumb: "Anthropology ← Works ← Purity and Danger"
 dates: "1966 · Douglas"
 edges:
-  - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
-  - rel: "written_by", target: "Douglas", target_type: "مفكر"
+  - rel: "belongs_to", target: "fld-anthropology", target_type: "مجال"
+  - rel: "authored_by", target: "Douglas", target_type: "مفكر"
 related: []
 gaps: []
 ---

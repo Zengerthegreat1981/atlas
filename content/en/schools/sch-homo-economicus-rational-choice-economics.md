@@ -15,7 +15,7 @@ policy_orientation: "Extending marginal economic logic to domains outside the tr
 active_start: 1932
 active_end: "مستمر"
 edges:
-- rel: "evolved_from", target: "Marshallian Neoclassical Economics", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-marshallian-neoclassical-economics", target_type: "مدرسة"
 related:
 - id: "dbt-efficient-markets-vs-behavioral-finance", title: "Efficient Markets vs. Behavioral Finance", type: "جدل"
 - id: "sch-marshallian-neoclassical-economics", title: "Marshallian Neoclassical Economics", type: "مدرسة"

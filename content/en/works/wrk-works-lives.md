@@ -9,7 +9,7 @@ en: "Works and Lives: The Anthropologist as Author"
 crumb: "Anthropology ← Works ← Works and Lives"
 dates: "1988 · Geertz"
 edges:
-  - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
+  - rel: "belongs_to", target: "fld-anthropology", target_type: "مجال"
 related:
   []
 gaps: []

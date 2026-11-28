@@ -15,8 +15,8 @@ economic_school: "Marxism (theory of imperialism)"
 active_start: 1917
 active_end: "مستمر"
 edges:
-- rel: "authored_by", target: "Vladimir Lenin", target_type: "مفكر"
-- rel: "belongs_to", target: "Classical Theories of Imperialism", target_type: "مدرسة"
+- rel: "authored_by", target: "thk-vladimir-lenin", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-classical-theories-of-imperialism", target_type: "مدرسة"
 related:
 - id: "thk-vladimir-lenin", title: "Vladimir Lenin", type: "مفكر"
 - id: "sch-classical-theories-of-imperialism", title: "Classical Theories of Imperialism", type: "مدرسة"

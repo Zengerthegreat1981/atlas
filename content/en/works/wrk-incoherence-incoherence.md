@@ -18,8 +18,8 @@ active_end: 1180
 language: "Arabic"
 register: "academic"
 edges:
-- rel: "written_by", target: "Ibn Rushd (Averroes)", target_type: "مفكر"
-- rel: "belongs_to", target: "Medieval Islamic Philosophy (Falsafa)", target_type: "مدرسة"
+- rel: "authored_by", target: "Ibn Rushd (Averroes)", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-medieval-islamic-philosophy", target_type: "مدرسة"
 related:
 - id: "thk-ibn-rushd", title: "Abu al-Walid Muhammad ibn Ahmad ibn Rushd", type: "مفكر"
 - id: "sch-medieval-islamic-philosophy", title: "Medieval Islamic Philosophy (Falsafa)", type: "مدرسة"

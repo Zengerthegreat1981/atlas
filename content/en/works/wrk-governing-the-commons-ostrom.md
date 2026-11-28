@@ -15,7 +15,7 @@ economic_school: "Bloomington School"
 active_start: 1990
 active_end: "مستمر"
 edges:
-- rel: "authored_by", target: "Elinor Ostrom", target_type: "مفكر"
+- rel: "authored_by", target: "thk-elinor-ostrom", target_type: "مفكر"
 - rel: "belongs_to", target: "Bloomington School", target_type: "مدرسة"
 related:
 - id: "thk-elinor-ostrom", title: "Elinor Ostrom", type: "مفكر"

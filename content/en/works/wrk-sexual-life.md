@@ -9,8 +9,8 @@ en: "The Sexual Life of Savages"
 crumb: "Anthropology ← Works ← The Sexual Life of Savages"
 dates: "1929 · Malinowski"
 edges:
-  - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
-  - rel: "written_by", target: "Malinowski", target_type: "مفكر"
+  - rel: "belongs_to", target: "fld-anthropology", target_type: "مجال"
+  - rel: "authored_by", target: "Malinowski", target_type: "مفكر"
 related: []
 gaps: []
 ---

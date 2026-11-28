@@ -11,7 +11,7 @@ legal_tradition: "General legal theory / comparative civil law"
 active_start: 1900
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Civil Law Tradition", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-civil-law-tradition", target_type: "مدرسة"
 related:
 - id: "sch-civil-law-tradition", title: "Civil Law Tradition", type: "مدرسة"
 - id: "thk-georg-jellinek", title: "Georg Jellinek", type: "مفكر"

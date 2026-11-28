@@ -16,7 +16,7 @@ legal_tradition: "Hanafi jurisprudence, siyasa shar'iyya and public finance"
 active_start: 795
 active_end: "مستمر"
 edges:
-- rel: "authored_by", target: "Abu Yusuf", target_type: "مفكر"
+- rel: "authored_by", target: "thk-abu-yusuf", target_type: "مفكر"
 - rel: "belongs_to", target: "Islamic Law and Shari'ah", target_type: "مدرسة"
 related:
 - id: "thk-abu-yusuf", title: "Abu Yusuf Ya'qub ibn Ibrahim", type: "مفكر"

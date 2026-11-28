@@ -9,7 +9,7 @@ en: "Marcel Mauss"
 crumb: "Anthropology ← French School ← Marcel Mauss"
 dates: "France · 1872-1950"
 edges:
-  - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
+  - rel: "belongs_to", target: "fld-anthropology", target_type: "مجال"
 related:
   []
 gaps:

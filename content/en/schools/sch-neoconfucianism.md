@@ -4,6 +4,7 @@ id: "SCH-0213"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"
+quality: "unverified"
 title: "Neo-Confucianism (Umbrella Term)"
 en: "Neo-Confucianism (Umbrella Term)"
 crumb: "Philosophy ← Schools ← Neo-Confucianism (Umbrella Term)"
@@ -45,7 +46,7 @@ Lu Jiuyuan (1139–1193) denied that the truth is reached by studying external t
 
 ## Later Developments
 
-In the late Ming and early Qing, the "Kaozheng" current (evidential research) arose, which turned to philological and historical verification in place of metaphysical contemplation, and Dai Zhen (1724–1777) criticized the sanctification of "principle" as a means of restraining people. In the 20th century Feng Youlan's *History of Chinese Philosophy* (1934, in Derk Bodde's English translation) presented this stage to English readers as Neo-Confucianism, and "Modern Neo-Confucianism" appeared as an independent movement.
+In the late Ming and early Qing, the "Kaozheng" current (evidential research) arose, which turned to philological and historical verification in place of metaphysical contemplation, and Dai Zhen (1724–1777) criticized the sanctification of "principle" as a means of restraining people. In the 20th century Feng Youlan's *History of Chinese Philosophy* (written in Chinese in the 1930s; the second volume of Derk Bodde's English translation appeared in 1953) presented this stage to English readers as Neo-Confucianism, and "Modern Neo-Confucianism" appeared as an independent movement.
 
 ## Regional Spread
 

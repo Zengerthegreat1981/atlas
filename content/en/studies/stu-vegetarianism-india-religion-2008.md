@@ -11,7 +11,7 @@ active_start: 2008
 active_end: 2008
 crumb: "Religious Studies ← Studies ← A Field Study of Religious Vegetarianism in Hindu and Buddhist Contexts"
 edges:
-- rel: "belongs_to", target: "Comparative Religious Food and Dietary Rituals Studies", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-comparative-religious-food-diet", target_type: "مدرسة"
 related:
 - id: "sch-comparative-religious-food-diet", title: "Comparative Religious Food and Dietary Rituals Studies", type: "مدرسة"
 gaps: []

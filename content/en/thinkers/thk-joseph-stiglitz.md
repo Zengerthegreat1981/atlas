@@ -14,7 +14,7 @@ economic_school: "Economics of asymmetric information / critique of globalizatio
 active_start: 1969
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Economics of Inequality", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-economics-of-inequality", target_type: "مدرسة"
 related:
 - id: "sch-economics-of-inequality", title: "Economics of Inequality", type: "مدرسة"
 - id: "stu-akerlof-market-for-lemons-1970", title: "Akerlof's Study on the \"Market for Lemons\" and Asymmetric Information (1970)", type: "دراسة وبحث"

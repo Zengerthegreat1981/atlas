@@ -4,12 +4,13 @@ id: "THK-0118"
 type: "مفكر"
 part: philosophy
 level: "متوسط"
+quality: "unverified"
 title: "Mick Cooper"
 en: "Mick Cooper"
 crumb: "Existential Philosophy ← People ← Mick Cooper"
 dates: "Britain · contemporary"
 edges:
-  - rel: "belongs_to", target: "Existentialist School", target_type: "مدرسة"
+  - rel: "belongs_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
   - id: "dbt-evidence", title: "The Dispute over Evidence", type: "جدل"
 gaps: []
@@ -39,7 +40,7 @@ Beyond taxonomy, Cooper has made major conceptual and clinical contributions:
 
 ## Empirical Research and Dialogue
 
-While existential therapy historically maintained an anti-empirical or suspicious stance toward quantitative measurement, Cooper has been a leading champion of evidence-informed practice within humanistic and existential modalities. In *Essential Research Findings in Counselling and Psychotherapy* (2008) and large-scale clinical trials (such as the ETHOS trial evaluating school-based humanistic counselling), he argued from the research evidence that humanistic therapies achieve outcomes broadly comparable to other established approaches. He also co-developed the Cooper-Norcross Inventory of Preferences (C-NIP) to assess client therapy preferences systematically.
+While existential therapy historically maintained an anti-empirical or suspicious stance toward quantitative measurement, Cooper has been a leading champion of evidence-informed practice within humanistic and existential modalities. In *Essential Research Findings in Counselling and Psychotherapy* (2008) he argued from the research evidence that humanistic therapies achieve outcomes broadly comparable to other established approaches. He also led large-scale research such as the ETHOS trial, which compared school-based humanistic counselling plus usual pastoral care with pastoral care alone. He also co-developed the Cooper-Norcross Inventory of Preferences (C-NIP) to assess client therapy preferences systematically.
 
 ## Major Works
 

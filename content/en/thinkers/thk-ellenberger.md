@@ -10,7 +10,7 @@ en: "Henri F. Ellenberger"
 crumb: "Existential Psychotherapy ← People ← Henri F. Ellenberger"
 dates: "Canada (Swiss-born) · 1905–1993"
 edges:
-  - rel: "belongs_to", target: "Existentialist School", target_type: "مدرسة"
+  - rel: "belongs_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
   - id: "thk-may", title: "Rollo May", type: "مفكر"
   - id: "wrk-existence", title: "Existence", type: "عمل / كتاب"

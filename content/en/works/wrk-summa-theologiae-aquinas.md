@@ -15,7 +15,7 @@ original_language: "Latin"
 active_start: 1265
 active_end: 1274
 edges:
-- rel: "belongs_to", target: "Thomism", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-thomism", target_type: "مدرسة"
 related: []
 gaps: []
 ---

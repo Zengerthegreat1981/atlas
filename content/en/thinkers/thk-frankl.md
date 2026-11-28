@@ -9,7 +9,7 @@ en: "Viktor Frankl"
 crumb: "Existentialism ← Logotherapy ← Viktor Frankl"
 dates: "Austria · 1905–1997"
 edges:
-  - rel: "belongs_to", target: "Existentialist School", target_type: "مدرسة"
+  - rel: "belongs_to", target: "sch-existentialism", target_type: "مدرسة"
   - rel: "founder_of", target: "br-logotherapy", target_type: "تيار"
 related:
   - id: "br-logotherapy", title: "Logotherapy: Meaning-Centered Therapy", type: "تيار"
@@ -82,7 +82,7 @@ His work has influenced trauma therapy, grief counseling, and existential approa
 
 > "He who has a why to live for can bear almost any how." — Nietzsche, as cited by Frankl in *Man's Search for Meaning*
 
-> "Freedom, however, is not the last word. Freedom is only part of the story and half of the truth. Freedom is but the negative aspect of the whole phenomenon whose positive aspect is responsibleness." — *Man's Search for Meaning*
+> "Freedom, however, is not the last word. Freedom is only part of the story and half of the truth. Freedom is but the negative aspect of the whole phenomenon whose positive aspect is responsibleness." — *Man's Search for Meaning*, Part Two, which was added for the English editions and was not part of the 1946 German book
 
 ## Sources
 

@@ -9,7 +9,7 @@ en: "Emmy van Deurzen"
 crumb: "Existential Philosophy ← People ← Emmy van Deurzen"
 dates: "Britain/Netherlands · born 1951"
 edges:
-  - rel: "belongs_to", target: "Existentialist School", target_type: "مدرسة"
+  - rel: "belongs_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
   - id: "br-british", title: "British Existential-Phenomenological", type: "تيار"
   - id: "dbt-british-yalom", title: "The British against the American Current", type: "جدل"

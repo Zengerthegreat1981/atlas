@@ -13,7 +13,7 @@ dates: "Term introduced c. 2000 (Barrett), building on Guthrie (1980, 1993)"
 active_start: 2000
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Cognitive Science of Religion", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-science-of-religion", target_type: "مدرسة"
 related:
 - id: "thk-justin-barrett", title: "Justin Barrett", type: "مفكر"
 - id: "sch-cognitive-science-of-religion", title: "Cognitive Science of Religion", type: "مدرسة"

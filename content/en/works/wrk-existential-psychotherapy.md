@@ -9,8 +9,8 @@ en: "Existential Psychotherapy"
 crumb: "Existential Philosophy ← Works ← Existential Psychotherapy"
 dates: "1980 · Yalom"
 edges:
-  - rel: "written_by", target: "Yalom", target_type: "مفكر"
-  - rel: "belongs_to", target: "Existentialist School", target_type: "مدرسة"
+  - rel: "authored_by", target: "Yalom", target_type: "مفكر"
+  - rel: "belongs_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
   - id: "thk-yalom", title: "Irvin D. Yalom", type: "مفكر"
   - id: "dbt-british-yalom", title: "The British against the American Current", type: "جدل"

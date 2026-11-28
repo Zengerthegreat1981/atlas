@@ -10,13 +10,12 @@ crumb: "Philosophy ← Concepts ← Natural Law and Rational Participation in Et
 active_start: 1265
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Thomism", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-thomism", target_type: "مدرسة"
 related:
 - id: "sch-thomism", title: "Thomism", type: "مدرسة"
 - id: "thk-aquinas", title: "Thomas Aquinas", type: "مفكر"
 - id: "wrk-summa-theologiae-aquinas", title: "Thomas Aquinas' Summa Theologiae", type: "عمل / كتاب"
 - id: "thk-aristotle", title: "Aristotle", type: "مفكر"
-- id: "con-natural-law-aquinas-concept", title: "Natural Law", type: "مفهوم"
 gaps: []
 ---
 

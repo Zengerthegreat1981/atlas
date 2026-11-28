@@ -10,7 +10,7 @@ crumb: "Legal Theory ← Schools ← Criminal Law Theory"
 active_start: 1900
 active_end: "مستمر"
 edges:
-- rel: "related_to", target: "Usul al-Fiqh", target_type: "مدرسة"
+- rel: "relates_to", target: "Usul al-Fiqh", target_type: "مدرسة"
 related:
 - id: "thk-bentham", title: "Jeremy Bentham", type: "مفكر"
 - id: "thk-becker", title: "Gary Becker", type: "مفكر"

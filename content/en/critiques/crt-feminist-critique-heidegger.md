@@ -9,7 +9,7 @@ title: "Feminist Critique of Dasein's Gender Neutrality"
 en: "Feminist Critique of Dasein's Gender Neutrality"
 crumb: "Existential Philosophy ← Critiques ← Feminist Critique of Dasein's Gender Neutrality"
 edges:
-  - rel: "relates_to", target: "Existentialist School", target_type: "مدرسة"
+  - rel: "relates_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
   - id: "thk-heidegger", title: "Martin Heidegger", type: "مفكر"
 gaps: []

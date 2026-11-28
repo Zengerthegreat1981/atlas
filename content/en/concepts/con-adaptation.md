@@ -9,7 +9,7 @@ en: "Adaptation"
 crumb: "Anthropology ← Concepts ← Adaptation"
 dates: ""
 edges:
-  - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
+  - rel: "belongs_to", target: "fld-anthropology", target_type: "مجال"
 related: []
 gaps: []
 ---

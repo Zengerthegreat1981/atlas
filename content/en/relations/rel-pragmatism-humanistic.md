@@ -10,7 +10,7 @@ crumb: "Bridges ← Relations ← American Pragmatism and Humanistic Psychology:
 active_start: 1912
 active_end: "مستمر"
 edges:
-  - rel: "relates_to", target: "Classical Pragmatism", target_type: "مدرسة"
+  - rel: "relates_to", target: "sch-pragmatism-classical", target_type: "مدرسة"
   - rel: "relates_to", target: "Humanistic Psychology", target_type: "مدرسة"
 related:
   - id: "thk-james", title: "William James", type: "مفكر"

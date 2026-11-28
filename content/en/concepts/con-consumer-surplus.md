@@ -11,7 +11,7 @@ economic_school: "Marshallian neoclassical economics"
 active_start: 1844
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Marshallian Neoclassical Economics", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-marshallian-neoclassical-economics", target_type: "مدرسة"
 related:
 - id: "sch-marshallian-neoclassical-economics", title: "Marshallian Neoclassical Economics", type: "مدرسة"
 - id: "thk-alfred-marshall-economist", title: "Alfred Marshall", type: "مفكر"

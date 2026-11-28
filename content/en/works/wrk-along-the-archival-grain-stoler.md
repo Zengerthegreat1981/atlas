@@ -14,7 +14,7 @@ crumb: "Historiography ← Works ← Along the Archival Grain: Epistemic Anxieti
 active_start: 2009
 active_end: "مستمر"
 edges:
-- rel: "authored_by", target: "Ann Laura Stoler", target_type: "مفكر"
+- rel: "authored_by", target: "thk-ann-laura-stoler", target_type: "مفكر"
 related:
 - id: "thk-ann-laura-stoler", title: "Ann Laura Stoler", type: "مفكر"
 gaps: []

@@ -16,9 +16,9 @@ active_end: "مستمر"
 cultural_origin: "anglo-american"
 edges:
 - rel: "evolved_from", target: "Humanistic Psychology", target_type: "مدرسة"
-- rel: "evolved_from", target: "Developmental Psychology", target_type: "مدرسة"
-- rel: "evolved_from", target: "Social Psychology", target_type: "مدرسة"
-- rel: "developed_by", target: "Martin Seligman", target_type: "مفكر"
+- rel: "evolved_from", target: "sch-developmental", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-social-psychology", target_type: "مدرسة"
+- rel: "developed_by", target: "thk-mseligman", target_type: "مفكر"
 related:
 - id: "thk-mseligman", title: "Martin Seligman", type: "مفكر"
 - id: "thk-maslow", title: "Abraham Maslow", type: "مفكر"

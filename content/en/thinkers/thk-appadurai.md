@@ -25,7 +25,7 @@ Arjun Appadurai (born 1949) is an Indian-American anthropologist and a leading f
 
 ## Biographical Context
 
-Appadurai was born in Bombay (now Mumbai) in 1949. He studied in India and the United States and received his PhD from the Committee on Social Thought at the University of Chicago in 1976. He taught at the University of Pennsylvania, the University of Chicago, Yale, The New School in New York (where he served as provost and later as senior adviser for global initiatives) and New York University. He co-founded the journal *Public Culture* and has been involved in research and activism with housing movements of the urban poor in Mumbai. His position as a scholar who moved between India and the American academy shaped his interest in how people elsewhere engage with global processes rather than merely receive them.
+Appadurai was born in Bombay (now Mumbai) in 1949. He studied in India and the United States and received his PhD from the Committee on Social Thought at the University of Chicago in 1976. He taught at the University of Pennsylvania, the University of Chicago, Yale, The New School in New York (where he served as provost and later as senior adviser for global initiatives) and New York University. With Carol Breckenridge he co-founded the journal *Public Culture*, and he has been involved in research and activism with housing movements and organisations of the urban poor in Mumbai. His work draws on the historical anthropology of South Asia, cultural studies, social theory and postcolonial debates. His position as a scholar who moved between India and the American academy shaped his interest in how people elsewhere engage with global processes rather than merely receive them.
 
 ## The Five Scapes and the Role of Imagination
 
@@ -37,13 +37,14 @@ In *Modernity at Large*, Appadurai argued that the global cultural economy is ma
 - **Mediascapes**: the distribution of images and information, and the narratives they supply.
 - **Ideoscapes**: the circulation of political ideas and ideologies.
 
-He treated imagination as a social practice rather than mere fantasy, and drew partly on Benedict Anderson's work on imagined communities. Electronic media and migration, he argued, give people a wider repertoire of possible lives, so that the imagination becomes a daily resource for identity-making. Globalization, on this view, does not simply homogenize culture; people appropriate global forms for local purposes and produce new, uneven mixtures.
+He treated imagination as a social practice rather than mere fantasy, and drew partly on Benedict Anderson's work on imagined communities. Electronic media and migration, he argued, give people a wider repertoire of possible lives, so that the imagination becomes a daily resource for identity-making. Globalization, on this view, does not simply homogenize culture; people appropriate global forms for local purposes and produce new, uneven mixtures. Imagination in this sense is a resource for collective action as well as identity. For ethnography this implies following people, objects and images across places, and treating locality as something that has to be produced and maintained rather than a given setting.
 
 ## Major Works
 
 - **Worship and Conflict under Colonial Rule: A South Indian Case** (1981): an historical ethnography of the Parthasarathy temple in Triplicane, Madras, examining the management of ritual honours and disputes over authority under colonial rule.
 - **The Social Life of Things: Commodities in Cultural Perspective** (1986, editor): essays on how commodities acquire value and meaning as they circulate; Appadurai's introduction, on the "politics of value," is widely cited.
 - **Modernity at Large: Cultural Dimensions of Globalization** (1996): his most influential book, setting out the five scapes and the role of imagination.
+- **Globalization** (2001, editor): a collection that includes his essay "Grassroots Globalization and the Research Imagination."
 - **Fear of Small Numbers: An Essay on the Geography of Anger** (2006): an argument about how globalization generates anxieties about minorities and, in some settings, violence against them.
 - **The Future as Cultural Fact: Essays on the Global Condition** (2013) and **Banking on Words: The Failure of Language in the Age of Derivative Finance** (2015): later work on aspiration, the future, and finance.
 
@@ -53,11 +54,11 @@ The scapes framework has been criticized as too abstract or systemic, and for sa
 
 ## Postcolonial Positioning and Non-Western Modernity
 
-Appadurai's concept of "modernity at large" holds that modernity is not simply a Western export but a plural and uneven set of possibilities that different peoples engage in diverse ways. His writing on India, including cricket and Bombay's urban life, treats formerly colonized societies as active producers of global culture rather than passive recipients.
+Appadurai's concept of "modernity at large" holds that modernity is not simply a Western export but a plural and uneven set of possibilities that different peoples engage in diverse ways. His writing on India, including the decolonization of cricket and Bombay's urban life, treats formerly colonized societies as active producers of global culture rather than passive recipients.
 
 ## Digital Ethnography Applications
 
-Appadurai's questions about electronic media, migration, and imagination have an evident bearing on digital fieldwork, although much of that research draws on several theorists and methods at once. In terms of the scapes, a social media platform links mediascapes with technoscapes, and often with the movement of people and money. An ethnographer might ask how users imagine possible lives through shared images, how diasporas produce locality in online spaces, and where flows are blocked by cost, language, censorship, or platform design.
+Appadurai's questions about electronic media, migration, and imagination have an evident bearing on digital fieldwork, although much of that research draws on several theorists and methods at once. In terms of the scapes, a social media platform links mediascapes with technoscapes, and often with the movement of people and money. An ethnographer might follow particular images, people and objects across online and offline settings, ask how users imagine possible lives through shared images, how diasporas and other far-flung users produce locality or a sense of neighbourhood online, who controls the infrastructure, and where flows are blocked by cost, language, censorship, or platform design.
 
 Digital ethnographers have developed methods suited to such questions. Christine Hine's *Virtual Ethnography* (2000) treated the internet both as a cultural setting and as a cultural artefact, and Sarah Pink and colleagues, in *Digital Ethnography* (2016), set out approaches that follow digital media into everyday life. Victoria Bernal's *Nation as Network* (2014) showed how Eritreans in the diaspora used websites to debate politics and take part in national life from abroad. Such studies test the idea of disjuncture empirically, since the same network can widen participation for some people while excluding others or exposing them to surveillance.
 
@@ -71,7 +72,10 @@ The scapes vocabulary is now standard in the study of globalization, migration, 
 - Appadurai, Arjun (ed.). *The Social Life of Things: Commodities in Cultural Perspective*. Cambridge University Press, 1986.
 - Appadurai, Arjun. "Disjuncture and Difference in the Global Cultural Economy." *Public Culture* 2(2), 1990.
 - Appadurai, Arjun. *Modernity at Large: Cultural Dimensions of Globalization*. University of Minnesota Press, 1996.
+- Appadurai, Arjun (ed.). *Globalization*. Duke University Press, 2001.
 - Appadurai, Arjun. *Fear of Small Numbers: An Essay on the Geography of Anger*. Duke University Press, 2006.
+- Appadurai, Arjun. *The Future as Cultural Fact: Essays on the Global Condition*. Verso, 2013.
+- Appadurai, Arjun. *Banking on Words: The Failure of Language in the Age of Derivative Finance*. University of Chicago Press, 2015.
 - Anderson, Benedict. *Imagined Communities*. Verso, 1983.
 - Bernal, Victoria. *Nation as Network: Diaspora, Cyberspace, and Citizenship*. University of Chicago Press, 2014.
 - Hine, Christine. *Virtual Ethnography*. Sage, 2000.

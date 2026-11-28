@@ -13,7 +13,7 @@ language: "English"
 active_start: 2000
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Subaltern Studies as a Critique of Elite Historiography (Guha, Chakrabarty)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-subaltern-studies-historiographical-critique", target_type: "مدرسة"
 related:
 - id: "wrk-provincializing-europe-chakrabarty", title: "Provincializing Europe: Postcolonial Thought and Historical Difference by Dipesh Chakrabarty", type: "عمل / كتاب"
 - id: "sch-subaltern-studies-historiographical-critique", title: "Subaltern Studies as a Critique of Elite Historiography (Guha, Chakrabarty)", type: "مدرسة"

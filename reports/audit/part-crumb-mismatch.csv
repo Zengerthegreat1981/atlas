@@ -1,0 +1,167 @@
+slug,part,crumb_root,usual_root_for_part
+axm-existence-precedes-essence,philosophy,Existentialist School,Philosophy
+br-british,psychology,Existential Psychotherapy,Psychology
+br-daseins,philosophy,Existential Philosophy,Philosophy
+br-humanistic,psychology,Humanistic Psychology,Psychology
+br-logotherapy,psychology,Existential Psychotherapy,Psychology
+con-absurd,philosophy,Existentialism,Philosophy
+con-aging,psychology,Aging,Psychology
+con-bad-faith,psychology,Existential Psychotherapy,Psychology
+con-being-becoming,psychology,Being and Becoming,Psychology
+con-being-toward-death,philosophy,Existential Philosophy,Philosophy
+con-choice-constraint,psychology,Choice and Constraint,Psychology
+con-death,philosophy,Existential Philosophy,Philosophy
+con-depression,psychology,Depression,Psychology
+con-despair,psychology,Despair,Psychology
+con-existential-crises,psychology,Existential Crises,Psychology
+con-existential-vacuum,psychology,Existential Psychotherapy,Psychology
+con-fear,psychology,Existential Psychotherapy,Psychology
+con-freedom,philosophy,Existential Philosophy,Philosophy
+con-fulfillment,psychology,Fulfillment,Psychology
+con-grief,psychology,Grief,Psychology
+con-hope,psychology,Hope,Psychology
+con-individuation,psychology,Individuation,Psychology
+con-isolation,philosophy,Existentialist School,Philosophy
+con-jealousy-envy,psychology,Emotion Psychology,Psychology
+con-love,psychology,Love,Psychology
+con-meaning,philosophy,Existentialism,Philosophy
+con-meaninglessness,psychology,Meaninglessness,Psychology
+con-money-happiness-easterlin-bridge,bridges,Bridges (Political Economy ↔ Psychology),Bridges
+con-mortality,psychology,Mortality,Psychology
+con-presence-absence,psychology,Presence and Absence,Psychology
+con-rage,psychology,Rage,Psychology
+con-relation,psychology,Existential Psychotherapy,Psychology
+con-relationships,psychology,Relationships,Psychology
+con-religious-punishment-moral-law-bridge,bridges,Bridges (Religious Studies ↔ Law),Bridges
+con-resilience,psychology,Resilience,Psychology
+con-responsibility,psychology,Existential Psychotherapy,Psychology
+con-revelation-knowledge-epistemology-bridge,bridges,Bridges (Religious Studies ↔ Philosophy),Bridges
+con-sadness,psychology,Emotion Psychology,Psychology
+con-self-other,psychology,Self and Other,Psychology
+con-spiritual-crisis,psychology,Spiritual Crisis,Psychology
+con-therapy,psychology,Therapy,Psychology
+con-thrownness,philosophy,Existential Philosophy,Philosophy
+con-time,psychology,Existential Psychotherapy,Psychology
+con-trauma,psychology,Trauma,Psychology
+ctx-arabic-self,arab-thought,Arab-Islamic Heritage,Arab Thought
+ctx-avicenna-self,philosophy,Arab-Islamic Heritage,Philosophy
+ctx-ghazali,philosophy,Arab-Islamic Heritage,Philosophy
+ctx-miskawayh-character,philosophy,Arab-Islamic Heritage,Philosophy
+ctx-phenomenology-husserl,philosophy,Phenomenology,Philosophy
+ctx-post-war-europe,philosophy,Existential Philosophy,Philosophy
+crt-feminist-critique-heidegger,philosophy,Existential Philosophy,Philosophy
+dbt-boss-binswanger,philosophy,Existential School,Philosophy
+dbt-british-yalom,philosophy,Existential School,Philosophy
+dbt-evidence,philosophy,Existential School,Philosophy
+dbt-individualism,philosophy,Existential School,Philosophy
+dbt-laing,philosophy,Existential School,Philosophy
+dbt-langle-frankl,philosophy,Existential School,Philosophy
+dbt-meaning-found,philosophy,Existential School,Philosophy
+dbt-school-or-attitude,philosophy,Existential School,Philosophy
+dbt-spiritual,philosophy,Existential School,Philosophy
+dbt-structures,philosophy,Existential School,Philosophy
+dbt-unconscious,philosophy,Existential School,Philosophy
+dia-existential-act-encounter,psychology,Existential Therapy,Psychology
+dis-gad,psychology,Psychiatry and Diagnosis,Psychology
+dis-mdd,psychology,Psychiatry and Diagnosis,Psychology
+dis-panic-disorder,psychology,Psychiatry and Diagnosis,Psychology
+dis-prolonged-grief,psychology,Psychiatry and Diagnosis,Psychology
+dis-ptsd,psychology,Psychiatry and Diagnosis,Psychology
+evt-frankl-camps,philosophy,Existential Philosophy,Philosophy
+exp-frankl-lived-experience,philosophy,Existential Philosophy,Philosophy
+ins-death-attitude-profile,psychology,Psychological Measurement and Diagnosis,Psychology
+ins-gad7,psychology,Psychological Measurement and Diagnosis,Psychology
+ins-mlq,psychology,Psychological Measurement and Diagnosis,Psychology
+ins-stai,psychology,Psychological Measurement and Diagnosis,Psychology
+ins-tas20,psychology,Psychological Measurement and Diagnosis,Psychology
+met-sisyphus-camus,philosophy,Existential Philosophy,Philosophy
+que-what-is-authentic-existence,philosophy,Existential Philosophy,Philosophy
+rel-act,philosophy,Existential Philosophy,Philosophy
+rel-humanistic,philosophy,Existential Philosophy,Philosophy
+rel-phenopath,philosophy,Existential Philosophy,Philosophy
+rel-psychoanalysis,philosophy,Existential Philosophy,Philosophy
+stu-breitbart-mcp-rct,psychology,Existential Psychotherapy,Psychology
+stu-ekman-original-facial,psychology,Psychology of Emotion,Psychology
+stu-evans-pritchard-the-nuer,anthropology,Evans-Pritchard,Anthropology
+stu-himba-facial,psychology,Emotion Psychology,Psychology
+stu-leach-political-systems-highlands-burma,anthropology,Leach,Anthropology
+stu-terror-management-theory,psychology,Social Psychology,Psychology
+syn-survivor-guilt-syndrome,psychology,Existential Therapy,Psychology
+tec-cognitive-reappraisal,psychology,Cognitive-Behavioural Therapy,Psychology
+tec-empty-chair,psychology,Psychotherapy,Psychology
+tec-existential-dialogue,psychology,Psychotherapy,Psychology
+tec-logotherapy,psychology,Psychotherapy,Psychology
+tec-meaning-centered-psychotherapy,psychology,Existential Psychotherapy,Psychology
+tec-mindfulness-practice,psychology,Psychotherapy,Psychology
+tec-motivational-interviewing,psychology,Psychotherapy,Psychology
+tec-outcome-measurement,psychology,Psychotherapy,Psychology
+tec-paradoxical-intention,psychology,Existential Psychotherapy,Psychology
+tec-phenomenological-exploration,psychology,Existential Psychotherapy,Psychology
+tec-socratic-existential-dialogue,psychology,Existential Psychotherapy,Psychology
+tec-somatic-approaches,psychology,Psychotherapy,Psychology
+tec-systemic-exploration,psychology,Psychotherapy,Psychology
+tec-trauma-informed-care,psychology,Psychotherapy,Psychology
+trm-angst-translation,philosophy,Existential School,Philosophy
+thk-angel,psychology,Existential Psychotherapy,Psychology
+thk-arnold-van-gennep,anthropology,Ritual Theory,Anthropology
+thk-barbara-myerhoff,anthropology,Symbolic Anthropology,Anthropology
+thk-beauvoir,philosophy,Existential Philosophy,Philosophy
+thk-berdyaev,philosophy,Existential Philosophy,Philosophy
+thk-biersack,anthropology,Symbolic Anthropology,Anthropology
+thk-binswanger,philosophy,Existentialist School,Philosophy
+thk-boss,psychology,Existential Psychotherapy,Psychology
+thk-bugental,psychology,Existential Psychotherapy,Psychology
+thk-camus,philosophy,Existentialism,Philosophy
+thk-carlos-castaneda,psychology,Popular Psychology and Toltec Wisdom,Psychology
+thk-clifford-geertz,anthropology,Interpretive Anthropology,Anthropology
+thk-cohn,philosophy,Existential Philosophy,Philosophy
+thk-cooper,philosophy,Existential Philosophy,Philosophy
+thk-dostoevsky,philosophy,Existentialist School,Philosophy
+thk-douglas,anthropology,British Social Anthropology,Anthropology
+thk-edmund-leach,anthropology,Structural Anthropology,Anthropology
+thk-ellenberger,psychology,Existential Psychotherapy,Psychology
+thk-frankl,philosophy,Existentialism,Philosophy
+thk-heidegger,psychology,Existential Psychotherapy,Psychology
+thk-holzhey,philosophy,Existential Philosophy,Philosophy
+thk-husserl,philosophy,Phenomenology,Philosophy
+thk-jaspers,philosophy,Existentialist School,Philosophy
+thk-kafka,psychology,Existential Psychotherapy,Psychology
+thk-kierkegaard,psychology,Existential Psychotherapy,Psychology
+thk-laing,philosophy,Existential Philosophy,Philosophy
+thk-langle,philosophy,Existential Philosophy,Philosophy
+thk-levinas,philosophy,Existential Philosophy,Philosophy
+thk-lukas,philosophy,Existentialist School,Philosophy
+thk-marcel,philosophy,Existential Philosophy,Philosophy
+thk-max-gluckman,anthropology,Structural Anthropology,Anthropology
+thk-may,psychology,Existential Psychotherapy,Psychology
+thk-minkowski,philosophy,Existential Philosophy,Philosophy
+thk-natalie-zemon-davis,historiography,History and Its Methods,Historiography
+thk-nietzsche,philosophy,Nietzscheanism,Philosophy
+thk-ortega,philosophy,Existential Philosophy,Philosophy
+thk-rank,philosophy,Existentialist School,Philosophy
+thk-sartre,philosophy,Existential Philosophy,Philosophy
+thk-sherry-ortner,anthropology,Practice Theory,Anthropology
+thk-shestov,philosophy,Existential Philosophy,Philosophy
+thk-straus,philosophy,Existentialist School,Philosophy
+thk-tillich,philosophy,Existential Theology,Philosophy
+thk-ulf-hannersson,anthropology,Cosmopolitan Anthropology and Cultural Globalisation,Anthropology
+thk-unamuno,philosophy,Existential Philosophy,Philosophy
+thk-vandeurzen,philosophy,Existential Philosophy,Philosophy
+thk-victor-turner,anthropology,Symbolic Anthropology,Anthropology
+thk-yalom,psychology,Existential Psychotherapy,Psychology
+wrk-being-nothingness,philosophy,Existential Philosophy,Philosophy
+wrk-being-time,philosophy,Existential Philosophy,Philosophy
+wrk-coming-of-age-samoa-mead,anthropology,Mead,Anthropology
+wrk-concept-anxiety,philosophy,Existential Philosophy,Philosophy
+wrk-elementary-structures,anthropology,Lévi-Strauss,Anthropology
+wrk-existential-psychotherapy,philosophy,Existential Philosophy,Philosophy
+wrk-hawaiian-kinship,anthropology,Hawaiian and Polynesian Kinship,Anthropology
+wrk-interpretation-of-cultures-geertz,anthropology,Geertz,Anthropology
+wrk-kinship-and-marriage,anthropology,Fox,Anthropology
+wrk-kung-bushmen,anthropology,Lee,Anthropology
+wrk-mans-search,philosophy,Existential Philosophy,Philosophy
+wrk-patterns-of-culture-benedict,anthropology,Benedict,Anthropology
+wrk-savage-mind,anthropology,Lévi-Strauss,Anthropology
+wrk-the-gift,anthropology,Mauss,Anthropology
+wrk-tiwi-wives,anthropology,Goodale,Anthropology
+wrk-totemism,anthropology,Lévi-Strauss,Anthropology

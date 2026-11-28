@@ -8,7 +8,7 @@ title: "ACT and the Third Wave"
 en: "ACT and the third wave"
 crumb: "Existential Philosophy ← Relations ← ACT and the Third Wave"
 edges:
-  - rel: "neighbour_of", target: "Existentialist School", target_type: "مدرسة"
+  - rel: "neighbour_of", target: "sch-existentialism", target_type: "مدرسة"
 related:
   - id: "dbt-evidence", title: "Should We Demand Empirical Evidence?", type: "جدل"
 gaps: []

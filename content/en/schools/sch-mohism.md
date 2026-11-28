@@ -4,6 +4,7 @@ id: "SCH-0205"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"
+quality: "unverified"
 title: "Mohism (Mojia)"
 en: "Mohism (Mozi and later Logician branch)"
 crumb: "Philosophy ← Schools ← Mohism"
@@ -29,7 +30,7 @@ Mohism is a Chinese philosophical school founded by Mozi (Mo Di, c. 470–391 BC
 
 ## Mozi and his life
 
-His life is known only in broad outline. He came from the state of Lu or Song, and it is likely that he originated in the class of craftsmen or skilled laborers, as shown by the many examples drawn from industry and construction in his book. He began by studying Confucian traditions and then broke with them because he considered their rituals costly and their preference for relatives unjust. The "Book of Mozi", in the chapter "Gongshu", relates that he walked for ten days to dissuade the king of Chu from attacking Song, and that in a debate with the engineer Gongshu Ban he showed that Song's defenses defeated every ruse of attack. The book attributed to him, which has seventy-one chapters of which fifty-three remain, presents the views of the school in multiple forms written by his followers in different generations.
+His life is known only in broad outline. He came from the state of Lu or Song, and it is likely that he originated in the class of craftsmen or skilled laborers, as shown by the many examples drawn from industry and construction in his book. According to a later account in the Huainanzi, which the Mozi itself does not corroborate, he began by studying Confucian traditions and then broke with them because he considered their rituals costly and their preference for relatives unjust. The "Book of Mozi", in the chapter "Gongshu", relates that he walked for ten days to dissuade the king of Chu from attacking Song, and that in a debate with the engineer Gongshu Ban he showed that Song's defenses defeated every ruse of attack. The book attributed to him, which has seventy-one chapters of which fifty-three remain, presents the views of the school in multiple forms written by his followers in different generations.
 
 ## The ten theses
 

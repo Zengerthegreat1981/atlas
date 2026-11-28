@@ -14,7 +14,7 @@ legal_tradition: "Legal Realism"
 active_start: 1881
 active_end: 1935
 edges:
-- rel: "belongs_to", target: "American Legal Realism", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-american-legal-realism", target_type: "مدرسة"
 related:
 - id: "sch-american-legal-realism", title: "American Legal Realism", type: "مدرسة"
 - id: "thk-karl-llewellyn", title: "Karl N. Llewellyn", type: "مفكر"

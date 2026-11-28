@@ -15,7 +15,7 @@ policy_orientation: "Import-substituting industrialization, central planning, pu
 active_start: 1920
 active_end: "مستمر"
 edges:
-- rel: "relates_to", target: "Latin American Structuralism (CEPAL)", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-latin-american-structuralism-cepal", target_type: "مدرسة"
 related:
 - id: "sch-latin-american-structuralism-cepal", title: "Latin American Structuralism (CEPAL)", type: "مدرسة"
 - id: "sch-development-economics", title: "Development Economics", type: "مدرسة"

@@ -14,7 +14,7 @@ economic_school: "Marginal Revolution"
 active_start: 1884
 active_end: 1914
 edges:
-- rel: "belongs_to", target: "Marginal Revolution", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-marginal-revolution", target_type: "مدرسة"
 related:
 - id: "sch-marginal-revolution", title: "Marginal Revolution", type: "مدرسة"
 - id: "thk-carl-menger", title: "Carl Menger", type: "مفكر"

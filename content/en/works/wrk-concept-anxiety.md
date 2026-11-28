@@ -9,8 +9,8 @@ en: "Begrebet Angest · The Concept of Anxiety"
 crumb: "Existential Philosophy ← Works ← The Concept of Anxiety"
 dates: "1844 · Kierkegaard"
 edges:
-  - rel: "written_by", target: "Kierkegaard", target_type: "مفكر"
-  - rel: "belongs_to", target: "Existentialist School", target_type: "مدرسة"
+  - rel: "authored_by", target: "Kierkegaard", target_type: "مفكر"
+  - rel: "belongs_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
   - id: "thk-kierkegaard", title: "Søren Kierkegaard", type: "مفكر"
 gaps: []

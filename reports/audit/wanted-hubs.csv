@@ -1,0 +1,639 @@
+target_name,pages,wanted_by
+Psychoanalysis,31,br-classical-psychoanalysis;br-jungian;con-intersubjectivity;con-mentalization;con-transference;rel-hegelianism-psychoanalysis;rel-hypnosis-psychoanalysis;rel-integrative-psychoanalysis-common-factors;rel-psychoanalysis-behaviorism;rel-psychoanalysis-cbt;rel-psychoanalysis-humanistic;rel-psychoanalysis-jungian;rel-psychoanalysis-somatic;rel-systemic-psychoanalysis;rel-trauma-psychoanalysis;sch-analytical-psychology;sch-gestalt-therapy;sch-ipt;sch-istdp;sch-object-relations;thk-adler;thk-bion;thk-freud;thk-fromm;thk-hillman;thk-klein;thk-kohut;thk-lacan;thk-winnicott;wrk-fear-of-freedom-1941;wrk-freud-interpretation-of-dreams
+Humanistic Psychology,16,br-person-centered;con-felt-sense;con-self-actualization;rel-buber-i-thou-humanistic-counseling;rel-humanistic-existential-gestalt;rel-humanistic-positive;rel-integrative-humanistic-common-factors;rel-pragmatism-humanistic;rel-psychoanalysis-humanistic;rel-transpersonal-humanistic;sch-motivational-interviewing;sch-positive-psychology;sch-transpersonal;thk-gallport;thk-gendlin;thk-maslow
+Modern Legal Positivism,12,con-grundnorm-basic-norm-kelsen;con-law-as-integrity-dworkin;con-rule-of-recognition-hart;dbt-hart-devlin-morals-legislation;dbt-hart-dworkin-rules-principles;dbt-hart-fuller-law-morality-debate;thk-hans-kelsen;thk-hla-hart;thk-john-austin-jurisprudence;thk-joseph-raz;thk-lon-fuller;thk-ronald-dworkin
+Cognitive Behavioral Therapy,11,con-cognitive-distortion;rel-addiction-cbt;rel-cbt-nonwestern;rel-cbt-thirdwave;rel-kant-cognitive-schemas;rel-psychoanalysis-cbt;rel-stoicism-cbt;sch-act;sch-dbt;thk-mlinehan;wrk-thinking-fast-slow
+Usul al-Fiqh as Legal Theory,11,con-gate-of-ijtihad-debate-hallaq;con-hukm-taklifi-wadi-usul;con-ijtihad-usul;con-madhhab-legal-school-institution;con-nazariyyat-al-aqd-fiqh;con-qawaid-fiqhiyya-legal-maxims;thk-abu-yusuf;thk-al-shafii;thk-al-shatibi;thk-ibn-taymiyya;wrk-al-bahr-al-muhit-zarkashi
+Cognitive-Behavioral Therapy,10,con-operant-conditioning;con-self-efficacy;ins-hamilton-hdrs;rel-integrative-cbt-common-factors;sch-emdr;sch-mbct;sch-motivational-interviewing;thk-beck;thk-ellis;thk-jkabat-zinn
+Founding of the Science of Religion,9,sch-academic-buddhist-indic-studies;sch-academic-islamic-studies-orientalism-critique;sch-animals-religion-studies-waldau-patton;sch-comparative-religious-family-kinship;sch-ethnography-of-religion-fieldwork;sch-literature-religious-narrative;sch-religion-digital-technology;sch-religionsgeschichtliche-schule;thk-jonathan-z-smith
+Medieval Islamic Philosophy,9,con-averroism-philosophy;con-avicennism-synthesis;con-divine-knowledge-future;con-epistemology-islam;con-essence-existence;con-ibn-arabi-unity-being;con-illuminationism;con-metaphysics-islam;wrk-metaphysics-ibn-sina
+Continental Rationalism,8,sch-cartesianism;sch-enlightenment;sch-leibnizianism;sch-spinozism;thk-descartes;thk-leibniz;thk-spinoza;wrk-spinoza-ethics
+Early Confucianism,8,con-li;con-ren;dbt-human-nature-debate;rel-confucian-self-cultivation-family-systems;rel-confucianism-positive-psychology;thk-mencius;thk-xunzi;wrk-lunyu
+Pre-Islamic Arabian Thought,8,con-jahiliyyah-cosmology;con-jahiliyyah-poetry;con-pre-islamic-ethics;con-pre-islamic-metaphysics;con-transition-islamic;con-tribal-knowledge-systems;thk-imru-qais;thk-zuhayr-abi-sulma
+Analytic Philosophy of Mind,7,con-hard-problem-of-consciousness;con-mind-body;dbt-extended-mind-clark-chalmers;thk-daniel-dennett;thk-david-chalmers;thk-john-searle;thk-nagel
+Islamic Peripatetic Philosophy,7,sch-andalusian-philosophy;sch-thomism;sch-transcendent-theosophy;thk-al-farabi;thk-al-kindi;thk-ibn-sina;wrk-al-shifa-avicenna
+Psychiatric Classification and Diagnosis (Nosology),7,con-diagnostic-criteria-evolution;con-dimensional-diagnosis;con-icd11-classification;con-subthreshold-symptoms;thk-nancy-andreasen;wrk-rosenhan-sane;wrk-save-normal
+Biological Neuroscience,6,con-epigenetic-mental-illness;con-inflammation-mental-illness;con-serotonin-dysregulation;con-unconscious-inference;rel-damasio-spinoza-somatic-markers-neuroscience;thk-arvid-carlsson
+British Empiricism,6,rel-british-empiricism-behaviorism;sch-classical-liberalism-early;sch-enlightenment;sch-humeanism;sch-lockeanism;thk-locke
+House of Wisdom and the Translation Movement,6,con-aristotelian-logic;con-bayt-al-hikma-movement;con-greco-arabic-synthesis;con-mathematics-astronomy;con-translation-methodology;thk-thabit-qurra
+Ibn Sina,6,con-healing-traditions;con-major-depressive-disorder;con-polypharmacy-interactions;con-temperament-risk;wrk-canon-ibn-sina;wrk-metaphysics-ibn-sina
+Maussian Gift Theory,6,con-gift-economy;con-kula-exchange;con-moka-hagen-exchange;con-potlatch;stu-malinowski-kula-ring-exchange;stu-strathern-hagen-ceremonial-exchange
+Neo-Kantianism,6,sch-german-idealism;sch-kant-critical;thk-cassirer;thk-vaihinger;wrk-essay-on-man-cassirer;wrk-symbolic-forms-cassirer
+Platonic Academy,6,con-anamnesis-recollection;con-dialectics;sch-academic-skepticism;sch-sophistry;thk-plato;wrk-republic-plato
+Somatic Phenomenology,6,con-body-schema;con-embodied-cognition;con-lived-body;sch-phenomenology;sch-phenomenology-existential;sch-polyvagal-informed-therapy
+Usul al-Fiqh,6,con-ahliyya-legal-capacity-usul;con-ikhtilaf-juristic-disagreement;con-istihsan-juristic-preference;con-maqasid-al-shariah-shatibi;sch-criminal-law-theory;thk-shams-al-aimma-al-sarakhsi
+Anxiety and OCD Spectrum Disorders,5,con-body-dysmorphic;con-exposure-response-prevention;con-ocd-disorder;con-panic-agoraphobia;con-social-anxiety
+Arab Nahda: Intellectual Modernization,5,con-confrontation-western;con-nahda-movement;con-nationalism-identity;con-women-liberation;thk-qasim-amin
+Aristotelianism,5,con-eudaimonia-wellbeing;con-hylomorphism;sch-communitarianism;wrk-metaphysics-aristotle;wrk-nicomachean-ethics
+Ricardian Political Economy,5,br-georgism-land-value-tax;br-sraffian-neo-ricardian-economics;con-ricardian-rent;thk-david-ricardo;wrk-principles-of-political-economy-and-taxation-ricardo
+Scholasticism,5,con-universals-debate;dbt-realism-vs-nominalism;dbt-thomism-vs-scotism;sch-ockhamism;sch-thomism
+Critical Legal Studies,4,sch-critical-race-theory-law;sch-feminist-jurisprudence;sch-twail-postcolonial-international-law;thk-duncan-kennedy
+Cultural Psychiatry,4,con-culture-bound-syndromes;con-ethnopsychiatry;con-healing-traditions;con-mental-health-stigma
+Early Islamic Thought and the Classical Age,4,con-kalam-theology;con-rationalism-early-islam;con-theological-debates;thk-abu-hanifa
+Founding of the 'Science of Religion': Max Müller and the Origins of Comparative Religion,4,sch-comparative-religious-fasting-studies;sch-comparative-religious-gender-queer;sch-comparative-religious-music-studies;sch-food-religion-studies
+Founding the Science of Religion: Max Müller and the Origins of Comparative Religion,4,sch-academic-study-religion-sport;sch-feminist-study-of-religion;sch-ritual-theory-religious-studies;thk-max-muller
+German Idealism,4,sch-hegelianism;sch-kant-critical;thk-fichte;wrk-hegel-phenomenology-spirit
+Islamic Law and Shariah,4,con-gharar-in-contracts;con-personal-status-law-arab-states;thk-al-mawardi;thk-mustafa-al-zarqa
+Prague Linguistic Circle,4,con-distinctive-features-phonology;con-phoneme;thk-roman-jakobson;wrk-theses-1929-prague-circle
+Saussurean Structuralism,4,con-signifier-signified;sch-structuralist-semiology;thk-ferdinand-de-saussure;wrk-cours-de-linguistique-generale
+Somatic Experiencing,4,rel-psychoanalysis-somatic;rel-somatic-existential;rel-trauma-somatic;sch-trauma-psychology
+Systemic/Family Therapy,4,br-structural-family;con-differentiation-self;con-triangulation;thk-mbowen
+Variationist Sociolinguistics,4,con-code-switching-mixing;stu-marthas-vineyard-centralization-labov;thk-penelope-eckert;thk-william-labov
+Women's Intellectual Traditions School,4,con-gender-islamic-philosophy;con-postcolonial-feminism;con-women-poets-preislamic;thk-hind-utba
+Abu Bakr al-Razi,3,con-healing-traditions;con-major-depressive-disorder;con-treatment-resistant
+Academic Study of Islam and the Critique of Orientalism,3,thk-ignaz-goldziher;thk-joseph-schacht;thk-muhammad-mustafa-al-azami
+Anxiety,3,con-antidepressants-ssri;con-anxiolytics-benzodiazepines;con-childhood-anxiety
+Ash'arism,3,thk-al-ghazali;thk-ashari;thk-fakhr-razi
+Bipolar Spectrum,3,con-major-depressive-disorder;con-mood-stabilizers;con-temperament-risk
+Classical Arabic Grammatical and Linguistic Tradition,3,dbt-lexical-modernization-tawlid-vs-purism-arabic-academies;thk-sibawayh;wrk-al-mufassal-zamakhshari
+Classical Elite Theory,3,con-iron-law-of-oligarchy;thk-michels;thk-pareto
+Classical Evolutionism,3,con-animism-tylor;thk-edward-tylor;wrk-primitive-culture-tylor
+Cognitive-Behavioral Psychology,3,br-social-learning-theory;con-classical-conditioning;wrk-beck-cognitive-therapy-depression
+Comparative Religious Studies of Dreaming: Kelly Bulkeley,3,con-dream-incubation-religious;con-tibetan-dream-yoga-milam;thk-kelly-bulkeley
+Contemporary Intellectual Movements School,3,con-cultural-authenticity;con-islamic-modernism;wrk-womens-liberation-saadawi
+Corpus Linguistics,3,br-corpus-linguistics;dbt-corpus-vs-introspection-linguistic-evidence;thk-john-sinclair
+Early Buddhism,3,con-anatta-non-self-concept;con-nirvana-extinction;rel-buddhism-thirdwave
+Early Classical Islamic Thought,3,con-logical-traditions;con-maqasid-sharia;con-quran-tafsir
+Enlightenment Philosophy,3,sch-classical-liberalism-early;thk-rousseau;wrk-the-social-contract-rousseau
+Founding of the Science of Religion: Max Müller and the Origins of Comparative Religion,3,con-disease-of-language-muller;sch-death-ritual-religious-studies;sch-psychology-of-religion-james-freud-jung
+Greco-Latin Grammatical Tradition,3,thk-dionysius-thrax;thk-priscian;wrk-institutiones-grammaticae-priscian
+Greimassian Semiotics,3,con-semiotic-square-greimas;thk-algirdas-greimas;wrk-morphology-of-the-folktale-propp
+Hayekian Spontaneous Order,3,con-hayek-knowledge-problem;thk-friedrich-august-von-hayek;wrk-the-use-of-knowledge-in-society-hayek
+Hermeneutic Phenomenology,3,rel-daseinsanalysis-heideggerian-phenomenology;sch-hermeneutics;sch-phenomenology
+Historiography Section 18,3,sch-annales-social-history-aggregate;sch-annales-third-generation-mentalities;sch-british-marxist-historians-ep-thompson
+Linguistic Relativity,3,sch-ethnography-of-communication;stu-ochs-samoan-language-socialization;wrk-language-thought-reality-whorf
+Linguistic and Literary Thought School,3,con-metaphor-language;con-rhetoric-poetics;con-semantics-meaning
+Lévi-Strauss,3,wrk-elementary-structures;wrk-savage-mind;wrk-totemism
+Madhyamaka,3,con-shunyata;sch-yogacara;thk-nagarjuna
+Mental Health Stigma,3,con-autism-spectrum;con-community-mental-health;con-side-effects-management
+Middle Platonism,3,sch-academy-platonic;sch-augustinianism;sch-patristics
+Neo-Confucianism,3,sch-confucian-early;sch-lixue;sch-xinxue
+Nietzscheanism,3,con-will-to-power;rel-kierkegaardianism-nietzscheanism-existential-therapy;wrk-on-the-genealogy-of-morals-nietzsche
+Psychotherapy Foundations,3,con-cbt-foundations;con-family-systems-therapy;con-humanistic-therapy
+"Sociology of Family, Gender and Intimacy",3,dbt-parsons-giddens-functionalist-family-vs-pure-relationship;stu-making-ends-meet-edin-lein;wrk-doing-gender-west-zimmerman
+Sociology of Participant Observation and Marginal Communities,3,stu-manufacturing-consent-burawoy;stu-sidewalk-duneier;stu-tallys-corner-liebow
+Symbolic Anthropology,3,thk-barbara-myerhoff;thk-biersack;thk-victor-turner
+Treatment-Resistant Disorders,3,con-antidepressants-ssri;con-fmri-pet-findings;con-polypharmacy-interactions
+Utilitarianism,3,thk-bentham;thk-mill;wrk-on-liberty-mill
+Veblenian Institutional Sociology,3,con-conspicuous-consumption;thk-veblen;wrk-theory-of-leisure-class-veblen
+Vedanta,3,con-maya-vedanta;dbt-advaita-vs-dvaita;sch-advaita-vedanta
+Women's Intellectual Traditions,3,con-feminist-quranic-hermeneutics;con-rabia-mystic-thinker;con-womens-epistemology
+Academic Study of Indian and Buddhist Religions,2,sch-academic-hindu-studies-flood-lipner;thk-eugene-burnouf
+Academic Study of Native North American Religions,2,con-guardian-spirit-complex-hultkrantz;thk-ake-hultkrantz
+Advaita Vedanta,2,sch-transpersonal;thk-shankara
+American Kinship Studies,2,con-biogenetic-versus-cultural-kinship;thk-david-schneider
+American Structural Linguistics,2,sch-generative-grammar;thk-leonard-bloomfield
+American current,2,br-british;br-daseins
+Andalusian Philosophy,2,thk-ibn-rushd;thk-ibn-tufayl
+Anxiety and Obsessive-Compulsive Spectrum Disorders,2,con-anxiety-neurocircuitry;thk-david-clark
+Archerian Critical Realist Sociology,2,thk-margaret-archer;wrk-realist-social-theory-archer
+Archival Science and Diplomatics,2,con-archival-methodology;con-document-analysis
+Badr al-Din al-Zarkashi,2,con-psychedelic-therapy;wrk-al-bahr-al-muhit-zarkashi
+Bayt al-Hikma & the Translation Movement,2,con-medicine-advancement;con-scientific-advancement
+Biological Neuroscience of Mental Illness,2,con-gaba-glutamate;thk-stephen-stahl
+Biological and Neuropsychology,2,con-neuroplasticity;thk-damasio
+Blau's Structural Exchange Theory,2,thk-peter-blau;wrk-exchange-and-power-social-life-blau
+Bloomington School,2,thk-elinor-ostrom;wrk-governing-the-commons-ostrom
+Boasian Cultural Relativism,2,sch-cognitive-anthropology;sch-culture-and-personality
+Buddhist Psychology,2,con-mindfulness;sch-transpersonal
+Classical Marxist Sociology,2,dbt-marx-weber-class-stratification;rel-marx-alienation-sociology-philosophy-bridge
+Clinical Hypnotherapy,2,con-hypnotic-trance;rel-hypnosis-psychoanalysis
+Comparative Religious Healing Practices,2,con-healer-patient-relationship;con-ritual-healing-efficacy
+Constructivist Cognitive Therapy,2,thk-piaget;thk-vygotsky
+"Contact Linguistics, Creoles and Pidgins",2,con-language-bioprogram-hypothesis;stu-tok-pisin-creolization
+Contemporary Political Liberalism (Rawlsianism and Beyond),2,dbt-rawls-nozick-justice;thk-rawls
+"Critical Philosophy of History (Dilthey, Collingwood, Dray and the Covering Law Model)",2,sch-objectivity-debate-carr-elton-novick;thk-carl-hempel
+Critical-Historical Study of Early Christianity and New Testament Scholarship,2,con-nag-hammadi-lost-christianities;thk-bart-ehrman
+Cultural (Cross-Cultural) Psychiatry,2,con-mental-illness-non-western;con-migration-mental-health
+Cultural Psychiatry (Cross-Cultural),2,con-community-mental-health;con-cultural-competence
+Deontological Ethics (Kant),2,con-duty-based-ethics;con-universalizability
+Dopamine and Psychosis,2,con-antipsychotics-mechanisms;con-fmri-pet-findings
+Early Islamic Classical Thought,2,thk-ahmad-ibn-hanbal;thk-malik-ibn-anas
+Early Islamic and Classical Thought,2,con-fiqh-schools;con-prophetic-tradition
+Early Shramana Schools,2,sch-buddhism-early;sch-jainism
+Ethnographic Fieldwork,2,thk-franz-boas;thk-malinowski
+Ethnopsychiatry and Culture-Bound Syndromes,2,con-culture-bound-syndromes;con-ethnopsychiatry
+Existential Therapy,2,rel-daseinsanalysis-heideggerian-phenomenology;rel-phenomenology-existential-therapy
+Fichteanism,2,sch-german-idealism;thk-fichte
+First Language Acquisition & Its Stages,2,stu-genie-wild-child-critical-period-case;stu-wug-test-berko-1958
+Formal Philosophy of Language,2,sch-ordinary-language;thk-gfrege
+Frankfurt School,2,sch-critical-psychology;thk-adorno
+Frankl,2,br-logotherapy;wrk-mans-search
+Functional Grammar & Role and Reference Grammar,2,con-macrorole-actor-undergoer-rrg;thk-robert-van-valin
+Functionalism,2,sch-phil-mind-analytic;thk-hputnam
+Gender and Kinship Studies,2,con-gender-kinship-intersection;con-kinship-political-economy
+Government and Binding Theory,2,con-poverty-of-the-stimulus-universal-grammar;sch-minimalist-program
+Heidegger,2,br-daseins;wrk-being-time
+Historical Method and Epistemology,2,wrk-craft-of-history-bloch;wrk-idea-history-collingwood
+Humeanism,2,rel-hume-bundle-self-dissociation;thk-hume
+Hunayn ibn Ishaq,2,con-major-depressive-disorder;con-temperament-risk
+Ibn Khaldun's Method of Criticizing Reports (Law of Social Conformity),2,sch-isnad-jarh-wa-tadil;sch-rankean-historical-positivism
+Islamic Law and Shari'ah,2,thk-abd-al-razzaq-al-sanhuri;wrk-kitab-al-kharaj-abu-yusuf
+Islamic Psychology,2,con-healing-traditions;con-major-depressive-disorder
+Jainism,2,con-ahimsa;thk-mahavira
+Joseph Schumpeter,2,wrk-capitalism-socialism-and-democracy-schumpeter;wrk-the-theory-of-economic-development-schumpeter
+Kierkegaard,2,wrk-concept-anxiety;wrk-sickness-death
+Kleinman's Explanatory Models,2,con-cultural-competence;con-mental-illness-non-western
+Lexical-Functional Grammar & HPSG,2,con-argument-structure-lexicon;thk-joan-bresnan
+Luhmannian Autopoietic Systems,2,con-autopoiesis-social-systems-luhmann;thk-luhmann
+Malinowski,2,wrk-argonauts-western-pacific-malinowski;wrk-sexual-life
+Malinowskian Functionalism,2,stu-malinowski-kula-ring-exchange;wrk-crime-custom-savage-society-malinowski
+Marx Critique of Political Economy,2,sch-soviet-planning-economics;thk-alexander-chayanov
+Marxism,2,con-praxis;sch-frankfurt-school
+Medical Anthropology and Global Health,2,thk-arthur-kleinman;thk-paul-farmer
+"Medical, Health and Clinical Sociology",2,con-professional-dominance-freidson;dbt-parsons-freidson-sick-role-vs-medical-dominance
+Mental Spaces & Conceptual Blending,2,thk-gilles-fauconnier;wrk-the-way-we-think-fauconnier-turner
+Mood Stabilizers and Lithium,2,con-polypharmacy-interactions;con-side-effects-management
+Neopragmatism,2,sch-pragmatism-classical;wrk-philosophy-mirror-nature
+Network Exchange Theory,2,con-network-exchange-power-dependence;wrk-social-exchange-power-networks-cook
+"Neurotheology, Mystical Experience and the Brain (Newberg and d'Aquili)",2,con-deafferentation-hypothesis-neurotheology;thk-andrew-newberg
+New Classical Economics and Rational Expectations,2,br-real-business-cycle-theory;thk-robert-lucas-jr
+New Institutionalism in Organizational Analysis,2,con-institutional-isomorphism-dimaggio-powell;thk-dimaggio
+New Religious Movements and the Cult Debate,2,con-anti-cult-movement-response;sch-theosophical-society
+Organizational New Institutionalism,2,thk-walter-powell;wrk-iron-cage-revisited-dimaggio-powell
+Paninian Sanskrit Grammar,2,thk-panini;wrk-ashtadhyayi
+Philosophy of Life (Lebensphilosophie),2,thk-bergson;thk-dilthey
+Politeness Theory & Face,2,con-face-threatening-acts-strategies;thk-penelope-brown
+Political Anthropology,2,br-legal-anthropology-subfield;thk-evans-pritchard
+Polypharmacy and Drug Interactions,2,con-mood-stabilizers;con-treatment-resistant
+Psychiatric Reform,2,con-community-mental-health;con-mental-health-human-rights
+Recovery from Psychosis,2,con-antipsychotics-mechanisms;con-treatment-resistant
+Relevance Theory,2,thk-dan-sperber;thk-deirdre-wilson
+"Religious Phenomenology: Otto, Eliade and Their Influence",2,thk-mircea-eliade;thk-rudolf-otto
+Ritual Studies,2,thk-arnold-van-gennep;thk-victor-turner
+Ritual Theories in Comparative Religious Studies: From Robertson Smith to Hubert and Mauss,2,sch-mimetic-theory-violence-sacred-religion;thk-william-robertson-smith
+Ritual Theory in the Study of Religion,2,con-sacrifice-theory-hubert-mauss;con-totemic-sacrifice-smith-durkheim-influence
+Science and Technology Studies,2,thk-haraway;thk-latour
+Sensorimotor Psychotherapy,2,con-somatic-memory;rel-trauma-somatic
+Sibawayh,2,wrk-al-kitab-sibawayh;wrk-kitab-sibawayhi
+Sociology of Aging and the Life Course,2,con-life-course-theory-elder;thk-jennifer-silva
+Sociology of Rationalization and Bureaucracy,2,con-disenchantment-weber;rel-weber-bureaucracy-sociology-milgram-agentic-state-psychology-bridge
+Sociology of Social Movements and Collective Action,2,con-collective-action-frames-snow-benford;wrk-frame-alignment-processes-snow-benford
+"Sociology of Work, Occupations and Industry",2,thk-guy-standing;thk-richard-sennett
+Structuralism,2,que-what-is-language;sch-post-structuralism
+Stryker and Burke's Structural Interactionism,2,con-identity-salience-hierarchy-stryker;dbt-blumer-stryker-processual-structural-interactionism
+Study of New Religious Movements and the 'Cult' Debate,2,con-brainwashing-conversion-debate;thk-james-beckford
+Systemic Functional Linguistics,2,con-mood-system-halliday;thk-christian-matthiessen
+Temperament and Risk Factors,2,con-childhood-anxiety;con-developmental-trajectories
+The Kufa School & the Grammatical Dispute,2,thk-ibn-al-anbari;wrk-al-insaf-masail-al-khilaf-ibn-al-anbari
+Theoretical Gnosis / Unity of Being,2,thk-ibn-arabi;wrk-fusus-al-hikam-ibn-arabi
+Theosophical Society,2,thk-helena-blavatsky;thk-rudolf-steiner
+Thucydides' Method of Rational Criticism and Sources,2,sch-polybius-pragmatic-history;thk-thucydides
+Transcendent Theosophy,2,con-asalat-al-wujud-primacy-of-existence;thk-mulla-sadra
+Translation Studies,2,con-domestication-foreignization-translation;thk-eugene-nida
+Turnerian Symbolic Anthropology,2,con-liminality-communitas;wrk-forest-of-symbols-turner
+Western Marxism,2,sch-frankfurt-school;sch-marxism
+Whyte's Participant Observation,2,stu-in-search-of-respect-bourgois;stu-street-corner-society-whyte
+Xinxue (School of Mind),2,sch-neoconfucianism;thk-wang-yangming
+Zar,2,con-culture-bound-syndromes;con-healing-traditions
+Absurdism,1,sch-existentialism
+Academic Critical Study of Kabbalah (Gershom Scholem),1,thk-gershom-scholem
+Academic Haitian Vodou Studies,1,thk-karen-mccarthy-brown
+Academic Study of Animals and Religion: Paul Waldau and Kimberley Patton,1,wrk-question-of-the-animal-and-religion-gross
+Academic Study of Australian Aboriginal Religion,1,dbt-religion-as-category-aboriginal-australia
+Academic Study of Haitian Vodou,1,wrk-mama-lola-mccarthy-brown
+Academic Study of Religion and Animals (Animals and Religion Studies): Paul Waldau and Kimberley Patton,1,wrk-communion-of-subjects-waldau-patton
+Academic Study of the Bahá'í Faith (Baha'i Studies),1,thk-moojan-momen
+Acceptance and Commitment Therapy,1,rel-buddhism-thirdwave
+Actor-Network Theory,1,thk-latour
+Adam Smith,1,wrk-the-wealth-of-nations-smith
+Adlerian Individual Psychology,1,sch-psychoanalysis
+Advaita Vedānta,1,rel-advaita-vedanta-transpersonal
+Affective Neuroscience-informed Psychotherapy,1,sch-biological-neuro
+African History and Oral Sources (Vansina and the Ibadan and Dar es Salaam Schools),1,thk-jan-vansina
+African Oral History Traditions,1,sch-speculative-philosophy-of-history
+African Postcolonial Anthropology,1,thk-jean-john-comaroff
+Akbarian School,1,sch-islamic-sufism
+Al-Masudi and Islamic Universal History,1,sch-al-tabari-islamic-historiography
+Al-Zamakhshari,1,wrk-al-mufassal-zamakhshari
+Alliance Theory,1,con-asymmetric-alliance
+American Christian Fundamentalism Studies,1,con-new-evangelicalism
+American Idealism,1,sch-pragmatism-classical
+Amerindian Perspectivism,1,thk-eduardo-viveiros-de-castro
+Anachronism in History,1,con-historical-relativism
+Analytic Naturalism (Quinean),1,thk-wquine
+Analytic Naturalism (Quineanism),1,wrk-two-dogmas
+Analytic metaphysics school,1,dbt-free-will-vs-determinism
+Analytical Sociology,1,thk-elster
+Ancient Biographical Historiography,1,thk-livy
+Ancient Historiography: Foundations,1,sch-herodotus-inquiry-method
+Annales School — First Generation (Marc Bloch and Lucien Febvre),1,sch-braudel-longue-duree
+Annales Third Generation: Mentalities,1,thk-emmanuel-le-roy-ladurie
+Annihilation and Subsistence in Sufism,1,con-psychedelic-therapy
+Anthony Bateman,1,con-mentalization
+Anthropology of Art and Agency,1,thk-alfred-gell
+Anthropology of Globalization,1,thk-appadurai
+Anthropology of the Contemporary,1,thk-paul-rabinow
+Anti-Psychiatry,1,thk-szasz
+Applied & Public Anthropology Traditions,1,wrk-precariat-standing
+Applied Behavior Analysis,1,sch-behaviorism
+Applied Behavior Analysis and Autism,1,con-autism-spectrum
+Arab Renaissance,1,sch-nahda-modernization
+Arabic Linguistic & Literary Thought,1,con-literary-criticism
+Authority of the Scribe and Documentarian,1,con-inscription-documentary-evidence
+Autism Spectrum,1,con-neurodevelopmental-adhd
+Barrington Moore Jr.,1,wrk-social-origins-dictatorship-democracy-moore
+Basra–Kufa Grammatical Dispute,1,thk-al-mubarrad
+Bauman's Postmodern Ethics and Wasted Lives,1,wrk-modernity-and-the-holocaust-bauman
+Becker's Labeling Theory,1,con-labeling-theory-becker
+Behavioral Neurology and Clinical Neuropsychology,1,sch-biological-neuro
+Benedict,1,wrk-patterns-of-culture-benedict
+Berger and Luckmann's Social Construction,1,thk-peter-berger
+Bergsonism,1,wrk-matter-and-memory-bergson
+Berlin Gestalt School,1,stu-wertheimer-gestalt
+Big History,1,sch-new-institutional-economic-history
+Binswanger and Boss,1,br-daseins
+Biological and Neuroscientific Psychology,1,thk-panksepp
+Biosocial Theory (DBT),1,sch-dbt
+Black Existentialism,1,thk-biko
+Blau's Structural Exchange Theory and Class Inequality,1,wrk-inequality-heterogeneity-blau
+Blumerian Symbolic Interactionism,1,con-symbolic-interactionism-premises
+Boas,1,wrk-mind-of-primitive-man-boas
+Boethius,1,wrk-consolation-philosophy
+Boltanski and Thévenot's Sociology of Worth,1,thk-boltanski
+Bourdieu's Practice and Habitus,1,sch-bourdieu-distinction-cultural-reproduction
+Bowen Family Systems,1,thk-mbowen
+Bowen Family Systems Theory,1,sch-systemic-family
+British Social Anthropology,1,thk-douglas
+British current,1,br-humanistic
+Buddhist Modernism,1,rel-cbt-nonwestern
+Burhan al-Din al-Marghinani,1,wrk-al-hidaya-marghinani
+Byzantine Historiography (Procopius and Anna Komnene),1,sch-medieval-monastic-chronicles
+Byzantine Philosophy,1,sch-scholasticism
+Byzantine school,1,sch-renaissance-humanism
+Care Ethics,1,thk-gilligan
+Causation vs. Narrative Sequence,1,con-historical-evidence-interpretation
+Charles Perrow,1,wrk-normal-accidents-perrow
+Chicago School of Urban Ecology,1,sch-whyte-participant-observation
+Chicago Urban Ecology,1,thk-robert-park
+Child Psychoanalysis,1,sch-psychoanalysis
+Childhood Anxiety,1,con-temperament-risk
+Civic Republicanism,1,wrk-the-prince-machiavelli
+Classical Behaviorism,1,sch-behaviorism
+Classical Islamic Sufism,1,con-fana-annihilation
+Classical Psychoanalysis,1,con-pleasure
+Cliometrics (Quantitative and Econometric Economic History),1,thk-robert-fogel
+Cognitive Anthropology and Ethnoscience,1,thk-ward-goodenough
+Collins's Micro-Conflict Sociology,1,con-interaction-ritual-chains-collins
+Community Psychology,1,con-community-mental-health
+Comparative Anthropology,1,thk-radcliffe-brown
+Comparative Mythology,1,thk-claude-levi-strauss
+Comparative Religion and Frazer,1,con-magic-religion-frazer
+Comparative Religious Pilgrimage and Tourism Studies,1,dbt-pilgrimage-communitas-vs-contestation
+Comparative Religious Violence Studies,1,wrk-ambivalence-of-the-sacred-appleby
+Comparative Study of Religion and Magic,1,thk-james-frazer
+Comparative Study of Religious/Sacred Music,1,thk-guy-beck
+"Comparativism vs. Contextualism: Eliade, Smith and the Method of Comparison",1,thk-bruce-lincoln
+Computational Sociology and the Analysis of Digital Traces,1,thk-duncan-watts
+Contemporary Arab Sociology,1,thk-halim-barakat
+Contemporary Ethnography,1,thk-george-marcus
+Contemporary Ideal/Formal Philosophy of Language,1,con-sense-vs-reference
+Contemporary Kantian Ethics,1,con-autonomy-kantian
+Contemporary Relational Sociology,1,thk-emirbayer
+Contemporary Utilitarianism,1,sch-utilitarianism
+Cooley's Looking-Glass Self,1,con-looking-glass-self
+Copenhagen Glossematics,1,thk-louis-hjelmslev
+Copenhagen School (Glossematics),1,con-form-substance-expression-content-hjelmslev
+Counterfactual Historical Causation,1,sch-internal-external-source-criticism
+Couple and Family Dynamics,1,con-family-systems-therapy
+Critical Hermeneutics,1,sch-hermeneutics
+Critical Kantian philosophy,1,wrk-critique-of-practical-reason-kant
+Critical Philosophy of History,1,thk-william-dray
+"Critical Philosophy of History (Dilthey, Collingwood, Dray, Hempel and the Covering Law Model)",1,con-covering-law-model-hempel
+Critical Race Theory,1,thk-derrick-bell
+Cultural Ecology,1,thk-julian-steward
+Cultural Materialism,1,thk-marvin-harris
+Cyborg Anthropology,1,thk-haraway
+David Epston,1,sch-narrative-therapy
+David Morgan,1,wrk-visual-piety-morgan
+David Rosenhan,1,wrk-rosenhan-sane
+Debt Overhang,1,con-debt-financial-stress-psychology-bridge
+Decolonial Anthropology,1,thk-lindatuhiwai
+Decolonizing Methodologies,1,thk-lindatuhiwai
+Definition of Culture-Bound Syndrome,1,con-culture-bound-syndromes
+Deliberative Democracy,1,thk-habermas
+Depression Subtypes,1,con-major-depressive-disorder
+Deskilling and the Labour Process (Braverman),1,con-labour-process-braverman-bridge
+Developmental Trajectories of Psychiatric Illness,1,con-neurodevelopmental-adhd
+Diagnostic Nosology (Classification and Diagnosis),1,con-save-normal
+Digital Religion Studies: Heidi Campbell and the Concept of 'Networked Religion',1,con-networked-religion-campbell
+Diminishing Returns,1,con-money-happiness-easterlin-bridge
+Discursive Psychology,1,sch-critical-psychology
+Dissociation,1,rel-hume-bundle-self-dissociation
+Divine Origin of Kingship,1,con-genealogical-legitimacy
+Division of Labour (Smith),1,con-labour-process-braverman-bridge
+Douglas,1,wrk-purity-and-danger-douglas
+Douglas-Johnson Existential Sociology,1,thk-jack-douglas
+Douglass North,1,wrk-institutions-institutional-change-and-economic-performance-north
+Early Islamic Classical Thought School,1,wrk-canon-ibn-sina
+Early Śramaṇa Schools,1,sch-charvaka
+Eclecticism,1,sch-academic-skepticism
+Economic History of the Middle East,1,wrk-a-political-economy-of-the-middle-east-richards-waterbury
+Economic Sociology and Embeddedness,1,wrk-great-transformation-polanyi
+Economic Sociology and the Embeddedness of Markets,1,con-embeddedness-polanyi
+Efficacy of Ritual Healing,1,con-healing-traditions
+Ego Psychology,1,sch-psychoanalysis
+Eleatic School,1,thk-parmenides
+Eliezer Diamond,1,wrk-holy-men-hunger-artists-diamond
+Elyn Saks's Experience of Schizophrenia,1,rel-elyn-saks-mental-health-law-bridge
+Emotion-Focused Therapy,1,con-primary-emotion
+Environmental Sociology and Sustainability,1,wrk-environmental-sociology-new-paradigm-catton-dunlap
+Ethical Ethnography,1,thk-paul-rabinow
+Ethnographic Authority,1,thk-james-clifford
+Ethnography of Science,1,thk-latour
+Ethnomusicology of Religion,1,thk-bruno-nettl
+Ethnoscapes Framework,1,thk-appadurai
+European existential analysis,1,br-humanistic
+Evans-Pritchard,1,stu-evans-pritchard-the-nuer
+Existential Judaism,1,thk-mbuber
+Existential-Humanistic Depth Psychology (May),1,sch-humanistic
+Experimental Ethnography,1,thk-george-marcus
+Exposure Hierarchy,1,con-exposure-therapy
+Family Projection Process,1,con-family-systems-therapy
+Family Structure,1,con-family-systems-therapy
+Fanonian Sociology of Liberation,1,con-ethnopsychiatry
+Feudalism-to-Capitalism Transition Debate (Dobb-Sweezy and Brenner),1,thk-dobb-sweezy
+Foucauldian Disciplinary Power,1,rel-foucault-power-knowledge-discipline-sociology-philosophy-bridge
+Foucauldian Power-Knowledge and Discursive Formations,1,rel-foucault-power-knowledge-discipline-sociology-philosophy-bridge
+Four-Field Anthropology,1,thk-franz-boas
+Fox,1,wrk-kinship-and-marriage
+Fraser's Social Reproduction and the Crisis of Care,1,thk-nancy-fraser
+Frederick Goodwin,1,wrk-bipolar-disorder-research
+"French Methodical School (Seignobos, Langlois and the Introduction to Historical Studies)",1,thk-seignobos-langlois
+Functionalism (Philosophy of Mind),1,con-functionalism-mind
+Geertz,1,wrk-interpretation-of-cultures-geertz
+Geertzian Interpretive Anthropology,1,con-thick-description-geertz
+Gender & Queer Anthropology,1,thk-marilyn-strathern
+Gerald Klerman,1,sch-ipt
+German History of Religions School (Religionsgeschichtliche Schule),1,thk-hermann-gunkel
+Gestalt Psychology (Berlin School),1,sch-gestalt-therapy
+Goffmanian Interaction Rituals,1,con-face-work-goffman
+Gordon Tullock,1,wrk-the-calculus-of-consent-buchanan-tullock
+Greimassian Structural Semantics,1,con-actantial-model-narrative
+Grid-Group Analysis,1,thk-douglas
+Grounded Theory School,1,thk-glaser
+Habib Davanloo,1,sch-istdp
+Habituation through Exposure,1,con-exposure-therapy
+Habitus and Deep-Rooted Class Dispositions,1,rel-bourdieu-habitus-sociology-philosophy-bridge
+Hazem el-Beblawi,1,wrk-the-rentier-state-beblawi-luciani
+Healing Traditions,1,con-cultural-competence
+Heidegger and Boss,1,wrk-zollikon
+Hellenistic Judaism,1,sch-patristics
+Heraclitean School,1,thk-heraclitus
+Herodotus' Method of Inquiry and Narration,1,sch-thucydides-source-criticism
+Herodotus's Method of Inquiry,1,thk-herodotus
+Higher Criticism and Critical Study of the Bible,1,con-documentary-hypothesis-wellhausen
+Historical Trauma,1,con-migration-mental-health
+History of the Book and Print Culture (Darnton and Eisenstein),1,sch-environmental-history
+Hochschild's Emotional Labor,1,con-emotional-labor-hochschild
+Hochschild's Sociology of Care Work,1,con-global-care-chains-hochschild
+Holotropic Breathwork,1,sch-transpersonal
+Homans's Behavioral Exchange Theory,1,thk-homans
+Honneth and Fraser on Recognition and Redistribution,1,con-bivalent-conception-of-justice-fraser
+Human Rights Theory,1,con-property-rights
+Humanistic current,1,br-humanistic
+Ibn Arabi,1,wrk-fusus-al-hikam-ibn-arabi
+Ibn Khaldun and the Critique of Historical Reports,1,sch-annales-first-generation
+Ibn Manzur,1,wrk-lisan-al-arab-ibn-manzur
+Ibn Rushd (Averroes),1,wrk-incoherence-incoherence
+Ibn Sina (Avicenna),1,wrk-al-shifa-avicenna
+Illuminationism,1,thk-suhrawardi
+Illuminationism (Ishraqiyya),1,wrk-hikmat-al-ishraq-suhrawardi
+Indigenous Research Sovereignty,1,thk-lindatuhiwai
+Insanity Defense and the M'Naghten Rule,1,rel-elyn-saks-mental-health-law-bridge
+Inscriptions and Material Documents,1,con-propaganda-stele
+Insoo Kim Berg,1,sch-solution-focused
+Integration of the Psychedelic Experience,1,con-psychedelic-therapy
+International Human Rights,1,con-mental-health-human-rights
+Interpersonal Neurobiology,1,thk-dsiegel
+Interpretive Anthropology,1,thk-clifford-geertz
+Intersubjective Psychoanalysis,1,sch-psychoanalysis
+Involuntary Civil Commitment Standard,1,rel-elyn-saks-mental-health-law-bridge
+Ishraqiyya (Illuminationism),1,con-knowledge-by-presence-ilm-huduri
+Islamic Critical Thought,1,thk-mohammed-abed-al-jabri
+Islamic Ethics and Political Thought School,1,con-islamic-law-governance
+Islamic Fiscal Thought (Kharaj and Hisba),1,sch-modern-islamic-economics
+Islamic Sufism,1,thk-hafiz
+Italian Microhistory,1,con-exceptional-normal-ginzburg
+Jaspers,1,wrk-general-psychopathology
+John Teasdale,1,sch-mbct
+Jonathan Z. Smith,1,wrk-imagining-religion-smith
+Jungian Psychology,1,rel-psychoanalysis-jungian
+Kantian Critical Philosophy,1,wrk-critique-of-pure-reason-kant
+Khaldunian Science of Human Civilization (Ilm al-Umran),1,con-asabiyyah-ibn-khaldun
+Kierkegaardian Philosophy,1,con-anguish-angst
+Kierkegaardianism,1,rel-kierkegaardianism-nietzscheanism-existential-therapy
+Kufa Grammatical School,1,thk-al-kisai
+Kufa Grammatical School & the Basra-Kufa Dispute,1,wrk-maani-al-quran-farra
+Lacanian Psychoanalysis,1,sch-psychoanalysis
+Laing,1,wrk-divided-self
+Language Evolution and Origins,1,dbt-gradualism-vs-saltation-language-evolution
+Language and Gender,1,con-communities-of-practice-sociolinguistics
+Laozi,1,wrk-daodejing
+Latin American Dependency Theory,1,thk-cardoso
+Latin American Indigenous Anthropology,1,thk-roberto-damatta
+Leach,1,stu-leach-political-systems-highlands-burma
+Lee,1,wrk-kung-bushmen
+Left Hegelianism,1,sch-hegelianism
+Lemert's Primary and Secondary Deviance,1,stu-everything-in-its-path-erikson
+Leslie S. Greenberg,1,con-primary-emotion
+Lexical-Functional Grammar and HPSG,1,wrk-head-driven-phrase-structure-grammar-pollard-sag
+Libertarianism,1,thk-nozick
+Linguistic Anthropology & the Sapir-Whorf Hypothesis,1,thk-edward-sapir
+Linguistic Typology & Universals,1,con-grammatical-case-systems
+Lixue (School of Principle),1,sch-neoconfucianism
+Lockeanism,1,thk-locke
+Logical Positivism (the Vienna Circle),1,thk-rcarnap
+"Longue Durée and Structure in Braudel (The Mediterranean, longue durée)",1,sch-cliometrics-quantitative-economic-history
+Längle,1,br-logotherapy
+Mahasanghika,1,sch-madhyamaka
+Malthusian Population Economics,1,thk-thomas-robert-malthus
+Management of Medication Side Effects,1,con-neurodevelopmental-adhd
+Manchester School,1,thk-fredrik-barth
+Manchester School Anthropology,1,thk-max-gluckman
+Mark Williams,1,sch-mbct
+Marxian Alienation,1,rel-marx-alienation-sociology-philosophy-bridge
+Mauss,1,wrk-the-gift
+"May, Angel and Ellenberger",1,wrk-existence
+"May, Bugental and Yalom",1,br-humanistic
+Mead,1,wrk-coming-of-age-samoa-mead
+Mead's Social Behaviorism,1,con-generalized-other-mead
+Meaning-centred therapy,1,br-logotherapy
+Memory and History: Nora and Halbwachs,1,thk-pierre-nora
+Mentalization Therapy,1,con-act-acceptance
+Mertonian Middle-Range Theory,1,sch-mertonian-sociology-of-science
+Mertonian Sociology of Science,1,con-cudos-norms-science
+Microhistory (Italian Microstoria: Ginzburg and Levi),1,sch-memory-history-nora-halbwachs
+Microhistory (Microstoria: Ginzburg and Levi),1,thk-carlo-ginzburg
+Milgram's Agentic State,1,rel-weber-bureaucracy-sociology-milgram-agentic-state-psychology-bridge
+Mimetic Desire and the Scapegoat Mechanism in the Origin of Religion (René Girard),1,con-scapegoat-mechanism-mimetic-desire-girard
+Minkowski,1,wrk-lived-time
+Modern Academic Study of the Bahá'í Faith (Baha'i Studies),1,thk-the-bab
+Multi-Scalar Ethnography,1,thk-appadurai
+Multi-Sited Ethnography,1,thk-george-marcus
+Myrna Weissman,1,sch-ipt
+Myth Theories in Comparative Religious Studies,1,dbt-segal-critique-campbell-monomyth-methodology
+Nahda: Intellectual Modernization,1,con-secularization-debate
+Narrative Theology,1,thk-hans-frei
+Narrative Therapy,1,rel-postmodern-systemic
+Narrative and Hermeneutic Sociology,1,wrk-narrative-constitution-identity-somers
+Neobehaviorism,1,sch-behaviorism
+Neuropsychoanalysis,1,con-fmri-pet-findings
+New Age Movement in Academic Study,1,thk-christopher-partridge
+New Institutionalism in Organizational Sociology,1,con-performativity-of-economics-mackenzie
+Niccolò Machiavelli,1,wrk-the-prince-machiavelli
+Noam Chomsky,1,wrk-syntactic-structures
+Nosology and Psychiatric Diagnosis,1,con-diagnostic-reliability
+Oakley's Sociology of Housework and Gendered Reproduction,1,wrk-sex-gender-society-oakley
+"Objectivity Debate: Carr, Elton and Novick",1,thk-peter-novick
+Ordoliberalism and the Social Market Economy,1,thk-walter-eucken
+Participant Observation,1,thk-malinowski
+Performative Ethnography,1,thk-barbara-myerhoff
+Peter Worsley,1,wrk-trumpet-shall-sound-worsley
+Phenomenological Existentialism,1,con-dasein-being-there
+Phenomenological Psychiatry,1,con-ipseity
+Phenomenology and Existentialism,1,rel-buber-i-thou-humanistic-counseling
+"Phenomenology of Religion: Otto, Eliade, and Their Legacy",1,con-axis-mundi-sacred-space-eliade
+Philosophical Pessimism,1,thk-schopenhauer
+Philosophical Postcolonialism,1,con-orientalism
+Political Sociology of the State and Citizenship,1,thk-th-marshall
+Popular Psychology,1,con-loss-aversion
+Post-Kyoto School,1,sch-kyoto
+Practice Theory and Habitus,1,con-practice-theory-anthropology
+Pragmatic History and Causal Explanation,1,sch-plutarch-parallel-biography
+Pragmatist Foundations of Symbolic Interactionism,1,rel-mead-symbolic-interactionism-sociology-philosophy-bridge
+Propaganda and Royal Inscription,1,con-inscription-documentary-evidence
+Psilocybin for Depression,1,con-psychedelic-therapy
+Psychache,1,rel-durkheim-suicide-sociology-vs-shneidman-psychache-psychology-bridge
+Psychedelic-Assisted Therapy School,1,con-psychedelic-therapy
+Public Finance and Optimal Taxation,1,dbt-optimal-top-tax-rates
+Purification of the Soul (Tazkiyah),1,con-healing-traditions
+"Purity, Danger and Classification (Douglas)",1,con-matter-out-of-place-douglas
+Purposive Behaviorism,1,sch-behaviorism
+Pyrrhonism,1,con-epoche-suspension
+Quinean Naturalism,1,sch-vienna-circle
+R. Scott Appleby,1,wrk-ambivalence-of-the-sacred-appleby
+Radcliffe-Brown Structural Functionalism,1,sch-descent-theory
+Rankean Historical Positivism,1,sch-national-historiography-nation-building
+Rawlsianism,1,dbt-liberalism-vs-communitarianism
+Reed,1,wrk-womans-evolution
+Reflexive Anthropology,1,thk-paul-rabinow
+Reflexive Ethnography,1,thk-james-clifford
+Relational Psychoanalysis,1,sch-psychoanalysis
+Relational formulation,1,br-british
+Religion and Dance: Kimerer LaMothe and the Philosophy of Bodily Becoming,1,wrk-why-we-dance-lamothe
+Religion and Symbolic Colours: Colour Classification in Comparative Ritual,1,con-ndembu-color-triad-turner
+Religion and Video Games Studies: Gregory Grieve and Heidi Campbell,1,wrk-playing-with-religion-in-digital-games-campbell-grieve
+"Religion, Migration, and Transnationalism",1,wrk-our-lady-of-the-exile-tweed
+"Religion, Migration, and Transnationalism: Thomas Tweed and Peggy Levitt",1,wrk-crossing-and-dwelling-tweed
+Religious (Christian) Existentialism,1,sch-existentialism
+"Religious Hermeneutics and the Interpretation of Sacred Text (Schleiermacher, Gadamer, Ricoeur)",1,con-hermeneutics-suspicion-recollection-ricoeur
+Richard R. Nelson,1,wrk-an-evolutionary-theory-of-economic-change-nelson-winter
+Right Hegelianism,1,sch-hegelianism
+Ritual Semiotics,1,thk-edmund-leach
+Rudolf Hilferding,1,wrk-finance-capital-hilferding
+S. Brent Plate,1,wrk-religion-and-film-plate
+Sartre,1,wrk-being-nothingness
+Sayf al-Din Ali ibn Muhammad al-Amidi,1,wrk-al-ihkam-al-amidi
+Scarcity Mindset,1,con-debt-financial-stress-psychology-bridge
+Schellingianism,1,sch-german-idealism
+School of Isfahan,1,sch-transcendent-theosophy
+School of Principle (Lixue),1,thk-zhu-xi
+Schutzian Phenomenological Sociology,1,sch-berger-luckmann-social-construction
+Scotism,1,sch-ockhamism
+Second Language Acquisition & the Critical Period,1,con-krashen-monitor-model
+Second Salamanca Scholasticism,1,sch-leibnizianism
+Secular current,1,br-logotherapy
+Segmentary Lineage Analysis,1,thk-evans-pritchard
+Sensorimotor Trauma Applications,1,rel-trauma-psychoanalysis
+Sentence Processing (Psycholinguistics),1,con-working-memory-sentence-parsing
+Side-Effect Management,1,con-antidepressants-ssri
+Side-Effects Management,1,con-polypharmacy-interactions
+Sidney Winter,1,wrk-an-evolutionary-theory-of-economic-change-nelson-winter
+Situated Knowledge,1,thk-haraway
+Skocpol's Comparative-Historical Analysis of Revolutions,1,sch-tilly-tarrow-contentious-politics
+Social Contract school,1,con-social-contract-theory
+Social History: Bottom-Up (History from Below),1,con-social-history-definition
+Social Network Analysis Paradigm,1,thk-granovetter
+Sociology of Constructionist Deviance,1,stu-challenger-launch-decision-vaughan
+Sociology of Education and Reproduction,1,wrk-schooling-in-capitalist-america-bowles-gintis
+Sociology of Knowledge and Science,1,con-strong-programme-ssk-bloor
+Sociology of Law and Social Control,1,thk-eugen-ehrlich
+"Sociology of Migration, Asylum and Diaspora",1,con-segmented-assimilation-portes
+Sociology of Organizations and Bureaucratic Dysfunction,1,stu-men-women-corporation-kanter
+Sociology of Religion and Post-Secularism,1,wrk-sacred-canopy-berger
+Sociology of Scientific Knowledge,1,thk-david-bloor
+Sociology of Total Institutions,1,rel-goffman-stigma-total-institutions-sociology-psychology-bridge
+Sociology of Youth and Subcultures,1,con-subcultural-style-resistance-hebdige
+Solution-Focused Brief Therapy,1,thk-sdeshacer
+Somatic Experiencing (SE),1,sch-polyvagal-informed-therapy
+Speculative Philosophy of History,1,thk-giambattista-vico
+Stephen Rollnick,1,sch-motivational-interviewing
+Strategic Family Therapy,1,sch-systemic-family
+Structural Functionalism,1,thk-radcliffe-brown
+Structural Violence and Health,1,con-structural-violence-definition
+Stryker-Burke Structural Interactionism,1,thk-stryker
+Suicide: A Sociological Study,1,rel-durkheim-suicide-sociology-vs-shneidman-psychache-psychology-bridge
+Sumnerian Evolutionary Sociology,1,thk-sumner
+"Symbolic & Interpretive Anthropology of Religion (Turner, Douglas, Geertz)",1,br-anthropology-of-religion-subfield
+Synchronic Analysis,1,thk-radcliffe-brown
+Systemic Family Therapy,1,rel-confucian-self-cultivation-family-systems
+Tartu-Moscow School & Biosemiotics,1,thk-thomas-sebeok
+Tawakkul in Psychology,1,con-act-acceptance
+The Academic Study of Religion and Animals (Animals and Religion Studies): Paul Waldau and Kimberley Patton,1,thk-paul-waldau
+The Academic Study of the Religions of Native North Americans,1,thk-vine-deloria-jr
+The Archival Turn: The Archive as Power and Problem,1,thk-ann-laura-stoler
+The Booth and Rowntree Social Survey,1,con-poverty-line-rowntree
+The Booth-Rowntree Social Survey,1,thk-booth
+The Discredited and the Discreditable,1,con-mental-health-stigma
+The Field of 'Religious Literacy' Studies: Stephen Prothero and Robert Wuthnow,1,con-religious-illiteracy
+The Founding of 'Science of Religion': Max Müller and the Origins of Comparative Religion,1,sch-mimetic-theory-violence-sacred-religion
+The German History of Religions School (Religionsgeschichtliche Schule),1,con-form-criticism-gunkel
+The German History-of-Religions School (Religionsgeschichtliche Schule),1,thk-ernst-troeltsch
+The Linguistic Turn and Metahistory (Hayden White),1,sch-subaltern-studies-historiographical-critique
+"The Problem of Objectivity and Interpretation (Carr, Elton, Novick)",1,thk-geoffrey-elton
+The Prophetic Biography (Sira) as a Historical Genre,1,con-isnad-transmission-chain
+The Prophetic Sunna and Historiography,1,con-isnad-transmission-chain
+The Psychedelic Experience,1,con-psychedelic-therapy
+"The Question of Objectivity and Interpretation: Carr, Elton and Novick",1,thk-edward-hallett-carr
+The Reductionism vs. Non-Reductionism Debate in Religious Studies,1,con-emic-etic-study-of-religion
+The Social Network Analysis Paradigm,1,con-weak-ties-embeddedness-granovetter
+The Study of New Religious Movements and the 'Cult' Debate,1,thk-eileen-barker
+"The Study of Religion, Food and Comparative Dietary Rituals",1,stu-ramadan-fasting-physiology-culture-2010
+The Young Hegelians (Hegelian Left),1,sch-marxism
+Theoretical Gnosis / Unity of Being (the Akbarian School),1,con-wahdat-al-wujud
+Theories of Ritual in the Study of Religion,1,thk-catherine-bell
+Theory of Practice and Habitus,1,rel-bourdieu-habitus-sociology-philosophy-bridge
+Thick Description Method,1,thk-clifford-geertz
+Third Generation of the Annales School and the History of Mentalities,1,thk-jacques-le-goff
+Thomas A. Tweed,1,con-crossing-dwelling-theory-tweed
+Thomas Samuel Kuhn,1,wrk-kuhn-structure-revolutions
+Thomas and Znaniecki's Life-History Approach,1,thk-wi-thomas
+Thomas and Znaniecki's Life-History Method,1,stu-polish-peasant-thomas-znaniecki
+Tillich,1,wrk-courage-to-be
+Tilly and Tarrow's Contentious Politics,1,dbt-new-social-movements-vs-resource-mobilization-theory
+Time Preference,1,con-ethics-of-interest-riba-bridge
+Timur Kuran,1,wrk-islam-and-mammon-kuran
+Touch and Embodiment in Pilgrimage,1,stu-bursi-touch-black-stone-2022
+Traditional Ubuntu Philosophy,1,sch-ubuntu
+Transnational and Global History,1,thk-sanjay-subrahmanyam
+Tönnies's Gemeinschaft and Gesellschaft,1,con-gemeinschaft-gesellschaft
+Upanishadic School,1,sch-vedanta
+Urban Sociology and Spatial Planning,1,stu-truly-disadvantaged-wilson
+Usul al-Fiqh (Legal Theory),1,sch-civil-law-tradition
+Utilitarianism and Consequentialism,1,con-consequentialist-impartialism
+Vienna Circle,1,sch-logical-atomism
+W. E. B. Du Bois,1,wrk-philadelphia-negro-dubois
+W. R. D. Fairbairn,1,sch-object-relations
+Weberian Rationalization and Bureaucracy,1,con-iron-cage-rationalization-weber
+Western Academic Study of Islamic Sufism,1,thk-henry-corbin
+Western Legal History,1,thk-franz-wieacker
+William R. Miller,1,sch-motivational-interviewing
+Wirthian Urbanism and the Ghetto,1,con-urbanism-as-way-of-life
+Women's History and Feminist History (Joan Scott and Natalie Davis),1,thk-joan-wallach-scott
+Writing Culture Movement,1,thk-james-clifford
+Yalom,1,wrk-existential-psychotherapy
+Yin-Yang School,1,con-yin-yang
+Zayn al-Din ibn Ibrahim ibn Nujaym,1,wrk-al-ashbah-wa-al-nazair-ibn-nujaym
+Zindel Segal,1,sch-mbct
+van Deurzen,1,br-british

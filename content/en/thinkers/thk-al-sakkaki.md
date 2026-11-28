@@ -13,7 +13,7 @@ language: "Arabic"
 active_start: 1190
 active_end: 1229
 edges:
-- rel: "belongs_to", target: "Arabic Rhetorical Sciences", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-arabic-rhetorical-sciences", target_type: "مدرسة"
 related:
 - id: "sch-arabic-rhetorical-sciences", title: "The Arabic Rhetorical Sciences: Meanings, Figurative Expression and Embellishment", type: "مدرسة"
 - id: "wrk-talkhis-al-miftah-qazwini", title: "Talkhis al-Miftah (The Summary of the Key)", type: "عمل / كتاب"

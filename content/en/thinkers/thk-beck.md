@@ -13,19 +13,21 @@ active_start: 1963
 active_end: 2021
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "Cognitive-Behavioral Therapy", target_type: "مدرسة"
+  - rel: "belongs_to", target: "Cognitive-Behavioral Therapy", target_type: "مدرسة"
+  - rel: "belongs_to", target: "sch-psychotherapy-foundations", target_type: "مدرسة"
 related:
-- id: "sch-rebt", title: "Rational Emotive Behavior Therapy (REBT)", type: "مدرسة"
-- id: "tec-cognitive-reappraisal", title: "Cognitive Reappraisal", type: "تقنية/تدخل علاجي"
+  - id: "sch-rebt", title: "Rational Emotive Behavior Therapy (REBT)", type: "مدرسة"
+  - id: "tec-cognitive-reappraisal", title: "Cognitive Reappraisal", type: "تقنية/تدخل علاجي"
+  - id: "sch-psychotherapy-foundations", title: "Foundations of Psychotherapy", type: "مدرسة"
 gaps: []
 ---
 # Aaron Temkin Beck
 
-The American psychiatrist and founder of classical "cognitive therapy," regarded as one of the most influential psychotherapists of the twentieth century, and a central figure in the shift of clinical psychology from an exclusive focus on behavior toward the cognitive structure mediating between stimulus and response.
+The American psychiatrist and founder of classical "cognitive therapy," born in Providence, Rhode Island, in 1921, later professor emeritus in the Department of Psychiatry at the University of Pennsylvania, regarded as one of the most influential psychotherapists of the twentieth century, and a central figure in the shift of clinical psychology from an exclusive focus on behavior toward the cognitive structure mediating between stimulus and response.
 
 ## What he contributed
 
-Beck formulated the cognitive model of depression through the "negative cognitive triad" (a negative view of the self, the world, and the future), and devised the three-layer structure of thoughts: automatic thoughts, intermediate beliefs, and core schemas. He also devised the style of "collaborative empiricism" and Socratic dialogue as central therapeutic tools, and in 1994, with his daughter Judith, founded what is now the Beck Institute for Cognitive Behavior Therapy in Philadelphia.
+Beck formulated the cognitive model of depression through the "negative cognitive triad" (a negative view of the self, the world, and the future), and devised the three-layer structure of thoughts: automatic thoughts, intermediate beliefs, and core schemas. He held that these schemas form early in life and that modifying distorted thinking directly, rather than exploring unconscious conflicts, is what relieves symptoms. He also devised the style of "collaborative empiricism" and Socratic dialogue as central therapeutic tools, and in 1994, with his daughter Judith, founded what is now the Beck Institute for Cognitive Behavior Therapy in Philadelphia.
 
 ## His place in the movement
 
@@ -34,6 +36,7 @@ Beck is considered the historical founder of the contemporary clinical cognitive
 ## His major works
 
 - Depression: Clinical, Experimental, and Theoretical Aspects (1967) — the founding book, reissued in 1972 under the title "Depression: Causes and Treatment."
+- Cognitive Therapy and the Emotional Disorders (1976) — a broader statement of the cognitive approach.
 - Cognitive Therapy of Depression (1979) — with Rush, Shaw and Emery.
 - Anxiety Disorders and Phobias (1985) — with Gary Emery, a cognitive perspective.
 - Cognitive Therapy of Personality Disorders (1990) — with Arthur Freeman and colleagues.
@@ -50,27 +53,33 @@ Similarly, Beck, together with Gary Emery (*Anxiety Disorders and Phobias: A Cog
 
 ## Historical context
 
-Beck trained in medicine at Yale and in psychoanalysis in Philadelphia, and began his research project in the 1950s trying to prove the analytic hypothesis that depression results from "aggression turned against the self." But the results of his experiments on the dreams and verbal records of depressed patients ran contrary to his expectations: he found no patterns of repressed aggression but rather stable patterns of distorted negative evaluation of the self, the world and the future, which drove him to a gradual break with psychoanalysis in the early 1960s and to the formulation of his independent cognitive model. An early landmark trial comparing cognitive therapy with an antidepressant (imipramine), by Rush, Beck, Kovacs and Hollon, was published in 1977 in *Cognitive Therapy and Research* and found cognitive therapy at least as effective, helping establish it as a scientifically testable alternative alongside medication.
+Beck graduated from Brown University, trained in medicine at Yale and in psychoanalysis in Philadelphia, and began his research project in the 1950s trying to prove the analytic hypothesis that depression results from "aggression turned against the self." But the results of his experiments on the dreams and verbal records of depressed patients ran contrary to his expectations: he found no patterns of repressed aggression but rather stable patterns of distorted negative evaluation of the self, the world and the future, with dreams marked by themes of loss and defeat rather than hostility, which drove him to a gradual break with psychoanalysis in the early 1960s and to the formulation of his independent cognitive model. An early landmark trial comparing cognitive therapy with an antidepressant (imipramine), by Rush, Beck, Kovacs and Hollon, was published in 1977 in *Cognitive Therapy and Research* and found cognitive therapy at least as effective, helping establish it as a scientifically testable alternative alongside medication. Cognitive therapy went on to become one of the most extensively researched psychotherapies, and it later merged with behavioral traditions to form what is generally known as cognitive behavioral therapy (CBT).
 
 ## His daughter and his institutional legacy
 
-His daughter Judith Beck (Judith S. Beck) continued to lead the Beck Institute for Cognitive Behavior Therapy after his retirement, and wrote the book *Cognitive Behavior Therapy: Basics and Beyond* (first published 1995 as *Cognitive Therapy: Basics and Beyond*), which became a standard training reference for teaching CBT around the world. Beck's influence also extended to the development of widely used diagnostic measures that clinicians still use today, most notably the "Beck Depression Inventory" (BDI), the "Beck Anxiety Inventory" and the "Beck Hopelessness Scale," all of them quantitative measurement tools widely used in clinical research and routine psychological assessment.
+His daughter Judith Beck (Judith S. Beck) continued to lead the Beck Institute for Cognitive Behavior Therapy after his retirement, and wrote the book *Cognitive Behavior Therapy: Basics and Beyond* (first published 1995 as *Cognitive Therapy: Basics and Beyond*), which became a standard training reference for teaching CBT around the world. Beck's influence also extended to the development of widely used diagnostic measures that clinicians still use today, most notably the "Beck Depression Inventory" (BDI, 1961, a 21-item questionnaire on symptom severity; revised as BDI-II in 1996), the "Beck Hopelessness Scale" (1974), the "Scale for Suicide Ideation" (1979) and the "Beck Anxiety Inventory" (1988), all of them quantitative measurement tools widely used in clinical research and routine psychological assessment.
 
 ## The expansion of the model to psychosis and suicide
 
-In the last decades of his life, Beck extended his cognitive model to fields thought to be beyond the reach of cognitive therapy, most notably schizophrenia and psychotic disorders, by developing "recovery-oriented cognitive therapy" (CT-R), which focuses on building the patient's motivation and life goals rather than confining itself to managing psychotic symptoms alone. With colleagues he also developed the "Beck cognitive model of suicide," which assumes that hopelessness (Hopelessness) is the most important psychological mediator between depression and suicidal behavior, which yielded brief therapeutic interventions aimed specifically at reducing suicide risk in patients in acute crises.
+In the last decades of his life, Beck extended his cognitive model to fields thought to be beyond the reach of cognitive therapy, most notably schizophrenia and psychotic disorders, by developing "recovery-oriented cognitive therapy" (CT-R), which focuses on building the patient's motivation and life goals rather than confining itself to managing psychotic symptoms alone. He published a review of cognitive approaches to schizophrenia with Neil Rector (2005) and, with Rector, Neal Stolar and Paul Grant, the book *Schizophrenia: Cognitive Theory, Research, and Therapy* (2009). With colleagues he also developed the "Beck cognitive model of suicide," which assumes that hopelessness (Hopelessness) is the most important psychological mediator between depression and suicidal behavior, which yielded brief therapeutic interventions aimed specifically at reducing suicide risk in patients in acute crises.
 
 ## His honors and final standing
 
-Beck received many awards in recognition of his contribution, among them the Lasker Award (2006), counted among the highest American medical prizes. He died in November 2021 at the age of one hundred, having witnessed the transformation of cognitive therapy from a marginal research hypothesis in the 1960s into one of the most widespread and empirically documented forms of psychotherapy in the world.
+Beck received many awards in recognition of his contribution, among them the Lasker-DeBakey Clinical Medical Research Award (2006), counted among the highest American medical prizes. He died on 1 November 2021 at the age of one hundred, having witnessed the transformation of cognitive therapy from a marginal research hypothesis in the 1960s into one of the most widespread and empirically documented forms of psychotherapy in the world.
 
 ## His diagnostic tools still in use
 
 The Beck Depression Inventory (BDI-II in its updated version) remains one of the most widely used self-report measures of depression in clinics and clinical research around the world, and it has been translated and its psychometric properties tested in many languages and cultures. Like other self-report scales, it is a screening and monitoring aid and does not by itself establish a diagnosis.
 
+## Debates
+
+Critics have questioned how much of the benefit of cognitive therapy is due to changing thoughts as opposed to behavioural activation or common therapeutic factors, and some meta-analyses suggest that effect sizes in trials have declined over time. The BDI and related scales also depend on self-report. These debates concern the evidence for the approach and do not by themselves settle its value for any individual. This entry is educational, not clinical advice.
+
 ## Sources
 
-- Beck, A. T. (1967). *Depression: Clinical, Experimental, and Theoretical Aspects*. Hoeber.
+- Beck, A. T. (1967). *Depression: Clinical, Experimental, and Theoretical Aspects*. Hoeber Medical Division, Harper & Row.
+- Beck, A. T., Ward, C. H., Mendelson, M., Mock, J., & Erbaugh, J. (1961). An inventory for measuring depression. *Archives of General Psychiatry*, 4, 561–571.
+- Beck, A. T. (1976). *Cognitive Therapy and the Emotional Disorders*. International Universities Press.
 - Rush, A. J., Beck, A. T., Kovacs, M., & Hollon, S. (1977). Comparative efficacy of cognitive therapy and pharmacotherapy in the treatment of depressed outpatients. *Cognitive Therapy and Research*, 1(1), 17–37.
 - Beck, A. T., Rush, A. J., Shaw, B. F., & Emery, G. (1979). *Cognitive Therapy of Depression*. Guilford Press.
 - Beck, A. T., & Emery, G. (with Greenberg, R. L.) (1985). *Anxiety Disorders and Phobias: A Cognitive Perspective*. Basic Books.
@@ -78,3 +87,5 @@ The Beck Depression Inventory (BDI-II in its updated version) remains one of the
 - Beck, J. S. (1995). *Cognitive Therapy: Basics and Beyond*. Guilford Press.
 - Clark, D. A., & Beck, A. T. (2010). *Cognitive Therapy of Anxiety Disorders: Science and Practice*. Guilford Press.
 - Clark, D. M., & Wells, A. (1995). A cognitive model of social phobia. In R. G. Heimberg et al. (Eds.), *Social Phobia: Diagnosis, Assessment, and Treatment*. Guilford Press.
+- Weishaar, M. E. (1993). *Aaron T. Beck*. Sage.
+- Beck, A. T., Rector, N. A., Stolar, N., & Grant, P. (2009). *Schizophrenia: Cognitive Theory, Research, and Therapy*. Guilford Press.

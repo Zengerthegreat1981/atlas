@@ -9,7 +9,7 @@ en: "Sherry Ortner"
 crumb: "Practice Theory ← Feminist Anthropology ← Sherry Ortner"
 dates: "USA · 1941–present"
 edges:
-  - rel: "belongs_to", target: "Feminist Anthropology", target_type: "مدرسة"
+  - rel: "belongs_to", target: "sch-feminist-anthropology", target_type: "مدرسة"
   - rel: "founder_of", target: "Practice Theory", target_type: "تيار"
 related:
   - id: "thk-clifford-geertz", title: "Clifford Geertz", type: "مفكر"

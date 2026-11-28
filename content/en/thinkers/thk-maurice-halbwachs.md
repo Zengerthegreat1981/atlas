@@ -13,7 +13,7 @@ language: "French"
 active_start: 1925
 active_end: 1945
 edges:
-  - rel: "belongs_to", target: "History of Memory: Collective Memory and Lieux de Mémoire (Halbwachs, Nora)", target_type: "مدرسة"
+  - rel: "belongs_to", target: "sch-memory-history-nora-halbwachs", target_type: "مدرسة"
 related:
   - id: "sch-memory-history-nora-halbwachs", title: "History of Memory: Collective Memory and Lieux de Mémoire (Halbwachs, Nora)", type: "مدرسة"
   - id: "thk-pierre-nora", title: "Pierre Nora", type: "مفكر"

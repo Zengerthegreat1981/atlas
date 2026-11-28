@@ -10,7 +10,7 @@ crumb: "Bridges ← Concepts ← Pepper's World Hypotheses"
 active_start: 1942
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Classical Pragmatism", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-pragmatism-classical", target_type: "مدرسة"
 related:
 - id: "thk-cassirer", title: "Ernst Cassirer", type: "مفكر"
 - id: "thk-james", title: "William James", type: "مفكر"

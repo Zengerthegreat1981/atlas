@@ -9,7 +9,7 @@ title: "Structures or None?"
 en: "Structures or none?"
 crumb: "Existential School ← Debates ← Structures or None?"
 edges:
-  - rel: "occurs_within", target: "Existentialist School", target_type: "مدرسة"
+  - rel: "occurs_within", target: "sch-existentialism", target_type: "مدرسة"
 related:
   - id: "thk-vandeurzen", title: "Emmy van Deurzen", type: "مفكرة"
   - id: "thk-spinelli", title: "Ernesto Spinelli", type: "مفكر"

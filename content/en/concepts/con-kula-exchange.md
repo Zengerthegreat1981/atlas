@@ -12,7 +12,7 @@ crumb: "Anthropology ← Concepts ← Kula Exchange"
 evidence_level: "well-established"
 edges:
 - rel: "belongs_to", target: "Maussian Gift Theory", target_type: "مدرسة"
-- rel: "belongs_to", target: "Anthropological Political Economy", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-anthropological-political-economy", target_type: "مدرسة"
 related:
 - id: "con-gift-economy", title: "Gift Economy", type: "مفهوم"
 - id: "stu-malinowski-kula-ring-exchange", title: "Argonauts of the Western Pacific: The Kula Ring", type: "دراسة"

@@ -15,7 +15,7 @@ language: "English"
 active_start: 1968
 active_end: "مستمر"
 edges:
-- rel: "evolved_from", target: "Generative-Transformational Grammar", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-generative-grammar", target_type: "مدرسة"
 related:
 - id: "con-phoneme", title: "Phoneme", type: "مفهوم"
 - id: "wrk-sound-pattern-of-english-chomsky-halle", title: "The Sound Pattern of English", type: "أثر"

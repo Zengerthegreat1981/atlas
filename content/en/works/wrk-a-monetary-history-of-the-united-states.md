@@ -15,8 +15,8 @@ economic_school: "Monetarism"
 active_start: 1963
 active_end: "مستمر"
 edges:
-- rel: "authored_by", target: "Milton Friedman", target_type: "مفكر"
-- rel: "belongs_to", target: "Monetarism and the Chicago School", target_type: "مدرسة"
+- rel: "authored_by", target: "thk-milton-friedman", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-monetarism-chicago-school", target_type: "مدرسة"
 related:
 - id: "thk-milton-friedman", title: "Milton Friedman", type: "مفكر"
 - id: "sch-monetarism-chicago-school", title: "Monetarism and the Chicago School", type: "مدرسة"

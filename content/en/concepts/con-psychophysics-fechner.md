@@ -10,7 +10,7 @@ crumb: "Bridges ← Concepts ← Psychophysics"
 active_start: 1860
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "Biological & Neuropsychology", target_type: "مدرسة"
+  - rel: "belongs_to", target: "sch-biological-neuro", target_type: "مدرسة"
 related:
   - id: "thk-fechner", title: "Gustav Fechner", type: "مفكر"
   - id: "thk-helmholtz", title: "Hermann von Helmholtz", type: "مفكر"

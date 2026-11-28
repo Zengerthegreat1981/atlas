@@ -15,7 +15,7 @@ active_end: "مستمر"
 cultural_origin: "anglo-american"
 edges:
 - rel: "evolved_from", target: "Cognitive Behavioral Therapy", target_type: "مدرسة"
-- rel: "founded_by", target: "Steven C. Hayes", target_type: "مفكر"
+- rel: "founded_by", target: "thk-lstevenhayes", target_type: "مفكر"
 related:
 - id: "tec-cognitive-reappraisal", title: "Cognitive Reappraisal", type: "تقنية/تدخل علاجي"
 - id: "rel-act", title: "Acceptance and Commitment: The Embarrassing Neighbor", type: "علاقة بين مدرستين"

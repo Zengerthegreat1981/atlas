@@ -15,7 +15,7 @@ active_start: 1878
 active_end: 1918
 crumb: "Religious Studies ← Thinkers ← Julius Wellhausen"
 edges:
-- rel: "belongs_to", target: "Higher Criticism and Critical Biblical Studies", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-higher-criticism-biblical-studies", target_type: "مدرسة"
 related:
 - id: "sch-higher-criticism-biblical-studies", title: "Higher Criticism and Critical Biblical Studies", type: "مدرسة"
 - id: "con-documentary-hypothesis-wellhausen", title: "The Documentary Hypothesis (JEDP) in Wellhausen", type: "مفهوم"

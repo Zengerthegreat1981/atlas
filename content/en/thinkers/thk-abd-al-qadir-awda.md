@@ -15,7 +15,7 @@ legal_tradition: "Comparative criminal law and Islamic criminal jurisprudence"
 active_start: 1949
 active_end: 1954
 edges:
-- rel: "belongs_to", target: "Islamic Law and Sharia", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-islamic-law-shariah", target_type: "مدرسة"
 related:
 - id: "sch-islamic-law-shariah", title: "Islamic Law and Sharia as a Legal System", type: "مدرسة"
 - id: "wrk-al-tashri-al-jinai-al-islami-awda", title: "Islamic Criminal Legislation Compared with Positive Law", type: "عمل / كتاب"

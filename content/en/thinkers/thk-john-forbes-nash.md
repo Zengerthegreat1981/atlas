@@ -14,7 +14,7 @@ economic_school: "Game theory"
 active_start: 1950
 active_end: 2015
 edges:
-- rel: "belongs_to", target: "General Equilibrium Theory", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-general-equilibrium-theory", target_type: "مدرسة"
 related:
 - id: "sch-general-equilibrium-theory", title: "General Equilibrium Theory", type: "مدرسة"
 gaps: []

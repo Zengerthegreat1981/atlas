@@ -15,7 +15,7 @@ cultural_origin: "anglo-american"
 active_start: 1938
 active_end: 1970
 edges:
-- rel: "belongs_to", target: "Boasian Cultural Relativism & Historical Particularism", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-boasian-cultural-relativism", target_type: "مدرسة"
 related:
 - id: "thk-julian-steward", title: "Julian Steward", type: "مفكر"
 gaps: []

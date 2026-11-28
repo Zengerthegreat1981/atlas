@@ -14,7 +14,7 @@ legal_tradition: "Codified Hanafi jurisprudence (Ottoman state)"
 active_start: 1869
 active_end: 1926
 edges:
-- rel: "belongs_to", target: "Islamic Law and Sharia", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-islamic-law-shariah", target_type: "مدرسة"
 related:
 - id: "wrk-al-ashbah-wa-al-nazair-ibn-nujaym", title: "Al-Ashbah wa al-Naza'ir", type: "عمل / كتاب"
 - id: "con-ottoman-codification-tanzimat-law", title: "Ottoman Codification in the Tanzimat Era", type: "مفهوم"

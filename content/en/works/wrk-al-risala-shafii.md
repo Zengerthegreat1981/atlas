@@ -16,7 +16,7 @@ legal_tradition: "Islamic usul al-fiqh"
 active_start: 800
 active_end: "مستمر"
 edges:
-- rel: "authored_by", target: "Muhammad ibn Idris al-Shafi'i", target_type: "مفكر"
+- rel: "authored_by", target: "thk-al-shafii", target_type: "مفكر"
 related:
 - id: "thk-al-shafii", title: "Muhammad ibn Idris al-Shafi'i", type: "مفكر"
 - id: "sch-usul-al-fiqh-legal-theory", title: "Usul al-Fiqh as Legal Theory", type: "مدرسة"

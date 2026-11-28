@@ -17,7 +17,7 @@ register: "clinical"
 evidence_level: "controversial"
 edges:
 - rel: "evolved_from", target: "Somatic Phenomenology", target_type: "مدرسة"
-- rel: "developed_by", target: "Stephen W. Porges", target_type: "مفكر"
+- rel: "developed_by", target: "thk-stephen-porges", target_type: "مفكر"
 - rel: "influenced_by", target: "Somatic Experiencing (SE)", target_type: "مدرسة"
 related:
 - id: "con-trauma", title: "Trauma", type: "مفهوم"

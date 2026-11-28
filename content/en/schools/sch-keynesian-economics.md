@@ -15,7 +15,7 @@ policy_orientation: "Interventionist: managing aggregate demand through fiscal a
 active_start: 1936
 active_end: "مستمر"
 edges:
-- rel: "evolved_from", target: "Classical Political Economy", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-classical-political-economy", target_type: "مدرسة"
 related:
 - id: "thk-john-maynard-keynes", title: "John Maynard Keynes", type: "مفكر"
 - id: "wrk-the-general-theory-of-employment-interest-and-money", title: "The General Theory of Employment, Interest and Money", type: "عمل / كتاب"

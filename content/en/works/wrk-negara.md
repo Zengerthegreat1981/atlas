@@ -9,7 +9,7 @@ en: "Negara: The Theatre State in Nineteenth Century Bali"
 crumb: "Anthropology ← Works ← Negara"
 dates: "1980 · Geertz"
 edges:
-  - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
+  - rel: "belongs_to", target: "fld-anthropology", target_type: "مجال"
 related:
   []
 gaps:

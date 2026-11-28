@@ -18,7 +18,7 @@ active_start: 1985
 active_end: "مستمر"
 active_source: "career"
 edges:
-- rel: "belongs_to", target: "Usage-Based Grammar", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-usage-based-grammar", target_type: "مدرسة"
 related:
 - id: "sch-usage-based-grammar", title: "Usage-Based Grammar", type: "مدرسة"
 gaps: []

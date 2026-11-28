@@ -9,8 +9,8 @@ en: "The Courage to Be"
 crumb: "Philosophy ← Works ← The Courage to Be"
 dates: "1952 · Tillich"
 edges:
-  - rel: "written_by", target: "Tillich", target_type: "مفكر"
-  - rel: "belongs_to", target: "Existentialist School", target_type: "مدرسة"
+  - rel: "authored_by", target: "Tillich", target_type: "مفكر"
+  - rel: "belongs_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
   - id: "thk-may", title: "Rollo May", type: "مفكر"
 gaps: []

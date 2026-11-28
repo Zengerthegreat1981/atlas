@@ -15,7 +15,7 @@ policy_orientation: "Descriptive analysis of how external rent shapes the state 
 active_start: 1987
 active_end: "مستمر"
 edges:
-- rel: "evolved_from", target: "Development Economics", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-development-economics", target_type: "مدرسة"
 related:
 - id: "br-mena-political-economy", title: "Political Economy of the Middle East and North Africa: The Authoritarian Social Contract and Managed Rent", type: "تيار"
 - id: "wrk-the-oil-curse-ross", title: "The Oil Curse", type: "عمل / كتاب"

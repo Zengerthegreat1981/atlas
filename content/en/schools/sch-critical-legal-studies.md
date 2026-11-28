@@ -14,7 +14,7 @@ legal_tradition: "Critical legal studies"
 active_start: 1977
 active_end: 1990
 edges:
-- rel: "evolved_from", target: "American Legal Realism", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-american-legal-realism", target_type: "مدرسة"
 related:
 - id: "sch-american-legal-realism", title: "American Legal Realism", type: "مدرسة"
 - id: "thk-duncan-kennedy", title: "Duncan Kennedy", type: "مفكر"

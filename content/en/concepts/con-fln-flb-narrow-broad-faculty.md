@@ -10,7 +10,7 @@ title: "Faculty of Language: Narrow vs. Broad (FLN/FLB)"
 en: "Faculty of Language: Narrow vs. Broad (FLN/FLB)"
 crumb: "Linguistics ← Concepts ← Faculty of Language: Narrow vs. Broad (FLN/FLB)"
 edges:
-- rel: "belongs_to", target: "Language Evolution", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-language-evolution", target_type: "مدرسة"
 related:
 - id: "sch-language-evolution", title: "Origin and Evolution of Language (Language Evolution)", type: "مدرسة"
 - id: "con-poverty-of-the-stimulus-universal-grammar", title: "Universal Grammar and the Poverty of the Stimulus", type: "مفهوم"

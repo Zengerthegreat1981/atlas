@@ -4,6 +4,7 @@ id: "SCH-0099"
 type: "مدرسة"
 part: philosophy
 level: "مبتدئ"
+quality: "unverified"
 title: "Epicureanism"
 en: "Epicureanism"
 crumb: "Philosophy ← Schools ← Epicureanism"

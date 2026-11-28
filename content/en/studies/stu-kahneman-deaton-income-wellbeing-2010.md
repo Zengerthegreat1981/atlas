@@ -11,7 +11,7 @@ economic_school: "Homo economicus and rational choice economics"
 active_start: 2008
 active_end: 2010
 edges:
-- rel: "belongs_to", target: "Homo Economicus and Rational Choice Economics", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-homo-economicus-rational-choice-economics", target_type: "مدرسة"
 related:
 - id: "thk-kahneman", title: "Daniel Kahneman", type: "مفكر"
 - id: "stu-easterlin-paradox-1974", title: "Easterlin Paradox (1974)", type: "دراسة وبحث"

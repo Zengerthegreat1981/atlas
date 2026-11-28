@@ -16,7 +16,7 @@ legal_tradition: "Islamic usul al-fiqh"
 active_start: 1109
 active_end: "مستمر"
 edges:
-- rel: "authored_by", target: "Abu Hamid al-Ghazali", target_type: "مفكر"
+- rel: "authored_by", target: "thk-al-ghazali", target_type: "مفكر"
 related:
 - id: "thk-al-ghazali", title: "Abu Hamid al-Ghazali", type: "مفكر"
 - id: "con-qiyas-analogical-reasoning", title: "Qiyas (Analogical Reasoning)", type: "مفهوم"

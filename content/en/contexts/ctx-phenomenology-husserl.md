@@ -12,7 +12,7 @@ dates: 1900-1938
 active_start: 1900
 active_end: "مستمر"
 edges:
-  - rel: "relates_to", target: "Existentialist School", target_type: "مدرسة"
+  - rel: "relates_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
   - id: "tec-cognitive-reappraisal", title: "Cognitive Reappraisal", type: "تقنية/تدخل علاجي"
 gaps: []

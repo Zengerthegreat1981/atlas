@@ -4,6 +4,7 @@ id: "SCH-0038"
 type: "مدرسة"
 part: "philosophy"
 level: "مبتدئ"
+quality: "unverified"
 title: "Greek Atomism"
 en: "Greek Atomism"
 crumb: "Philosophy ← Schools ← Greek Atomism"
@@ -14,7 +15,7 @@ language: "Greek"
 active_start: -460
 active_end: -270
 edges:
-- rel: "superseded_by", target: "Epicureanism", target_type: "مدرسة"
+- rel: "superseded_by", target: "sch-epicureanism", target_type: "مدرسة"
 related:
 - id: "sch-epicureanism", title: "Epicureanism", type: "مدرسة"
 gaps: []
@@ -29,7 +30,7 @@ Atomism arose as an answer to the impasse produced by Parmenides: if being is on
 
 ## The Two Founders
 
-- **Leucippus**: Aristotle and Theophrastus mention him as the founder of atomism, and he is credited with the book "The Great World-Order" (Megas Diakosmos), which Theophrastus attributed to Democritus, and the book "On Mind." According to Diogenes Laertius, Epicurus denied that Leucippus had existed; since Aristotle and Theophrastus name him, most contemporary scholars accept that he did.
+- **Leucippus**: Aristotle and Theophrastus mention him as the founder of atomism, and he is credited with the book "The Great World-Order" (Megas Diakosmos), which Theophrastus attributed to him although it was also listed among the works of Democritus, and the book "On Mind." According to Diogenes Laertius, Epicurus denied that Leucippus had existed; since Aristotle and Theophrastus name him, most contemporary scholars accept that he did.
 - **Democritus**: tradition attributes to him dozens of works on physics, ethics, mathematics, music and literary criticism, of which only fragments survive, transmitted by Aristotle, Sextus Empiricus, Stobaeus and others. He was called "the Laughing Philosopher" in tradition for his calm view of human folly.
 
 ## Central Concepts

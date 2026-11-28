@@ -14,7 +14,7 @@ legal_tradition: "Philosophy of criminal law and responsibility"
 active_start: 1965
 active_end: 2004
 edges:
-- rel: "belongs_to", target: "Philosophy of Criminal Law and Responsibility", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-criminal-law-philosophy-responsibility", target_type: "مدرسة"
 related:
 - id: "sch-criminal-law-philosophy-responsibility", title: "Philosophy of Criminal Law and Responsibility", type: "مدرسة"
 gaps: []

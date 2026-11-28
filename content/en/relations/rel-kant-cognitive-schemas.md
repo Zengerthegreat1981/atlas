@@ -10,7 +10,7 @@ crumb: "Bridges ← Relations ← Kantian Epistemology and Cognitive Schemas: A 
 active_start: 1960
 active_end: "مستمر"
 edges:
-- rel: "relates_to", target: "Critical Kantianism", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-kant-critical", target_type: "مدرسة"
 - rel: "relates_to", target: "Cognitive Behavioral Therapy", target_type: "مدرسة"
 related:
 - id: "sch-kant-critical", title: "Critical Kantianism", type: "مدرسة"

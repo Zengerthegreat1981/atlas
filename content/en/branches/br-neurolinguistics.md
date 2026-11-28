@@ -10,7 +10,7 @@ crumb: "Linguistics ← Branches ← Neurolinguistics"
 active_start: 1861
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Classical Neurolinguistics", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-classical-neurolinguistics", target_type: "مدرسة"
 related:
 - id: "sch-classical-neurolinguistics", title: "Classical Neurolinguistics", type: "مدرسة"
 - id: "sch-sign-language-linguistics", title: "Sign Language Linguistics", type: "مدرسة"

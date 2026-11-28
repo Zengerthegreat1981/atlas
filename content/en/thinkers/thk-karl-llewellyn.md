@@ -14,7 +14,7 @@ legal_tradition: "Legal realism"
 active_start: 1930
 active_end: 1962
 edges:
-- rel: "belongs_to", target: "American Legal Realism", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-american-legal-realism", target_type: "مدرسة"
 related:
 - id: "sch-american-legal-realism", title: "American Legal Realism", type: "مدرسة"
 - id: "thk-oliver-wendell-holmes-jr", title: "Oliver Wendell Holmes Jr.", type: "مفكر"

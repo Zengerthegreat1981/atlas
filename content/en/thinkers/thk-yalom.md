@@ -13,7 +13,7 @@ language: "English"
 active_start: 1931
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "Existentialist School", target_type: "مدرسة"
+  - rel: "belongs_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
   - id: "br-humanistic", title: "Existential-Humanistic", type: "تيار"
   - id: "dbt-british-yalom", title: "The British against the American Current", type: "جدل"

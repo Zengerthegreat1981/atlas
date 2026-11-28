@@ -10,7 +10,7 @@ crumb: "Ethics ← Concepts ← Agent-Centered Duties"
 active_start: 1900
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Deontological Ethics", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-deontological-ethics-kant", target_type: "مدرسة"
 related: []
 gaps: []
 ---

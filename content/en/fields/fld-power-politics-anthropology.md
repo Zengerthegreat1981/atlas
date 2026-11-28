@@ -15,7 +15,7 @@ related:
   - id: "br-political-anthropology-subfield", title: "Political Anthropology", type: "مدرسة"
   - id: "wrk-african-political-systems-fortes-evans-pritchard", title: "African Political Systems", type: "عمل / كتاب"
   - id: "thk-evans-pritchard", title: "E.E. Evans-Pritchard: Segmentary Systems and Nuer Ethnography", type: "مفكر"
-  - id: "stu-nuer-evans-pritchard", title: "The Nuer", type: "دراسة"
+  - id: "stu-evans-pritchard-the-nuer", title: "The Nuer: A Description of the Modes of Livelihood and Political Institutions of a Nilotic People", type: "عمل / كتاب"
   - id: "con-segmentary-lineage-system", title: "Segmentary Lineage System", type: "مفهوم"
   - id: "thk-meyer-fortes", title: "Meyer Fortes", type: "مفكر"
   - id: "con-chiefdom", title: "Chiefdom", type: "مفهوم"

@@ -19,7 +19,7 @@ original_language: "French"
 active_start: 1916
 active_end: 1916
 edges:
-- rel: "written_by", target: "Ferdinand de Saussure", target_type: "مفكر"
+- rel: "authored_by", target: "thk-ferdinand-de-saussure", target_type: "مفكر"
 - rel: "belongs_to", target: "Saussurean Structuralism", target_type: "مدرسة"
 related:
 - id: "thk-ferdinand-de-saussure", title: "Ferdinand de Saussure", type: "مفكر"

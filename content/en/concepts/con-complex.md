@@ -14,7 +14,7 @@ active_end: "مستمر"
 language: "German"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "Jungian Analytical Psychology", target_type: "تيار"
+- rel: "belongs_to", target: "br-jungian", target_type: "تيار"
 related:
 - id: "thk-jung", title: "Carl Gustav Jung", type: "مفكر"
 - id: "con-archetype", title: "The Archetype", type: "مفهوم"

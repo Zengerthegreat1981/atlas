@@ -14,7 +14,7 @@ economic_school: "Monetarism"
 active_start: 1946
 active_end: 2006
 edges:
-- rel: "belongs_to", target: "Monetarism and the Chicago School", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-monetarism-chicago-school", target_type: "مدرسة"
 related:
 - id: "sch-monetarism-chicago-school", title: "Monetarism and the Chicago School", type: "مدرسة"
 - id: "wrk-a-monetary-history-of-the-united-states", title: "A Monetary History of the United States, 1867–1960", type: "عمل / كتاب"

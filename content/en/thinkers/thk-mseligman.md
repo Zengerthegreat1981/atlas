@@ -15,8 +15,8 @@ language: "English"
 register: "academic"
 evidence_level: "well-established"
 edges:
-- rel: "belongs_to", target: "Positive Psychology", target_type: "مدرسة"
-- rel: "developed", target: "Positive Psychology", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-positive-psychology", target_type: "مدرسة"
+- rel: "developed", target: "sch-positive-psychology", target_type: "مدرسة"
 related:
 - id: "sch-positive-psychology", title: "Positive Psychology", type: "مدرسة"
 - id: "thk-csikszentmihalyi", title: "Mihaly Csikszentmihalyi", type: "مفكر"

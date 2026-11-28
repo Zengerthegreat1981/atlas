@@ -15,9 +15,9 @@ economic_school: "Public choice theory"
 active_start: 1962
 active_end: "مستمر"
 edges:
-- rel: "authored_by", target: "James M. Buchanan", target_type: "مفكر"
+- rel: "authored_by", target: "thk-james-m-buchanan", target_type: "مفكر"
 - rel: "authored_by", target: "Gordon Tullock", target_type: "مفكر"
-- rel: "belongs_to", target: "Public Choice Theory", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-public-choice-theory", target_type: "مدرسة"
 related:
 - id: "thk-james-m-buchanan", title: "James M. Buchanan", type: "مفكر"
 - id: "sch-public-choice-theory", title: "Public Choice Theory", type: "مدرسة"

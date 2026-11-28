@@ -12,7 +12,7 @@ active_start: 1000
 active_end: "مستمر"
 language: "Arabic"
 edges:
-- rel: "belongs_to", target: "Medieval Islamic Philosophy (Falsafa)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-medieval-islamic-philosophy", target_type: "مدرسة"
 related:
 - id: "sch-medieval-islamic-philosophy", title: "Medieval Islamic Philosophy (Falsafa)", type: "مدرسة"
 gaps: []

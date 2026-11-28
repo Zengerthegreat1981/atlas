@@ -15,7 +15,7 @@ legal_tradition: "Comparative law / private law"
 active_start: 1949
 active_end: 1996
 edges:
-- rel: "belongs_to", target: "Civil Law Tradition", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-civil-law-tradition", target_type: "مدرسة"
 related:
 - id: "sch-civil-law-tradition", title: "Romano-Germanic Civil Law Tradition", type: "مدرسة"
 - id: "thk-rene-david", title: "René David", type: "مفكر"

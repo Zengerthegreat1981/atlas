@@ -13,8 +13,8 @@ language: "English"
 edges:
 - rel: "belongs_to", target: "Cultural (Cross-Cultural) Psychiatry", target_type: "مدرسة"
 - rel: "relates_to", target: "Kleinman's Explanatory Models", target_type: "مدرسة"
-- rel: "relates_to", target: "Ethnopsychiatry", target_type: "مفهوم"
-- rel: "relates_to", target: "Culture-Bound Syndromes", target_type: "مفهوم"
+- rel: "relates_to", target: "con-ethnopsychiatry", target_type: "مفهوم"
+- rel: "relates_to", target: "con-culture-bound-syndromes", target_type: "مفهوم"
 - rel: "relates_to", target: "Schizophrenia", target_type: "مفهوم"
 related:
 - id: "sch-cultural-psychiatry", title: "Cultural (Cross-Cultural) Psychiatry", type: "مدرسة"

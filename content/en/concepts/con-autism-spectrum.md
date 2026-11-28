@@ -12,9 +12,9 @@ active_start: 1943
 active_end: "مستمر"
 language: "English"
 edges:
-- rel: "belongs_to", target: "Developmental Child Psychiatry", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-developmental-child-psychiatry", target_type: "مدرسة"
 - rel: "relates_to", target: "Applied Behavior Analysis and Autism", target_type: "مفهوم"
-- rel: "relates_to", target: "Neurodevelopmental Disorders & ADHD", target_type: "مفهوم"
+- rel: "relates_to", target: "con-neurodevelopmental-adhd", target_type: "مفهوم"
 - rel: "relates_to", target: "Mental Health Stigma", target_type: "مفهوم"
 related:
 - id: "sch-developmental-child-psychiatry", title: "Developmental Child Psychiatry", type: "مدرسة"

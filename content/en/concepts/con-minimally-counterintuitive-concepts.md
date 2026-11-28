@@ -13,7 +13,7 @@ dates: "Formulated 1994–2001"
 active_start: 1994
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Cognitive Science of Religion", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-science-of-religion", target_type: "مدرسة"
 related:
 - id: "thk-pascal-boyer", title: "Pascal Boyer", type: "مفكر"
 - id: "sch-cognitive-science-of-religion", title: "Cognitive Science of Religion", type: "مدرسة"

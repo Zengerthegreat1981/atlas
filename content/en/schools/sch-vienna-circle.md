@@ -4,6 +4,7 @@ id: "SCH-0323"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"
+quality: "unverified"
 title: "Logical Positivism (Vienna Circle)"
 en: "Logical Positivism (Vienna Circle)"
 crumb: "Philosophy ← Schools ← Logical Positivism (Vienna Circle)"
@@ -15,7 +16,7 @@ active_end: 1936
 cultural_origin: "european"
 edges:
 - rel: "evolved_into", target: "Quinean Naturalism", target_type: "مدرسة"
-- rel: "superseded_by", target: "Ordinary Language Philosophy", target_type: "مدرسة"
+- rel: "superseded_by", target: "sch-ordinary-language", target_type: "مدرسة"
 related:
 - id: "thk-rcarnap", title: "Rudolf Carnap", type: "مفكر"
 gaps: []
@@ -43,7 +44,7 @@ The Circle was not a single bloc. Neurath differed with Schlick and Carnap over 
 
 ## Dissolution
 
-The Mach Society was closed in 1934 after Austria came under an authoritarian right-wing government, Hahn died the same year, Carnap emigrated to the United States in 1935, and then Schlick was killed in 1936 on the steps of the university, shot by a former student, Johann Nelböck. After the annexation of Austria (1938) those who remained left: Neurath went to the Netherlands and then England (died 1945), Feigl, Gödel and Menger moved to America, and Kraft stayed in Vienna. This dispersal led to the spread of the ideas in Anglo-American philosophy.
+The Mach Society was closed in 1934 after Austria came under an authoritarian right-wing government, Hahn died the same year, Carnap emigrated to the United States in 1935, and then Schlick was killed in 1936 on the steps of the university, shot by a former student, Johann Nelböck. Feigl had already emigrated to the United States in 1931 and Neurath had fled to the Netherlands in 1934, moving on to England in 1940 (died 1945); Menger left for America in 1937, further members emigrated in 1937–1938 around the annexation of Austria, Gödel followed in 1940, and Kraft stayed in Vienna. This dispersal led to the spread of the ideas in Anglo-American philosophy.
 
 ## Influence in the Arab World
 

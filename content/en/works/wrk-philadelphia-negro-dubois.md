@@ -18,8 +18,8 @@ original_language: "English"
 active_start: 1899
 active_end: 1899
 edges:
-- rel: "written_by", target: "W. E. B. Du Bois", target_type: "مفكر"
-- rel: "belongs_to", target: "Du Boisian Sociology", target_type: "مدرسة"
+- rel: "authored_by", target: "W. E. B. Du Bois", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-du-boisian-sociology", target_type: "مدرسة"
 related:
 - id: "con-double-consciousness-dubois", title: "Double Consciousness in Du Bois", type: "مفهوم"
 gaps: []

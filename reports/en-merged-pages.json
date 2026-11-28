@@ -103,5 +103,16 @@
  "con-descent-theory": "sch-descent-theory",
  "sch-phil-science": "fld-philosophy-of-science",
  "thk-herodotus-inquiry-method": "thk-herodotus",
- "thk-thucydides-empiricism": "thk-thucydides"
+ "thk-thucydides-empiricism": "thk-thucydides",
+ "con-cultural-relativism": "con-cultural-relativism-boas",
+ "con-memory-history": "con-memory",
+ "hst-arrian": "thk-arrian",
+ "thk-posidonius": "hst-posidonius",
+ "stu-nuer-evans-pritchard": "stu-evans-pritchard-the-nuer",
+ "thk-aaron-beck": "thk-beck",
+ "thk-arjun-appadurai": "thk-appadurai",
+ "thk-barney-glaser": "thk-glaser",
+ "thk-bruno-latour": "thk-latour",
+ "thk-marsha-linehan": "thk-mlinehan",
+ "wrk-nicomachean-ethics-aristotle": "wrk-nicomachean-ethics"
 }

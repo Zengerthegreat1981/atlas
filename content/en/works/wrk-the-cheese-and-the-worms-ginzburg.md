@@ -14,7 +14,7 @@ crumb: "Historiography ← Works ← The Cheese and the Worms"
 active_start: 1976
 active_end: "مستمر"
 edges:
-- rel: "authored_by", target: "Carlo Ginzburg", target_type: "مفكر"
+- rel: "authored_by", target: "thk-carlo-ginzburg", target_type: "مفكر"
 related:
 - id: "thk-carlo-ginzburg", title: "Carlo Ginzburg", type: "مفكر"
 - id: "sch-microstoria-italian-micro-history", title: "Microhistory (Microstoria: Ginzburg and Levi)", type: "مدرسة"

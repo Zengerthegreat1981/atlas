@@ -9,7 +9,7 @@ title: "The British against the American Current"
 en: "Philosophy or technique?"
 crumb: "Existential School ← Debates ← The British against the American Current"
 edges:
-  - rel: "occurs_within", target: "Existentialist School", target_type: "مدرسة"
+  - rel: "occurs_within", target: "sch-existentialism", target_type: "مدرسة"
 related:
   - id: "br-british", title: "British Existential-Phenomenological", type: "تيار"
   - id: "br-humanistic", title: "Existential-Humanistic", type: "تيار"

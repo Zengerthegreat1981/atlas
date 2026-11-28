@@ -16,9 +16,9 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "Cognitive Behavioral Therapy", target_type: "مدرسة"
 - rel: "grounded_in", target: "Biosocial Theory (DBT)", target_type: "مفهوم"
-- rel: "founded_by", target: "Marsha M. Linehan", target_type: "مفكر"
+- rel: "founded_by", target: "thk-mlinehan", target_type: "مفكر"
 - rel: "belongs_to", target: "Cognitive Behavioral Therapy", target_type: "مدرسة"
-- rel: "developed_by", target: "Marsha M. Linehan", target_type: "مفكر"
+- rel: "developed_by", target: "thk-mlinehan", target_type: "مفكر"
 related:
 - id: "rel-act", title: "Acceptance and Commitment — The Awkward Neighbor", type: "علاقة بين مدرستين"
 - id: "dis-bpd", title: "Borderline Personality Disorder (BPD)", type: "اضطراب/حالة إكلينيكية"

@@ -15,7 +15,7 @@ language: "Arabic"
 active_start: 1950
 active_end: "مستمر"
 edges:
-- rel: "evolved_from", target: "Classical Arabic Grammatical Tradition", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-arabic-grammatical-tradition", target_type: "مدرسة"
 related:
 - id: "thk-tammam-hassan", title: "Tammam Hassan", type: "مفكر"
 - id: "thk-ibrahim-anis", title: "Ibrahim Anis", type: "مفكر"

@@ -10,7 +10,7 @@ crumb: "Bridges ← Concepts ← Time-Consciousness: The Present That Holds Past
 active_start: 1905
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "Phenomenology (Phänomenologie)", target_type: "مدرسة"
+  - rel: "belongs_to", target: "sch-phenomenology", target_type: "مدرسة"
 related:
   - id: "thk-husserl", title: "Edmund Husserl", type: "مفكر"
   - id: "thk-heidegger", title: "Martin Heidegger", type: "مفكر"

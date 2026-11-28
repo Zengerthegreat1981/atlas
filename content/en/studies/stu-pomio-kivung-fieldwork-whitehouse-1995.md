@@ -14,7 +14,7 @@ dates: "Fieldwork in the late 1980s, published 1995"
 active_start: 1987
 active_end: 1995
 edges:
-- rel: "belongs_to", target: "Cognitive Science of Religion", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-science-of-religion", target_type: "مدرسة"
 related:
 - id: "thk-harvey-whitehouse", title: "Harvey Whitehouse", type: "مفكر"
 - id: "con-modes-of-religiosity-theory-whitehouse", title: "Theory of Modes of Religiosity: Doctrinal vs. Imagistic", type: "مفهوم"

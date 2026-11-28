@@ -13,7 +13,7 @@ part: "psychology"
 active_start: 1938
 active_end: 1990
 edges:
-- rel: "belongs_to", target: "Behaviorism", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-behaviorism", target_type: "مدرسة"
 related:
 - id: "thk-jwatson", title: "John B. Watson", type: "مفكر"
 - id: "thk-ipavlov", title: "Ivan Pavlov", type: "مفكر"

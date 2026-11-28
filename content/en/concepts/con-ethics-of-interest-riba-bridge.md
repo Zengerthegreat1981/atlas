@@ -12,7 +12,7 @@ active_start: -350
 active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "Time Preference", target_type: "مفهوم"
-- rel: "relates_to", target: "Aristotle", target_type: "مفكر"
+- rel: "relates_to", target: "thk-aristotle", target_type: "مفكر"
 related:
 - id: "thk-aristotle", title: "Aristotle", type: "مفكر"
 - id: "con-riba-legal-doctrine", title: "Riba in Islamic Jurisprudence (Legal Doctrine)", type: "مفهوم"

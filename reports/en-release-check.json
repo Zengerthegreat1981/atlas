@@ -1,30 +1,29 @@
 {
-  "total_files": 2812,
+  "total_files": 2801,
   "parse_warnings": 0,
   "parse_warning_examples": [],
   "flag_counts": {
-    "edge-target-by-name": 2352,
+    "edge-target-by-name": 1104,
     "declared-gaps": 39,
-    "edge-target-slug-unresolved": 1,
     "duplicate-id-groups": 0
   },
   "flag_examples": {
     "edge-target-by-name": [
-      "axm-existence-precedes-essence->Existentialist School",
-      "br-agrarian-question-political-economy->Marx's Critique of Political Economy",
       "br-anthropology-of-religion-subfield->Symbolic & Interpretive Anthropology of Religion (Turner, Douglas, Geertz)",
-      "br-arabic-dialectology->Classical Arabic Grammatical Tradition",
-      "br-attachment-theory->Developmental Psychology",
-      "br-british->Existentialist School",
       "br-british->van Deurzen",
       "br-british->American current",
       "br-british->Phenomenology",
       "br-british->Relational formulation",
       "br-classical-psychoanalysis->Psychoanalysis",
-      "br-classical-psychoanalysis->Sigmund Freud",
-      "br-cliometrics-new-economic-history->New Institutional Economics",
-      "br-computational-linguistics->Computational Linguistics & NLP",
-      "br-corpus-linguistics->Corpus Linguistics"
+      "br-corpus-linguistics->Corpus Linguistics",
+      "br-daseins->Heidegger",
+      "br-daseins->Binswanger and Boss",
+      "br-daseins->American current",
+      "br-daseins->Phenomenological psychopathology",
+      "br-georgism-land-value-tax->Ricardian Political Economy",
+      "br-humanistic->European existential analysis",
+      "br-humanistic->May, Bugental and Yalom",
+      "br-humanistic->British current"
     ],
     "declared-gaps": [
       "con-debt-financial-stress-psychology-bridge",
@@ -42,18 +41,15 @@
       "thk-abd-al-qadir-awda",
       "thk-abd-al-razzaq-al-sanhuri",
       "thk-ainsworth"
-    ],
-    "edge-target-slug-unresolved": [
-      "sch-annales-social-history-aggregate->historiography-section-18"
     ]
   },
   "duplicate_ids": {},
   "status_counts": {
-    "review-candidate": 2812
+    "review-candidate": 2801
   },
   "by_module": {
     "anthropology": {
-      "review-candidate": 449
+      "review-candidate": 446
     },
     "arab-thought": {
       "review-candidate": 114
@@ -62,10 +58,10 @@
       "review-candidate": 108
     },
     "ethics": {
-      "review-candidate": 127
+      "review-candidate": 126
     },
     "historiography": {
-      "review-candidate": 224
+      "review-candidate": 221
     },
     "legal-theory": {
       "review-candidate": 126
@@ -80,7 +76,7 @@
       "review-candidate": 161
     },
     "psychiatry": {
-      "review-candidate": 122
+      "review-candidate": 120
     },
     "psychology": {
       "review-candidate": 309
@@ -89,12 +85,12 @@
       "review-candidate": 149
     },
     "sociology": {
-      "review-candidate": 442
+      "review-candidate": 440
     }
   },
   "output_consistency": {
-    "data-en.json nodes": 2812,
-    "source nodes": 2812,
+    "data-en.json nodes": 2801,
+    "source nodes": 2801,
     "missing from output": 0,
     "stale in output (no source)": 0,
     "html lang/dir": "<html lang=\"en\" dir=\"ltr\">"

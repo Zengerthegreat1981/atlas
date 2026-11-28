@@ -11,7 +11,7 @@ economic_school: "Marshallian neoclassical economics"
 active_start: 1986
 active_end: "مستمر"
 edges:
-- rel: "evolved_from", target: "Marshallian Neoclassical Economics", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-marshallian-neoclassical-economics", target_type: "مدرسة"
 related:
 - id: "sch-development-economics", title: "Development Economics", type: "مدرسة"
 gaps: []

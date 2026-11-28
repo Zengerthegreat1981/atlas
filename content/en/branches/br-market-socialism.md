@@ -11,7 +11,7 @@ economic_school: "Marx's critique of political economy"
 active_start: 1936
 active_end: "مستمر"
 edges:
-- rel: "evolved_from", target: "Marx's Critique of Political Economy", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-marx-critique-of-political-economy", target_type: "مدرسة"
 related:
 - id: "dbt-socialist-calculation-debate", title: "The Socialist Calculation Debate", type: "جدل"
 gaps: []

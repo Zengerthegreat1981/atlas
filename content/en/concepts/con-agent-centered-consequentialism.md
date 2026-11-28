@@ -10,7 +10,7 @@ crumb: "Ethics ← Concepts ← Agent-Centered Consequentialism"
 active_start: 1900
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Consequentialism and Utilitarianism", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-consequentialism-utilitarianism", target_type: "مدرسة"
 related: []
 gaps: []
 ---

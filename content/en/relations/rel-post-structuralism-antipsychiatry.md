@@ -10,7 +10,7 @@ crumb: "Bridges ← Relations ← Post-Structuralism and Anti-Psychiatry: From F
 active_start: 1961
 active_end: "مستمر"
 edges:
-  - rel: "relates_to", target: "Post-Structuralism", target_type: "مدرسة"
+  - rel: "relates_to", target: "sch-post-structuralism", target_type: "مدرسة"
 related:
   - id: "thk-foucault", title: "Michel Foucault", type: "مفكر"
   - id: "thk-derrida", title: "Jacques Derrida", type: "مفكر"

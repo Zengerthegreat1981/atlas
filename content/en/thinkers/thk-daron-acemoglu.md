@@ -14,7 +14,7 @@ economic_school: "New institutional economics"
 active_start: 1992
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "New Institutional Economics", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-new-institutional-economics", target_type: "مدرسة"
 related:
 - id: "sch-new-institutional-economics", title: "New Institutional Economics", type: "مدرسة"
 - id: "stu-acemoglu-johnson-robinson-colonial-origins-2001", title: "Acemoglu, Johnson and Robinson on the Colonial Origins of Development (2001)", type: "دراسة وبحث"

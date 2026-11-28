@@ -15,7 +15,7 @@ policy_orientation: "Interventionist in its first version (planning and directed
 active_start: 1945
 active_end: "مستمر"
 edges:
-- rel: "evolved_from", target: "Keynesian Economics", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-keynesian-economics", target_type: "مدرسة"
 related:
 - id: "con-sovereign-debt-and-default", title: "Sovereign Debt and Default", type: "مفهوم"
 - id: "stu-banerjee-duflo-microfinance-hyderabad-2015", title: "Banerjee and Duflo's Microfinance Experiment in Hyderabad (2015)", type: "دراسة وبحث"

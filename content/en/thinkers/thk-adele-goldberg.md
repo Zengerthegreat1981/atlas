@@ -15,7 +15,7 @@ language: "English"
 active_start: 1995
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Construction Grammar", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-construction-grammar", target_type: "مدرسة"
 related:
 - id: "sch-construction-grammar", title: "Construction Grammar", type: "مدرسة"
 - id: "thk-charles-fillmore", title: "Charles Fillmore", type: "مفكر"

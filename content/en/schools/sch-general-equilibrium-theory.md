@@ -15,7 +15,7 @@ policy_orientation: "An abstract mathematical analytical framework, often used a
 active_start: 1874
 active_end: "مستمر"
 edges:
-- rel: "evolved_from", target: "Marginal Revolution", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-marginal-revolution", target_type: "مدرسة"
 related:
 - id: "sch-marginal-revolution", title: "Marginal Revolution", type: "مدرسة"
 - id: "thk-leon-walras", title: "Léon Walras", type: "مفكر"

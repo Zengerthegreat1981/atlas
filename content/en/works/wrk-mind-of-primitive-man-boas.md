@@ -9,8 +9,8 @@ en: "The Mind of Primitive Man"
 crumb: "Anthropology ← Works ← The Mind of Primitive Man"
 dates: "1911 · Boas"
 edges:
-  - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
-  - rel: "written_by", target: "Boas", target_type: "مفكر"
+  - rel: "belongs_to", target: "fld-anthropology", target_type: "مجال"
+  - rel: "authored_by", target: "Boas", target_type: "مفكر"
 related: []
 gaps: []
 ---

@@ -11,7 +11,7 @@ active_start: 1963
 active_end: "مستمر"
 language: "English"
 edges:
-- rel: "belongs_to", target: "Neurobiology of Mental Illness", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-neurobiology-mental-illness", target_type: "مدرسة"
 related:
 - id: "sch-neurobiology-mental-illness", title: "Neurobiology of Mental Illness", type: "مدرسة"
 gaps: []

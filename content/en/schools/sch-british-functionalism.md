@@ -9,7 +9,7 @@ en: "British Functionalism"
 crumb: "Anthropology ← Schools ← British Functionalism"
 dates: "UK · 1920s-1970s"
 edges:
-  - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
+  - rel: "belongs_to", target: "fld-anthropology", target_type: "مجال"
 related: []
 gaps: []
 ---

@@ -15,7 +15,7 @@ legal_tradition: "Legal Hermeneutics"
 active_start: 1986
 active_end: "مستمر"
 edges:
-- rel: "authored_by", target: "Ronald Dworkin", target_type: "مفكر"
+- rel: "authored_by", target: "thk-ronald-dworkin", target_type: "مفكر"
 related:
 - id: "thk-ronald-dworkin", title: "Ronald Dworkin", type: "مفكر"
 - id: "con-law-as-integrity-dworkin", title: "Law as Integrity", type: "مفهوم"

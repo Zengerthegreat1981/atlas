@@ -9,7 +9,7 @@ title: "The Self in Arabic-Islamic Intellectual Heritage"
 en: "The self in Arabic-Islamic intellectual heritage"
 crumb: "Arab-Islamic Heritage ← Contexts ← The Self in Arabic-Islamic Intellectual Heritage"
 edges:
-  - rel: "relates_to", target: "Existentialist School", target_type: "مدرسة"
+  - rel: "relates_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
   - id: "con-fear", title: "Fear", type: "مفهوم"
   - id: "con-sadness", title: "Sadness", type: "مفهوم"

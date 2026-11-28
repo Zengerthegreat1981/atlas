@@ -15,7 +15,7 @@ language: "Arabic"
 active_start: 1080
 active_end: 1338
 edges:
-- rel: "evolved_from", target: "Classical Arabic Grammatical Tradition", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-arabic-grammatical-tradition", target_type: "مدرسة"
 related:
 - id: "thk-al-jurjani", title: "ʿAbd al-Qāhir al-Jurjānī", type: "مفكر"
 - id: "thk-al-sakkaki", title: "Abū Yaʿqūb al-Sakkākī", type: "مفكر"

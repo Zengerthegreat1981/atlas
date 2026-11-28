@@ -4,6 +4,7 @@ id: "SCH-0333"
 type: "مدرسة"
 part: "philosophy"
 level: "متقدم"
+quality: "unverified"
 title: "Yogācāra / Vijñānavāda"
 en: "Yogācāra / Vijñānavāda (Consciousness-Only School)"
 crumb: "Philosophy ← Schools ← Yogācāra / Vijñānavāda"
@@ -39,7 +40,7 @@ Tradition ascribes the school to "Maitreya" (Maitreyanatha), whom the followers 
 
 ## Disagreement in interpretation
 
-Scholars debate whether it is an existential idealism that denies the external world, or a phenomenological epistemological theory that studies the structure of experience without deciding on external existence. Stefan Anacker and others incline toward an idealist interpretation; Thomas Kochumuttom argues that Vasubandhu's position is a realist pluralism about experience; and Dan Lusthaus in "Buddhist Phenomenology" (2002) holds that it is an analysis of the formation of experience. It was opposed by the Madhyamaka school, such as Candrakīrti, which held that fixing a consciousness as the reality reproduces the substance that Buddhism had denied. The "Yogācāra-Madhyamaka" school, represented by Śāntarakṣita in the 8th century in Tibet, tried to combine the two.
+Scholars debate whether it is an existential idealism that denies the external world, or a phenomenological epistemological theory that studies the structure of experience without deciding on external existence. Stefan Anacker and others incline toward an idealist interpretation; Thomas Kochumuttom argues that Vasubandhu's position is a realist pluralism about experience; and Dan Lusthaus in "Buddhist Phenomenology" (2002) holds that it is an analysis of the formation of experience. It was opposed by the Madhyamaka school, such as Candrakīrti, which held that fixing a consciousness as the reality reproduces the substance that Buddhism had denied. The "Yogācāra-Madhyamaka" school, represented by the 8th-century Indian scholar Śāntarakṣita, who also taught in Tibet, tried to combine the two.
 
 ## Impact
 

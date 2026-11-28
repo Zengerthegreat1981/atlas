@@ -15,8 +15,8 @@ original_language: "German (with a parallel English text)"
 active_start: 1953
 active_end: 1953
 edges:
-- rel: "belongs_to", target: "Ordinary Language Philosophy", target_type: "مدرسة"
-- rel: "authored_by", target: "Ludwig Wittgenstein", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-ordinary-language", target_type: "مدرسة"
+- rel: "authored_by", target: "thk-lwittgenstein", target_type: "مفكر"
 related:
 - id: "thk-lwittgenstein", title: "Ludwig Wittgenstein", type: "مفكر"
 - id: "wrk-tractatus", title: "Tractatus Logico-Philosophicus", type: "عمل / كتاب"

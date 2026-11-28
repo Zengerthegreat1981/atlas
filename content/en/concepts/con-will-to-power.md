@@ -11,7 +11,7 @@ active_start: 1885
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "Nietzscheanism", target_type: "مدرسة"
-- rel: "formulated_by", target: "Friedrich Nietzsche", target_type: "مفكر"
+- rel: "formulated_by", target: "thk-nietzsche", target_type: "مفكر"
 related:
 - id: "thk-nietzsche", title: "Friedrich Nietzsche", type: "مفكر"
 - id: "wrk-on-the-genealogy-of-morals-nietzsche", title: "On the Genealogy of Morals by Friedrich Nietzsche", type: "عمل / كتاب"

@@ -4,6 +4,7 @@ id: "THK-2324"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"
+quality: "unverified"
 title: "Gilles Deleuze"
 en: "Gilles Deleuze"
 crumb: "Philosophy ← Thinkers ← Gilles Deleuze"
@@ -13,7 +14,7 @@ language: "French"
 active_start: 1968
 active_end: 1995
 edges:
-- rel: "belongs_to", target: "Post-Structuralism", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-post-structuralism", target_type: "مدرسة"
 related:
 - id: "thk-foucault", title: "Michel Foucault", type: "مفكر"
 - id: "sch-post-structuralism", title: "Post-Structuralism", type: "مدرسة"

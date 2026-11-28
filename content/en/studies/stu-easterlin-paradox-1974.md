@@ -11,7 +11,7 @@ economic_school: "Ecological economics and degrowth"
 active_start: 1974
 active_end: 2010
 edges:
-- rel: "belongs_to", target: "Ecological and Degrowth Economics", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-ecological-and-degrowth-economics", target_type: "مدرسة"
 related:
 - id: "stu-kahneman-deaton-income-wellbeing-2010", title: "Kahneman and Deaton's Study on Income and Wellbeing (2010)", type: "دراسة وبحث"
 study_year: 1974

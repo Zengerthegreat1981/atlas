@@ -9,7 +9,7 @@ title: "Frankl's First-Person Account of Meaning in the Camp"
 en: "Frankl's First-Person Account of Meaning in the Camp"
 crumb: "Existential Philosophy ← Experiences ← Frankl's First-Person Account of Meaning in the Camp"
 edges:
-  - rel: "relates_to", target: "Existentialist School", target_type: "مدرسة"
+  - rel: "relates_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
   - id: "evt-frankl-camps", title: "Frankl's Concentration Camp Experience", type: "حدث تاريخي"
   - id: "ctx-phenomenology-husserl", title: "Husserlian Phenomenology", type: "سياق/تقليد"

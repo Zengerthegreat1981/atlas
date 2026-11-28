@@ -16,7 +16,7 @@ active_start: 2016
 active_end: 2016
 crumb: "Religious Studies ← Works ← The Jewish Dietary Laws in the Ancient World"
 edges:
-- rel: "belongs_to", target: "Food and Religion Studies", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-food-religion-studies", target_type: "مدرسة"
 related:
 - id: "sch-food-religion-studies", title: "Food and Religion Studies", type: "مدرسة"
 gaps: []

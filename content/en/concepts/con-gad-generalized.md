@@ -11,7 +11,7 @@ active_start: 1980
 active_end: "مستمر"
 language: "Arabic"
 edges:
-- rel: "belongs_to", target: "Anxiety Disorders and the OCD Spectrum", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-anxiety-ocd-disorders", target_type: "مدرسة"
 related:
 - id: "sch-anxiety-ocd-disorders", title: "Anxiety Disorders and the OCD Spectrum", type: "مدرسة"
 gaps: []

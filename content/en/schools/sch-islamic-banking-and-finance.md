@@ -15,7 +15,7 @@ policy_orientation: "Replacing fixed interest with profit-and-loss sharing contr
 active_start: 1963
 active_end: "مستمر"
 edges:
-- rel: "evolved_from", target: "Modern Islamic Economics", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-modern-islamic-economics", target_type: "مدرسة"
 related:
 - id: "sch-modern-islamic-economics", title: "Modern Islamic Economics", type: "مدرسة"
 gaps: []

@@ -15,10 +15,10 @@ active_start: 1940
 active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "Gestalt Psychology (Berlin School)", target_type: "تيار"
-- rel: "evolved_from", target: "Phenomenology", target_type: "مدرسة"
-- rel: "evolved_from", target: "Existentialism", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-phenomenology", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-existentialism", target_type: "مدرسة"
 - rel: "evolved_from", target: "Psychoanalysis", target_type: "مدرسة"
-- rel: "developed_by", target: "Fritz Perls", target_type: "مفكر"
+- rel: "developed_by", target: "thk-fperls", target_type: "مفكر"
 related:
 - id: "thk-fperls", title: "Fritz Perls", type: "مفكر"
 gaps: []

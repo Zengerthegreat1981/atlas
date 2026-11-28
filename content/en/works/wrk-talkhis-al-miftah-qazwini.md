@@ -16,7 +16,7 @@ language: "Arabic"
 active_start: 1268
 active_end: 1338
 edges:
-- rel: "belongs_to", target: "Arabic Rhetorical Sciences", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-arabic-rhetorical-sciences", target_type: "مدرسة"
 related:
 - id: "thk-al-sakkaki", title: "Abu Ya'qub al-Sakkaki", type: "مفكر"
 - id: "sch-arabic-rhetorical-sciences", title: "The Arabic Rhetorical Sciences: Ma'ani, Bayan, and Badi'", type: "مدرسة"

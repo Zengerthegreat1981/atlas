@@ -1,0 +1,75 @@
+{
+ "_reading": "page A `rel` page B reads 'A rel B'. 'inverse' names the opposite direction; the builder does not generate inverses yet.",
+ "_renames": {
+  "written_by": "authored_by",
+  "related_to": "relates_to"
+ },
+ "_review_needed": "Opposite-direction pairs stay as they are until each edge is checked, because renaming would reverse its meaning: influenced/influenced_by, developed/developed_by, founded and founder_of/founded_by.",
+ "relations": {
+  "belongs_to": {
+   "inverse": "contains"
+  },
+  "contains": {
+   "inverse": "belongs_to"
+  },
+  "part_of": {},
+  "part_of_section": {},
+  "relates_to": {
+   "symmetric": true
+  },
+  "adjacent_to": {
+   "symmetric": true
+  },
+  "neighbour_of": {
+   "symmetric": true
+  },
+  "contrasts_with": {
+   "symmetric": true
+  },
+  "evolved_from": {
+   "inverse": "evolved_into"
+  },
+  "evolved_into": {
+   "inverse": "evolved_from"
+  },
+  "split_into": {},
+  "superseded_by": {},
+  "authored_by": {},
+  "revised_by": {},
+  "formulated_by": {},
+  "developed_by": {
+   "inverse": "developed"
+  },
+  "developed": {
+   "inverse": "developed_by"
+  },
+  "developed_method": {},
+  "founded_by": {
+   "inverse": "founder_of"
+  },
+  "founder_of": {
+   "inverse": "founded_by"
+  },
+  "founded": {
+   "inverse": "founded_by"
+  },
+  "pioneered": {},
+  "influenced_by": {
+   "inverse": "influenced"
+  },
+  "influenced": {
+   "inverse": "influenced_by"
+  },
+  "critiques": {
+   "inverse": "criticized_by"
+  },
+  "criticized_by": {
+   "inverse": "critiques"
+  },
+  "grounded_in": {},
+  "discussed_in": {},
+  "occurs_within": {},
+  "central_to": {},
+  "divides": {}
+ }
+}

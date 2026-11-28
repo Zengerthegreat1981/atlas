@@ -13,7 +13,7 @@ active_start: 2008
 active_end: 2008
 crumb: "Religious Studies ← Works ← Dreaming in the World's Religions: A Comparative History"
 edges:
-- rel: "belongs_to", target: "Kelly Bulkeley", target_type: "مفكر"
+- rel: "belongs_to", target: "thk-kelly-bulkeley", target_type: "مفكر"
 related:
 - id: "thk-kelly-bulkeley", title: "Kelly Bulkeley", type: "مفكر"
 - id: "con-dream-incubation-religious", title: "Dream Incubation in Comparative Religious Practice", type: "مفهوم"

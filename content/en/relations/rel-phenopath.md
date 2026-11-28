@@ -8,7 +8,7 @@ title: "Phenomenological Psychopathology"
 en: "Phenomenological psychopathology"
 crumb: "Existential Philosophy ← Relations ← Phenomenological Psychopathology"
 edges:
-  - rel: "neighbour_of", target: "Existentialist School", target_type: "مدرسة"
+  - rel: "neighbour_of", target: "sch-existentialism", target_type: "مدرسة"
 related:
   - id: "br-daseins", title: "Daseinsanalysis", type: "تيار"
   - id: "thk-minkowski", title: "Eugène Minkowski", type: "مفكر"

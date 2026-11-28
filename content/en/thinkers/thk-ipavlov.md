@@ -13,7 +13,7 @@ part: psychology
 active_start: 1890
 active_end: 1936
 edges:
-- rel: "belongs_to", target: "Behaviorism", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-behaviorism", target_type: "مدرسة"
 related:
 - id: "thk-jwatson", title: "John B. Watson", type: "مفكر"
 - id: "thk-fskinner", title: "B. F. Skinner", type: "مفكر"

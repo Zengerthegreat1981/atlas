@@ -9,7 +9,7 @@ en: "Hortense Powdermaker"
 crumb: "Anthropology ← Boasian Cultural Relativism ← Hortense Powdermaker"
 dates: "USA · 1896-1970"
 edges:
-  - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
+  - rel: "belongs_to", target: "fld-anthropology", target_type: "مجال"
 related:
   []
 gaps:

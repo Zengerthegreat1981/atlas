@@ -14,16 +14,17 @@ edges:
   - rel: "influenced", target: "Ethnography of Science", target_type: "مفهوم"
 related:
   - id: "thk-paul-rabinow", title: "Paul Rabinow", type: "مفكر"
+  - id: "thk-haraway", title: "Donna Haraway: Situated Knowledge, Cyborgs, and Response-Ability", type: "مفكر"
 gaps: []
 ---
 
 # Bruno Latour: Actor-Network Theory and the Anthropology of Science and Technology
 
-Bruno Latour (1947–2022) was a major figure in anthropology and science studies, known for his development of **actor-network theory** (ANT) and his ethnographic studies of science and technology. His groundbreaking ethnography *Laboratory Life: The Social Construction of Scientific Facts* (1979, with Steve Woolgar) argued that scientific knowledge is produced through specific social practices, technologies, and negotiations—not through neutral observation of nature. His theoretical framework, developed across multiple works, insists that networks of human and non-human actors (machines, instruments, animals, texts) collectively produce knowledge, and that understanding any phenomenon requires tracing the associations and translations through which actors are enrolled into networks. His work challenged the notion that science represents nature directly; instead, science is a particular form of knowledge-making shaped by specific practices, instruments, and social negotiations. His approach has enabled anthropologists to study technology, medicine, climate science, and other domains where human and non-human actors collaborate in producing effects.
+Bruno Latour (1947–2022) was a major figure in anthropology and science studies, known for his development of **actor-network theory** (ANT), with Michel Callon, John Law and others, and his ethnographic studies of science and technology. His groundbreaking ethnography *Laboratory Life: The Social Construction of Scientific Facts* (1979, with Steve Woolgar) argued that scientific knowledge is produced through specific social practices, technologies, and negotiations—not through neutral observation of nature. His theoretical framework, developed across multiple works, insists that networks of human and non-human actors (machines, instruments, animals, texts) collectively produce knowledge, and that understanding any phenomenon requires tracing the associations and translations through which actors are enrolled into networks. His work challenged the notion that science represents nature directly; instead, science is a particular form of knowledge-making shaped by specific practices, instruments, and social negotiations. His approach has enabled anthropologists to study technology, medicine, climate science, and other domains where human and non-human actors collaborate in producing effects.
 
 ## Biographical Context and Intellectual Formation
 
-Bruno Latour was born in Beaune, Burgundy, France, in 1947 and died in Paris in 2022. He trained in philosophy and religious studies (including exegesis) and then did early fieldwork in Côte d'Ivoire on the organisation of work and the transfer of technical expertise. In the mid-1970s he conducted ethnographic research at the Salk Institute in California, which became the basis for *Laboratory Life*; during that period, in 1976, he met the British sociologist Steve Woolgar. He held positions at the École des Mines de Paris, where he worked in the Centre de Sociologie de l'Innovation, and later at Sciences Po in Paris, becoming one of the most influential figures in science and technology studies.
+Bruno Latour was born in Beaune, Burgundy, France, in 1947 and died in Paris in October 2022. He trained in philosophy and religious studies (including exegesis), passing the agrégation in philosophy and completing a doctorate at the University of Tours in 1975. In 1973–1975, in Côte d'Ivoire, he did early fieldwork in Abidjan on the organisation of work and the transfer of technical expertise, asking why Ivorians were largely absent from managerial posts in industry. From 1975 to 1977 he conducted ethnographic research in Roger Guillemin's neuroendocrinology laboratory at the Salk Institute in California, which became the basis for *Laboratory Life*; during that period, in 1976, he met the British sociologist Steve Woolgar. He worked at the Centre de Sociologie de l'Innovation of the École des Mines de Paris from 1982 to 2006 and then at Sciences Po in Paris, becoming one of the most influential figures in science and technology studies.
 
 Latour's intellectual formation combined ethnographic fieldwork traditions with philosophy of science, semiotics, and pragmatism. He was influenced by Michel Serres, whose work on circulation and translation shaped his thinking. His positioning outside mainstream sociology and within science and technology studies enabled him to develop distinctive perspectives on knowledge production.
 
@@ -47,7 +48,9 @@ Latour's publications established actor-network theory and anthropology of scien
 
 - **Pandora's Hope: Essays on the Reality of Science Studies** (1999) — Collection of essays on science, technology, knowledge, and politics. Examines how scientific knowledge circulates and produces effects.
 
-- **Reassembling the Social: An Introduction to Actor-Network-Theory** (2005) — A systematic statement of ANT and its method.
+- **Reassembling the Social: An Introduction to Actor-Network-Theory** (2005) — A systematic statement of ANT and its method, as a way of tracing associations rather than presupposing social forces.
+
+- **An Inquiry into Modes of Existence** (French 2012; English 2013) — A philosophical anthropology of the moderns that distinguishes several modes of truth and being.
 
 These works established that studying science requires understanding the practical and social networks producing knowledge.
 
@@ -55,7 +58,7 @@ These works established that studying science requires understanding the practic
 
 Latour's research practice exemplified his methodological approach. His ethnography in the neuroendocrinology laboratory involved observing scientists at work, examining the instruments they used, analyzing the inscriptions they produced (graphs, tables, articles), and understanding how observations were transformed through practical arrangements. Rather than analyzing what scientists claimed to discover, Latour analyzed what they actually did—how they produced data, how they wrote articles, how they convinced colleagues. He argued that facts were constructed through specific technical and social practices, not simply observed.
 
-His later work involved studying how science and technology circulate globally, how they are translated and adapted in different contexts, and how they produce effects. His work on scientific controversies involved tracing how different actors (scientists, industry, government, citizens) enrolled allies and tried to stabilize facts or undermine them.
+His later work extended to technology, law, religion, politics, and ecology. It also involved studying how science and technology circulate globally, how they are translated and adapted in different contexts, and how they produce effects. His work on scientific controversies involved tracing how different actors (scientists, industry, government, citizens) enrolled allies and tried to stabilize facts or undermine them.
 
 ## Theoretical Impact: Science as Contingent Social-Technical Practice
 
@@ -81,9 +84,9 @@ However, critics note that Latour's work sometimes focuses on laboratory and Wes
 
 ## Non-Western Settings and Indigenous Knowledge
 
-Work related to actor-network theory has travelled beyond Western laboratories. Marianne de Laet and Annemarie Mol's study of the Zimbabwe Bush Pump (2000) argued that the technology succeeded partly through its adaptability, as its parts, boundaries, and measures of success shifted with local use. Helen Verran's *Science and an African Logic* (2001), based on experience of mathematics teaching in Nigeria, examined Yoruba and English ways of counting as practical accomplishments, without treating one simply as the measure of the other. Warwick Anderson (2002) called for a postcolonial study of technoscience attentive to how knowledge moves across unequal settings.
+Work related to actor-network theory has travelled beyond Western laboratories. Marianne de Laet and Annemarie Mol's study of the Zimbabwe Bush Pump (2000) argued that the technology succeeded partly through its adaptability, as its parts, boundaries, and measures of success shifted with local use. Helen Verran's *Science and an African Logic* (2001), based on experience of mathematics teaching in Nigeria, examined Yoruba and English ways of counting as practical accomplishments in classrooms, without treating one simply as the measure of the other. Timothy Mitchell's *Rule of Experts* (2002), on Egypt, considered how mosquitoes, parasites, war, and engineering projects interacted with claims to expert control. Warwick Anderson (2002) called for a postcolonial study of technoscience attentive to how knowledge moves across unequal settings.
 
-The encounter with Indigenous knowledge has also been critical. ANT's attention to nonhumans can appear close to Indigenous accounts of relations with land, animals, and other beings, yet the two have different histories and political commitments. Zoe Todd (2016) argued that praise for Latour's thinking about a shared climate often overlooked Indigenous thinkers who had addressed such relations long before, repeating a colonial pattern of credit. Marisol de la Cadena's *Earth Beings* (2015), drawing on conversations with two Quechua men in Peru and on science studies among other sources, showed how mountains can enter politics in ways that modern distinctions between nature and culture do not easily accommodate.
+The encounter with Indigenous knowledge has also been critical. ANT offers tools for tracing movements across such settings, but critics argue that following associations does not by itself explain empire, race, or dispossession. ANT's attention to nonhumans can appear close to Indigenous accounts of relations with land, animals, and other beings, yet the two have different histories and political commitments. Zoe Todd (2016) argued that praise for Latour's thinking about a shared climate often overlooked Indigenous thinkers who had addressed such relations long before, repeating a colonial pattern of credit. Marisol de la Cadena's *Earth Beings* (2015), drawing on conversations with two Quechua men in Peru and on science studies among other sources, showed how mountains can enter politics in ways that modern distinctions between nature and culture do not easily accommodate. Kim TallBear's *Native American DNA* (2013) shows how science studies can be joined to questions of Indigenous sovereignty by examining genetic claims about tribal identity. These are extensions, encounters, and criticisms; they should not be read as a programme that Latour himself developed in detail.
 
 ## Contemporary Relevance and Legacy
 
@@ -100,6 +103,7 @@ Contemporary applications extend his framework to digital systems, artificial in
 - **We Have Never Been Modern** (French 1991; English 1993) — Philosophical analysis of modernity and hybrid networks
 - **Pandora's Hope: Essays on the Reality of Science Studies** (1999) — Essays on science, knowledge, and politics
 - **Reassembling the Social** (2005) — Introduction to actor-network theory
+- **An Inquiry into Modes of Existence** (French 2012; English 2013) — Philosophical anthropology of the moderns
 - **Facing Gaia: Eight Lectures on the New Climatic Regime** (2017) — Late work on climate and the Earth system
 
 ## Sources
@@ -109,10 +113,13 @@ Contemporary applications extend his framework to digital systems, artificial in
 - Latour, Bruno. *We Have Never Been Modern*. Translated by Catherine Porter. Harvard University Press, 1993.
 - Latour, Bruno. *Pandora's Hope: Essays on the Reality of Science Studies*. Harvard University Press, 1999.
 - Latour, Bruno. *Reassembling the Social: An Introduction to Actor-Network-Theory*. Oxford University Press, 2005.
+- Latour, Bruno. *An Inquiry into Modes of Existence*. Harvard University Press, 2013.
 - Callon, Michel, John Law & Arie Rip (eds.). *Mapping the Dynamics of Science and Technology: Sociology of Science in the Real World*. Macmillan, 1986.
 - Anderson, Warwick. "Postcolonial Technoscience." *Social Studies of Science* 32, nos. 5–6. 2002.
 - de Laet, Marianne, and Annemarie Mol. "The Zimbabwe Bush Pump: Mechanics of a Fluid Technology." *Social Studies of Science* 30, no. 2. 2000.
 - Todd, Zoe. "An Indigenous Feminist's Take on the Ontological Turn: 'Ontology' Is Just Another Word for Colonialism." *Journal of Historical Sociology* 29, no. 1. 2016.
 - Verran, Helen. *Science and an African Logic*. University of Chicago Press, 2001.
 - de la Cadena, Marisol. *Earth Beings: Ecologies of Practice across Andean Worlds*. Duke University Press, 2015.
+- Mitchell, Timothy. *Rule of Experts: Egypt, Techno-Politics, Modernity*. University of California Press, 2002.
+- TallBear, Kim. *Native American DNA: Tribal Belonging and the False Promise of Genetic Science*. University of Minnesota Press, 2013.
 

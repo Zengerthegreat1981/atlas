@@ -13,7 +13,7 @@ active_start: null
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "Psychoanalysis", target_type: "مدرسة"
-- rel: "developed_by", target: "Peter Fonagy", target_type: "مفكر"
+- rel: "developed_by", target: "thk-fonagy", target_type: "مفكر"
 - rel: "developed_by", target: "Anthony Bateman", target_type: "مفكر"
 related:
 - id: "sch-psychoanalysis", title: "Psychoanalysis", type: "مدرسة"

@@ -13,7 +13,7 @@ dates: "Formulated 1990s–2000s (Irons, Sosis, Atran)"
 active_start: 1996
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Cognitive Science of Religion", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-science-of-religion", target_type: "مدرسة"
 related:
 - id: "thk-scott-atran", title: "Scott Atran", type: "مفكر"
 - id: "sch-cognitive-science-of-religion", title: "Cognitive Science of Religion", type: "مدرسة"

@@ -8,7 +8,7 @@ title: "Lived Time"
 en: "Lived time"
 crumb: "Existential Psychotherapy ← Concepts ← Lived Time"
 edges:
-  - rel: "discussed_in", target: "Existentialist School", target_type: "مدرسة"
+  - rel: "discussed_in", target: "sch-existentialism", target_type: "مدرسة"
 related:
   - id: "thk-minkowski", title: "Minkowski", type: "مفكر"
   - id: "wrk-lived-time", title: "Lived Time", type: "عمل"

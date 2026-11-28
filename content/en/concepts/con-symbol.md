@@ -10,7 +10,7 @@ en: "Symbol"
 crumb: "Anthropology ← Core Concepts ← Symbol"
 dates: ""
 edges:
-  - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
+  - rel: "belongs_to", target: "fld-anthropology", target_type: "مجال"
 related:
   - id: "con-meaning", title: "Meaning", type: "مفهوم"
   - id: "con-ritual", title: "Ritual", type: "مفهوم"

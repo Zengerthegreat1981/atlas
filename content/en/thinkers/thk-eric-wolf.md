@@ -13,7 +13,7 @@ birth_country: "Austria"
 active_start: 1955
 active_end: 1999
 edges:
-- rel: "belongs_to", target: "Anthropological Political Economy", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-anthropological-political-economy", target_type: "مدرسة"
 related:
 - id: "sch-anthropological-political-economy", title: "Anthropological Political Economy", type: "مدرسة"
 gaps: []

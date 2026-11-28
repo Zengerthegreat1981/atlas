@@ -14,7 +14,7 @@ active_end: 2000
 crumb: "Religious Studies ← Works ← The Ambivalence of the Sacred: Religion, Violence, and Reconciliation"
 edges:
 - rel: "belongs_to", target: "Comparative Religious Violence Studies", target_type: "مدرسة"
-- rel: "written_by", target: "R. Scott Appleby", target_type: "مفكر"
+- rel: "authored_by", target: "R. Scott Appleby", target_type: "مفكر"
 related: []
 gaps: []
 ---

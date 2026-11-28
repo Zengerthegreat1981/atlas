@@ -4,6 +4,7 @@ id: "THK-0115"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"
+quality: "unverified"
 title: "Alfried Längle"
 en: "Alfried Längle"
 crumb: "Existential Philosophy ← People ← Alfried Längle"
@@ -13,7 +14,7 @@ language: "German"
 active_start: 1982
 active_end: مستمر
 edges:
-  - rel: "belongs_to", target: "Existentialist School", target_type: "مدرسة"
+  - rel: "belongs_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
   - id: "br-logotherapy", title: "Branches of Meaning", type: "تيار"
   - id: "dbt-langle-frankl", title: "The Split", type: "جدل"
@@ -37,10 +38,11 @@ Längle's major theoretical contribution is the model of the **four fundamental 
 
 ## Clinical Method: Personal Existential Analysis (PEA)
 
-To apply this framework clinically, Längle developed **Personal Existential Analysis** (Personale Existenzanalyse, PEA). PEA is a structured, phenomenological therapeutic method comprising three functional phases:
-- **PEA 1 (Perception and Description)**: Clarifying reality, identifying the client's spontaneous emotional impression, and articulating the primary phenomenological facts.
+To apply this framework clinically, Längle developed **Personal Existential Analysis** (Personale Existenzanalyse, PEA). PEA is a structured, phenomenological therapeutic method comprising a preparatory descriptive step followed by three main steps:
+- **PEA 0 (Description)**: Clarifying reality and articulating the facts of the situation, setting interpretations and feelings aside for later.
+- **PEA 1 (Impression)**: Identifying the client's spontaneous emotional impression through phenomenological analysis.
 - **PEA 2 (Personal Resonance and Appraisal)**: Deepening self-understanding, exploring inner dialogue, and assisting the client in taking a personal stance toward their feelings and values.
-- **PEA 3 (Response and Integrated Action)**: Deciding upon authentic action, formulating an answer to reality, and committing to meaningful practical implementation.
+- **PEA 3 (Expression, Response and Integrated Action)**: Deciding upon authentic action, formulating an answer to reality, and committing to meaningful practical implementation.
 
 ## The Separation from Frankl and Institutional Development
 

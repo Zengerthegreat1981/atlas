@@ -14,7 +14,7 @@ economic_school: "General equilibrium theory"
 active_start: 1874
 active_end: 1910
 edges:
-- rel: "belongs_to", target: "General Equilibrium Theory", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-general-equilibrium-theory", target_type: "مدرسة"
 related:
 - id: "sch-general-equilibrium-theory", title: "General Equilibrium Theory", type: "مدرسة"
 - id: "con-walrasian-general-equilibrium", title: "Walrasian General Equilibrium", type: "مفهوم"

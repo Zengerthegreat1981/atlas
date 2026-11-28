@@ -11,7 +11,7 @@ active_start: null
 active_end: null
 cultural_origin: null
 edges:
-- rel: "related_to", target: "Causation vs. Narrative Sequence", target_type: "مفهوم"
+- rel: "relates_to", target: "Causation vs. Narrative Sequence", target_type: "مفهوم"
 related:
   - id: "con-inscription-documentary-evidence", title: "Inscriptions and Documentary Evidence", type: "مفهوم"
   - id: "con-historical-relativism", title: "Historical Relativism", type: "مفهوم"

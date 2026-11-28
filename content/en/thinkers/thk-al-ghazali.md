@@ -4,6 +4,7 @@ id: "THK-13522"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"
+quality: "unverified"
 title: "Abu Hamid al-Ghazali"
 en: "Abu Hamid al-Ghazali"
 crumb: "Philosophy ← Thinkers ← al-Ghazali"
@@ -26,7 +27,7 @@ gaps: []
 
 # Abu Hamid al-Ghazali
 
-A Persian jurist, legal theorist, theologian, and Sufi, born in Tus in Khurasan in 450 AH/1058 CE, and counted among the most influential Muslim thinkers in the history of later Islamic thought. He combined Ash'arite theology, Shafi'i jurisprudence, Peripatetic philosophy, and Sufism, and produced an intellectual synthesis in which he tried to reconcile the sharia with rational knowledge on the one hand, and jurisprudence with spiritual experience on the other.
+A Persian jurist, legal theorist, theologian, and Sufi, born in Tus in Khurasan, traditionally in 450 AH/1058 CE (some scholarship places the birth around 1055–1056), and counted among the most influential Muslim thinkers in the history of later Islamic thought. He combined Ash'arite theology, Shafi'i jurisprudence, Peripatetic philosophy, and Sufism, and produced an intellectual synthesis in which he tried to reconcile the sharia with rational knowledge on the one hand, and jurisprudence with spiritual experience on the other.
 
 ## Biography
 

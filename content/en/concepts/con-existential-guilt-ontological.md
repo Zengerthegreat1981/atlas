@@ -8,7 +8,7 @@ title: "Ontological Guilt"
 en: "Ontological Guilt"
 crumb: "Psychology ← Concepts ← Ontological Guilt"
 edges:
-  - rel: "belongs_to", target: "Existentialist School", target_type: "مدرسة"
+  - rel: "belongs_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
   - id: "con-guilt", title: "Guilt", type: "مفهوم"
   - id: "thk-heidegger", title: "Martin Heidegger", type: "مفكر"

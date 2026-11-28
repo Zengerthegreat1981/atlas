@@ -15,7 +15,7 @@ language: "English, Chinese (early specialization)"
 active_start: 1961
 active_end: 2018
 edges:
-- rel: "belongs_to", target: "Systemic Functional Linguistics (SFL)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-systemic-functional-linguistics", target_type: "مدرسة"
 related:
 - id: "sch-systemic-functional-linguistics", title: "Systemic Functional Linguistics (SFL)", type: "مدرسة"
 - id: "con-mood-system-halliday", title: "Mood System (Halliday)", type: "مفهوم"

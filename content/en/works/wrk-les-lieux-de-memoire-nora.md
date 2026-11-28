@@ -14,7 +14,7 @@ crumb: "Historiography ← Works ← Les Lieux de Mémoire"
 active_start: 1984
 active_end: 1992
 edges:
-- rel: "authored_by", target: "Pierre Nora", target_type: "مفكر"
+- rel: "authored_by", target: "thk-pierre-nora", target_type: "مفكر"
 related:
 - id: "thk-pierre-nora", title: "Pierre Nora", type: "مفكر"
 - id: "con-lieu-de-memoire-nora", title: "Site of Memory (Lieu de Mémoire) in Nora", type: "مفهوم"

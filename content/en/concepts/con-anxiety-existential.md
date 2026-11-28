@@ -9,7 +9,7 @@ title: "Anxiety: Existential, Psychological and Neuroscientific Accounts"
 en: "Anxiety: Existential, Psychological and Neuroscientific Accounts"
 crumb: "Psychology ← Concepts ← Anxiety: Existential, Psychological and Neuroscientific Accounts"
 edges:
-  - rel: "belongs_to", target: "Existentialist School", target_type: "مدرسة"
+  - rel: "belongs_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
   - id: "con-anxiety", title: "Anxiety", type: "مفهوم"
   - id: "con-fear", title: "Fear", type: "مفهوم"

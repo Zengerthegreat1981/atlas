@@ -4,6 +4,7 @@ id: "SCH-0050"
 type: "مدرسة"
 part: "philosophy"
 level: "مبتدئ"
+quality: "unverified"
 title: "British Empiricism (umbrella)"
 en: "British Empiricism (umbrella)"
 crumb: "Philosophy ← Schools ← British Empiricism"
@@ -14,7 +15,7 @@ cultural_origin: "anglo-american"
 active_start: 1630
 active_end: 1800
 edges:
-- rel: "evolved_from", target: "Renaissance Humanism", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-renaissance-humanism", target_type: "مدرسة"
 related:
 - id: "sch-lockeanism", title: "Lockeanism (Empirical Lockeanism)", type: "مدرسة"
 - id: "sch-humeanism", title: "Humeanism (Empirical Skepticism)", type: "مدرسة"

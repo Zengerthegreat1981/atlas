@@ -15,7 +15,7 @@ policy_orientation: "Analytical-reformist: designing institutions (property righ
 active_start: 1975
 active_end: "مستمر"
 edges:
-- rel: "evolved_from", target: "Marginal Revolution", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-marginal-revolution", target_type: "مدرسة"
 related:
 - id: "br-cliometrics-new-economic-history", title: "Cliometrics and the New Economic History: Measuring the Past with Econometric Tools", type: "تيار"
 - id: "stu-akerlof-market-for-lemons-1970", title: "Akerlof's Study on 'The Market for Lemons' and Information Asymmetry (1970)", type: "دراسة وبحث"

@@ -15,7 +15,7 @@ legal_tradition: "Legal positivism"
 active_start: 1961
 active_end: "مستمر"
 edges:
-- rel: "authored_by", target: "H.L.A. Hart", target_type: "مفكر"
+- rel: "authored_by", target: "thk-hla-hart", target_type: "مفكر"
 related:
 - id: "thk-hla-hart", title: "H.L.A. Hart", type: "مفكر"
 - id: "con-rule-of-recognition-hart", title: "Rule of Recognition", type: "مفهوم"

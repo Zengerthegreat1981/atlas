@@ -9,7 +9,7 @@ en: "Jomo Kenyatta"
 crumb: "Anthropology ← African Anthropology ← Jomo Kenyatta"
 dates: "Kenya · 1894-1978"
 edges:
-  - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
+  - rel: "belongs_to", target: "fld-anthropology", target_type: "مجال"
 related:
   []
 gaps:

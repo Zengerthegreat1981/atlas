@@ -20,8 +20,8 @@ original_language: "English"
 active_start: 1957
 active_end: 1957
 edges:
-- rel: "written_by", target: "Noam Chomsky", target_type: "مفكر"
-- rel: "belongs_to", target: "Generative-Transformational Grammar", target_type: "مدرسة"
+- rel: "authored_by", target: "Noam Chomsky", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-generative-grammar", target_type: "مدرسة"
 related:
 - id: "sch-generative-grammar", title: "Generative-Transformational Grammar", type: "مدرسة"
 - id: "con-deep-surface-structure", title: "Deep Structure and Surface Structure", type: "مفهوم"

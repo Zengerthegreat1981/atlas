@@ -10,7 +10,7 @@ crumb: "Ethics ← Works ← A Theory of Justice"
 active_start: 1971
 active_end: "مستمر"
 edges:
-- rel: "authored_by", target: "John Rawls", target_type: "مفكر"
+- rel: "authored_by", target: "thk-rawls", target_type: "مفكر"
 related:
 - id: "con-social-contract", title: "Social Contract", type: "مفهوم"
 gaps: []

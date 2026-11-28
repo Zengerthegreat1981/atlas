@@ -10,7 +10,7 @@ title: "Asrar al-Balagha (The Secrets of Eloquence)"
 en: "Asrār al-Balāgha (Secrets of Eloquence)"
 crumb: "Linguistics ← Works ← Asrar al-Balagha (The Secrets of Eloquence)"
 edges:
-- rel: "belongs_to", target: "Arabic Rhetorical Sciences", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-arabic-rhetorical-sciences", target_type: "مدرسة"
 related:
 - id: "thk-al-jurjani", title: "Abd al-Qahir al-Jurjani", type: "مفكر"
 - id: "sch-arabic-rhetorical-sciences", title: "The Arabic Rhetorical Sciences: Meanings, Figurative Expression and Embellishment", type: "مدرسة"

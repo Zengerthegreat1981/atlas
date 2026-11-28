@@ -12,7 +12,7 @@ dates: "1961; rev. ed. 1972 · Hsu"
 active_start: 1961
 active_end: 1972
 edges:
-  - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
+  - rel: "belongs_to", target: "fld-anthropology", target_type: "مجال"
 related:
   - id: "sch-psychological-anthropology", title: "Psychological Anthropology", type: "مدرسة"
   - id: "sch-culture-and-personality", title: "Culture and Personality School", type: "مدرسة"

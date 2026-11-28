@@ -15,7 +15,7 @@ policy_orientation: "Diverse: from progressive taxes on wealth to redistribution
 active_start: 1955
 active_end: "مستمر"
 edges:
-- rel: "evolved_from", target: "Keynesian Economics", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-keynesian-economics", target_type: "مدرسة"
 related:
 - id: "stu-chetty-intergenerational-mobility-2014", title: "Chetty's Study on Intergenerational Mobility (2014)", type: "دراسة وبحث"
 - id: "thk-thomas-piketty", title: "Thomas Piketty", type: "مفكر"

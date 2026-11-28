@@ -12,7 +12,7 @@ active_end: "مستمر"
 language: "English"
 edges:
 - rel: "relates_to", target: "Treatment-Resistant Disorders", target_type: "مفهوم"
-- rel: "relates_to", target: "Major Depressive Disorder", target_type: "مفهوم"
+- rel: "relates_to", target: "con-major-depressive-disorder", target_type: "مفهوم"
 - rel: "relates_to", target: "Side-Effect Management", target_type: "مفهوم"
 - rel: "relates_to", target: "Anxiety", target_type: "مفهوم"
 related:

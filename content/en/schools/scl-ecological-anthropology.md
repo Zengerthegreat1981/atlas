@@ -9,7 +9,7 @@ en: "Ecological Anthropology"
 crumb: "Anthropology ← Schools ← Ecological Anthropology"
 dates: "USA/UK · 1960s-present"
 edges:
-  - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
+  - rel: "belongs_to", target: "fld-anthropology", target_type: "مجال"
 related:
   []
 gaps: []

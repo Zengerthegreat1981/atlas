@@ -8,7 +8,7 @@ title: "A Point of Encounter: Existential Therapy and ACT"
 en: "A Point of Encounter: Existential Therapy and ACT"
 crumb: "Existential Therapy ← Dialogues ← A Point of Encounter: Existential Therapy and ACT"
 edges:
-  - rel: "relates_to", target: "Existentialist School", target_type: "مدرسة"
+  - rel: "relates_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
   - id: "rel-act", title: "ACT and the Third Wave", type: "علاقة بين مدرستين"
 gaps: []

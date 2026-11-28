@@ -15,7 +15,7 @@ language: "German"
 active_start: 1905
 active_end: 1920
 edges:
-- rel: "belongs_to", target: "Weberian Interpretive Sociology", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-weberian-verstehen-english", target_type: "مدرسة"
 related:
 - id: "thk-weber", title: "Max Weber", type: "مفكر"
 - id: "wrk-protestant-ethic-spirit-capitalism-weber", title: "The Protestant Ethic and the Spirit of Capitalism", type: "عمل / كتاب"

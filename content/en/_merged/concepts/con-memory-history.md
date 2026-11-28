@@ -11,7 +11,7 @@ active_start: 1984
 active_end: null
 cultural_origin: null
 edges:
-- rel: "related_to", target: "Historical Relativism", target_type: "مفهوم"
+- rel: "relates_to", target: "con-historical-relativism", target_type: "مفهوم"
 related:
 - id: "con-historical-relativism", title: "Historical Relativism", type: "مفهوم"
 - id: "con-historiographical-consciousness", title: "Historiographical Consciousness", type: "مفهوم"

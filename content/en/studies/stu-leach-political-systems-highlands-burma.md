@@ -9,8 +9,8 @@ en: "Political Systems of Highland Burma"
 crumb: "Leach · Kinship & Alliance"
 dates: "1954 · Leach"
 edges:
-  - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
-  - rel: "written_by", target: "Leach", target_type: "مفكر"
+  - rel: "belongs_to", target: "fld-anthropology", target_type: "مجال"
+  - rel: "authored_by", target: "Leach", target_type: "مفكر"
 related:
   - id: "con-bilateral-kinship", title: "Bilateral Kinship", type: "مفهوم"
   - id: "wrk-elementary-structures", title: "The Elementary Structures of Kinship", type: "عمل"

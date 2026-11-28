@@ -9,7 +9,7 @@ en: "Philippe Bourgois"
 crumb: "Anthropology ← Urban and Medical Anthropology ← Philippe Bourgois"
 dates: "USA · 1956-"
 edges:
-  - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
+  - rel: "belongs_to", target: "fld-anthropology", target_type: "مجال"
 related:
   []
 gaps:

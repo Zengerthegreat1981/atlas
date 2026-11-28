@@ -11,7 +11,7 @@ crumb: "Anthropology ← Concepts ← Patrilineal Descent"
 active_start: 1940
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Descent Theory", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-descent-theory", target_type: "مدرسة"
 related:
 - id: "thk-evans-pritchard", title: "E. E. Evans-Pritchard", type: "مفكر"
 - id: "sch-descent-theory", title: "Descent Theory", type: "مدرسة"

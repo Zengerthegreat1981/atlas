@@ -14,7 +14,7 @@ crumb: "Religious Studies ← Works ← When Religion Meets New Media"
 active_start: 2010
 active_end: 2010
 edges:
-- rel: "belongs_to", target: "Digital Religion Studies", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-religion-digital-technology", target_type: "مدرسة"
 related:
 - id: "thk-heidi-campbell", title: "Heidi A. Campbell", type: "مفكر"
 - id: "con-networked-religion-campbell", title: "Networked Religion according to Heidi Campbell", type: "مفهوم"

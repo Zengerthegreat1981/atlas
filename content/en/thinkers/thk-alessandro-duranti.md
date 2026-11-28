@@ -13,7 +13,7 @@ birth_country: "Italy"
 active_start: 1981
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Ethnography of Communication", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-ethnography-of-communication", target_type: "مدرسة"
 related:
 - id: "sch-ethnography-of-communication", title: "Ethnography of Communication", type: "مدرسة"
 - id: "thk-elinor-ochs", title: "Elinor Ochs", type: "مفكر"

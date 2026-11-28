@@ -11,7 +11,7 @@ active_start: 800
 active_end: "مستمر"
 language: "Arabic"
 edges:
-- rel: "belongs_to", target: "Classical Islamic Sufism (Tasawwuf)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-islamic-sufism", target_type: "مدرسة"
 related:
 - id: "sch-islamic-sufism", title: "Classical Islamic Sufism (Tasawwuf)", type: "مدرسة"
 - id: "thk-al-ghazali", title: "Abu Hamid al-Ghazali", type: "مفكر"

@@ -9,7 +9,7 @@ title: "Responsibility"
 en: "Responsibility"
 crumb: "Existential Psychotherapy ← Concepts ← Responsibility"
 edges:
-  - rel: "discussed_in", target: "Existentialist School", target_type: "مدرسة"
+  - rel: "discussed_in", target: "sch-existentialism", target_type: "مدرسة"
 related:
   - id: "con-freedom", title: "Freedom", type: "مفهوم"
   - id: "con-guilt", title: "Guilt", type: "مفهوم"

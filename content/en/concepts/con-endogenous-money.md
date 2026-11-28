@@ -11,7 +11,7 @@ economic_school: "Post-Keynesian economics"
 active_start: 1970
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Post-Keynesian Economics", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-post-keynesian-economics", target_type: "مدرسة"
 related:
 - id: "con-modern-monetary-theory", title: "Modern Monetary Theory", type: "مفهوم"
 gaps: []

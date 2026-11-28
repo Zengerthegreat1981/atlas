@@ -14,7 +14,7 @@ economic_school: "Rational choice economics"
 active_start: 1957
 active_end: 2014
 edges:
-- rel: "belongs_to", target: "Homo Economicus and Rational Choice Economics", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-homo-economicus-rational-choice-economics", target_type: "مدرسة"
 related:
 - id: "sch-homo-economicus-rational-choice-economics", title: "Homo Economicus and Rational Choice Economics", type: "مدرسة"
 gaps: []

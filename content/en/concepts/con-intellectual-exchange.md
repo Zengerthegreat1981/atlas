@@ -11,7 +11,7 @@ active_start: 750
 active_end: 1300
 language: "Arabic"
 edges:
-- rel: "belongs_to", target: "Baghdad Translation Movement (Graeco-Arabic)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-bayt-al-hikma-translation", target_type: "مدرسة"
 related:
 - id: "sch-bayt-al-hikma-translation", title: "Baghdad Translation Movement (Graeco-Arabic)", type: "مدرسة"
 gaps: []

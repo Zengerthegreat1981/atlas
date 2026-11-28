@@ -9,7 +9,7 @@ en: "Tristes Tropiques"
 crumb: "Anthropology ← Works ← Tristes Tropiques"
 dates: "1955 · Lévi-Strauss"
 edges:
-  - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
+  - rel: "belongs_to", target: "fld-anthropology", target_type: "مجال"
 related:
   []
 gaps:

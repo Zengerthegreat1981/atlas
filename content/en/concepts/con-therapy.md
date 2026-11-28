@@ -8,7 +8,7 @@ title: "Therapy"
 en: "Therapy"
 crumb: "Therapy"
 edges:
-  - rel: "discussed_in", target: "Existentialist School", target_type: "مدرسة"
+  - rel: "discussed_in", target: "sch-existentialism", target_type: "مدرسة"
 related:
   - id: "con-authenticity", title: "Authenticity", type: "مفهوم"
   - id: "con-responsibility", title: "Responsibility", type: "مفهوم"

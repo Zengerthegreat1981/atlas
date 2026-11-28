@@ -14,7 +14,7 @@ language: "English, Russian"
 active_start: 1980
 active_end: "مستمر"
 edges:
-- rel: "evolved_from", target: "Cross-Cultural Psychology", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-cross-cultural-psychology", target_type: "مدرسة"
 related:
 - id: "sch-cross-cultural-psychology", title: "Cross-Cultural Psychology", type: "مدرسة"
 - id: "thk-vygotsky", title: "Lev Vygotsky", type: "مفكر"

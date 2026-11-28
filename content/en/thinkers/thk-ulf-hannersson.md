@@ -10,7 +10,7 @@ en: "Ulf Hannerz"
 crumb: "Cosmopolitan Anthropology and Cultural Globalisation ← People ← Ulf Hannerz"
 dates: "Sweden · 1942-"
 edges:
-  - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
+  - rel: "belongs_to", target: "fld-anthropology", target_type: "مجال"
 related:
   []
 gaps:

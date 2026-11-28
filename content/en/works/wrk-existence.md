@@ -9,8 +9,8 @@ en: "Existence: A New Dimension in Psychiatry and Psychology"
 crumb: "Philosophy ← Works ← Existence"
 dates: "1958 · May, Angel and Ellenberger"
 edges:
-  - rel: "written_by", target: "May, Angel and Ellenberger", target_type: "مفكر"
-  - rel: "belongs_to", target: "Existentialist School", target_type: "مدرسة"
+  - rel: "authored_by", target: "May, Angel and Ellenberger", target_type: "مفكر"
+  - rel: "belongs_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
   - id: "thk-may", title: "Rollo May", type: "مفكر"
   - id: "br-humanistic", title: "Existential-Humanistic", type: "تيار"

@@ -16,8 +16,8 @@ language: "English"
 active_start: 1996
 active_end: 2020
 edges:
-- rel: "belongs_to", target: "Anthropological Political Economy", target_type: "مدرسة"
-- rel: "evolved_from", target: "Marshall Sahlins", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-anthropological-political-economy", target_type: "مدرسة"
+- rel: "evolved_from", target: "thk-marshall-sahlins", target_type: "مفكر"
 related:
 - id: "con-gift-economy", title: "Gift Economy", type: "مفهوم"
 - id: "sch-anthropological-political-economy", title: "Global Political Economy and History (Eric Wolf — Europe and the People Without History)", type: "مدرسة"

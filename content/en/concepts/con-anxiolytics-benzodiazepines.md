@@ -12,9 +12,9 @@ active_end: "مستمر"
 language: "English"
 edges:
 - rel: "relates_to", target: "Anxiety", target_type: "مفهوم"
-- rel: "relates_to", target: "Anxiety Neurocircuitry", target_type: "مفهوم"
-- rel: "relates_to", target: "Serotonin Reuptake Inhibitors", target_type: "مفهوم"
-- rel: "relates_to", target: "Exposure Therapy", target_type: "مفهوم"
+- rel: "relates_to", target: "con-anxiety-neurocircuitry", target_type: "مفهوم"
+- rel: "relates_to", target: "con-antidepressants-ssri", target_type: "مفهوم"
+- rel: "relates_to", target: "con-exposure-therapy", target_type: "مفهوم"
 related:
 - id: "con-anxiety", title: "Anxiety", type: "مفهوم"
 - id: "con-anxiety-neurocircuitry", title: "Anxiety Neurocircuitry", type: "مفهوم"

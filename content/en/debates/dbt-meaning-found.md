@@ -9,7 +9,7 @@ title: "Discovered or Created?"
 en: "Discovered or created?"
 crumb: "Existential School ← Debates ← Discovered or Created?"
 edges:
-  - rel: "occurs_within", target: "Existentialist School", target_type: "مدرسة"
+  - rel: "occurs_within", target: "sch-existentialism", target_type: "مدرسة"
 related:
   - id: "br-logotherapy", title: "Logotherapy & Existential Analysis", type: "تيار"
   - id: "thk-frankl", title: "Viktor Frankl: Will to Meaning", type: "مفكر"

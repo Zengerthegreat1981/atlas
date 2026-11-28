@@ -9,7 +9,7 @@ en: "The Raw and the Cooked"
 crumb: "Anthropology ← Works ← The Raw and the Cooked"
 dates: "1964 · Lévi-Strauss"
 edges:
-  - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
+  - rel: "belongs_to", target: "fld-anthropology", target_type: "مجال"
 related: []
 gaps: []
 ---

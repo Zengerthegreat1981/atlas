@@ -13,7 +13,7 @@ part: "psychology"
 active_start: 1913
 active_end: 1958
 edges:
-- rel: "belongs_to", target: "Behaviorism", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-behaviorism", target_type: "مدرسة"
 related:
 - id: "thk-ipavlov", title: "Ivan Pavlov", type: "مفكر"
 - id: "thk-fskinner", title: "B. F. Skinner", type: "مفكر"

@@ -11,7 +11,7 @@ active_start: 1952
 active_end: 1970
 language: "English"
 edges:
-- rel: "belongs_to", target: "Contemporary Arab Intellectual Movements", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-contemporary-arab-movements", target_type: "مدرسة"
 related:
 - id: "sch-contemporary-arab-movements", title: "Contemporary Arab Intellectual Movements", type: "مدرسة"
 gaps: []

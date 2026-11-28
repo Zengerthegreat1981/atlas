@@ -16,9 +16,9 @@ active_end: "مستمر"
 evidence_level: "probably-efficacious"
 cultural_origin: "anglo-american"
 edges:
-- rel: "belongs_to", target: "Systemic and Family Therapy", target_type: "مدرسة"
-- rel: "evolved_from", target: "Post-Structuralism", target_type: "مدرسة"
-- rel: "developed_by", target: "Michael White", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-systemic-family", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-post-structuralism", target_type: "مدرسة"
+- rel: "developed_by", target: "thk-mwhite", target_type: "مفكر"
 - rel: "developed_by", target: "David Epston", target_type: "مفكر"
 related:
 - id: "thk-mwhite", title: "Michael White", type: "مفكر"

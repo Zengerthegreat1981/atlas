@@ -13,7 +13,7 @@ language: "Russian, then French"
 active_start: 1898
 active_end: 1938
 edges:
-  - rel: "belongs_to", target: "Existentialist School", target_type: "مدرسة"
+  - rel: "belongs_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
   - id: "thk-kierkegaard", title: "Søren Kierkegaard", type: "مفكر"
   - id: "thk-berdyaev", title: "Nikolai Berdyaev", type: "مفكر"

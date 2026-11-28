@@ -9,8 +9,8 @@ en: "…trotzdem Ja zum Leben sagen · Man's Search for Meaning"
 crumb: "Existential Philosophy ← Works ← Man's Search for Meaning"
 dates: "1946 · Frankl"
 edges:
-  - rel: "written_by", target: "Frankl", target_type: "مفكر"
-  - rel: "belongs_to", target: "Existentialist School", target_type: "مدرسة"
+  - rel: "authored_by", target: "Frankl", target_type: "مفكر"
+  - rel: "belongs_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
   - id: "thk-frankl", title: "Viktor Frankl: Will to Meaning", type: "مفكر"
   - id: "dbt-meaning-found", title: "Discovered or Created?", type: "جدل"

@@ -9,7 +9,7 @@ title: "Anxiety (Existentialist School View)"
 en: "Anxiety (Existentialist School View)"
 crumb: "Psychology ← Concepts ← Anxiety (Existentialist School View)"
 edges:
-  - rel: "discussed_in", target: "Existentialist School", target_type: "مدرسة"
+  - rel: "discussed_in", target: "sch-existentialism", target_type: "مدرسة"
 related:
   - id: "con-anxiety-existential", title: "Anxiety: Existential, Psychological and Neuroscientific Accounts", type: "مفهوم"
   - id: "con-death", title: "Death", type: "مفهوم"

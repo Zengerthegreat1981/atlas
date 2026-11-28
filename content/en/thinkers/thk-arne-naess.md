@@ -5,6 +5,7 @@ type: "مفكر"
 part: "philosophy"
 register: "academic"
 level: "متقدم"
+quality: "unverified"
 title: "Arne Naess"
 en: "Arne Naess"
 crumb: "Philosophy ← Thinkers ← Arne Naess"
@@ -22,7 +23,7 @@ A Norwegian philosopher (1912–2009), professor at the University of Oslo, and 
 
 ## Life and Context
 
-Arne Dekke Eide Naess was born in Slemdal, Oslo, in 1912. He studied at the University of Oslo, spent time in Vienna in the early 1930s, where he met members of the Vienna Circle, and in Paris, and received his doctorate in 1936. At twenty-seven, in 1939, he was appointed professor of philosophy at Oslo, becoming the youngest holder of such a chair in Norway at the time, and he remained there until 1970, when he retired early in order to devote himself to ecological and political work. During the German occupation of Norway he was involved in the resistance. He was also a dedicated mountaineer who led a first ascent of Tirich Mir in the Hindu Kush in 1950 and who kept a mountain hut, Tvergastein, where he did much of his writing. He died in January 2009.
+Arne Dekke Eide Naess was born in Slemdal, Oslo, in 1912. He studied at the University of Oslo, spent time in Paris and, in 1934–1935, in Vienna, where he had contact with the Vienna Circle, and received his doctorate in 1936. At twenty-seven, in 1939, he was appointed professor of philosophy at Oslo, becoming the youngest holder of such a chair in Norway at the time, and he remained there until 1970, when he retired early in order to devote himself to ecological and political work. During the German occupation of Norway he was involved in the resistance. He was also a dedicated mountaineer who led a first ascent of Tirich Mir in the Hindu Kush in 1950 and who kept a mountain hut, Tvergastein, where he did much of his writing. He died in January 2009.
 
 ## Main Ideas
 

@@ -14,7 +14,7 @@ legal_tradition: "Maliki jurisprudence and its legal theory"
 active_start: 1250
 active_end: 1285
 edges:
-- rel: "belongs_to", target: "Islamic Legal Theory (Usul al-Fiqh)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-usul-al-fiqh-legal-theory", target_type: "مدرسة"
 related:
 - id: "sch-usul-al-fiqh-legal-theory", title: "Islamic Legal Theory (Usul al-Fiqh)", type: "مدرسة"
 - id: "con-qawaid-fiqhiyya-legal-maxims", title: "Qawa'id Fiqhiyya (Legal Maxims)", type: "مفهوم"

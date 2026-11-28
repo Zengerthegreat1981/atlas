@@ -16,7 +16,7 @@ legal_tradition: "Legal positivism"
 active_start: 1934
 active_end: "مستمر"
 edges:
-- rel: "authored_by", target: "Hans Kelsen", target_type: "مفكر"
+- rel: "authored_by", target: "thk-hans-kelsen", target_type: "مفكر"
 related:
 - id: "thk-hans-kelsen", title: "Hans Kelsen", type: "مفكر"
 - id: "con-grundnorm-basic-norm-kelsen", title: "Grundnorm (Basic Norm)", type: "مفهوم"

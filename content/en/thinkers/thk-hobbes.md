@@ -60,7 +60,7 @@ Hobbes's masterwork *Leviathan* was translated into Arabic in a complete scholar
 
 ## Selected quotations
 
-"The life of man [in the state of nature] is solitary, poor, nasty, brutish, and short." (Leviathan, ch. 13)
+"And the life of man, solitary, poor, nasty, brutish, and short." (Leviathan, ch. 13, on the state of nature)
 
 "A general inclination of all mankind, a perpetual and restless desire of power after power, that ceaseth only in death." (Leviathan, ch. 11)
 

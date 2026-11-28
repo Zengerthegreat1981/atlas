@@ -10,7 +10,7 @@ crumb: "Bridges ← Concepts ← Brentano's Intentionality"
 active_start: 1874
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Phenomenology", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-phenomenology", target_type: "مدرسة"
 related:
 - id: "thk-brentano", title: "Franz Brentano", type: "مفكر"
 - id: "thk-husserl", title: "Edmund Husserl", type: "مفكر"

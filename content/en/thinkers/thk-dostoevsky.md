@@ -9,7 +9,7 @@ en: "Fyodor Dostoevsky"
 crumb: "Existentialist School ← People ← Fyodor Dostoevsky"
 dates: "Russia · 1821–1881"
 edges:
-  - rel: "belongs_to", target: "Existentialist School", target_type: "مدرسة"
+  - rel: "belongs_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
   - id: "thk-camus", title: "Albert Camus", type: "مفكر"
   - id: "thk-nietzsche", title: "Nietzsche", type: "مفكر"
@@ -48,7 +48,7 @@ Dostoevsky never systematized his thought into formal philosophy, nor did he des
 
 - Dostoevsky, Fyodor. *Notes from Underground*. Translated by Richard Pevear and Larissa Volokhonsky. New York: Knopf, 1993.
 - Dostoevsky, Fyodor. *Crime and Punishment*. Translated by Richard Pevear and Larissa Volokhonsky. New York: Vintage, 1993.
-- Dostoevsky, Fyodor. *The Brothers Karamazov*. Translated by Richard Pevear and Larissa Volokhonsky. New York: Farrar, Straus and Giroux, 1990.
+- Dostoevsky, Fyodor. *The Brothers Karamazov*. Translated by Richard Pevear and Larissa Volokhonsky. San Francisco: North Point Press, 1990.
 - Bakhtin, Mikhail. *Problems of Dostoevsky's Poetics*. Edited and translated by Caryl Emerson. Minneapolis: University of Minnesota Press, 1984.
 - Frank, Joseph. *Dostoevsky: A Writer in His Time*. Princeton: Princeton University Press, 2010.
 - Kaufmann, Walter (ed.). *Existentialism from Dostoevsky to Sartre*. New York: Meridian Books, 1956.

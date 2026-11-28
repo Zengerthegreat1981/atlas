@@ -17,7 +17,7 @@ active_start: 1985
 active_end: 1985
 crumb: "Religious Studies ← Works ← Holy Anorexia"
 edges:
-- rel: "belongs_to", target: "Comparative Religious Fasting Studies", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-comparative-religious-fasting-studies", target_type: "مدرسة"
 related:
 - id: "sch-comparative-religious-fasting-studies", title: "Comparative Religious Fasting Studies", type: "مدرسة"
 gaps: []

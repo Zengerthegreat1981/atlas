@@ -10,7 +10,7 @@ crumb: "Psychology ← Concepts ← Polyvagal Theory"
 active_start: 1994
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Polyvagal-Informed Therapy", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-polyvagal-informed-therapy", target_type: "مدرسة"
 related:
 - id: "thk-stephen-porges", title: "Stephen W. Porges", type: "مفكر"
 - id: "sch-polyvagal-informed-therapy", title: "Polyvagal-Informed Therapy", type: "مدرسة"

@@ -10,7 +10,7 @@ en: "Nancy Scheper-Hughes"
 crumb: "Anthropology ← Medical Anthropology ← Nancy Scheper-Hughes"
 dates: "USA · 1944-"
 edges:
-  - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
+  - rel: "belongs_to", target: "fld-anthropology", target_type: "مجال"
 related:
   []
 gaps:

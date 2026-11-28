@@ -9,7 +9,7 @@ en: "The Sacred"
 crumb: "Anthropology ← Core Concepts ← The Sacred"
 dates: ""
 edges:
-  - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
+  - rel: "belongs_to", target: "fld-anthropology", target_type: "مجال"
 related:
   - id: "con-profane", title: "The Profane", type: "مفهوم"
   - id: "con-taboo", title: "Taboo", type: "مفهوم"

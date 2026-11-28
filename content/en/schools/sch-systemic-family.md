@@ -14,7 +14,7 @@ active_start: 1952
 active_end: "مستمر"
 cultural_origin: "anglo-american"
 edges:
-- rel: "split_into", target: "Structural Family Therapy", target_type: "تيار"
+- rel: "split_into", target: "br-structural-family", target_type: "تيار"
 - rel: "split_into", target: "Strategic Family Therapy", target_type: "تقنية/تدخل علاجي"
 - rel: "split_into", target: "Bowen Family Systems Theory", target_type: "تيار"
 related:

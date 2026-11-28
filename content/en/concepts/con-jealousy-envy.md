@@ -9,7 +9,7 @@ title: "Jealousy and Envy"
 en: "Jealousy and Envy"
 crumb: "Emotion Psychology ← Concepts ← Jealousy and Envy"
 edges:
-  - rel: "belongs_to", target: "Existentialist School", target_type: "مدرسة"
+  - rel: "belongs_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
   - id: "con-sadness", title: "Sadness", type: "مفهوم"
   - id: "con-shame-guilt", title: "Shame and Guilt", type: "مفهوم"

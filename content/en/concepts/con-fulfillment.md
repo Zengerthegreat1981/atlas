@@ -9,7 +9,7 @@ title: "Fulfillment"
 en: "Fulfillment"
 crumb: "Fulfillment"
 edges:
-  - rel: "discussed_in", target: "Existentialist School", target_type: "مدرسة"
+  - rel: "discussed_in", target: "sch-existentialism", target_type: "مدرسة"
 related:
   - id: "con-authenticity", title: "Authenticity", type: "مفهوم"
   - id: "con-meaninglessness", title: "Meaninglessness", type: "مفهوم"

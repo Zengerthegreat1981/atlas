@@ -16,7 +16,7 @@ cultural_origin: "european"
 active_start: 1883
 active_end: 1965
 edges:
-- rel: "belongs_to", target: "Speculative Philosophy of History (Vico, Hegel, Marx, Toynbee, Spengler)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-speculative-philosophy-of-history", target_type: "مدرسة"
 related:
 - id: "thk-dilthey", title: "Wilhelm Dilthey", type: "مفكر"
 - id: "thk-carl-hempel", title: "Carl Hempel", type: "مفكر"

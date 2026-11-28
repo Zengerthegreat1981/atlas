@@ -8,7 +8,7 @@ title: "Authenticity-Inauthenticity Dialectic"
 en: "Authenticity-Inauthenticity Dialectic"
 crumb: "Psychology ← Concepts ← Authenticity-Inauthenticity Dialectic"
 edges:
-  - rel: "discussed_in", target: "Existentialist School", target_type: "مدرسة"
+  - rel: "discussed_in", target: "sch-existentialism", target_type: "مدرسة"
 related:
   - id: "con-authenticity", title: "Authenticity", type: "مفهوم"
   - id: "con-bad-faith", title: "Bad Faith", type: "مفهوم"

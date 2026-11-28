@@ -9,7 +9,7 @@ en: "Alfred L. Kroeber"
 crumb: "Anthropology ← American School ← Boasian Cultural Relativism ← Alfred L. Kroeber"
 dates: "USA · 1876-1960"
 edges:
-  - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
+  - rel: "belongs_to", target: "fld-anthropology", target_type: "مجال"
 related:
   []
 gaps:

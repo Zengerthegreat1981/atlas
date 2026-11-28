@@ -9,8 +9,8 @@ en: "Zollikoner Seminare"
 crumb: "Philosophy ← Works ← Zollikon Seminars"
 dates: "1959–1969 · Heidegger and Boss"
 edges:
-  - rel: "written_by", target: "Heidegger and Boss", target_type: "مفكر"
-  - rel: "belongs_to", target: "Existentialist School", target_type: "مدرسة"
+  - rel: "authored_by", target: "Heidegger and Boss", target_type: "مفكر"
+  - rel: "belongs_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
   - id: "thk-boss", title: "Medard Boss", type: "مفكر"
   - id: "thk-heidegger", title: "Martin Heidegger", type: "مفكر"

@@ -53,5 +53,5 @@ Within India, Hindu schools such as Nyaya and Vedanta criticized the denial of a
 - Gethin, Rupert, *The Foundations of Buddhism*, Oxford: Oxford University Press, 1998.
 - Gombrich, Richard, *What the Buddha Thought*, London: Equinox, 2009.
 - Harvey, Peter, *An Introduction to Buddhism: Teachings, History and Practices*, Cambridge: Cambridge University Press, 1990.
-- Bodhi, Bhikkhu (trans.), *The Middle Length Discourses of the Buddha*, Boston: Wisdom Publications, 1995.
+- Ñāṇamoli, Bhikkhu, and Bhikkhu Bodhi (trans.), *The Middle Length Discourses of the Buddha*, Boston: Wisdom Publications, 1995.
 - Rahula, Walpola, *What the Buddha Taught*, London: Gordon Fraser, 1959.

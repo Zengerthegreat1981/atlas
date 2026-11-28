@@ -15,7 +15,7 @@ legal_tradition: "Comparative Law"
 active_start: 1950
 active_end: 1990
 edges:
-- rel: "belongs_to", target: "Civil Law Tradition", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-civil-law-tradition", target_type: "مدرسة"
 related:
 - id: "sch-civil-law-tradition", title: "Civil Law Tradition (Romano-Germanic)", type: "مدرسة"
 - id: "con-legal-families-comparative-law", title: "Legal Families", type: "مفهوم"

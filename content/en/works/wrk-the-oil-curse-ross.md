@@ -14,7 +14,7 @@ economic_school: "Rentier state theory"
 active_start: 2012
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Rentier State Theory", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-rentier-state-theory", target_type: "مدرسة"
 related:
 - id: "sch-rentier-state-theory", title: "Rentier State Theory", type: "مدرسة"
 - id: "dbt-dutch-disease-and-resource-curse", title: "Dutch Disease and the Resource Curse", type: "جدل"

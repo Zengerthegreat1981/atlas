@@ -14,7 +14,7 @@ active_end: "مستمر"
 language: "German"
 edges:
 - rel: "belongs_to", target: "Psychoanalysis", target_type: "مدرسة"
-- rel: "developed_by", target: "Carl Gustav Jung", target_type: "مفكر"
+- rel: "developed_by", target: "thk-jung", target_type: "مفكر"
 related:
 - id: "thk-jung", title: "Carl Gustav Jung", type: "مفكر"
 - id: "thk-hillman", title: "James Hillman", type: "مفكر"

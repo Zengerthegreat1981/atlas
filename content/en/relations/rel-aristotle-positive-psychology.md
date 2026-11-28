@@ -10,8 +10,8 @@ crumb: "Bridges ← Relations ← Aristotelian Ethics and Positive Psychology: E
 active_start: 2000
 active_end: "مستمر"
 edges:
-  - rel: "relates_to", target: "Peripatetic / Aristotelianism", target_type: "مدرسة"
-  - rel: "relates_to", target: "Positive Psychology", target_type: "مدرسة"
+  - rel: "relates_to", target: "sch-aristotelianism", target_type: "مدرسة"
+  - rel: "relates_to", target: "sch-positive-psychology", target_type: "مدرسة"
 related:
   - id: "sch-aristotelianism", title: "Peripatetic / Aristotelianism", type: "مدرسة"
   - id: "thk-aristotle", title: "Aristotle", type: "مفكر"

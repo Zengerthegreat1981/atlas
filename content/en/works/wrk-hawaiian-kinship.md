@@ -9,7 +9,7 @@ en: "Hawaiian Kinship Systems"
 crumb: "Hawaiian and Polynesian Kinship"
 dates: "Hawaiian kinship in anthropological theory"
 edges:
-  - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
+  - rel: "belongs_to", target: "fld-anthropology", target_type: "مجال"
 related:
   - id: "wrk-elementary-structures", title: "The Elementary Structures of Kinship", type: "عمل"
 sources:

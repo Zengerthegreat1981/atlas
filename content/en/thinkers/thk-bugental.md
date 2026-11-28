@@ -10,7 +10,7 @@ en: "James Bugental"
 crumb: "Existential Psychotherapy ← People ← James Bugental"
 dates: "United States · 1915–2008"
 edges:
-  - rel: "belongs_to", target: "Existentialist School", target_type: "مدرسة"
+  - rel: "belongs_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
   - id: "br-humanistic", title: "The American Current", type: "تيار"
 gaps: []

@@ -10,8 +10,8 @@ crumb: "Psychology ← Concepts ← Attention"
 active_start: 1890
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Cognitive Behavioral Therapy (CBT)", target_type: "مدرسة"
-- rel: "relates_to", target: "Cognitive Neuroscience", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-cognitive-neuroscience", target_type: "مدرسة"
 related:
 - id: "thk-james", title: "William James", type: "مفكر"
 - id: "dis-adhd", title: "Attention-Deficit/Hyperactivity Disorder", type: "اضطراب/حالة إكلينيكية"

@@ -37,7 +37,7 @@ related:
   - id: "con-moral-luck-concept", title: "Concept of Moral Luck", type: "مفهوم"
   - id: "con-habit-character-formation", title: "Habit & Character Formation", type: "مفهوم"
   - id: "con-freedom-choice-ethics", title: "Freedom & Choice", type: "مفهوم"
-  - id: "wrk-nicomachean-ethics-aristotle", title: "Nicomachean Ethics", type: "عمل / كتاب"
+  - id: "wrk-nicomachean-ethics", title: "Aristotle's Nicomachean Ethics", type: "عمل / كتاب"
   - id: "wrk-groundwork-kant", title: "Groundwork for the Metaphysics of Morals", type: "عمل / كتاب"
   - id: "wrk-stakeholder-capitalism", title: "Stakeholder Capitalism", type: "عمل / كتاب"
   - id: "wrk-virtues-professions", title: "The Virtues in the Professions", type: "عمل / كتاب"

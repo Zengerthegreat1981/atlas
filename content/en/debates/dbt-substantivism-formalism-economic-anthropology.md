@@ -11,7 +11,7 @@ crumb: "Anthropology ← Debates ← The Substantivist–Formalist Debate in Eco
 active_start: 1957
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Anthropological Political Economy", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-anthropological-political-economy", target_type: "مدرسة"
 related:
 - id: "sch-anthropological-political-economy", title: "Anthropological Political Economy (Eric Wolf — Europe and the People Without History)", type: "مدرسة"
 - id: "thk-marshall-sahlins", title: "Marshall Sahlins", type: "مفكر"

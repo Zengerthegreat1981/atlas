@@ -14,7 +14,7 @@ economic_school: "Development economics"
 active_start: 1999
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Development Economics", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-development-economics", target_type: "مدرسة"
 related:
 - id: "sch-development-economics", title: "Development Economics", type: "مدرسة"
 - id: "thk-abhijit-banerjee", title: "Abhijit Banerjee", type: "مفكر"

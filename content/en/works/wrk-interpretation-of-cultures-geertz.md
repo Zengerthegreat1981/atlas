@@ -9,8 +9,8 @@ en: "The Interpretation of Cultures"
 crumb: "Geertz · Thick Description"
 dates: "1973 · Geertz"
 edges:
-  - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
-  - rel: "written_by", target: "Geertz", target_type: "مفكر"
+  - rel: "belongs_to", target: "fld-anthropology", target_type: "مجال"
+  - rel: "authored_by", target: "Geertz", target_type: "مفكر"
 related: []
 sources:
   - Geertz, Clifford. The Interpretation of Cultures: Selected Essays. Basic Books, 1973.

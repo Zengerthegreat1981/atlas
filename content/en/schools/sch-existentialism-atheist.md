@@ -4,6 +4,7 @@ id: "SCH-0103"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"
+quality: "unverified"
 title: "Atheist Existentialism"
 en: "Atheist Existentialism"
 crumb: "Philosophy ← Schools ← Atheist Existentialism"
@@ -14,7 +15,7 @@ language: "French"
 active_start: 1943
 active_end: 1980
 edges:
-- rel: "belongs_to", target: "Existentialism", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
 - id: "sch-existentialism", title: "Existentialism", type: "مدرسة"
 - id: "con-will-to-power", title: "The Will to Power (Wille zur Macht)", type: "مفهوم"

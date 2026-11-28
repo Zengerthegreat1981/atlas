@@ -14,7 +14,7 @@ legal_tradition: "Interest Jurisprudence / Civil Law Tradition"
 active_start: 1852
 active_end: 1892
 edges:
-- rel: "belongs_to", target: "Law and Society Studies", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-law-society-studies", target_type: "مدرسة"
 related:
 - id: "sch-law-society-studies", title: "Law and Society Studies", type: "مدرسة"
 - id: "thk-oliver-wendell-holmes-jr", title: "Oliver Wendell Holmes Jr.", type: "مفكر"

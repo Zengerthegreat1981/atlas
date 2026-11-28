@@ -9,7 +9,7 @@ title: "Sisyphus: The Metaphor of the Absurd and Persistent Revolt"
 en: "Sisyphus: The Metaphor of the Absurd and Persistent Revolt"
 crumb: "Existential Philosophy ← Metaphors ← Sisyphus: The Metaphor of the Absurd and Persistent Revolt"
 edges:
-  - rel: "relates_to", target: "Existentialist School", target_type: "مدرسة"
+  - rel: "relates_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
   - id: "con-absurd", title: "The Absurd: Collision Without Resolution", type: "مفهوم"
   - id: "thk-camus", title: "Albert Camus: The Absurd and Revolt", type: "مفكر"

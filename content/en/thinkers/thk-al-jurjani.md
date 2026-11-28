@@ -13,8 +13,8 @@ language: "Arabic"
 active_start: 1030
 active_end: 1078
 edges:
-- rel: "belongs_to", target: "Arabic Rhetorical Sciences", target_type: "مدرسة"
-- rel: "belongs_to", target: "Classical Arabic Grammatical Tradition", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-arabic-rhetorical-sciences", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-arabic-grammatical-tradition", target_type: "مدرسة"
 related:
 - id: "sch-arabic-rhetorical-sciences", title: "Arabic Rhetorical Sciences: Meaning, Figurative Expression and Embellishment", type: "مدرسة"
 - id: "sch-arabic-grammatical-tradition", title: "The Classical Arabic Grammatical and Linguistic Tradition", type: "مدرسة"

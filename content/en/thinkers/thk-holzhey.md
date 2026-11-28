@@ -4,16 +4,17 @@ id: "THK-0116"
 type: "مفكر"
 part: philosophy
 level: "متقدم"
+quality: "unverified"
 title: "Alice Holzhey-Kunz"
 en: "Alice Holzhey-Kunz"
 crumb: "Existential Philosophy ← People ← Alice Holzhey-Kunz"
-dates: "Switzerland · born 1943"
+dates: "Switzerland · 1943–2026"
 country: "Switzerland"
 language: "German"
 active_start: 1983
 active_end: 2026
 edges:
-  - rel: "belongs_to", target: "Existentialist School", target_type: "مدرسة"
+  - rel: "belongs_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
   - id: "br-daseins", title: "Existential Analysis (Daseinsanalysis)", type: "تيار"
 gaps: []
@@ -21,13 +22,13 @@ gaps: []
 
 # Alice Holzhey-Kunz
 
-Alice Holzhey-Kunz (born 1943) is a Swiss philosopher, psychoanalyst, and Daseinsanalyst. Trained in Zurich, she is a prominent contemporary voice in existential analysis (*Daseinsanalyse*). Her work represents a systematic renewal of Daseinsanalysis that synthesizes Martin Heidegger's fundamental ontology with Sigmund Freud's clinical discoveries, offering a distinct hermeneutic paradigm for understanding psychopathology.
+Alice Holzhey-Kunz (1943–2026) was a Swiss philosopher, psychoanalyst, and Daseinsanalyst. Trained in Zurich, she was a prominent voice in existential analysis (*Daseinsanalyse*). Her work represents a systematic renewal of Daseinsanalysis that synthesizes Martin Heidegger's fundamental ontology with Sigmund Freud's clinical discoveries, offering a distinct hermeneutic paradigm for understanding psychopathology.
 
 ## Background and Formation
 
 Daseinsanalysis originated in the mid-twentieth century through the pioneering work of Swiss psychiatrists Ludwig Binswanger and Medard Boss, who applied the ontological insights of Heidegger's *Being and Time* (1927) to clinical psychiatry. Boss subsequently collaborated closely with Heidegger during the Zollikon Seminars (1959–1969). 
 
-Holzhey-Kunz studied philosophy and history in Zurich, completing her doctorate, and then completed clinical training in Daseinsanalysis in Zurich. She has been associated with the Daseinsanalytic Seminar (*Daseinsanalytisches Seminar*) in Zurich and with the Society for Hermeneutic Anthropology and Daseinsanalysis (*Gesellschaft für hermeneutische Anthropologie und Daseinsanalyse*).
+Holzhey-Kunz studied philosophy and history in Zurich, completing her doctorate, and then completed clinical training in Daseinsanalysis in Zurich. She was associated with the Daseinsanalytic Seminar (*Daseinsanalytisches Seminar*) in Zurich and with the Society for Hermeneutic Anthropology and Daseinsanalysis (*Gesellschaft für hermeneutische Anthropologie und Daseinsanalyse*). She died during the night of 12–13 November 2026.
 
 ## Theoretical Contributions: Suffering from Existence
 
@@ -41,13 +42,13 @@ Holzhey-Kunz's framework shifts the clinical posture in existential psychotherap
 
 ## Major Works
 
-- *Leiden am Dasein: Die Daseinsanalyse und das Problem der psychischen Krankheit* (Vienna: Passagen Verlag, 1994; revised edition 2014).
-- *Das Subjekt in der Kur: Über philosophische Grundlagen der Psychoanalyse* (Vienna: Passagen Verlag, 2002).
-- *Daseinsanalysis* (English translation by Sophie Wennerscheid, London: Free Association Books, 2014).
+- *Leiden am Dasein: Die Daseinsanalyse und die Aufgabe einer Hermeneutik psychopathologischer Phänomene* (Vienna: Passagen Verlag, 1994; second, revised edition 2001).
+- *Das Subjekt in der Kur: Über die Bedingungen psychoanalytischer Psychotherapie* (Vienna: Passagen Verlag, 2002).
+- *Daseinsanalysis* (English translation by Sophie Leighton, London: Free Association Books, 2014).
 
 ## Sources
 
-- Holzhey-Kunz, Alice, *Daseinsanalysis*, trans. Sophie Wennerscheid, London: Free Association Books, 2014.
-- Holzhey-Kunz, Alice, *Leiden am Dasein: Die Wiederentdeckung der Daseinsanalyse für die Psychotherapie*, Vienna: Passagen Verlag, 2014.
+- Holzhey-Kunz, Alice, *Daseinsanalysis*, trans. Sophie Leighton, London: Free Association Books, 2014.
+- Holzhey-Kunz, Alice, *Leiden am Dasein: Die Daseinsanalyse und die Aufgabe einer Hermeneutik psychopathologischer Phänomene*, 2nd rev. ed., Vienna: Passagen Verlag, 2001.
 - Boss, Medard, *Psychoanalyse und Daseinsanalytik*, Bern: Hans Huber, 1957.
 - Heidegger, Martin, *Zollikon Seminars: Protocols—Conversations—Letters*, ed. Medard Boss, trans. Franz Mayr and Richard Askay, Evanston: Northwestern University Press, 2001.

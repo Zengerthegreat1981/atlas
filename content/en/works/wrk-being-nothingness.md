@@ -9,8 +9,8 @@ en: "L'Être et le Néant · Being and Nothingness"
 crumb: "Existential Philosophy ← Works ← Being and Nothingness"
 dates: "1943 · Sartre"
 edges:
-  - rel: "written_by", target: "Sartre", target_type: "مفكر"
-  - rel: "belongs_to", target: "Existentialist School", target_type: "مدرسة"
+  - rel: "authored_by", target: "Sartre", target_type: "مفكر"
+  - rel: "belongs_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
   - id: "thk-sartre", title: "Jean-Paul Sartre", type: "مفكر"
   - id: "thk-heidegger", title: "Martin Heidegger", type: "مفكر"

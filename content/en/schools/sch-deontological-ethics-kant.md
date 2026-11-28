@@ -15,7 +15,7 @@ active_end: "مستمر"
 active_source: "lifespan"
 cultural_origin: "western"
 edges:
-- rel: "belongs_to", target: "Critical Kantianism", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-kant-critical", target_type: "مدرسة"
 related:
 - id: "thk-kant", title: "Immanuel Kant", type: "مفكر"
 - id: "sch-kant-critical", title: "Critical Kantianism", type: "مدرسة"

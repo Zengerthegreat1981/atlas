@@ -11,7 +11,7 @@ crumb: "Linguistics ← Studies ← Labov's Department Store Study (New York Cit
 active_start: 1962
 active_end: 1966
 edges:
-- rel: "belongs_to", target: "Labovian Variationist Sociolinguistics", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-variationist-sociolinguistics", target_type: "مدرسة"
 related:
 - id: "thk-william-labov", title: "William Labov", type: "مفكر"
 - id: "sch-variationist-sociolinguistics", title: "Labovian Variationist Sociolinguistics", type: "مدرسة"

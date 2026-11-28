@@ -9,7 +9,7 @@ en: "Albert Camus"
 crumb: "Existentialism ← Thinkers ← Albert Camus"
 dates: "Algeria / France · 1913–1960"
 edges:
-  - rel: "belongs_to", target: "Existentialist School", target_type: "مدرسة"
+  - rel: "belongs_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
   - id: "con-meaning", title: "Meaning and Meaninglessness", type: "مفهوم"
   - id: "con-absurd", title: "The Absurd", type: "مفهوم"

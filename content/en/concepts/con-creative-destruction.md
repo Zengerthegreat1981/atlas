@@ -11,7 +11,7 @@ economic_school: "Schumpeterian evolutionary economics"
 active_start: 1942
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Schumpeterian Evolutionary Economics", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-schumpeterian-evolutionary-economics", target_type: "مدرسة"
 related:
 - id: "sch-schumpeterian-evolutionary-economics", title: "Schumpeterian Evolutionary Economics", type: "مدرسة"
 - id: "thk-joseph-schumpeter", title: "Joseph Schumpeter", type: "مفكر"

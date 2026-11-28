@@ -15,7 +15,7 @@ legal_tradition: "Historical school of law / civil law tradition"
 active_start: 1803
 active_end: 1861
 edges:
-- rel: "belongs_to", target: "Civil Law Tradition", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-civil-law-tradition", target_type: "مدرسة"
 related:
 - id: "sch-civil-law-tradition", title: "Civil Law Tradition", type: "مدرسة"
 - id: "thk-georg-jellinek", title: "Georg Jellinek", type: "مفكر"

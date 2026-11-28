@@ -4,12 +4,13 @@ id: "THK-0307"
 type: "مفكر"
 part: philosophy
 level: "متقدم"
+quality: "unverified"
 title: "Emmanuel Levinas"
 en: "Emmanuel Levinas"
 crumb: "Existential Philosophy ← People ← Emmanuel Levinas"
 dates: "France/Lithuania · 1906–1995"
 edges:
-  - rel: "belongs_to", target: "Existentialist School", target_type: "مدرسة"
+  - rel: "belongs_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
   - id: "thk-sartre", title: "Jean-Paul Sartre", type: "مفكر"
   - id: "dbt-individualism", title: "The Individualism Critique", type: "جدل"

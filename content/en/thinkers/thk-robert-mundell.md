@@ -14,7 +14,7 @@ economic_school: "Open-economy macroeconomics / optimum currency areas"
 active_start: 1957
 active_end: 2021
 edges:
-- rel: "belongs_to", target: "Neoclassical-Keynesian Synthesis", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-neoclassical-keynesian-synthesis", target_type: "مدرسة"
 related:
 - id: "sch-neoclassical-keynesian-synthesis", title: "Neoclassical-Keynesian Synthesis", type: "مدرسة"
 gaps: []

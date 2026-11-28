@@ -10,7 +10,7 @@ crumb: "Linguistics ← Debates ← Fusha vs. ʿAmmiyya"
 active_start: 1880
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Sociolinguistics", target_type: "فرع"
+- rel: "belongs_to", target: "br-sociolinguistics", target_type: "فرع"
 related:
 - id: "br-sociolinguistics", title: "Sociolinguistics: Language in Its Social Context", type: "فرع"
 - id: "br-arabic-dialectology", title: "Arabic Dialectology: The Geographic Diversity of the Arabic Tongue", type: "فرع"

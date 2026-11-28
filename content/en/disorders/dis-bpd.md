@@ -13,7 +13,7 @@ active_end: "مستمر"
 language: "Multilingual"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "Dialectical Behavior Therapy (DBT)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-dbt", target_type: "مدرسة"
 related:
 - id: "thk-mlinehan", title: "Marsha Linehan", type: "مفكر"
 - id: "con-false-self-vs-true-self", title: "The False Self versus the True Self", type: "مفهوم"

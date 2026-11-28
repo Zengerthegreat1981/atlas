@@ -10,7 +10,7 @@ en: "Ritual"
 crumb: "Anthropology ← Core Concepts ← Ritual"
 dates: ""
 edges:
-  - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
+  - rel: "belongs_to", target: "fld-anthropology", target_type: "مجال"
 related:
   - id: "con-performance", title: "Performance", type: "مفهوم"
   - id: "con-liminality", title: "Liminality", type: "مفهوم"

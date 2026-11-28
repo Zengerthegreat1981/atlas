@@ -10,7 +10,7 @@ crumb: "Psychology ← Concepts ← Attachment Styles"
 active_start: 1969
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Attachment Theory", target_type: "تيار"
+- rel: "belongs_to", target: "br-attachment-theory", target_type: "تيار"
 related:
 - id: "thk-bowlby", title: "John Bowlby", type: "مفكر"
 - id: "thk-ainsworth", title: "Mary Ainsworth", type: "مفكر"

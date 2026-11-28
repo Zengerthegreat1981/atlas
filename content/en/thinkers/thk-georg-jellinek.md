@@ -14,7 +14,7 @@ legal_tradition: "Theory of the state and German public law"
 active_start: 1878
 active_end: 1911
 edges:
-- rel: "belongs_to", target: "Constitutional Law Theory", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-constitutional-law-theory", target_type: "مدرسة"
 related:
 - id: "sch-constitutional-law-theory", title: "Constitutional Law Theory", type: "مدرسة"
 - id: "con-legal-personality", title: "Legal Personality", type: "مفهوم"

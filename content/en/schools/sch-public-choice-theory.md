@@ -15,7 +15,7 @@ policy_orientation: "Classical-liberal and skeptical of the state: applying the 
 active_start: 1962
 active_end: "مستمر"
 edges:
-- rel: "evolved_from", target: "Austrian School of Economics", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-austrian-school-of-economics", target_type: "مدرسة"
 related:
 - id: "thk-james-m-buchanan", title: "James M. Buchanan", type: "مفكر"
 - id: "wrk-the-calculus-of-consent-buchanan-tullock", title: "The Calculus of Consent", type: "عمل / كتاب"

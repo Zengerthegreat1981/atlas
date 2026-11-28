@@ -11,7 +11,7 @@ economic_school: "New Institutional Economics"
 active_start: 1966
 active_end: 1970
 edges:
-- rel: "belongs_to", target: "New Institutional Economics", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-new-institutional-economics", target_type: "مدرسة"
 related: []
 study_year: 1970
 design: "A theoretical analytical model (not a field experiment) built on the example of the used-car market to illustrate the effect of information asymmetry between seller and buyer on market efficiency"

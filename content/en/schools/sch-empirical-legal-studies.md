@@ -14,7 +14,7 @@ legal_tradition: "Empirical legal studies"
 active_start: 2000
 active_end: "مستمر"
 edges:
-- rel: "evolved_from", target: "American Legal Realism", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-american-legal-realism", target_type: "مدرسة"
 related:
 - id: "sch-american-legal-realism", title: "American Legal Realism", type: "مدرسة"
 - id: "sch-law-and-economics", title: "Law and Economics", type: "مدرسة"

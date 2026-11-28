@@ -11,7 +11,7 @@ economic_school: "Classical Theories of Imperialism"
 active_start: 1972
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Classical Theories of Imperialism", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-classical-theories-of-imperialism", target_type: "مدرسة"
 related:
 - id: "sch-classical-theories-of-imperialism", title: "Classical Theories of Imperialism", type: "مدرسة"
 - id: "thk-samir-amin", title: "Samir Amin", type: "مفكر"

@@ -13,7 +13,7 @@ active_end: 2018
 part: "psychology"
 crumb: "Psychology ← Thinkers ← Diana Baumrind"
 edges:
-- rel: "belongs_to", target: "Developmental Psychology", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-developmental", target_type: "مدرسة"
 related: []
 gaps: []
 ---

@@ -10,7 +10,7 @@ crumb: "Philosophy ← Concepts ← Thinking Substance and Extended Substance (R
 active_start: 1641
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Cartesianism", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cartesianism", target_type: "مدرسة"
 related:
 - id: "thk-descartes", title: "René Descartes", type: "مفكر"
 - id: "sch-cartesianism", title: "Cartesianism", type: "مدرسة"

@@ -15,7 +15,7 @@ policy_orientation: "Quantitative analytical: linking the general price level an
 active_start: 1898
 active_end: "مستمر"
 edges:
-- rel: "evolved_from", target: "Classical Political Economy", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-classical-political-economy", target_type: "مدرسة"
 related:
 - id: "sch-classical-political-economy", title: "Classical Political Economy", type: "مدرسة"
 - id: "sch-monetarism-chicago-school", title: "Monetarism and the Chicago School", type: "مدرسة"

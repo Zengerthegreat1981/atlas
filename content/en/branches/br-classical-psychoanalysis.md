@@ -14,7 +14,7 @@ language: "German"
 part: "psychology"
 edges:
 - rel: "belongs_to", target: "Psychoanalysis", target_type: "مدرسة"
-- rel: "developed_by", target: "Sigmund Freud", target_type: "مفكر"
+- rel: "developed_by", target: "thk-freud", target_type: "مفكر"
 related:
 - id: "thk-freud", title: "Sigmund Freud", type: "مفكر"
 - id: "thk-rank", title: "Otto Rank", type: "مفكر"

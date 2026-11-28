@@ -10,7 +10,7 @@ title: "Standard Language Ideology"
 en: "Standard Language Ideology"
 crumb: "Linguistics ← Concepts ← Standard Language Ideology"
 edges:
-- rel: "belongs_to", target: "Language Ideology", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-language-ideology", target_type: "مدرسة"
 related:
 - id: "sch-language-ideology", title: "Language Ideology", type: "مدرسة"
 - id: "sch-variationist-sociolinguistics", title: "Labovian Variationist Sociolinguistics", type: "مدرسة"

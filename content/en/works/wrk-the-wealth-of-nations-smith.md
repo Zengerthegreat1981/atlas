@@ -16,7 +16,7 @@ active_start: 1776
 active_end: "مستمر"
 edges:
 - rel: "authored_by", target: "Adam Smith", target_type: "مفكر"
-- rel: "belongs_to", target: "Classical Political Economy", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-classical-political-economy", target_type: "مدرسة"
 related:
 - id: "sch-classical-political-economy", title: "Classical Political Economy", type: "مدرسة"
 - id: "thk-david-ricardo", title: "David Ricardo", type: "مفكر"

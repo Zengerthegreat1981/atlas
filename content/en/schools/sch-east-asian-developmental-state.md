@@ -15,7 +15,7 @@ policy_orientation: "Interventionist and directive: a strong industrial bureaucr
 active_start: 1950
 active_end: "مستمر"
 edges:
-- rel: "evolved_from", target: "Development Economics", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-development-economics", target_type: "مدرسة"
 related:
 - id: "dbt-developmental-state-industrial-policy", title: "Developmental State and Industrial Policy", type: "جدل"
 gaps: []

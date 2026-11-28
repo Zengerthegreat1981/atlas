@@ -16,7 +16,7 @@ active_start: 1941
 active_end: 1977
 active_source: "lifespan"
 edges:
-- rel: "belongs_to", target: "Modern Arabic Linguistics", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-modern-arabic-linguistics", target_type: "مدرسة"
 related:
 - id: "thk-tammam-hassan", title: "Tammam Hassan", type: "مفكر"
 - id: "sch-modern-arabic-linguistics", title: "Modern Arabic Linguistics", type: "مدرسة"

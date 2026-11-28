@@ -15,7 +15,7 @@ active_start: 1932
 active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "Psychoanalysis", target_type: "مدرسة"
-- rel: "founded_by", target: "Melanie Klein", target_type: "مفكر"
+- rel: "founded_by", target: "thk-klein", target_type: "مفكر"
 - rel: "founded_by", target: "W. R. D. Fairbairn", target_type: "مفكر"
 related:
 - id: "thk-klein", title: "Melanie Klein", type: "مفكر"

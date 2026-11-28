@@ -15,7 +15,7 @@ policy_orientation: "Interventionist and protectionist: support for emerging ind
 active_start: 1843
 active_end: 1917
 edges:
-- rel: "evolved_from", target: "Classical Political Economy", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-classical-political-economy", target_type: "مدرسة"
 related:
 - id: "thk-carl-menger", title: "Carl Menger", type: "مفكر"
 gaps: []

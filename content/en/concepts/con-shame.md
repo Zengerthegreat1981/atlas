@@ -8,7 +8,7 @@ title: "Shame (Existential Perspective)"
 en: "Shame (Existential Perspective)"
 crumb: "Psychology ← Concepts ← Shame (Existential Perspective)"
 edges:
-  - rel: "discussed_in", target: "Existentialist School", target_type: "مدرسة"
+  - rel: "discussed_in", target: "sch-existentialism", target_type: "مدرسة"
 related:
   - id: "con-shame-guilt", title: "Shame and Guilt", type: "مفهوم"
   - id: "con-authenticity", title: "Authenticity", type: "مفهوم"

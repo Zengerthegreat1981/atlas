@@ -9,7 +9,7 @@ en: "Tell My Horse: Voodoo and Life in Haiti and Jamaica"
 crumb: "Anthropology ← Works ← Tell My Horse"
 dates: "1938 · Hurston"
 edges:
-  - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
+  - rel: "belongs_to", target: "fld-anthropology", target_type: "مجال"
 related:
   []
 gaps: []

@@ -14,7 +14,7 @@ dates: "Published 1996"
 active_start: 1996
 active_end: 1996
 edges:
-- rel: "belongs_to", target: "Cognitive Science of Religion", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-science-of-religion", target_type: "مدرسة"
 related:
 - id: "thk-justin-barrett", title: "Justin Barrett", type: "مفكر"
 - id: "sch-cognitive-science-of-religion", title: "Cognitive Science of Religion", type: "مدرسة"

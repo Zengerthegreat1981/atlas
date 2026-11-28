@@ -9,8 +9,8 @@ en: "Argonauts of the Western Pacific"
 crumb: "Anthropology ← Works ← Argonauts of the Western Pacific"
 dates: "1922 · Malinowski"
 edges:
-  - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
-  - rel: "written_by", target: "Malinowski", target_type: "مفكر"
+  - rel: "belongs_to", target: "fld-anthropology", target_type: "مجال"
+  - rel: "authored_by", target: "Malinowski", target_type: "مفكر"
 related:
   []
 gaps: []

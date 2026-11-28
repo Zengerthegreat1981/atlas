@@ -10,7 +10,7 @@ title: "Conversational Implicature"
 en: "Conversational Implicature"
 crumb: "Linguistics ← Concepts ← Conversational Implicature"
 edges:
-- rel: "belongs_to", target: "Gricean Pragmatics", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-gricean-pragmatics", target_type: "مدرسة"
 related:
 - id: "sch-gricean-pragmatics", title: "Gricean Pragmatics", type: "مدرسة"
 gaps: []

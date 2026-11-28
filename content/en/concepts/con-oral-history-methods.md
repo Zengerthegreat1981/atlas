@@ -11,7 +11,7 @@ active_start: 1948
 active_end: "مستمر"
 cultural_origin: null
 edges:
-- rel: "belongs_to", target: "Annales and Aggregate Social History", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-annales-social-history-aggregate", target_type: "مدرسة"
 related:
 - id: "sch-annales-social-history-aggregate", title: "Annales and Aggregate Social History", type: "مدرسة"
 - id: "wrk-histories-herodotus", title: "Histories of Herodotus", type: "عمل / كتاب"

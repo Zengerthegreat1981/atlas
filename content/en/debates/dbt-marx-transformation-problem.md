@@ -11,7 +11,7 @@ economic_school: "Marx's critique of political economy"
 active_start: 1894
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Marx's Critique of Political Economy", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-marx-critique-of-political-economy", target_type: "مدرسة"
 related:
 - id: "con-labour-theory-of-value", title: "The Labour Theory of Value", type: "مفهوم"
 - id: "thk-piero-sraffa", title: "Piero Sraffa", type: "مفكر"

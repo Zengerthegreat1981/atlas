@@ -13,7 +13,7 @@ birth_country: "United States"
 active_start: 1851
 active_end: 1881
 edges:
-- rel: "belongs_to", target: "Classical Evolutionary Anthropology", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-classical-evolutionism", target_type: "مدرسة"
 related:
 - id: "sch-classical-evolutionism", title: "Classical Evolutionary Anthropology", type: "مدرسة"
 gaps: []

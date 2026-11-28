@@ -13,8 +13,8 @@ language: "English"
 edges:
 - rel: "belongs_to", target: "Cultural Psychiatry", target_type: "مدرسة"
 - rel: "relates_to", target: "The Discredited and the Discreditable", target_type: "مفهوم"
-- rel: "relates_to", target: "Community Mental Health", target_type: "مفهوم"
-- rel: "relates_to", target: "Mental Health and Human Rights", target_type: "مفهوم"
+- rel: "relates_to", target: "con-community-mental-health", target_type: "مفهوم"
+- rel: "relates_to", target: "con-mental-health-human-rights", target_type: "مفهوم"
 related:
 - id: "sch-cultural-psychiatry", title: "Cultural (Transcultural) Psychiatry", type: "مدرسة"
 - id: "con-community-mental-health", title: "Community Mental Health", type: "مفهوم"

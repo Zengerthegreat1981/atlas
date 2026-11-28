@@ -11,11 +11,11 @@ active_start: 1951
 active_end: "مستمر"
 language: "English"
 edges:
-- rel: "belongs_to", target: "Developmental Child Psychiatry", target_type: "مدرسة"
-- rel: "relates_to", target: "John Bowlby", target_type: "مفكر"
-- rel: "relates_to", target: "Attachment Styles", target_type: "مفهوم"
-- rel: "relates_to", target: "Secure Attachment", target_type: "مفهوم"
-- rel: "relates_to", target: "Mentalization", target_type: "مفهوم"
+- rel: "belongs_to", target: "sch-developmental-child-psychiatry", target_type: "مدرسة"
+- rel: "relates_to", target: "thk-bowlby", target_type: "مفكر"
+- rel: "relates_to", target: "con-attachment-styles", target_type: "مفهوم"
+- rel: "relates_to", target: "con-secure-attachment", target_type: "مفهوم"
+- rel: "relates_to", target: "con-mentalization", target_type: "مفهوم"
 related:
 - id: "sch-developmental-child-psychiatry", title: "Developmental Child Psychiatry", type: "مدرسة"
 - id: "thk-bowlby", title: "John Bowlby", type: "مفكر"

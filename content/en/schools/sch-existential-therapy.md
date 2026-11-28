@@ -14,8 +14,8 @@ language: "German, English, French, Dutch"
 active_start: 1930
 active_end: "مستمر"
 edges:
-- rel: "evolved_from", target: "Existentialism", target_type: "مدرسة"
-- rel: "evolved_from", target: "Phenomenology", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-existentialism", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-phenomenology", target_type: "مدرسة"
 related:
 - id: "sch-humanistic", title: "Humanistic Psychology", type: "مدرسة"
 - id: "thk-frankl", title: "Viktor Frankl", type: "مفكر"

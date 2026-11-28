@@ -4,6 +4,7 @@ id: "THK-1168"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"
+quality: "unverified"
 title: "Hilary Putnam"
 en: "Hilary Putnam"
 crumb: "Philosophy ← Thinkers ← Hilary Putnam"
@@ -63,4 +64,4 @@ Critics held that his repeated changes of position made it hard to fix a stable 
 - Putnam, Hilary, *Representation and Reality*, Cambridge, MA: MIT Press, 1988.
 - Putnam, Hilary, *Renewing Philosophy*, Cambridge, MA: Harvard University Press, 1992.
 - Baghramian, Maria (ed.), *Reading Putnam*, London: Routledge, 2013.
-- Auxier, Randall E. and Hahn, Lewis E. (eds.), *The Philosophy of Hilary Putnam*, Chicago: Open Court, 2015.
+- Auxier, Randall E., Anderson, Douglas R. and Hahn, Lewis E. (eds.), *The Philosophy of Hilary Putnam*, Chicago: Open Court, 2015.

@@ -9,8 +9,8 @@ en: "Existential Therapies"
 crumb: "Philosophy ← Works ← Existential Therapies"
 dates: "2003 · 2017 · Mick Cooper"
 edges:
-  - rel: "written_by", target: "Mick Cooper", target_type: "مفكر"
-  - rel: "belongs_to", target: "Existentialist School", target_type: "مدرسة"
+  - rel: "authored_by", target: "thk-cooper", target_type: "مفكر"
+  - rel: "belongs_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
   - id: "thk-cooper", title: "Mick Cooper", type: "مفكر"
   - id: "dbt-evidence", title: "Should We Demand Empirical Evidence?", type: "جدل"

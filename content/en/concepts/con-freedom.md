@@ -8,7 +8,7 @@ title: "Freedom"
 en: "Freedom"
 crumb: "Existential Philosophy ← Concepts ← Freedom"
 edges:
-  - rel: "discussed_in", target: "Existentialist School", target_type: "مدرسة"
+  - rel: "discussed_in", target: "sch-existentialism", target_type: "مدرسة"
 related:
   - id: "con-responsibility", title: "Responsibility", type: "مفهوم"
   - id: "thk-beauvoir", title: "Beauvoir", type: "مفكرة"

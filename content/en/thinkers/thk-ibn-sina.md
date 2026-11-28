@@ -4,6 +4,7 @@ id: "THK-13516"
 type: "مفكر"
 part: philosophy
 level: "متقدم"
+quality: "unverified"
 title: "Abu Ali al-Husayn ibn Abd Allah ibn Sina"
 en: "Abu Ali al-Husayn ibn Sina (Avicenna)"
 crumb: "Philosophy ← Thinkers ← Ibn Sina"
@@ -52,7 +53,7 @@ Late in his life Ibn Sina referred, in the introduction to *al-Mantiq al-Mashriq
 
 ### His correspondence with al-Biruni
 
-Early in his career Ibn Sina exchanged scientific letters with Abu Rayhan al-Biruni, who put to him ten critical questions about Aristotle's physics (the nature of the circular motion of the celestial spheres, the possibility of the void, the plurality of worlds). In his replies Ibn Sina defended the coherence of the Aristotelian system, while al-Biruni insisted that astronomical and mathematical observation does not settle these hypotheses by decisive demonstration, and Ibn Sina's pupil Abu Sahl al-Masihi took on the reply to the second round of al-Biruni's objections. This correspondence is among the earliest documents showing an internal critical discussion of Aristotle's physics in the Islamic world, preceding Ibn Rushd's commentaries by roughly a century and a half.
+Early in his career Ibn Sina exchanged scientific letters with Abu Rayhan al-Biruni, who put to him ten critical questions on Aristotle's *On the Heavens* and eight more on Aristotelian natural philosophy (including the nature of the circular motion of the celestial spheres, the possibility of the void, the plurality of worlds). In his replies Ibn Sina defended the coherence of the Aristotelian system, while al-Biruni insisted that astronomical and mathematical observation does not settle these hypotheses by decisive demonstration, and Ibn Sina's pupil Abu Sa'id al-Ma'sumi took on the reply to the second round of al-Biruni's objections. This correspondence is among the earliest documents showing an internal critical discussion of Aristotle's physics in the Islamic world, preceding Ibn Rushd's commentaries by roughly a century and a half.
 
 ## Influence
 

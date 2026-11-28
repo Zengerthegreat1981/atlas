@@ -4,6 +4,7 @@ id: "SCH-0094"
 type: "مدرسة"
 part: philosophy
 level: "مبتدئ"
+quality: "unverified"
 title: "Egyptian Wisdom Tradition (Ma'at)"
 en: "Egyptian Wisdom Tradition (Ma'at)"
 crumb: "Philosophy ← Schools ← Egyptian Wisdom Tradition (Ma'at)"
@@ -67,6 +68,6 @@ The tradition has occupied comparative scholars because of its antiquity and bec
 - Assmann, J. (1990/2006). *Ma'at: Gerechtigkeit und Unsterblichkeit im alten Ägypten*. C.H. Beck.
 - Lichtheim, M. (1973–1980). *Ancient Egyptian Literature: A Book of Readings* (3 vols). University of California Press.
 - Faulkner, R. O. (1969). *The Ancient Egyptian Pyramid Texts*. Oxford University Press.
-- Faulkner, R. O. (1972). *The Ancient Egyptian Book of the Dead*. British Museum Press.
+- Faulkner, R. O. (1985; first published 1972). *The Ancient Egyptian Book of the Dead*, ed. Carol Andrews. British Museum Publications.
 - Simpson, W. K. (Ed.) (2003). *The Literature of Ancient Egypt* (incl. Instructions of Ptahhotep and Amenemope). Yale University Press.
 - Obenga, T. (1990). *La philosophie africaine de la période pharaonique*. L'Harmattan.

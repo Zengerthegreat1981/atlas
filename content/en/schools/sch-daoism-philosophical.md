@@ -4,6 +4,7 @@ id: "SCH-0079"
 type: "مدرسة"
 part: philosophy
 level: "متوسط"
+quality: "unverified"
 title: "Philosophical Daoism"
 en: "Philosophical Daoism (Daojia)"
 crumb: "Philosophy ← Schools ← Philosophical Daoism"
@@ -14,7 +15,7 @@ cultural_origin: "east-asian"
 active_start: -500
 active_end: 300
 active_source: "lifespan"
-edges:
+edges: []
 related:
 - id: "sch-confucian-early", title: "Early Confucianism", type: "مدرسة"
 - id: "sch-legalism", title: "Legalism (Fajia)", type: "مدرسة"
@@ -44,7 +45,7 @@ An ancient Chinese philosophical current that makes the "Dao" (道), the path or
 ## History of interpretation
 
 - **Huang-Lao**: a school in the third and second centuries BCE that combined the Yellow Emperor with Laozi and influenced early Han politics.
-- **Xuanxue (Mysterious Learning)**: in the third and fourth centuries CE, Wang Bi (226–249) commented on the book in existential language that made "non-being" (wu) the origin of being, and Guo Xiang developed a commentary on the Zhuangzi. Scholars connect it with the intellectual climate in which Buddhism was becoming established in China.
+- **Xuanxue (Mysterious Learning)**: in the third and fourth centuries CE, Wang Bi (226–249) commented on the book in ontological language that made "non-being" (wu) the origin of being, and Guo Xiang developed a commentary on the Zhuangzi. Scholars connect it with the intellectual climate in which Buddhism was becoming established in China.
 - **Mutual influence with Buddhism**: Daoist terms were used in translating the earliest Buddhist concepts, and then the Chan school was influenced by the Zhuangzi.
 - **The modern era**: Angus Graham in *Disputers of the Tao* (1989) offered a history of the diversity of the schools, Chad Hansen in *A Daoist Theory of Chinese Thought* (1992) argued that ancient Chinese philosophy views language as a practical discrimination of names, not a representation of meanings, and Hans-Georg Moeller presented *Daoism Explained* (2004).
 

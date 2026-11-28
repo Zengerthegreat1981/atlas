@@ -15,7 +15,7 @@ language: "English"
 active_start: 1978
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Cognitive Linguistics", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-linguistics", target_type: "مدرسة"
 related:
 - id: "sch-cognitive-linguistics", title: "Cognitive Linguistics", type: "مدرسة"
 - id: "sch-politeness-theory", title: "Politeness Theory", type: "مدرسة"

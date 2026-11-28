@@ -10,8 +10,8 @@ crumb: "Bridges ← Concepts ← The Moral Economy and Subsistence Politics"
 active_start: 1971
 active_end: "مستمر"
 edges:
-- rel: "relates_to", target: "Arab Subsidy State and Social Contract", target_type: "مفهوم"
-- rel: "relates_to", target: "Gift Economy", target_type: "مفهوم"
+- rel: "relates_to", target: "con-arab-subsidy-state-and-social-contract", target_type: "مفهوم"
+- rel: "relates_to", target: "con-gift-economy", target_type: "مفهوم"
 related:
 - id: "con-arab-subsidy-state-and-social-contract", title: "The Subsidy State and the Arab Social Contract", type: "مفهوم"
 gaps: []

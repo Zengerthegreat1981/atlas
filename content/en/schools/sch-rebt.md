@@ -14,9 +14,9 @@ active_start: 1955
 active_end: "مستمر"
 cultural_origin: "anglo-american"
 edges:
-- rel: "founded_by", target: "Albert Ellis", target_type: "مفكر"
-- rel: "belongs_to", target: "Cognitive Behavioral Therapy (CBT)", target_type: "مدرسة"
-- rel: "developed_by", target: "Albert Ellis", target_type: "مفكر"
+- rel: "founded_by", target: "thk-ellis", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
+- rel: "developed_by", target: "thk-ellis", target_type: "مفكر"
 related:
 - id: "thk-ellis", title: "Albert Ellis", type: "مفكر"
 - id: "thk-beck", title: "Aaron Temkin Beck", type: "مفكر"

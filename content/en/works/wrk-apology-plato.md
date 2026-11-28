@@ -14,7 +14,7 @@ author_slug: "thk-plato"
 publication_year: -399
 original_language: "Greek"
 edges:
-- rel: "authored_by", target: "Plato", target_type: "مفكر"
+- rel: "authored_by", target: "thk-plato", target_type: "مفكر"
 related:
 - id: "thk-plato", title: "Plato", type: "مفكر"
 gaps: []

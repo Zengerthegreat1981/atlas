@@ -4,6 +4,7 @@ id: "SCH-0118"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"
+quality: "unverified"
 title: "Critical Theory / The Frankfurt School (Frankfurter Schule)"
 en: "Frankfurt School / Critical Theory"
 crumb: "Philosophy ← Schools ← Critical Theory"
@@ -44,16 +45,16 @@ This **move from Germany to America** shaped the consciousness of the generation
 - **Max Horkheimer** (1895–1973): *Eclipse of Reason* (1947), *Critical Theory* (selections, 1968).
 - **Theodor Adorno** (1903–1969): *Dialectic of Enlightenment* (with Horkheimer, 1944), *Minima Moralia* (1951), *Negative Dialectics* (1966).
 - **Herbert Marcuse** (1898–1979): *Eros and Civilization* (1955), *One-Dimensional Man* (1964).
-- **Erich Fromm** (1900–1980): *The Fear of Freedom* (1941), *The Sane Society* (1955). An audience between social psychology and Marxist psychoanalysis.
+- **Erich Fromm** (1900–1980): *The Fear of Freedom* (1941), *The Sane Society* (1955). A bridge between social psychology and Marxist psychoanalysis.
 - **Franz Neumann** (1900–1954): *Behemoth* (1942), an analysis of the Nazi system.
 - **Leo Lowenthal** (1900–1993): literary sociology.
 - **Walter Benjamin** (1892–1940) and **Siegfried Kracauer** (1889–1966), close associates of the Institute: Benjamin on art and mass reproduction, Kracauer on film (*Theory of Film*, 1960).
 
 ### The second generation
 
-- **Jürgen Habermas** (b. 1929): *Knowledge and Human Interests* (1968), *Theory of Communicative Action* (1981).
-- **Oskar Negt** (1934–2024) and **Alexander Kluge** (b. 1932): *Öffentlichkeit und Erfahrung* (1972), on the public sphere.
-- **Claus Offe** (b. 1940): critical political sociology of the welfare state.
+- **Jürgen Habermas** (1929–2026): *Knowledge and Human Interests* (1968), *Theory of Communicative Action* (1981).
+- **Oskar Negt** (1934–2024) and **Alexander Kluge** (1932–2026): *Öffentlichkeit und Erfahrung* (1972), on the public sphere.
+- **Claus Offe** (1940–2025): critical political sociology of the welfare state.
 
 ### The third generation (the extension)
 

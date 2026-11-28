@@ -9,7 +9,7 @@ en: "Edmund Leach"
 crumb: "Structural Anthropology ← Ritual Semiotics ← Edmund Leach"
 dates: "UK · 1910–1989"
 edges:
-  - rel: "belongs_to", target: "Structural Anthropology", target_type: "مدرسة"
+  - rel: "belongs_to", target: "scl-structural-anthropology", target_type: "مدرسة"
   - rel: "founder_of", target: "Ritual Semiotics", target_type: "تيار"
 related:
   - id: "thk-douglas", title: "Mary Douglas: Purity, Danger, and Categorical Thought", type: "مفكر"

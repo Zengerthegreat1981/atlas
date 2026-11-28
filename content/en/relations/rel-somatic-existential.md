@@ -11,7 +11,7 @@ active_end: "مستمر"
 part: bridges
 edges:
   - rel: "belongs_to", target: "Somatic Experiencing", target_type: "مدرسة"
-  - rel: "relates_to", target: "Existentialism", target_type: "مدرسة"
+  - rel: "relates_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
   - id: "thk-merleau-ponty", title: "Maurice Merleau-Ponty", type: "مفكر"
   - id: "br-daseins", title: "Daseinsanalysis", type: "تيار"

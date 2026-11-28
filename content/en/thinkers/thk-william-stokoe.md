@@ -16,7 +16,7 @@ active_start: 1960
 active_end: 2000
 active_source: "lifespan"
 edges:
-- rel: "belongs_to", target: "Sign Language Linguistics", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-sign-language-linguistics", target_type: "مدرسة"
 related:
 - id: "con-broca-wernicke-lichtheim-model", title: "Broca–Wernicke–Lichtheim Model", type: "مفهوم"
 - id: "con-cherology-sign-parameters-stokoe", title: "Cherology and Sign Parameters (Stokoe)", type: "مفهوم"

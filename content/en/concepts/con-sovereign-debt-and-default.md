@@ -11,7 +11,7 @@ economic_school: "Development economics"
 active_start: 1981
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Development Economics", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-development-economics", target_type: "مدرسة"
 related:
 - id: "sch-development-economics", title: "Development Economics", type: "مدرسة"
 gaps: []

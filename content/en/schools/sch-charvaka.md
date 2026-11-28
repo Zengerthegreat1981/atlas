@@ -4,6 +4,7 @@ id: "SCH-0060"
 type: "مدرسة"
 part: philosophy
 level: "متوسط"
+quality: "unverified"
 title: "Chārvāka / Lokāyata (Indian Materialism)"
 en: "Chārvāka / Lokāyata (Indian Materialism)"
 crumb: "Philosophy ← Schools ← Chārvāka / Lokāyata (Indian Materialism)"

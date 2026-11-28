@@ -14,8 +14,8 @@ author_slug: "thk-descartes"
 publication_year: 1641
 original_language: "Latin"
 edges:
-- rel: "belongs_to", target: "Cartesianism", target_type: "مدرسة"
-- rel: "authored_by", target: "René Descartes", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-cartesianism", target_type: "مدرسة"
+- rel: "authored_by", target: "thk-descartes", target_type: "مفكر"
 related:
 - id: "thk-descartes", title: "René Descartes", type: "مفكر"
 gaps: []

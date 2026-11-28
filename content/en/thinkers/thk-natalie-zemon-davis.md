@@ -13,7 +13,7 @@ language: "English, French"
 active_start: 1965
 active_end: 2023
 edges:
-  - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
+  - rel: "belongs_to", target: "fld-anthropology", target_type: "مجال"
 related: []
 gaps: []
 ---

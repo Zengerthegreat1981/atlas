@@ -19,7 +19,7 @@ language: "English"
 register: "academic"
 edges:
 - rel: "belongs_to", target: "Psychiatric Classification and Diagnosis (Nosology)", target_type: "مدرسة"
-- rel: "written_by", target: "Allen Frances", target_type: "مفكر"
+- rel: "authored_by", target: "thk-allen-frances", target_type: "مفكر"
 related:
 - id: "sch-diagnostic-nosology", title: "Psychiatric Classification and Diagnosis (Nosology)", type: "مدرسة"
 - id: "thk-allen-frances", title: "Allen Frances", type: "مفكر"

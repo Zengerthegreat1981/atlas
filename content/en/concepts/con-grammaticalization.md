@@ -10,7 +10,7 @@ title: "Grammaticalization"
 en: "Grammaticalization"
 crumb: "Linguistics ← Concepts ← Grammaticalization"
 edges:
-- rel: "belongs_to", target: "Historical-Comparative Linguistics", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-historical-comparative-linguistics", target_type: "مدرسة"
 related:
 - id: "sch-usage-based-grammar", title: "Usage-Based Grammar", type: "مدرسة"
 gaps: []

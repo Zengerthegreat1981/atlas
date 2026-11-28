@@ -18,7 +18,7 @@ active_end: 1025
 language: "Arabic"
 register: "academic"
 edges:
-- rel: "written_by", target: "Ibn Sina", target_type: "مفكر"
+- rel: "authored_by", target: "Ibn Sina", target_type: "مفكر"
 - rel: "belongs_to", target: "Early Islamic Classical Thought School", target_type: "مدرسة"
 related:
 - id: "thk-ibn-sina", title: "Ibn Sina (Avicenna)", type: "مفكر"

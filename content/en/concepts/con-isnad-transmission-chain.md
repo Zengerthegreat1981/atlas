@@ -11,8 +11,8 @@ active_start: 700
 active_end: null
 cultural_origin: "islamic"
 edges:
-- rel: "related_to", target: "The Prophetic Sunna and Historiography", target_type: "مفهوم"
-- rel: "related_to", target: "The Prophetic Biography (Sira) as a Historical Genre", target_type: "مفهوم"
+- rel: "relates_to", target: "The Prophetic Sunna and Historiography", target_type: "مفهوم"
+- rel: "relates_to", target: "The Prophetic Biography (Sira) as a Historical Genre", target_type: "مفهوم"
 related:
 - id: "con-historical-evidence-interpretation", title: "Historical Evidence and Interpretation", type: "مفهوم"
 gaps: []

@@ -9,7 +9,7 @@ en: "Ethnoastronomy"
 crumb: "Anthropology ← Schools ← Ethnoastronomy"
 dates: "International · 1980s-present"
 edges:
-  - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
+  - rel: "belongs_to", target: "fld-anthropology", target_type: "مجال"
 related:
   []
 gaps:

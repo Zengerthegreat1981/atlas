@@ -14,7 +14,7 @@ country: "Egypt / ancient Rome"
 language: "Ancient Greek"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "Neoplatonism", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-neoplatonism", target_type: "مدرسة"
 related:
 - id: "con-isolation", title: "Isolation", type: "مفهوم"
 - id: "con-meaning", title: "Meaning and Meaninglessness", type: "مفهوم"

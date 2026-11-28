@@ -10,7 +10,7 @@ active_start: 1968
 active_end: "مستمر"
 part: bridges
 edges:
-  - rel: "belongs_to", target: "Transpersonal Psychology", target_type: "مدرسة"
+  - rel: "belongs_to", target: "sch-transpersonal", target_type: "مدرسة"
   - rel: "relates_to", target: "Humanistic Psychology", target_type: "مدرسة"
 related:
   - id: "br-humanistic", title: "Existential-Humanistic", type: "تيار"

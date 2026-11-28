@@ -10,7 +10,7 @@ en: "Tiwi Wives"
 crumb: "Goodale · Tiwi Women"
 dates: "1971 · Goodale"
 edges:
-  - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
+  - rel: "belongs_to", target: "fld-anthropology", target_type: "مجال"
 related:
   []
 sources:

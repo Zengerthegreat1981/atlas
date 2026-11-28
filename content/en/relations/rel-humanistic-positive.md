@@ -11,7 +11,7 @@ active_end: "مستمر"
 part: bridges
 edges:
 - rel: "belongs_to", target: "Humanistic Psychology", target_type: "مدرسة"
-- rel: "relates_to", target: "Positive Psychology", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-positive-psychology", target_type: "مدرسة"
 related:
 - id: "br-humanistic", title: "American Humanistic-Existential Psychology", type: "تيار"
 - id: "br-self-actualization-maslow", title: "Self-Actualization Psychology and Human Motivation (Maslow)", type: "تيار"

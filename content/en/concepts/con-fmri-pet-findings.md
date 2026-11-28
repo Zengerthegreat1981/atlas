@@ -11,9 +11,9 @@ active_start: 1975
 active_end: "مستمر"
 language: "English"
 edges:
-- rel: "belongs_to", target: "Neurobiology of Mental Illness", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-neurobiology-mental-illness", target_type: "مدرسة"
 - rel: "relates_to", target: "Dopamine and Psychosis", target_type: "مفهوم"
-- rel: "relates_to", target: "Anxiety Neurocircuitry", target_type: "مفهوم"
+- rel: "relates_to", target: "con-anxiety-neurocircuitry", target_type: "مفهوم"
 - rel: "relates_to", target: "Treatment-Resistant Disorders", target_type: "مفهوم"
 - rel: "relates_to", target: "Neuropsychoanalysis", target_type: "مفهوم"
 related:

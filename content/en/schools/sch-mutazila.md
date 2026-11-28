@@ -4,6 +4,7 @@ id: "SCH-0206"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"
+quality: "unverified"
 title: "The Mu'tazila"
 en: "Mu'tazila"
 crumb: "Philosophy ← Schools ← The Mu'tazila"
@@ -14,7 +15,7 @@ active_start: 720
 active_end: 1000
 cultural_origin: "islamic-arabic"
 edges:
-- rel: "superseded_by", target: "Ash'ariyya", target_type: "مدرسة"
+- rel: "superseded_by", target: "sch-ashariyya", target_type: "مدرسة"
 related:
 - id: "sch-ashariyya", title: "Ash'arism", type: "مدرسة"
 gaps: []
@@ -58,7 +59,7 @@ The Zaydis in Yemen preserved the Mu'tazila's books, which is why most volumes o
 
 ## Limits and criticism
 
-Its opponents among the people of hadith criticized its interpretation of texts and its placing of reason ahead of transmitted tradition, and the Ash'aris criticized it on the question of obliging God to do what is best and on absolutely free action. Many early Mu'tazili works are lost; apart from the surviving volumes of Abd al-Jabbar and al-Zamakhshari's commentary, our knowledge comes largely from the bibliographical *Fihrist* of Ibn al-Nadim and from the reports of opponents. Researchers note that what we know about it often comes from the books of its opponents such as al-Shahrastani, al-Ash'ari and al-Baghdadi, and that one individual's view should not be generalized to all, since its leading figures differed on many questions. The school has also been accused of authoritarianism in the inquisition, so that repression became part of its memory.
+Its opponents among the people of hadith criticized its interpretation of texts and its placing of reason ahead of transmitted tradition, and the Ash'aris criticized it on the question of obliging God to do what is best and on absolutely free action. Many early Mu'tazili works are lost; apart from surviving works such as al-Khayyat's *Kitab al-Intisar*, the volumes of Abd al-Jabbar, Abu al-Husayn al-Basri's *al-Mu'tamad* and al-Zamakhshari's commentary, our knowledge comes largely from the bibliographical *Fihrist* of Ibn al-Nadim and from the reports of opponents. Researchers note that what we know about it often comes from the books of its opponents such as al-Shahrastani, al-Ash'ari and al-Baghdadi, and that one individual's view should not be generalized to all, since its leading figures differed on many questions. The school has also been accused of authoritarianism in the inquisition, so that repression became part of its memory.
 
 ## Sources
 

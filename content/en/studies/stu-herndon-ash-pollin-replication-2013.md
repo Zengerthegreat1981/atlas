@@ -11,7 +11,7 @@ economic_school: "Keynesian Economics"
 active_start: 2013
 active_end: 2013
 edges:
-- rel: "belongs_to", target: "Keynesian Economics", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-keynesian-economics", target_type: "مدرسة"
 related:
 - id: "stu-reinhart-rogoff-growth-in-a-time-of-debt-2010", title: "Reinhart and Rogoff's Study on Growth in a Time of Debt (2010)", type: "دراسة وبحث"
 - id: "dbt-austerity-vs-stimulus-after-2008", title: "The Austerity versus Stimulus Debate after 2008", type: "جدل"

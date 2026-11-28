@@ -11,7 +11,7 @@ active_start: -2450
 active_end: null
 cultural_origin: null
 edges:
-- rel: "related_to", target: "Inscriptions and Material Documents", target_type: "مفهوم"
+- rel: "relates_to", target: "Inscriptions and Material Documents", target_type: "مفهوم"
 related:
 - id: "con-inscription-documentary-evidence", title: "Inscriptions and Material Documents", type: "مفهوم"
 gaps: []

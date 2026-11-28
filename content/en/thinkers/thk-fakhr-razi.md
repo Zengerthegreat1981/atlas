@@ -4,6 +4,7 @@ id: "THK-1027"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"
+quality: "unverified"
 title: "Fakhr al-Din Muhammad ibn Umar al-Razi"
 en: "Fakhr al-Din al-Razi"
 crumb: "Philosophy ← Thinkers ← Fakhr al-Din al-Razi"
@@ -71,7 +72,7 @@ His doctrinal affiliation is Ash'ari by the consensus of his biographers, agains
 - al-Razi, Fakhr al-Din. *Mafatih al-Ghayb (The Great Exegesis)*. Beirut: Dar Ihya' al-Turath al-Arabi, 1999.
 - al-Razi, Fakhr al-Din. *Al-Mahsul fi Ilm Usul al-Fiqh*, edited by Taha Jabir al-Alwani. Beirut: Mu'assasat al-Risala, 1997.
 - al-Razi, Fakhr al-Din. *Al-Mabahith al-Mashriqiyya fi Ilm al-Ilahiyyat wa-l-Tabi'iyyat*. Beirut: Dar al-Kitab al-Arabi, 1990.
-- Khulayf, Fathallah. *Fakhr al-Din al-Razi and His Kalam and Philosophical Views*. Cairo: Dar al-Ma'arif, 1963.
+- al-Zarkan, Muhammad Salih. *Fakhr al-Din al-Razi and His Kalam and Philosophical Views*. Cairo: Dar al-Fikr, 1963.
 - Shihadeh, Ayman. *The Teleological Ethics of Fakhr al-Dīn al-Rāzī*. Leiden: Brill, 2006.
 - Jaffer, Tariq. *Razi: Master of Qur'anic Interpretation and Theological Reasoning*. New York: Oxford University Press, 2015.
 - Griffel, Frank. "On Fakhr al-Dīn al-Rāzī's Life and the Patronage He Received". *Journal of Islamic Studies*, 18(3), 2007.

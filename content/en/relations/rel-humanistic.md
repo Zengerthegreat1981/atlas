@@ -8,7 +8,7 @@ title: "Humanistic Psychology"
 en: "Humanistic psychology"
 crumb: "Existential Philosophy ← Relations ← Humanistic Psychology"
 edges:
-  - rel: "neighbour_of", target: "Existentialist School", target_type: "مدرسة"
+  - rel: "neighbour_of", target: "sch-existentialism", target_type: "مدرسة"
 related:
   - id: "br-humanistic", title: "Existential-Humanistic", type: "تيار"
 gaps: []

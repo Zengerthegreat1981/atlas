@@ -8,7 +8,7 @@ title: "Medical Anthropology as a Subfield"
 en: "Medical Anthropology as a Subfield"
 crumb: "Anthropology ← Branches ← Medical Anthropology as a Subfield"
 edges:
-- rel: "belongs_to", target: "Medical Anthropology", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-medical-anthropology", target_type: "مدرسة"
 related:
 - id: "sch-medical-anthropology", title: "Medical Anthropology", type: "مدرسة"
 gaps: []

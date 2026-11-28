@@ -16,7 +16,7 @@ active_start: 1987
 active_end: "مستمر"
 edges:
 - rel: "authored_by", target: "Hazem el-Beblawi", target_type: "مفكر"
-- rel: "belongs_to", target: "Rentier State Theory", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-rentier-state-theory", target_type: "مدرسة"
 related:
 - id: "sch-rentier-state-theory", title: "Rentier State Theory", type: "مدرسة"
 gaps: []

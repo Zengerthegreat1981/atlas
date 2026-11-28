@@ -9,7 +9,7 @@ en: "Carlos Castaneda"
 crumb: "Popular Psychology and Toltec Wisdom ← People ← Carlos Castaneda"
 dates: "Peru / United States · 1925–1998"
 edges:
-  - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
+  - rel: "belongs_to", target: "fld-anthropology", target_type: "مجال"
 related: []
 gaps: []
 ---

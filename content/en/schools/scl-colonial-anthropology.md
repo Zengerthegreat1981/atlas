@@ -9,7 +9,7 @@ en: "Colonial Anthropology"
 crumb: "Anthropology ← Schools ← Colonial Anthropology"
 dates: "International · 1800s-1950s"
 edges:
-  - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
+  - rel: "belongs_to", target: "fld-anthropology", target_type: "مجال"
 related:
   []
 gaps:

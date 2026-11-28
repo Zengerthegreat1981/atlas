@@ -11,7 +11,7 @@ legal_tradition: "Islamic usul al-fiqh"
 active_start: 820
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Islamic Legal Theory (Usul al-Fiqh)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-usul-al-fiqh-legal-theory", target_type: "مدرسة"
 related:
 - id: "sch-usul-al-fiqh-legal-theory", title: "Islamic Legal Theory (Usul al-Fiqh)", type: "مدرسة"
 - id: "wrk-al-mustasfa-ghazali", title: "Al-Mustasfa min 'Ilm al-Usul", type: "عمل / كتاب"

@@ -14,7 +14,7 @@ economic_school: "General Equilibrium Theory"
 active_start: 1951
 active_end: 2017
 edges:
-- rel: "belongs_to", target: "General Equilibrium Theory", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-general-equilibrium-theory", target_type: "مدرسة"
 related:
 - id: "sch-general-equilibrium-theory", title: "General Equilibrium Theory", type: "مدرسة"
 - id: "sch-paretian-welfare-economics", title: "Paretian Welfare Economics", type: "مدرسة"

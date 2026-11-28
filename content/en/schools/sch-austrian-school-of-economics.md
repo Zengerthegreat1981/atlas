@@ -15,7 +15,7 @@ policy_orientation: "Classical liberal: deep skepticism about the state's capaci
 active_start: 1871
 active_end: "مستمر"
 edges:
-- rel: "evolved_from", target: "Marginal Revolution", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-marginal-revolution", target_type: "مدرسة"
 related:
 - id: "thk-carl-menger", title: "Carl Menger", type: "مفكر"
 - id: "thk-eugen-von-bohm-bawerk", title: "Eugen von Böhm-Bawerk", type: "مفكر"

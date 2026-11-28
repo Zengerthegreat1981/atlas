@@ -16,7 +16,7 @@ active_start: 1819
 active_end: 1863
 active_source: "lifespan"
 edges:
-- rel: "belongs_to", target: "Historical-Comparative Linguistics", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-historical-comparative-linguistics", target_type: "مدرسة"
 related: []
 gaps: []
 ---

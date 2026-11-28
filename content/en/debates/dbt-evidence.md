@@ -9,7 +9,7 @@ title: "Should We Demand Empirical Evidence?"
 en: "The evidence fight"
 crumb: "Existential School ← Debates ← Should We Demand Empirical Evidence?"
 edges:
-  - rel: "occurs_within", target: "Existentialist School", target_type: "مدرسة"
+  - rel: "occurs_within", target: "sch-existentialism", target_type: "مدرسة"
 related:
   - id: "dbt-school-or-attitude", title: "School or Attitude?", type: "جدل"
   - id: "br-logotherapy", title: "Logotherapy & Existential Analysis", type: "تيار"

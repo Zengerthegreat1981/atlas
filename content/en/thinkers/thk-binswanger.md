@@ -4,12 +4,13 @@ id: "THK-0105"
 type: "مفكر"
 part: philosophy
 level: "متقدم"
+quality: "unverified"
 title: "Ludwig Binswanger"
 en: "Ludwig Binswanger"
 crumb: "Existentialist School ← People ← Ludwig Binswanger"
 dates: "Kreuzlingen, Switzerland · 1881–1966"
 edges:
-  - rel: "belongs_to", target: "Existentialist School", target_type: "مدرسة"
+  - rel: "belongs_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
   - id: "thk-boss", title: "Boss", type: "مفكر"
   - id: "dbt-boss-binswanger", title: "The Rivalry", type: "جدل"

@@ -8,7 +8,7 @@ title: "Economic Anthropology as a Subfield"
 en: "Economic Anthropology as a Subfield"
 crumb: "Anthropology ← Branches ← Economic Anthropology as a Subfield"
 edges:
-- rel: "belongs_to", target: "Economic Anthropology", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-economic-anthropology-expanded", target_type: "مدرسة"
 related:
 - id: "sch-economic-anthropology-expanded", title: "Economic Anthropology", type: "مدرسة"
 gaps: []

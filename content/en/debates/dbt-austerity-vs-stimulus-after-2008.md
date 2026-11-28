@@ -11,7 +11,7 @@ economic_school: "Keynesian economics"
 active_start: 2009
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Keynesian Economics", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-keynesian-economics", target_type: "مدرسة"
 related:
 - id: "thk-john-maynard-keynes", title: "John Maynard Keynes", type: "مفكر"
 - id: "stu-reinhart-rogoff-growth-in-a-time-of-debt-2010", title: "Reinhart and Rogoff on Growth in a Time of Debt (2010)", type: "دراسة وبحث"

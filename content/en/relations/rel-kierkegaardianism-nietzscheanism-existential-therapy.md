@@ -12,7 +12,7 @@ active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "Kierkegaardianism", target_type: "مدرسة"
 - rel: "relates_to", target: "Nietzscheanism", target_type: "مدرسة"
-- rel: "relates_to", target: "Existentialism", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
 - id: "thk-frankl", title: "Viktor Frankl", type: "مفكر"
 - id: "thk-may", title: "Rollo May", type: "مفكر"

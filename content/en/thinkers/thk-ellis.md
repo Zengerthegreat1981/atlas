@@ -14,9 +14,9 @@ language: "English"
 active_start: 1955
 active_end: 2007
 edges:
-- rel: "belongs_to", target: "Rational Emotive Behavior Therapy (REBT)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-rebt", target_type: "مدرسة"
 - rel: "belongs_to", target: "Cognitive-Behavioral Therapy", target_type: "مدرسة"
-- rel: "influenced_by", target: "Stoicism", target_type: "مدرسة"
+- rel: "influenced_by", target: "sch-stoicism", target_type: "مدرسة"
 related:
 - id: "thk-beck", title: "Aaron Timothy Beck", type: "مفكر"
 - id: "sch-rebt", title: "Rational Emotive Behavior Therapy (REBT)", type: "مدرسة"

@@ -10,7 +10,7 @@ crumb: "Linguistics ← Branches ← Sociolinguistics: Language in Its Social Co
 active_start: 1963
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Labovian Variationist Sociolinguistics", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-variationist-sociolinguistics", target_type: "مدرسة"
 related:
 - id: "sch-variationist-sociolinguistics", title: "Labovian Variationist Sociolinguistics", type: "مدرسة"
 - id: "sch-language-ideology", title: "Language Ideology", type: "مدرسة"

@@ -14,7 +14,7 @@ language: "English"
 active_start: 1967
 active_end: 1967
 edges:
-- rel: "belongs_to", target: "First Language Acquisition", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-first-language-acquisition", target_type: "مدرسة"
 related:
 - id: "sch-first-language-acquisition", title: "First Language Acquisition and Its Stages", type: "مدرسة"
 - id: "sch-second-language-acquisition", title: "Second Language Acquisition and the Critical Period", type: "مدرسة"

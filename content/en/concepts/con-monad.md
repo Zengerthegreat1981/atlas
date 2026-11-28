@@ -10,8 +10,8 @@ crumb: "Philosophy ← Concepts ← Monads"
 active_start: 1714
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Leibnizianism", target_type: "مدرسة"
-- rel: "formulated_by", target: "Gottfried Wilhelm Leibniz", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-leibnizianism", target_type: "مدرسة"
+- rel: "formulated_by", target: "thk-leibniz", target_type: "مفكر"
 related:
 - id: "thk-leibniz", title: "Gottfried Wilhelm Leibniz", type: "مفكر"
 - id: "sch-leibnizianism", title: "Leibnizianism", type: "مدرسة"

@@ -14,7 +14,7 @@ economic_school: "Keynesian economics"
 active_start: 1919
 active_end: 1946
 edges:
-- rel: "belongs_to", target: "Keynesian Economics", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-keynesian-economics", target_type: "مدرسة"
 related:
 - id: "sch-keynesian-economics", title: "Keynesian Economics", type: "مدرسة"
 - id: "wrk-the-general-theory-of-employment-interest-and-money", title: "The General Theory of Employment, Interest and Money", type: "عمل / كتاب"

@@ -10,7 +10,7 @@ crumb: "Ethics ← Concepts ← Virtue Development"
 active_start: 1900
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Virtue Ethics", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-virtue-ethics-aristotle", target_type: "مدرسة"
 related: []
 gaps: []
 ---

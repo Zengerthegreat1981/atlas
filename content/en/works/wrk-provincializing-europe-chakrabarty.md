@@ -14,7 +14,7 @@ crumb: "Historiography ← Works ← Provincializing Europe"
 active_start: 2000
 active_end: "مستمر"
 edges:
-- rel: "authored_by", target: "Dipesh Chakrabarty", target_type: "مفكر"
+- rel: "authored_by", target: "thk-dipesh-chakrabarty", target_type: "مفكر"
 related: []
 gaps: []
 ---

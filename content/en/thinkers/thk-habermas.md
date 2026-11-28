@@ -7,11 +7,11 @@ level: "متقدم"
 title: "Jürgen Habermas"
 en: "Jürgen Habermas"
 crumb: "Philosophy ← Thinkers ← Jürgen Habermas"
-dates: "Germany · born 1929"
+dates: "Germany · 1929–2026"
 country: "Germany"
 language: "German"
 active_start: 1962
-active_end: مستمر
+active_end: 2026
 edges:
 - rel: "belongs_to", target: "Deliberative Democracy", target_type: "مدرسة"
 related:
@@ -22,11 +22,11 @@ gaps: []
 
 # Jürgen Habermas
 
-A German philosopher and sociologist (born 1929), professor of philosophy at the University of Frankfurt until his retirement in 1994, a leading theorist of the second generation of critical theory, author of the theory of "communicative action" and a major theorist of deliberative democracy in political and social philosophy. He studied under Theodor Adorno and worked as his assistant at the Institute for Social Research in Frankfurt (1956–1959).
+A German philosopher and sociologist (1929–2026), professor of philosophy at the University of Frankfurt until his retirement in 1994, a leading theorist of the second generation of critical theory, author of the theory of "communicative action" and a major theorist of deliberative democracy in political and social philosophy. He studied under Theodor Adorno and worked as his assistant at the Institute for Social Research in Frankfurt (1956–1959).
 
 ## Biography and Formation
 
-Habermas was born in Düsseldorf in 1929 and grew up in Gummersbach; in his childhood he was part of a generation that lived through the collapse of Nazism in adolescence, an experience that shaped his sensitivity to the question of memory and German historical responsibility. He studied philosophy in Göttingen, Zurich, and Bonn, and received his doctorate in 1954 with a dissertation on Schelling. He then worked as Adorno's assistant in Frankfurt, and completed his habilitation in Marburg under Wolfgang Abendroth with his book *The Structural Transformation of the Public Sphere*. He taught in Heidelberg, then succeeded Horkheimer in the Frankfurt chair in 1964, directed the Max Planck Institute in Starnberg (1971–1981), and then returned to Frankfurt.
+Habermas was born in Düsseldorf in 1929 and grew up in Gummersbach; in his childhood he was part of a generation that lived through the collapse of Nazism in adolescence, an experience that shaped his sensitivity to the question of memory and German historical responsibility. He studied philosophy in Göttingen, Zurich, and Bonn, and received his doctorate in 1954 with a dissertation on Schelling. He then worked as Adorno's assistant in Frankfurt, and completed his habilitation in Marburg under Wolfgang Abendroth with his book *The Structural Transformation of the Public Sphere*. He taught in Heidelberg, then succeeded Horkheimer in the Frankfurt chair in 1964, directed the Max Planck Institute in Starnberg (1971–1981), and then returned to Frankfurt. He died in Starnberg on 14 March 2026, aged 96.
 
 ## What He Gave
 
@@ -40,7 +40,7 @@ Habermas engaged in controversies that shaped postwar German thought: the "posit
 
 ## Late Works
 
-In recent decades Habermas worked on questions of globalization and postnational citizenship ("Die postnationale Konstellation", 1998), on religion in the public sphere ("Zwischen Naturalismus und Religion", 2005), and on the future of the European Union and its constitution. In 2019 he published "Auch eine Geschichte der Philosophie" in two volumes, a tracing of the history of the relation between faith and knowledge. He received the Peace Prize of the German Book Trade in 2001 and the Kyoto Prize in 2004.
+In his later decades Habermas worked on questions of globalization and postnational citizenship ("Die postnationale Konstellation", 1998), on religion in the public sphere ("Zwischen Naturalismus und Religion", 2005), and on the future of the European Union and its constitution. In 2019 he published "Auch eine Geschichte der Philosophie" in two volumes, a tracing of the history of the relation between faith and knowledge. He received the Peace Prize of the German Book Trade in 2001 and the Kyoto Prize in 2004.
 
 ## His Place in the Current
 

@@ -4,6 +4,7 @@ id: "SCH-0237"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"
+quality: "unverified"
 title: "Existential Phenomenology"
 en: "Existential Phenomenology"
 crumb: "Philosophy ← Schools ← Existential Phenomenology"
@@ -14,9 +15,9 @@ language: "German, French"
 active_start: 1927
 active_end: 1981
 edges:
-- rel: "belongs_to", target: "Phenomenology", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-phenomenology", target_type: "مدرسة"
 - rel: "split_into", target: "Somatic Phenomenology", target_type: "مدرسة"
-- rel: "split_into", target: "Existentialism", target_type: "مدرسة"
+- rel: "split_into", target: "sch-existentialism", target_type: "مدرسة"
 related:
 - id: "sch-phenomenology", title: "Phenomenology (Phänomenologie)", type: "مدرسة"
 - id: "sch-existentialism", title: "Existentialism", type: "مدرسة"
@@ -66,7 +67,7 @@ After 1930 Heidegger began to speak of the "turn" (Kehre): man became the site o
 ## Influence
 
 - **Existential psychotherapy**: Ludwig Binswanger and Medard Boss founded "Daseinsanalysis" on the basis of Heidegger, and Rollo May introduced the approach to the United States in "Existence" (1958).
-- **Arab thought**: Abd al-Rahman Badawi was an early and influential introducer of existentialism in Arabic, in "Existential Time" (1943). Fathi al-Meskini translated "Being and Time" (2012), which opened a new debate about the terminology of Being in Arabic.
+- **Arab thought**: Abd al-Rahman Badawi was an early and influential introducer of existentialism in Arabic, in "Existential Time" (1945). Fathi al-Meskini translated "Being and Time" (2012), which opened a new debate about the terminology of Being in Arabic.
 - **Psychology and medicine**: the phenomenological description of the patient's experience (anxiety, depression, the ill body) became a later reference in phenomenological psychiatry and in studies of chronic illness.
 - **Social critique and feminism**: the concepts were employed in studies of gender, race and disability.
 - **Translation**: the English translation of "Being and Nothingness" appeared in 1956 and that of "Being and Time" in 1962, and the difficulty of the terminology contributed to misunderstanding.
@@ -79,7 +80,7 @@ After 1930 Heidegger began to speak of the "turn" (Kehre): man became the site o
 
 ## Sources
 
-- Badawi, Abd al-Rahman. *Existential Time* (al-Zaman al-wujudi). Cairo: Maktabat al-Nahda al-Misriyya, 1943.
+- Badawi, Abd al-Rahman. *Existential Time* (al-Zaman al-wujudi). Cairo: Maktabat al-Nahda al-Misriyya, 1945.
 - Heidegger, Martin. *Being and Time* (al-Kaynuna wa-l-zaman). Translated by Fathi al-Meskini. Beirut: Dar al-Kitab al-Jadid al-Muttahida, 2012.
 - Heidegger, Martin. *Sein und Zeit*. Halle: Niemeyer, 1927. English: *Being and Time*, trans. John Macquarrie and Edward Robinson. London: SCM Press, 1962.
 - Sartre, Jean-Paul. *L'Être et le Néant*. Paris: Gallimard, 1943.

@@ -10,8 +10,8 @@ crumb: "Philosophy ← Concepts ← Alienation"
 active_start: 1844
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Classical Marxism", target_type: "مدرسة"
-- rel: "formulated_by", target: "Karl Marx", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-marxism", target_type: "مدرسة"
+- rel: "formulated_by", target: "thk-marx", target_type: "مفكر"
 related:
 - id: "thk-marx", title: "Karl Marx", type: "مفكر"
 - id: "sch-marxism", title: "Classical Marxism", type: "مدرسة"

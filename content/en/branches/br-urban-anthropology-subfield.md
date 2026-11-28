@@ -8,7 +8,7 @@ title: "Urban Anthropology as a Subfield"
 en: "Urban Anthropology as a Subfield"
 crumb: "Anthropology ← Branches ← Urban Anthropology as a Subfield"
 edges:
-- rel: "belongs_to", target: "Urban Anthropology", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-urban-anthropology-expanded", target_type: "مدرسة"
 related:
 - id: "sch-urban-anthropology-expanded", title: "Urban Anthropology", type: "مدرسة"
 gaps: []

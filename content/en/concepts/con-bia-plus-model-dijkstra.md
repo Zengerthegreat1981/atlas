@@ -10,7 +10,7 @@ title: "Bilingual Interactive Activation Plus Model (Dijkstra & van Heuven)"
 en: "Bilingual Interactive Activation Plus Model (Dijkstra & van Heuven)"
 crumb: "Linguistics ← Concepts ← Bilingual Interactive Activation Plus Model (Dijkstra & van Heuven)"
 edges:
-- rel: "belongs_to", target: "Bilingualism & Cognitive Control", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-bilingualism-cognitive-control", target_type: "مدرسة"
 related:
 - id: "sch-bilingualism-cognitive-control", title: "Bilingualism & Cognitive Control", type: "مدرسة"
 - id: "con-code-switching-mixing", title: "Code-Switching & Code-Mixing", type: "مفهوم"

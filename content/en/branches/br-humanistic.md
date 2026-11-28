@@ -9,7 +9,7 @@ en: "Existential-Humanistic"
 crumb: "Humanistic Psychology ← Currents ← Existential-Humanistic"
 dates: "USA · from the 1950s"
 edges:
-  - rel: "part_of", target: "Existentialist School", target_type: "مدرسة"
+  - rel: "part_of", target: "sch-existentialism", target_type: "مدرسة"
   - rel: "influenced_by", target: "European existential analysis", target_type: "تيار"
   - rel: "developed_by", target: "May, Bugental and Yalom", target_type: "مفكرون"
   - rel: "criticized_by", target: "British current", target_type: "تيار"

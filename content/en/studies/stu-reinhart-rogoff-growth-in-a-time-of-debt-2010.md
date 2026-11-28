@@ -11,7 +11,7 @@ economic_school: "Monetarism and the Chicago School"
 active_start: 2010
 active_end: 2010
 edges:
-- rel: "belongs_to", target: "Monetarism and the Chicago School", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-monetarism-chicago-school", target_type: "مدرسة"
 related:
 - id: "dbt-austerity-vs-stimulus-after-2008", title: "Austerity vs. Stimulus after 2008", type: "جدل"
 - id: "stu-herndon-ash-pollin-replication-2013", title: "Herndon, Ash and Pollin's Replication Study (2013)", type: "دراسة وبحث"

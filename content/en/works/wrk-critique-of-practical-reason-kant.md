@@ -15,7 +15,7 @@ publication_year: 1788
 original_language: "German"
 edges:
 - rel: "belongs_to", target: "Critical Kantian philosophy", target_type: "مدرسة"
-- rel: "authored_by", target: "Immanuel Kant", target_type: "مفكر"
+- rel: "authored_by", target: "thk-kant", target_type: "مفكر"
 related:
 - id: "thk-kant", title: "Immanuel Kant", type: "مفكر"
 gaps: []

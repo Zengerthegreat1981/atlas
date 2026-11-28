@@ -11,7 +11,7 @@ active_start: 1930
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "Cognitive Behavioral Therapy (CBT)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
 - id: "thk-ectolman", title: "Edward Tolman", type: "مفكر"
 - id: "sch-cognitive-behavioral", title: "Cognitive Behavioral Therapy (CBT)", type: "مدرسة"

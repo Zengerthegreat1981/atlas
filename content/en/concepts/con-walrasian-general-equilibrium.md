@@ -11,7 +11,7 @@ economic_school: "General Equilibrium Theory"
 active_start: 1874
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "General Equilibrium Theory", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-general-equilibrium-theory", target_type: "مدرسة"
 related:
 - id: "sch-general-equilibrium-theory", title: "General Equilibrium Theory", type: "مدرسة"
 - id: "thk-leon-walras", title: "Léon Walras", type: "مفكر"

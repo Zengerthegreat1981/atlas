@@ -9,7 +9,7 @@ en: "Empires of Time: Calendars, Clocks, and Cultures"
 crumb: "Anthropology ← Works ← Empire of Time"
 dates: "1989 · Aveni"
 edges:
-  - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
+  - rel: "belongs_to", target: "fld-anthropology", target_type: "مجال"
 related:
   []
 gaps:

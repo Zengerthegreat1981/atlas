@@ -9,7 +9,7 @@ en: "Gabriel Marcel"
 crumb: "Existential Philosophy ← People ← Gabriel Marcel"
 dates: "France · 1889–1973"
 edges:
-  - rel: "belongs_to", target: "Existentialist School", target_type: "مدرسة"
+  - rel: "belongs_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
   - id: "thk-sartre", title: "Jean-Paul Sartre", type: "مفكر"
   - id: "con-relation", title: "Relation and Encounter", type: "مفهوم"

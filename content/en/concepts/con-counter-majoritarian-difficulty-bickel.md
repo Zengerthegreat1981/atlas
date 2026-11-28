@@ -11,7 +11,7 @@ legal_tradition: "Constitutional law theory"
 active_start: 1962
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Constitutional Law Theory", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-constitutional-law-theory", target_type: "مدرسة"
 related:
 - id: "thk-alexander-bickel", title: "Alexander Bickel", type: "مفكر"
 - id: "con-judicial-review", title: "Judicial Review", type: "مفهوم"

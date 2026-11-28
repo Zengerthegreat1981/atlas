@@ -11,7 +11,7 @@ economic_school: "Development Economics"
 active_start: 1977
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Development Economics", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-development-economics", target_type: "مدرسة"
 related:
 - id: "dbt-developmental-state-industrial-policy", title: "The Developmental State and Industrial Policy Debate", type: "جدل"
 gaps: []

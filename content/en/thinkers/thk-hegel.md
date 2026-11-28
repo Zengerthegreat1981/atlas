@@ -3,6 +3,7 @@ slug: "thk-hegel"
 id: "THK-0576"
 type: "مفكر"
 level: "متقدم"
+quality: "unverified"
 title: "Georg Wilhelm Friedrich Hegel"
 en: "Georg Wilhelm Friedrich Hegel"
 crumb: "Philosophy ← Thinkers ← Georg Wilhelm Friedrich Hegel"
@@ -13,7 +14,7 @@ language: "German"
 country: "Germany"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "Hegelianism", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-hegelianism", target_type: "مدرسة"
 related:
 - id: "thk-kierkegaard", title: "Søren Kierkegaard", type: "مفكر"
 - id: "sch-hegelianism", title: "Hegelianism", type: "مدرسة"
@@ -47,7 +48,7 @@ In the *Science of Logic* (1812–1816) Hegel wanted to construct the very categ
 
 ## Reception and schools
 
-His school split after his death into Right Hegelians, who defended the agreement between philosophy and established religion, and Left Hegelians, such as David Strauss, Ludwig Feuerbach and Karl Marx, who turned the dialectic into a critique of religion and politics. In the twentieth century Alexandre Kojève re-read him in his Paris lectures in the 1930s, influencing Sartre, Merleau-Ponty and Lacan, and Habermas and Axel Honneth, and after them Robert Pippin and Charles Taylor, rebuilt the theory of recognition and freedom on his foundations. In psychology the debate about alienation and the self was linked with him.
+His school split after his death into Right Hegelians, who defended the agreement between philosophy and established religion, and Left Hegelians, such as David Strauss, Ludwig Feuerbach and Karl Marx, who turned the dialectic into a critique of religion and politics. In the twentieth century Alexandre Kojève re-read him in his Paris lectures in the 1930s, influencing Sartre, Merleau-Ponty and Lacan. Habermas, Axel Honneth, Robert Pippin and Charles Taylor later rebuilt theories of recognition and freedom on his foundations. In psychology the debate about alienation and the self was linked with him.
 
 ## Limits and criticism
 

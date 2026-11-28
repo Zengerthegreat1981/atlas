@@ -14,7 +14,7 @@ dates: "2001"
 active_start: 2001
 active_end: 2001
 edges:
-- rel: "belongs_to", target: "Cognitive Science of Religion", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-science-of-religion", target_type: "مدرسة"
 related:
 - id: "con-minimally-counterintuitive-concepts", title: "Minimally Counterintuitive Concepts", type: "مفهوم"
 - id: "thk-pascal-boyer", title: "Pascal Boyer", type: "مفكر"

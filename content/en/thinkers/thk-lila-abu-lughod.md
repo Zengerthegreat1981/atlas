@@ -13,7 +13,7 @@ birth_country: "United States"
 active_start: 1986
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Feminist Anthropology", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-feminist-anthropology", target_type: "مدرسة"
 related:
 - id: "sch-feminist-anthropology", title: "Feminist Anthropology and Anthropology of Gender", type: "مدرسة"
 - id: "thk-talal-asad", title: "Talal Asad", type: "مفكر"

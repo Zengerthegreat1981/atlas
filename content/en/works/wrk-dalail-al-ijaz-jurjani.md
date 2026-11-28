@@ -10,7 +10,7 @@ title: "Dalāʾil al-Iʿjāz (Signs of Inimitability)"
 en: "Dalāʾil al-Iʿjāz (Signs of Inimitability)"
 crumb: "Linguistics ← Works ← Dalāʾil al-Iʿjāz (Signs of Inimitability)"
 edges:
-- rel: "belongs_to", target: "Arabic Rhetorical Sciences", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-arabic-rhetorical-sciences", target_type: "مدرسة"
 related:
 - id: "thk-al-jurjani", title: "Abd al-Qahir al-Jurjani", type: "مفكر"
 - id: "sch-arabic-rhetorical-sciences", title: "Arabic Rhetorical Sciences: Ma'ani, Bayan and Badi'", type: "مدرسة"

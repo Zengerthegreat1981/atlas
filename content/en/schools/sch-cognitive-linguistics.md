@@ -15,7 +15,7 @@ language: "English"
 active_start: 1975
 active_end: "مستمر"
 edges:
-- rel: "evolved_from", target: "Generative-Transformational Grammar", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-generative-grammar", target_type: "مدرسة"
 related:
 - id: "sch-generative-grammar", title: "Generative-Transformational Grammar", type: "مدرسة"
 - id: "thk-stephen-levinson", title: "Stephen Levinson", type: "مفكر"

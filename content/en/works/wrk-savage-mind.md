@@ -9,8 +9,8 @@ en: "The Savage Mind"
 crumb: "Lévi-Strauss · Classification & Logic"
 dates: "1962 · Lévi-Strauss"
 edges:
-  - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
-  - rel: "written_by", target: "Lévi-Strauss", target_type: "مفكر"
+  - rel: "belongs_to", target: "fld-anthropology", target_type: "مجال"
+  - rel: "authored_by", target: "Lévi-Strauss", target_type: "مفكر"
 related:
   - id: "con-totemism", title: "Totemism", type: "مفهوم"
   - id: "wrk-elementary-structures", title: "The Elementary Structures of Kinship", type: "عمل"

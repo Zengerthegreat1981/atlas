@@ -10,7 +10,7 @@ en: "Residence Rules"
 crumb: "Anthropology ← Works ← Residence Rules"
 dates: "1956 · Goodenough"
 edges:
-  - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
+  - rel: "belongs_to", target: "fld-anthropology", target_type: "مجال"
 related:
   []
 gaps: []

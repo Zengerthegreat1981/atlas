@@ -10,7 +10,7 @@ crumb: "Bridges ← Relations ← Philosophical Phenomenology and Existential Ps
 active_start: 1921
 active_end: "مستمر"
 edges:
-- rel: "relates_to", target: "Phenomenology", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-phenomenology", target_type: "مدرسة"
 - rel: "relates_to", target: "Existential Therapy", target_type: "مدرسة"
 related:
 - id: "thk-husserl", title: "Edmund Husserl", type: "مفكر"

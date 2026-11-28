@@ -10,7 +10,7 @@ en: "Communicative Competence"
 crumb: "Anthropology ← Concepts ← Communicative Competence"
 evidence_level: "well-established"
 edges:
-- rel: "belongs_to", target: "Ethnography of Communication", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-ethnography-of-communication", target_type: "مدرسة"
 related:
 - id: "thk-dell-hymes", title: "Dell Hymes", type: "مفكر"
 - id: "sch-ethnography-of-communication", title: "Ethnography of Communication", type: "مدرسة"

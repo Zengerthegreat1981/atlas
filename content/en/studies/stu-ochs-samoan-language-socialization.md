@@ -17,7 +17,7 @@ main_finding: "In the Samoan village studied by Ochs, caregivers did not typical
 active_start: 1988
 active_end: 1988
 edges:
-- rel: "belongs_to", target: "Ethnography of Communication", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-ethnography-of-communication", target_type: "مدرسة"
 - rel: "belongs_to", target: "Linguistic Relativity", target_type: "مدرسة"
 related:
 - id: "thk-elinor-ochs", title: "Elinor Ochs", type: "مفكر"

@@ -9,7 +9,7 @@ en: "Paul Tillich"
 crumb: "Existential Theology ← People ← Paul Tillich"
 dates: "Germany/America · 1886–1965"
 edges:
-  - rel: "belongs_to", target: "Existentialist School", target_type: "مدرسة"
+  - rel: "belongs_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
   - id: "thk-kierkegaard", title: "Søren Kierkegaard", type: "مفكر"
   - id: "thk-may", title: "Rollo May", type: "مفكر"

@@ -15,7 +15,7 @@ language: "English"
 active_start: 1985
 active_end: "مستمر"
 edges:
-- rel: "evolved_from", target: "Cognitive Linguistics", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-cognitive-linguistics", target_type: "مدرسة"
 related:
 - id: "thk-joan-bybee", title: "Joan Bybee", type: "مفكر"
 - id: "thk-michael-tomasello", title: "Michael Tomasello", type: "مفكر"

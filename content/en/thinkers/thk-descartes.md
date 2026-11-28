@@ -4,6 +4,7 @@ id: "THK-0916"
 type: "مفكر"
 part: "philosophy"
 level: "متوسط"
+quality: "unverified"
 title: "René Descartes"
 en: "René Descartes"
 crumb: "Philosophy ← Thinkers ← René Descartes"
@@ -13,7 +14,7 @@ language: "French, Latin"
 active_start: 1637
 active_end: 1650
 edges:
-- rel: "belongs_to", target: "Cartesianism", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cartesianism", target_type: "مدرسة"
 - rel: "belongs_to", target: "Continental Rationalism", target_type: "مدرسة"
 related:
 - id: "sch-cartesianism", title: "Cartesianism", type: "مدرسة"
@@ -50,7 +51,7 @@ The relation between the two substances is a double problem that cannot be solve
 - **Discours de la Méthode** (1637): Discourse on Method.
 - **Meditationes de Prima Philosophia** (1641): Meditations on First Philosophy.
 - **Principia Philosophiae** (1644): Principles of Philosophy.
-- **Passiones Animae** (1649): The Passions of the Soul.
+- **Les Passions de l'âme** (1649): The Passions of the Soul.
 - **Le Monde** (published posthumously in 1664): The World (which he did not publish in his lifetime).
 
 ## Biography

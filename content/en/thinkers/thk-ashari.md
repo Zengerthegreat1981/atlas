@@ -4,6 +4,7 @@ id: "THK-0713"
 type: "مفكر"
 part: philosophy
 level: "متقدم"
+quality: "unverified"
 title: "Abu al-Hasan al-Ash'ari"
 en: "Abu al-Hasan al-Ash'ari"
 crumb: "Philosophy ← Thinkers ← Abu al-Hasan al-Ash'ari"

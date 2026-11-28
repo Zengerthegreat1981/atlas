@@ -17,7 +17,7 @@ publication_year: 1762
 original_language: "French"
 edges:
 - rel: "belongs_to", target: "Enlightenment Philosophy", target_type: "مدرسة"
-- rel: "written_by", target: "Jean-Jacques Rousseau", target_type: "مفكر"
+- rel: "authored_by", target: "thk-rousseau", target_type: "مفكر"
 related:
 - id: "thk-rousseau", title: "Jean-Jacques Rousseau", type: "مفكر"
 gaps: []

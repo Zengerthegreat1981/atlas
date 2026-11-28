@@ -10,7 +10,7 @@ crumb: "Legal Theory ← Schools ← Civil Law Tradition"
 active_start: 1900
 active_end: "مستمر"
 edges:
-- rel: "related_to", target: "Usul al-Fiqh (Legal Theory)", target_type: "مدرسة"
+- rel: "relates_to", target: "Usul al-Fiqh (Legal Theory)", target_type: "مدرسة"
 related:
 - id: "thk-abd-al-razzaq-al-sanhuri", title: "Abd al-Razzaq al-Sanhuri", type: "مفكر"
 - id: "thk-friedrich-carl-von-savigny", title: "Friedrich Carl von Savigny", type: "مفكر"

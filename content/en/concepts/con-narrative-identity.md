@@ -10,7 +10,7 @@ crumb: "Bridges ← Concepts ← Narrative Identity: The Self as a Story I Tell 
 active_start: 1985
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "Philosophical Hermeneutics (Philosophische Hermeneutik)", target_type: "مدرسة"
+  - rel: "belongs_to", target: "sch-hermeneutics", target_type: "مدرسة"
 related:
   - id: "thk-ricoeur", title: "Paul Ricœur", type: "مفكر"
   - id: "thk-macintyre", title: "Alasdair MacIntyre", type: "مفكر"

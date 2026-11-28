@@ -15,7 +15,7 @@ policy_orientation: "Analysis of colonial expansion as a structural necessity of
 active_start: 1910
 active_end: 1917
 edges:
-- rel: "evolved_from", target: "Marx's Critique of Political Economy", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-marx-critique-of-political-economy", target_type: "مدرسة"
 related:
 - id: "con-unequal-exchange", title: "Unequal Exchange", type: "مفهوم"
 - id: "sch-marx-critique-of-political-economy", title: "Marx's Critique of Political Economy", type: "مدرسة"

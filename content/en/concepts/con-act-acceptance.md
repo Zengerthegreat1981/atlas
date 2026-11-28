@@ -11,9 +11,9 @@ active_start: 1986
 active_end: "مستمر"
 language: "English"
 edges:
-- rel: "belongs_to", target: "Foundations of Psychotherapy", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-psychotherapy-foundations", target_type: "مدرسة"
 - rel: "relates_to", target: "Tawakkul in Psychology", target_type: "مفهوم"
-- rel: "relates_to", target: "Exposure Therapy", target_type: "مفهوم"
+- rel: "relates_to", target: "con-exposure-therapy", target_type: "مفهوم"
 - rel: "relates_to", target: "Mentalization Therapy", target_type: "مفهوم"
 related:
 - id: "sch-psychotherapy-foundations", title: "Foundations of Psychotherapy", type: "مدرسة"

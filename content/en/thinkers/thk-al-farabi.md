@@ -4,6 +4,7 @@ id: "THK-13517"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"
+quality: "unverified"
 title: "Abu Nasr Muhammad ibn Muhammad al-Farabi"
 en: "Abu Nasr al-Farabi (Alpharabius)"
 crumb: "Philosophy ← Thinkers ← Abu Nasr Muhammad ibn Muhammad al-Farabi"
@@ -51,7 +52,7 @@ In the "Great Book of Music" al-Farabi presented a theoretical and practical tre
 
 ### The theory of intellect and contact
 
-In his treatise "On the Intellect" al-Farabi distinguished several ranks of the human intellect (the potential or material, the actual, the acquired), up to the separate "Active Intellect" that pours intelligibles upon prepared souls, a theory on which he later built his conception of how the perfect philosopher and the prophet make contact with the upper world. This distinction became a reference framework for all the philosophers of the East and al-Andalus who came after him, though they differed over its details (such as the problem of the unity of the Active Intellect that Ibn Rushd later raised).
+In his treatise "On the Intellect" al-Farabi distinguished several ranks of the human intellect (the potential or material, the actual, the acquired), up to the separate "Active Intellect" that pours intelligibles upon prepared souls, a theory on which he later built his conception of how the perfect philosopher and the prophet make contact with the upper world. This distinction became a reference framework for all the philosophers of the East and al-Andalus who came after him, though they differed over its details (such as the problem of the unity of the material intellect that Ibn Rushd later raised).
 
 ## Influence
 

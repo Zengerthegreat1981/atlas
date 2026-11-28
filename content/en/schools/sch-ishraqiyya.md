@@ -4,6 +4,7 @@ id: "SCH-0151"
 type: "مدرسة"
 part: "philosophy"
 level: "متقدم"
+quality: "unverified"
 title: "Illuminationist Philosophy (Ishrāqiyya)"
 en: "Illuminationist Philosophy (Ishrāqiyya)"
 crumb: "Philosophy ← Schools ← Illuminationist Philosophy (Ishrāqiyya)"
@@ -31,7 +32,7 @@ Al-Suhrawardi was born in Suhraward near Zanjan around 549 AH / 1154 CE, studied
 ## Major Works
 
 - **The Philosophy of Illumination (Hikmat al-Ishraq)** (in Arabic): the highest-ranking work, in two parts: logic and light.
-- **Al-Talwihat, al-Lamahat, al-Muqawamat, al-Mashari', and al-Mutarahat**: books of the Peripatetic phase.
+- **Al-Talwihat, al-Lamahat, al-Muqawamat, and al-Mashari' wa-l-Mutarahat**: books of the Peripatetic phase.
 - **Hayakil al-Nur (The Temples of Light)**: a short treatise on lights.
 - **The Tale of the Occidental Exile, The Red Intellect, The Song of Gabriel's Wing**, and others: symbolic tales in Arabic and Persian about the soul's journey from the West (the world of matter) to the East (the world of light).
 - **Al-Alwah al-Imadiyya**: a work dedicated to the Artuqid ruler Imad al-Din Qara Arslan.

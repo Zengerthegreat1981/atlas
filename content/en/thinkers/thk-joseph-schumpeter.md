@@ -14,7 +14,7 @@ economic_school: "Schumpeterian Evolutionary Economics"
 active_start: 1908
 active_end: 1950
 edges:
-- rel: "belongs_to", target: "Schumpeterian Evolutionary Economics", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-schumpeterian-evolutionary-economics", target_type: "مدرسة"
 related:
 - id: "sch-schumpeterian-evolutionary-economics", title: "Schumpeterian Evolutionary Economics", type: "مدرسة"
 - id: "wrk-the-theory-of-economic-development-schumpeter", title: "The Theory of Economic Development", type: "عمل / كتاب"

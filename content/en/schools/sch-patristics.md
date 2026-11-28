@@ -4,6 +4,7 @@ id: "SCH-0233"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"
+quality: "unverified"
 title: "Christian Patristics"
 en: "Patristics"
 crumb: "Philosophy ← Schools ← Christian Patristics"
@@ -93,7 +94,7 @@ At the **Council of Nicaea** (325 CE) the Son was declared "of one substance" (*
 
 ### 3. The Incarnation
 
-At the **Council of Ephesus** (431 CE) and the **Council of Chalcedon** (451 CE) the Church taught that Christ is one person in two natures, truly God and truly man. Chalcedon was meant as a middle course between positions associated with Nestorius (who stressed the distinction of the natures and objected to calling Mary "Theotokos") and Eutyches (who taught one nature after the union).
+The **Council of Ephesus** (431 CE) condemned Nestorius and upheld the unity of Christ, and the **Council of Chalcedon** (451 CE) taught that Christ is one person in two natures, truly God and truly man. Chalcedon was meant as a middle course between positions associated with Nestorius (who stressed the distinction of the natures and objected to calling Mary "Theotokos") and Eutyches (who taught one nature after the union).
 
 ### 4. Salvation (Soteriology)
 

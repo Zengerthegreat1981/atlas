@@ -12,8 +12,8 @@ active_end: "مستمر"
 language: "English"
 edges:
 - rel: "relates_to", target: "Abu Bakr al-Razi", target_type: "مفكر"
-- rel: "relates_to", target: "Major Depressive Disorder", target_type: "مفهوم"
-- rel: "relates_to", target: "Antipsychotic Response", target_type: "مفهوم"
+- rel: "relates_to", target: "con-major-depressive-disorder", target_type: "مفهوم"
+- rel: "relates_to", target: "con-antipsychotic-response", target_type: "مفهوم"
 - rel: "relates_to", target: "Recovery from Psychosis", target_type: "مفهوم"
 - rel: "relates_to", target: "Polypharmacy and Drug Interactions", target_type: "مفهوم"
 related:

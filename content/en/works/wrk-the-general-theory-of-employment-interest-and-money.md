@@ -15,8 +15,8 @@ economic_school: "Keynesian Economics"
 active_start: 1936
 active_end: "مستمر"
 edges:
-- rel: "authored_by", target: "John Maynard Keynes", target_type: "مفكر"
-- rel: "belongs_to", target: "Keynesian Economics", target_type: "مدرسة"
+- rel: "authored_by", target: "thk-john-maynard-keynes", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-keynesian-economics", target_type: "مدرسة"
 related:
 - id: "thk-john-maynard-keynes", title: "John Maynard Keynes", type: "مفكر"
 - id: "sch-keynesian-economics", title: "Keynesian Economics", type: "مدرسة"

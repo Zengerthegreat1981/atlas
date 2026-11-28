@@ -11,7 +11,7 @@ economic_school: "Public Choice Theory"
 active_start: 1967
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Public Choice Theory", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-public-choice-theory", target_type: "مدرسة"
 related:
 - id: "sch-public-choice-theory", title: "Public Choice Theory", type: "مدرسة"
 - id: "thk-james-m-buchanan", title: "James M. Buchanan", type: "مفكر"

@@ -15,7 +15,7 @@ legal_tradition: "Analytical philosophy of criminal law"
 active_start: 1968
 active_end: "مستمر"
 edges:
-- rel: "authored_by", target: "H.L.A. Hart", target_type: "مفكر"
+- rel: "authored_by", target: "thk-hla-hart", target_type: "مفكر"
 related:
 - id: "thk-hla-hart", title: "H.L.A. Hart", type: "مفكر"
 - id: "con-mens-rea-criminal-intent", title: "Mens Rea (Guilty Mind)", type: "مفهوم"

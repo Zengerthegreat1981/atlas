@@ -10,7 +10,7 @@ title: "Frequency & Entrenchment"
 en: "Frequency & Entrenchment"
 crumb: "Linguistics ← Concepts ← Frequency & Entrenchment"
 edges:
-- rel: "belongs_to", target: "Usage-Based Grammar", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-usage-based-grammar", target_type: "مدرسة"
 related:
 - id: "sch-usage-based-grammar", title: "Usage-Based Grammar", type: "مدرسة"
 - id: "thk-joan-bybee", title: "Joan Bybee", type: "مفكر"

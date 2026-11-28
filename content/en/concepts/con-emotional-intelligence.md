@@ -10,7 +10,7 @@ crumb: "Psychology ← Concepts ← Emotional Intelligence: The Concept"
 active_start: 1990
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Cognitive Behavioral Therapy (CBT)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related: []
 gaps: []
 ---

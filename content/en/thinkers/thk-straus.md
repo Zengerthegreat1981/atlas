@@ -11,7 +11,7 @@ dates: "Germany/America · 1891–1975"
 active_start: 1920
 active_end: 1975
 edges:
-  - rel: "belongs_to", target: "Existentialist School", target_type: "مدرسة"
+  - rel: "belongs_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
   - id: "thk-binswanger", title: "Ludwig Binswanger", type: "مفكر"
   - id: "thk-minkowski", title: "Eugene Minkowski", type: "مفكر"

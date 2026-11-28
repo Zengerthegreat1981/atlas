@@ -10,7 +10,7 @@ title: "Distributional Semantics and Word Embeddings"
 en: "Distributional Semantics & Word Embeddings"
 crumb: "Linguistics ← Concepts ← Distributional Semantics and Word Embeddings"
 edges:
-- rel: "belongs_to", target: "Computational Linguistics & NLP", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-computational-linguistics-nlp", target_type: "مدرسة"
 related:
 - id: "sch-computational-linguistics-nlp", title: "Computational Linguistics and Natural Language Processing", type: "مدرسة"
 gaps: []

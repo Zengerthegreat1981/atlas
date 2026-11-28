@@ -9,8 +9,8 @@ en: "Coming of Age in Samoa"
 crumb: "Mead · Psychological Anthropology"
 dates: "1928 · Mead"
 edges:
-  - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
-  - rel: "written_by", target: "Mead", target_type: "مفكر"
+  - rel: "belongs_to", target: "fld-anthropology", target_type: "مجال"
+  - rel: "authored_by", target: "Mead", target_type: "مفكر"
 related:
   - id: "wrk-patterns-of-culture-benedict", title: "Patterns of Culture", type: "عمل"
 gaps: []

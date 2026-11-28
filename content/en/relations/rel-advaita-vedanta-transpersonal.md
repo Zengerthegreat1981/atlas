@@ -11,7 +11,7 @@ active_start: 1968
 active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "Advaita Vedānta", target_type: "مدرسة"
-- rel: "relates_to", target: "Transpersonal Psychology", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-transpersonal", target_type: "مدرسة"
 related:
 - id: "thk-maslow", title: "Abraham Maslow", type: "مفكر"
 - id: "sch-transpersonal", title: "Transpersonal Psychology", type: "مدرسة"

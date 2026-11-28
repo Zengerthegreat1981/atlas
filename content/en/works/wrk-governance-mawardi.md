@@ -18,7 +18,7 @@ active_end: 1045
 language: "Arabic"
 register: "academic"
 edges:
-- rel: "belongs_to", target: "Islamic Ethics and Political Thought", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-islamic-ethics-political", target_type: "مدرسة"
 related:
 - id: "sch-islamic-ethics-political", title: "Islamic Ethics and Political Thought", type: "مدرسة"
 - id: "con-islamic-law-governance", title: "Islamic Political Jurisprudence (Siyasa Shar'iyya)", type: "مفهوم"

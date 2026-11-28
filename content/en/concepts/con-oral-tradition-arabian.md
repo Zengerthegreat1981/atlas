@@ -11,7 +11,7 @@ active_start: 400
 active_end: 750
 language: "Arabic"
 edges:
-- rel: "belongs_to", target: "Pre-Islamic Arabian Thought (Jāhiliyyah)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-pre-islamic-arabian", target_type: "مدرسة"
 related:
 - id: "sch-pre-islamic-arabian", title: "Pre-Islamic Arabian Thought (Jāhiliyyah)", type: "مدرسة"
 - id: "con-jahiliyyah-cosmology", title: "Jahiliyyah Cosmology", type: "مفهوم"

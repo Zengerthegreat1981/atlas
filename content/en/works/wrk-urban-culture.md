@@ -10,7 +10,7 @@ en: "Urban Anthropology: Cities in Their Cultural Settings"
 crumb: "Anthropology ← Works ← Urban Anthropology"
 dates: "1977 · Fox"
 edges:
-  - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
+  - rel: "belongs_to", target: "fld-anthropology", target_type: "مجال"
 related:
   []
 gaps:

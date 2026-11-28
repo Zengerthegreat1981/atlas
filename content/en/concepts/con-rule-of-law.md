@@ -11,7 +11,7 @@ legal_tradition: "General philosophy of law / comparative constitutional law"
 active_start: 1885
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Philosophy of Law", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-philosophy-of-law", target_type: "مدرسة"
 related:
 - id: "sch-philosophy-of-law", title: "Philosophy of Law", type: "مدرسة"
 - id: "sch-constitutional-law-theory", title: "Constitutional Law Theory", type: "مدرسة"

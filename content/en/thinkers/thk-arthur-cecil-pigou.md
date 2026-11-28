@@ -14,7 +14,7 @@ economic_school: "Paretian welfare economics"
 active_start: 1912
 active_end: 1943
 edges:
-- rel: "belongs_to", target: "Paretian Welfare Economics", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-paretian-welfare-economics", target_type: "مدرسة"
 related:
 - id: "sch-paretian-welfare-economics", title: "Paretian Welfare Economics", type: "مدرسة"
 - id: "thk-alfred-marshall-economist", title: "Alfred Marshall", type: "مفكر"

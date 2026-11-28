@@ -13,7 +13,7 @@ language: "French"
 active_start: 1945
 active_end: 1980
 edges:
-- rel: "belongs_to", target: "Post-Structuralism", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-post-structuralism", target_type: "مدرسة"
 related:
 - id: "sch-post-structuralism", title: "Post-Structuralism", type: "مدرسة"
 - id: "sch-structuralist-semiology", title: "Saussurean Semiology and Its Extensions (Structuralist Semiology)", type: "مدرسة"

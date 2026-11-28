@@ -15,7 +15,7 @@ active_end: "مستمر"
 register: "academic"
 evidence_level: "well-established"
 edges:
-- rel: "belongs_to", target: "Developmental Psychology", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-developmental", target_type: "مدرسة"
 related:
 - id: "sch-developmental", title: "Developmental Psychology", type: "مدرسة"
 - id: "thk-bowlby", title: "John Bowlby", type: "مفكر"

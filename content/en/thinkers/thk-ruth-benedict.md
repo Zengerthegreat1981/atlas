@@ -9,7 +9,7 @@ en: "Ruth Benedict"
 crumb: "Anthropology ← American School ← Culture and Personality ← Ruth Benedict"
 dates: "USA · 1887-1948"
 edges:
-  - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
+  - rel: "belongs_to", target: "fld-anthropology", target_type: "مجال"
 related:
   []
 gaps:

@@ -14,7 +14,7 @@ original_language: "English"
 active_start: 1988
 active_end: 1988
 edges:
-- rel: "belongs_to", target: "Feminist Anthropology", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-feminist-anthropology", target_type: "مدرسة"
 related:
 - id: "thk-marilyn-strathern", title: "Marilyn Strathern", type: "مفكر"
 gaps: []

@@ -14,7 +14,7 @@ economic_school: "Post-Keynesian economics (the Sraffian branch)"
 active_start: 1925
 active_end: 1983
 edges:
-- rel: "belongs_to", target: "Post-Keynesian Economics", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-post-keynesian-economics", target_type: "مدرسة"
 related:
 - id: "sch-post-keynesian-economics", title: "Post-Keynesian Economics", type: "مدرسة"
 - id: "dbt-cambridge-capital-controversy", title: "The Cambridge Capital Controversy", type: "جدل"

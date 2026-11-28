@@ -9,7 +9,7 @@ en: "Historical Anthropology"
 crumb: "Anthropology ← Schools ← Historical Anthropology"
 dates: "USA/International · 1960s-present"
 edges:
-  - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
+  - rel: "belongs_to", target: "fld-anthropology", target_type: "مجال"
 related:
   []
 gaps:

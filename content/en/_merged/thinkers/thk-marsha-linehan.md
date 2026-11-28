@@ -13,7 +13,7 @@ active_end: 2026
 country: "United States"
 language: "English"
 edges:
-- rel: "belongs_to", target: "Personality Disorders", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-personality-disorders", target_type: "مدرسة"
 related:
 - id: "sch-personality-disorders", title: "Personality Disorders", type: "مدرسة"
 gaps: []

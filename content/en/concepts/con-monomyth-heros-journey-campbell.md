@@ -10,7 +10,7 @@ crumb: "Religious Studies ← Concepts ← The Monomyth / Hero's Journey (Joseph
 active_start: 1949
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Theories of Myth in Comparative Religion (Lévi-Strauss, Campbell, Blumenberg)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-myth-theory-religious-studies", target_type: "مدرسة"
 related:
 - id: "sch-myth-theory-religious-studies", title: "Theories of Myth in Comparative Religion (Lévi-Strauss, Campbell, Blumenberg)", type: "مدرسة"
 - id: "dbt-segal-critique-campbell-monomyth-methodology", title: "Segal's Methodological Critique of Campbell's Monomyth", type: "جدل"

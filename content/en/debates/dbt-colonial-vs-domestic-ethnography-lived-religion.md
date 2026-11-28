@@ -14,7 +14,7 @@ dates: "1985–present"
 active_start: 1985
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Ethnography of Religion and Fieldwork", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-ethnography-of-religion-fieldwork", target_type: "مدرسة"
 related:
 - id: "sch-ethnography-of-religion-fieldwork", title: "Ethnography of Religion and Fieldwork", type: "مدرسة"
 - id: "thk-evans-pritchard", title: "E. E. Evans-Pritchard", type: "مفكر"

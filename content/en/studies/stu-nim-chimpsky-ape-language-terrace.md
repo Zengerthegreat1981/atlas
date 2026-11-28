@@ -15,7 +15,7 @@ language: "English, American Sign Language"
 active_start: 1973
 active_end: 1977
 edges:
-- rel: "belongs_to", target: "Language Evolution", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-language-evolution", target_type: "مدرسة"
 related:
 - id: "sch-language-evolution", title: "Origin and Evolution of Language", type: "مدرسة"
 - id: "sch-sign-language-linguistics", title: "Sign Language Linguistics", type: "مدرسة"

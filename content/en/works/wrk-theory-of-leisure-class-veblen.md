@@ -18,7 +18,7 @@ original_language: "English"
 active_start: 1899
 active_end: 1899
 edges:
-- rel: "written_by", target: "Thorstein Veblen", target_type: "مفكر"
+- rel: "authored_by", target: "thk-veblen", target_type: "مفكر"
 - rel: "belongs_to", target: "Veblenian Institutional Sociology", target_type: "مدرسة"
 related:
 - id: "thk-veblen", title: "Thorstein Veblen", type: "مفكر"

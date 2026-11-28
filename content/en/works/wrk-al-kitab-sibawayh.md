@@ -20,8 +20,8 @@ original_language: "Arabic"
 active_start: 796
 active_end: 796
 edges:
-- rel: "written_by", target: "Sibawayh", target_type: "مفكر"
-- rel: "belongs_to", target: "Classical Arabic Grammatical Tradition", target_type: "مدرسة"
+- rel: "authored_by", target: "Sibawayh", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-arabic-grammatical-tradition", target_type: "مدرسة"
 related:
 - id: "thk-sibawayh", title: "Sibawayh (ʿAmr ibn ʿUthmān ibn Qanbar)", type: "مفكر"
 - id: "sch-arabic-grammatical-tradition", title: "Classical Arabic Grammatical and Linguistic Tradition", type: "مدرسة"

@@ -21,7 +21,7 @@ original_language: "English"
 active_start: 1982
 active_end: 1982
 edges:
-- rel: "written_by", target: "Jonathan Z. Smith", target_type: "مفكر"
+- rel: "authored_by", target: "Jonathan Z. Smith", target_type: "مفكر"
 related:
 - id: "thk-jonathan-z-smith", title: "Jonathan Z. Smith", type: "مفكر"
 - id: "dbt-defining-religion-as-analytic-category", title: "The Question of 'Religion' as a Category That Can Be Defined at All", type: "جدل"

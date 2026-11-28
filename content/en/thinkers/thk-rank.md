@@ -11,7 +11,7 @@ dates: "Austria/America · 1884–1939"
 active_start: 1905
 active_end: 1939
 edges:
-  - rel: "belongs_to", target: "Existentialist School", target_type: "مدرسة"
+  - rel: "belongs_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
   - id: "thk-may", title: "Rollo May", type: "مفكر"
 gaps: []

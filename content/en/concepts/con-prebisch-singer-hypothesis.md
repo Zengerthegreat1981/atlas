@@ -11,7 +11,7 @@ economic_school: "Latin American structuralism"
 active_start: 1950
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Latin American Structuralism (CEPAL)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-latin-american-structuralism-cepal", target_type: "مدرسة"
 related:
 - id: "sch-latin-american-structuralism-cepal", title: "Latin American Structuralism (CEPAL)", type: "مدرسة"
 - id: "sch-latin-american-dependency-theory", title: "Dependency Theory", type: "مدرسة"

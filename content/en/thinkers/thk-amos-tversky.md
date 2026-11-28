@@ -12,7 +12,7 @@ country: "Israel / United States"
 active_start: 1969
 active_end: 1996
 edges:
-- rel: "belongs_to", target: "Cognitive Psychology", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-psychology", target_type: "مدرسة"
 related:
 - id: "thk-kahneman", title: "Daniel Kahneman", type: "مفكر"
 gaps: []

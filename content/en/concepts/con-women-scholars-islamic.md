@@ -11,7 +11,7 @@ active_start: 632
 active_end: "مستمر"
 language: "Arabic"
 edges:
-- rel: "belongs_to", target: "Arab Women's Intellectual Traditions", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-womens-intellectual-traditions", target_type: "مدرسة"
 related:
 - id: "sch-womens-intellectual-traditions", title: "Arab Women's Intellectual Traditions", type: "مدرسة"
 gaps: []

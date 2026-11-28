@@ -15,7 +15,7 @@ language: "English"
 active_start: 1978
 active_end: "مستمر"
 edges:
-- rel: "evolved_from", target: "Gricean Pragmatics", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-gricean-pragmatics", target_type: "مدرسة"
 related:
 - id: "sch-gricean-pragmatics", title: "Gricean Pragmatics", type: "مدرسة"
 - id: "thk-stephen-levinson", title: "Stephen Levinson", type: "مفكر"

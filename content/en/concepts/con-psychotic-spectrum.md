@@ -11,7 +11,7 @@ active_start: 1900
 active_end: "مستمر"
 language: "English"
 edges:
-- rel: "belongs_to", target: "Psychotic Disorders and Schizophrenia", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-psychotic-schizophrenia", target_type: "مدرسة"
 related:
 - id: "sch-psychotic-schizophrenia", title: "Psychotic Disorders and Schizophrenia", type: "مدرسة"
 gaps: []

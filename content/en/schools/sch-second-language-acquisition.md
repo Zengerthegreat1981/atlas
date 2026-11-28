@@ -15,7 +15,7 @@ language: "English"
 active_start: 1967
 active_end: "مستمر"
 edges:
-- rel: "evolved_from", target: "First Language Acquisition", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-first-language-acquisition", target_type: "مدرسة"
 related:
 - id: "con-critical-period-hypothesis", title: "The Critical Period Hypothesis for Language Acquisition", type: "مفهوم"
 - id: "con-krashen-monitor-model", title: "The Monitor Model and Krashen's Five Hypotheses", type: "مفهوم"

@@ -8,7 +8,7 @@ title: "Grief"
 en: "Grief"
 crumb: "Grief"
 edges:
-  - rel: "discussed_in", target: "Existentialist School", target_type: "مدرسة"
+  - rel: "discussed_in", target: "sch-existentialism", target_type: "مدرسة"
 related:
   - id: "con-death", title: "Death", type: "مفهوم"
   - id: "con-meaninglessness", title: "Meaninglessness", type: "مفهوم"

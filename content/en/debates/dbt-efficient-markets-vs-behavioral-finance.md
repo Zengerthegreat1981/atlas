@@ -11,7 +11,7 @@ economic_school: "Homo economicus and rational choice economics"
 active_start: 1978
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Homo Economicus and Rational Choice Economics", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-homo-economicus-rational-choice-economics", target_type: "مدرسة"
 related:
 - id: "thk-kahneman", title: "Daniel Kahneman", type: "مفكر"
 - id: "stu-kahneman-tversky-prospect-theory", title: "Kahneman and Tversky's Study on Decision Making Under Risk and Prospect Theory (1979)", type: "دراسة وبحث"

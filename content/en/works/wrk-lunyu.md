@@ -18,7 +18,7 @@ active_end: -221
 active_source: "lifespan"
 edges:
 - rel: "belongs_to", target: "Early Confucianism", target_type: "مدرسة"
-- rel: "authored_by", target: "Confucius", target_type: "مفكر"
+- rel: "authored_by", target: "thk-confucius", target_type: "مفكر"
 related:
 - id: "sch-confucian-early", title: "Early Confucianism", type: "مدرسة"
 - id: "thk-confucius", title: "Confucius (Kong Zi)", type: "مفكر"

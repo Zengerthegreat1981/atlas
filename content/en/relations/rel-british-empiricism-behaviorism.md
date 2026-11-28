@@ -11,7 +11,7 @@ active_start: 1913
 active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "British Empiricism", target_type: "مدرسة"
-- rel: "relates_to", target: "Behaviorism", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-behaviorism", target_type: "مدرسة"
 related:
 - id: "thk-locke", title: "John Locke", type: "مفكر"
 - id: "thk-hume", title: "David Hume", type: "مفكر"

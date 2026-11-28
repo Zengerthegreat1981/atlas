@@ -13,7 +13,7 @@ active_end: 1962
 country: "France"
 language: "French"
 edges:
-  - rel: "belongs_to", target: "Phenomenology (Phänomenologie)", target_type: "مدرسة"
+  - rel: "belongs_to", target: "sch-phenomenology", target_type: "مدرسة"
 related:
   - id: "thk-bergson", title: "Henri Bergson", type: "مفكر"
   - id: "thk-foucault", title: "Michel Foucault", type: "مفكر"

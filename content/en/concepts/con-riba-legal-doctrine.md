@@ -12,7 +12,7 @@ legal_tradition: "Islamic financial jurisprudence"
 active_start: 610
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Islamic Law and Sharia", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-islamic-law-shariah", target_type: "مدرسة"
 related:
 - id: "sch-islamic-law-shariah", title: "Islamic Law and Sharia as a Legal System", type: "مدرسة"
 - id: "con-gharar-in-contracts", title: "Gharar (Uncertainty in Contracts)", type: "مفهوم"

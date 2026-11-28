@@ -14,7 +14,7 @@ active_end: 2019
 country: "United States"
 language: "English"
 edges:
-- rel: "belongs_to", target: "Neurobiology of Mental Illness", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-neurobiology-mental-illness", target_type: "مدرسة"
 related:
 - id: "sch-neurobiology-mental-illness", title: "Neurobiology of Mental Illness", type: "مدرسة"
 - id: "thk-arvid-carlsson", title: "Arvid Carlsson", type: "مفكر"

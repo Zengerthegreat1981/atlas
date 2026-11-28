@@ -13,7 +13,7 @@ language: "Latin"
 active_start: 1660
 active_end: 1677
 edges:
-- rel: "belongs_to", target: "Spinozism", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-spinozism", target_type: "مدرسة"
 - rel: "belongs_to", target: "Continental Rationalism", target_type: "مدرسة"
 related:
 - id: "sch-spinozism", title: "Spinozism", type: "مدرسة"

@@ -16,7 +16,7 @@ main_finding: "There is no single, uniform global 'social media'; each local cul
 active_start: 2016
 active_end: 2016
 edges:
-- rel: "belongs_to", target: "Digital Anthropology", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-digital-anthropology", target_type: "مدرسة"
 related: []
 gaps: []
 ---

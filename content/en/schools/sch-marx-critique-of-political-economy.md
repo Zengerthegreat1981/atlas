@@ -15,7 +15,7 @@ policy_orientation: "A critique of capitalism as a transient historical system r
 active_start: 1857
 active_end: 1883
 edges:
-- rel: "evolved_from", target: "Classical Political Economy", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-classical-political-economy", target_type: "مدرسة"
 related:
 - id: "br-market-socialism", title: "Market Socialism: Public Ownership and the Market Mechanism in Lange's Model", type: "تيار"
 - id: "br-agrarian-question-political-economy", title: "The Agrarian Question in Political Economy: The Fate of Peasants Under Advancing Capitalism", type: "تيار"

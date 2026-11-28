@@ -4,6 +4,7 @@ id: "SCH-0266"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"
+quality: "unverified"
 title: "Renaissance Humanism"
 en: "Renaissance Humanism"
 crumb: "Philosophy ← Schools ← Renaissance Humanism"
@@ -15,7 +16,7 @@ active_start: 1350
 active_end: 1600
 edges:
 - rel: "evolved_from", target: "Byzantine school", target_type: "مدرسة"
-- rel: "evolved_from", target: "Patristics", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-patristics", target_type: "مدرسة"
 related:
 - id: "sch-enlightenment", title: "Enlightenment philosophy (as a general umbrella)", type: "مدرسة"
 gaps: []
@@ -39,7 +40,7 @@ Italy in the fourteenth century had wealthy, largely self-governing city-states 
 - **Leon Battista Alberti (1404–1472)**: writer, architect and theorist, author of *On the Family* and *On Painting*.
 - **Marsilio Ficino (1433–1499)**: translator of Plato and Plotinus, and leading figure of Florentine Platonism.
 - **Giovanni Pico della Mirandola (1463–1494)**: author of the *Oration on the Dignity of Man* (1486).
-- **Desiderius Erasmus (1466–1536)**: the *Adagia*, the *Praise of Folly* (1511), and the first printed Greek New Testament, the *Novum Instrumentum* (1516).
+- **Desiderius Erasmus (1466–1536)**: the *Adagia*, the *Praise of Folly* (1511), and the first published printed Greek New Testament, the *Novum Instrumentum* (1516).
 - **Thomas More (1478–1535)**: *Utopia* (1516).
 - **Johann Reuchlin (1455–1522)**: author of *De rudimentis Hebraicis* (1506), an early Hebrew grammar and lexicon.
 - **Michel de Montaigne (1533–1592)**: the *Essais* (first edition 1580), the master of the sceptical essay.

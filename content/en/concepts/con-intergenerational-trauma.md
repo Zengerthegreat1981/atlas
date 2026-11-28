@@ -12,7 +12,7 @@ active_start: 1966
 active_end: "مستمر"
 language: "English"
 edges:
-- rel: "belongs_to", target: "Trauma and PTSD Studies", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-trauma-ptsd-studies", target_type: "مدرسة"
 related:
 - id: "sch-trauma-ptsd-studies", title: "Trauma and PTSD Studies", type: "مدرسة"
 gaps: []

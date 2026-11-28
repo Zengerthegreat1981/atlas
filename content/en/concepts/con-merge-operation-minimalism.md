@@ -10,7 +10,7 @@ title: "Merge"
 en: "Merge"
 crumb: "Linguistics ← Concepts ← Merge"
 edges:
-- rel: "belongs_to", target: "The Minimalist Program", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-minimalist-program", target_type: "مدرسة"
 related:
 - id: "sch-minimalist-program", title: "The Minimalist Program", type: "مدرسة"
 - id: "con-fln-flb-narrow-broad-faculty", title: "The Faculty of Language in the Narrow and Broad Senses (FLN/FLB)", type: "مفهوم"

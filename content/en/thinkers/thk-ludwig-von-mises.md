@@ -14,7 +14,7 @@ economic_school: "Austrian school"
 active_start: 1912
 active_end: 1973
 edges:
-- rel: "belongs_to", target: "Austrian School of Economics", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-austrian-school-of-economics", target_type: "مدرسة"
 related:
 - id: "sch-austrian-school-of-economics", title: "Austrian School of Economics", type: "مدرسة"
 - id: "con-economic-calculation-problem", title: "Economic Calculation Problem", type: "مفهوم"

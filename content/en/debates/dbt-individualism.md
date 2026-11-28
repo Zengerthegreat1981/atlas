@@ -9,7 +9,7 @@ title: "The Individualism Critique"
 en: "Individualism critique"
 crumb: "Existential School ← Debates ← The Individualism Critique"
 edges:
-  - rel: "occurs_within", target: "Existentialist School", target_type: "مدرسة"
+  - rel: "occurs_within", target: "sch-existentialism", target_type: "مدرسة"
 related:
   - id: "thk-beauvoir", title: "Simone de Beauvoir", type: "مفكرة"
   - id: "br-british", title: "British Existential-Phenomenological", type: "تيار"

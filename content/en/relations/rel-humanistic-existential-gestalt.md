@@ -11,7 +11,7 @@ active_start: 1947
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "Humanistic Psychology", target_type: "مدرسة"
-- rel: "relates_to", target: "Gestalt Therapy", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-gestalt-therapy", target_type: "مدرسة"
 related:
 - id: "br-humanistic", title: "American Humanistic-Existential Current", type: "تيار"
 - id: "br-daseins", title: "Existential Analysis and Dasein", type: "تيار"

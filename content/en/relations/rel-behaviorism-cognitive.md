@@ -10,8 +10,8 @@ active_start: 1956
 active_end: "مستمر"
 part: bridges
 edges:
-  - rel: "belongs_to", target: "Behaviorism", target_type: "مدرسة"
-  - rel: "relates_to", target: "Cognitive-Behavioral Therapy and Non-Western Frameworks: Importing Buddhist Mindfulness", target_type: "علاقة بين مدرستين"
+  - rel: "belongs_to", target: "sch-behaviorism", target_type: "مدرسة"
+  - rel: "relates_to", target: "rel-cbt-nonwestern", target_type: "علاقة بين مدرستين"
 related:
   - id: "br-radical-behaviorism", title: "Radical Behaviorism and Applied Behavior Analysis (ABA)", type: "تيار"
   - id: "br-social-learning-theory", title: "Social Cognitive Learning Theory", type: "تيار"

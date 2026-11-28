@@ -9,7 +9,7 @@ en: "Hunting Practices"
 crumb: "Anthropology ← Subsistence and Economy ← Hunting Practices"
 dates: ""
 edges:
-  - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
+  - rel: "belongs_to", target: "fld-anthropology", target_type: "مجال"
 related:
   []
 gaps:

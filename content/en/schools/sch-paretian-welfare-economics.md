@@ -15,7 +15,7 @@ policy_orientation: "Evaluation of public policies by the criterion of efficienc
 active_start: 1906
 active_end: "مستمر"
 edges:
-- rel: "evolved_from", target: "Marginal Revolution", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-marginal-revolution", target_type: "مدرسة"
 related:
 - id: "sch-marginal-revolution", title: "Marginal Revolution", type: "مدرسة"
 - id: "thk-pareto", title: "Vilfredo Pareto", type: "مفكر"

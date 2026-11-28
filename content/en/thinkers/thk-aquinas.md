@@ -4,6 +4,7 @@ id: "THK-0704"
 type: "مفكر"
 part: philosophy
 level: "متقدم"
+quality: "unverified"
 title: "Thomas Aquinas"
 en: "Thomas Aquinas"
 crumb: "Philosophy ← Thinkers ← Thomas Aquinas"
@@ -13,7 +14,7 @@ active_end: 1274
 country: "The Papal States, the Kingdom of Sicily, Capetian France"
 language: "Latin"
 edges:
-- rel: "belongs_to", target: "Thomism", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-thomism", target_type: "مدرسة"
 related:
 - id: "sch-thomism", title: "Thomism", type: "مدرسة"
 - id: "sch-augustinianism", title: "Augustinianism", type: "مدرسة"

@@ -15,7 +15,7 @@ cultural_origin: "western"
 active_start: 1979
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Medical Anthropology", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-medical-anthropology", target_type: "مدرسة"
 related:
 - id: "thk-paul-farmer", title: "Paul Farmer", type: "مفكر"
 - id: "thk-nancy-scheper-hughes", title: "Nancy Scheper-Hughes", type: "مفكر"
